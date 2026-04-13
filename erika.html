@@ -1,0 +1,735 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Start Page</title>
+
+<link rel="icon" href="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Firefox_logo%2C_2019.svg/960px-Firefox_logo%2C_2019.svg.png">
+
+<style>
+:root{
+  --bg:#f6f3ff;
+  --card:#ebe6ff;
+  --card-hover:#ddd6ff;
+  --text:#2f2a3a;
+  --muted:#7a7391;
+}
+body{
+  font-family:-apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,Arial;
+  margin:0;
+  background:var(--bg);
+  color:var(--text);
+}
+header{
+  display:flex;
+  justify-content:space-between;
+  align-items:center;
+  padding:18px 28px;
+}
+#logo img{width:42px;}
+.section-title{
+  width:85%;
+  margin:30px auto 10px;
+  text-align:left;
+  font-size:18px;
+  color:var(--muted);
+}
+.sites{
+  display:flex;
+  justify-content:center;
+  gap:18px;
+  margin-bottom:40px;
+  flex-wrap:wrap;
+}
+.site{
+  background:var(--card);
+  padding:16px 22px;
+  border-radius:14px;
+  cursor:pointer;
+  transition:background .2s;
+  display:flex;
+  align-items:center;
+  gap:10px;
+}
+.site:hover{background:var(--card-hover);}
+.site img{
+  width:24px;
+  height:24px;
+  border-radius:4px;
+  object-fit:contain;
+}
+.news{
+  width:85%;
+  margin:auto;
+  display:grid;
+  grid-template-columns:repeat(auto-fill,minmax(280px,1fr));
+  gap:20px;
+}
+.card{
+  background:var(--card);
+  border-radius:16px;
+  overflow:hidden;
+  cursor:pointer;
+  position:relative;
+  transition:background .2s;
+}
+.card:hover{background:var(--card-hover);}
+.card img{
+  width:100%;
+  height:160px;
+  object-fit:cover;
+}
+.card-content{padding:12px;}
+.source{
+  font-size:12px;
+  color:var(--muted);
+  margin-bottom:6px;
+  display:flex;
+  align-items:center;
+  gap:6px;
+}
+.source img{
+  width:16px;
+  height:16px;
+  border-radius:3px;
+}
+.timeago{
+  position:absolute;
+  top:8px;
+  right:10px;
+  font-size:11px;
+  background:rgba(0,0,0,.4);
+  color: #ffffff;
+  padding:3px 6px;
+  border-radius:8px;
+}
+.weatherInfoLink{
+  display:flex;
+  align-items:center;
+  gap:10px;
+  text-decoration:none;
+  color:var(--text);
+}
+.weatherIcon{width:32px;}
+.loading{
+  text-align:center;
+  padding:40px;
+  color:var(--muted);
+}
+
+/* ---------- SPARKLE BORDER & CURSOR EFFECT ---------- */
+.card{
+  position:relative; /* ensure pseudo-element is positioned to card */
+}
+
+/* decorative animated border (uses border-image for broad browser support) */
+.card::after{
+  /* disabled rotating decorative border */
+  display: none !important;
+}
+
+@keyframes borderSpin{
+  0%{ transform: rotate(0deg); }
+  100%{ transform: rotate(360deg); }
+}
+
+/* Cursor-following sparkle (uses the provided GIF) */
+#cursor-sparkle{
+  position: fixed;
+  width: 84px;
+  height: 84px;
+  pointer-events: none;
+  background-image: url('https://media1.giphy.com/media/v1.Y2lkPTZjMDliOTUyM3YyZDUwNW5teG5zNmN2cjZ3emE1Y3Mxb2t6ODlrY2NrOGtkMHJ4aSZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/VdzZK4TyCQSAk3o8iZ/200.gif');
+  background-size: contain;
+  background-repeat: no-repeat;
+  transform: translate(-50%,-50%);
+  opacity: 0.95;
+  transition: opacity .12s linear, transform .08s linear;
+  z-index: 9999;
+  mix-blend-mode: screen;
+  filter: drop-shadow(0 6px 10px rgba(80,30,120,0.25));
+}
+
+/* full-card sparkle overlay when hovered */
+.card::before{
+  content:"";
+  position:absolute;
+  inset:0;
+  pointer-events:none;
+  z-index:3;
+  background-image: url('https://media1.giphy.com/media/v1.Y2lkPTZjMDliOTUyM3YyZDUwNW5teG5zNmN2cjZ3emE1Y3Mxb2t6ODlrY2NrOGtkMHJ4aSZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/VdzZK4TyCQSAk3o8iZ/200.gif');
+  background-repeat: repeat;
+  background-size: 84px 84px;
+  opacity:0;
+  mix-blend-mode: screen;
+  transition: opacity .18s ease, transform .25s ease;
+}
+
+.card:hover::before{ opacity:0.9; transform:scale(1); }
+
+/* Background sparkle layer (particles are added here) */
+#sparkle-bg{ position:fixed; inset:0; pointer-events:none; z-index:0; overflow:hidden; }
+
+.bg-sparkle{
+  position:absolute;
+  transform:translate(-50%,-50%) scale(1);
+  border-radius:50%;
+  pointer-events:none;
+  background: radial-gradient(circle at 30% 30%, rgba(255,255,255,0.95), rgba(220,170,255,0.9) 18%, rgba(170,110,255,0.6) 36%, rgba(120,60,220,0.18) 60%, transparent 100%);
+  mix-blend-mode: screen;
+  opacity:1;
+  animation: bgSparkle 900ms ease-out forwards;
+}
+
+@keyframes bgSparkle{
+  to { transform: translate(-50%,-50%) translateY(-18px) scale(0.6); opacity:0; }
+}
+
+/* ---------- DESMOS SIDEBAR ---------- */
+#desmosSidebar{
+  position:fixed;
+  top:0;
+  right:-420px;
+  width:420px;
+  height:100vh;
+  background:var(--bg);
+  box-shadow:-4px 0 12px rgba(0,0,0,.4);
+  transition:right .35s ease-in-out;
+  z-index:1000;
+  display:flex;
+  flex-direction:column;
+}
+body.desmos-open #desmosSidebar{right:0;}
+
+/* wrapper that holds everything on the left side */
+.mainWrapper{
+  /* transition is always present – the class only adds the margin */
+  transition:margin-right .35s ease-in-out;
+  will-change:margin-right;
+  position:relative; /* keep content above the background sparkle layer */
+  z-index:2;
+}
+body.desmos-open .mainWrapper{margin-right:420px;}
+
+/* header inside the sidebar – close‑icon + toggle */
+.desmosHeader{
+  display:flex;
+  align-items:center;
+  justify-content:space-between;
+  padding:12px;
+}
+#desmosClose{
+  font-size:1.5rem;
+  cursor:pointer;
+  color:var(--muted);
+}
+
+/* toggle switch */
+.toggleContainer{
+  display:flex;
+  align-items:center;
+  gap:8px;
+  color:var(--text);
+}
+.toggleContainer input[type="checkbox"]{
+  appearance:none;
+  width:40px;
+  height:20px;
+  background:var(--card);
+  border-radius:10px;
+  position:relative;
+  cursor:pointer;
+  outline:none;
+}
+.toggleContainer input[type="checkbox"]::after{
+  content:"";
+  width:18px;
+  height:18px;
+  background:var(--text);
+  border-radius:50%;
+  position:absolute;
+  top:1px;
+  left:1px;
+  transition:left .2s;
+}
+.toggleContainer input[type="checkbox"]:checked::after{left:21px;}
+.toggleContainer input[type="checkbox"]:checked{background:var(--card-hover);}
+
+/* iframe that shows Desmos */
+#desmosFrame{
+  flex:1;
+  border:none;
+}
+</style>
+</head>
+
+<body>
+
+<div class="mainWrapper">
+  <header>
+    <div id="logo"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Firefox_logo%2C_2019.svg/960px-Firefox_logo%2C_2019.svg.png"></div>
+    <div id="weather">
+      <a href="https://www.accuweather.com/en/us/blacksburg-va/24060/daily-weather-forecast/331254" class="weatherInfoLink">
+        <img id="weatherIcon" class="weatherIcon" src="">
+        <div>
+          <div class="weatherTemperature">--°F</div>
+          <div>Blacksburg</div>
+        </div>
+      </a>
+    </div>
+  </header>
+
+  <div class="sites" id="sites"></div>
+
+  <div class="section-title">For You</div>
+  <div class="news" id="spaceNews"><div class="loading">Loading...</div></div>
+
+  <div class="section-title">New York Times</div>
+  <div class="news" id="nytNews"><div class="loading">Loading...</div></div>
+</div>
+
+<!-- ---------- DESMOS SIDEBAR ---------- -->
+<div id="desmosSidebar">
+  <div class="desmosHeader">
+    <div id="desmosClose">✕</div>
+    <div class="toggleContainer">
+      <label for="modeSwitch">Graph</label>
+      <input type="checkbox" id="modeSwitch" checked>
+      <label for="modeSwitch">Sci</label>
+    </div>
+  </div>
+  <iframe id="desmosFrame"
+          src="https://www.desmos.com/calculator"
+          title="Desmos Graphing Calculator"></iframe>
+</div>
+
+<script>
+// ==================== SITE LINKS ====================
+
+const SITES = [
+  { name:"Canvas", url:"https://canvas.vt.edu/", img:"https://www.nicepng.com/png/full/788-7887218_canvas-lms-has-selected-badgr-as-its-native.png" },
+  { name:"HokieSPA", url:"https://hokiespa.vt.edu/", img:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ8LrCGpehZ9ga1kHGwL7quOAMGAyigDWEjPw&s" },
+  { name:"GitLab", url:"https://code.vt.edu/space_at_vt", img:"https://images.icon-icons.com/2699/PNG/512/gitlab_logo_icon_169112.png" },
+  { name:"LinkedIn", url:"https://www.linkedin.com/feed/", img:"https://static.licdn.com/sc/h/al2o9zrvru7aqj8e1x2rzsrca" }
+];
+
+SITES.forEach(s => {
+  const d = document.createElement("div");
+  d.className = "site";
+  d.innerHTML = `<img src="${s.img}" onerror="this.style.display='none'">${s.name}`;
+  d.onclick = () => location.href = s.url;
+  document.getElementById("sites").appendChild(d);
+});
+
+// ==================== DESMOS BUTTON ====================
+
+function addDesmosButton() {
+  const linkedInTile = Array.from(document.querySelectorAll('.site'))
+                            .find(d => d.textContent.includes('LinkedIn'));
+  if (!linkedInTile) return;
+
+  const desmosTile = document.createElement('div');
+  desmosTile.className = 'site';
+  desmosTile.id = 'desmosBtn';
+  desmosTile.innerHTML = `
+    <img src="https://www.desmos.com/api/learnosity/images/desmos_logo.png"
+         alt="Desmos" onerror="this.style.display='none'">
+    Desmos
+  `;
+  desmosTile.onclick = () => document.body.classList.toggle('desmos-open');
+  linkedInTile.insertAdjacentElement('afterend', desmosTile);
+}
+addDesmosButton();
+
+document.getElementById('desmosClose')
+        .addEventListener('click', () => document.body.classList.remove('desmos-open'));
+
+const modeSwitch = document.getElementById('modeSwitch');
+const desmosFrame = document.getElementById('desmosFrame');
+
+function updateDesmosSrc(){
+  const url = modeSwitch.checked
+        ? 'https://www.desmos.com/scientific'
+        : 'https://www.desmos.com/calculator';
+  desmosFrame.src = url;
+}
+modeSwitch.addEventListener('change', updateDesmosSrc);
+updateDesmosSrc();   // initialise
+
+// ==================== WEATHER ====================
+
+navigator.geolocation.getCurrentPosition(async pos => {
+  const {latitude, longitude} = pos.coords;
+  try {
+    const res = await fetch(`https://api.open-meteo.com/v1/forecast?latitude=${latitude}&longitude=${longitude}&current_weather=true&temperature_unit=fahrenheit`);
+    const data = await res.json();
+
+    document.querySelector('.weatherTemperature').innerText = Math.round(data.current_weather.temperature) + "°F";
+
+    const iconMap = {
+      0:"https://cdn-icons-png.flaticon.com/512/869/869869.png",
+      1:"https://cdn-icons-png.flaticon.com/512/869/869869.png",
+      2:"https://cdn-icons-png.flaticon.com/512/1163/1163661.png",
+      3:"https://cdn-icons-png.flaticon.com/512/414/414825.png",
+      61:"https://cdn-icons-png.flaticon.com/512/1163/1163657.png",
+      63:"https://cdn-icons-png.flaticon.com/512/1163/1163657.png",
+      65:"https://cdn-icons-png.flaticon.com/512/1163/1163657.png"
+    };
+    document.getElementById("weatherIcon").src = iconMap[data.current_weather.weathercode] || iconMap[0];
+  } catch(e){ console.log("Weather error:", e); }
+}, () => { console.log("Location access denied"); });
+
+
+// ============================================
+// LOGOS
+// ============================================
+
+const LOGOS = {
+  "NASA": "https://upload.wikimedia.org/wikipedia/commons/e/e5/NASA_logo.svg",
+  "SpaceNews": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSMzPmQzCRnRprKIys6SXBz9VacKbsmxO-neA&s",
+  "NYT": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRsb8mTZwu3wBVZPMRGS0ue1b4twc9Rrn1OxA&s"
+};
+
+// ============================================
+// RSS PARSER WITH MULTIPLE PROXY FALLBACKS
+// ============================================
+
+const PROXIES = [
+  url => `https://api.allorigins.win/raw?url=${encodeURIComponent(url)}`,
+  url => `https://corsproxy.io/?${encodeURIComponent(url)}`
+];
+
+async function parseRSS(url, cacheMinutes = 30) {
+  const cacheKey = `rsscache:${url}`;
+
+  // Try reading from cache first
+  try {
+    const cached = localStorage.getItem(cacheKey);
+    if (cached) {
+      const obj = JSON.parse(cached);
+      if (obj && Array.isArray(obj.items) && (Date.now() - obj.ts) < cacheMinutes * 60 * 1000) {
+        return obj.items.map(i => ({ ...i, pubDate: new Date(i.pubDate) }));
+      }
+    }
+  } catch (e) {
+    console.log('Cache read error:', e);
+  }
+
+  let lastError = null;
+  
+  // Try each proxy in order
+  for (const proxyFn of PROXIES) {
+    const proxyUrl = proxyFn(url);
+    
+    try {
+      console.log(`Trying proxy: ${proxyUrl.substring(0, 60)}...`);
+      
+      const res = await fetch(proxyUrl);
+      
+      if (!res.ok) {
+        console.log(`  Proxy returned status ${res.status}`);
+        continue;
+      }
+      
+      const text = await res.text();
+      
+      if (text.length < 50) {
+        console.log(`  Response too short (${text.length} chars)`);
+        continue;
+      }
+      
+      const parser = new DOMParser();
+      const xml = parser.parseFromString(text, "text/xml");
+      
+      // Check for parse errors
+      const error = xml.querySelector("parsererror");
+      if (error) {
+        console.log(`  XML parse error`);
+        continue;
+      }
+      
+      // Get items (RSS format)
+      let items = xml.querySelectorAll("item");
+      
+      // If no items, try Atom format
+      if (items.length === 0) {
+        items = xml.querySelectorAll("entry");
+      }
+      
+      console.log(`  ✅ Success! Found ${items.length} items`);
+      
+      const parsed = Array.from(items).map(item => {
+        // Get title
+        const title = item.querySelector("title")?.textContent?.trim() || "No Title";
+        
+        // Get link (RSS vs Atom)
+        let link = "";
+        const rssLink = item.querySelector("link");
+        if (rssLink) {
+          link = rssLink.textContent?.trim() || rssLink.getAttribute("href") || "";
+        }
+        // Try Atom link format
+        if (!link) {
+          const atomLink = item.querySelector("link[href]");
+          link = atomLink?.getAttribute("href") || "";
+        }
+        
+        // Get date
+        let pubDate = new Date();
+        const dateEl = item.querySelector("pubDate, published, updated");
+        if (dateEl) {
+          const parsedDate = new Date(dateEl.textContent);
+          if (!isNaN(parsedDate.getTime())) {
+            pubDate = parsedDate;
+          }
+        }
+        
+        // Get image
+        let image = null;
+        
+        // Try media:content
+        const mediaContent = item.querySelector("media\\:content, content");
+        if (mediaContent) {
+          image = mediaContent.getAttribute("url");
+        }
+        
+        // Try enclosure
+        if (!image) {
+          const enclosure = item.querySelector("enclosure");
+          if (enclosure && enclosure.getAttribute("type")?.startsWith("image")) {
+            image = enclosure.getAttribute("url");
+          }
+        }
+        
+        // Try media:thumbnail
+        if (!image) {
+          const mediaThumbnail = item.querySelector("media\\:thumbnail, thumbnail");
+          if (mediaThumbnail) {
+            image = mediaThumbnail.getAttribute("url");
+          }
+        }
+        
+        // Try to extract from description HTML
+        if (!image) {
+          const desc = item.querySelector("description, summary, content")?.textContent || "";
+          const imgMatch = desc.match(/<img[^>]+src=\"([^\"]+)\"/);
+          if (imgMatch) {
+            image = imgMatch[1];
+          }
+        }
+        
+        return {
+          title,
+          link,
+          pubDate,
+          image
+        };
+      });
+
+      // Store parsed result in cache (serialize dates)
+      try {
+        const store = parsed.map(a => ({ ...a, pubDate: a.pubDate.toISOString() }));
+        localStorage.setItem(cacheKey, JSON.stringify({ ts: Date.now(), items: store }));
+      } catch (e) {
+        console.log('Cache write error:', e);
+      }
+
+      return parsed;
+      
+    } catch (e) {
+      console.log(`  ❌ Error: ${e.message}`);
+      lastError = e;
+    }
+  }
+  
+  console.error(`All proxies failed for ${url}:`, lastError);
+  return [];
+}
+
+// ============================================
+// TIME AGO
+// ============================================
+
+function timeAgo(date) {
+  if (!(date instanceof Date) || isNaN(date.getTime())) {
+    return "Recently";
+  }
+  
+  const diff = (new Date() - date) / 1000;
+  
+  if (diff < 60) return "Just now";
+  if (diff < 3600) return Math.floor(diff / 60) + "m ago";
+  if (diff < 86400) return Math.floor(diff / 3600) + "h ago";
+  if (diff < 604800) return Math.floor(diff / 86400) + "d ago";
+  return Math.floor(diff / 604800) + "w ago";
+}
+
+// ============================================
+// FETCH FEEDS
+// ============================================
+
+async function fetchFeeds(feeds, containerId, windowHours = 24, limit = 4, cacheMinutes = 30) {
+  console.log(`\n📡 Fetching feeds for ${containerId}...`);
+  
+  let allArticles = [];
+  
+  for (const feed of feeds) {
+    for (const url of feed.urls) {
+      const articles = await parseRSS(url, cacheMinutes);
+      console.log(`  ${feed.name}: Found ${articles.length} articles`);
+      
+      const withSource = articles.map(a => ({ ...a, source: feed.name }));
+      allArticles.push(...withSource);
+    }
+  }
+  
+  // Filter by age
+  const now = new Date();
+  const filteredArticles = allArticles.filter(a => {
+    const ageMs = now - a.pubDate;
+    const ageHours = ageMs / (1000 * 60 * 60);
+    return ageHours < windowHours && ageHours >= 0;
+  });
+  
+  console.log(`  Total: ${filteredArticles.length} articles (within ${windowHours}h), showing ${limit}`);
+  
+  // Sort by date (newest first)
+  filteredArticles.sort((a, b) => b.pubDate - a.pubDate);
+  
+  // Apply limit
+  const limitedArticles = filteredArticles.slice(0, limit);
+  
+  renderArticles(limitedArticles, containerId);
+}
+
+// ============================================
+// RENDER ARTICLES
+// ============================================
+
+// Placeholder: JWST image with "No Image" overlay (uses external JWST/NASA image)
+const PLACEHOLDER_IMG = `data:image/svg+xml;utf8,${encodeURIComponent(
+  `<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 200">
+     <defs></defs>
+     <image href="https://www.nasa.gov/sites/default/files/thumbnails/image/potw2139a.jpg" x="0" y="0" width="400" height="200" preserveAspectRatio="xMidYMid slice" />
+     <rect width="100%" height="100%" fill="rgba(58,57,68,0.36)" />
+     <text x="50%" y="50%" fill="#b0b3c0" font-family="sans-serif" font-size="18" dominant-baseline="middle" text-anchor="middle">No Image</text>
+   </svg>`
+)};`;
+
+function renderArticles(articles, containerId) {
+  const container = document.getElementById(containerId);
+  
+  if (articles.length === 0) {
+    container.innerHTML = "<div class='loading'>No recent articles found</div>";
+    return;
+  }
+  
+  container.innerHTML = "";
+  
+  articles.forEach(article => {
+    const card = document.createElement("div");
+    card.className = "card";
+    card.onclick = () => window.open(article.link, "_blank");
+    
+    const imgSrc = article.image || PLACEHOLDER_IMG;
+    const logoSrc = LOGOS[article.source] || "";
+    
+    card.innerHTML = `
+      <div class="timeago">${timeAgo(article.pubDate)}</div>
+      <img src="${imgSrc}" 
+           onerror="this.src='${PLACEHOLDER_IMG}'"
+           alt="${article.title}">
+      <div class="card-content">
+        <div class="source">
+          <img src="${logoSrc}" 
+               onerror="this.style.display='none'"
+               alt="${article.source}">
+          ${article.source}
+        </div>
+        <div>${article.title}</div>
+      </div>
+    `;
+    
+    container.appendChild(card);
+  });
+}
+
+// ============================================
+// LOAD ALL FEEDS
+// ============================================
+
+// ---------- Cursor-following sparkle behaviour ----------
+(function(){
+  const sparkle = document.createElement('div');
+  sparkle.id = 'cursor-sparkle';
+  document.body.appendChild(sparkle);
+
+  // Always follow the cursor across the page
+  document.addEventListener('mousemove', e => {
+    sparkle.style.left = e.clientX + 'px';
+    sparkle.style.top = e.clientY + 'px';
+    // keep centered
+    sparkle.style.transform = 'translate(-50%,-50%) scale(1)';
+  });
+
+  // When hovering a card, show the overlay via CSS (:hover ::before).
+  // No additional JS snapping required — the overlay covers the whole card.
+})();
+
+// ---------- Background sparkle particle system ----------
+(function(){
+  const container = document.createElement('div');
+  container.id = 'sparkle-bg';
+  document.body.appendChild(container);
+
+  let last = 0;
+  const maxParticles = 160;
+
+  function spawn(x,y){
+    if (!container) return;
+    if (container.children.length > maxParticles) return;
+    const el = document.createElement('div');
+    el.className = 'bg-sparkle';
+    el.style.left = x + 'px';
+    el.style.top = y + 'px';
+    const size = 6 + Math.random() * 18;
+    el.style.width = size + 'px';
+    el.style.height = size + 'px';
+    const delay = Math.random() * 120;
+    el.style.animationDelay = delay + 'ms';
+    el.style.opacity = '1';
+    container.appendChild(el);
+    el.addEventListener('animationend', () => el.remove(), { once: true });
+  }
+
+  document.addEventListener('mousemove', e => {
+    const now = performance.now();
+    if (now - last < 30) return; // throttle
+    last = now;
+    spawn(e.clientX, e.clientY);
+  }, { passive: true });
+
+  document.addEventListener('touchmove', e => {
+    const t = e.touches && e.touches[0];
+    if (t) spawn(t.clientX, t.clientY);
+  }, { passive: true });
+})();
+
+// Space News
+fetchFeeds([
+  { name: "NASA", urls: ["https://www.nasa.gov/rss/dyn/breaking_news.rss"] },
+  { name: "SpaceNews", urls: ["https://spacenews.com/feed/"] },
+  { name: "New Scientist", urls: ["https://www.newscientist.com/subject/space/feed/"] },
+  { name: "Spaceflight Now", urls: ["https://spaceflightnow.com/feed/"] },
+  { name: "Payload", urls: ["https://payloadspace.com/feed/"] }
+], "spaceNews", 24, 4, 30);
+
+// NYT News
+fetchFeeds([
+  { name: "NYT", urls: ["https://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml"] }
+], "nytNews", 24, 4, 30);
+</script>
+  
+</body>
+</html>
