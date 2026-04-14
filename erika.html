@@ -261,6 +261,11 @@ body.desmos-open .mainWrapper{margin-right:420px;}
   flex:1;
   border:none;
 }
+
+/* Mobile: hide the top site shortcut tiles to save space */
+@media (max-width: 640px) {
+  .sites { display: none; }
+}
 </style>
 </head>
 
@@ -310,8 +315,8 @@ body.desmos-open .mainWrapper{margin-right:420px;}
 const SITES = [
   { name:"Canvas", url:"https://canvas.vt.edu/", img:"https://www.nicepng.com/png/full/788-7887218_canvas-lms-has-selected-badgr-as-its-native.png" },
   { name:"HokieSPA", url:"https://hokiespa.vt.edu/", img:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ8LrCGpehZ9ga1kHGwL7quOAMGAyigDWEjPw&s" },
-  { name:"GitLab", url:"https://code.vt.edu/space_at_vt", img:"https://images.icon-icons.com/2699/PNG/512/gitlab_logo_icon_169112.png" },
-  { name:"LinkedIn", url:"https://www.linkedin.com/feed/", img:"https://static.licdn.com/sc/h/al2o9zrvru7aqj8e1x2rzsrca" }
+  { name:"Fidelity", url:"https://digital.fidelity.com/prgw/digital/signin/retail", img:"https://vectorseek.com/wp-content/uploads/2023/11/Fidelity-Investments-Icon-Logo-Vector.svg-.png" },
+  { name:"Google Drive", url:"https://drive.google.com/drive/u/2/folders/1iLxfDHqfh-DZaWsOMBlsAMThZ_5c0_-J", img:"https://upload.wikimedia.org/wikipedia/commons/d/da/Google_Drive_logo.png" }
 ];
 
 SITES.forEach(s => {
@@ -325,9 +330,18 @@ SITES.forEach(s => {
 // ==================== DESMOS BUTTON ====================
 
 function addDesmosButton() {
-  const linkedInTile = Array.from(document.querySelectorAll('.site'))
-                            .find(d => d.textContent.includes('LinkedIn'));
-  if (!linkedInTile) return;
+  // Try to find the LinkedIn tile; fallback to Google Drive tile or last site element
+  let anchorTile = Array.from(document.querySelectorAll('.site'))
+                      .find(d => d.textContent.includes('LinkedIn'));
+  if (!anchorTile) {
+    anchorTile = Array.from(document.querySelectorAll('.site'))
+                  .find(d => d.textContent.includes('Google Drive'));
+  }
+  if (!anchorTile) {
+    const sitesContainer = document.getElementById('sites');
+    anchorTile = sitesContainer && sitesContainer.lastElementChild;
+  }
+  if (!anchorTile) return;
 
   const desmosTile = document.createElement('div');
   desmosTile.className = 'site';
@@ -338,7 +352,7 @@ function addDesmosButton() {
     Desmos
   `;
   desmosTile.onclick = () => document.body.classList.toggle('desmos-open');
-  linkedInTile.insertAdjacentElement('afterend', desmosTile);
+  anchorTile.insertAdjacentElement('afterend', desmosTile);
 }
 addDesmosButton();
 
