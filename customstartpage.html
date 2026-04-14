@@ -312,44 +312,22 @@ navigator.geolocation.getCurrentPosition(async pos => {
     // Use the same proxy pattern as RSS to avoid CORS issues; fall back to lat/lon on failure.
     try {
       const geourl = `https://geocoding-api.open-meteo.com/v1/reverse?latitude=${latitude}&longitude=${longitude}&language=en`;
-
-      // Prefer proxy (to avoid CORS), but fall back to direct open-meteo and then Nominatim
-      let geoData = null;
-      try {
-        const proxyUrl = PROXIES[0](geourl);
-        const geoRes = await fetch(proxyUrl);
-        if (geoRes.ok) geoData = await geoRes.json();
-      } catch (_) { /* proxy failed */ }
-
-      if (!geoData) {
-        try {
-          const direct = await fetch(geourl);
-          if (direct.ok) geoData = await direct.json();
-        } catch (_) { /* direct open-meteo failed */ }
+      const proxyUrl = PROXIES[0](geourl);
+      const geoRes = await fetch(proxyUrl);
+      if (geoRes.ok) {
+        const geoData = await geoRes.json();
+        const place = (geoData && (geoData.name || geoData.locality || geoData.region || geoData.country)) || '';
+        const placeLabel = place || `${latitude.toFixed(2)}, ${longitude.toFixed(2)}`;
+        const weatherAnchor = document.querySelector('#weather a');
+        weatherAnchor.href = `https://www.accuweather.com/en/search-locations?query=${encodeURIComponent(placeLabel)}`;
+        const placeNode = weatherAnchor.querySelector('div > div:last-child');
+        if (placeNode) placeNode.innerText = placeLabel;
+      } else {
+        throw new Error('Reverse geocode proxy returned non-OK');
       }
-
-      // If still no useful name, try Nominatim reverse geocode as a second fallback
-      if (!geoData || !(geoData.name || geoData.locality || geoData.region || geoData.country)) {
-        try {
-          const nomUrl = `https://nominatim.openstreetmap.org/reverse?format=jsonv2&lat=${latitude}&lon=${longitude}`;
-          const nomRes = await fetch(nomUrl, { headers: { 'Accept-Language': 'en' } });
-          if (nomRes.ok) {
-            const nomJson = await nomRes.json();
-            const addr = nomJson.address || {};
-            const display = addr.town || addr.village || addr.city || addr.county || nomJson.display_name;
-            if (display) geoData = { ...(geoData || {}), name: display };
-          }
-        } catch (_) { /* nominatim failed */ }
-      }
-
-      const place = (geoData && (geoData.name || geoData.locality || geoData.region || geoData.country)) || '';
-      const placeLabel = place || `${latitude.toFixed(2)}, ${longitude.toFixed(2)}`;
-      const weatherAnchor = document.querySelector('#weather a');
-      weatherAnchor.href = `https://www.accuweather.com/en/search-locations?query=${encodeURIComponent(placeLabel)}`;
-      const placeNode = weatherAnchor.querySelector('div > div:last-child');
-      if (placeNode) placeNode.innerText = placeLabel;
     } catch (e) {
       console.log('Reverse geocode failed:', e);
+      // Fallback: show coordinates instead of leaving the hardcoded city
       const weatherAnchor = document.querySelector('#weather a');
       const placeNode = weatherAnchor.querySelector('div > div:last-child');
       if (placeNode) placeNode.innerText = `${latitude.toFixed(2)}, ${longitude.toFixed(2)}`;
@@ -532,7 +510,7 @@ function timeAgo(date) {
 // FETCH FEEDS
 // ============================================
 
-async function fetchFeeds(feeds, containerId, windowHours = 24, limit = 8, cacheMinutes = 30) {
+async function fetchFeeds(feeds, containerId, windowHours = 24, limit = 4, cacheMinutes = 30) {
   console.log(`\n📡 Fetching feeds for ${containerId}...`);
   
   // We'll populate quickly from cache, then update when fresh data arrives.
@@ -633,7 +611,7 @@ function renderArticles(articles, containerId) {
       if (json.spaceNews && json.spaceNews.length) {
         const sArticles = json.spaceNews.map(a => ({ ...a, pubDate: new Date(a.pubDate) }));
         // show latest 4 within window — reuse existing renderer behavior
-        renderArticles(sArticles.slice(0, 8), 'spaceNews');
+        renderArticles(sArticles.slice(0, 4), 'spaceNews');
       } else {
         fetchFeeds([
           { name: "NASA", urls: ["https://www.nasa.gov/rss/dyn/breaking_news.rss"] },
@@ -641,16 +619,16 @@ function renderArticles(articles, containerId) {
           { name: "New Scientist", urls: ["https://www.newscientist.com/subject/space/feed/"] },
           { name: "Spaceflight Now", urls: ["https://spaceflightnow.com/feed/"] },
           { name: "Payload", urls: ["https://payloadspace.com/feed/"] }
-        ], 'spaceNews', 24, 8, 30);
+        ], 'spaceNews', 24, 4, 30);
       }
 
       if (json.nytNews && json.nytNews.length) {
         const nArticles = json.nytNews.map(a => ({ ...a, pubDate: new Date(a.pubDate) }));
-        renderArticles(nArticles.slice(0, 8), 'nytNews');
+        renderArticles(nArticles.slice(0, 4), 'nytNews');
       } else {
         fetchFeeds([
           { name: "NYT", urls: ["https://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml"] }
-        ], 'nytNews', 24, 8, 30);
+        ], 'nytNews', 24, 4, 30);
       }
 
       return;
@@ -666,11 +644,11 @@ function renderArticles(articles, containerId) {
     { name: "New Scientist", urls: ["https://www.newscientist.com/subject/space/feed/"] },
     { name: "Spaceflight Now", urls: ["https://spaceflightnow.com/feed/"] },
     { name: "Payload", urls: ["https://payloadspace.com/feed/"] }
-  ], 'spaceNews', 24, 8, 30);
+  ], 'spaceNews', 24, 4, 30);
 
   fetchFeeds([
     { name: "NYT", urls: ["https://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml"] }
-  ], 'nytNews', 24, 8, 30);
+  ], 'nytNews', 24, 4, 30);
 })();
 </script>
   

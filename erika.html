@@ -362,6 +362,7 @@ updateDesmosSrc();   // initialise
 navigator.geolocation.getCurrentPosition(async pos => {
   const {latitude, longitude} = pos.coords;
   try {
+    // Fetch current weather
     const res = await fetch(`https://api.open-meteo.com/v1/forecast?latitude=${latitude}&longitude=${longitude}&current_weather=true&temperature_unit=fahrenheit`);
     const data = await res.json();
 
@@ -377,6 +378,54 @@ navigator.geolocation.getCurrentPosition(async pos => {
       65:"https://cdn-icons-png.flaticon.com/512/1163/1163657.png"
     };
     document.getElementById("weatherIcon").src = iconMap[data.current_weather.weathercode] || iconMap[0];
+
+    // Reverse geocode to get a human-readable place name, then update the AccuWeather link.
+    // Use the same proxy pattern as RSS to avoid CORS issues; fall back to lat/lon on failure.
+    try {
+      const geourl = `https://geocoding-api.open-meteo.com/v1/reverse?latitude=${latitude}&longitude=${longitude}&language=en`;
+
+      // Prefer proxy (to avoid CORS), but fall back to direct open-meteo and then Nominatim
+      let geoData = null;
+      try {
+        const proxyUrl = PROXIES[0](geourl);
+        const geoRes = await fetch(proxyUrl);
+        if (geoRes.ok) geoData = await geoRes.json();
+      } catch (_) { /* proxy failed */ }
+
+      if (!geoData) {
+        try {
+          const direct = await fetch(geourl);
+          if (direct.ok) geoData = await direct.json();
+        } catch (_) { /* direct open-meteo failed */ }
+      }
+
+      // If still no useful name, try Nominatim reverse geocode as a second fallback
+      if (!geoData || !(geoData.name || geoData.locality || geoData.region || geoData.country)) {
+        try {
+          const nomUrl = `https://nominatim.openstreetmap.org/reverse?format=jsonv2&lat=${latitude}&lon=${longitude}`;
+          const nomRes = await fetch(nomUrl, { headers: { 'Accept-Language': 'en' } });
+          if (nomRes.ok) {
+            const nomJson = await nomRes.json();
+            const addr = nomJson.address || {};
+            const display = addr.town || addr.village || addr.city || addr.county || nomJson.display_name;
+            if (display) geoData = { ...(geoData || {}), name: display };
+          }
+        } catch (_) { /* nominatim failed */ }
+      }
+
+      const place = (geoData && (geoData.name || geoData.locality || geoData.region || geoData.country)) || '';
+      const placeLabel = place || `${latitude.toFixed(2)}, ${longitude.toFixed(2)}`;
+      const weatherAnchor = document.querySelector('#weather a');
+      weatherAnchor.href = `https://www.accuweather.com/en/search-locations?query=${encodeURIComponent(placeLabel)}`;
+      const placeNode = weatherAnchor.querySelector('div > div:last-child');
+      if (placeNode) placeNode.innerText = placeLabel;
+    } catch (e) {
+      console.log('Reverse geocode failed:', e);
+      const weatherAnchor = document.querySelector('#weather a');
+      const placeNode = weatherAnchor.querySelector('div > div:last-child');
+      if (placeNode) placeNode.innerText = `${latitude.toFixed(2)}, ${longitude.toFixed(2)}`;
+    }
+
   } catch(e){ console.log("Weather error:", e); }
 }, () => { console.log("Location access denied"); });
 
@@ -400,151 +449,136 @@ const PROXIES = [
   url => `https://corsproxy.io/?${encodeURIComponent(url)}`
 ];
 
-async function parseRSS(url, cacheMinutes = 30) {
+async function parseRSS(url, cacheMinutes = 30, useCacheFirst = true, onFresh = null) {
   const cacheKey = `rsscache:${url}`;
 
-  // Try reading from cache first
+  // Try reading from cache first — return cached immediately (fast UX)
   try {
     const cached = localStorage.getItem(cacheKey);
     if (cached) {
       const obj = JSON.parse(cached);
       if (obj && Array.isArray(obj.items) && (Date.now() - obj.ts) < cacheMinutes * 60 * 1000) {
-        return obj.items.map(i => ({ ...i, pubDate: new Date(i.pubDate) }));
+        const parsedCached = obj.items.map(i => ({ ...i, pubDate: new Date(i.pubDate) }));
+        if (useCacheFirst) {
+          // Kick off a background refresh but don't block the caller
+          (async () => {
+            try {
+              const fresh = await fetchAndCache(url, cacheKey);
+              if (typeof onFresh === 'function') {
+                try { onFresh(fresh); } catch(e){ console.log('onFresh handler error', e); }
+              }
+            } catch(e){ /* ignore */ }
+          })();
+          return parsedCached;
+        } else {
+          return parsedCached;
+        }
       }
     }
   } catch (e) {
     console.log('Cache read error:', e);
   }
 
-  let lastError = null;
-  
-  // Try each proxy in order
-  for (const proxyFn of PROXIES) {
-    const proxyUrl = proxyFn(url);
-    
+  // No valid cache — fetch now
+  try {
+    const parsed = await fetchAndCache(url, cacheKey);
+    if (typeof onFresh === 'function') {
+      try { onFresh(parsed); } catch(e){ console.log('onFresh handler error', e); }
+    }
+    return parsed;
+  } catch (e) {
+    console.error(`All proxies failed for ${url}:`, e);
+    return [];
+  }
+}
+
+// Helper: fetch using multiple proxies in parallel with timeouts, parse and cache
+async function fetchAndCache(url, cacheKey) {
+  // Timeout helper
+  const fetchWithTimeout = (resource, ms = 8000) => {
+    const controller = new AbortController();
+    const id = setTimeout(() => controller.abort(), ms);
+    return fetch(resource, { signal: controller.signal }).finally(() => clearTimeout(id));
+  };
+
+  // Try all proxies in parallel and take the first valid one
+  const attempts = PROXIES.map(fn => (async () => {
+    const proxyUrl = fn(url);
     try {
-      console.log(`Trying proxy: ${proxyUrl.substring(0, 60)}...`);
-      
-      const res = await fetch(proxyUrl);
-      
-      if (!res.ok) {
-        console.log(`  Proxy returned status ${res.status}`);
-        continue;
-      }
-      
+      const res = await fetchWithTimeout(proxyUrl, 8000);
+      if (!res.ok) throw new Error(`Status ${res.status}`);
       const text = await res.text();
-      
-      if (text.length < 50) {
-        console.log(`  Response too short (${text.length} chars)`);
-        continue;
-      }
-      
+      if (!text || text.length < 50) throw new Error('Response too short');
       const parser = new DOMParser();
       const xml = parser.parseFromString(text, "text/xml");
-      
-      // Check for parse errors
-      const error = xml.querySelector("parsererror");
-      if (error) {
-        console.log(`  XML parse error`);
-        continue;
-      }
-      
-      // Get items (RSS format)
-      let items = xml.querySelectorAll("item");
-      
-      // If no items, try Atom format
-      if (items.length === 0) {
-        items = xml.querySelectorAll("entry");
-      }
-      
-      console.log(`  ✅ Success! Found ${items.length} items`);
-      
-      const parsed = Array.from(items).map(item => {
-        // Get title
-        const title = item.querySelector("title")?.textContent?.trim() || "No Title";
-        
-        // Get link (RSS vs Atom)
-        let link = "";
-        const rssLink = item.querySelector("link");
-        if (rssLink) {
-          link = rssLink.textContent?.trim() || rssLink.getAttribute("href") || "";
-        }
-        // Try Atom link format
-        if (!link) {
-          const atomLink = item.querySelector("link[href]");
-          link = atomLink?.getAttribute("href") || "";
-        }
-        
-        // Get date
-        let pubDate = new Date();
-        const dateEl = item.querySelector("pubDate, published, updated");
-        if (dateEl) {
-          const parsedDate = new Date(dateEl.textContent);
-          if (!isNaN(parsedDate.getTime())) {
-            pubDate = parsedDate;
-          }
-        }
-        
-        // Get image
-        let image = null;
-        
-        // Try media:content
-        const mediaContent = item.querySelector("media\\:content, content");
-        if (mediaContent) {
-          image = mediaContent.getAttribute("url");
-        }
-        
-        // Try enclosure
-        if (!image) {
-          const enclosure = item.querySelector("enclosure");
-          if (enclosure && enclosure.getAttribute("type")?.startsWith("image")) {
-            image = enclosure.getAttribute("url");
-          }
-        }
-        
-        // Try media:thumbnail
-        if (!image) {
-          const mediaThumbnail = item.querySelector("media\\:thumbnail, thumbnail");
-          if (mediaThumbnail) {
-            image = mediaThumbnail.getAttribute("url");
-          }
-        }
-        
-        // Try to extract from description HTML
-        if (!image) {
-          const desc = item.querySelector("description, summary, content")?.textContent || "";
-          const imgMatch = desc.match(/<img[^>]+src=\"([^\"]+)\"/);
-          if (imgMatch) {
-            image = imgMatch[1];
-          }
-        }
-        
-        return {
-          title,
-          link,
-          pubDate,
-          image
-        };
-      });
-
-      // Store parsed result in cache (serialize dates)
-      try {
-        const store = parsed.map(a => ({ ...a, pubDate: a.pubDate.toISOString() }));
-        localStorage.setItem(cacheKey, JSON.stringify({ ts: Date.now(), items: store }));
-      } catch (e) {
-        console.log('Cache write error:', e);
-      }
-
-      return parsed;
-      
+      if (xml.querySelector('parsererror')) throw new Error('XML parse error');
+      return xml;
     } catch (e) {
-      console.log(`  ❌ Error: ${e.message}`);
-      lastError = e;
+      throw e;
     }
+  })());
+
+  let xml = null;
+  try {
+    // Promise.any returns first fulfilled, or throws AggregateError
+    xml = await Promise.any(attempts);
+  } catch (aggErr) {
+    throw aggErr;
   }
-  
-  console.error(`All proxies failed for ${url}:`, lastError);
-  return [];
+
+  // Extract items (support RSS and Atom)
+  let items = xml.querySelectorAll("item");
+  if (items.length === 0) items = xml.querySelectorAll("entry");
+
+  const parsed = Array.from(items).map(item => {
+    const title = item.querySelector("title")?.textContent?.trim() || "No Title";
+
+    let link = "";
+    const rssLink = item.querySelector("link");
+    if (rssLink) {
+      link = rssLink.textContent?.trim() || rssLink.getAttribute("href") || "";
+    }
+    if (!link) {
+      const atomLink = item.querySelector("link[href]");
+      link = atomLink?.getAttribute("href") || "";
+    }
+
+    let pubDate = new Date();
+    const dateEl = item.querySelector("pubDate, published, updated");
+    if (dateEl) {
+      const parsedDate = new Date(dateEl.textContent);
+      if (!isNaN(parsedDate.getTime())) pubDate = parsedDate;
+    }
+
+    let image = null;
+    const mediaContent = item.querySelector("media\\:content, content");
+    if (mediaContent) image = mediaContent.getAttribute("url");
+    if (!image) {
+      const enclosure = item.querySelector("enclosure");
+      if (enclosure && enclosure.getAttribute("type")?.startsWith("image")) image = enclosure.getAttribute("url");
+    }
+    if (!image) {
+      const mediaThumbnail = item.querySelector("media\\:thumbnail, thumbnail");
+      if (mediaThumbnail) image = mediaThumbnail.getAttribute("url");
+    }
+    if (!image) {
+      const desc = item.querySelector("description, summary, content")?.textContent || "";
+      const imgMatch = desc.match(/<img[^>]+src=\"([^\"]+)\"/);
+      if (imgMatch) image = imgMatch[1];
+    }
+
+    return { title, link, pubDate, image };
+  });
+
+  // Cache serialized dates
+  try {
+    const store = parsed.map(a => ({ ...a, pubDate: a.pubDate.toISOString() }));
+    localStorage.setItem(cacheKey, JSON.stringify({ ts: Date.now(), items: store }));
+  } catch (e) {
+    console.log('Cache write error:', e);
+  }
+
+  return parsed;
 }
 
 // ============================================
@@ -569,46 +603,54 @@ function timeAgo(date) {
 // FETCH FEEDS
 // ============================================
 
-async function fetchFeeds(feeds, containerId, windowHours = 24, limit = 4, cacheMinutes = 30) {
+async function fetchFeeds(feeds, containerId, windowHours = 24, limit = 8, cacheMinutes = 30) {
   console.log(`\n📡 Fetching feeds for ${containerId}...`);
   
+  // We'll populate quickly from cache, then update when fresh data arrives.
   let allArticles = [];
-  
+
+  const recomputeAndRender = () => {
+    const now = new Date();
+    const filteredArticles = allArticles.filter(a => {
+      const ageMs = now - a.pubDate;
+      const ageHours = ageMs / (1000 * 60 * 60);
+      return ageHours < windowHours && ageHours >= 0;
+    });
+    filteredArticles.sort((a, b) => b.pubDate - a.pubDate);
+    const limitedArticles = filteredArticles.slice(0, limit);
+    console.log(`  Total: ${filteredArticles.length} articles (within ${windowHours}h), showing ${limitedArticles.length}`);
+    renderArticles(limitedArticles, containerId);
+  };
+
   for (const feed of feeds) {
     for (const url of feed.urls) {
-      const articles = await parseRSS(url, cacheMinutes);
-      console.log(`  ${feed.name}: Found ${articles.length} articles`);
-      
-      const withSource = articles.map(a => ({ ...a, source: feed.name }));
+      // onFresh will replace articles coming from this url and re-render
+      const onFresh = (freshItems) => {
+        // tag fresh items with source and origin
+        const tagged = freshItems.map(a => ({ ...a, source: feed.name, origin: url }));
+        // remove old items from this origin
+        allArticles = allArticles.filter(x => x.origin !== url);
+        // add fresh items
+        allArticles.push(...tagged);
+        recomputeAndRender();
+      };
+
+      const articles = await parseRSS(url, cacheMinutes, true, onFresh);
+      console.log(`  ${feed.name}: Found ${articles.length} articles (cache)`);
+      const withSource = articles.map(a => ({ ...a, source: feed.name, origin: url }));
       allArticles.push(...withSource);
     }
   }
-  
-  // Filter by age
-  const now = new Date();
-  const filteredArticles = allArticles.filter(a => {
-    const ageMs = now - a.pubDate;
-    const ageHours = ageMs / (1000 * 60 * 60);
-    return ageHours < windowHours && ageHours >= 0;
-  });
-  
-  console.log(`  Total: ${filteredArticles.length} articles (within ${windowHours}h), showing ${limit}`);
-  
-  // Sort by date (newest first)
-  filteredArticles.sort((a, b) => b.pubDate - a.pubDate);
-  
-  // Apply limit
-  const limitedArticles = filteredArticles.slice(0, limit);
-  
-  renderArticles(limitedArticles, containerId);
+
+  // initial render using cached data (if any)
+  recomputeAndRender();
 }
 
 // ============================================
 // RENDER ARTICLES
 // ============================================
 
-// Simple reliable SVG placeholder with centered "No Image" text
-const PLACEHOLDER_IMG = "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 200'%3E%3Crect fill='%233a3944' width='400' height='200'/%3E%3Ctext x='50%25' y='50%25' dominant-baseline='middle' text-anchor='middle' fill='%23b0b3c0' font-family='sans-serif' font-size='18'%3ENo Image%3C/text%3E%3C/svg%3E";
+const PLACEHOLDER_IMG = "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 200'%3E%3Crect fill='%233a3944' width='400' height='200'/%3E%3Ctext x='50%25' y='50%25' dominant-baseline='middle' text-anchor='middle' fill='%23b0b3c0' font-family='sans-serif' font-size='16'%3ENo Image%3C/text%3E%3C/svg%3E";
 
 function renderArticles(articles, containerId) {
   const container = document.getElementById(containerId);
@@ -648,10 +690,6 @@ function renderArticles(articles, containerId) {
   });
 }
 
-// ============================================
-// LOAD ALL FEEDS
-// ============================================
-
 // ---------- Cursor-following sparkle behaviour ----------
 (function(){
   const sparkle = document.createElement('div');
@@ -666,8 +704,14 @@ function renderArticles(articles, containerId) {
     sparkle.style.transform = 'translate(-50%,-50%) scale(1)';
   });
 
-  // When hovering a card, show the overlay via CSS (:hover ::before).
-  // No additional JS snapping required — the overlay covers the whole card.
+  // On touch devices keep it hidden unless moved
+  document.addEventListener('touchstart', e => {
+    const t = e.touches && e.touches[0];
+    if (t) {
+      sparkle.style.left = t.clientX + 'px';
+      sparkle.style.top = t.clientY + 'px';
+    }
+  }, { passive: true });
 })();
 
 // ---------- Background sparkle particle system ----------
@@ -709,19 +753,58 @@ function renderArticles(articles, containerId) {
   }, { passive: true });
 })();
 
-// Space News
-fetchFeeds([
-  { name: "NASA", urls: ["https://www.nasa.gov/rss/dyn/breaking_news.rss"] },
-  { name: "SpaceNews", urls: ["https://spacenews.com/feed/"] },
-  { name: "New Scientist", urls: ["https://www.newscientist.com/subject/space/feed/"] },
-  { name: "Spaceflight Now", urls: ["https://spaceflightnow.com/feed/"] },
-  { name: "Payload", urls: ["https://payloadspace.com/feed/"] }
-], "spaceNews", 24, 4, 30);
+// ============================================
+// LOAD ALL FEEDS — try prebuilt JSON (from GitHub Actions) first, fall back to runtime fetch
+// ============================================
 
-// NYT News
-fetchFeeds([
-  { name: "NYT", urls: ["https://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml"] }
-], "nytNews", 24, 4, 30);
+(async function loadOrFetch() {
+  try {
+    const res = await fetch('/data/feeds.json', { cache: 'no-cache' });
+    if (res.ok) {
+      const json = await res.json();
+
+      if (json.spaceNews && json.spaceNews.length) {
+        const sArticles = json.spaceNews.map(a => ({ ...a, pubDate: new Date(a.pubDate) }));
+        // show latest 4 within window — reuse existing renderer behavior
+        renderArticles(sArticles.slice(0, 8), 'spaceNews');
+      } else {
+        fetchFeeds([
+          { name: "NASA", urls: ["https://www.nasa.gov/rss/dyn/breaking_news.rss"] },
+          { name: "SpaceNews", urls: ["https://spacenews.com/feed/"] },
+          { name: "New Scientist", urls: ["https://www.newscientist.com/subject/space/feed/"] },
+          { name: "Spaceflight Now", urls: ["https://spaceflightnow.com/feed/"] },
+          { name: "Payload", urls: ["https://payloadspace.com/feed/"] }
+        ], 'spaceNews', 24, 8, 30);
+      }
+
+      if (json.nytNews && json.nytNews.length) {
+        const nArticles = json.nytNews.map(a => ({ ...a, pubDate: new Date(a.pubDate) }));
+        renderArticles(nArticles.slice(0, 8), 'nytNews');
+      } else {
+        fetchFeeds([
+          { name: "NYT", urls: ["https://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml"] }
+        ], 'nytNews', 24, 8, 30);
+      }
+
+      return;
+    }
+  } catch (e) {
+    console.log('Prefetched feeds not available, falling back to runtime fetch', e);
+  }
+
+  // Fallback to runtime fetching (may hit CORS on deployed GitHub Pages)
+  fetchFeeds([
+    { name: "NASA", urls: ["https://www.nasa.gov/rss/dyn/breaking_news.rss"] },
+    { name: "SpaceNews", urls: ["https://spacenews.com/feed/"] },
+    { name: "New Scientist", urls: ["https://www.newscientist.com/subject/space/feed/"] },
+    { name: "Spaceflight Now", urls: ["https://spaceflightnow.com/feed/"] },
+    { name: "Payload", urls: ["https://payloadspace.com/feed/"] }
+  ], 'spaceNews', 24, 8, 30);
+
+  fetchFeeds([
+    { name: "NYT", urls: ["https://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml"] }
+  ], 'nytNews', 24, 8, 30);
+})();
 </script>
   
 </body>

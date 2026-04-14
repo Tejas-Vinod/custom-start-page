@@ -1,0 +1,37 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+<!DOCTYPE html>
+<html lang="en-US" dir="ltr"><head>
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+    <meta http-equiv="Content-Security-Policy" content="default-src chrome:; object-src 'none'">
+    <meta charset="utf-8">
+    <meta name="color-scheme" content="light dark">
+    <link rel="stylesheet" media="screen, projection" type="text/css" href="Advanced%20Preferences_files/common.css">
+    <link rel="stylesheet" media="screen, projection" type="text/css" href="Advanced%20Preferences_files/info-pages.css" title="infop">
+    <link rel="stylesheet" type="text/css" href="Advanced%20Preferences_files/aboutconfig.css">
+    <link rel="localization" href="branding/brand.ftl">
+    <link rel="localization" href="toolkit/about/config.ftl">
+    <link rel="icon" href="chrome://global/skin/icons/settings.svg">
+    <script src="Advanced%20Preferences_files/aboutconfig.js"></script>
+    <title data-l10n-id="about-config-page-title">Advanced Preferences</title>
+  </head>
+  <body class="table-shown">
+      <div id="toolbar">
+        <!-- Use a unique ID to prevent showing autocomplete results from other
+             browser pages with similarly named fields. -->
+        <input type="text" id="about-config-search" data-l10n-id="about-config-search-input1" placeholder="Search preference name" value="ChromeUtils.importESModule(&quot;resource:///modules/AboutNewTab.sys.mjs&quot;).AboutNewTab.newTabURL = &quot;file:///C:/Users/NJUSER1/Documents/customstartpage.html&quot;;">
+        <label class="checkbox-container">
+          <input type="checkbox" id="about-config-show-only-modified">
+          <span data-l10n-id="about-config-show-only-modified">Show only modified preferences</span>
+        </label>
+      </div>
+
+      <table id="prefs"><tr class="hidden"><th scope="row"><span>ChromeUtils.<wbr>importESModule("resource:///modules/AboutNewTab.<wbr>sys.<wbr>mjs").<wbr>AboutNewTab.<wbr>newTabURL</span></th><td class="cell-value"><span data-l10n-args="{&quot;value&quot;:&quot;true&quot;}" data-l10n-id="about-config-pref-accessible-value-custom" aria-label="true (custom)"><span aria-hidden="true">true</span></span></td><td class="cell-edit"><button data-l10n-id="about-config-pref-toggle-button" class="button-toggle semi-transparent" title="Toggle"></button></td><td class="cell-reset"><button data-l10n-id="about-config-pref-delete-button" class="button-delete ghost-button semi-transparent" title="Delete"></button></td></tr><tr class="add "><th scope="row"><span>ChromeUtils.<wbr>importESModule("resource:///modules/AboutNewTab.<wbr>sys.<wbr>mjs").<wbr>AboutNewTab.<wbr>newTabURL = "file:///C:/Users/NJUSER1/Documents/customstartpage.<wbr>html";</span></th><td class="cell-value"><form id="form-edit"><label><input type="radio" name="type" value="Boolean" checked="checked"><span data-l10n-id="about-config-pref-add-type-boolean">Boolean</span></label><label><input type="radio" name="type" value="Number"><span data-l10n-id="about-config-pref-add-type-number">Number</span></label><label><input type="radio" name="type" value="String"><span data-l10n-id="about-config-pref-add-type-string">String</span></label></form></td><td class="cell-edit"><button data-l10n-id="about-config-pref-add-button" class="button-add semi-transparent" form="form-edit" title="Add"></button></td><td class="cell-reset"></td></tr></table>
+
+      <div class="config-background-wrapper">
+        <button id="show-all" class="ghost-button" data-l10n-id="about-config-show-all">Show All</button>
+        <div class="config-background"></div>
+        <p class="config-help-text" data-l10n-id="about-config-caution-text">Changing these preferences can impact Firefox performance or security.</p>
+      </div>
+    </body></html>
