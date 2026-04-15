@@ -371,7 +371,9 @@ navigator.geolocation.getCurrentPosition(async pos => {
 const LOGOS = {
   "NASA": "https://upload.wikimedia.org/wikipedia/commons/e/e5/NASA_logo.svg",
   "SpaceNews": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSMzPmQzCRnRprKIys6SXBz9VacKbsmxO-neA&s",
-  "NYT": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRsb8mTZwu3wBVZPMRGS0ue1b4twc9Rrn1OxA&s"
+  "NYT": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRsb8mTZwu3wBVZPMRGS0ue1b4twc9Rrn1OxA&s",
+  "Spaceflight Now": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSdCl913Iwq8iEQ1IopeQUHxDxnNRH3J-cyRw&s",
+  "Payload": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQL35EoffshsTucTzi6P5_BTbafxR0EXkwYVQ&s"
 };
 
 // ============================================
@@ -551,8 +553,21 @@ async function fetchFeeds(feeds, containerId, windowHours = 24, limit = 8, cache
       return ageHours < windowHours && ageHours >= 0;
     });
     filteredArticles.sort((a, b) => b.pubDate - a.pubDate);
-    const limitedArticles = filteredArticles.slice(0, limit);
-    console.log(`  Total: ${filteredArticles.length} articles (within ${windowHours}h), showing ${limitedArticles.length}`);
+
+    // Deduplicate by link (or title fallback) to avoid cached/refresh race duplicates
+    const seen = new Set();
+    const unique = [];
+    for (const art of filteredArticles) {
+      const key = (art.link || art.title || '').trim();
+      if (!key) continue;
+      if (!seen.has(key)) {
+        seen.add(key);
+        unique.push(art);
+      }
+    }
+
+    const limitedArticles = unique.slice(0, limit);
+    console.log(`  Total: ${unique.length} articles (deduped, within ${windowHours}h), showing ${limitedArticles.length}`);
     renderArticles(limitedArticles, containerId);
   };
 
