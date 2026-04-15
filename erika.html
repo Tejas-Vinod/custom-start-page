@@ -62,25 +62,49 @@ header{
 .news{
   width:85%;
   margin:auto;
-  display:grid;
-  grid-template-columns:repeat(auto-fill,minmax(280px,1fr));
+  display:flex;
   gap:20px;
 }
+.news-column{ display:flex; flex-direction:column; gap:20px; flex:1 1 0; }
 .card{
   background:var(--card);
   border-radius:16px;
   overflow:hidden;
   cursor:pointer;
   position:relative;
-  transition:background .2s;
+  transition:background .2s, box-shadow .18s ease;
+  display:flex;
+  flex-direction:column;
+  min-height:260px; /* uniform base height */
 }
-.card:hover{background:var(--card-hover);}
-.card img{
+.card:hover{background:var(--card-hover); box-shadow: 0 8px 20px rgba(0,0,0,0.12);} 
+.card img.hero{
   width:100%;
   height:160px;
   object-fit:cover;
+  flex:0 0 160px; /* keep image area consistent */
 }
-.card-content{padding:12px;}
+
+/* Excerpt shown below title inside the card */
+.card .excerpt{
+  color:var(--muted);
+  padding:0 12px 0 12px;
+  font-size:13px;
+  line-height:1.35;
+  max-height:0;
+  overflow:hidden;
+  opacity:0;
+  transition: max-height .32s ease, opacity .18s ease, padding .18s ease;
+}
+.card:hover .excerpt{
+  padding:8px 12px 14px 12px;
+  /* large max-height so the excerpt can expand to fit content; transition animates from 0 to content height */
+  max-height:1000px;
+  opacity:1;
+}
+.card-content{padding:12px; flex:1 1 auto; display:flex; flex-direction:column; min-height:100px;}
+.card-content .title{ max-height:3.6em; line-height:1.2; overflow:hidden; transition:max-height .28s ease; display:-webkit-box; -webkit-line-clamp:3; line-clamp:3; -webkit-box-orient:vertical; }
+.card:hover .card-content .title{ max-height:1000px; }
 .source{
   font-size:12px;
   color:var(--muted);
@@ -568,7 +592,7 @@ async function fetchAndCache(url, cacheKey) {
 
     let image = null;
     const mediaContent = item.querySelector("media\\:content, content");
-    if (mediaContent) image = mediaContent.getAttribute("url");
+    if (mediaContent) image = mediaContent.getAttribute("url") || mediaContent.getAttribute("src");
     if (!image) {
       const enclosure = item.querySelector("enclosure");
       if (enclosure && enclosure.getAttribute("type")?.startsWith("image")) image = enclosure.getAttribute("url");
@@ -578,12 +602,34 @@ async function fetchAndCache(url, cacheKey) {
       if (mediaThumbnail) image = mediaThumbnail.getAttribute("url");
     }
     if (!image) {
-      const desc = item.querySelector("description, summary, content")?.textContent || "";
-      const imgMatch = desc.match(/<img[^>]+src=\"([^\"]+)\"/);
+      // look inside content:encoded / description / summary / content for an <img>
+      const contentEl = item.querySelector("content\\:encoded, description, summary, content");
+      const desc = contentEl ? (contentEl.textContent || contentEl.innerHTML || "") : "";
+      const imgMatch = desc.match(/<img[^>]+src=(?:\"|')([^\"']+)(?:\"|')/i);
       if (imgMatch) image = imgMatch[1];
     }
 
-    return { title, link, pubDate, image };
+    // Final fallback: serialize the whole <item> to a string and search for an <img>
+    if (!image) {
+      try {
+        const serialized = new XMLSerializer().serializeToString(item);
+        const imgMatch2 = serialized.match(/<img[^>]+src=(?:\"|')([^\"']+)(?:\"|')/i);
+        if (imgMatch2) {
+          image = imgMatch2[1];
+          console.log('RSS image found via serialized item:', image);
+        }
+      } catch (e) { /* ignore serialization errors */ }
+    }
+
+    // extract description/content text (safe plain-text) for preview
+    let rawHtml = item.querySelector("content\\:encoded, description, summary, content")?.textContent || "";
+    if (!rawHtml) rawHtml = item.querySelector("description")?.textContent || "";
+    const tmp = document.createElement('div');
+    tmp.innerHTML = rawHtml || '';
+    const cleanText = (tmp.textContent || tmp.innerText || '').trim().replace(/\s+/g, ' ');
+    const excerpt = cleanText.length > 320 ? cleanText.slice(0, 317) + '...' : cleanText;
+
+    return { title, link, pubDate, image, description: cleanText, excerpt };
   });
 
   // Cache serialized dates
@@ -683,27 +729,44 @@ const PLACEHOLDER_IMG = "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000
 
 function renderArticles(articles, containerId) {
   const container = document.getElementById(containerId);
-  
+
   if (articles.length === 0) {
     container.innerHTML = "<div class='loading'>No recent articles found</div>";
     return;
   }
-  
+
   container.innerHTML = "";
-  
-  articles.forEach(article => {
+
+  // cache last render for responsive redraws
+  window._lastRenders = window._lastRenders || {};
+  window._lastRenders[containerId] = articles;
+
+  // Determine columns (approx based on min card width similar to CSS minmax 280px)
+  const minCard = 300;
+  const cols = Math.max(1, Math.floor(container.clientWidth / minCard));
+
+  // Create column wrappers
+  const columns = [];
+  for (let c = 0; c < cols; c++) {
+    const col = document.createElement('div');
+    col.className = 'news-column';
+    container.appendChild(col);
+    columns.push(col);
+  }
+
+  articles.forEach((article, idx) => {
     const card = document.createElement("div");
     card.className = "card";
     card.onclick = () => window.open(article.link, "_blank");
-    
+
     const imgSrc = article.image || PLACEHOLDER_IMG;
     const logoSrc = LOGOS[article.source] || "";
-    
+
     card.innerHTML = `
       <div class="timeago">${timeAgo(article.pubDate)}</div>
-      <img src="${imgSrc}" 
-           onerror="this.src='${PLACEHOLDER_IMG}'"
-           alt="${article.title}">
+       <img class="hero" src="${imgSrc}" 
+         onerror="this.src='${PLACEHOLDER_IMG}'"
+         alt="${article.title}">
       <div class="card-content">
         <div class="source">
           <img src="${logoSrc}" 
@@ -711,13 +774,36 @@ function renderArticles(articles, containerId) {
                alt="${article.source}">
           ${article.source}
         </div>
-        <div>${article.title}</div>
+        <div class="title">${article.title}</div>
       </div>
     `;
-    
-    container.appendChild(card);
+
+    // add a safe text-only excerpt under the title
+    const contentEl = card.querySelector('.card-content') || card;
+    const excerptEl = document.createElement('div');
+    excerptEl.className = 'excerpt';
+    excerptEl.textContent = article.excerpt || article.description || '';
+    contentEl.appendChild(excerptEl);
+
+    // distribute in row-major order: i -> column (i % cols)
+    const target = columns[idx % columns.length] || container;
+    target.appendChild(card);
   });
 }
+
+// redraw on resize (debounced)
+(() => {
+  let t = null;
+  window.addEventListener('resize', () => {
+    if (t) clearTimeout(t);
+    t = setTimeout(() => {
+      if (!window._lastRenders) return;
+      Object.keys(window._lastRenders).forEach(id => {
+        try { renderArticles(window._lastRenders[id], id); } catch (e) { /* ignore */ }
+      });
+    }, 180);
+  });
+})();
 
 // ---------- Cursor-following sparkle behaviour ----------
 (function(){
