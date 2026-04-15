@@ -81,6 +81,19 @@ header{
   letter-spacing: 0.4px;
   text-align: center;
 }
+.timer{
+  font-family: ui-monospace, SFMono-Regular, Menlo, Consolas, monospace;
+  font-variant-numeric: tabular-nums;
+}
+
+.divider{
+  margin: 0 6px;
+  opacity: 0.6;
+}
+
+.desc{
+  font-weight: 600;
+}
 .card{
   background:var(--card);
   border-radius:16px;
@@ -489,15 +502,39 @@ function update() {
   const mins = Math.floor(diff / 60);
   const secs = diff % 60;
 
-  const left =
-    `${String(days).padStart(2,'0')}D:` +
-    `${String(hours).padStart(2,'0')}H:` +
-    `${String(mins).padStart(2,'0')}M:` +
-    `${String(secs).padStart(2,'0')}S`;
+  let left = "";
+
+  if (days > 0) {
+    left =
+      `${String(days).padStart(2,'0')}D:` +
+      `${String(hours).padStart(2,'0')}H:` +
+      `${String(mins).padStart(2,'0')}M:` +
+      `${String(secs).padStart(2,'0')}S`;
+
+  } else if (hours > 0) {
+    left =
+      `${String(hours).padStart(2,'0')}H:` +
+      `${String(mins).padStart(2,'0')}M:` +
+      `${String(secs).padStart(2,'0')}S`;
+
+  } else if (mins > 0) {
+    left =
+      `${String(mins).padStart(2,'0')}M:` +
+      `${String(secs).padStart(2,'0')}S`;
+
+  } else {
+    left =
+      `${String(secs).padStart(2,'0')}S`;
+  }
 
   const desc = `${provider} will launch ${mission}${place ? ` from ${place}` : ''}`;
 
-  el.textContent = `Next Launch: ${left} | ${desc}`;
+  el.innerHTML = `
+    <span class="label">Next Launch:</span>
+    <span class="timer">${left}</span>
+    <span class="divider">|</span>
+    <span class="desc">${desc}</span>
+  `;
 }
 
   update();
