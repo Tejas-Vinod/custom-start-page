@@ -466,6 +466,33 @@ async function fetchNextLaunchFromAPI() {
   }
 }
 
+function shortenName(text) {
+  if (!text) return "";
+
+  const replacements = {
+    "China Aerospace Science and Technology Corporation": "CASC",
+    "People's Republic of China": "China",
+
+    "Russian Federal Space Agency (ROSCOSMOS)": "Roscosmos",
+    "Russian Federation": "Russia",
+    "Republic of Kazakhstan": "Kazakhstan",
+
+    "United Launch Alliance": "ULA",
+    "Agency for Defense Development": "South Korea ADA",
+    "European Space Agency": "ESA",
+
+    "Northrop Grumman Space Systems": "Northrop Grumman",
+  };
+
+  let result = text;
+
+  for (const long in replacements) {
+    result = result.replaceAll(long, replacements[long]);
+  }
+
+  return result;
+}
+
 function toTitleCase(s) {
   return String(s).toLowerCase().replace(/(^|[\s:|-])([a-z])/g, (m,p,c)=>p + c.toUpperCase());
 }
@@ -473,13 +500,19 @@ function toTitleCase(s) {
 function startLaunchCountdown(launch) {
   const el = document.getElementById('nextLaunch');
   if (!launch || !el) return;
-
-  const provider = launch.launch_service_provider?.name || '';
-  const mission = launch.mission?.name || launch.name || '';
-  const padName = launch.pad?.name || '';
-  const locationName = launch.pad?.location?.name || '';
+  const provider = shortenName(launch.launch_service_provider?.name || '');
+  const padName = shortenName(launch.pad?.name || '');
+  const locationName = shortenName(launch.pad?.location?.name || '');
 
   const place = [padName, locationName].filter(Boolean).join(', ');
+
+  let missionRaw = launch.mission?.name || launch.name || '';
+  let mission = shortenName(missionRaw);
+
+  // Remove "Unknown Payload"
+  if (mission.toLowerCase().includes("unknown payload")) {
+    mission = ""; 
+  }
 
 function update() {
   const now = new Date();
@@ -559,7 +592,7 @@ function update() {
 async function parseRSS(url, cacheMinutes = 30, useCacheFirst = true, onFresh = null) {
   const cacheKey = `rsscache:${url}`;
 
-  // Try reading from cache first — return cached immediately (fast UX)
+  // Try reading from cache first — return cached immediately
   try {
     const cached = localStorage.getItem(cacheKey);
     if (cached) {
@@ -567,7 +600,7 @@ async function parseRSS(url, cacheMinutes = 30, useCacheFirst = true, onFresh = 
       if (obj && Array.isArray(obj.items) && (Date.now() - obj.ts) < cacheMinutes * 60 * 1000) {
         const parsedCached = obj.items.map(i => ({ ...i, pubDate: new Date(i.pubDate) }));
         if (useCacheFirst) {
-          // Kick off a background refresh but don't block the caller
+          // Background refresh but don't block  caller
           (async () => {
             try {
               const fresh = await fetchAndCache(url, cacheKey);
@@ -586,7 +619,7 @@ async function parseRSS(url, cacheMinutes = 30, useCacheFirst = true, onFresh = 
     console.log('Cache read error:', e);
   }
 
-  // No valid cache — fetch now
+  // No valid cache, fetch now
   try {
     const parsed = await fetchAndCache(url, cacheKey);
     if (typeof onFresh === 'function') {
