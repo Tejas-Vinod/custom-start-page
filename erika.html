@@ -341,8 +341,11 @@ body.desmos-open .mainWrapper{margin-right:420px;}
 
   <div class="sites" id="sites"></div>
 
-  <div class="section-title">For You</div>
+  <div class="section-title">Space News</div>
   <div class="news" id="spaceNews"><div class="loading">Loading...</div></div>
+
+  <div class="section-title">Bee Keeping</div>
+  <div class="news" id="beeNews"><div class="loading">Loading...</div></div>
 
   <div class="section-title">New York Times</div>
   <div class="news" id="nytNews"><div class="loading">Loading...</div></div>
@@ -507,7 +510,11 @@ const LOGOS = {
   "SpaceNews": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSMzPmQzCRnRprKIys6SXBz9VacKbsmxO-neA&s",
   "NYT": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRsb8mTZwu3wBVZPMRGS0ue1b4twc9Rrn1OxA&s",
   "Spaceflight Now": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSdCl913Iwq8iEQ1IopeQUHxDxnNRH3J-cyRw&s",
-  "Payload": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQL35EoffshsTucTzi6P5_BTbafxR0EXkwYVQ&s"
+  "Payload": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQL35EoffshsTucTzi6P5_BTbafxR0EXkwYVQ&s",
+  "Perfect Bee": "https://i1.feedspot.com/4573070.jpg?t=1615028434",
+  "Dadant News": "https://i1.feedspot.com/4573124.jpg?t=1615028473",
+  "Bee Culture Magazine": "https://i1.feedspot.com/4573064.jpg?t=1615028440",
+  "Scientific Beekeeping": "https://i1.feedspot.com/4573116.jpg?t=1615028462"
 };
 
 // ============================================
@@ -546,6 +553,34 @@ async function fetchNextLaunchFromAPI() {
   }
 }
 
+function shortenName(text) {
+  if (!text) return "";
+
+  const replacements = {
+    "China Aerospace Science and Technology Corporation": "CASC",
+    "People's Republic of China": "China",
+
+    "Russian Federal Space Agency (ROSCOSMOS)": "Roscosmos",
+    "Russian Federation": "Russia",
+    "Republic of Kazakhstan": "Kazakhstan",
+
+    "United Launch Alliance": "ULA",
+    "Agency for Defense Development": "South Korea ADA",
+    "European Space Agency": "ESA",
+
+    "Northrop Grumman Space Systems": "Northrop Grumman",
+  };
+
+  let result = text;
+
+  for (const long in replacements) {
+    result = result.replaceAll(long, replacements[long]);
+  }
+
+  return result;
+}
+
+
 function toTitleCase(s) {
   return String(s).toLowerCase().replace(/(^|[\s:|-])([a-z])/g, (m,p,c)=>p + c.toUpperCase());
 }
@@ -553,13 +588,19 @@ function toTitleCase(s) {
 function startLaunchCountdown(launch) {
   const el = document.getElementById('nextLaunch');
   if (!launch || !el) return;
-
-  const provider = launch.launch_service_provider?.name || '';
-  const mission = launch.mission?.name || launch.name || '';
-  const padName = launch.pad?.name || '';
-  const locationName = launch.pad?.location?.name || '';
+  const provider = shortenName(launch.launch_service_provider?.name || '');
+  const padName = shortenName(launch.pad?.name || '');
+  const locationName = shortenName(launch.pad?.location?.name || '');
 
   const place = [padName, locationName].filter(Boolean).join(', ');
+
+  let missionRaw = launch.mission?.name || launch.name || '';
+  let mission = shortenName(missionRaw);
+
+  // Remove "Unknown Payload"
+  if (mission.toLowerCase().includes("unknown payload")) {
+    mission = ""; 
+  }
 
 function update() {
   const now = new Date();
@@ -1025,10 +1066,10 @@ function renderArticles(articles, containerId) {
     if (res.ok) {
       const json = await res.json();
 
-      if (json.spaceNews && json.spaceNews.length) {
-        const sArticles = json.spaceNews.map(a => ({ ...a, pubDate: new Date(a.pubDate) }));
+      if (json.beeNews && json.beeNews.length) {
+        const sArticles = json.beeNews.map(a => ({ ...a, pubDate: new Date(a.pubDate) }));
         // show latest 4 within window — reuse existing renderer behavior
-        renderArticles(sArticles.slice(0, 8), 'spaceNews');
+        renderArticles(sArticles.slice(0, 8), 'beeNews');
       } else {
         fetchFeeds([
           { name: "NASA", urls: ["https://www.nasa.gov/rss/dyn/breaking_news.rss"] },
@@ -1036,6 +1077,19 @@ function renderArticles(articles, containerId) {
           { name: "New Scientist", urls: ["https://www.newscientist.com/subject/space/feed/"] },
           { name: "Spaceflight Now", urls: ["https://spaceflightnow.com/feed/"] },
           { name: "Payload", urls: ["https://payloadspace.com/feed/"] }
+        ], 'beeNews', 24, 8, 30);
+      }
+
+      if (json.spaceNews && json.spaceNews.length) {
+        const sArticles = json.spaceNews.map(a => ({ ...a, pubDate: new Date(a.pubDate) }));
+        // show latest 4 within window — reuse existing renderer behavior
+        renderArticles(sArticles.slice(0, 8), 'spaceNews');
+      } else {
+        fetchFeeds([
+          { name: "Perfect Bee", urls: ["https://www.perfectbee.com/feed"] },
+          { name: "Dadant News", urls: ["https://www.dadant.com/news/feed/"] },
+          { name: "Bee Culture Magazine", urls: ["https://beeculture.com/feed/"] },
+          { name: "Scientific Beekeeping", urls: ["http://scientificbeekeeping.com/feed/"] }
         ], 'spaceNews', 24, 8, 30);
       }
 
@@ -1060,8 +1114,16 @@ function renderArticles(articles, containerId) {
     { name: "SpaceNews", urls: ["https://spacenews.com/feed/"] },
     { name: "New Scientist", urls: ["https://www.newscientist.com/subject/space/feed/"] },
     { name: "Spaceflight Now", urls: ["https://spaceflightnow.com/feed/"] },
-    { name: "Payload", urls: ["https://payloadspace.com/feed/"] }
+    { name: "Payload", urls: ["https://payloadspace.com/feed/"] },
   ], 'spaceNews', 24, 8, 30);
+
+  fetchFeeds([
+    { name: "Perfect Bee", urls: ["https://www.perfectbee.com/feed"] },
+    { name: "Dadant News", urls: ["https://www.dadant.com/news/feed/"] },
+    { name: "Bee Culture Magazine", urls: ["https://beeculture.com/feed/"] },
+    { name: "Scientific Beekeeping", urls: ["http://scientificbeekeeping.com/feed/"] }
+  ], 'beeNews', 24, 8, 30);
+
 
   fetchFeeds([
     { name: "NYT", urls: ["https://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml"] }
