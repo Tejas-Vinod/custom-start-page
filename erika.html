@@ -855,10 +855,13 @@ function timeAgo(date) {
 
 async function fetchFeeds(feeds, containerId, windowHours = 24, limit = 8, cacheMinutes = 30) {
   console.log(`\n📡 Fetching feeds for ${containerId}...`);
-  
-  // We'll populate quickly from cache, then update when fresh data arrives.
   let allArticles = [];
-
+  
+  // Pre-fetch bee images if this is beeNews
+  if (containerId === 'beeNews') {
+    await fetchBeeImages();
+  }
+  
   const recomputeAndRender = () => {
     const now = new Date();
     const filteredArticles = allArticles.filter(a => {
@@ -867,8 +870,7 @@ async function fetchFeeds(feeds, containerId, windowHours = 24, limit = 8, cache
       return ageHours < windowHours && ageHours >= 0;
     });
     filteredArticles.sort((a, b) => b.pubDate - a.pubDate);
-
-    // Deduplicate by link (or title fallback) to avoid cached/refresh race duplicates
+    
     const seen = new Set();
     const unique = [];
     for (const art of filteredArticles) {
@@ -879,33 +881,27 @@ async function fetchFeeds(feeds, containerId, windowHours = 24, limit = 8, cache
         unique.push(art);
       }
     }
-
+    
     const limitedArticles = unique.slice(0, limit);
-    console.log(`  Total: ${unique.length} articles (deduped, within ${windowHours}h), showing ${limitedArticles.length}`);
+    console.log(`Total: ${unique.length} articles for ${containerId}`);
     renderArticles(limitedArticles, containerId);
   };
-
+  
   for (const feed of feeds) {
     for (const url of feed.urls) {
-      // onFresh will replace articles coming from this url and re-render
       const onFresh = (freshItems) => {
-        // tag fresh items with source and origin
         const tagged = freshItems.map(a => ({ ...a, source: feed.name, origin: url }));
-        // remove old items from this origin
         allArticles = allArticles.filter(x => x.origin !== url);
-        // add fresh items
         allArticles.push(...tagged);
         recomputeAndRender();
       };
-
+      
       const articles = await parseRSS(url, cacheMinutes, true, onFresh);
-      console.log(`  ${feed.name}: Found ${articles.length} articles (cache)`);
       const withSource = articles.map(a => ({ ...a, source: feed.name, origin: url }));
       allArticles.push(...withSource);
     }
   }
-
-  // initial render using cached data (if any)
+  
   recomputeAndRender();
 }
 
@@ -915,49 +911,50 @@ async function fetchFeeds(feeds, containerId, windowHours = 24, limit = 8, cache
 
 const PLACEHOLDER_IMG = "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 200'%3E%3Crect fill='%233a3944' width='400' height='200'/%3E%3Ctext x='50%25' y='50%25' dominant-baseline='middle' text-anchor='middle' fill='%23b0b3c0' font-family='sans-serif' font-size='16'%3ENo Image%3C/text%3E%3C/svg%3E";
 
+const PEXELS_API_KEY = "YciS7PG6xEBHfYL9bvproudMq5Hgh1bp7VIQPolYsrM8wd5uN96k9mkM8";
+let beeImagesCache = [];
+
+async function fetchBeeImages(count = 50) {
+  if (beeImagesCache.length > 0) return beeImagesCache;
+  try {
+    const res = await fetch(`https://api.pexels.com/v1/search?query=bee&per_page=${count}`, {
+      headers: { Authorization: PEXELS_API_KEY }
+    });
+    const data = await res.json();
+    beeImagesCache = data.photos || [];
+    return beeImagesCache;
+  } catch (e) {
+    console.warn("Failed to fetch bee images from Pexels", e);
+    return [];
+  }
+}
+
 function renderArticles(articles, containerId) {
-  const container = document.getElementById(containerId);
-
-  if (articles.length === 0) {
-    container.innerHTML = "<div class='loading'>No recent articles found</div>";
-    return;
-  }
-
-  container.innerHTML = "";
-
-  // cache last render for responsive redraws
-  window._lastRenders = window._lastRenders || {};
-  window._lastRenders[containerId] = articles;
-
-  // Determine columns (approx based on min card width similar to CSS minmax 280px)
-  const minCard = 300;
-  const cols = Math.max(1, Math.floor(container.clientWidth / minCard));
-
-  // Create column wrappers
-  const columns = [];
-  for (let c = 0; c < cols; c++) {
-    const col = document.createElement('div');
-    col.className = 'news-column';
-    container.appendChild(col);
-    columns.push(col);
-  }
-
+  
   articles.forEach((article, idx) => {
     const card = document.createElement("div");
     card.className = "card";
     card.onclick = () => window.open(article.link, "_blank");
-
-    const imgSrc = article.image || PLACEHOLDER_IMG;
+    
+    // Determine image source: bee images for beeNews, RSS images for others
+    let imgSrc;
+    if (containerId === 'beeNews' && beeImagesCache.length > 0) {
+      const beePhoto = beeImagesCache[idx % beeImagesCache.length];
+      imgSrc = beePhoto.src.large || beePhoto.src.medium || PLACEHOLDER_IMG;
+    } else {
+      imgSrc = article.image || PLACEHOLDER_IMG;
+    }
+    
     const logoSrc = LOGOS[article.source] || "";
-
+    
     card.innerHTML = `
       <div class="timeago">${timeAgo(article.pubDate)}</div>
-       <img class="hero" src="${imgSrc}" 
-         onerror="this.src='${PLACEHOLDER_IMG}'"
-         alt="${article.title}">
+      <img class="hero" src="${imgSrc}"
+        onerror="this.src='${PLACEHOLDER_IMG}'"
+        alt="${article.title}">
       <div class="card-content">
         <div class="source">
-          <img src="${logoSrc}" 
+          <img src="${logoSrc}"
                onerror="this.style.display='none'"
                alt="${article.source}">
           ${article.source}
@@ -965,33 +962,17 @@ function renderArticles(articles, containerId) {
         <div class="title">${article.title}</div>
       </div>
     `;
-
-    // add a safe text-only excerpt under the title
+    
     const contentEl = card.querySelector('.card-content') || card;
     const excerptEl = document.createElement('div');
     excerptEl.className = 'excerpt';
     excerptEl.textContent = article.excerpt || article.description || '';
     contentEl.appendChild(excerptEl);
-
-    // distribute in row-major order: i -> column (i % cols)
+    
     const target = columns[idx % columns.length] || container;
     target.appendChild(card);
   });
 }
-
-// redraw on resize (debounced)
-(() => {
-  let t = null;
-  window.addEventListener('resize', () => {
-    if (t) clearTimeout(t);
-    t = setTimeout(() => {
-      if (!window._lastRenders) return;
-      Object.keys(window._lastRenders).forEach(id => {
-        try { renderArticles(window._lastRenders[id], id); } catch (e) { /* ignore */ }
-      });
-    }, 180);
-  });
-})();
 
 // ---------- Cursor-following sparkle behaviour ----------
 (function(){
