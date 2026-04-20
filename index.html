@@ -323,7 +323,7 @@ body.desmos-open .mainWrapper{margin-right:420px;}
 
   <div class="section-title">New York Times</div>
   <div class="news" id="nytNews"><div class="loading">Loading...</div></div>
-
+  
   <div class="section-title">Industry News</div>
   <div class="news" id="industryNews"><div class="loading">Loading...</div></div>
 </div>
@@ -507,7 +507,6 @@ const LOGOS = {
   "SpaceNews": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSMzPmQzCRnRprKIys6SXBz9VacKbsmxO-neA&s",
   "Spaceflight Now": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSdCl913Iwq8iEQ1IopeQUHxDxnNRH3J-cyRw&s",
   "Payload": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQL35EoffshsTucTzi6P5_BTbafxR0EXkwYVQ&s",
-  "Space.com": "https://images.crunchbase.com/image/upload/c_pad,f_auto,q_auto:eco,dpr_1/v1490650949/xxelefyncmlrj5hwfma2.png?ik-sanitizeSvg=true",
   "Astronomy Magazine": "https://logodix.com/logo/434733.jpg",
   "Boeing": "https://icon-icons.com/download-file?file=https%3A%2F%2Fimages.icon-icons.com%2F2699%2FPNG%2F512%2Fboeing_logo_icon_167791.png&id=167791&pack_or_individual=pack",
   "Lockheed Martin": "https://companieslogo.com/img/orig/LMT-db3de619.png?t=1720244492",
@@ -1006,7 +1005,7 @@ function renderArticles(articles, containerId) {
       if (json.spaceNews && json.spaceNews.length) {
         const sArticles = json.spaceNews.map(a => ({ ...a, pubDate: new Date(a.pubDate) }));
         // show latest 4 within window — reuse existing renderer behavior
-        renderArticles(sArticles.slice(0, 8), 'spaceNews');
+        renderArticles(sArticles.slice(0, 12), 'spaceNews');
       } else {
         fetchFeeds([
           { name: "NASA", urls: ["https://www.nasa.gov/rss/dyn/breaking_news.rss"] },
@@ -1015,14 +1014,12 @@ function renderArticles(articles, containerId) {
           { name: "New Scientist", urls: ["https://www.newscientist.com/subject/space/feed/"] },
           { name: "Spaceflight Now", urls: ["https://spaceflightnow.com/feed/"] },
           { name: "Payload", urls: ["https://payloadspace.com/feed/"] },
-          { name: "Space.com", urls: ["https://www.space.com/feeds.xml"] },
           { name: "Astronomy Magazine", urls: ["https://www.astronomy.com/tags/news/feed"] }
-        ], 'spaceNews', 36, 12, 30);
+        ], 'spaceNews', 36, 12, 15);
       }
 
       if (json.industryNews && json.industryNews.length) {
         const sArticles = json.industryNews.map(a => ({ ...a, pubDate: new Date(a.pubDate) }));
-        // show latest 4 within window — reuse existing renderer behavior
         renderArticles(sArticles.slice(0, 8), 'industryNews');
       } else {
         fetchFeeds([
@@ -1031,12 +1028,12 @@ function renderArticles(articles, containerId) {
           { name: "NASA JPL", urls: ["https://www.jpl.nasa.gov/feeds/news/"] },
           { name: "Northrop Grumman", urls: ["https://rss.app/feeds/1PCAw96E5vECjO3S.xml"] },
           { name: "Blue Origin", urls: ["https://rss.app/feeds/IBN2TaUZfUlhfvBK.xml"] }
-        ], 'industryNews', 36, 12, 30);
+        ], 'industryNews', 336, 12, 30);
       }
 
       if (json.nytNews && json.nytNews.length) {
         const nArticles = json.nytNews.map(a => ({ ...a, pubDate: new Date(a.pubDate) }));
-        renderArticles(nArticles.slice(0, 8), 'nytNews');
+        renderArticles(nArticles.slice(0, 12), 'nytNews');
       } else {
         fetchFeeds([
           { name: "NYT", urls: ["https://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml"] }
@@ -1057,9 +1054,8 @@ function renderArticles(articles, containerId) {
     { name: "New Scientist", urls: ["https://www.newscientist.com/subject/space/feed/"] },
     { name: "Spaceflight Now", urls: ["https://spaceflightnow.com/feed/"] },
     { name: "Payload", urls: ["https://payloadspace.com/feed/"] },
-    { name: "Space.com", urls: ["https://www.space.com/feeds.xml"] },
     { name: "Astronomy Magazine", urls: ["https://www.astronomy.com/tags/news/feed"] }
-  ], 'spaceNews', 36, 12, 30);
+  ], 'spaceNews', 36, 12, 15);
 
   fetchFeeds([
     { name: "Boeing", urls: ["https://boeing.mediaroom.com/news-releases-statements?pagetemplate=rss"] },
@@ -1067,7 +1063,7 @@ function renderArticles(articles, containerId) {
     { name: "NASA JPL", urls: ["https://www.jpl.nasa.gov/feeds/news/"] },
     { name: "Northrop Grumman", urls: ["https://rss.app/feeds/1PCAw96E5vECjO3S.xml"] },
     { name: "Blue Origin", urls: ["https://rss.app/feeds/IBN2TaUZfUlhfvBK.xml"] }
-  ], 'industryNews', 36, 12, 30);
+  ], 'industryNews', 336, 12, 30);
 
   fetchFeeds([
     { name: "NYT", urls: ["https://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml"] }

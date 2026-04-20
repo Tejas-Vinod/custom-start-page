@@ -397,6 +397,9 @@ body.desmos-open .mainWrapper{margin-right:420px;}
 
   <div class="section-title">New York Times</div>
   <div class="news" id="nytNews"><div class="loading">Loading...</div></div>
+  
+  <div class="section-title">Industry News</div>
+  <div class="news" id="industryNews"><div class="loading">Loading...</div></div>
 </div>
 
 <!-- ---------- DESMOS SIDEBAR ---------- -->
@@ -588,11 +591,17 @@ const LOGOS = {
   "NYT": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRsb8mTZwu3wBVZPMRGS0ue1b4twc9Rrn1OxA&s",
   "Spaceflight Now": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSdCl913Iwq8iEQ1IopeQUHxDxnNRH3J-cyRw&s",
   "Payload": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQL35EoffshsTucTzi6P5_BTbafxR0EXkwYVQ&s",
+  "Space.com": "https://images.crunchbase.com/image/upload/c_pad,f_auto,q_auto:eco,dpr_1/v1490650949/xxelefyncmlrj5hwfma2.png?ik-sanitizeSvg=true",
   "Astronomy Magazine": "https://logodix.com/logo/434733.jpg",
   "Perfect Bee": "https://i1.feedspot.com/4573070.jpg?t=1615028434",
   "Dadant News": "https://i1.feedspot.com/4573124.jpg?t=1615028473",
   "Bee Culture Magazine": "https://i1.feedspot.com/4573064.jpg?t=1615028440",
-  "Scientific Beekeeping": "https://i1.feedspot.com/4573116.jpg?t=1615028462"
+  "Scientific Beekeeping": "https://i1.feedspot.com/4573116.jpg?t=1615028462",
+  "Boeing": "https://icon-icons.com/download-file?file=https%3A%2F%2Fimages.icon-icons.com%2F2699%2FPNG%2F512%2Fboeing_logo_icon_167791.png&id=167791&pack_or_individual=pack",
+  "Lockheed Martin": "https://companieslogo.com/img/orig/LMT-db3de619.png?t=1720244492",
+  "NASA JPL": "https://swim.psi.edu/resources/media/images/nasa-jpl-png-2.gif",
+  "Northrop Grumman": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSzkelzpbRg50nzhZGfERRexcLGKtZFE05g8w&s",
+  "Blue Origin": "https://d1o72l87sylvqg.cloudfront.net/blue-origin/logo-feather-blue-square-optimized.png",
 };
 
 // ============================================
@@ -1156,6 +1165,7 @@ function renderArticles(articles, containerId) {
           { name: "New Scientist", urls: ["https://www.newscientist.com/subject/space/feed/"] },
           { name: "Spaceflight Now", urls: ["https://spaceflightnow.com/feed/"] },
           { name: "Payload", urls: ["https://payloadspace.com/feed/"] },
+          { name: "Space.com", urls: ["https://www.space.com/feeds.xml"] },
           { name: "Astronomy Magazine", urls: ["https://www.astronomy.com/tags/news/feed"] }
         ], 'spaceNews', 36, 12, 30);
       }
@@ -1182,6 +1192,19 @@ function renderArticles(articles, containerId) {
         ], 'nytNews', 24, 12, 30);
       }
 
+      if (json.industryNews && json.industryNews.length) {
+        const sArticles = json.industryNews.map(a => ({ ...a, pubDate: new Date(a.pubDate) }));
+        renderArticles(sArticles.slice(0, 8), 'industryNews');
+      } else {
+        fetchFeeds([
+          { name: "Boeing", urls: ["https://boeing.mediaroom.com/news-releases-statements?pagetemplate=rss"] },
+          { name: "Lockheed Martin", urls: ["https://news.lockheedmartin.com/news-releases?pagetemplate=rss"] },
+          { name: "NASA JPL", urls: ["https://www.jpl.nasa.gov/feeds/news/", "https://www.nasa.gov/centers-and-facilities/jpl/feed/"] },
+          { name: "Northrop Grumman", urls: ["https://rss.app/feeds/1PCAw96E5vECjO3S.xml"] },
+          { name: "Blue Origin", urls: ["https://rss.app/feeds/IBN2TaUZfUlhfvBK.xml"] }
+        ], 'industryNews', 336, 12, 30);
+      }
+
       return;
     }
   } catch (e) {
@@ -1196,6 +1219,7 @@ function renderArticles(articles, containerId) {
     { name: "New Scientist", urls: ["https://www.newscientist.com/subject/space/feed/"] },
     { name: "Spaceflight Now", urls: ["https://spaceflightnow.com/feed/"] },
     { name: "Payload", urls: ["https://payloadspace.com/feed/"] },
+    { name: "Space.com", urls: ["https://www.space.com/feeds.xml"] },
     { name: "Astronomy Magazine", urls: ["https://www.astronomy.com/tags/news/feed"] }
   ], 'spaceNews', 36, 12, 30);
 
@@ -1211,6 +1235,16 @@ function renderArticles(articles, containerId) {
     { name: "NYT", urls: ["https://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml"] }
   ], 'nytNews', 24, 12, 30);
 })();
+
+
+  fetchFeeds([
+    { name: "Boeing", urls: ["https://boeing.mediaroom.com/news-releases-statements?pagetemplate=rss"] },
+    { name: "Lockheed Martin", urls: ["https://news.lockheedmartin.com/news-releases?pagetemplate=rss"] },
+    { name: "NASA JPL", urls: ["https://www.jpl.nasa.gov/feeds/news/"] },
+    { name: "Northrop Grumman", urls: ["https://rss.app/feeds/1PCAw96E5vECjO3S.xml"] },
+    { name: "Blue Origin", urls: ["https://rss.app/feeds/IBN2TaUZfUlhfvBK.xml"] }
+  ], 'industryNews', 336, 12, 30);
+
 </script>
   
 </body>
