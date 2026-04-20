@@ -597,10 +597,10 @@ const LOGOS = {
   "Dadant News": "https://i1.feedspot.com/4573124.jpg?t=1615028473",
   "Bee Culture Magazine": "https://i1.feedspot.com/4573064.jpg?t=1615028440",
   "Scientific Beekeeping": "https://i1.feedspot.com/4573116.jpg?t=1615028462",
-  "Boeing": "https://icon-icons.com/download-file?file=https%3A%2F%2Fimages.icon-icons.com%2F2699%2FPNG%2F512%2Fboeing_logo_icon_167791.png&id=167791&pack_or_individual=pack",
-  "Lockheed Martin": "https://companieslogo.com/img/orig/LMT-db3de619.png?t=1720244492",
-  "NASA JPL": "https://swim.psi.edu/resources/media/images/nasa-jpl-png-2.gif",
-  "Northrop Grumman": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSzkelzpbRg50nzhZGfERRexcLGKtZFE05g8w&s",
+  "Boeing": "https://yt3.googleusercontent.com/J7GwbHc35QDM3_Mat3t8D228WcmUpOcinm37yV1w9Kp4M-9ah-Uf1gKvIcMJTVwwk6OrMHbNoys=s900-c-k-c0x00ffffff-no-rj",
+  "Lockheed Martin": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRq7CW6tBfURZbwMMNC8evHUzREcut2gAlvdw&s",
+  "NASA JPL": "https://d2q79iu7y748jz.cloudfront.net/s/_squarelogo/256x256/391555431bcc3d5b0084776c3e22f177",
+  "Northrop Grumman": "https://d2q79iu7y748jz.cloudfront.net/s/_squarelogo/256x256/840ef038663bcfde1befff5745fded3e",
   "Blue Origin": "https://d1o72l87sylvqg.cloudfront.net/blue-origin/logo-feather-blue-square-optimized.png",
 };
 
@@ -763,6 +763,33 @@ function update() {
   if (l) startLaunchCountdown(l);
   else document.getElementById('nextLaunch').textContent = 'Next Launch: unavailable';
 })();
+
+// ============================================
+// Bee Images
+// ============================================
+let beeImagesCache = [];
+
+async function loadBeeImages() {
+  if (beeImagesCache.length) return beeImagesCache;
+
+  const res = await fetch("https://api.pexels.com/v1/search?query=bee&per_page=50", {
+    headers: { Authorization: "YciS7PG6xEBHfYL9bvproudMq5Hgh1bp7VIQPolYsrM8wd5uN96k9mkC" }
+  });
+
+  const data = await res.json();
+  beeImagesCache = data.photos.map(p => p.src.medium);
+
+  return beeImagesCache;
+}
+
+function getRandomBeeImage() {
+  if (!beeImagesCache.length) return null;
+  return beeImagesCache[Math.floor(Math.random() * beeImagesCache.length)];
+}
+
+// ============================================
+// RSS Parser
+// ============================================
 
 async function parseRSS(url, cacheMinutes = 30, useCacheFirst = true, onFresh = null) {
   const cacheKey = `rsscache:${url}`;
@@ -1034,7 +1061,14 @@ function renderArticles(articles, containerId) {
     card.className = "card";
     card.onclick = () => window.open(article.link, "_blank");
 
-    const imgSrc = article.image || PLACEHOLDER_IMG;
+    let imgSrc = article.image;
+
+    if (!imgSrc && containerId === "beeNews") {
+      imgSrc = getRandomBeeImage();
+    }
+
+    imgSrc = imgSrc || PLACEHOLDER_IMG;
+
     const logoSrc = LOGOS[article.source] || "";
 
     card.innerHTML = `
@@ -1064,6 +1098,13 @@ function renderArticles(articles, containerId) {
     const target = columns[idx % columns.length] || container;
     target.appendChild(card);
   });
+
+  if (containerId === "beeNews" && !beeImagesCache.length) {
+  loadBeeImages().then(() => {
+    renderArticles(articles, containerId);
+  });
+  return;
+}
 }
 
 // redraw on resize (debounced)
@@ -1171,9 +1212,21 @@ function renderArticles(articles, containerId) {
       }
 
       if (json.beeNews && json.beeNews.length) {
-        const sArticles = json.beeNews.map(a => ({ ...a, pubDate: new Date(a.pubDate) }));
-        // show latest 4 within window — reuse existing renderer behavior
-        renderArticles(sArticles.slice(0, 8), 'beeNews');
+        const sArticles = json.beeNews.map(a => ({ 
+          ...a, 
+          pubDate: new Date(a.pubDate) 
+        }));
+
+        // ensure images are loaded first, then assign random ones
+        loadBeeImages().then(() => {
+          const withRandomImages = sArticles.map(a => ({
+            ...a,
+            image: getRandomBeeImage()
+          }));
+
+          renderArticles(withRandomImages.slice(0, 8), 'beeNews');
+        });
+
       } else {
         fetchFeeds([
           { name: "Perfect Bee", urls: ["https://www.perfectbee.com/feed"] },
@@ -1244,6 +1297,14 @@ function renderArticles(articles, containerId) {
     { name: "Northrop Grumman", urls: ["https://rss.app/feeds/1PCAw96E5vECjO3S.xml"] },
     { name: "Blue Origin", urls: ["https://rss.app/feeds/IBN2TaUZfUlhfvBK.xml"] }
   ], 'industryNews', 336, 12, 30);
+
+window.addEventListener("load", () => {
+  setTimeout(() => {
+    const input = document.getElementById("searchInput");
+    input.focus();
+    input.setSelectionRange(input.value.length, input.value.length);
+  }, 300);
+});
 
 </script>
   

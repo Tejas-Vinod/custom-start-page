@@ -508,10 +508,10 @@ const LOGOS = {
   "Spaceflight Now": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSdCl913Iwq8iEQ1IopeQUHxDxnNRH3J-cyRw&s",
   "Payload": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQL35EoffshsTucTzi6P5_BTbafxR0EXkwYVQ&s",
   "Astronomy Magazine": "https://logodix.com/logo/434733.jpg",
-  "Boeing": "https://icon-icons.com/download-file?file=https%3A%2F%2Fimages.icon-icons.com%2F2699%2FPNG%2F512%2Fboeing_logo_icon_167791.png&id=167791&pack_or_individual=pack",
-  "Lockheed Martin": "https://companieslogo.com/img/orig/LMT-db3de619.png?t=1720244492",
-  "NASA JPL": "https://swim.psi.edu/resources/media/images/nasa-jpl-png-2.gif",
-  "Northrop Grumman": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSzkelzpbRg50nzhZGfERRexcLGKtZFE05g8w&s",
+  "Boeing": "https://yt3.googleusercontent.com/J7GwbHc35QDM3_Mat3t8D228WcmUpOcinm37yV1w9Kp4M-9ah-Uf1gKvIcMJTVwwk6OrMHbNoys=s900-c-k-c0x00ffffff-no-rj",
+  "Lockheed Martin": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRq7CW6tBfURZbwMMNC8evHUzREcut2gAlvdw&s",
+  "NASA JPL": "https://d2q79iu7y748jz.cloudfront.net/s/_squarelogo/256x256/391555431bcc3d5b0084776c3e22f177",
+  "Northrop Grumman": "https://d2q79iu7y748jz.cloudfront.net/s/_squarelogo/256x256/840ef038663bcfde1befff5745fded3e",
   "Blue Origin": "https://d1o72l87sylvqg.cloudfront.net/blue-origin/logo-feather-blue-square-optimized.png",
   "NYT": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRsb8mTZwu3wBVZPMRGS0ue1b4twc9Rrn1OxA&s"
 };
@@ -1069,6 +1069,15 @@ function renderArticles(articles, containerId) {
     { name: "NYT", urls: ["https://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml"] }
   ], 'nytNews', 24, 12, 30);
 })();
+
+window.addEventListener("load", () => {
+  setTimeout(() => {
+    const input = document.getElementById("searchInput");
+    input.focus();
+    input.setSelectionRange(input.value.length, input.value.length);
+  }, 300);
+});
+
 </script>
   
 </body>
