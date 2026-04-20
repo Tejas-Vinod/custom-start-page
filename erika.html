@@ -587,7 +587,6 @@ const LOGOS = {
   "NYT": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRsb8mTZwu3wBVZPMRGS0ue1b4twc9Rrn1OxA&s",
   "Spaceflight Now": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSdCl913Iwq8iEQ1IopeQUHxDxnNRH3J-cyRw&s",
   "Payload": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQL35EoffshsTucTzi6P5_BTbafxR0EXkwYVQ&s",
-  "Space.com": "https://images.crunchbase.com/image/upload/c_pad,f_auto,q_auto:eco,dpr_1/v1490650949/xxelefyncmlrj5hwfma2.png?ik-sanitizeSvg=true",
   "Astronomy Magazine": "https://logodix.com/logo/434733.jpg",
   "Perfect Bee": "https://i1.feedspot.com/4573070.jpg?t=1615028434",
   "Dadant News": "https://i1.feedspot.com/4573124.jpg?t=1615028473",
@@ -1151,11 +1150,11 @@ function renderArticles(articles, containerId) {
       } else {
         fetchFeeds([
           { name: "NASA", urls: ["https://www.nasa.gov/rss/dyn/breaking_news.rss"] },
+          { name: "Space Force", urls: ["https://www.spaceforce.mil/DesktopModules/ArticleCS/RSS.ashx?ContentType=1&Site=1060&isdashboardselected=0&max=20&Category=23812"] },
           { name: "SpaceNews", urls: ["https://spacenews.com/feed/"] },
           { name: "New Scientist", urls: ["https://www.newscientist.com/subject/space/feed/"] },
           { name: "Spaceflight Now", urls: ["https://spaceflightnow.com/feed/"] },
           { name: "Payload", urls: ["https://payloadspace.com/feed/"] },
-          { name: "Space.com", urls: ["https://www.space.com/feeds.xml"] },
           { name: "Astronomy Magazine", urls: ["https://www.astronomy.com/tags/news/feed"] }
         ], 'spaceNews', 36, 12, 30);
       }
@@ -1191,11 +1190,11 @@ function renderArticles(articles, containerId) {
   // Fallback to runtime fetching (may hit CORS on deployed GitHub Pages)
   fetchFeeds([
     { name: "NASA", urls: ["https://www.nasa.gov/rss/dyn/breaking_news.rss"] },
+    { name: "Space Force", urls: ["https://www.spaceforce.mil/DesktopModules/ArticleCS/RSS.ashx?ContentType=1&Site=1060&isdashboardselected=0&max=20&Category=23812"] },
     { name: "SpaceNews", urls: ["https://spacenews.com/feed/"] },
     { name: "New Scientist", urls: ["https://www.newscientist.com/subject/space/feed/"] },
     { name: "Spaceflight Now", urls: ["https://spaceflightnow.com/feed/"] },
     { name: "Payload", urls: ["https://payloadspace.com/feed/"] },
-    { name: "Space.com", urls: ["https://www.space.com/feeds.xml"] },
     { name: "Astronomy Magazine", urls: ["https://www.astronomy.com/tags/news/feed"] }
   ], 'spaceNews', 36, 12, 30);
 
