@@ -25,11 +25,48 @@ body{
   background:var(--bg);
   color:var(--text);
 }
+#searchInput{
+  user-select: text;
+  -webkit-user-select: text;
+  -ms-user-select: text;
+  caret-color: auto;
+}
 header{
   display:flex;
   justify-content:space-between;
   align-items:center;
   padding:18px 28px;
+}
+.search-wrap{
+  display:flex;
+  justify-content:center;
+  margin:10px 0 20px;
+}
+#searchForm{
+  width:85%;
+  max-width:650px;
+}
+#searchInput{
+  width:100%;
+  padding:14px 18px;
+  border-radius:14px;
+  border:1px solid transparent;
+  background:var(--card);
+  color:var(--text);
+  font-size:15px;
+  outline:none;
+  transition:background .2s, box-shadow .2s, border .2s;
+}
+#searchInput::placeholder{
+  color:var(--muted);
+}
+#searchInput:hover{
+  background:var(--card-hover);
+}
+#searchInput:focus{
+  background:var(--card);
+  border:1px solid #5a5f73;
+  box-shadow:0 0 0 2px rgba(100,140,255,0.25);
 }
 #logo img{width:42px;}
 .section-title{
@@ -268,6 +305,17 @@ body.desmos-open .mainWrapper{margin-right:420px;}
 
   <div id="nextLaunch" class="next-launch">Loading next launch…</div>
 
+  <div class="search-wrap">
+    <form id="searchForm">
+      <input 
+        id="searchInput"
+        type="text"
+        placeholder="Search with Google or enter address"
+        autocomplete="on"
+      >
+    </form>
+  </div>
+
   <div class="sites" id="sites"></div>
 
   <div class="section-title">For You</div>
@@ -417,6 +465,34 @@ navigator.geolocation.getCurrentPosition(async pos => {
   } catch(e){ console.log("Weather error:", e); }
 }, () => { console.log("Location access denied"); });
 
+// ==================== SEARCH  ====================
+const form = document.getElementById("searchForm");
+const input = document.getElementById("searchInput");
+
+form.addEventListener("submit", e => {
+  e.preventDefault();
+
+  let value = input.value.trim();
+
+  if (!value) return;
+
+  // If it looks like a URL go directly
+  if (
+    value.startsWith("http://") ||
+    value.startsWith("https://") ||
+    value.includes(".")
+  ) {
+    if (!value.startsWith("http")) {
+      value = "https://" + value;
+    }
+    window.location.href = value;
+  } 
+  // Otherwise, Google search
+  else {
+    const query = encodeURIComponent(value);
+    window.location.href = `https://www.google.com/search?q=${query}`;
+  }
+});
 
 // ============================================
 // LOGOS
@@ -427,7 +503,9 @@ const LOGOS = {
   "SpaceNews": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSMzPmQzCRnRprKIys6SXBz9VacKbsmxO-neA&s",
   "NYT": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRsb8mTZwu3wBVZPMRGS0ue1b4twc9Rrn1OxA&s",
   "Spaceflight Now": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSdCl913Iwq8iEQ1IopeQUHxDxnNRH3J-cyRw&s",
-  "Payload": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQL35EoffshsTucTzi6P5_BTbafxR0EXkwYVQ&s"
+  "Payload": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQL35EoffshsTucTzi6P5_BTbafxR0EXkwYVQ&s",
+  "Space.com": "https://images.crunchbase.com/image/upload/c_pad,f_auto,q_auto:eco,dpr_1/v1490650949/xxelefyncmlrj5hwfma2.png?ik-sanitizeSvg=true",
+  "Astronomy Magazine": "https://logodix.com/logo/434733.jpg"
 };
 
 // ============================================
@@ -765,7 +843,7 @@ function timeAgo(date) {
 // FETCH FEEDS
 // ============================================
 
-async function fetchFeeds(feeds, containerId, windowHours = 24, limit = 8, cacheMinutes = 30) {
+async function fetchFeeds(feeds, containerId, windowHours = 24, limit = 12, cacheMinutes = 30) {
   console.log(`\n📡 Fetching feeds for ${containerId}...`);
   
   // We'll populate quickly from cache, then update when fresh data arrives.
@@ -926,8 +1004,10 @@ function renderArticles(articles, containerId) {
           { name: "SpaceNews", urls: ["https://spacenews.com/feed/"] },
           { name: "New Scientist", urls: ["https://www.newscientist.com/subject/space/feed/"] },
           { name: "Spaceflight Now", urls: ["https://spaceflightnow.com/feed/"] },
-          { name: "Payload", urls: ["https://payloadspace.com/feed/"] }
-        ], 'spaceNews', 24, 8, 30);
+          { name: "Payload", urls: ["https://payloadspace.com/feed/"] },
+          { name: "Space.com", urls: ["https://www.space.com/feeds.xml"] },
+          { name: "Astronomy Magazine", urls: ["https://www.astronomy.com/tags/news/feed"] }
+        ], 'spaceNews', 36, 12, 30);
       }
 
       if (json.nytNews && json.nytNews.length) {
@@ -936,7 +1016,7 @@ function renderArticles(articles, containerId) {
       } else {
         fetchFeeds([
           { name: "NYT", urls: ["https://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml"] }
-        ], 'nytNews', 24, 8, 30);
+        ], 'nytNews', 24, 12, 30);
       }
 
       return;
@@ -951,12 +1031,14 @@ function renderArticles(articles, containerId) {
     { name: "SpaceNews", urls: ["https://spacenews.com/feed/"] },
     { name: "New Scientist", urls: ["https://www.newscientist.com/subject/space/feed/"] },
     { name: "Spaceflight Now", urls: ["https://spaceflightnow.com/feed/"] },
-    { name: "Payload", urls: ["https://payloadspace.com/feed/"] }
-  ], 'spaceNews', 24, 8, 30);
+    { name: "Payload", urls: ["https://payloadspace.com/feed/"] },
+    { name: "Space.com", urls: ["https://www.space.com/feeds.xml"] },
+    { name: "Astronomy Magazine", urls: ["https://www.astronomy.com/tags/news/feed"] }
+  ], 'spaceNews', 36, 12, 30);
 
   fetchFeeds([
     { name: "NYT", urls: ["https://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml"] }
-  ], 'nytNews', 24, 8, 30);
+  ], 'nytNews', 24, 12, 30);
 })();
 </script>
   
