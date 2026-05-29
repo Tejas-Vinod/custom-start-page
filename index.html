@@ -508,6 +508,7 @@ const LOGOS = {
   "Spaceflight Now": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSdCl913Iwq8iEQ1IopeQUHxDxnNRH3J-cyRw&s",
   "Payload": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQL35EoffshsTucTzi6P5_BTbafxR0EXkwYVQ&s",
   "Astronomy Magazine": "https://logodix.com/logo/434733.jpg",
+  "Ars Technica": "https://cdn.brandfetch.io/arstechnica.com/fallback/lettermark/theme/dark/h/256/w/256/icon?c=1bfwsmEH20zzEfSNTed",
   "Boeing": "https://yt3.googleusercontent.com/J7GwbHc35QDM3_Mat3t8D228WcmUpOcinm37yV1w9Kp4M-9ah-Uf1gKvIcMJTVwwk6OrMHbNoys=s900-c-k-c0x00ffffff-no-rj",
   "Lockheed Martin": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRq7CW6tBfURZbwMMNC8evHUzREcut2gAlvdw&s",
   "NASA JPL": "https://d2q79iu7y748jz.cloudfront.net/s/_squarelogo/256x256/391555431bcc3d5b0084776c3e22f177",
@@ -1014,7 +1015,8 @@ function renderArticles(articles, containerId) {
           { name: "New Scientist", urls: ["https://www.newscientist.com/subject/space/feed/"] },
           { name: "Spaceflight Now", urls: ["https://spaceflightnow.com/feed/"] },
           { name: "Payload", urls: ["https://payloadspace.com/feed/"] },
-          { name: "Astronomy Magazine", urls: ["https://www.astronomy.com/tags/news/feed"] }
+          { name: "Astronomy Magazine", urls: ["https://www.astronomy.com/tags/news/feed"] },
+          { name: "Ars Technica", urls: ["https://feeds.arstechnica.com/arstechnica/science"] },
         ], 'spaceNews', 36, 12, 15);
       }
 
@@ -1055,6 +1057,7 @@ function renderArticles(articles, containerId) {
     { name: "Spaceflight Now", urls: ["https://spaceflightnow.com/feed/"] },
     { name: "Payload", urls: ["https://payloadspace.com/feed/"] },
     { name: "Astronomy Magazine", urls: ["https://www.astronomy.com/tags/news/feed"] }
+    { name: "Ars Technica", urls: ["https://feeds.arstechnica.com/arstechnica/science"] },
   ], 'spaceNews', 36, 12, 15);
 
   fetchFeeds([
