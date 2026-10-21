@@ -502,40 +502,12 @@ navigator.geolocation.getCurrentPosition(async pos => {
     document.getElementById("weatherIcon").src = iconMap[data.current_weather.weathercode] || iconMap[0];
 
     // Reverse geocode to get a human-readable place name, then update the AccuWeather link.
-    // Use the same proxy pattern as RSS to avoid CORS issues; fall back to lat/lon on failure.
     try {
-      const geourl = `https://geocoding-api.open-meteo.com/v1/reverse?latitude=${latitude}&longitude=${longitude}&language=en`;
-
-      // Prefer proxy (to avoid CORS), but fall back to direct open-meteo and then Nominatim
-      let geoData = null;
-      try {
-        const proxyUrl = PROXIES[0](geourl);
-        const geoRes = await fetch(proxyUrl);
-        if (geoRes.ok) geoData = await geoRes.json();
-      } catch (_) { /* proxy failed */ }
-
-      if (!geoData) {
-        try {
-          const direct = await fetch(geourl);
-          if (direct.ok) geoData = await direct.json();
-        } catch (_) { /* direct open-meteo failed */ }
-      }
-
-      // If still no useful name, try Nominatim reverse geocode as a second fallback
-      if (!geoData || !(geoData.name || geoData.locality || geoData.region || geoData.country)) {
-        try {
-          const nomUrl = `https://nominatim.openstreetmap.org/reverse?format=jsonv2&lat=${latitude}&lon=${longitude}`;
-          const nomRes = await fetch(nomUrl, { headers: { 'Accept-Language': 'en' } });
-          if (nomRes.ok) {
-            const nomJson = await nomRes.json();
-            const addr = nomJson.address || {};
-            const display = addr.town || addr.village || addr.city || addr.county || nomJson.display_name;
-            if (display) geoData = { ...(geoData || {}), name: display };
-          }
-        } catch (_) { /* nominatim failed */ }
-      }
-
-      const place = (geoData && (geoData.name || geoData.locality || geoData.region || geoData.country)) || '';
+      const geourl = `https://api.bigdatacloud.net/data/reverse-geocode-client?latitude=${latitude}&longitude=${longitude}&localityLanguage=en`;
+      const geoRes = await fetch(geourl);
+      if (!geoRes.ok) throw new Error(`Reverse geocoding failed: HTTP ${geoRes.status}`);
+      const geoData = await geoRes.json();
+      const place = geoData.city || geoData.locality || geoData.principalSubdivision || geoData.countryName || '';
       const placeLabel = place || `${latitude.toFixed(2)}, ${longitude.toFixed(2)}`;
       const weatherAnchor = document.querySelector('#weather a');
       weatherAnchor.href = `https://www.accuweather.com/en/search-locations?query=${encodeURIComponent(placeLabel)}`;
@@ -544,8 +516,10 @@ navigator.geolocation.getCurrentPosition(async pos => {
     } catch (e) {
       console.log('Reverse geocode failed:', e);
       const weatherAnchor = document.querySelector('#weather a');
+      const placeLabel = `${latitude.toFixed(2)}, ${longitude.toFixed(2)}`;
+      weatherAnchor.href = `https://www.accuweather.com/en/search-locations?query=${encodeURIComponent(placeLabel)}`;
       const placeNode = weatherAnchor.querySelector('div > div:last-child');
-      if (placeNode) placeNode.innerText = `${latitude.toFixed(2)}, ${longitude.toFixed(2)}`;
+      if (placeNode) placeNode.innerText = placeLabel;
     }
 
   } catch(e){ console.log("Weather error:", e); }
@@ -1067,7 +1041,7 @@ function renderArticles(articles, containerId) {
       imgSrc = getRandomBeeImage();
     }
 
-    imgSrc = imgSrc || PLACEHOLDER_IMG;
+    imgSrc = imgSrc ? imgSrc.replace(/^http:\/\//i, 'https://') : PLACEHOLDER_IMG;
 
     const logoSrc = LOGOS[article.source] || "";
 

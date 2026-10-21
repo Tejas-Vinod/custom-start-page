@@ -29,12 +29,16 @@ const feeds = {
 
 function extractImage(item) {
   if (!item) return null;
-  if (item.enclosure && item.enclosure.url) return item.enclosure.url;
+  if (item.enclosure && item.enclosure.url) return secureImageUrl(item.enclosure.url);
   const content = item['content:encoded'] || item.content || item.summary || '';
   const m = content.match(/<img[^>]+src=["']([^"']+)["']/i);
-  if (m) return m[1];
-  if (item.image) return item.image;
+  if (m) return secureImageUrl(m[1]);
+  if (item.image) return secureImageUrl(item.image);
   return null;
+}
+
+function secureImageUrl(url) {
+  return url.replace(/^http:\/\//i, 'https://');
 }
 
 async function fetchOne(f) {
