@@ -29,6 +29,11 @@ const feeds = {
 
 function extractImage(item) {
   if (!item) return null;
+  const mediaContent = Array.isArray(item.mediaContent)
+    ? item.mediaContent[0]
+    : item.mediaContent;
+  const mediaImage = mediaContent && (mediaContent.url || mediaContent.$?.url);
+  if (mediaImage) return secureImageUrl(mediaImage);
   if (item.enclosure && item.enclosure.url) return secureImageUrl(item.enclosure.url);
   const content = item['content:encoded'] || item.content || item.summary || '';
   const m = content.match(/<img[^>]+src=["']([^"']+)["']/i);
@@ -51,6 +56,7 @@ async function fetchOne(f) {
         link: i.link || '',
         pubDate,
         image: extractImage(i),
+        author: i.creator || i.author || '',
         excerpt: String(i.contentSnippet || i.summary || '')
           .replace(/<[^>]*>/g, ' ')
           .replace(/\s+/g, ' ')

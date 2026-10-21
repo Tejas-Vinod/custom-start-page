@@ -161,6 +161,7 @@ header{
   opacity:0;
   transition: max-height .32s ease, opacity .18s ease, padding .18s ease;
 }
+.card .byline{font-weight:600;margin-bottom:4px;}
 .card:hover .excerpt{
   padding:8px 12px 14px 12px;
   /* large max-height so the excerpt can expand to fit content; transition animates from 0 to content height */
@@ -866,6 +867,8 @@ async function fetchAndCache(url, cacheKey) {
       if (!isNaN(parsedDate.getTime())) pubDate = parsedDate;
     }
 
+    const author = item.querySelector("dc\\:creator, creator")?.textContent?.trim() || "";
+
     let image = null;
     const mediaContent = item.querySelector("media\\:content, content");
     if (mediaContent) image = mediaContent.getAttribute("url") || mediaContent.getAttribute("src");
@@ -905,7 +908,7 @@ async function fetchAndCache(url, cacheKey) {
     const cleanText = (tmp.textContent || tmp.innerText || '').trim().replace(/\s+/g, ' ');
     const excerpt = cleanText.length > 320 ? cleanText.slice(0, 317) + '...' : cleanText;
 
-    return { title, link, pubDate, image, description: cleanText, excerpt };
+    return { title, link, pubDate, image, author, description: cleanText, excerpt };
   });
 
   // Cache serialized dates
@@ -1065,7 +1068,16 @@ function renderArticles(articles, containerId) {
     const contentEl = card.querySelector('.card-content') || card;
     const excerptEl = document.createElement('div');
     excerptEl.className = 'excerpt';
-    excerptEl.textContent = article.excerpt || article.description || '';
+    const excerpt = article.excerpt || article.description || '';
+    if (article.source === 'NYT' && article.author) {
+      const bylineEl = document.createElement('div');
+      bylineEl.className = 'byline';
+      bylineEl.textContent = `By: ${article.author}`;
+      excerptEl.appendChild(bylineEl);
+      excerptEl.appendChild(document.createTextNode(excerpt));
+    } else {
+      excerptEl.textContent = excerpt;
+    }
     contentEl.appendChild(excerptEl);
 
     // distribute in row-major order: i -> column (i % cols)
