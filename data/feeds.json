@@ -175,7 +175,7 @@
       "title": "NASA Provides Progress Update on Moon Base Rovers",
       "link": "https://www.nasa.gov/missions/moon-base/nasa-provides-progress-update-on-moon-base-rovers/",
       "pubDate": "2026-10-20T15:00:10.000Z",
-      "image": "https://www.nasa.gov/wp-content/uploads/2026/10/moon-base-update-oct-1.jpg?w=1920",
+      "image": "https://www.youtube.com/embed/Zezt6EsG9WE",
       "author": "Victoria Ugalde",
       "excerpt": "As NASA works to build the Moon Base, crewed and robotic lunar rovers will play a crucial role during early development through technology demonstrations, astronaut transport, terrain mapping, scientific investigations, and resource prospecting. Data from these early missions will inform future mobility systems and inf",
       "source": "NASA"
@@ -887,10 +887,28 @@
   ],
   "nytNews": [
     {
+      "title": "Russia Releases American Stephen Hubbard From Prison, State Media Reports",
+      "link": "https://www.nytimes.com/2026/10/21/us/politics/russia-american-prisoner-release-stephen-hubbard-trump.html",
+      "pubDate": "2026-10-21T17:59:13.000Z",
+      "image": "https://static01.nyt.com/images/2026/10/21/multimedia/00dc-hubbard-mhbc/00dc-hubbard-mhbc-mediumSquareAt3X-v3.jpg",
+      "author": "David E. Sanger, Kim Barker and Ivan Nechepurenko",
+      "excerpt": "The move buys good will with President Trump while costing the President Vladimir V. Putin — who is wanted for war crimes — little.",
+      "source": "NYT"
+    },
+    {
+      "title": "Meta Ordered to Pay $25 Billion for Deceiving Users on Privacy",
+      "link": "https://www.nytimes.com/2026/10/21/technology/meta-penalty-new-mexico.html",
+      "pubDate": "2026-10-21T17:55:21.000Z",
+      "image": "https://static01.nyt.com/images/2026/10/01/multimedia/01biz-meta-ruling-bgvc/01biz-meta-ruling-bgvc-mediumSquareAt3X.jpg",
+      "author": "Eli Tan and Cecilia Kang",
+      "excerpt": "The penalty, one of the largest levied against the tech giant, stemmed from a lawsuit by New Mexico claiming the social media company had misled users about their data privacy.",
+      "source": "NYT"
+    },
+    {
       "title": "Brad Lander Is Detained by Israeli Military in West Bank During Volunteer Trip",
       "link": "https://www.nytimes.com/2026/10/21/nyregion/brad-lander-west-bank-idf-detained.html",
       "pubDate": "2026-10-21T17:35:29.000Z",
-      "image": null,
+      "image": "https://static01.nyt.com/images/2026/10/21/multimedia/21met-lander-3-lqbh/21met-lander-3-lqbh-mediumSquareAt3X.jpg",
       "author": "Liam Stack",
       "excerpt": "Mr. Lander, a Democratic congressional nominee from New York, had been helping Palestinian farmers. He said he was released after about three hours, but that other volunteers were still in custody.",
       "source": "NYT"
@@ -899,7 +917,7 @@
       "title": "France Riots Expose the Rage Aimed at Dior, Hermès and Other Luxury Brands",
       "link": "https://www.nytimes.com/2026/10/21/style/france-riots-luxury-dior-hermes.html",
       "pubDate": "2026-10-21T17:26:13.000Z",
-      "image": null,
+      "image": "https://static01.nyt.com/images/2026/10/21/multimedia/21ST-LUXURY-LOOTING-PARIS-1-pkgf/21ST-LUXURY-LOOTING-PARIS-1-pkgf-mediumSquareAt3X.jpg",
       "author": "Vanessa Friedman",
       "excerpt": "The looting of stores belonging to brands like Dior, Celine and Hermès has exposed a crack in the glossy facade.",
       "source": "NYT"
@@ -908,7 +926,7 @@
       "title": "When Starshield Cut Out, Ukrainian Drones Fell From the Skies",
       "link": "https://www.nytimes.com/2026/10/21/world/europe/starshield-starlink-ukraine.html",
       "pubDate": "2026-10-21T17:11:31.000Z",
-      "image": null,
+      "image": "https://static01.nyt.com/images/2026/10/21/multimedia/21int-ukraine-starshield-01-hglc/21int-ukraine-starshield-01-hglc-mediumSquareAt3X.jpg",
       "author": "Siobhán O’Grady, Carlotta Gall and Anton Troianovski",
       "excerpt": "Ukraine says it still doesn’t know why the military satellite internet service, a sister to Starlink, was abruptly throttled, leaving troops vulnerable to Russian attacks.",
       "source": "NYT"
@@ -917,7 +935,7 @@
       "title": "What We Saw at Fast-Track Trials of Riot Suspects in France",
       "link": "https://www.nytimes.com/2026/10/21/france-riots-court-trials.html",
       "pubDate": "2026-10-21T16:47:25.000Z",
-      "image": null,
+      "image": "https://static01.nyt.com/images/2026/10/21/multimedia/21int-france-rioters-lgwk/21int-france-rioters-lgwk-mediumSquareAt3X.jpg",
       "author": "Catherine Porter and Giulia Imbert",
       "excerpt": "At the Tribunal de Paris, judges have supervised a carousel of expedited and often chaotic hearings for those detained during recent unrest.",
       "source": "NYT"
@@ -926,7 +944,7 @@
       "title": "In Trump’s World of International Diplomacy, Insults Are a One-Way Street",
       "link": "https://www.nytimes.com/2026/10/21/us/politics/trumps-diplomacy-insults.html",
       "pubDate": "2026-10-21T16:44:14.000Z",
-      "image": null,
+      "image": "https://static01.nyt.com/images/2026/10/21/multimedia/21dc-memo-top-vbwz/21dc-memo-top-vbwz-mediumSquareAt3X.jpg",
       "author": "Peter Baker",
       "excerpt": "The latest rift with President Volodymyr Zelensky of Ukraine serves as a reminder that President Trump readily lashes out at other world leaders, only to grow outraged if they fight back.",
       "source": "NYT"
@@ -950,46 +968,19 @@
       "source": "NYT"
     },
     {
-      "title": "Russia Releases American Stephen Hubbard From Prison, State Media Reports",
-      "link": "https://www.nytimes.com/2026/10/21/us/politics/russia-american-prisoner-release-stephen-hubbard-trump.html",
-      "pubDate": "2026-10-21T16:09:30.000Z",
-      "image": null,
-      "author": "David E. Sanger, Kim Barker and Ivan Nechepurenko",
-      "excerpt": "The move buys good will with President Trump while costing the President Vladimir V. Putin — who is wanted for war crimes — little.",
-      "source": "NYT"
-    },
-    {
-      "title": "A.I. Election Videos Are Flooding Brazil. Could They Sway the Vote?",
-      "link": "https://www.nytimes.com/2026/10/21/world/americas/ai-election-videos-brazil.html",
-      "pubDate": "2026-10-21T15:42:11.000Z",
-      "image": null,
-      "author": "Ana Ionova",
-      "excerpt": "Brazil spent years targeting electoral lies on the internet. Now, artificial intelligence is stumping the election authorities and reshaping a high-stakes race.",
-      "source": "NYT"
-    },
-    {
       "title": "Macron Says Trump Does Not Like France and Distorts Its Troubles",
       "link": "https://www.nytimes.com/2026/10/21/world/europe/macron-trump-doesnt-like-france.html",
       "pubDate": "2026-10-21T15:26:40.000Z",
-      "image": null,
+      "image": "https://static01.nyt.com/images/2026/10/21/multimedia/21int-france-trump-bcfq/21int-france-trump-bcfq-mediumSquareAt3X-v2.jpg",
       "author": "Ségolène Le Stradic",
       "excerpt": "Speaking in Qatar, President Emmanuel Macron railed against foreign leaders who he said had made false claims about unrest in France for their own political ends.",
-      "source": "NYT"
-    },
-    {
-      "title": "China’s Free A.I. Models Are Thrown Into Uncertainty",
-      "link": "https://www.nytimes.com/2026/10/21/world/asia/china-exports-ai-controls.html",
-      "pubDate": "2026-10-21T14:43:43.000Z",
-      "image": null,
-      "author": "David Pierson and Adam Satariano",
-      "excerpt": "Draft rules on the export of artificial intelligence technology show how China is trying to balance national security risks with its desire to outpace the United States.",
       "source": "NYT"
     },
     {
       "title": "Elon Musk Says SpaceX and Tesla Are Exploring a Merger",
       "link": "https://www.nytimes.com/2026/10/21/business/elon-musk-spacex-tesla-merger.html",
       "pubDate": "2026-10-21T14:39:11.000Z",
-      "image": null,
+      "image": "https://static01.nyt.com/images/2026/10/21/multimedia/biz-spacex-tesla1-mgtq/biz-spacex-tesla1-mgtq-mediumSquareAt3X.jpg",
       "author": "Ryan Mac and Jack Ewing",
       "excerpt": "A deal would consolidate Elon Musk’s holdings in rockets, cars and artificial intelligence into a company worth well over $3 trillion.",
       "source": "NYT"
@@ -998,7 +989,7 @@
       "title": "Inside the World of ‘Dark Nutrition’",
       "link": "https://www.nytimes.com/2026/10/21/magazine/dark-nutrition-raw-meat-diet.html",
       "pubDate": "2026-10-21T14:26:52.000Z",
-      "image": null,
+      "image": "https://static01.nyt.com/images/2026/11/01/magazine/01mag-nutrition/01mag-nutrition-mediumSquareAt3X.jpg",
       "author": "Sophie Haigney",
       "excerpt": "More Americans are rejecting everything they’ve been taught about food.",
       "source": "NYT"
@@ -1007,7 +998,7 @@
       "title": "A Billionaire Wanted a Trump Pardon. His Family Gave Alina Habba a $50 Million Deal.",
       "link": "https://www.nytimes.com/2026/10/20/us/politics/julio-herrera-pardon-alina-habba.html",
       "pubDate": "2026-10-21T14:04:31.000Z",
-      "image": null,
+      "image": "https://static01.nyt.com/images/2026/10/20/us/20dc-pardons-TOP/20dc-pardons-TOP-mediumSquareAt3X-v3.jpg",
       "author": "Tyler Pager",
       "excerpt": "Julio Herrera Velutini, a prominent Venezuelan, was seeking clemency. He got it not long after his daughter gave Ms. Habba, a lawyer close to President Trump, an extraordinarily lucrative job.",
       "source": "NYT"
@@ -1022,19 +1013,10 @@
       "source": "NYT"
     },
     {
-      "title": "How The New York Times Reports on A.I. Images",
-      "link": "https://www.nytimes.com/2026/10/21/insider/trump-ai-videos-photos.html",
-      "pubDate": "2026-10-21T13:21:54.000Z",
-      "image": null,
-      "author": "Mike Abrams, Chloe W. Shakin, Stuart A. Thompson, Aisha Khan and Mark Scheffler",
-      "excerpt": "A Times reporter and editors discuss the challenges of sifting through what’s real and what’s not in pursuit of the news.",
-      "source": "NYT"
-    },
-    {
       "title": "Palestinians Hope Israeli Election Will Oust Netanyahu",
       "link": "https://www.nytimes.com/2026/10/21/world/middleeast/stakes-for-palestinians-of-israel-election.html",
       "pubDate": "2026-10-21T13:10:32.000Z",
-      "image": null,
+      "image": "https://static01.nyt.com/images/2026/10/20/multimedia/20int-palestinian-stakes-htlb/20int-palestinian-stakes-htlb-mediumSquareAt3X.jpg",
       "author": "Adam Rasgon and Aaron Boxerman",
       "excerpt": "Many in Gaza and the West Bank are desperate to avoid more years of Prime Minister Benjamin Netanyahu’s right-wing government, which has made life close to unbearable.",
       "source": "NYT"
@@ -1052,7 +1034,7 @@
       "title": "Idaho Falls",
       "link": "https://www.nytimes.com/2026/10/21/briefing/idaho-womens-health.html",
       "pubDate": "2026-10-21T10:58:01.000Z",
-      "image": null,
+      "image": "https://static01.nyt.com/images/2026/11/01/magazine/21themorning-nl-Idaho-baby/01mag-idaho-2-mediumSquareAt3X-v2.jpg",
       "author": "Sam Sifton",
       "excerpt": "We look at women’s health care in the state.",
       "source": "NYT"
@@ -1061,7 +1043,7 @@
       "title": "Democrats Have a Wide Lead in Our New Poll as Trump Slides",
       "link": "https://www.nytimes.com/2026/10/21/upshot/times-siena-poll-trump-midterms.html",
       "pubDate": "2026-10-21T09:36:35.000Z",
-      "image": null,
+      "image": "https://static01.nyt.com/images/2026/10/20/multimedia/2026-10-16-tilt-uturn-index/2026-10-16-tilt-uturn-index-mediumSquareAt3X-v3.png",
       "author": "Nate Cohn",
       "excerpt": "The map favors Republicans, but cracks in their base are leaving them vulnerable in defending House and Senate control.",
       "source": "NYT"
@@ -1070,7 +1052,7 @@
       "title": "Trump Approval Hits New Low Two Weeks Before Midterms, Poll Finds",
       "link": "https://www.nytimes.com/2026/10/21/us/politics/trump-midterm-election-poll.html",
       "pubDate": "2026-10-21T09:03:22.000Z",
-      "image": null,
+      "image": "https://static01.nyt.com/images/2026/10/20/multimedia/2026-10-16-national-poll-index/2026-10-16-national-poll-index-mediumSquareAt3X-v8.png",
       "author": "Lisa Lerer and Ruth Igielnik",
       "excerpt": "Likely voters favored Democratic candidates over Republicans by 11 percentage points in their congressional district, a New York Times/Siena poll found.",
       "source": "NYT"
@@ -1079,7 +1061,7 @@
       "title": "How to Lower Your Alzheimer’s Risk if You Have the APOE4 Gene Variant",
       "link": "https://www.nytimes.com/2026/10/21/well/mind/alzheimers-apoe4-reduce-risk.html",
       "pubDate": "2026-10-21T09:01:49.000Z",
-      "image": null,
+      "image": "https://static01.nyt.com/images/2026/10/21/well/21WELL-APOE4-image/21WELL-APOE4-image-mediumSquareAt3X.jpg",
       "author": "Dana G. Smith",
       "excerpt": "People with the APOE4 gene variant have more to lose from unhealthy habits — and potentially more to gain from healthy ones.",
       "source": "NYT"
@@ -1088,7 +1070,7 @@
       "title": "Death Toll From Venezuela Quakes Likely Far Exceeds Official Count",
       "link": "https://www.nytimes.com/2026/10/21/world/americas/venezuela-earthquakes-deaths.html",
       "pubDate": "2026-10-21T09:00:24.000Z",
-      "image": null,
+      "image": "https://static01.nyt.com/images/2026/10/14/multimedia/venezuela-deaths-kclz/venezuela-deaths-kclz-mediumSquareAt3X.jpg",
       "author": "James Glanz, Julie Turkewitz and Helmuth Rosales",
       "excerpt": "A Times analysis and U.S. Geological Survey data indicate that the official 6,509 death toll is probably a severe undercount.",
       "source": "NYT"
