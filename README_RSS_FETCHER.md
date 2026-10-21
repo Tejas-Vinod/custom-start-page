@@ -4,8 +4,9 @@ This repo contains a small GitHub Actions workflow and Node script that fetches 
 
 How it works:
 - Action runs hourly (or manually) and executes `node scripts/fetch_feeds.js`.
-- The script collects items and writes `data/feeds.json`.
-- Your static page fetches `/data/feeds.json` at runtime and renders articles.
+- The script collects items from the space, industry, and NYT feeds and writes `data/feeds.json`.
+- Your static page fetches `data/feeds.json` relative to the site URL, which works both on a custom domain and under a GitHub Pages project path.
+- If an individual feed is temporarily unavailable, the script keeps that feed's previously generated items instead of replacing them with an empty list.
 
 To run locally:
 

@@ -998,7 +998,7 @@ function renderArticles(articles, containerId) {
 // LOAD ALL FEEDS — try prebuilt JSON (from GitHub Actions) first, fall back to runtime fetch
 (async function loadOrFetch() {
   try {
-    const res = await fetch('/data/feeds.json', { cache: 'no-cache' });
+    const res = await fetch(new URL('data/feeds.json', document.baseURI), { cache: 'no-cache' });
     if (res.ok) {
       const json = await res.json();
 
