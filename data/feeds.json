@@ -1,6 +1,15 @@
 {
   "spaceNews": [
     {
+      "title": "NASA JPL Looks to Next 90 Years of Innovation, Exploration",
+      "link": "https://www.nasa.gov/centers-and-facilities/jpl/nasa-jpl-looks-to-next-90-years-of-innovation-exploration/",
+      "pubDate": "2026-10-21T18:35:56.000Z",
+      "image": "https://www.nasa.gov/wp-content/uploads/2026/10/jpl90collage-v3-jpg-16x9-1.jpg?w=2048",
+      "author": "Amanda Barnett",
+      "excerpt": "Interstellar probes. Lunar drones. Helicopters on Mars. When a group of Caltech graduate students and enthusiasts began conducting rocket-propulsion tests in Pasadena’s Arroyo Seco on Oct. 31, 1936, they had no idea that their work marked the inception of the Jet Propulsion Laboratory. Ninety years later, the lab, now ",
+      "source": "NASA"
+    },
+    {
       "title": "NASA to Conduct NCAA Flyover, Engage Fans at University of Alabama",
       "link": "https://www.nasa.gov/news-release/nasa-to-conduct-ncaa-flyover-engage-fans-at-university-of-alabama/",
       "pubDate": "2026-10-21T16:31:11.000Z",
@@ -169,15 +178,6 @@
       "image": "https://www.nasa.gov/wp-content/uploads/2026/10/ingenuity-airfoil-clf5605.png",
       "author": "Arezu Sarvestani",
       "excerpt": "NASA researchers are developing the future of flight on Mars, laying the groundwork for helicopters with the ability to fly higher and farther while conducting science on the Red Planet. Using high-fidelity computer simulations and wind tunnel tests, engineers are reimagining the rotorcraft blades that could carry the ",
-      "source": "NASA"
-    },
-    {
-      "title": "NASA Provides Progress Update on Moon Base Rovers",
-      "link": "https://www.nasa.gov/missions/moon-base/nasa-provides-progress-update-on-moon-base-rovers/",
-      "pubDate": "2026-10-20T15:00:10.000Z",
-      "image": "https://www.youtube.com/embed/Zezt6EsG9WE",
-      "author": "Victoria Ugalde",
-      "excerpt": "As NASA works to build the Moon Base, crewed and robotic lunar rovers will play a crucial role during early development through technology demonstrations, astronaut transport, terrain mapping, scientific investigations, and resource prospecting. Data from these early missions will inform future mobility systems and inf",
       "source": "NASA"
     },
     {
@@ -577,15 +577,6 @@
       "source": "SpaceNews"
     },
     {
-      "title": "Deposition Sciences, Inc. Expands Sunshade® Tape Offering with New 12″ × 30″ Format",
-      "link": "https://spacenews.com/deposition-sciences-inc-expands-sunshade-tape-offering-with-new-12-x-30-format/",
-      "pubDate": "2026-10-06T19:20:20.000Z",
-      "image": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/10/DSI_short-Logo_OUTLINE-scaled.png?fit=1024%2C791&amp;ssl=1",
-      "author": "Deposition Sciences, Inc",
-      "excerpt": "Santa Rosa, CA — October 2026 — Deposition Sciences, Inc. (DSI), a leader in advanced thin film coatings, proudly announces the introduction of a new 12″ × 30″ format for […] The post Deposition Sciences, Inc. Expands Sunshade® Tape Offering with New 12″ × 30″ Format appeared first on SpaceNews.",
-      "source": "SpaceNews"
-    },
-    {
       "title": "The telescope that could reveal what dark matter and dark energy are",
       "link": "https://www.newscientist.com/article/2591580-the-telescope-that-could-reveal-what-dark-matter-and-dark-energy-are/?utm_campaign=RSS|NSNS&utm_content=space&utm_medium=RSS&utm_source=NSNS",
       "pubDate": "2026-10-06T17:00:00.000Z",
@@ -887,39 +878,75 @@
   ],
   "nytNews": [
     {
-      "title": "Russia Releases American Stephen Hubbard From Prison, State Media Reports",
-      "link": "https://www.nytimes.com/2026/10/21/us/politics/russia-american-prisoner-release-stephen-hubbard-trump.html",
-      "pubDate": "2026-10-21T17:59:13.000Z",
-      "image": "https://static01.nyt.com/images/2026/10/21/multimedia/00dc-hubbard-mhbc/00dc-hubbard-mhbc-mediumSquareAt3X-v3.jpg",
-      "author": "David E. Sanger, Kim Barker and Ivan Nechepurenko",
-      "excerpt": "The move buys good will with President Trump while costing the President Vladimir V. Putin — who is wanted for war crimes — little.",
+      "title": "Abdul El-Sayed Confronts Attacks on His Faith and Family Ties",
+      "link": "https://www.nytimes.com/2026/10/21/us/politics/abdul-el-sayed-muslim-brotherhood-mother-half-sister.html",
+      "pubDate": "2026-10-21T20:20:19.000Z",
+      "image": "https://static01.nyt.com/images/2026/10/21/multimedia/21pol-el-sayed-01-zhwg/21pol-el-sayed-01-zhwg-mediumSquareAt3X.jpg",
+      "author": "Reid J. Epstein, Brian M. Rosenthal and Michael Kruse",
+      "excerpt": "In the final weeks of Michigan’s Senate race, the Democratic nominee finds himself facing both ugly attacks and pointed questions about family members. He has pushed back forcefully.",
       "source": "NYT"
     },
     {
-      "title": "Meta Ordered to Pay $25 Billion for Deceiving Users on Privacy",
+      "title": "Tesla Earnings Show Profit Declines Amid Talks to Merge With SpaceX",
+      "link": "https://www.nytimes.com/2026/10/21/business/tesla-earnings-ai-robots.html",
+      "pubDate": "2026-10-21T20:11:27.000Z",
+      "image": "https://static01.nyt.com/images/2026/10/21/multimedia/21biz-tesla-earnings-jgch/21biz-tesla-earnings-jgch-mediumSquareAt3X.jpg",
+      "author": "Jack Ewing",
+      "excerpt": "The carmaker, which is controlled by Elon Musk and is considering merging with another of his companies, SpaceX, spent heavily on artificial intelligence and other new technologies.",
+      "source": "NYT"
+    },
+    {
+      "title": "France Riots Expose the Rage Aimed at Dior, Hermès and Other Luxury Brands",
+      "link": "https://www.nytimes.com/2026/10/21/style/france-riots-luxury-dior-hermes.html",
+      "pubDate": "2026-10-21T20:03:25.000Z",
+      "image": "https://static01.nyt.com/images/2026/10/21/multimedia/21ST-LUXURY-LOOTING-PARIS-1-pkgf/21ST-LUXURY-LOOTING-PARIS-1-pkgf-mediumSquareAt3X.jpg",
+      "author": "Vanessa Friedman",
+      "excerpt": "The looting of stores belonging to brands like Dior, Celine and Hermès has exposed a crack in the glossy facade.",
+      "source": "NYT"
+    },
+    {
+      "title": "Meta Ordered to Pay $25 Billion Over Cambridge Analytica Privacy Violations",
       "link": "https://www.nytimes.com/2026/10/21/technology/meta-penalty-new-mexico.html",
-      "pubDate": "2026-10-21T17:55:21.000Z",
+      "pubDate": "2026-10-21T19:57:08.000Z",
       "image": "https://static01.nyt.com/images/2026/10/01/multimedia/01biz-meta-ruling-bgvc/01biz-meta-ruling-bgvc-mediumSquareAt3X.jpg",
       "author": "Eli Tan and Cecilia Kang",
       "excerpt": "The penalty, one of the largest levied against the tech giant, stemmed from a lawsuit by New Mexico claiming the social media company had misled users about their data privacy.",
       "source": "NYT"
     },
     {
-      "title": "Brad Lander Is Detained by Israeli Military in West Bank During Volunteer Trip",
-      "link": "https://www.nytimes.com/2026/10/21/nyregion/brad-lander-west-bank-idf-detained.html",
-      "pubDate": "2026-10-21T17:35:29.000Z",
-      "image": "https://static01.nyt.com/images/2026/10/21/multimedia/21met-lander-3-lqbh/21met-lander-3-lqbh-mediumSquareAt3X.jpg",
-      "author": "Liam Stack",
-      "excerpt": "Mr. Lander, a Democratic congressional nominee from New York, had been helping Palestinian farmers. He said he was released after about three hours, but that other volunteers were still in custody.",
+      "title": "Macron Says Trump Does Not Like France and Distorts Its Troubles",
+      "link": "https://www.nytimes.com/2026/10/21/world/europe/macron-trump-france-protests.html",
+      "pubDate": "2026-10-21T19:16:14.000Z",
+      "image": "https://static01.nyt.com/images/2026/10/21/multimedia/21int-france-trump-bcfq/21int-france-trump-bcfq-mediumSquareAt3X-v2.jpg",
+      "author": "Ségolène Le Stradic",
+      "excerpt": "Speaking in Qatar, President Emmanuel Macron railed against foreign leaders who he said had made false claims about unrest in France for their own political ends.",
       "source": "NYT"
     },
     {
-      "title": "France Riots Expose the Rage Aimed at Dior, Hermès and Other Luxury Brands",
-      "link": "https://www.nytimes.com/2026/10/21/style/france-riots-luxury-dior-hermes.html",
-      "pubDate": "2026-10-21T17:26:13.000Z",
-      "image": "https://static01.nyt.com/images/2026/10/21/multimedia/21ST-LUXURY-LOOTING-PARIS-1-pkgf/21ST-LUXURY-LOOTING-PARIS-1-pkgf-mediumSquareAt3X.jpg",
-      "author": "Vanessa Friedman",
-      "excerpt": "The looting of stores belonging to brands like Dior, Celine and Hermès has exposed a crack in the glossy facade.",
+      "title": "Cornell Case Highlights Shifting Federal Title IX Enforcement",
+      "link": "https://www.nytimes.com/2026/10/21/us/politics/title-ix-trump-administration-cornell.html",
+      "pubDate": "2026-10-21T19:04:32.000Z",
+      "image": "https://static01.nyt.com/images/2026/10/21/multimedia/21dc-title-nine-01-wcmg/21dc-title-nine-01-wcmg-mediumSquareAt3X.jpg",
+      "author": "Michael C. Bender",
+      "excerpt": "From Barack Obama to Donald Trump, ideology has infused the interpretation of the federal law banning sex discrimination on college campuses.",
+      "source": "NYT"
+    },
+    {
+      "title": "Is Rabies Making a Comeback?",
+      "link": "https://www.nytimes.com/2026/10/21/science/rabies-virus-animals.html",
+      "pubDate": "2026-10-21T18:59:45.000Z",
+      "image": null,
+      "author": "Emily Anthes",
+      "excerpt": "As several states report surges in animal cases, federal officials are warning about an apparent increase in human exposures.",
+      "source": "NYT"
+    },
+    {
+      "title": "Russia Releases American Stephen Hubbard From Prison, State Media Reports",
+      "link": "https://www.nytimes.com/2026/10/21/us/politics/russia-american-prisoner-release-stephen-hubbard-trump.html",
+      "pubDate": "2026-10-21T18:58:22.000Z",
+      "image": "https://static01.nyt.com/images/2026/10/21/multimedia/00dc-hubbard-mhbc/00dc-hubbard-mhbc-mediumSquareAt3X-v3.jpg",
+      "author": "David E. Sanger, Kim Barker and Ivan Nechepurenko",
+      "excerpt": "The move buys good will with President Trump while costing the President Vladimir V. Putin — who is wanted for war crimes — little.",
       "source": "NYT"
     },
     {
@@ -941,21 +968,21 @@
       "source": "NYT"
     },
     {
-      "title": "In Trump’s World of International Diplomacy, Insults Are a One-Way Street",
-      "link": "https://www.nytimes.com/2026/10/21/us/politics/trumps-diplomacy-insults.html",
-      "pubDate": "2026-10-21T16:44:14.000Z",
-      "image": "https://static01.nyt.com/images/2026/10/21/multimedia/21dc-memo-top-vbwz/21dc-memo-top-vbwz-mediumSquareAt3X.jpg",
-      "author": "Peter Baker",
-      "excerpt": "The latest rift with President Volodymyr Zelensky of Ukraine serves as a reminder that President Trump readily lashes out at other world leaders, only to grow outraged if they fight back.",
+      "title": "What Putin Gains From Releasing an American Prisoner",
+      "link": "https://www.nytimes.com/video/us/100000011223251/what-putin-gains-from-releasing-an-american-prisoner.html",
+      "pubDate": "2026-10-21T16:45:07.000Z",
+      "image": null,
+      "author": "David E. Sanger, Nikolay Nikolov, Paul Abowd, Alexandra Ostasiewicz, Jon Miller, Rafaela Balster, Stephanie Swart and Whitney Shefte",
+      "excerpt": "After Russia released an American prisoner, President Trump’s special envoy praised President Vladimir V. Putin as “a humanitarian.” Our White House and national security correspondent, David E. Sanger, describes how the release comes amid Mr. Trump’s broader shift toward Russia and away from Ukraine.",
       "source": "NYT"
     },
     {
-      "title": "A Mother Searches for Her Son, One Graffiti Tag at a Time",
-      "link": "https://www.nytimes.com/2026/10/21/opinion/graffiti-mother-son-relationship-sweden.html",
-      "pubDate": "2026-10-21T16:43:35.000Z",
-      "image": null,
-      "author": "Leona Cauklija",
-      "excerpt": "On cement walls and through dusty windows, a mother reaches out to her child.",
+      "title": "In Trump’s Diplomacy, Insults Are a One-Way Street. Ukraine Is the Latest Example.",
+      "link": "https://www.nytimes.com/2026/10/21/us/politics/trumps-diplomacy-insults.html",
+      "pubDate": "2026-10-21T16:44:15.000Z",
+      "image": "https://static01.nyt.com/images/2026/10/21/multimedia/21dc-memo-top-vbwz/21dc-memo-top-vbwz-mediumSquareAt3X.jpg",
+      "author": "Peter Baker",
+      "excerpt": "The latest rift with President Volodymyr Zelensky of Ukraine serves as a reminder that President Trump readily lashes out at other world leaders, only to grow outraged if they fight back.",
       "source": "NYT"
     },
     {
@@ -965,24 +992,6 @@
       "image": null,
       "author": "Robert E. Rubin",
       "excerpt": "Trump’s meddling would have dark consequences for our democracy and our prosperity.",
-      "source": "NYT"
-    },
-    {
-      "title": "Macron Says Trump Does Not Like France and Distorts Its Troubles",
-      "link": "https://www.nytimes.com/2026/10/21/world/europe/macron-trump-doesnt-like-france.html",
-      "pubDate": "2026-10-21T15:26:40.000Z",
-      "image": "https://static01.nyt.com/images/2026/10/21/multimedia/21int-france-trump-bcfq/21int-france-trump-bcfq-mediumSquareAt3X-v2.jpg",
-      "author": "Ségolène Le Stradic",
-      "excerpt": "Speaking in Qatar, President Emmanuel Macron railed against foreign leaders who he said had made false claims about unrest in France for their own political ends.",
-      "source": "NYT"
-    },
-    {
-      "title": "Elon Musk Says SpaceX and Tesla Are Exploring a Merger",
-      "link": "https://www.nytimes.com/2026/10/21/business/elon-musk-spacex-tesla-merger.html",
-      "pubDate": "2026-10-21T14:39:11.000Z",
-      "image": "https://static01.nyt.com/images/2026/10/21/multimedia/biz-spacex-tesla1-mgtq/biz-spacex-tesla1-mgtq-mediumSquareAt3X.jpg",
-      "author": "Ryan Mac and Jack Ewing",
-      "excerpt": "A deal would consolidate Elon Musk’s holdings in rockets, cars and artificial intelligence into a company worth well over $3 trillion.",
       "source": "NYT"
     },
     {
@@ -1004,21 +1013,12 @@
       "source": "NYT"
     },
     {
-      "title": "Is Rabies Making a Comeback?",
-      "link": "https://www.nytimes.com/2026/10/21/science/rabies-virus-animals.html",
-      "pubDate": "2026-10-21T14:00:07.000Z",
+      "title": "Everything Feels So Expensive. Here’s What’s Really Going On.",
+      "link": "https://www.nytimes.com/2026/10/21/opinion/affordability-crisis-prices-economics.html",
+      "pubDate": "2026-10-21T12:10:49.000Z",
       "image": null,
-      "author": "Emily Anthes",
-      "excerpt": "As several states report surges in animal cases, federal officials are warning about an apparent increase in human exposures.",
-      "source": "NYT"
-    },
-    {
-      "title": "Palestinians Hope Israeli Election Will Oust Netanyahu",
-      "link": "https://www.nytimes.com/2026/10/21/world/middleeast/stakes-for-palestinians-of-israel-election.html",
-      "pubDate": "2026-10-21T13:10:32.000Z",
-      "image": "https://static01.nyt.com/images/2026/10/20/multimedia/20int-palestinian-stakes-htlb/20int-palestinian-stakes-htlb-mediumSquareAt3X.jpg",
-      "author": "Adam Rasgon and Aaron Boxerman",
-      "excerpt": "Many in Gaza and the West Bank are desperate to avoid more years of Prime Minister Benjamin Netanyahu’s right-wing government, which has made life close to unbearable.",
+      "author": "Natasha Sarin",
+      "excerpt": "Whatever you call it, we can all agree this doesn’t feel good.",
       "source": "NYT"
     },
     {
@@ -1028,33 +1028,6 @@
       "image": null,
       "author": "Emily Lordi",
       "excerpt": "A shape-shifter with talent and personality to spare, the rapper keeps finding new ways to express herself.",
-      "source": "NYT"
-    },
-    {
-      "title": "Idaho Falls",
-      "link": "https://www.nytimes.com/2026/10/21/briefing/idaho-womens-health.html",
-      "pubDate": "2026-10-21T10:58:01.000Z",
-      "image": "https://static01.nyt.com/images/2026/11/01/magazine/21themorning-nl-Idaho-baby/01mag-idaho-2-mediumSquareAt3X-v2.jpg",
-      "author": "Sam Sifton",
-      "excerpt": "We look at women’s health care in the state.",
-      "source": "NYT"
-    },
-    {
-      "title": "Democrats Have a Wide Lead in Our New Poll as Trump Slides",
-      "link": "https://www.nytimes.com/2026/10/21/upshot/times-siena-poll-trump-midterms.html",
-      "pubDate": "2026-10-21T09:36:35.000Z",
-      "image": "https://static01.nyt.com/images/2026/10/20/multimedia/2026-10-16-tilt-uturn-index/2026-10-16-tilt-uturn-index-mediumSquareAt3X-v3.png",
-      "author": "Nate Cohn",
-      "excerpt": "The map favors Republicans, but cracks in their base are leaving them vulnerable in defending House and Senate control.",
-      "source": "NYT"
-    },
-    {
-      "title": "Trump Approval Hits New Low Two Weeks Before Midterms, Poll Finds",
-      "link": "https://www.nytimes.com/2026/10/21/us/politics/trump-midterm-election-poll.html",
-      "pubDate": "2026-10-21T09:03:22.000Z",
-      "image": "https://static01.nyt.com/images/2026/10/20/multimedia/2026-10-16-national-poll-index/2026-10-16-national-poll-index-mediumSquareAt3X-v8.png",
-      "author": "Lisa Lerer and Ruth Igielnik",
-      "excerpt": "Likely voters favored Democratic candidates over Republicans by 11 percentage points in their congressional district, a New York Times/Siena poll found.",
       "source": "NYT"
     },
     {
