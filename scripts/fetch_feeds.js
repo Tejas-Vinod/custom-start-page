@@ -1,7 +1,12 @@
 const fs = require('fs');
 const path = require('path');
 const Parser = require('rss-parser');
-const parser = new Parser({ timeout: 15000 });
+const parser = new Parser({
+  timeout: 15000,
+  customFields: {
+    item: [['media:content', 'mediaContent', { keepArray: true }]]
+  }
+});
 
 const outPath = path.join(__dirname, '..', 'data', 'feeds.json');
 
