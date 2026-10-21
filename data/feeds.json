@@ -5,7 +5,17 @@
       "link": "https://www.nasa.gov/news-release/nasa-to-conduct-ncaa-flyover-engage-fans-at-university-of-alabama/",
       "pubDate": "2026-10-21T16:31:11.000Z",
       "image": "https://www.nasa.gov/wp-content/uploads/2026/10/grc-2026-c-06389large.jpg?w=1920",
+      "author": "Lee Mohon",
       "excerpt": "As part of the agency’s Inspiration Tour, NASA will conduct a flyover at the University of Alabama vs. Texas A&M football game in Tuscaloosa, Alabama, on Saturday, Oct. 24. NASA Administrator Jared Isaacman will pilot one of three F-5 fighter jets during the flyover, highlighting NASA’s contributions to aeronautics and",
+      "source": "NASA"
+    },
+    {
+      "title": "Tracks Along the Longest Drive on Another World",
+      "link": "https://science.nasa.gov/blog/tracks-along-the-longest-drive-on-another-world/",
+      "pubDate": "2026-10-21T15:50:44.000Z",
+      "image": "https://assets.science.nasa.gov/dynamicimage/assets/science/missions/mars2020/2026/perseverance-rover-updates/Mars_Perseverance_NLF_2006_0845030184_441ECM_N0911496NCAM03006_04_195J.jpg?w=1288&#038;h=968&#038;fit=clip&#038;crop=faces%2Cfocalpoint",
+      "author": "",
+      "excerpt": "Written by Vandi Verma, Chief Engineer for Robotic Operations at NASA’s Jet Propulsion Laboratory Oct. 12, 2026 Since the last blog update, Perseverance has achieved a major milestone on Mars. On Sol 2006 (Oct. 11, 2026), its odometer reached 45.22 kilometers (28.10 miles), setting a new record for the farthest distanc",
       "source": "NASA"
     },
     {
@@ -13,6 +23,7 @@
       "link": "https://spacenews.com/technomile-recognized-as-a-2026-inc-power-partner-award-winner/",
       "pubDate": "2026-10-21T15:26:29.000Z",
       "image": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/10/TechnoMile-Horizontal-Logo-scaled.png?fit=1024%2C153&amp;ssl=1",
+      "author": "TechnoMile",
       "excerpt": "TechnoMile, the leading AI solution that unifies growth, contracts, compliance, and security workflows, has been named a 2026 Inc. Power Partner Awards winner, recognizing the company among the leading B2B […] The post TechnoMile Recognized as a 2026 Inc. Power Partner Award Winner appeared first on SpaceNews.",
       "source": "SpaceNews"
     },
@@ -21,6 +32,7 @@
       "link": "https://www.nasa.gov/image-article/science-on-the-space-station-with-nasa-astronaut-jessica-watkins/",
       "pubDate": "2026-10-21T15:05:08.000Z",
       "image": "https://www.nasa.gov/wp-content/uploads/2026/10/iss075e0190239orig.jpg?w=2048",
+      "author": "HQ Web Team",
       "excerpt": "NASA astronaut and Expedition 75 flight engineer Jessica Watkins works inside the Kibo laboratory module’s Life Science Glovebox on Oct. 9, 2026, safely mixing living cell samples with a bioink and then filling a special cartridge with the cell‑ink mixture. The advanced research operations were part of the InSPA‑Auxili",
       "source": "NASA"
     },
@@ -29,6 +41,7 @@
       "link": "https://spacenews.com/global-satcom-services-revenues-to-reach-145-billion-by-2035/",
       "pubDate": "2026-10-21T15:00:22.000Z",
       "image": "https://i0.wp.com/spacenews.com/wp-content/uploads/2025/04/novaspace-square-1-scaled.png?fit=1024%2C1024&amp;ssl=1",
+      "author": "Novaspace",
       "excerpt": "Paris, France | October 2026 – Global satellite services revenues are forecast to grow 44% to reach $145 billion by 2035, according to the 33rd edition of Novaspace’s Satellite Connectivity […] The post Global Satcom Services Revenues to Reach $145 Billion by 2035 appeared first on SpaceNews.",
       "source": "SpaceNews"
     },
@@ -37,6 +50,7 @@
       "link": "https://spacenews.com/space-nuclear-power-corporation-awarded-darpa-agreement-for-ground-test-of-autonomous-nuclear-reactor-controller/",
       "pubDate": "2026-10-21T14:29:57.000Z",
       "image": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/10/Space_Nukes_Logo.jpg?fit=703%2C368&amp;ssl=1",
+      "author": "Space Nuclear Power Corporation",
       "excerpt": "LOS ALAMOS, N.M. — October 21, 2026 — Space Nuclear Power Corporation (SpaceNukes) announced today that the Defense Advanced Research Projects Agency (DARPA) has awarded the company an Other Transaction […] The post Space Nuclear Power Corporation Awarded DARPA Agreement for Ground Test of Autonomous Nuclear Reactor Co",
       "source": "SpaceNews"
     },
@@ -45,6 +59,7 @@
       "link": "https://science.nasa.gov/science-research/science-enabling-technology/technology-highlights/nasas-casals-instrument-bridges-gaps-in-3d-maps-of-earths-surface/",
       "pubDate": "2026-10-21T12:17:58.000Z",
       "image": "https://assets.science.nasa.gov/content/dam/science/esd/eo/images/iotd/2026/extratropical-cyclone-whips-past-iceland/icelandstorm_vir2_20261014_th.jpg/jcr:content/renditions/cq5dam.thumbnail.319.319.png",
+      "author": "",
       "excerpt": "From orbit, today’s space-based laser instruments measure Earth’s forests and terrain one narrow line at a time. Between those lines are enormous gaps that include millions of acres of land scientists never directly measure. NASA’s CASALS instrument will blend machine learning with an ultra-compact lidar instrument to ",
       "source": "NASA"
     },
@@ -53,6 +68,7 @@
       "link": "https://payloadspace.com/hewlett-packard-enterprise-to-send-ai-compute-module-to-the-moon/",
       "pubDate": "2026-10-21T12:14:24.000Z",
       "image": "https://payloadspace.com/wp-content/uploads/2026/10/HPjfn3wXEAA6aU4-200x200.jpeg",
+      "author": "Douglas Gorman",
       "excerpt": "Hewlett Packard Enterprise ($HPE) is taking remote working to a whole new level. The post Hewlett Packard Enterprise to Send AI Compute Module to the Moon appeared first on Payload.",
       "source": "Payload"
     },
@@ -61,6 +77,7 @@
       "link": "https://spacenews.com/solstar-provides-wi-fi-connectivity-for-nasa-proximity-operations-demonstration/",
       "pubDate": "2026-10-21T12:00:00.000Z",
       "image": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/10/rsz_nasa_solstar_momentus_iridium_proximity_operation_render_no_logos.png?fit=879%2C494&amp;ssl=1",
+      "author": "Debra Werner",
       "excerpt": "SAN FRANCISCO – Wi-Fi technology from Solstar Space connected NASA’s R5-S10 cubesat with Momentus’ Vigoride-7 orbital service vehicle during proximity operations and relayed data to NASA’s Johnson Space Center, Solstar […] The post Solstar provides Wi-Fi connectivity for NASA proximity operations demonstration appeared",
       "source": "SpaceNews"
     },
@@ -69,6 +86,7 @@
       "link": "https://spacenews.com/summer-of-quantum-building-momentum-for-space-based-qkd/",
       "pubDate": "2026-10-21T11:54:30.000Z",
       "image": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/10/White-CPL-Logo11.png?fit=1024%2C1024&amp;ssl=1",
+      "author": "Craft Prospect",
       "excerpt": "Glasgow, UK | 21 October 2026 – The pace of development in quantum technologies continues to accelerate, and over the past few months, space engineering company Craft Prospect has been […] The post Summer of Quantum: Building momentum for space-based QKD appeared first on SpaceNews.",
       "source": "SpaceNews"
     },
@@ -77,6 +95,7 @@
       "link": "https://science.nasa.gov/image-article/apod-2026-october-21-new-ghosts-revealed-in-cassiopeia/",
       "pubDate": "2026-10-21T04:05:00.000Z",
       "image": "https://assets.science.nasa.gov/dynamicimage/assets/science/cds/apod/apod/2026/october/IC63.png?w=2622&#038;h=1751&#038;fit=clip&#038;crop=faces%2Cfocalpoint",
+      "author": "",
       "excerpt": "APOD Science APOD APOD: 2026 October 21 – New… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professio",
       "source": "NASA"
     },
@@ -85,6 +104,7 @@
       "link": "https://science.nasa.gov/earth/earth-observatory/extratropical-cyclone-whips-past-iceland/",
       "pubDate": "2026-10-21T04:01:00.000Z",
       "image": "https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2026/extratropical-cyclone-whips-past-iceland/icelandstorm_vir2_20261014.jpg?w=2048&#038;h=1764&#038;fit=clip&#038;crop=faces%2Cfocalpoint",
+      "author": "",
       "excerpt": "The powerful low-pressure system formed over the North Atlantic out of the remnants of Hurricane Isaias.",
       "source": "NASA"
     },
@@ -93,6 +113,7 @@
       "link": "https://payloadspace.com/spacexs-ai-revenue-leads-q3-earnings/",
       "pubDate": "2026-10-21T02:50:15.000Z",
       "image": "https://payloadspace.com/wp-content/uploads/2026/10/Screenshot-2026-10-20-at-9.45.57-PM-200x200.png",
+      "author": "Victoria Woodburn",
       "excerpt": "With its first full quarter as a public company under its belt, SpaceX blew past expectations Tuesday with ~$14.6B in revenue and net income of $4.4B. The post SpaceX’s AI Revenue Leads Q3 Earnings appeared first on Payload.",
       "source": "Payload"
     },
@@ -101,6 +122,7 @@
       "link": "https://spaceflightnow.com/2026/10/20/live-coverage-spacex-to-launch-27-starlink-satellites-on-falcon-9-rocket-from-vandenberg-sfb-5/",
       "pubDate": "2026-10-20T21:18:11.000Z",
       "image": "https://spaceflightnow.com/wp-content/uploads/2026/10/20261001-Vandenberg-File-Feature-Image.jpg",
+      "author": "Will Robinson-Smith",
       "excerpt": "Liftoff from pad 4E at Vandenberg Space Force Base is scheduled for 4:02 p.m. PDT (7:02 p.m. EDT / 2302 UTC) on Wednesday, Oct. 21.",
       "source": "Spaceflight Now"
     },
@@ -109,6 +131,7 @@
       "link": "https://www.nasa.gov/general/nasa-to-conduct-low-altitude-flights-over-texas-farmland/",
       "pubDate": "2026-10-20T20:21:36.000Z",
       "image": "https://www.nasa.gov/wp-content/uploads/2026/09/a200-king-air-da.jpg?w=960",
+      "author": "Gianine Figliozzi",
       "excerpt": "Editor’s Note: This article was originally published on Oct. 15, 2026, and has been updated to correct the location of the flights. A NASA Dynamic Aviation A200 aircraft will conduct low-flying research flights over farmland near Amarillo, Texas, from Thursday, Oct. 22, through Monday, Nov. 9. These flights will measur",
       "source": "NASA"
     },
@@ -117,6 +140,7 @@
       "link": "https://www.nasa.gov/centers-and-facilities/glenn/sr-1-freedom-advances-with-progress-on-nuclear-power-module/",
       "pubDate": "2026-10-20T18:11:33.000Z",
       "image": "https://www.nasa.gov/wp-content/uploads/2026/10/sr-1-freedom-lmo-2.jpg?w=1920",
+      "author": "Gary Daines",
       "excerpt": "Destined for Mars and beyond, NASA’s Space Reactor-1 (SR-1) Freedom will be humanity’s first fission-powered spacecraft to travel outside Earth’s orbit. Announced during NASA’s “Ignition” event, this mission will demonstrate nuclear electric propulsion in deep space, and progress is underway on its key element: the nuc",
       "source": "NASA"
     },
@@ -125,6 +149,7 @@
       "link": "https://www.astronomy.com/observing/understanding-celestial-coordinates/",
       "pubDate": "2026-10-20T16:55:18.000Z",
       "image": null,
+      "author": "Brooks Mendenhall",
       "excerpt": "Just as we use latitude and longitude to know the precise position of something on Earth’s surface, it’s useful to have a system for knowing the position of objects in the heavens. The widely used system of right ascension and declination does the job — and dates back at least to the time of HipparchusContinue reading ",
       "source": "Astronomy Magazine"
     },
@@ -133,6 +158,7 @@
       "link": "https://payloadspace.com/senators-ask-ig-to-investigate-starlink-disruptions-in-ukraine/",
       "pubDate": "2026-10-20T16:39:42.000Z",
       "image": "https://payloadspace.com/wp-content/uploads/2023/04/StarlinkTrails_Filter_1080-200x200.jpg",
+      "author": "Jacqueline Feldscher",
       "excerpt": "“The United States government has a fundamental obligation to protect American personnel serving overseas,” the senators wrote. “The possibility that American personnel were endangered by preventable disruptions, inadequate coordination, or decisions made by their own government demands immediate scrutiny and accountab",
       "source": "Payload"
     },
@@ -141,6 +167,7 @@
       "link": "https://www.nasa.gov/science-research/aeronautics-research/nasa-experimental-mars-helicopter-blade-designs-target-longer-flights/",
       "pubDate": "2026-10-20T16:02:35.000Z",
       "image": "https://www.nasa.gov/wp-content/uploads/2026/10/ingenuity-airfoil-clf5605.png",
+      "author": "Arezu Sarvestani",
       "excerpt": "NASA researchers are developing the future of flight on Mars, laying the groundwork for helicopters with the ability to fly higher and farther while conducting science on the Red Planet. Using high-fidelity computer simulations and wind tunnel tests, engineers are reimagining the rotorcraft blades that could carry the ",
       "source": "NASA"
     },
@@ -149,15 +176,8 @@
       "link": "https://www.nasa.gov/missions/moon-base/nasa-provides-progress-update-on-moon-base-rovers/",
       "pubDate": "2026-10-20T15:00:10.000Z",
       "image": "https://www.nasa.gov/wp-content/uploads/2026/10/moon-base-update-oct-1.jpg?w=1920",
+      "author": "Victoria Ugalde",
       "excerpt": "As NASA works to build the Moon Base, crewed and robotic lunar rovers will play a crucial role during early development through technology demonstrations, astronaut transport, terrain mapping, scientific investigations, and resource prospecting. Data from these early missions will inform future mobility systems and inf",
-      "source": "NASA"
-    },
-    {
-      "title": "Webb Captures Stellar Jets",
-      "link": "https://www.nasa.gov/image-article/webb-captures-stellar-jets/",
-      "pubDate": "2026-10-20T14:44:09.000Z",
-      "image": "https://www.nasa.gov/wp-content/uploads/2026/10/55572978759-545472774e-o.png?w=2048",
-      "excerpt": "An image from NASA’s James Webb Space Telescope released on Oct. 6, 2026, reveals a cauldron of cosmic creation. Webb has unveiled numerous stars formerly hidden by clouds of dust in a stellar nursery known as NGC 7129, which resides about 3,300 light-years from Earth. Learn more about this region – and tour it in […]",
       "source": "NASA"
     },
     {
@@ -165,6 +185,7 @@
       "link": "https://spacenews.com/anysignal-to-deliver-space-to-earth-communications-for-three-reflect-orbital-missions/",
       "pubDate": "2026-10-20T13:00:00.000Z",
       "image": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/10/AnySignal_GoogleBusinessProfile.png?fit=720%2C720&amp;ssl=1",
+      "author": "AnySignal",
       "excerpt": "LOS ANGELES — October 20, 2026 AnySignal, a leading provider of software-defined radios and space-based networking, today announced an agreement with Reflect Orbital to deliver space-to-earth communications for Reflect Orbital’s inaugural […] The post AnySignal to Deliver Space-to-Earth Communications for Three Reflect",
       "source": "SpaceNews"
     },
@@ -173,6 +194,7 @@
       "link": "https://payloadspace.com/state-department-taps-trio-for-5m-space-diplomacy-push/",
       "pubDate": "2026-10-20T12:45:00.000Z",
       "image": "https://payloadspace.com/wp-content/uploads/2026/10/55590841051_0fe0c1027e_o-1024x683-1-200x200.jpg",
+      "author": "Victoria Woodburn",
       "excerpt": "At last week’s second annual US Space Forum, the US Mission to the International Organizations in Vienna launched Project Constellation, a $5M effort to build international space partnerships. The post State Department Taps Trio for $5M Space Diplomacy Push appeared first on Payload.",
       "source": "Payload"
     },
@@ -181,6 +203,7 @@
       "link": "https://payloadspace.com/reaction-dynamics-targets-2031-for-borealis-medium-lift-launch/",
       "pubDate": "2026-10-20T12:32:51.000Z",
       "image": "https://payloadspace.com/wp-content/uploads/2026/10/Hero-mountain-range-pad-200x200.png",
+      "author": "Douglas Gorman",
       "excerpt": "In the contest to build up commercial launch capabilities in Canada, Quebec-based startup Reaction Dynamics has entered a new weight class. The post Reaction Dynamics Targets 2031 for Borealis Medium-Lift Launch appeared first on Payload.",
       "source": "Payload"
     },
@@ -189,6 +212,7 @@
       "link": "https://spacenews.com/uarx-space-troubleshoots-anomalies-on-maiden-otv-flight/",
       "pubDate": "2026-10-19T16:31:12.000Z",
       "image": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/10/rsz_uarx_ossie-d.png?fit=879%2C628&amp;ssl=1",
+      "author": "Debra Werner",
       "excerpt": "Correction: Dawn’s Docking and Fluid Transfer Port is not a hosted payload. UARX is testing it for future refueling missions. SAN FRANCISCO –Spanish startup UARX Space is remedying anomalies identified […] The post UARX Space troubleshoots anomalies on maiden OTV Flight appeared first on SpaceNews.",
       "source": "SpaceNews"
     },
@@ -197,6 +221,7 @@
       "link": "https://payloadspace.com/exclusive-eradrive-lands-13m-dod-award-for-autonomy-module/",
       "pubDate": "2026-10-19T13:00:00.000Z",
       "image": "https://payloadspace.com/wp-content/uploads/2026/10/DSC_2980-200x200.jpeg",
+      "author": "Douglas Gorman",
       "excerpt": "EraDrive won a $13M DoD award, under which the Space Force will buy an undisclosed number of the company’s Era-Node vision-based autonomy modules. The post Exclusive: EraDrive Lands $13M DoD Award For Autonomy Module appeared first on Payload.",
       "source": "Payload"
     },
@@ -205,6 +230,7 @@
       "link": "https://payloadspace.com/warpware-closes-pre-seed-to-bring-agentic-tools-to-flight-software/",
       "pubDate": "2026-10-19T13:00:00.000Z",
       "image": "https://payloadspace.com/wp-content/uploads/2026/10/videoframe_18759-200x200.png",
+      "author": "Victoria Woodburn",
       "excerpt": "CO-based WarpWare closed its $1.2M pre-seed round today to expand what it calls an AI-enabled engineering platform for space missions. The post WarpWare Closes Pre-Seed to Bring Agentic Tools to Flight Software appeared first on Payload.",
       "source": "Payload"
     },
@@ -213,6 +239,7 @@
       "link": "https://www.newscientist.com/article/2594385-why-the-drake-equation-is-still-important-65-years-after-its-creation/?utm_campaign=RSS|NSNS&utm_content=space&utm_medium=RSS&utm_source=NSNS",
       "pubDate": "2026-10-19T08:00:00.000Z",
       "image": null,
+      "author": "Leah Crane",
       "excerpt": "The Drake equation provides a way to guess how many aliens we might be able to communicate with, but it’s also a prime example of the importance of scientific guessing, says columnist Leah Crane",
       "source": "New Scientist"
     },
@@ -221,6 +248,7 @@
       "link": "https://spaceflightnow.com/2026/10/18/live-coverage-spacex-to-launch-starfall-reentry-capsule-31-customer-payloads-on-bandwagon-5-rideshare-mission/",
       "pubDate": "2026-10-18T16:32:02.000Z",
       "image": "https://spaceflightnow.com/wp-content/uploads/2026/10/20261020_Bandwagon-5_MC-1.jpeg",
+      "author": "Will Robinson-Smith",
       "excerpt": "This will be the second launch of SpaceX’s uncrewed reentry capsule, Starfall. Liftoff from pad 40 at Cape Canaveral Space Force Station is scheduled at 7:04 a.m. EDT (1104 UTC) on Tuesday, Oct. 20.",
       "source": "Spaceflight Now"
     },
@@ -229,6 +257,7 @@
       "link": "https://www.newscientist.com/article/2594332-japan-is-launching-a-mission-to-marss-largest-moon-phobos/?utm_campaign=RSS|NSNS&utm_content=space&utm_medium=RSS&utm_source=NSNS",
       "pubDate": "2026-10-16T17:00:00.000Z",
       "image": "https://www.newscientist.com/wp-content/uploads/2026/10/SEI_316887487.jpg",
+      "author": "Leah Crane",
       "excerpt": "The Martian Moons eXploration spacecraft, set to launch on 20 October, will bring back samples that should solve a moon mystery that has been vexing scientists for more than a century",
       "source": "New Scientist"
     },
@@ -237,6 +266,7 @@
       "link": "https://spaceflightnow.com/2026/10/16/blue-origin-to-add-new-florida-launch-pads-seeks-aggressive-increase-in-new-glenn-flight-rate/",
       "pubDate": "2026-10-16T13:17:28.000Z",
       "image": "https://spaceflightnow.com/wp-content/uploads/2026/10/20261016-Blue-Origin-Map-of-Key-Facilities.png",
+      "author": "Will Robinson-Smith",
       "excerpt": "The launch infrastructure improvements also include a substantial manufacturing expansion at Rocket Park and the addition of new landing barges.",
       "source": "Spaceflight Now"
     },
@@ -245,6 +275,7 @@
       "link": "https://payloadspace.com/ratlog-wants-to-cut-90-of-a-rocket-engines-parts/",
       "pubDate": "2026-10-16T12:00:00.000Z",
       "image": "https://payloadspace.com/wp-content/uploads/2026/10/RATLOG-prototype-Test-1-200x200.png",
+      "author": "Victoria Woodburn",
       "excerpt": "The heavy-lift rocket startup debuted on Y Combinator as part of the Fall 2026 batch. The post RATLOG Wants to Cut ~90% of a Rocket Engine’s Parts appeared first on Payload.",
       "source": "Payload"
     },
@@ -253,6 +284,7 @@
       "link": "https://payloadspace.com/seraphim-space-investment-trust-doubled-its-value-in-2026/",
       "pubDate": "2026-10-16T05:30:00.000Z",
       "image": "https://payloadspace.com/wp-content/uploads/2026/10/iss065e045974medium-2-200x200.jpg",
+      "author": "Douglas Gorman",
       "excerpt": "Seraphim’s major holdings—ICEYE, ALL.SPACE, D-Orbit, HawkEye 360, and Xona Space Systems, which together represent more than 75% of the firm’s portfolio—all had a great year, and that success has trickled upwards. The post Seraphim Space Investment Trust Doubled its Value in 2026 appeared first on Payload.",
       "source": "Payload"
     },
@@ -261,6 +293,7 @@
       "link": "https://www.astronomy.com/the-sky-this-week/the-sky-this-week-from-october-16-to-23-2026/",
       "pubDate": "2026-10-16T05:00:00.000Z",
       "image": null,
+      "author": "Alison Klesman",
       "excerpt": "Friday, October 16Pluto is stationary in Capricornus at 7 A.M. EDT. This evening, the Moon reaches apogee, the farthest point from Earth in its slightly elliptical orbit, at 6:56 P.M. EDT. Our satellite will then be 251,434 miles (404,644 km) away. Although Pluto is too dim for most amateur scopes to reach, especially ",
       "source": "Astronomy Magazine"
     },
@@ -269,6 +302,7 @@
       "link": "https://payloadspace.com/uksa-taps-clearspace-for-countrys-first-debris-removal-mission/",
       "pubDate": "2026-10-15T21:40:26.000Z",
       "image": "https://payloadspace.com/wp-content/uploads/2026/10/ClearSpace_Infographics_Dev3_3-200x200.jpg",
+      "author": "Douglas Gorman",
       "excerpt": "The UK Space Agency is dressing up as a waste-management company for Halloween. The post UKSA Taps ClearSpace for Country’s First Debris Removal Mission appeared first on Payload.",
       "source": "Payload"
     },
@@ -277,6 +311,7 @@
       "link": "https://spacenews.com/applying-ai-si-to-the-geoint-mission-event/",
       "pubDate": "2026-10-15T20:41:50.000Z",
       "image": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/10/2026-10-29-vantor-spacenews_2000-1500_AI-SI-scaled.jpg?fit=1024%2C768&amp;ssl=1",
+      "author": "SpaceNews Editor",
       "excerpt": "Join us for a conversation on how machine learning is transforming the GEOINT mission across different markets The post Oct. 29: Applying AI/SI to the GEOINT Mission appeared first on SpaceNews.",
       "source": "SpaceNews"
     },
@@ -285,6 +320,7 @@
       "link": "https://spaceflightnow.com/2026/10/15/live-coverage-spacex-to-launch-classified-payload-for-u-s-space-force/",
       "pubDate": "2026-10-15T19:11:45.000Z",
       "image": "https://spaceflightnow.com/wp-content/uploads/2026/10/20261015_USSF-481.jpg",
+      "author": "Will Robinson-Smith",
       "excerpt": "Liftoff from pad 4E at Vandenberg Space Force Base in California happened on Thursday, Oct. 15, at 5:01 p.m. PDT (8:01 p.m. EDT / 0001 UTC).",
       "source": "Spaceflight Now"
     },
@@ -293,6 +329,7 @@
       "link": "https://spacenews.com/how-nasa-is-thinking-about-a-moon-base/",
       "pubDate": "2026-10-15T15:14:24.000Z",
       "image": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/10/space-minds-podcast-NASA-moon-2000-1500.jpg?fit=1024%2C768&amp;ssl=1",
+      "author": "SpaceNews Editor",
       "excerpt": "In this episode, SpaceNews’ Mike Gruss talks with NASA’s Shatel Bhakta, the principal systems engineer for Moon Base, about what’s needed between now and 2028 and the incremental steps to […] The post How NASA is thinking about a moon base appeared first on SpaceNews.",
       "source": "SpaceNews"
     },
@@ -301,6 +338,7 @@
       "link": "https://payloadspace.com/blacksky-renews-heo-deal-adds-gen-3-imagery-for-space-domain-awareness/",
       "pubDate": "2026-10-15T12:30:00.000Z",
       "image": "https://payloadspace.com/wp-content/uploads/2026/10/Landsat-5-NEI-bksy-200x200.png",
+      "author": "Victoria Woodburn",
       "excerpt": "BlackSky Technology inked a seven-figure deal to extend its partnership with Australian non-Earth imaging (NEI) provider HEO for another year. The post BlackSky Renews HEO Deal, Adds Gen-3 Imagery for Space Domain Awareness appeared first on Payload.",
       "source": "Payload"
     },
@@ -309,6 +347,7 @@
       "link": "https://spacenews.com/agile-space-industries-expands-to-seattle-area-with-new-bellevue-office/",
       "pubDate": "2026-10-15T12:00:00.000Z",
       "image": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/07/agile-space-industries-square-logo-scaled.png?fit=1024%2C1024&amp;ssl=1",
+      "author": "Agile Space Industries",
       "excerpt": "BELLEVUE, Wash., Oct. 15, 2026 — Agile Space Industries, a leading provider of in-space chemical propulsion solutions, has expanded into the Seattle metropolitan area with the opening of a new […] The post Agile Space Industries Expands to Seattle Area with New Bellevue Office appeared first on SpaceNews.",
       "source": "SpaceNews"
     },
@@ -317,6 +356,7 @@
       "link": "https://payloadspace.com/jaxa-taps-arkedge-for-two-lunar-navigation-demos/",
       "pubDate": "2026-10-15T08:00:00.000Z",
       "image": "https://payloadspace.com/wp-content/uploads/2026/10/Screenshot-2026-10-14-at-4.51.31-PM-200x200.png",
+      "author": "Jacqueline Feldscher",
       "excerpt": "Today’s Moon explorers won’t have the luxury of GPS-like tech for navigation. But JAXA is trying to change that for future lunar visitors. The post JAXA Taps ArkEdge for Two Lunar Navigation Demos appeared first on Payload.",
       "source": "Payload"
     },
@@ -325,6 +365,7 @@
       "link": "https://www.spaceforce.mil/News/Article-Display/Article/4625150/cso-notice-to-guardians-lines-of-effort-for-the-force/",
       "pubDate": "2026-10-14T13:36:00.000Z",
       "image": null,
+      "author": "Pentagon News",
       "excerpt": "The chief of space operations laid out the three Lines of Effort that will guide the Space Force under his watch, telling Guardians in a service-wide notice that the priorities will define his time as the military branch's top officer.",
       "source": "Space Force"
     },
@@ -333,6 +374,7 @@
       "link": "https://spacenews.com/how-mini-constellations-could-more-quickly-bring-new-tech-to-europe-and-to-orbit/",
       "pubDate": "2026-10-14T13:09:21.000Z",
       "image": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/10/1200x930-Space-Inventor-1.png?fit=1024%2C794&amp;ssl=1",
+      "author": "Space Inventor",
       "excerpt": "When the European thermal-imagery company constellr began working with Space Inventor on its next generation of satellites, some of the most important details of the spacecraft had yet to be […] The post How mini-constellations could more quickly bring new tech to Europe, and to orbit appeared first on SpaceNews.",
       "source": "SpaceNews"
     },
@@ -341,6 +383,7 @@
       "link": "https://www.spaceforce.mil/News/Article-Display/Article/4625108/space-force-activates-spacefor-soc-as-service-component-command-to-special-oper/",
       "pubDate": "2026-10-14T12:40:23.000Z",
       "image": null,
+      "author": "Pentagon News",
       "excerpt": "Effective Oct. 7, SPACEFOR-SOC was activated as a component field command of the U.S. Space Force.",
       "source": "Space Force"
     },
@@ -349,6 +392,7 @@
       "link": "https://payloadspace.com/exclusive-in-orbit-aerospace-pivots-from-re-entry-vehicles-to-spacecraft-autonomy/",
       "pubDate": "2026-10-14T12:17:00.000Z",
       "image": "https://payloadspace.com/wp-content/uploads/2026/10/Screenshot-2026-10-14-at-7.09.04-AM-200x200.png",
+      "author": "Victoria Woodburn",
       "excerpt": "In Orbit has won new government contracts for its onboard AI system, which the company says can run a spacecraft’s operations without waiting on ground control. The post Exclusive: In Orbit Aerospace Pivots From Re-entry Vehicles to Spacecraft Autonomy appeared first on Payload.",
       "source": "Payload"
     },
@@ -357,6 +401,7 @@
       "link": "https://www.spaceforce.mil/News/Article-Display/Article/4624333/space-force-launches-guardian-spark-outreach-program-to-inspire-students-nation/",
       "pubDate": "2026-10-13T15:33:00.000Z",
       "image": "https://media.defense.gov/2026/Oct/13/2004014355/700/700/0/261013-F-AF999-1011.JPG",
+      "author": "Pentagon News",
       "excerpt": "The United States Space Force is launching Guardian Spark, a new annual outreach program that connects Guardians with students in grades 3 to 12 to share the mission, people and opportunities behind the nation’s newest military service.",
       "source": "Space Force"
     },
@@ -365,6 +410,7 @@
       "link": "https://www.astronomy.com/science/distant-ngc-3137-reveals-clues-about-our-own-galaxy/",
       "pubDate": "2026-10-13T15:00:00.000Z",
       "image": null,
+      "author": "Richard Talcott",
       "excerpt": "Glittering star clusters and ruby-colored emission nebulae pepper the star-studded spiral arms of NGC 3137. The galaxy, which spans nearly 140,000 light-years, spills out of this Hubble image’s frame. The nebulae are stellar nurseries, glowing with emission from hydrogen atoms excited by the massive stars forming insid",
       "source": "Astronomy Magazine"
     },
@@ -373,6 +419,7 @@
       "link": "https://spaceflightnow.com/2026/10/13/spacex-launches-nasa-science-and-cargo-to-the-international-space-station/",
       "pubDate": "2026-10-13T14:07:50.000Z",
       "image": "https://spaceflightnow.com/wp-content/uploads/2026/10/20261013_CRS-35_MC-1.jpeg",
+      "author": "Will Robinson-Smith",
       "excerpt": "The sunrise launch on Oct. 13 was the 35th SpaceX flight under the Commercial Resupply Services 2 contract with NASA.",
       "source": "Spaceflight Now"
     },
@@ -381,6 +428,7 @@
       "link": "https://www.astronomy.com/observing/our-16th-annual-star-products/",
       "pubDate": "2026-10-13T13:29:16.000Z",
       "image": null,
+      "author": "Phil Harrington",
       "excerpt": "Each year, new astronomy equipment reflects advances in technology and the evolving ways observers engage with the night sky. Traditional designs such as Dobsonian reflectors and apochromatic refractors continue to deliver dependable performance, while smart telescopes and integrated imaging systems are expanding acces",
       "source": "Astronomy Magazine"
     },
@@ -389,6 +437,7 @@
       "link": "https://spaceflightnow.com/2026/10/13/live-coverage-nasa-spacex-to-launch-new-solar-arrays-6300-pounds-of-cargo-to-the-space-station/",
       "pubDate": "2026-10-13T01:19:30.000Z",
       "image": "https://spaceflightnow.com/wp-content/uploads/2026/10/20261012-F9-CRS-Sunset.jpg",
+      "author": "Will Robinson-Smith",
       "excerpt": "Liftoff of the Falcon 9 rocket from pad 40 at Cape Canaveral Space Force Station is scheduled for 6:33 a.m. EDT (1033 UTC) on Tuesday, Oct. 13. The Cargo Dragon spacecraft will arrive at the space station following a two-day flight.",
       "source": "Spaceflight Now"
     },
@@ -397,6 +446,7 @@
       "link": "https://spaceflightnow.com/2026/10/12/spacex-falcon-9-rocket-to-launch-27-starlink-satellites-into-orbit-from-california/",
       "pubDate": "2026-10-12T22:21:40.000Z",
       "image": "https://spaceflightnow.com/wp-content/uploads/2026/10/20261015-F9-Starlink-15-25-Launch-Quick.jpg",
+      "author": "Spaceflight Now",
       "excerpt": "Liftoff off of the Starlink 15-25 mission from Space Launch Complex 4 East came at 5:28 p.m. PDT (8:28 p.m. EDT / 0028 UTC).",
       "source": "Spaceflight Now"
     },
@@ -405,6 +455,7 @@
       "link": "https://www.astronomy.com/observing/autumn-observing-targets-for-large-telescopes/",
       "pubDate": "2026-10-12T14:07:03.000Z",
       "image": null,
+      "author": "David J. Eicher",
       "excerpt": "Today I’ll be telling you about 10 of my favorite autumn deep-sky objects, with suggestions for viewing them. I hope you’ll enjoy this list, and I’ll share some other deep-sky favorites of mine from time to time in the future. What’s a large telescope? The notion of what’s big changes from observer to observer, butCont",
       "source": "Astronomy Magazine"
     },
@@ -413,6 +464,7 @@
       "link": "https://www.astronomy.com/science/what-can-we-learn-from-gravitational-lensing/",
       "pubDate": "2026-10-12T14:00:00.000Z",
       "image": null,
+      "author": "Astronomy Staff",
       "excerpt": "What information is obtainable through gravitational lensing and how? Patrick A. CloughWichita, Kansas Gravitational lensing is the effect by which comparatively nearby objects, such as clusters of galaxies, can bend and focus the light of other objects that are more distant. Lensing is only possible because highly mas",
       "source": "Astronomy Magazine"
     },
@@ -421,6 +473,7 @@
       "link": "https://spacenews.com/jena-optronik-is-proud-to-partner-with-mda-space-for-its-first-astro-hp-mission/",
       "pubDate": "2026-10-12T13:00:00.000Z",
       "image": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/10/jenaoptronik.png?fit=719%2C719&amp;ssl=1",
+      "author": "Jena-Optronik",
       "excerpt": "MDA Space, a global leader in communications satellites, Earth and space observation, space exploration and infrastructure, will utilize Jena-Optronik’s ASTRO HP star sensor on a LEO mission. This milestone underscores […] The post Jena-Optronik is proud to partner with MDA Space for its first ASTRO HP mission. appeare",
       "source": "SpaceNews"
     },
@@ -429,6 +482,7 @@
       "link": "https://spaceflightnow.com/2026/10/09/spacex-to-make-another-attempt-to-launch-21-data-satellites-for-space-development-agency/",
       "pubDate": "2026-10-09T21:41:30.000Z",
       "image": "https://spaceflightnow.com/wp-content/uploads/2026/10/20261010-F9-Launch-Quick.jpg",
+      "author": "Spaceflight Now",
       "excerpt": "Liftoff of the Falcon 9 rocket from Vandenberg Space Force Base in California carrying satellites for the Space Development Agency’s Proliferated Warfighter Space Architecture constellation came at 12:39 a.m. PDT (3:39 EDT / 0739 UTC).",
       "source": "Spaceflight Now"
     },
@@ -437,6 +491,7 @@
       "link": "https://www.newscientist.com/article/2593044-two-large-asteroids-found-spinning-as-fast-as-fairground-ride/?utm_campaign=RSS|NSNS&utm_content=space&utm_medium=RSS&utm_source=NSNS",
       "pubDate": "2026-10-09T17:00:00.000Z",
       "image": null,
+      "author": "Jonathan O’Callaghan",
       "excerpt": "Rocks in the asteroid belt rotating at ultra-fast speeds suggest our understanding of asteroid structure might be wrong",
       "source": "New Scientist"
     },
@@ -445,6 +500,7 @@
       "link": "https://www.astronomy.com/the-sky-this-week/the-sky-this-week-from-october-9-to-16-2026/",
       "pubDate": "2026-10-09T05:00:00.000Z",
       "image": null,
+      "author": "Alison Klesman",
       "excerpt": "Friday, October 9A few hours after sunset, turn toward the north to find the familiar W shape of Cassiopeia on its side, looking more like the number 3. To the upper left of this numeral is the target we’re aiming for tonight: open cluster M52. This young grouping of stars covers almost a quarter ofContinue reading \"Th",
       "source": "Astronomy Magazine"
     },
@@ -453,6 +509,7 @@
       "link": "https://www.astronomy.com/science/far-infrared-telescope-prima-advances-toward-2033-launch/",
       "pubDate": "2026-10-08T19:51:56.000Z",
       "image": null,
+      "author": "Brooks Mendenhall",
       "excerpt": "NASA has selected the far-infrared space telescope mission PRIMA (PRobe far-Infrared Mission for Astrophysics) to move to the next stage in its development. PRIMA will be the first in a new mission class and help scientists learn more about the evolution of the universe. PRIMA will carry a 5.9-foot (1.8-meter) mirror, ",
       "source": "Astronomy Magazine"
     },
@@ -461,6 +518,7 @@
       "link": "https://www.spaceforce.mil/News/Article-Display/Article/4622101/first-guardians-complete-jungle-operations-training-course-in-panama/",
       "pubDate": "2026-10-08T15:16:17.000Z",
       "image": "https://media.defense.gov/2026/Oct/08/2004013362/700/700/0/260925-A-LY455-1368.JPG",
+      "author": "U.S. Army Sgt. Alyssa Norton",
       "excerpt": "Two U.S. Space Force officers became the first Guardians to complete the Jungle Operations Training Course-Panama at Aeronaval Base Cristóbal Colón.",
       "source": "Space Force"
     },
@@ -469,6 +527,7 @@
       "link": "https://www.astronomy.com/science/new-view-of-30-doradus-reveals-messy-workings/",
       "pubDate": "2026-10-08T15:00:00.000Z",
       "image": null,
+      "author": "Brooks Mendenhall",
       "excerpt": "Translucent layers of light captured by three space telescopes overlap to build this composite of the Tarantula Nebula (30 Doradus) in the Large Magellanic Cloud. Diffuse clouds of blue X-ray light from NASA’s Chandra X-ray Observatory mark hot gas blown off of young, massive stars that has been superheated by winds an",
       "source": "Astronomy Magazine"
     },
@@ -477,6 +536,7 @@
       "link": "https://spacenews.com/what-will-it-take-to-build-a-moon-base/",
       "pubDate": "2026-10-08T13:57:38.000Z",
       "image": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/10/space-minds-podcast-jhu-moon-2000-1500.jpg?fit=1024%2C768&amp;ssl=1",
+      "author": "SpaceNews Editor",
       "excerpt": "In this episode, a panel of industry experts discuss what’s needed to build a moon base. During a live event at the Johns Hopkins University Bloomberg Center, leaders Astrolab, Firefly […] The post What will it take to build a moon base? appeared first on SpaceNews.",
       "source": "SpaceNews"
     },
@@ -485,6 +545,7 @@
       "link": "https://www.newscientist.com/article/2592280-__trashed-141/?utm_campaign=RSS|NSNS&utm_content=space&utm_medium=RSS&utm_source=NSNS",
       "pubDate": "2026-10-07T17:00:00.000Z",
       "image": "https://www.newscientist.com/wp-content/uploads/2026/10/SEI_314991680.jpg",
+      "author": "New Scientist",
       "excerpt": "Large language models have unleashed a torrent of text – dealing with it won't be easy",
       "source": "New Scientist"
     },
@@ -493,6 +554,7 @@
       "link": "https://www.astronomy.com/observing/winter-observing-targets-for-small-telescopes/",
       "pubDate": "2026-10-07T15:43:48.000Z",
       "image": null,
+      "author": "Michael E. Bakich",
       "excerpt": "The Crab Nebula Our first object is the Crab Nebula in Taurus. It’s one of the sky’s most famous objects, and a nice small telescope target. Although the word “nebula” is part of this object’s name, astronomers classify M1 as a supernova remnant. In 1054, a brilliant new star 4 times brighter than Venus appearedContinu",
       "source": "Astronomy Magazine"
     },
@@ -501,6 +563,7 @@
       "link": "https://www.spaceforce.mil/News/Article-Display/Article/4621304/daf-leaders-their-spouses-highlight-families-role-in-mission-success/",
       "pubDate": "2026-10-07T15:29:00.000Z",
       "image": "https://media.defense.gov/2026/Oct/07/2004013015/700/700/0/280916-X-KN216-1496.JPG",
+      "author": "Tech. Sgt. William A. O’Brien",
       "excerpt": "During a panel at the 2026 Air, Space & Cyber Conference, senior DAF leaders and their spouses discussed grassroots quality-of-life challenges alongside key initiatives, including the Global Military Spouse Connection pilot, DoD STARBASE STEM programs, and AFPAAS roster integration.",
       "source": "Space Force"
     },
@@ -509,6 +572,7 @@
       "link": "https://spacenews.com/announcing-the-finalists-for-the-2026-spacenews-icon-awards/",
       "pubDate": "2026-10-07T14:18:18.000Z",
       "image": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/10/2025-icon-awards-Purdy.jpg?fit=1024%2C768&amp;ssl=1",
+      "author": "SpaceNews Editor",
       "excerpt": "Meet the 43 leaders and accomplishments that exemplified excellence across the industry over the last 12 months The post Announcing the finalists for the 2026 SpaceNews Icon Awards appeared first on SpaceNews.",
       "source": "SpaceNews"
     },
@@ -517,6 +581,7 @@
       "link": "https://spacenews.com/deposition-sciences-inc-expands-sunshade-tape-offering-with-new-12-x-30-format/",
       "pubDate": "2026-10-06T19:20:20.000Z",
       "image": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/10/DSI_short-Logo_OUTLINE-scaled.png?fit=1024%2C791&amp;ssl=1",
+      "author": "Deposition Sciences, Inc",
       "excerpt": "Santa Rosa, CA — October 2026 — Deposition Sciences, Inc. (DSI), a leader in advanced thin film coatings, proudly announces the introduction of a new 12″ × 30″ format for […] The post Deposition Sciences, Inc. Expands Sunshade® Tape Offering with New 12″ × 30″ Format appeared first on SpaceNews.",
       "source": "SpaceNews"
     },
@@ -525,6 +590,7 @@
       "link": "https://www.newscientist.com/article/2591580-the-telescope-that-could-reveal-what-dark-matter-and-dark-energy-are/?utm_campaign=RSS|NSNS&utm_content=space&utm_medium=RSS&utm_source=NSNS",
       "pubDate": "2026-10-06T17:00:00.000Z",
       "image": null,
+      "author": "Leah Crane",
       "excerpt": "The Roman telescope is NASA’s newest space observatory. Every 10 months, it will get the equivalent of about 1000 years' worth of Hubble observations. Will it find the answers to our questions about dark matter and dark energy?",
       "source": "New Scientist"
     },
@@ -533,6 +599,7 @@
       "link": "https://www.newscientist.com/article/2590428-impossibly-fast-moving-stars-are-revealing-the-milky-ways-mysterious-heart/?utm_campaign=RSS|NSNS&utm_content=space&utm_medium=RSS&utm_source=NSNS",
       "pubDate": "2026-10-06T15:00:00.000Z",
       "image": null,
+      "author": "Leah Crane",
       "excerpt": "Near the centre of the Milky Way, a swarm of stars hurtles around a supermassive black hole at extraordinary speeds. Studying them could be the key to understanding our galaxy",
       "source": "New Scientist"
     },
@@ -541,6 +608,7 @@
       "link": "https://spaceflightnow.com/2026/10/04/live-coverage-spacex-to-launch-21-data-transport-satellites-for-the-space-development-agency/",
       "pubDate": "2026-10-04T20:33:26.000Z",
       "image": "https://spaceflightnow.com/wp-content/uploads/2026/10/20261005_T1TL-A_scrub.jpg",
+      "author": "Will Robinson-Smith",
       "excerpt": "The Tranche 1 Transporter Layer A mission is the fourth flight supporting the Space Development Agency’s Proliferated Warfighter Space Architecture constellation. The next launch attempt could come as soon as Saturday.",
       "source": "Spaceflight Now"
     },
@@ -549,6 +617,7 @@
       "link": "https://spaceflightnow.com/2026/10/01/falcon-heavy-to-fly-its-first-mission-for-u-s-spy-satellite-agency/",
       "pubDate": "2026-10-01T22:37:30.000Z",
       "image": "https://spaceflightnow.com/wp-content/uploads/2026/10/20261001_NROL-97_launch_MC-1.jpeg",
+      "author": "Spaceflight Now",
       "excerpt": "The 14th Falcon Heavy rocket is scheduled to blast off on a clandestine mission from Launch Complex 39A at NASA’s Kennedy Space Center at 11:54 p.m. EDT (0354 UTC).",
       "source": "Spaceflight Now"
     },
@@ -557,6 +626,7 @@
       "link": "https://www.spaceforce.mil/News/Article-Display/Article/4617168/afas-offers-childcare-assistance-to-air-force-space-force-families/",
       "pubDate": "2026-10-01T21:40:00.000Z",
       "image": "https://media.defense.gov/2026/Oct/01/2004010060/700/700/0/260611-F-TC518-1120.JPG",
+      "author": "Pentagon News",
       "excerpt": "These targeted childcare relief programs assist families during high-stress periods, relocations, and educational pursuits.",
       "source": "Space Force"
     },
@@ -565,6 +635,7 @@
       "link": "https://www.spaceforce.mil/News/Article-Display/Article/4616154/usecaf-sees-ramstein-ab-airmen-guardian-readiness-firsthand/",
       "pubDate": "2026-10-01T13:30:00.000Z",
       "image": "https://media.defense.gov/2026/Oct/01/2004009610/700/700/0/260924-F-EV810-1482.JPG",
+      "author": "First Lt. Jacob Willoughby",
       "excerpt": "The visit provided an opportunity for Lohmeier to meet with command leaders and subject matter experts, who offered insights on current and future missions, challenges and opportunities.",
       "source": "Space Force"
     },
@@ -573,6 +644,7 @@
       "link": "https://www.newscientist.com/article/2591502-a-lack-of-rockets-is-creating-a-crisis-for-space-technology-companies/?utm_campaign=RSS|NSNS&utm_content=space&utm_medium=RSS&utm_source=NSNS",
       "pubDate": "2026-10-01T11:00:00.000Z",
       "image": null,
+      "author": "Jonathan O’Callaghan",
       "excerpt": "SpaceX’s changing priorities, the war in Ukraine and a lack of competitors are all causing a launch crisis that might last years",
       "source": "New Scientist"
     },
@@ -581,6 +653,7 @@
       "link": "https://www.spaceforce.mil/News/Article-Display/Article/4611397/daf-to-adopt-standardized-religious-affiliation-codes-action-required-in-vmpf/",
       "pubDate": "2026-09-25T13:03:00.000Z",
       "image": "https://media.defense.gov/2026/Aug/21/2004007260/700/700/0/260819-F-AH757-1001.JPG",
+      "author": "Pentagon News",
       "excerpt": "Airmen and Guardians must take action to update their RAC in the Virtual Military Personnel Flight and certify their Record of Emergency Data is accurate.",
       "source": "Space Force"
     },
@@ -589,6 +662,7 @@
       "link": "https://www.newscientist.com/article/2589931-is-china-catching-up-to-the-us-and-spacex-on-reusable-rockets/?utm_campaign=RSS|NSNS&utm_content=space&utm_medium=RSS&utm_source=NSNS",
       "pubDate": "2026-09-25T12:00:00.000Z",
       "image": null,
+      "author": "Matthew Sparkes",
       "excerpt": "The next space race is not about making rockets faster, bigger or more capacious, but about reusing them reliably and cheaply. The US is well ahead, but can China catch up?",
       "source": "New Scientist"
     },
@@ -597,6 +671,7 @@
       "link": "https://www.newscientist.com/article/2588325-do-we-live-in-a-simulation-if-so-it-could-be-a-giant-consciousness-experiment/?utm_campaign=RSS|NSNS&utm_content=space&utm_medium=RSS&utm_source=NSNS",
       "pubDate": "2026-09-23T15:00:00.000Z",
       "image": null,
+      "author": "Jacklin Kwan",
       "excerpt": "Philosophers have pondered whether we live in a simulation for centuries. Now, Astronomer Royal for Scotland Catherine Heymans suggests a compelling rationale for why our reality might actually be synthetic",
       "source": "New Scientist"
     },
@@ -605,6 +680,7 @@
       "link": "https://www.spaceforce.mil/News/Article-Display/Article/4609375/department-of-the-air-force-pilot-program-expands-to-help-more-military-spouses/",
       "pubDate": "2026-09-23T14:43:00.000Z",
       "image": "https://media.defense.gov/2026/Sep/22/2004005646/700/700/0/260922-F-YT892-1002.JPG",
+      "author": "Jennifer Gonzalez",
       "excerpt": "Administered by the AFPC and AFCS, the initiative connects active-duty spouses undergoing a permanent change of station with direct hiring opportunities.",
       "source": "Space Force"
     },
@@ -613,6 +689,7 @@
       "link": "https://www.spaceforce.mil/News/Article-Display/Article/4607144/guardian-wins-mens-air-force-marathon-title/",
       "pubDate": "2026-09-19T20:14:00.000Z",
       "image": "https://media.defense.gov/2026/Sep/19/2004004419/700/700/0/260919-F-QL361-2013.JPG",
+      "author": "Megan Purves",
       "excerpt": "More than 9,000 runners participated in the 30th annual Air Force Marathon at Wright-Patterson Air Force Base, showcasing physical stamina and mental toughness.",
       "source": "Space Force"
     },
@@ -621,6 +698,7 @@
       "link": "https://www.spaceforce.mil/News/Article-Display/Article/4605491/after-being-discharged-under-vaccine-mandate-army-soldier-reinstates-and-comple/",
       "pubDate": "2026-09-18T20:59:00.000Z",
       "image": "https://media.defense.gov/2026/Sep/18/2004003136/700/700/0/260812-X-WR604-1007.JPG",
+      "author": "Pentagon News",
       "excerpt": "Following the signing of Executive Order 14184, Tech. Sgt. Kandice Whitt returned to military service after previously being discharged under the COVID-19 vaccination mandate.",
       "source": "Space Force"
     },
@@ -629,6 +707,7 @@
       "link": "https://www.newscientist.com/article/2589461-spacexs-starship-will-orbit-earth-for-first-time-during-next-flight/?utm_campaign=RSS|NSNS&utm_content=space&utm_medium=RSS&utm_source=NSNS",
       "pubDate": "2026-09-18T14:00:00.000Z",
       "image": null,
+      "author": "Matthew Sparkes",
       "excerpt": "Starship's next test flight will be its first orbital mission. The craft will also release working Starlink V3 satellites for the first time, making the flight the first commercially useful Starship mission",
       "source": "New Scientist"
     },
@@ -637,6 +716,7 @@
       "link": "https://www.spaceforce.mil/News/Article-Display/Article/4604507/cmssf-highlights-cyber-guardians-role-in-creating-joint-decision-advantage/",
       "pubDate": "2026-09-17T20:36:00.000Z",
       "image": "https://media.defense.gov/2026/Sep/18/2004002773/700/700/0/280915-F-KN216-1571.JPG",
+      "author": "Tech. Sgt. William A. O’Brien",
       "excerpt": "CMSSF Bentivegna detailed the service's \"train, test and trust\" approach to developing mission-ready cyber operators capable of defending critical space and joint infrastructure.",
       "source": "Space Force"
     },
@@ -645,6 +725,7 @@
       "link": "https://www.spaceforce.mil/News/Article-Display/Article/4603973/space-force-leaders-outline-blueprint-to-double-force-size-over-next-5-years/",
       "pubDate": "2026-09-17T15:37:47.000Z",
       "image": null,
+      "author": "Master Sgt. A.J. Hyatt",
       "excerpt": "The panel addressed critical requirements across accession pipelines, mission infrastructure, and simulation training necessary to generate credible combat capability for the Joint Force.",
       "source": "Space Force"
     },
@@ -653,6 +734,7 @@
       "link": "https://www.spaceforce.mil/News/Article-Display/Article/4602934/space-force-announces-commercial-solutions-opening-strategy-for-satellite-commu/",
       "pubDate": "2026-09-16T17:47:00.000Z",
       "image": null,
+      "author": "Pentagon News",
       "excerpt": "The USSF is implementing a commercial acquisition strategy using Commercial Solutions Openings to enhance satellite command and control capabilities.",
       "source": "Space Force"
     },
@@ -661,6 +743,7 @@
       "link": "https://www.spaceforce.mil/News/Article-Display/Article/4602550/chief-of-space-operations-schiess-outlines-priorities-to-strengthen-space-force/",
       "pubDate": "2026-09-16T13:50:00.000Z",
       "image": "https://media.defense.gov/2026/Sep/16/2003998462/700/700/0/260916-F-AF999-1014.JPG",
+      "author": "TSgt. William O'Brien",
       "excerpt": "CSO Gen. Douglas Schiess outlined three priorities for his tenure: forging the Guardian ethos, arming and growing the force, and integrating Guardian power at scale. He emphasized strengthening combat power and delivering space power directly to the Joint Force.",
       "source": "Space Force"
     },
@@ -669,6 +752,7 @@
       "link": "https://www.spaceforce.mil/News/Article-Display/Article/4602018/remarks-by-cso-gen-douglas-schiess-at-the-air-and-space-forces-associations-202/",
       "pubDate": "2026-09-15T20:41:00.000Z",
       "image": null,
+      "author": "Pentagon News",
       "excerpt": "In a keynote address at the Air and Space Forces Association’s Air, Space and Cyber Conference, CSO Schiess outlined core priorities to accelerate U.S. Space Force growth.",
       "source": "Space Force"
     },
@@ -677,6 +761,7 @@
       "link": "https://www.spaceforce.mil/News/Article-Display/Article/4602069/acquisition-leaders-emphasize-mission-speed-risk-in-changing-acquisition-culture/",
       "pubDate": "2026-09-15T20:26:00.000Z",
       "image": "https://media.defense.gov/2026/Sep/17/2004001402/700/700/0/260915-F-GA295-8064.JPG",
+      "author": "Pentagon News",
       "excerpt": "Senior acquisition and DAF leaders discussed ongoing acquisition transformation and the need to put operational outcomes at the center of decision-making during the “Sustaining Forces Through Acquisition and Innovation” panel at the 2026 AFA Air, Space and Cyber Conference.",
       "source": "Space Force"
     },
@@ -685,6 +770,7 @@
       "link": "https://www.spaceforce.mil/News/Article-Display/Article/4601464/daf-establishes-space-technology-portfolio-executive/",
       "pubDate": "2026-09-15T18:00:00.000Z",
       "image": null,
+      "author": "Pentagon News",
       "excerpt": "The Assistant Secretary of the Air Force for Space Acquisition and Integration announced the establishment of the Space Technology Portfolio Executive, anew leadership position designed to accelerate the delivery of critical emerging space capabilities to the warfighter.",
       "source": "Space Force"
     },
@@ -693,6 +779,7 @@
       "link": "https://www.spaceforce.mil/News/Article-Display/Article/4601150/space-force-announces-interservice-transfer-opportunities/",
       "pubDate": "2026-09-15T13:30:00.000Z",
       "image": null,
+      "author": "Pentagon News",
       "excerpt": "The U.S. Space Force will open its FY27 Interservice Transfer application window Sept. 15 through Oct. 2, 2026, seeking experienced active-duty service members from across the joint force, particularly those with space-related expertise.",
       "source": "Space Force"
     },
@@ -701,6 +788,7 @@
       "link": "https://www.spaceforce.mil/News/Article-Display/Article/4599066/us-international-partners-to-bolster-global-secure-communications-with-updated/",
       "pubDate": "2026-09-12T14:00:00.000Z",
       "image": null,
+      "author": "Pentagon News",
       "excerpt": "The U.S. Department of War, in partnership with defense ministries from 10 international partners, has signed Amendment Three to the multilateral Wideband Global SATCOM Memorandum of Understanding.",
       "source": "Space Force"
     }
@@ -711,6 +799,7 @@
       "link": "https://boeing.mediaroom.com/2026-10-20-U-S-FAA-certifies-Boeing-737-10,-largest-member-of-737-MAX-family",
       "pubDate": "2026-10-20T19:38:00.000Z",
       "image": "https://mmx.prnewswire.com/media/MS2017416/Boeing-737-10_5.jpg?id=OA3030135&p=thumbnail",
+      "author": "",
       "excerpt": "",
       "source": "Boeing"
     },
@@ -719,6 +808,7 @@
       "link": "https://news.lockheedmartin.com/2026-10-20-Spike-NLOS-Live-Fire-Validates-Infantry-Use-and-ISV-U-Platform-Integration",
       "pubDate": "2026-10-20T13:00:00.000Z",
       "image": "https://news.lockheedmartin.com/file.php/184168/Spike-900+%281%29.jpg?thumbnail=144",
+      "author": "",
       "excerpt": "",
       "source": "Lockheed Martin"
     },
@@ -727,6 +817,7 @@
       "link": "https://boeing.mediaroom.com/2026-10-20-Boeing-Introduces-Dataliner,-a-New-Aircraft-Data-Intelligence-Platform",
       "pubDate": "2026-10-20T11:30:00.000Z",
       "image": "https://mmx.prnewswire.com/media/MS2016680/Dataliner-Aircraft-Data-Intelligence-Platform.jpg?id=OA3028200&p=thumbnail",
+      "author": "",
       "excerpt": "",
       "source": "Boeing"
     },
@@ -735,6 +826,7 @@
       "link": "https://news.lockheedmartin.com/2026-10-19-ER-GMLRS-Advances-Toward-Operational-Fielding-and-Expanded-Production",
       "pubDate": "2026-10-19T20:00:00.000Z",
       "image": "https://news.lockheedmartin.com/file.php/184161/ER_GMLRS_Test_+900x580.jpg?thumbnail=144",
+      "author": "",
       "excerpt": "",
       "source": "Lockheed Martin"
     },
@@ -743,6 +835,7 @@
       "link": "https://news.lockheedmartin.com/2026-10-16-U-S-Navy-receives-C-130J-30-Super-Hercules-to-become-future-TACAMO-platform,-E-130J-Phoenix-II",
       "pubDate": "2026-10-16T12:01:00.000Z",
       "image": "https://mmx.prnewswire.com/media/MS2014633/Lockheed-Martin-delivered-a-C-130J-30-Super-Hercules-aircraft.jpg?id=OA3022581&p=thumbnail",
+      "author": "",
       "excerpt": "",
       "source": "Lockheed Martin"
     },
@@ -751,6 +844,7 @@
       "link": "https://news.lockheedmartin.com/2026-10-15-Skunk-Works-and-the-Royal-Netherlands-Aerospace-Centre-Expand-Strategic-Collaboration",
       "pubDate": "2026-10-15T16:00:00.000Z",
       "image": "https://mmx.prnewswire.com/media/MS2014404/NLR.jpg?id=OA3021969&p=thumbnail",
+      "author": "",
       "excerpt": "",
       "source": "Lockheed Martin"
     },
@@ -759,6 +853,7 @@
       "link": "https://news.lockheedmartin.com/2026-10-14-Lockheed-Martin-Expands-Advanced-Munitions-Manufacturing-in-Texas,-Driving-Thousands-of-New-American-Jobs",
       "pubDate": "2026-10-14T21:33:00.000Z",
       "image": "https://mmx.prnewswire.com/media/MS2013775/Lockheed-Martin-1.jpg?id=OA3020212&p=thumbnail",
+      "author": "",
       "excerpt": "",
       "source": "Lockheed Martin"
     },
@@ -767,6 +862,7 @@
       "link": "https://boeing.mediaroom.com/2026-10-13-Boeing-Announces-Third-Quarter-Deliveries",
       "pubDate": "2026-10-13T15:00:00.000Z",
       "image": null,
+      "author": "",
       "excerpt": "",
       "source": "Boeing"
     },
@@ -775,6 +871,7 @@
       "link": "https://boeing.mediaroom.com/2026-10-05-Boeing-receives-seven-year-contract-to-accelerate-PAC-3-MSE-seeker-output",
       "pubDate": "2026-10-05T18:00:00.000Z",
       "image": "https://mmx.prnewswire.com/media/MS2002400/Boeing-PAC-3-Seeker.jpg?id=OA2987567&p=thumbnail",
+      "author": "",
       "excerpt": "",
       "source": "Boeing"
     },
@@ -783,49 +880,82 @@
       "link": "https://boeing.mediaroom.com/news-releases-statements?item=131723",
       "pubDate": "2026-10-01T11:00:00.000Z",
       "image": "https://boeing.mediaroom.com/file.php/102104/mh139+2026mediumres.jpg?thumbnail=144",
+      "author": "",
       "excerpt": "- MH-139A enters full-rate production, reaches initial operational capability",
       "source": "Boeing"
     }
   ],
   "nytNews": [
     {
-      "title": "In Six Decades of Public Life, I Never Thought I Would Write This Piece",
-      "link": "https://www.nytimes.com/2026/10/21/opinion/trump-midterms-election-threats-ice-economy.html",
-      "pubDate": "2026-10-21T16:21:45.000Z",
-      "image": null,
-      "excerpt": "Trump’s meddling would have dark consequences for our democracy and our prosperity.",
-      "source": "NYT"
-    },
-    {
-      "title": "Russia Releases American Stephen Hubbard From Prison, State Media Reports",
-      "link": "https://www.nytimes.com/2026/10/21/us/politics/russia-american-prisoner-release-stephen-hubbard-trump.html",
-      "pubDate": "2026-10-21T16:09:29.000Z",
-      "image": null,
-      "excerpt": "The move buys good will with President Trump while costing the President Vladimir V. Putin — who is wanted for war crimes — little.",
-      "source": "NYT"
-    },
-    {
       "title": "Brad Lander Is Detained by Israeli Military in West Bank During Volunteer Trip",
       "link": "https://www.nytimes.com/2026/10/21/nyregion/brad-lander-west-bank-idf-detained.html",
-      "pubDate": "2026-10-21T16:00:32.000Z",
+      "pubDate": "2026-10-21T17:35:29.000Z",
       "image": null,
+      "author": "Liam Stack",
       "excerpt": "Mr. Lander, a Democratic congressional nominee from New York, had been helping Palestinian farmers. He said he was released after about three hours, but that other volunteers were still in custody.",
       "source": "NYT"
     },
     {
       "title": "France Riots Expose the Rage Aimed at Dior, Hermès and Other Luxury Brands",
       "link": "https://www.nytimes.com/2026/10/21/style/france-riots-luxury-dior-hermes.html",
-      "pubDate": "2026-10-21T15:55:16.000Z",
+      "pubDate": "2026-10-21T17:26:13.000Z",
       "image": null,
+      "author": "Vanessa Friedman",
       "excerpt": "The looting of stores belonging to brands like Dior, Celine and Hermès has exposed a crack in the glossy facade.",
+      "source": "NYT"
+    },
+    {
+      "title": "When Starshield Cut Out, Ukrainian Drones Fell From the Skies",
+      "link": "https://www.nytimes.com/2026/10/21/world/europe/starshield-starlink-ukraine.html",
+      "pubDate": "2026-10-21T17:11:31.000Z",
+      "image": null,
+      "author": "Siobhán O’Grady, Carlotta Gall and Anton Troianovski",
+      "excerpt": "Ukraine says it still doesn’t know why the military satellite internet service, a sister to Starlink, was abruptly throttled, leaving troops vulnerable to Russian attacks.",
       "source": "NYT"
     },
     {
       "title": "What We Saw at Fast-Track Trials of Riot Suspects in France",
       "link": "https://www.nytimes.com/2026/10/21/france-riots-court-trials.html",
-      "pubDate": "2026-10-21T15:54:03.000Z",
+      "pubDate": "2026-10-21T16:47:25.000Z",
       "image": null,
+      "author": "Catherine Porter and Giulia Imbert",
       "excerpt": "At the Tribunal de Paris, judges have supervised a carousel of expedited and often chaotic hearings for those detained during recent unrest.",
+      "source": "NYT"
+    },
+    {
+      "title": "In Trump’s World of International Diplomacy, Insults Are a One-Way Street",
+      "link": "https://www.nytimes.com/2026/10/21/us/politics/trumps-diplomacy-insults.html",
+      "pubDate": "2026-10-21T16:44:14.000Z",
+      "image": null,
+      "author": "Peter Baker",
+      "excerpt": "The latest rift with President Volodymyr Zelensky of Ukraine serves as a reminder that President Trump readily lashes out at other world leaders, only to grow outraged if they fight back.",
+      "source": "NYT"
+    },
+    {
+      "title": "A Mother Searches for Her Son, One Graffiti Tag at a Time",
+      "link": "https://www.nytimes.com/2026/10/21/opinion/graffiti-mother-son-relationship-sweden.html",
+      "pubDate": "2026-10-21T16:43:35.000Z",
+      "image": null,
+      "author": "Leona Cauklija",
+      "excerpt": "On cement walls and through dusty windows, a mother reaches out to her child.",
+      "source": "NYT"
+    },
+    {
+      "title": "In Six Decades of Public Life, I Never Thought I Would Write This Piece",
+      "link": "https://www.nytimes.com/2026/10/21/opinion/trump-midterms-election-threats-ice-economy.html",
+      "pubDate": "2026-10-21T16:21:45.000Z",
+      "image": null,
+      "author": "Robert E. Rubin",
+      "excerpt": "Trump’s meddling would have dark consequences for our democracy and our prosperity.",
+      "source": "NYT"
+    },
+    {
+      "title": "Russia Releases American Stephen Hubbard From Prison, State Media Reports",
+      "link": "https://www.nytimes.com/2026/10/21/us/politics/russia-american-prisoner-release-stephen-hubbard-trump.html",
+      "pubDate": "2026-10-21T16:09:30.000Z",
+      "image": null,
+      "author": "David E. Sanger, Kim Barker and Ivan Nechepurenko",
+      "excerpt": "The move buys good will with President Trump while costing the President Vladimir V. Putin — who is wanted for war crimes — little.",
       "source": "NYT"
     },
     {
@@ -833,6 +963,7 @@
       "link": "https://www.nytimes.com/2026/10/21/world/americas/ai-election-videos-brazil.html",
       "pubDate": "2026-10-21T15:42:11.000Z",
       "image": null,
+      "author": "Ana Ionova",
       "excerpt": "Brazil spent years targeting electoral lies on the internet. Now, artificial intelligence is stumping the election authorities and reshaping a high-stakes race.",
       "source": "NYT"
     },
@@ -841,6 +972,7 @@
       "link": "https://www.nytimes.com/2026/10/21/world/europe/macron-trump-doesnt-like-france.html",
       "pubDate": "2026-10-21T15:26:40.000Z",
       "image": null,
+      "author": "Ségolène Le Stradic",
       "excerpt": "Speaking in Qatar, President Emmanuel Macron railed against foreign leaders who he said had made false claims about unrest in France for their own political ends.",
       "source": "NYT"
     },
@@ -849,6 +981,7 @@
       "link": "https://www.nytimes.com/2026/10/21/world/asia/china-exports-ai-controls.html",
       "pubDate": "2026-10-21T14:43:43.000Z",
       "image": null,
+      "author": "David Pierson and Adam Satariano",
       "excerpt": "Draft rules on the export of artificial intelligence technology show how China is trying to balance national security risks with its desire to outpace the United States.",
       "source": "NYT"
     },
@@ -857,6 +990,7 @@
       "link": "https://www.nytimes.com/2026/10/21/business/elon-musk-spacex-tesla-merger.html",
       "pubDate": "2026-10-21T14:39:11.000Z",
       "image": null,
+      "author": "Ryan Mac and Jack Ewing",
       "excerpt": "A deal would consolidate Elon Musk’s holdings in rockets, cars and artificial intelligence into a company worth well over $3 trillion.",
       "source": "NYT"
     },
@@ -865,15 +999,8 @@
       "link": "https://www.nytimes.com/2026/10/21/magazine/dark-nutrition-raw-meat-diet.html",
       "pubDate": "2026-10-21T14:26:52.000Z",
       "image": null,
+      "author": "Sophie Haigney",
       "excerpt": "More Americans are rejecting everything they’ve been taught about food.",
-      "source": "NYT"
-    },
-    {
-      "title": "A Mother Searches for Her Son, One Graffiti Tag at a Time",
-      "link": "https://www.nytimes.com/2026/10/21/opinion/graffiti-mother-son-relationship-sweden.html",
-      "pubDate": "2026-10-21T14:25:32.000Z",
-      "image": null,
-      "excerpt": "On cement walls and through dusty windows, a mother reaches out to her child.",
       "source": "NYT"
     },
     {
@@ -881,6 +1008,7 @@
       "link": "https://www.nytimes.com/2026/10/20/us/politics/julio-herrera-pardon-alina-habba.html",
       "pubDate": "2026-10-21T14:04:31.000Z",
       "image": null,
+      "author": "Tyler Pager",
       "excerpt": "Julio Herrera Velutini, a prominent Venezuelan, was seeking clemency. He got it not long after his daughter gave Ms. Habba, a lawyer close to President Trump, an extraordinarily lucrative job.",
       "source": "NYT"
     },
@@ -889,6 +1017,7 @@
       "link": "https://www.nytimes.com/2026/10/21/science/rabies-virus-animals.html",
       "pubDate": "2026-10-21T14:00:07.000Z",
       "image": null,
+      "author": "Emily Anthes",
       "excerpt": "As several states report surges in animal cases, federal officials are warning about an apparent increase in human exposures.",
       "source": "NYT"
     },
@@ -897,15 +1026,8 @@
       "link": "https://www.nytimes.com/2026/10/21/insider/trump-ai-videos-photos.html",
       "pubDate": "2026-10-21T13:21:54.000Z",
       "image": null,
+      "author": "Mike Abrams, Chloe W. Shakin, Stuart A. Thompson, Aisha Khan and Mark Scheffler",
       "excerpt": "A Times reporter and editors discuss the challenges of sifting through what’s real and what’s not in pursuit of the news.",
-      "source": "NYT"
-    },
-    {
-      "title": "Who Is Stephen James Hubbard, the American Released From Russian Jail?",
-      "link": "https://www.nytimes.com/2026/10/21/world/europe/who-stephen-hubbard-american-russia-prisoner-release.html",
-      "pubDate": "2026-10-21T13:10:44.000Z",
-      "image": null,
-      "excerpt": "Mr. Hubbard, a 74-year-old teacher, was held for more than four years on what the State Department called fabricated charges.",
       "source": "NYT"
     },
     {
@@ -913,6 +1035,7 @@
       "link": "https://www.nytimes.com/2026/10/21/world/middleeast/stakes-for-palestinians-of-israel-election.html",
       "pubDate": "2026-10-21T13:10:32.000Z",
       "image": null,
+      "author": "Adam Rasgon and Aaron Boxerman",
       "excerpt": "Many in Gaza and the West Bank are desperate to avoid more years of Prime Minister Benjamin Netanyahu’s right-wing government, which has made life close to unbearable.",
       "source": "NYT"
     },
@@ -921,6 +1044,7 @@
       "link": "https://www.nytimes.com/2026/10/21/t-magazine/cardi-b-music-albums.html",
       "pubDate": "2026-10-21T11:05:04.000Z",
       "image": null,
+      "author": "Emily Lordi",
       "excerpt": "A shape-shifter with talent and personality to spare, the rapper keeps finding new ways to express herself.",
       "source": "NYT"
     },
@@ -929,6 +1053,7 @@
       "link": "https://www.nytimes.com/2026/10/21/briefing/idaho-womens-health.html",
       "pubDate": "2026-10-21T10:58:01.000Z",
       "image": null,
+      "author": "Sam Sifton",
       "excerpt": "We look at women’s health care in the state.",
       "source": "NYT"
     },
@@ -937,6 +1062,7 @@
       "link": "https://www.nytimes.com/2026/10/21/upshot/times-siena-poll-trump-midterms.html",
       "pubDate": "2026-10-21T09:36:35.000Z",
       "image": null,
+      "author": "Nate Cohn",
       "excerpt": "The map favors Republicans, but cracks in their base are leaving them vulnerable in defending House and Senate control.",
       "source": "NYT"
     },
@@ -945,6 +1071,7 @@
       "link": "https://www.nytimes.com/2026/10/21/us/politics/trump-midterm-election-poll.html",
       "pubDate": "2026-10-21T09:03:22.000Z",
       "image": null,
+      "author": "Lisa Lerer and Ruth Igielnik",
       "excerpt": "Likely voters favored Democratic candidates over Republicans by 11 percentage points in their congressional district, a New York Times/Siena poll found.",
       "source": "NYT"
     },
@@ -953,6 +1080,7 @@
       "link": "https://www.nytimes.com/2026/10/21/well/mind/alzheimers-apoe4-reduce-risk.html",
       "pubDate": "2026-10-21T09:01:49.000Z",
       "image": null,
+      "author": "Dana G. Smith",
       "excerpt": "People with the APOE4 gene variant have more to lose from unhealthy habits — and potentially more to gain from healthy ones.",
       "source": "NYT"
     },
@@ -961,6 +1089,7 @@
       "link": "https://www.nytimes.com/2026/10/21/world/americas/venezuela-earthquakes-deaths.html",
       "pubDate": "2026-10-21T09:00:24.000Z",
       "image": null,
+      "author": "James Glanz, Julie Turkewitz and Helmuth Rosales",
       "excerpt": "A Times analysis and U.S. Geological Survey data indicate that the official 6,509 death toll is probably a severe undercount.",
       "source": "NYT"
     }
