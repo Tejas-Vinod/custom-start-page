@@ -1,6 +1,14 @@
 {
   "spaceNews": [
     {
+      "title": "NASA to Conduct NCAA Flyover, Engage Fans at University of Alabama",
+      "link": "https://www.nasa.gov/news-release/nasa-to-conduct-ncaa-flyover-engage-fans-at-university-of-alabama/",
+      "pubDate": "2026-10-21T16:31:11.000Z",
+      "image": "https://www.nasa.gov/wp-content/uploads/2026/10/grc-2026-c-06389large.jpg?w=1920",
+      "excerpt": "As part of the agency’s Inspiration Tour, NASA will conduct a flyover at the University of Alabama vs. Texas A&M football game in Tuscaloosa, Alabama, on Saturday, Oct. 24. NASA Administrator Jared Isaacman will pilot one of three F-5 fighter jets during the flyover, highlighting NASA’s contributions to aeronautics and",
+      "source": "NASA"
+    },
+    {
       "title": "TechnoMile Recognized as a 2026 Inc. Power Partner Award Winner",
       "link": "https://spacenews.com/technomile-recognized-as-a-2026-inc-power-partner-award-winner/",
       "pubDate": "2026-10-21T15:26:29.000Z",
@@ -92,7 +100,7 @@
       "title": "SpaceX scrubs launch of 27 Starlink satellites on Falcon 9 rocket from Vandenberg SFB",
       "link": "https://spaceflightnow.com/2026/10/20/live-coverage-spacex-to-launch-27-starlink-satellites-on-falcon-9-rocket-from-vandenberg-sfb-5/",
       "pubDate": "2026-10-20T21:18:11.000Z",
-      "image": "http://spaceflightnow.com/wp-content/uploads/2026/10/20261001-Vandenberg-File-Feature-Image.jpg",
+      "image": "https://spaceflightnow.com/wp-content/uploads/2026/10/20261001-Vandenberg-File-Feature-Image.jpg",
       "excerpt": "Liftoff from pad 4E at Vandenberg Space Force Base is scheduled for 4:02 p.m. PDT (7:02 p.m. EDT / 2302 UTC) on Wednesday, Oct. 21.",
       "source": "Spaceflight Now"
     },
@@ -150,14 +158,6 @@
       "pubDate": "2026-10-20T14:44:09.000Z",
       "image": "https://www.nasa.gov/wp-content/uploads/2026/10/55572978759-545472774e-o.png?w=2048",
       "excerpt": "An image from NASA’s James Webb Space Telescope released on Oct. 6, 2026, reveals a cauldron of cosmic creation. Webb has unveiled numerous stars formerly hidden by clouds of dust in a stellar nursery known as NGC 7129, which resides about 3,300 light-years from Earth. Learn more about this region – and tour it in […]",
-      "source": "NASA"
-    },
-    {
-      "title": "NASA Welcomes Uzbekistan as Newest Artemis Accords Signatory",
-      "link": "https://www.nasa.gov/organizations/oiir/artemis-accords/nasa-welcomes-uzbekistan-as-newest-artemis-accords-signatory/",
-      "pubDate": "2026-10-20T14:21:42.000Z",
-      "image": "https://www.nasa.gov/wp-content/uploads/2026/10/artemis-accords-uzbekistan-77-101926.jpg?w=2048",
-      "excerpt": "The Republic of Uzbekistan became the 77th signatory of the Artemis Accords during a ceremony in Samarkand on Monday, committing to the practical principles that guide safe, transparent, and responsible civil space exploration. “Uzbekistan joins the Artemis Accords at a pivotal moment,” said NASA Deputy Administrator M",
       "source": "NASA"
     },
     {
@@ -220,7 +220,7 @@
       "title": "SpaceX launches Starfall reentry capsule, 31 customer payloads on Bandwagon-5 rideshare mission",
       "link": "https://spaceflightnow.com/2026/10/18/live-coverage-spacex-to-launch-starfall-reentry-capsule-31-customer-payloads-on-bandwagon-5-rideshare-mission/",
       "pubDate": "2026-10-18T16:32:02.000Z",
-      "image": "http://spaceflightnow.com/wp-content/uploads/2026/10/20261020_Bandwagon-5_MC-1.jpeg",
+      "image": "https://spaceflightnow.com/wp-content/uploads/2026/10/20261020_Bandwagon-5_MC-1.jpeg",
       "excerpt": "This will be the second launch of SpaceX’s uncrewed reentry capsule, Starfall. Liftoff from pad 40 at Cape Canaveral Space Force Station is scheduled at 7:04 a.m. EDT (1104 UTC) on Tuesday, Oct. 20.",
       "source": "Spaceflight Now"
     },
@@ -236,7 +236,7 @@
       "title": "Blue Origin to add new Florida launch pads, seeks aggressive increase in New Glenn flight rate",
       "link": "https://spaceflightnow.com/2026/10/16/blue-origin-to-add-new-florida-launch-pads-seeks-aggressive-increase-in-new-glenn-flight-rate/",
       "pubDate": "2026-10-16T13:17:28.000Z",
-      "image": "http://spaceflightnow.com/wp-content/uploads/2026/10/20261016-Blue-Origin-Map-of-Key-Facilities.png",
+      "image": "https://spaceflightnow.com/wp-content/uploads/2026/10/20261016-Blue-Origin-Map-of-Key-Facilities.png",
       "excerpt": "The launch infrastructure improvements also include a substantial manufacturing expansion at Rocket Park and the addition of new landing barges.",
       "source": "Spaceflight Now"
     },
@@ -284,7 +284,7 @@
       "title": "SpaceX launches a classified payload for U.S. Space Force",
       "link": "https://spaceflightnow.com/2026/10/15/live-coverage-spacex-to-launch-classified-payload-for-u-s-space-force/",
       "pubDate": "2026-10-15T19:11:45.000Z",
-      "image": "http://spaceflightnow.com/wp-content/uploads/2026/10/20261015_USSF-481.jpg",
+      "image": "https://spaceflightnow.com/wp-content/uploads/2026/10/20261015_USSF-481.jpg",
       "excerpt": "Liftoff from pad 4E at Vandenberg Space Force Base in California happened on Thursday, Oct. 15, at 5:01 p.m. PDT (8:01 p.m. EDT / 0001 UTC).",
       "source": "Spaceflight Now"
     },
@@ -372,7 +372,7 @@
       "title": "SpaceX launches NASA science and cargo to the International Space Station",
       "link": "https://spaceflightnow.com/2026/10/13/spacex-launches-nasa-science-and-cargo-to-the-international-space-station/",
       "pubDate": "2026-10-13T14:07:50.000Z",
-      "image": "http://spaceflightnow.com/wp-content/uploads/2026/10/20261013_CRS-35_MC-1.jpeg",
+      "image": "https://spaceflightnow.com/wp-content/uploads/2026/10/20261013_CRS-35_MC-1.jpeg",
       "excerpt": "The sunrise launch on Oct. 13 was the 35th SpaceX flight under the Commercial Resupply Services 2 contract with NASA.",
       "source": "Spaceflight Now"
     },
@@ -388,7 +388,7 @@
       "title": "Launch preview: NASA, SpaceX to launch new solar arrays, 6,300 pounds of cargo to the space station",
       "link": "https://spaceflightnow.com/2026/10/13/live-coverage-nasa-spacex-to-launch-new-solar-arrays-6300-pounds-of-cargo-to-the-space-station/",
       "pubDate": "2026-10-13T01:19:30.000Z",
-      "image": "http://spaceflightnow.com/wp-content/uploads/2026/10/20261012-F9-CRS-Sunset.jpg",
+      "image": "https://spaceflightnow.com/wp-content/uploads/2026/10/20261012-F9-CRS-Sunset.jpg",
       "excerpt": "Liftoff of the Falcon 9 rocket from pad 40 at Cape Canaveral Space Force Station is scheduled for 6:33 a.m. EDT (1033 UTC) on Tuesday, Oct. 13. The Cargo Dragon spacecraft will arrive at the space station following a two-day flight.",
       "source": "Spaceflight Now"
     },
@@ -396,7 +396,7 @@
       "title": "SpaceX Falcon 9 rocket launches 27 Starlink satellites from California",
       "link": "https://spaceflightnow.com/2026/10/12/spacex-falcon-9-rocket-to-launch-27-starlink-satellites-into-orbit-from-california/",
       "pubDate": "2026-10-12T22:21:40.000Z",
-      "image": "http://spaceflightnow.com/wp-content/uploads/2026/10/20261015-F9-Starlink-15-25-Launch-Quick.jpg",
+      "image": "https://spaceflightnow.com/wp-content/uploads/2026/10/20261015-F9-Starlink-15-25-Launch-Quick.jpg",
       "excerpt": "Liftoff off of the Starlink 15-25 mission from Space Launch Complex 4 East came at 5:28 p.m. PDT (8:28 p.m. EDT / 0028 UTC).",
       "source": "Spaceflight Now"
     },
@@ -428,7 +428,7 @@
       "title": "SpaceX launches 21 data satellites for the Space Development Agency",
       "link": "https://spaceflightnow.com/2026/10/09/spacex-to-make-another-attempt-to-launch-21-data-satellites-for-space-development-agency/",
       "pubDate": "2026-10-09T21:41:30.000Z",
-      "image": "http://spaceflightnow.com/wp-content/uploads/2026/10/20261010-F9-Launch-Quick.jpg",
+      "image": "https://spaceflightnow.com/wp-content/uploads/2026/10/20261010-F9-Launch-Quick.jpg",
       "excerpt": "Liftoff of the Falcon 9 rocket from Vandenberg Space Force Base in California carrying satellites for the Space Development Agency’s Proliferated Warfighter Space Architecture constellation came at 12:39 a.m. PDT (3:39 EDT / 0739 UTC).",
       "source": "Spaceflight Now"
     },
@@ -540,7 +540,7 @@
       "title": "SpaceX scrubs launch attempt for 21 data transport satellites for the Space Development Agency",
       "link": "https://spaceflightnow.com/2026/10/04/live-coverage-spacex-to-launch-21-data-transport-satellites-for-the-space-development-agency/",
       "pubDate": "2026-10-04T20:33:26.000Z",
-      "image": "http://spaceflightnow.com/wp-content/uploads/2026/10/20261005_T1TL-A_scrub.jpg",
+      "image": "https://spaceflightnow.com/wp-content/uploads/2026/10/20261005_T1TL-A_scrub.jpg",
       "excerpt": "The Tranche 1 Transporter Layer A mission is the fourth flight supporting the Space Development Agency’s Proliferated Warfighter Space Architecture constellation. The next launch attempt could come as soon as Saturday.",
       "source": "Spaceflight Now"
     },
@@ -548,7 +548,7 @@
       "title": "Falcon Heavy flies its first mission for U.S. spy satellite agency",
       "link": "https://spaceflightnow.com/2026/10/01/falcon-heavy-to-fly-its-first-mission-for-u-s-spy-satellite-agency/",
       "pubDate": "2026-10-01T22:37:30.000Z",
-      "image": "http://spaceflightnow.com/wp-content/uploads/2026/10/20261001_NROL-97_launch_MC-1.jpeg",
+      "image": "https://spaceflightnow.com/wp-content/uploads/2026/10/20261001_NROL-97_launch_MC-1.jpeg",
       "excerpt": "The 14th Falcon Heavy rocket is scheduled to blast off on a clandestine mission from Launch Complex 39A at NASA’s Kennedy Space Center at 11:54 p.m. EDT (0354 UTC).",
       "source": "Spaceflight Now"
     },
