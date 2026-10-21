@@ -1,6 +1,15 @@
 {
   "spaceNews": [
     {
+      "title": "NASA Conducts RS-25 Engine Test in Support of Future Artemis Missions",
+      "link": "https://www.nasa.gov/image-article/rs-25-engine-test-in-support-of-future-artemis-missions/",
+      "pubDate": "2026-10-21T20:51:50.000Z",
+      "image": "https://www.nasa.gov/wp-content/uploads/2026/10/ssc-20261021-s00947h.jpg?w=1024",
+      "author": "LaToya Dean",
+      "excerpt": "NASA tested RS-25 engine No. 10001 on Oct. 21 on the Fred Haise Test Stand at NASA’s Stennis Space Center near Bay St. Louis, Mississippi. Test teams fired the developmental engine for almost eight-and-a-half minutes (500 seconds), the same amount of time RS-25 engines fire during launch of NASA’s SLS (Space Launch Sys",
+      "source": "NASA"
+    },
+    {
       "title": "NASA JPL Looks to Next 90 Years of Innovation, Exploration",
       "link": "https://www.nasa.gov/centers-and-facilities/jpl/nasa-jpl-looks-to-next-90-years-of-innovation-exploration/",
       "pubDate": "2026-10-21T18:35:56.000Z",
@@ -105,7 +114,7 @@
       "pubDate": "2026-10-21T04:05:00.000Z",
       "image": "https://assets.science.nasa.gov/dynamicimage/assets/science/cds/apod/apod/2026/october/IC63.png?w=2622&#038;h=1751&#038;fit=clip&#038;crop=faces%2Cfocalpoint",
       "author": "",
-      "excerpt": "APOD Science APOD APOD: 2026 October 21 – New… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professio",
+      "excerpt": "APODScienceAPODAPOD: 2026 October 21 – New…Today’s APODArchiveSubmissionsIndexSearchCalendarRSSEducationAboutDiscuss APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronome",
       "source": "NASA"
     },
     {
@@ -132,7 +141,7 @@
       "pubDate": "2026-10-20T21:18:11.000Z",
       "image": "https://spaceflightnow.com/wp-content/uploads/2026/10/20261001-Vandenberg-File-Feature-Image.jpg",
       "author": "Will Robinson-Smith",
-      "excerpt": "Liftoff from pad 4E at Vandenberg Space Force Base is scheduled for 4:02 p.m. PDT (7:02 p.m. EDT / 2302 UTC) on Wednesday, Oct. 21.",
+      "excerpt": "Liftoff from pad 4E at Vandenberg Space Force Base is scheduled for during a window that opens at 2:45 p.m. PDT (5:45 p.m. EDT / 2145 UTC) on Thursday, Oct. 22.",
       "source": "Spaceflight Now"
     },
     {
@@ -170,15 +179,6 @@
       "author": "Jacqueline Feldscher",
       "excerpt": "“The United States government has a fundamental obligation to protect American personnel serving overseas,” the senators wrote. “The possibility that American personnel were endangered by preventable disruptions, inadequate coordination, or decisions made by their own government demands immediate scrutiny and accountab",
       "source": "Payload"
-    },
-    {
-      "title": "NASA Experimental Mars Helicopter Blade Designs Target Longer Flights ",
-      "link": "https://www.nasa.gov/science-research/aeronautics-research/nasa-experimental-mars-helicopter-blade-designs-target-longer-flights/",
-      "pubDate": "2026-10-20T16:02:35.000Z",
-      "image": "https://www.nasa.gov/wp-content/uploads/2026/10/ingenuity-airfoil-clf5605.png",
-      "author": "Arezu Sarvestani",
-      "excerpt": "NASA researchers are developing the future of flight on Mars, laying the groundwork for helicopters with the ability to fly higher and farther while conducting science on the Red Planet. Using high-fidelity computer simulations and wind tunnel tests, engineers are reimagining the rotorcraft blades that could carry the ",
-      "source": "NASA"
     },
     {
       "title": "AnySignal to Deliver Space-to-Earth Communications for Three Reflect Orbital Missions",
@@ -878,21 +878,57 @@
   ],
   "nytNews": [
     {
-      "title": "Abdul El-Sayed Confronts Attacks on His Faith and Family Ties",
-      "link": "https://www.nytimes.com/2026/10/21/us/politics/abdul-el-sayed-muslim-brotherhood-mother-half-sister.html",
-      "pubDate": "2026-10-21T20:20:19.000Z",
-      "image": "https://static01.nyt.com/images/2026/10/21/multimedia/21pol-el-sayed-01-zhwg/21pol-el-sayed-01-zhwg-mediumSquareAt3X.jpg",
-      "author": "Reid J. Epstein, Brian M. Rosenthal and Michael Kruse",
-      "excerpt": "In the final weeks of Michigan’s Senate race, the Democratic nominee finds himself facing both ugly attacks and pointed questions about family members. He has pushed back forcefully.",
+      "title": "Meta Ordered to Pay $25 Billion Over Cambridge Analytica Privacy Violations",
+      "link": "https://www.nytimes.com/2026/10/21/technology/meta-penalty-new-mexico.html",
+      "pubDate": "2026-10-21T22:57:53.000Z",
+      "image": "https://static01.nyt.com/images/2026/10/01/multimedia/01biz-meta-ruling-bgvc/01biz-meta-ruling-bgvc-mediumSquareAt3X.jpg",
+      "author": "Eli Tan and Cecilia Kang",
+      "excerpt": "The penalty, one of the largest levied against a tech giant, stemmed from a lawsuit by New Mexico claiming the social media company had misled users about their data privacy.",
       "source": "NYT"
     },
     {
-      "title": "Tesla Earnings Show Profit Declines Amid Talks to Merge With SpaceX",
-      "link": "https://www.nytimes.com/2026/10/21/business/tesla-earnings-ai-robots.html",
-      "pubDate": "2026-10-21T20:11:27.000Z",
-      "image": "https://static01.nyt.com/images/2026/10/21/multimedia/21biz-tesla-earnings-jgch/21biz-tesla-earnings-jgch-mediumSquareAt3X.jpg",
-      "author": "Jack Ewing",
-      "excerpt": "The carmaker, which is controlled by Elon Musk and is considering merging with another of his companies, SpaceX, spent heavily on artificial intelligence and other new technologies.",
+      "title": "Meta Earnings Show Increased A.I. Spending, Even as Cash Pressures Grow",
+      "link": "https://www.nytimes.com/2026/10/21/technology/meta-earnings.html",
+      "pubDate": "2026-10-21T22:42:39.000Z",
+      "image": "https://static01.nyt.com/images/2026/10/21/multimedia/21biz-meta-earnings-hfo-1-jzvc/21biz-meta-earnings-hfo-1-jzvc-mediumSquareAt3X.jpg",
+      "author": "Eli Tan",
+      "excerpt": "The spending has hurt the Silicon Valley giant’s cash flow, which turned negative. Meta said it would issue a new class of stock to help it raise more money.",
+      "source": "NYT"
+    },
+    {
+      "title": "U.S. and Israel Draw Up Plans for Renewed Strikes on Iran After Elections",
+      "link": "https://www.nytimes.com/2026/10/21/us/politics/us-israel-renewed-iran-strikes.html",
+      "pubDate": "2026-10-21T22:41:32.000Z",
+      "image": "https://static01.nyt.com/images/2026/10/21/multimedia/21dc-iran-strikes-01-cqpg/21dc-iran-strikes-01-cqpg-mediumSquareAt3X.jpg",
+      "author": "Julian E. Barnes, Eric Schmitt, Farnaz Fassihi, Natan Odenheimer and Ronen Bergman",
+      "excerpt": "Renewed hostilities might not be any more successful than the war’s first phase, and President Trump has repeatedly canceled plans for a return to major combat.",
+      "source": "NYT"
+    },
+    {
+      "title": "Pope Needs No Further Treatment for Lung Cancer, Doctors Say",
+      "link": "https://www.nytimes.com/2026/10/21/world/europe/pope-leo-cancer.html",
+      "pubDate": "2026-10-21T22:18:16.000Z",
+      "image": "https://static01.nyt.com/images/2026/10/21/multimedia/21int-pope-health-qbwz/21int-pope-health-qbwz-mediumSquareAt3X.jpg",
+      "author": "Elisabetta Povoledo",
+      "excerpt": "Test results after the operation showed that the cancer was localized.",
+      "source": "NYT"
+    },
+    {
+      "title": "Trump Envoy Calls Putin a ‘Humanitarian’",
+      "link": "https://www.nytimes.com/2026/10/21/briefing/trump-russia-prisoner-release.html",
+      "pubDate": "2026-10-21T21:58:39.000Z",
+      "image": "https://static01.nyt.com/images/2026/10/21/multimedia/21evening-nl-top-fphv/21evening-nl-top-fphv-mediumSquareAt3X.jpg",
+      "author": "Matthew Cullen",
+      "excerpt": "Also, Democrats lead in polls, but still face image problems. Here’s the latest at the end of Wednesday.",
+      "source": "NYT"
+    },
+    {
+      "title": "Trump Asks Supreme Court to Allow Border Wall Construction in Big Bend",
+      "link": "https://www.nytimes.com/2026/10/21/us/politics/trump-supreme-court-border-wall.html",
+      "pubDate": "2026-10-21T21:21:06.000Z",
+      "image": "https://static01.nyt.com/images/2026/10/21/multimedia/21dc-scotus-borderwall-kwvl/21dc-scotus-borderwall-kwvl-mediumSquareAt3X.jpg",
+      "author": "Abbie VanSickle",
+      "excerpt": "A lower court judge had halted the administration’s plan to erect hundreds of miles of barriers in the Big Bend region of Texas.",
       "source": "NYT"
     },
     {
@@ -902,15 +938,6 @@
       "image": "https://static01.nyt.com/images/2026/10/21/multimedia/21ST-LUXURY-LOOTING-PARIS-1-pkgf/21ST-LUXURY-LOOTING-PARIS-1-pkgf-mediumSquareAt3X.jpg",
       "author": "Vanessa Friedman",
       "excerpt": "The looting of stores belonging to brands like Dior, Celine and Hermès has exposed a crack in the glossy facade.",
-      "source": "NYT"
-    },
-    {
-      "title": "Meta Ordered to Pay $25 Billion Over Cambridge Analytica Privacy Violations",
-      "link": "https://www.nytimes.com/2026/10/21/technology/meta-penalty-new-mexico.html",
-      "pubDate": "2026-10-21T19:57:08.000Z",
-      "image": "https://static01.nyt.com/images/2026/10/01/multimedia/01biz-meta-ruling-bgvc/01biz-meta-ruling-bgvc-mediumSquareAt3X.jpg",
-      "author": "Eli Tan and Cecilia Kang",
-      "excerpt": "The penalty, one of the largest levied against the tech giant, stemmed from a lawsuit by New Mexico claiming the social media company had misled users about their data privacy.",
       "source": "NYT"
     },
     {
@@ -932,15 +959,6 @@
       "source": "NYT"
     },
     {
-      "title": "Is Rabies Making a Comeback?",
-      "link": "https://www.nytimes.com/2026/10/21/science/rabies-virus-animals.html",
-      "pubDate": "2026-10-21T18:59:45.000Z",
-      "image": null,
-      "author": "Emily Anthes",
-      "excerpt": "As several states report surges in animal cases, federal officials are warning about an apparent increase in human exposures.",
-      "source": "NYT"
-    },
-    {
       "title": "Russia Releases American Stephen Hubbard From Prison, State Media Reports",
       "link": "https://www.nytimes.com/2026/10/21/us/politics/russia-american-prisoner-release-stephen-hubbard-trump.html",
       "pubDate": "2026-10-21T18:58:22.000Z",
@@ -956,6 +974,15 @@
       "image": "https://static01.nyt.com/images/2026/10/21/multimedia/21int-ukraine-starshield-01-hglc/21int-ukraine-starshield-01-hglc-mediumSquareAt3X.jpg",
       "author": "Siobhán O’Grady, Carlotta Gall and Anton Troianovski",
       "excerpt": "Ukraine says it still doesn’t know why the military satellite internet service, a sister to Starlink, was abruptly throttled, leaving troops vulnerable to Russian attacks.",
+      "source": "NYT"
+    },
+    {
+      "title": "Supreme Court Blocks Trump From Denying Gender-Affirming Care to Trans Prisoners",
+      "link": "https://www.nytimes.com/2026/10/21/us/politics/supreme-court-trump-transgender-prisoners.html",
+      "pubDate": "2026-10-21T17:08:27.000Z",
+      "image": "https://static01.nyt.com/images/2026/10/08/multimedia/00dc-scotus-transprisoners-tmgl/00dc-scotus-transprisoners-tmgl-mediumSquareAt3X.jpg",
+      "author": "Ann E. Marimow",
+      "excerpt": "The justices, for now, agreed to continue preventing the Bureau of Prisons from implementing a policy that would prohibit gender-transition medical treatments.",
       "source": "NYT"
     },
     {
@@ -1004,15 +1031,6 @@
       "source": "NYT"
     },
     {
-      "title": "A Billionaire Wanted a Trump Pardon. His Family Gave Alina Habba a $50 Million Deal.",
-      "link": "https://www.nytimes.com/2026/10/20/us/politics/julio-herrera-pardon-alina-habba.html",
-      "pubDate": "2026-10-21T14:04:31.000Z",
-      "image": "https://static01.nyt.com/images/2026/10/20/us/20dc-pardons-TOP/20dc-pardons-TOP-mediumSquareAt3X-v3.jpg",
-      "author": "Tyler Pager",
-      "excerpt": "Julio Herrera Velutini, a prominent Venezuelan, was seeking clemency. He got it not long after his daughter gave Ms. Habba, a lawyer close to President Trump, an extraordinarily lucrative job.",
-      "source": "NYT"
-    },
-    {
       "title": "Everything Feels So Expensive. Here’s What’s Really Going On.",
       "link": "https://www.nytimes.com/2026/10/21/opinion/affordability-crisis-prices-economics.html",
       "pubDate": "2026-10-21T12:10:49.000Z",
@@ -1037,15 +1055,6 @@
       "image": "https://static01.nyt.com/images/2026/10/21/well/21WELL-APOE4-image/21WELL-APOE4-image-mediumSquareAt3X.jpg",
       "author": "Dana G. Smith",
       "excerpt": "People with the APOE4 gene variant have more to lose from unhealthy habits — and potentially more to gain from healthy ones.",
-      "source": "NYT"
-    },
-    {
-      "title": "Death Toll From Venezuela Quakes Likely Far Exceeds Official Count",
-      "link": "https://www.nytimes.com/2026/10/21/world/americas/venezuela-earthquakes-deaths.html",
-      "pubDate": "2026-10-21T09:00:24.000Z",
-      "image": "https://static01.nyt.com/images/2026/10/14/multimedia/venezuela-deaths-kclz/venezuela-deaths-kclz-mediumSquareAt3X.jpg",
-      "author": "James Glanz, Julie Turkewitz and Helmuth Rosales",
-      "excerpt": "A Times analysis and U.S. Geological Survey data indicate that the official 6,509 death toll is probably a severe undercount.",
       "source": "NYT"
     }
   ]
