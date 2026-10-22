@@ -1,6 +1,24 @@
 {
   "spaceNews": [
     {
+      "title": "APOD: 2026 October 22 – The First Green Star, WD J1330+6435",
+      "link": "https://science.nasa.gov/image-article/apod-2026-october-22-the-first-green-star-wd-j13306435/",
+      "pubDate": "2026-10-22T04:05:00.000Z",
+      "image": "https://assets.science.nasa.gov/dynamicimage/assets/science/cds/apod/apod/2026/october/green_wd_mark-garlick_annotated2.jpg?w=1280&#038;h=1280&#038;fit=clip&#038;crop=faces%2Cfocalpoint",
+      "author": "",
+      "excerpt": "APOD Science APOD APOD: 2026 October 22 – The… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professio",
+      "source": "NASA"
+    },
+    {
+      "title": "Fires Char New Guinea",
+      "link": "https://science.nasa.gov/earth/earth-observatory/fires-char-new-guinea/",
+      "pubDate": "2026-10-22T04:01:00.000Z",
+      "image": "https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2026/new-guinea-on-fire/papuanewguinea_vir_20261011.jpg?w=2048&#038;h=1460&#038;fit=clip&#038;crop=faces%2Cfocalpoint",
+      "author": "",
+      "excerpt": "Emissions on both sides of the island are unusually high as human-set fires spread in a landscape parched by drought.",
+      "source": "NASA"
+    },
+    {
       "title": "Faster to Science: A Letter to the Science Community",
       "link": "https://science.nasa.gov/directorates/smd/faster-to-science-a-letter-to-the-science-community/",
       "pubDate": "2026-10-22T00:00:16.000Z",
@@ -127,15 +145,6 @@
       "source": "NASA"
     },
     {
-      "title": "Extratropical Cyclone Whips Past Iceland",
-      "link": "https://science.nasa.gov/earth/earth-observatory/extratropical-cyclone-whips-past-iceland/",
-      "pubDate": "2026-10-21T04:01:00.000Z",
-      "image": "https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2026/extratropical-cyclone-whips-past-iceland/icelandstorm_vir2_20261014.jpg?w=2048&#038;h=1764&#038;fit=clip&#038;crop=faces%2Cfocalpoint",
-      "author": "",
-      "excerpt": "The powerful low-pressure system formed over the North Atlantic out of the remnants of Hurricane Isaias.",
-      "source": "NASA"
-    },
-    {
       "title": "SpaceX’s AI Revenue Leads Q3 Earnings",
       "link": "https://payloadspace.com/spacexs-ai-revenue-leads-q3-earnings/",
       "pubDate": "2026-10-21T02:50:15.000Z",
@@ -152,15 +161,6 @@
       "author": "Will Robinson-Smith",
       "excerpt": "Liftoff from pad 4E at Vandenberg Space Force Base is scheduled for during a window that opens at 2:45 p.m. PDT (5:45 p.m. EDT / 2145 UTC) on Thursday, Oct. 22.",
       "source": "Spaceflight Now"
-    },
-    {
-      "title": "NASA to Conduct Low-Altitude Flights Over Texas Farmland",
-      "link": "https://www.nasa.gov/general/nasa-to-conduct-low-altitude-flights-over-texas-farmland/",
-      "pubDate": "2026-10-20T20:21:36.000Z",
-      "image": "https://www.nasa.gov/wp-content/uploads/2026/09/a200-king-air-da.jpg?w=960",
-      "author": "Gianine Figliozzi",
-      "excerpt": "Editor’s Note: This article was originally published on Oct. 15, 2026, and has been updated to correct the location of the flights. A NASA Dynamic Aviation A200 aircraft will conduct low-flying research flights over farmland near Amarillo, Texas, from Thursday, Oct. 22, through Monday, Nov. 9. These flights will measur",
-      "source": "NASA"
     },
     {
       "title": "Understanding celestial coordinates",
@@ -878,6 +878,69 @@
   ],
   "nytNews": [
     {
+      "title": "MAGA Bingo and Questions of Loyalty: 5 Michigan Senate Debate Takeaways",
+      "link": "https://www.nytimes.com/2026/10/21/us/politics/michigan-senate-debate-takeaways-el-sayed-rogers.html",
+      "pubDate": "2026-10-22T08:03:31.000Z",
+      "image": "https://static01.nyt.com/images/2026/10/21/multimedia/21michigan-debate-takeaways-topart-01-fphz/21michigan-debate-takeaways-topart-01-fphz-mediumSquareAt3X.jpg",
+      "author": "Reid J. Epstein",
+      "excerpt": "Abdul El-Sayed accused Mike Rogers of being overly devoted to President Trump. Mr. Rogers accused Dr. El-Sayed of not enough loyalty to the country. It was still more cordial than their last debate.",
+      "source": "NYT"
+    },
+    {
+      "title": "Palestinian Voters Could Determine Israel’s Future",
+      "link": "https://www.nytimes.com/2026/10/22/opinion/palestinians-citizens-israel-election-voting.html",
+      "pubDate": "2026-10-22T05:00:05.000Z",
+      "image": "https://static01.nyt.com/images/2026/10/22/multimedia/22hardal-hzcq/22hardal-hzcq-mediumSquareAt3X.jpg",
+      "author": "Rula Hardal",
+      "excerpt": "Palestinian citizens may have the electoral weight to influence Israeli politics, even as they feel they have so little control over their lives.",
+      "source": "NYT"
+    },
+    {
+      "title": "‘Open War’ Between Afghanistan and Pakistan Adds a Volatile Element",
+      "link": "https://www.nytimes.com/2026/10/22/world/asia/afghanistan-pakistan-proxy-war.html",
+      "pubDate": "2026-10-22T04:10:29.000Z",
+      "image": "https://static01.nyt.com/images/2026/10/22/multimedia/22int-afghanistan-pakistan-hwkc/22int-afghanistan-pakistan-hwkc-mediumSquareAt3X.jpg",
+      "author": "Elian Peltier",
+      "excerpt": "The two sides turn to proxy groups after eight months of a conflict that has taken a heavy toll on civilians.",
+      "source": "NYT"
+    },
+    {
+      "title": "Looted Goods From French Stores Appear on Resale Sites After Riots",
+      "link": "https://www.nytimes.com/2026/10/22/business/france-riots-looting-resale.html",
+      "pubDate": "2026-10-22T04:00:06.000Z",
+      "image": "https://static01.nyt.com/images/2026/10/21/multimedia/21biz-france-resale-01-hqlz/21biz-france-resale-01-hqlz-mediumSquareAt3X.jpg",
+      "author": "Jenny Gross",
+      "excerpt": "Officials in France are pressing online platforms like eBay and Vinted to remove items that were stolen during public disturbances over the weekend.",
+      "source": "NYT"
+    },
+    {
+      "title": "Farmers, Health Care and Highways: 5 Takeaways from the Kansas Senate Debate",
+      "link": "https://www.nytimes.com/2026/10/21/us/kansas-senate-debate-marshall-hamilton-takeaways.html",
+      "pubDate": "2026-10-22T02:54:55.000Z",
+      "image": "https://static01.nyt.com/images/2026/10/21/multimedia/21kansas-debate-takeaways-topart-01-vbzf/21kansas-debate-takeaways-topart-01-vbzf-mediumSquareAt3X.jpg",
+      "author": "Jess Bidgood and Lisa Lerer",
+      "excerpt": "The Republican incumbent, Roger Marshall, is facing a surprisingly tough challenge from the Democratic nominee, Adam Hamilton.",
+      "source": "NYT"
+    },
+    {
+      "title": "Judge Restricts D.H.S. Field Operations Aimed at Unearthing Voter Fraud",
+      "link": "https://www.nytimes.com/2026/10/21/us/politics/judge-dhs-voter-fraud-elections.html",
+      "pubDate": "2026-10-22T02:41:56.000Z",
+      "image": "https://static01.nyt.com/images/2025/11/04/multimedia/21dc-voting/04election-day-us-carousel-CAL-bwfl-mediumSquareAt3X.jpg",
+      "author": "Zach Montague and Shawn Hubler",
+      "excerpt": "The ruling largely blocked homeland security agents from carrying out field interviews in nine states, including California, as part of a sprawling effort to find noncitizens registered to vote.",
+      "source": "NYT"
+    },
+    {
+      "title": "In Trump’s Diplomacy, Insults Are a One-Way Street. Ukraine Is the Latest Example.",
+      "link": "https://www.nytimes.com/2026/10/21/us/politics/trumps-diplomacy-insults.html",
+      "pubDate": "2026-10-22T02:29:48.000Z",
+      "image": "https://static01.nyt.com/images/2026/10/21/multimedia/21dc-memo-top-vbwz/21dc-memo-top-vbwz-mediumSquareAt3X.jpg",
+      "author": "Peter Baker",
+      "excerpt": "The latest rift with President Volodymyr Zelensky of Ukraine serves as a reminder that President Trump readily lashes out at other world leaders, only to grow outraged if they fight back.",
+      "source": "NYT"
+    },
+    {
       "title": "How Mark Zuckerberg Pushed Meta to Shield Him From California’s Proposed Wealth Tax",
       "link": "https://www.nytimes.com/2026/10/21/technology/mark-zuckerberg-meta-california-wealth-tax.html",
       "pubDate": "2026-10-22T01:21:13.000Z",
@@ -941,30 +1004,21 @@
       "source": "NYT"
     },
     {
-      "title": "Pope Needs No Further Treatment for Lung Cancer, Doctors Say",
-      "link": "https://www.nytimes.com/2026/10/21/world/europe/pope-leo-cancer.html",
-      "pubDate": "2026-10-21T22:18:16.000Z",
-      "image": "https://static01.nyt.com/images/2026/10/21/multimedia/21int-pope-health-qbwz/21int-pope-health-qbwz-mediumSquareAt3X.jpg",
-      "author": "Elisabetta Povoledo",
-      "excerpt": "Test results after the operation showed that the cancer was localized.",
-      "source": "NYT"
-    },
-    {
-      "title": "Trump Envoy Calls Putin a ‘Humanitarian’",
-      "link": "https://www.nytimes.com/2026/10/21/briefing/trump-russia-prisoner-release.html",
-      "pubDate": "2026-10-21T21:58:39.000Z",
-      "image": "https://static01.nyt.com/images/2026/10/21/multimedia/21evening-nl-top-fphv/21evening-nl-top-fphv-mediumSquareAt3X.jpg",
-      "author": "Matthew Cullen",
-      "excerpt": "Also, Democrats lead in polls, but still face image problems. Here’s the latest at the end of Wednesday.",
-      "source": "NYT"
-    },
-    {
       "title": "Oregon Teacher Disputes Account of Her Heroism During School Shooting",
       "link": "https://www.nytimes.com/2026/10/21/us/bend-oregon-school-shooting-teacher-hero.html",
       "pubDate": "2026-10-21T21:57:22.000Z",
       "image": "https://static01.nyt.com/images/2026/10/18/multimedia/-21nat-bend2/-21nat-bend2-mediumSquareAt3X.jpg",
       "author": "Anna Griffin",
       "excerpt": "Becky Drury, who was said to have shielded a student during a deadly shooting in Bend, refuted the account. “The truth is I was shot before I had any chance to act.”",
+      "source": "NYT"
+    },
+    {
+      "title": "Student Protests Mushroom Across Europe, Exposing Bleak Views of the Future",
+      "link": "https://www.nytimes.com/2026/10/21/world/europe/europe-protests-youth-future.html",
+      "pubDate": "2026-10-21T21:05:46.000Z",
+      "image": "https://static01.nyt.com/images/2026/10/21/multimedia/21int-europe-protests-bjlw/21int-europe-protests-bjlw-mediumSquareAt3X.jpg",
+      "author": "Jason Horowitz",
+      "excerpt": "Since high school students began protesting in France in September, they’ve been joined by young demonstrators in at least seven other European countries.",
       "source": "NYT"
     },
     {
@@ -977,9 +1031,18 @@
       "source": "NYT"
     },
     {
+      "title": "Delhi’s Winter Season of Polluted Air Begins",
+      "link": "https://www.nytimes.com/2026/10/21/world/asia/delhi-air-quality.html",
+      "pubDate": "2026-10-21T17:32:03.000Z",
+      "image": "https://static01.nyt.com/images/2026/10/21/multimedia/21int-india-kzvm/21int-india-kzvm-mediumSquareAt3X.jpg",
+      "author": "Anupreeta Das",
+      "excerpt": "As air quality plummeted in India’s largest city, the government said it would act to curtail the haze that blankets the capital every winter.",
+      "source": "NYT"
+    },
+    {
       "title": "When Starshield Cut Out, Ukrainian Drones Fell From the Skies",
       "link": "https://www.nytimes.com/2026/10/21/world/europe/starshield-starlink-ukraine.html",
-      "pubDate": "2026-10-21T17:11:31.000Z",
+      "pubDate": "2026-10-21T17:11:32.000Z",
       "image": "https://static01.nyt.com/images/2026/10/21/multimedia/21int-ukraine-starshield-01-hglc/21int-ukraine-starshield-01-hglc-mediumSquareAt3X.jpg",
       "author": "Siobhán O’Grady, Carlotta Gall and Anton Troianovski",
       "excerpt": "Ukraine says it still doesn’t know why the military satellite internet service, a sister to Starlink, was abruptly throttled, leaving troops vulnerable to Russian attacks.",
@@ -1004,48 +1067,21 @@
       "source": "NYT"
     },
     {
-      "title": "In Trump’s Diplomacy, Insults Are a One-Way Street. Ukraine Is the Latest Example.",
-      "link": "https://www.nytimes.com/2026/10/21/us/politics/trumps-diplomacy-insults.html",
-      "pubDate": "2026-10-21T16:44:15.000Z",
-      "image": "https://static01.nyt.com/images/2026/10/21/multimedia/21dc-memo-top-vbwz/21dc-memo-top-vbwz-mediumSquareAt3X.jpg",
-      "author": "Peter Baker",
-      "excerpt": "The latest rift with President Volodymyr Zelensky of Ukraine serves as a reminder that President Trump readily lashes out at other world leaders, only to grow outraged if they fight back.",
-      "source": "NYT"
-    },
-    {
-      "title": "In Six Decades of Public Life, I Never Thought I Would Write This Piece",
-      "link": "https://www.nytimes.com/2026/10/21/opinion/trump-midterms-election-threats-ice-economy.html",
-      "pubDate": "2026-10-21T16:21:45.000Z",
+      "title": "A Mother Searches for Her Son, One Graffiti Tag at a Time",
+      "link": "https://www.nytimes.com/2026/10/21/opinion/graffiti-mother-son-relationship-sweden.html",
+      "pubDate": "2026-10-21T16:43:35.000Z",
       "image": null,
-      "author": "Robert E. Rubin",
-      "excerpt": "Trump’s meddling would have dark consequences for our democracy and our prosperity.",
+      "author": "Leona Cauklija",
+      "excerpt": "On cement walls and through dusty windows, a mother reaches out to her child.",
       "source": "NYT"
     },
     {
-      "title": "Everything Feels So Expensive. Here’s What’s Really Going On.",
-      "link": "https://www.nytimes.com/2026/10/21/opinion/affordability-crisis-prices-economics.html",
-      "pubDate": "2026-10-21T12:10:49.000Z",
-      "image": null,
-      "author": "Natasha Sarin",
-      "excerpt": "Whatever you call it, we can all agree this doesn’t feel good.",
-      "source": "NYT"
-    },
-    {
-      "title": "Cardi B Is Using Her Music, Her Business and Her Politics to Express Herself",
-      "link": "https://www.nytimes.com/2026/10/21/t-magazine/cardi-b-music-albums.html",
-      "pubDate": "2026-10-21T11:05:04.000Z",
-      "image": null,
-      "author": "Emily Lordi",
-      "excerpt": "A shape-shifter with talent and personality to spare, the rapper keeps finding new ways to express herself.",
-      "source": "NYT"
-    },
-    {
-      "title": "How to Lower Your Alzheimer’s Risk if You Have the APOE4 Gene Variant",
-      "link": "https://www.nytimes.com/2026/10/21/well/mind/alzheimers-apoe4-reduce-risk.html",
-      "pubDate": "2026-10-21T09:01:49.000Z",
-      "image": "https://static01.nyt.com/images/2026/10/21/well/21WELL-APOE4-image/21WELL-APOE4-image-mediumSquareAt3X.jpg",
-      "author": "Dana G. Smith",
-      "excerpt": "People with the APOE4 gene variant have more to lose from unhealthy habits — and potentially more to gain from healthy ones.",
+      "title": "For an Experiment in Political Affirmative Action, Look to Taiwan",
+      "link": "https://www.nytimes.com/2026/10/21/business/taiwan-gender-quotas.html",
+      "pubDate": "2026-10-21T09:01:25.000Z",
+      "image": "https://static01.nyt.com/images/2026/10/19/multimedia/18biz-newworld-taiwangender-01-pqhf/18biz-newworld-taiwangender-01-pqhf-mediumSquareAt3X.jpg",
+      "author": "Li Yuan",
+      "excerpt": "The island adopted quotas for women running for public office decades before other countries. The upshot? Today, few of them need quotas to get elected.",
       "source": "NYT"
     }
   ]
