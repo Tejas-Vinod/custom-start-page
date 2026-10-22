@@ -1,6 +1,33 @@
 {
   "spaceNews": [
     {
+      "title": "NASA Invites Media to 2026 von Braun Space Exploration Symposium",
+      "link": "https://www.nasa.gov/news-release/nasa-invites-media-to-2026-von-braun-space-exploration-symposium/",
+      "pubDate": "2026-10-22T21:39:58.000Z",
+      "image": null,
+      "author": "Lee Mohon",
+      "excerpt": "Members of the media are invited to join NASA at the 2026 von Braun Space Exploration Symposium from Monday, Oct. 26, to Wednesday, Oct. 28, at the University of Alabama in Huntsville. This year’s symposium is focused on humanity’s return to the Moon, sustainable lunar infrastructure, advanced space propulsion, and the",
+      "source": "NASA"
+    },
+    {
+      "title": "Spiral’s Edge",
+      "link": "https://www.nasa.gov/image-article/spirals-edge/",
+      "pubDate": "2026-10-22T21:35:38.000Z",
+      "image": "https://www.nasa.gov/wp-content/uploads/2026/10/hubble-ngc1827-1-flat-final.jpg?w=2048",
+      "author": "HQ Web Team",
+      "excerpt": "This NASA Hubble Space Telescope image released on Oct. 16, 2026, features the edge-on, intermediate spiral galaxy NGC 1827, located roughly 37 million light-years away in the constellation Columba, the Dove. Hubble captured the image as part of a survey looking at 260 satellite galaxies around 22 Milky Way-like host g",
+      "source": "NASA"
+    },
+    {
+      "title": "Tiny ‘solar flares’ recreated in the lab may explain corona mystery",
+      "link": "https://www.newscientist.com/article/2595244-tiny-solar-flares-recreated-in-the-lab-may-explain-corona-mystery/?utm_campaign=RSS|NSNS&utm_content=space&utm_medium=RSS&utm_source=NSNS",
+      "pubDate": "2026-10-22T19:00:00.000Z",
+      "image": null,
+      "author": "Karmela Padavic-Callaghan",
+      "excerpt": "An experiment has produced nanoflares similar to those seen on the sun, and shown that they can help explain why the outer layers of the solar atmosphere are so hot",
+      "source": "New Scientist"
+    },
+    {
       "title": "Rethinking networks in space with Aalyria’s Brian Barritt",
       "link": "https://spacenews.com/rethinking-networks-in-space-with-aalyrias-brian-barritt/",
       "pubDate": "2026-10-22T18:13:38.000Z",
@@ -109,15 +136,6 @@
       "source": "SpaceNews"
     },
     {
-      "title": "Science on the Space Station with NASA Astronaut Jessica Watkins",
-      "link": "https://www.nasa.gov/image-article/science-on-the-space-station-with-nasa-astronaut-jessica-watkins/",
-      "pubDate": "2026-10-21T15:05:08.000Z",
-      "image": "https://www.nasa.gov/wp-content/uploads/2026/10/iss075e0190239orig.jpg?w=2048",
-      "author": "HQ Web Team",
-      "excerpt": "NASA astronaut and Expedition 75 flight engineer Jessica Watkins works inside the Kibo laboratory module’s Life Science Glovebox on Oct. 9, 2026, safely mixing living cell samples with a bioink and then filling a special cartridge with the cell‑ink mixture. The advanced research operations were part of the InSPA‑Auxili",
-      "source": "NASA"
-    },
-    {
       "title": "Global Satcom Services Revenues to Reach $145 Billion by 2035",
       "link": "https://spacenews.com/global-satcom-services-revenues-to-reach-145-billion-by-2035/",
       "pubDate": "2026-10-21T15:00:22.000Z",
@@ -134,15 +152,6 @@
       "author": "Space Nuclear Power Corporation",
       "excerpt": "LOS ALAMOS, N.M. — October 21, 2026 — Space Nuclear Power Corporation (SpaceNukes) announced today that the Defense Advanced Research Projects Agency (DARPA) has awarded the company an Other Transaction […] The post Space Nuclear Power Corporation Awarded DARPA Agreement for Ground Test of Autonomous Nuclear Reactor Co",
       "source": "SpaceNews"
-    },
-    {
-      "title": "NASA’s CASALS Instrument Bridges Gaps in 3D Maps of Earth’s Surface",
-      "link": "https://science.nasa.gov/science-research/science-enabling-technology/technology-highlights/nasas-casals-instrument-bridges-gaps-in-3d-maps-of-earths-surface/",
-      "pubDate": "2026-10-21T12:17:58.000Z",
-      "image": "https://assets.science.nasa.gov/content/dam/science/esd/eo/images/iotd/2026/extratropical-cyclone-whips-past-iceland/icelandstorm_vir2_20261014_th.jpg/jcr:content/renditions/cq5dam.thumbnail.319.319.png",
-      "author": "",
-      "excerpt": "From orbit, today’s space-based laser instruments measure Earth’s forests and terrain one narrow line at a time. Between those lines are enormous gaps that include millions of acres of land scientists never directly measure. NASA’s CASALS instrument will blend machine learning with an ultra-compact lidar instrument to ",
-      "source": "NASA"
     },
     {
       "title": "Hewlett Packard Enterprise to Send AI Compute Module to the Moon",
@@ -181,7 +190,7 @@
       "source": "Payload"
     },
     {
-      "title": "SpaceX scrubs launch of 27 Starlink satellites on Falcon 9 rocket from Vandenberg SFB",
+      "title": "SpaceX tries again to launch 27 Starlink satellites on Falcon 9 rocket from Vandenberg SFB",
       "link": "https://spaceflightnow.com/2026/10/20/live-coverage-spacex-to-launch-27-starlink-satellites-on-falcon-9-rocket-from-vandenberg-sfb-5/",
       "pubDate": "2026-10-20T21:18:11.000Z",
       "image": "https://spaceflightnow.com/wp-content/uploads/2026/10/20261001-Vandenberg-File-Feature-Image.jpg",
@@ -577,15 +586,6 @@
       "source": "Space Force"
     },
     {
-      "title": "Announcing the finalists for the 2026 SpaceNews Icon Awards",
-      "link": "https://spacenews.com/announcing-the-finalists-for-the-2026-spacenews-icon-awards/",
-      "pubDate": "2026-10-07T14:18:18.000Z",
-      "image": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/10/2025-icon-awards-Purdy.jpg?fit=1024%2C768&amp;ssl=1",
-      "author": "SpaceNews Editor",
-      "excerpt": "Meet the 43 leaders and accomplishments that exemplified excellence across the industry over the last 12 months The post Announcing the finalists for the 2026 SpaceNews Icon Awards appeared first on SpaceNews.",
-      "source": "SpaceNews"
-    },
-    {
       "title": "The telescope that could reveal what dark matter and dark energy are",
       "link": "https://www.newscientist.com/article/2591580-the-telescope-that-could-reveal-what-dark-matter-and-dark-energy-are/?utm_campaign=RSS|NSNS&utm_content=space&utm_medium=RSS&utm_source=NSNS",
       "pubDate": "2026-10-06T17:00:00.000Z",
@@ -701,15 +701,6 @@
       "author": "Pentagon News",
       "excerpt": "Following the signing of Executive Order 14184, Tech. Sgt. Kandice Whitt returned to military service after previously being discharged under the COVID-19 vaccination mandate.",
       "source": "Space Force"
-    },
-    {
-      "title": "SpaceX’s Starship will orbit Earth for first time during next flight",
-      "link": "https://www.newscientist.com/article/2589461-spacexs-starship-will-orbit-earth-for-first-time-during-next-flight/?utm_campaign=RSS|NSNS&utm_content=space&utm_medium=RSS&utm_source=NSNS",
-      "pubDate": "2026-09-18T14:00:00.000Z",
-      "image": null,
-      "author": "Matthew Sparkes",
-      "excerpt": "Starship's next test flight will be its first orbital mission. The craft will also release working Starlink V3 satellites for the first time, making the flight the first commercially useful Starship mission",
-      "source": "New Scientist"
     },
     {
       "title": "CMSSF highlights cyber Guardians’ role in creating joint decision advantage",
@@ -887,12 +878,129 @@
   ],
   "nytNews": [
     {
+      "title": "Trump Goes to Iowa, Hoping to Stop Farmers From Voting Blue",
+      "link": "https://www.nytimes.com/2026/10/22/briefing/trump-iowa-roller-coaster-safety.html",
+      "pubDate": "2026-10-22T21:47:01.000Z",
+      "image": "https://static01.nyt.com/images/2026/10/22/multimedia/22evening-nl-trump-iowa-fgvw/22evening-nl-trump-iowa-fgvw-mediumSquareAt3X.jpg",
+      "author": "Matthew Cullen",
+      "excerpt": "Also, a top Trump health adviser resigns. Here’s the latest at the end of Thursday.",
+      "source": "NYT"
+    },
+    {
+      "title": "What Is PHP? Why Are Government and Business Websites Going Offline?",
+      "link": "https://www.nytimes.com/2026/10/22/technology/what-is-php-vulnerability-risks.html",
+      "pubDate": "2026-10-22T21:31:29.000Z",
+      "image": "https://static01.nyt.com/images/2026/10/22/multimedia/22xp-PHP-fjtz/22xp-PHP-fjtz-mediumSquareAt3X.jpg",
+      "author": "Karla Adam and Dustin Volz",
+      "excerpt": "A critical security flaw in the programming language underpinning much of the web has prompted a global rush to patch vulnerable systems.",
+      "source": "NYT"
+    },
+    {
+      "title": "Above Iran’s Capital, a Trump Impersonator Dances in a Jail Cell",
+      "link": "https://www.nytimes.com/2026/10/22/world/europe/iran-trump-impersonator-billboard.html",
+      "pubDate": "2026-10-22T21:25:08.000Z",
+      "image": "https://static01.nyt.com/images/2026/10/22/world/middleeast/Trump_billb2/Trump_billb2-mediumSquareAt3X.png",
+      "author": "Erika Solomon and Sanam Mahoozi",
+      "excerpt": "The Islamic republic has long used billboards in Tehran to mock its opponents and hammer home its messaging, but this piece of performance propaganda is perhaps the most eccentric yet.",
+      "source": "NYT"
+    },
+    {
+      "title": "The Real Trump Tower",
+      "link": "https://www.nytimes.com/2026/10/22/opinion/trump-slotkin-corruption-impeachment.html",
+      "pubDate": "2026-10-22T21:23:19.000Z",
+      "image": null,
+      "author": "David French",
+      "excerpt": "Trump’s grotesque rerun of the Gilded Age demands a rebuke.",
+      "source": "NYT"
+    },
+    {
+      "title": "Key Trump Health Adviser Resigns Ahead of Midterm Elections",
+      "link": "https://www.nytimes.com/2026/10/22/us/politics/calley-means-resigns-rfk-trump.html",
+      "pubDate": "2026-10-22T20:45:27.000Z",
+      "image": "https://static01.nyt.com/images/2026/10/22/multimedia/22dc-means-mkpj/22dc-means-mkpj-mediumSquareAt3X.jpg",
+      "author": "Christina Jewett",
+      "excerpt": "Calley Means, who helped unite Robert F. Kennedy Jr. and President Trump, pushed food reforms but grew frustrated with stalled progress on the MAHA agenda.",
+      "source": "NYT"
+    },
+    {
+      "title": "Trump Is Still Chasing His Yalta. Here’s What He Doesn’t Get.",
+      "link": "https://www.nytimes.com/2026/10/22/opinion/trump-ukraine-russia-war-yalta.html",
+      "pubDate": "2026-10-22T20:44:39.000Z",
+      "image": "https://static01.nyt.com/images/2026/10/25/multimedia/22kimmage-cmbv/22kimmage-cmbv-mediumSquareAt3X.jpg",
+      "author": "Michael Kimmage",
+      "excerpt": "Mr. Trump has been searching for his Yalta in the war in Ukraine ever since he returned to the Oval Office.",
+      "source": "NYT"
+    },
+    {
+      "title": "New York City Council Set to Ban ",
+      "link": "https://www.nytimes.com/2026/10/22/nyregion/nyc-horse-carriage-ban-workers-jobs.html",
+      "pubDate": "2026-10-22T20:31:33.000Z",
+      "image": "https://static01.nyt.com/images/2026/10/22/multimedia/22met-carriage-horses-mgvq/22met-carriage-horses-mgvq-mediumSquareAt3X.jpg",
+      "author": "Ed Shanahan and Dana Rubinstein",
+      "excerpt": "A passenger’s death in June became the impetus for the City Council to ban the practice, but the bill will likely face a court challenge before being implemented in 2028.",
+      "source": "NYT"
+    },
+    {
+      "title": "Justice Dept. Opens Inquiry Into Corey Lewandowski",
+      "link": "https://www.nytimes.com/2026/10/22/us/politics/corey-lewandowski-justice-dept-inquiry.html",
+      "pubDate": "2026-10-22T20:19:56.000Z",
+      "image": "https://static01.nyt.com/images/2026/03/21/multimedia/21DC-Lewandowski/21dc-corey-hp-ctmj-mediumSquareAt3X.jpg",
+      "author": "Glenn Thrush, Tyler Pager and Nicholas Nehamas",
+      "excerpt": "The details of the inquiry remain unclear, but it is one of the rare instances in which a Trump ally or appointee has been investigated for potential wrongdoing during the president’s second term.",
+      "source": "NYT"
+    },
+    {
       "title": "Chris Pappas Could Make History in New Hampshire’s Senate Race",
       "link": "https://www.nytimes.com/2026/10/22/us/politics/chris-pappas-new-hampshire-senate.html",
-      "pubDate": "2026-10-22T18:25:41.000Z",
+      "pubDate": "2026-10-22T20:00:01.000Z",
       "image": "https://static01.nyt.com/images/2026/10/21/multimedia/21pol-pappas-01-kzhw/21pol-pappas-01-kzhw-mediumSquareAt3X.jpg",
       "author": "Jess Bidgood",
-      "excerpt": "Chris Pappas, the Democratic nominee, would make history if he won. On the campaign trail, he doesn’t dwell on it.",
+      "excerpt": "Chris Pappas, the Democratic nominee in New Hampshire, would make history if he won. On the campaign trail, he doesn’t dwell on it.",
+      "source": "NYT"
+    },
+    {
+      "title": "Tom Skerritt, Who Had Key Roles in ‘Picket Fences’ and ‘Top Gun,’ Dies at 93",
+      "link": "https://www.nytimes.com/2026/10/22/arts/television/tom-skerritt-dead.html",
+      "pubDate": "2026-10-22T19:58:29.000Z",
+      "image": "https://static01.nyt.com/images/2017/06/06/arts/skerritt-obit/skerritt-obit-mediumSquareAt3X-v3.jpg",
+      "author": "Anita Gates",
+      "excerpt": "His rugged good looks, commanding presence and versatility led to key roles in “M*A*S*H” and “Steel Magnolias,” and he won an Emmy on “Picket Fences.”",
+      "source": "NYT"
+    },
+    {
+      "title": "Unsealed O.J. Simpson Records Prompt a Request for a New Investigation",
+      "link": "https://www.nytimes.com/2026/10/22/us/oj-simpson-accomplice-investigation.html",
+      "pubDate": "2026-10-22T19:51:14.000Z",
+      "image": "https://static01.nyt.com/images/2026/10/21/multimedia/00nat-oj-reax-fzjp/00nat-oj-reax-fzjp-mediumSquareAt3X.jpg",
+      "author": "Mike Baker and Tim Arango",
+      "excerpt": "Tanya Brown said she believed someone helped O.J. Simpson get rid of the murder weapon. One of Mr. Simpson’s former lawyers called for a special prosecutor.",
+      "source": "NYT"
+    },
+    {
+      "title": "How a Legal Backlash Against Big Tech Is Forcing Big Changes",
+      "link": "https://www.nytimes.com/2026/10/22/technology/tech-lawsuit-settlements-meta-google.html",
+      "pubDate": "2026-10-22T19:29:29.000Z",
+      "image": "https://static01.nyt.com/images/2026/10/22/multimedia/22BIZ-META-ETA-1-01-qlpv/22BIZ-META-ETA-1-01-qlpv-mediumSquareAt3X.jpg",
+      "author": "Cecilia Kang",
+      "excerpt": "A series of lawsuits has created a new de facto regulatory regime as courts order companies like Meta and Google to change their business practices — and pay up.",
+      "source": "NYT"
+    },
+    {
+      "title": "Mortgage Rates Remain Above 7%, Pushing Home Prices Lower in Some Areas",
+      "link": "https://www.nytimes.com/2026/10/22/business/mortgage-rates-housing-costs.html",
+      "pubDate": "2026-10-22T19:18:58.000Z",
+      "image": "https://static01.nyt.com/images/2026/10/22/multimedia/22Biz-Mortgage-Rates-fjpg/22Biz-Mortgage-Rates-fjpg-mediumSquareAt3X.jpg",
+      "author": "Gregory Schmidt",
+      "excerpt": "The 30-year, fixed-rate mortgage dropped slightly to 7.32 percent as prospective home buyers continue to struggle with affordability. But home prices are starting to drop in some areas.",
+      "source": "NYT"
+    },
+    {
+      "title": "Employers Shift Rising Health Care Costs Onto Millions of Workers",
+      "link": "https://www.nytimes.com/2026/10/22/business/health-insurance-costs-workers-premiums-deductibles.html",
+      "pubDate": "2026-10-22T18:51:58.000Z",
+      "image": null,
+      "author": "Reed Abelson",
+      "excerpt": "New surveys show that increases in premiums and deductibles are forcing people to forgo treatments or doctor’s visits while budgets are strained by higher food and gas prices.",
       "source": "NYT"
     },
     {
@@ -905,66 +1013,12 @@
       "source": "NYT"
     },
     {
-      "title": "Employers Shift Rising Health Care Costs Onto Millions of Workers",
-      "link": "https://www.nytimes.com/2026/10/22/business/health-insurance-costs-workers-premiums-deductibles.html",
-      "pubDate": "2026-10-22T18:02:24.000Z",
-      "image": null,
-      "author": "Reed Abelson",
-      "excerpt": "New surveys show that increases in premiums and deductibles are forcing people to forgo treatments or doctor’s visits while budgets are strained by higher food and gas prices.",
-      "source": "NYT"
-    },
-    {
-      "title": "A.I. and Its Dangers Are Embedded In the Midterm Elections",
-      "link": "https://www.nytimes.com/2026/10/22/business/media/ai-disinfo-chatbots-elections.html",
-      "pubDate": "2026-10-22T17:07:44.000Z",
-      "image": "https://static01.nyt.com/images/2026/10/22/multimedia/22biz-midterm-ai-disinfo-fjtz/22biz-midterm-ai-disinfo-fjtz-mediumSquareAt3X.jpg",
-      "author": "Tiffany Hsu, Steven Lee Myers and Julian E. Barnes",
-      "excerpt": "The midterms are the first elections in which artificial intelligence is integrated into every major social media platform. Efforts to blunt its harms are uneven.",
-      "source": "NYT"
-    },
-    {
       "title": "A Young Family in Niagara, N.Y., and a Backyard Full of Radioactive Waste",
       "link": "https://www.nytimes.com/2026/10/22/nyregion/niagara-new-york-radioactive-waste.html",
       "pubDate": "2026-10-22T16:44:16.000Z",
       "image": "https://static01.nyt.com/images/2026/10/22/multimedia/22met-niagara-radiation-TOP/22met-niagara-radiation-TOP-mediumSquareAt3X.jpg",
       "author": "Christopher Maag and Brendan Bannon",
       "excerpt": "A young family thought they had escaped the toxic legacy of Love Canal with a dream house near a creek in the suburbs. Then the men in the hazmat suits showed up.",
-      "source": "NYT"
-    },
-    {
-      "title": "Elizabeth Holmes Quote Drama",
-      "link": "https://www.nytimes.com/2026/10/22/insider/elizabeth-holmes-backstory.html",
-      "pubDate": "2026-10-22T16:42:13.000Z",
-      "image": null,
-      "author": "Patrick Healy",
-      "excerpt": "In today’s Backstory, the new Holmes film takes issue with our profile, Nikole Hannah-Jones unpacks her viral essay and a professor shares why he thinks we apply “conservative” and “liberal” labels inconsistently.",
-      "source": "NYT"
-    },
-    {
-      "title": "Ebola Outbreak in Africa Reaches Widest Expansion Ever",
-      "link": "https://www.nytimes.com/2026/10/22/health/ebola-nigeria-congo-kenya.html",
-      "pubDate": "2026-10-22T16:41:13.000Z",
-      "image": "https://static01.nyt.com/images/2026/10/22/multimedia/22dc-ebola-mcvt/22dc-ebola-mcvt-mediumSquareAt3X.jpg",
-      "author": "Apoorva Mandavilli",
-      "excerpt": "Health officials are urgently seeking answers about the origins of a case newly identified in Nigeria, the first in that West African nation.",
-      "source": "NYT"
-    },
-    {
-      "title": "Nicole Brown Simpson’s Sister: ‘We Deserve Answers’ on Accomplice Question",
-      "link": "https://www.nytimes.com/2026/10/22/us/oj-simpson-accomplice-investigation.html",
-      "pubDate": "2026-10-22T16:29:18.000Z",
-      "image": "https://static01.nyt.com/images/2026/10/21/multimedia/00nat-oj-reax-fzjp/00nat-oj-reax-fzjp-mediumSquareAt3X.jpg",
-      "author": "Mike Baker and Tim Arango",
-      "excerpt": "Tanya Brown said she believed someone helped O.J. Simpson get rid of the murder weapon. One of Mr. Simpson’s former lawyers called for a special prosecutor.",
-      "source": "NYT"
-    },
-    {
-      "title": "Mortgage Rates Remain Above 7%, Pushing Home Prices Lower in Some Areas",
-      "link": "https://www.nytimes.com/2026/10/22/business/mortgage-rates-housing-costs.html",
-      "pubDate": "2026-10-22T16:26:52.000Z",
-      "image": "https://static01.nyt.com/images/2026/10/22/multimedia/22Biz-Mortgage-Rates-fjpg/22Biz-Mortgage-Rates-fjpg-mediumSquareAt3X.jpg",
-      "author": "Gregory Schmidt",
-      "excerpt": "The 30-year, fixed-rate mortgage dropped slightly to 7.32 percent as prospective home buyers continue to struggle with affordability. But home prices are starting to drop in some areas.",
       "source": "NYT"
     },
     {
@@ -986,66 +1040,21 @@
       "source": "NYT"
     },
     {
-      "title": "What Is PHP? Why Are Government and Business Websites Going Offline?",
-      "link": "https://www.nytimes.com/2026/10/22/technology/what-is-php-vulnerability-risks.html",
-      "pubDate": "2026-10-22T15:55:08.000Z",
-      "image": "https://static01.nyt.com/images/2026/10/22/multimedia/22xp-PHP-fjtz/22xp-PHP-fjtz-mediumSquareAt3X.jpg",
-      "author": "Karla Adam and Dustin Volz",
-      "excerpt": "A critical security flaw in the programming language underpinning much of the web has prompted a global rush to patch vulnerable systems.",
-      "source": "NYT"
-    },
-    {
-      "title": "Putin Nears a Prize: Restoring Ties With the U.S. While Giving Up Nothing",
-      "link": "https://www.nytimes.com/2026/10/22/world/europe/putin-trump-ukraine-war.html",
-      "pubDate": "2026-10-22T15:22:53.000Z",
-      "image": "https://static01.nyt.com/images/2026/10/22/multimedia/22int-russia-putin-ftcl/22int-russia-putin-ftcl-mediumSquareAt3X-v3.jpg",
-      "author": "Valerie Hopkins",
-      "excerpt": "Russia has sought to separate the war in Ukraine from potential business deals and diplomacy with the United States. Its efforts now appear to be working.",
-      "source": "NYT"
-    },
-    {
-      "title": "How a Legal Backlash Against Big Tech Is Forcing Big Changes",
-      "link": "https://www.nytimes.com/2026/10/22/technology/tech-lawsuit-settlements-meta-google.html",
-      "pubDate": "2026-10-22T14:33:42.000Z",
-      "image": "https://static01.nyt.com/images/2026/10/22/multimedia/22BIZ-META-ETA-1-01-qlpv/22BIZ-META-ETA-1-01-qlpv-mediumSquareAt3X.jpg",
-      "author": "Cecilia Kang",
-      "excerpt": "A series of lawsuits has created a new de facto regulatory regime as courts order companies like Meta and Google to change their business practices — and pay up.",
-      "source": "NYT"
-    },
-    {
-      "title": "The Brief, Messy Political Career of Paolo Zampolli, a Trump Ally",
-      "link": "https://www.nytimes.com/2026/10/22/style/paolo-zampolli-trump-friend-brief-political-career.html",
-      "pubDate": "2026-10-22T14:15:35.000Z",
-      "image": "https://static01.nyt.com/images/2026/10/21/multimedia/21ST-PAOLO-ZAMPOLLI-EXIT-02-qctz/21ST-PAOLO-ZAMPOLLI-EXIT-02-qctz-mediumSquareAt3X.jpg",
-      "author": "Shawn McCreesh",
-      "excerpt": "He had an unlikely rise, from modeling agent to presidential special envoy. After his firing, he was unrepentant: “I need to make money.”",
-      "source": "NYT"
-    },
-    {
-      "title": "Impeachment. It’s Not Just for Presidents.",
-      "link": "https://www.nytimes.com/2026/10/22/opinion/trump-slotkin-corruption-impeachment.html",
-      "pubDate": "2026-10-22T14:08:38.000Z",
-      "image": null,
-      "author": "David French",
-      "excerpt": "Trump’s grotesque rerun of the Gilded Age demands a rebuke.",
-      "source": "NYT"
-    },
-    {
-      "title": "A Shifting Standard",
-      "link": "https://www.nytimes.com/2026/10/22/briefing/title-ix.html",
-      "pubDate": "2026-10-22T11:01:59.000Z",
-      "image": "https://static01.nyt.com/images/2026/10/22/multimedia/22themorning-nl-titleIX-lede-fchq/22themorning-nl-titleIX-lede-fchq-mediumSquareAt3X.jpg",
-      "author": "Sam Sifton",
-      "excerpt": "We look at how Title IX keeps changing.",
-      "source": "NYT"
-    },
-    {
       "title": "Iowa, Usually Red, Is in Play This Midterm as Economic Woes Mount",
       "link": "https://www.nytimes.com/2026/10/22/us/politics/iowa-farmers-republicans-trump.html",
       "pubDate": "2026-10-22T09:03:19.000Z",
       "image": "https://static01.nyt.com/images/2026/10/22/multimedia/22dc-iowa-econ-02-tjhl/22dc-iowa-econ-02-tjhl-mediumSquareAt3X.jpg",
       "author": "Alan Rappeport, Bayliss Wagner and Rebecca Gratz",
       "excerpt": "The Trump administration’s policies could cost Republicans in a state that is being hit hard by expensive diesel prices and uncertainty over trade.",
+      "source": "NYT"
+    },
+    {
+      "title": "The History of the Carriage Horses in Central Park",
+      "link": "https://www.nytimes.com/2026/07/17/nyregion/is-new-yorks-love-hate-relationship-with-horse-carriages-over-at-last.html",
+      "pubDate": "2026-07-17T16:20:07.000Z",
+      "image": "https://static01.nyt.com/images/2026/07/16/multimedia/00met-carriage-horses-11-mlvt/00met-carriage-horses-11-mlvt-mediumSquareAt3X-v2.jpg",
+      "author": "John Leland",
+      "excerpt": "After 165 years, the tourist ritual — which now costs $77.22 for the first 20 minutes — may be coming to an end. Here’s a tour through the archives.",
       "source": "NYT"
     }
   ]
