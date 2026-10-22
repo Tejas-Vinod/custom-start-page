@@ -1,6 +1,15 @@
 {
   "spaceNews": [
     {
+      "title": "Faster to Science: A Letter to the Science Community",
+      "link": "https://science.nasa.gov/directorates/smd/faster-to-science-a-letter-to-the-science-community/",
+      "pubDate": "2026-10-22T00:00:16.000Z",
+      "image": null,
+      "author": "",
+      "excerpt": "NASA Science wants to deliver science faster, so we’re changing how we compete and select missions. On Monday, October 26, we will host a virtual NASA Science Town Hall.",
+      "source": "NASA"
+    },
+    {
       "title": "NASA Conducts RS-25 Engine Test in Support of Future Artemis Missions",
       "link": "https://www.nasa.gov/image-article/rs-25-engine-test-in-support-of-future-artemis-missions/",
       "pubDate": "2026-10-21T20:51:50.000Z",
@@ -151,15 +160,6 @@
       "image": "https://www.nasa.gov/wp-content/uploads/2026/09/a200-king-air-da.jpg?w=960",
       "author": "Gianine Figliozzi",
       "excerpt": "Editor’s Note: This article was originally published on Oct. 15, 2026, and has been updated to correct the location of the flights. A NASA Dynamic Aviation A200 aircraft will conduct low-flying research flights over farmland near Amarillo, Texas, from Thursday, Oct. 22, through Monday, Nov. 9. These flights will measur",
-      "source": "NASA"
-    },
-    {
-      "title": "NASA’s SR-1 Freedom Advances with Progress on Nuclear Power Module",
-      "link": "https://www.nasa.gov/centers-and-facilities/glenn/sr-1-freedom-advances-with-progress-on-nuclear-power-module/",
-      "pubDate": "2026-10-20T18:11:33.000Z",
-      "image": "https://www.nasa.gov/wp-content/uploads/2026/10/sr-1-freedom-lmo-2.jpg?w=1920",
-      "author": "Gary Daines",
-      "excerpt": "Destined for Mars and beyond, NASA’s Space Reactor-1 (SR-1) Freedom will be humanity’s first fission-powered spacecraft to travel outside Earth’s orbit. Announced during NASA’s “Ignition” event, this mission will demonstrate nuclear electric propulsion in deep space, and progress is underway on its key element: the nuc",
       "source": "NASA"
     },
     {
@@ -878,6 +878,42 @@
   ],
   "nytNews": [
     {
+      "title": "How Mark Zuckerberg Pushed Meta to Shield Him From California’s Proposed Wealth Tax",
+      "link": "https://www.nytimes.com/2026/10/21/technology/mark-zuckerberg-meta-california-wealth-tax.html",
+      "pubDate": "2026-10-22T01:21:13.000Z",
+      "image": "https://static01.nyt.com/images/2026/10/21/multimedia/biz-zuckerberg-california-tpwf/biz-zuckerberg-california-tpwf-mediumSquareAt3X.jpg",
+      "author": "Eli Tan and Theodore Schleifer",
+      "excerpt": "The billionaire told Meta’s board that he planned to list his Silicon Valley home for sale. The company remade its stock structure to help him pay the tax if voters pass it.",
+      "source": "NYT"
+    },
+    {
+      "title": "U.S. and Israel Draw Up Plans for Renewed Strikes on Iran After Elections",
+      "link": "https://www.nytimes.com/2026/10/21/us/politics/us-israel-renewed-iran-strikes.html",
+      "pubDate": "2026-10-22T00:58:22.000Z",
+      "image": "https://static01.nyt.com/images/2026/10/21/multimedia/21dc-iran-strikes-01-cqpg/21dc-iran-strikes-01-cqpg-mediumSquareAt3X.jpg",
+      "author": "Julian E. Barnes, Eric Schmitt, Farnaz Fassihi, Natan Odenheimer and Ronen Bergman",
+      "excerpt": "Renewed hostilities might not be any more successful than the war’s first phase, and President Trump has repeatedly canceled plans for a return to major combat.",
+      "source": "NYT"
+    },
+    {
+      "title": "Trump Asks Supreme Court to Allow Border Wall Construction in Big Bend",
+      "link": "https://www.nytimes.com/2026/10/21/us/politics/trump-supreme-court-border-wall.html",
+      "pubDate": "2026-10-22T00:32:22.000Z",
+      "image": "https://static01.nyt.com/images/2026/10/21/multimedia/21dc-scotus-borderwall-kwvl/21dc-scotus-borderwall-kwvl-mediumSquareAt3X.jpg",
+      "author": "Abbie VanSickle",
+      "excerpt": "A lower court judge had halted the administration’s plan to erect hundreds of miles of barriers in the Big Bend region of Texas.",
+      "source": "NYT"
+    },
+    {
+      "title": "Why a Pillar of Christian Journalism is in Turmoil",
+      "link": "https://www.nytimes.com/2026/10/21/us/christianity-today-magazine-layoffs.html",
+      "pubDate": "2026-10-21T23:45:26.000Z",
+      "image": "https://static01.nyt.com/images/2026/10/21/multimedia/21nat-christianity-today--01-gqtb/21nat-christianity-today--01-gqtb-mediumSquareAt3X.jpg",
+      "author": "Ruth Graham",
+      "excerpt": "Former employees of Christianity Today say new leadership has been pushing back on independent journalism. About half of its staff members have left or been laid off over 14 months.",
+      "source": "NYT"
+    },
+    {
       "title": "Meta Ordered to Pay $25 Billion Over Cambridge Analytica Privacy Violations",
       "link": "https://www.nytimes.com/2026/10/21/technology/meta-penalty-new-mexico.html",
       "pubDate": "2026-10-21T22:57:53.000Z",
@@ -896,12 +932,12 @@
       "source": "NYT"
     },
     {
-      "title": "U.S. and Israel Draw Up Plans for Renewed Strikes on Iran After Elections",
-      "link": "https://www.nytimes.com/2026/10/21/us/politics/us-israel-renewed-iran-strikes.html",
-      "pubDate": "2026-10-21T22:41:32.000Z",
-      "image": "https://static01.nyt.com/images/2026/10/21/multimedia/21dc-iran-strikes-01-cqpg/21dc-iran-strikes-01-cqpg-mediumSquareAt3X.jpg",
-      "author": "Julian E. Barnes, Eric Schmitt, Farnaz Fassihi, Natan Odenheimer and Ronen Bergman",
-      "excerpt": "Renewed hostilities might not be any more successful than the war’s first phase, and President Trump has repeatedly canceled plans for a return to major combat.",
+      "title": "Vance Defends Ramaswamy Ad Featuring Acton’s Mother Despite Backlash",
+      "link": "https://www.nytimes.com/2026/10/21/us/politics/ramaswamy-acton-ad-ohio.html",
+      "pubDate": "2026-10-21T22:20:05.000Z",
+      "image": "https://static01.nyt.com/images/2026/10/21/multimedia/21nat-ramaswamy-ad-topart-vqzg/21nat-ramaswamy-ad-topart-vqzg-mediumSquareAt3X.jpg",
+      "author": "Campbell Robertson and Bayliss Wagner",
+      "excerpt": "The vice president backed an advertisement featuring Democrat Amy Acton’s mother, who has been estranged from Dr. Acton since her stepfather was charged with child rape.",
       "source": "NYT"
     },
     {
@@ -923,30 +959,12 @@
       "source": "NYT"
     },
     {
-      "title": "Trump Asks Supreme Court to Allow Border Wall Construction in Big Bend",
-      "link": "https://www.nytimes.com/2026/10/21/us/politics/trump-supreme-court-border-wall.html",
-      "pubDate": "2026-10-21T21:21:06.000Z",
-      "image": "https://static01.nyt.com/images/2026/10/21/multimedia/21dc-scotus-borderwall-kwvl/21dc-scotus-borderwall-kwvl-mediumSquareAt3X.jpg",
-      "author": "Abbie VanSickle",
-      "excerpt": "A lower court judge had halted the administration’s plan to erect hundreds of miles of barriers in the Big Bend region of Texas.",
-      "source": "NYT"
-    },
-    {
-      "title": "France Riots Expose the Rage Aimed at Dior, Hermès and Other Luxury Brands",
-      "link": "https://www.nytimes.com/2026/10/21/style/france-riots-luxury-dior-hermes.html",
-      "pubDate": "2026-10-21T20:03:25.000Z",
-      "image": "https://static01.nyt.com/images/2026/10/21/multimedia/21ST-LUXURY-LOOTING-PARIS-1-pkgf/21ST-LUXURY-LOOTING-PARIS-1-pkgf-mediumSquareAt3X.jpg",
-      "author": "Vanessa Friedman",
-      "excerpt": "The looting of stores belonging to brands like Dior, Celine and Hermès has exposed a crack in the glossy facade.",
-      "source": "NYT"
-    },
-    {
-      "title": "Macron Says Trump Does Not Like France and Distorts Its Troubles",
-      "link": "https://www.nytimes.com/2026/10/21/world/europe/macron-trump-france-protests.html",
-      "pubDate": "2026-10-21T19:16:14.000Z",
-      "image": "https://static01.nyt.com/images/2026/10/21/multimedia/21int-france-trump-bcfq/21int-france-trump-bcfq-mediumSquareAt3X-v2.jpg",
-      "author": "Ségolène Le Stradic",
-      "excerpt": "Speaking in Qatar, President Emmanuel Macron railed against foreign leaders who he said had made false claims about unrest in France for their own political ends.",
+      "title": "Oregon Teacher Disputes Account of Her Heroism During School Shooting",
+      "link": "https://www.nytimes.com/2026/10/21/us/bend-oregon-school-shooting-teacher-hero.html",
+      "pubDate": "2026-10-21T21:57:22.000Z",
+      "image": "https://static01.nyt.com/images/2026/10/18/multimedia/-21nat-bend2/-21nat-bend2-mediumSquareAt3X.jpg",
+      "author": "Anna Griffin",
+      "excerpt": "Becky Drury, who was said to have shielded a student during a deadly shooting in Bend, refuted the account. “The truth is I was shot before I had any chance to act.”",
       "source": "NYT"
     },
     {
@@ -956,15 +974,6 @@
       "image": "https://static01.nyt.com/images/2026/10/21/multimedia/21dc-title-nine-01-wcmg/21dc-title-nine-01-wcmg-mediumSquareAt3X.jpg",
       "author": "Michael C. Bender",
       "excerpt": "From Barack Obama to Donald Trump, ideology has infused the interpretation of the federal law banning sex discrimination on college campuses.",
-      "source": "NYT"
-    },
-    {
-      "title": "Russia Releases American Stephen Hubbard From Prison, State Media Reports",
-      "link": "https://www.nytimes.com/2026/10/21/us/politics/russia-american-prisoner-release-stephen-hubbard-trump.html",
-      "pubDate": "2026-10-21T18:58:22.000Z",
-      "image": "https://static01.nyt.com/images/2026/10/21/multimedia/00dc-hubbard-mhbc/00dc-hubbard-mhbc-mediumSquareAt3X-v3.jpg",
-      "author": "David E. Sanger, Kim Barker and Ivan Nechepurenko",
-      "excerpt": "The move buys good will with President Trump while costing the President Vladimir V. Putin — who is wanted for war crimes — little.",
       "source": "NYT"
     },
     {
@@ -983,15 +992,6 @@
       "image": "https://static01.nyt.com/images/2026/10/08/multimedia/00dc-scotus-transprisoners-tmgl/00dc-scotus-transprisoners-tmgl-mediumSquareAt3X.jpg",
       "author": "Ann E. Marimow",
       "excerpt": "The justices, for now, agreed to continue preventing the Bureau of Prisons from implementing a policy that would prohibit gender-transition medical treatments.",
-      "source": "NYT"
-    },
-    {
-      "title": "What We Saw at Fast-Track Trials of Riot Suspects in France",
-      "link": "https://www.nytimes.com/2026/10/21/france-riots-court-trials.html",
-      "pubDate": "2026-10-21T16:47:25.000Z",
-      "image": "https://static01.nyt.com/images/2026/10/21/multimedia/21int-france-rioters-lgwk/21int-france-rioters-lgwk-mediumSquareAt3X.jpg",
-      "author": "Catherine Porter and Giulia Imbert",
-      "excerpt": "At the Tribunal de Paris, judges have supervised a carousel of expedited and often chaotic hearings for those detained during recent unrest.",
       "source": "NYT"
     },
     {
@@ -1019,15 +1019,6 @@
       "image": null,
       "author": "Robert E. Rubin",
       "excerpt": "Trump’s meddling would have dark consequences for our democracy and our prosperity.",
-      "source": "NYT"
-    },
-    {
-      "title": "Inside the World of ‘Dark Nutrition’",
-      "link": "https://www.nytimes.com/2026/10/21/magazine/dark-nutrition-raw-meat-diet.html",
-      "pubDate": "2026-10-21T14:26:52.000Z",
-      "image": "https://static01.nyt.com/images/2026/11/01/magazine/01mag-nutrition/01mag-nutrition-mediumSquareAt3X.jpg",
-      "author": "Sophie Haigney",
-      "excerpt": "More Americans are rejecting everything they’ve been taught about food.",
       "source": "NYT"
     },
     {
