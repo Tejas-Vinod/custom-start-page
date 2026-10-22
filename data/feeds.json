@@ -1,6 +1,24 @@
 {
   "spaceNews": [
     {
+      "title": "Rethinking networks in space with Aalyria’s Brian Barritt",
+      "link": "https://spacenews.com/rethinking-networks-in-space-with-aalyrias-brian-barritt/",
+      "pubDate": "2026-10-22T18:13:38.000Z",
+      "image": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/10/space-minds-podcast-Aalyria-2000-1500.jpg?fit=1024%2C768&amp;ssl=1",
+      "author": "SpaceNews Editor",
+      "excerpt": "In this episode, SpaceNews’ Mike Gruss talks with the CEO of Aalyria Brian Barritt about how networks are evolving, what scaling the company means and the role of software interoperability […] The post Rethinking networks in space with Aalyria’s Brian Barritt appeared first on SpaceNews.",
+      "source": "SpaceNews"
+    },
+    {
+      "title": "NASA’s Hubble Charts Path for Roman with Gravitational Lenses ",
+      "link": "https://science.nasa.gov/missions/hubble/nasas-hubble-charts-path-for-roman-with-gravitational-lenses/",
+      "pubDate": "2026-10-22T16:20:37.000Z",
+      "image": "https://assets.science.nasa.gov/dynamicimage/assets/science/missions/hubble/gravitational-lens/Hubble_DESI194.5345+03.5358_74_flat_FINALok.tif?w=2048",
+      "author": "",
+      "excerpt": "This observation is one of many gravitational lensing images taken by Hubble in preparation for science with the new Nancy Grace Roman Space Telescope.",
+      "source": "NASA"
+    },
+    {
       "title": "Xona Raises $250M Series D to Scale Commercial GPS Constellation",
       "link": "https://payloadspace.com/xona-raises-250m-series-d-to-scale-commercial-gps-constellation/",
       "pubDate": "2026-10-22T13:00:00.000Z",
@@ -154,15 +172,6 @@
       "source": "SpaceNews"
     },
     {
-      "title": "APOD: 2026 October 21 – New Ghosts Revealed in Cassiopeia",
-      "link": "https://science.nasa.gov/image-article/apod-2026-october-21-new-ghosts-revealed-in-cassiopeia/",
-      "pubDate": "2026-10-21T04:05:00.000Z",
-      "image": "https://assets.science.nasa.gov/dynamicimage/assets/science/cds/apod/apod/2026/october/IC63.png?w=2622&#038;h=1751&#038;fit=clip&#038;crop=faces%2Cfocalpoint",
-      "author": "",
-      "excerpt": "APODScienceAPODAPOD: 2026 October 21 – New…Today’s APODArchiveSubmissionsIndexSearchCalendarRSSEducationAboutDiscuss APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronome",
-      "source": "NASA"
-    },
-    {
       "title": "SpaceX’s AI Revenue Leads Q3 Earnings",
       "link": "https://payloadspace.com/spacexs-ai-revenue-leads-q3-earnings/",
       "pubDate": "2026-10-21T02:50:15.000Z",
@@ -177,7 +186,7 @@
       "pubDate": "2026-10-20T21:18:11.000Z",
       "image": "https://spaceflightnow.com/wp-content/uploads/2026/10/20261001-Vandenberg-File-Feature-Image.jpg",
       "author": "Will Robinson-Smith",
-      "excerpt": "Liftoff from pad 4E at Vandenberg Space Force Base is scheduled for during a window that opens at 2:45 p.m. PDT (5:45 p.m. EDT / 2145 UTC) on Thursday, Oct. 22.",
+      "excerpt": "Liftoff of the Starlink 15-15 mission from pad 4E at Vandenberg Space Force Base is scheduled at 3:51 p.m. PDT (6:51 p.m. EDT / 2251 UTC) on Thursday, Oct. 22.",
       "source": "Spaceflight Now"
     },
     {
@@ -424,15 +433,6 @@
       "source": "Spaceflight Now"
     },
     {
-      "title": "Our 16th annual star products",
-      "link": "https://www.astronomy.com/observing/our-16th-annual-star-products/",
-      "pubDate": "2026-10-13T13:29:16.000Z",
-      "image": null,
-      "author": "Phil Harrington",
-      "excerpt": "Each year, new astronomy equipment reflects advances in technology and the evolving ways observers engage with the night sky. Traditional designs such as Dobsonian reflectors and apochromatic refractors continue to deliver dependable performance, while smart telescopes and integrated imaging systems are expanding acces",
-      "source": "Astronomy Magazine"
-    },
-    {
       "title": "Launch preview: NASA, SpaceX to launch new solar arrays, 6,300 pounds of cargo to the space station",
       "link": "https://spaceflightnow.com/2026/10/13/live-coverage-nasa-spacex-to-launch-new-solar-arrays-6300-pounds-of-cargo-to-the-space-station/",
       "pubDate": "2026-10-13T01:19:30.000Z",
@@ -478,6 +478,15 @@
       "source": "SpaceNews"
     },
     {
+      "title": "How Artemis 2’s tech will improve life on Earth",
+      "link": "https://www.astronomy.com/space-exploration/how-artemis-2s-tech-will-improve-life-on-earth/",
+      "pubDate": "2026-10-10T13:00:00.000Z",
+      "image": null,
+      "author": "Sara Novak",
+      "excerpt": "In the pursuit of space exploration, NASA has developed a number of innovations that today we depend on in our daily lives. Memory foam — the cushy, shock-absorbing material used in everything from furniture to medical equipment — was first invented in 1966 by NASA for use in test pilots’ cushions. In the 1990s, NASA’s",
+      "source": "Astronomy Magazine"
+    },
+    {
       "title": "SpaceX launches 21 data satellites for the Space Development Agency",
       "link": "https://spaceflightnow.com/2026/10/09/spacex-to-make-another-attempt-to-launch-21-data-satellites-for-space-development-agency/",
       "pubDate": "2026-10-09T21:41:30.000Z",
@@ -485,6 +494,15 @@
       "author": "Spaceflight Now",
       "excerpt": "Liftoff of the Falcon 9 rocket from Vandenberg Space Force Base in California carrying satellites for the Space Development Agency’s Proliferated Warfighter Space Architecture constellation came at 12:39 a.m. PDT (3:39 EDT / 0739 UTC).",
       "source": "Spaceflight Now"
+    },
+    {
+      "title": "Newly selected NASA mission will hunt for caves on the Moon",
+      "link": "https://www.astronomy.com/science/newly-selected-nasa-mission-will-hunt-for-caves-on-the-moon/",
+      "pubDate": "2026-10-09T17:49:35.000Z",
+      "image": null,
+      "author": "Brooks Mendenhall",
+      "excerpt": "NASA has selected a mission proposal that will peer below a volcanic pit on the Moon to find out whether it opens onto a hidden lava tube — a geologic formation long theorized, but never confirmed on the Moon. The proposal will send a mission to the Marius Hills Pit, a large hole — approximatelyContinue reading \"Newly ",
+      "source": "Astronomy Magazine"
     },
     {
       "title": "Two large asteroids found spinning as fast as a fairground ride",
@@ -548,15 +566,6 @@
       "author": "New Scientist",
       "excerpt": "Large language models have unleashed a torrent of text – dealing with it won't be easy",
       "source": "New Scientist"
-    },
-    {
-      "title": "Winter observing targets for small telescopes",
-      "link": "https://www.astronomy.com/observing/winter-observing-targets-for-small-telescopes/",
-      "pubDate": "2026-10-07T15:43:48.000Z",
-      "image": null,
-      "author": "Michael E. Bakich",
-      "excerpt": "The Crab Nebula Our first object is the Crab Nebula in Taurus. It’s one of the sky’s most famous objects, and a nice small telescope target. Although the word “nebula” is part of this object’s name, astronomers classify M1 as a supernova remnant. In 1054, a brilliant new star 4 times brighter than Venus appearedContinu",
-      "source": "Astronomy Magazine"
     },
     {
       "title": "DAF leaders, their spouses highlight families’ role in mission success ",
@@ -878,111 +887,147 @@
   ],
   "nytNews": [
     {
-      "title": "Stocks Fall and Oil Rises as Investors Retreat from Mounting Risks",
-      "link": "https://www.nytimes.com/2026/10/22/business/stocks-oil-prices.html",
-      "pubDate": "2026-10-22T13:43:13.000Z",
-      "image": "https://static01.nyt.com/images/2026/10/22/multimedia/22osg-promo-lqhb/22osg-promo-lqhb-mediumSquareAt3X.jpg",
-      "author": "The New York Times",
-      "excerpt": "Earnings reports from big technology companies spooked investors and the price of oil jumped to its highest level in months.",
+      "title": "Chris Pappas Could Make History in New Hampshire’s Senate Race",
+      "link": "https://www.nytimes.com/2026/10/22/us/politics/chris-pappas-new-hampshire-senate.html",
+      "pubDate": "2026-10-22T18:25:41.000Z",
+      "image": "https://static01.nyt.com/images/2026/10/21/multimedia/21pol-pappas-01-kzhw/21pol-pappas-01-kzhw-mediumSquareAt3X.jpg",
+      "author": "Jess Bidgood",
+      "excerpt": "Chris Pappas, the Democratic nominee, would make history if he won. On the campaign trail, he doesn’t dwell on it.",
       "source": "NYT"
     },
     {
-      "title": "James Talarico’s Texas House Record: Partisan Fights, Bipartisan Laws",
-      "link": "https://www.nytimes.com/2026/10/22/us/james-talarico-texas-republicans-legislative-record.html",
-      "pubDate": "2026-10-22T13:39:35.000Z",
-      "image": "https://static01.nyt.com/images/2026/10/06/multimedia/06nat-talarico-record-top-hqgw/06nat-talarico-record-top-hqgw-mediumSquareAt3X.jpg",
-      "author": "Lauren McGaughy",
-      "excerpt": "Throughout his four terms in the Texas House, James Talarico has tried to balance his two political identities.",
+      "title": "Why Many Voters Are Unhappy With the Economy",
+      "link": "https://www.nytimes.com/video/business/100000011216716/why-many-voters-are-unhappy-with-the-economy.html",
+      "pubDate": "2026-10-22T18:13:37.000Z",
+      "image": null,
+      "author": "Ben Casselman, Nour Idriss, Stephanie Swart and Edward Vega",
+      "excerpt": "With the midterms approaching, the economy is a top concern for voters. Our chief economic correspondent, Ben Casselman, describes which aspects of the economy have voters so frustrated.",
       "source": "NYT"
     },
     {
-      "title": "Houthi Strike on Saudi Airport Kills 2 as U.S. Tells Some Diplomats to Leave",
-      "link": "https://www.nytimes.com/2026/10/22/world/middleeast/saudi-houthis-yemen-dammam-airport.html",
-      "pubDate": "2026-10-22T13:34:27.000Z",
-      "image": "https://static01.nyt.com/images/2026/10/22/world/22int-Saudi-Diplos-aifb/22int-Saudi-Diplos-aifb-mediumSquareAt3X.jpg",
-      "author": "Ismaeel Naar",
-      "excerpt": "The airport is in Dammam, which is near the headquarters of oil giant Saudi Aramco. For weeks, Yemen’s Iran-backed Houthi militia has been attacking the kingdom’s aviation and energy sectors.",
+      "title": "Employers Shift Rising Health Care Costs Onto Millions of Workers",
+      "link": "https://www.nytimes.com/2026/10/22/business/health-insurance-costs-workers-premiums-deductibles.html",
+      "pubDate": "2026-10-22T18:02:24.000Z",
+      "image": null,
+      "author": "Reed Abelson",
+      "excerpt": "New surveys show that increases in premiums and deductibles are forcing people to forgo treatments or doctor’s visits while budgets are strained by higher food and gas prices.",
       "source": "NYT"
     },
     {
-      "title": "In Wake of Riots, French Authorities Ban Some Protests",
-      "link": "https://www.nytimes.com/2026/10/22/france-protests-macron.html",
-      "pubDate": "2026-10-22T12:54:19.000Z",
-      "image": "https://static01.nyt.com/images/2026/10/22/multimedia/22int-france-protests-qzmc/22int-france-protests-qzmc-mediumSquareAt3X.jpg",
-      "author": "Catherine Porter",
-      "excerpt": "President Emmanuel Macron said the move was necessary “so that calm prevails.”",
+      "title": "A.I. and Its Dangers Are Embedded In the Midterm Elections",
+      "link": "https://www.nytimes.com/2026/10/22/business/media/ai-disinfo-chatbots-elections.html",
+      "pubDate": "2026-10-22T17:07:44.000Z",
+      "image": "https://static01.nyt.com/images/2026/10/22/multimedia/22biz-midterm-ai-disinfo-fjtz/22biz-midterm-ai-disinfo-fjtz-mediumSquareAt3X.jpg",
+      "author": "Tiffany Hsu, Steven Lee Myers and Julian E. Barnes",
+      "excerpt": "The midterms are the first elections in which artificial intelligence is integrated into every major social media platform. Efforts to blunt its harms are uneven.",
       "source": "NYT"
     },
     {
-      "title": "Judge Restricts D.H.S. Field Operations Aimed at Unearthing Voter Fraud",
-      "link": "https://www.nytimes.com/2026/10/21/us/politics/judge-dhs-voter-fraud-elections.html",
-      "pubDate": "2026-10-22T12:06:25.000Z",
-      "image": "https://static01.nyt.com/images/2025/11/04/multimedia/21dc-voting/04election-day-us-carousel-CAL-bwfl-mediumSquareAt3X.jpg",
-      "author": "Zach Montague and Shawn Hubler",
-      "excerpt": "The ruling largely blocked homeland security agents from carrying out field interviews in nine states, including California, as part of a sprawling effort to find noncitizens registered to vote.",
+      "title": "A Young Family in Niagara, N.Y., and a Backyard Full of Radioactive Waste",
+      "link": "https://www.nytimes.com/2026/10/22/nyregion/niagara-new-york-radioactive-waste.html",
+      "pubDate": "2026-10-22T16:44:16.000Z",
+      "image": "https://static01.nyt.com/images/2026/10/22/multimedia/22met-niagara-radiation-TOP/22met-niagara-radiation-TOP-mediumSquareAt3X.jpg",
+      "author": "Christopher Maag and Brendan Bannon",
+      "excerpt": "A young family thought they had escaped the toxic legacy of Love Canal with a dream house near a creek in the suburbs. Then the men in the hazmat suits showed up.",
       "source": "NYT"
     },
     {
-      "title": "Global Rush to Fix PHP Security Flaw Leaves Some Websites Offline",
+      "title": "Elizabeth Holmes Quote Drama",
+      "link": "https://www.nytimes.com/2026/10/22/insider/elizabeth-holmes-backstory.html",
+      "pubDate": "2026-10-22T16:42:13.000Z",
+      "image": null,
+      "author": "Patrick Healy",
+      "excerpt": "In today’s Backstory, the new Holmes film takes issue with our profile, Nikole Hannah-Jones unpacks her viral essay and a professor shares why he thinks we apply “conservative” and “liberal” labels inconsistently.",
+      "source": "NYT"
+    },
+    {
+      "title": "Ebola Outbreak in Africa Reaches Widest Expansion Ever",
+      "link": "https://www.nytimes.com/2026/10/22/health/ebola-nigeria-congo-kenya.html",
+      "pubDate": "2026-10-22T16:41:13.000Z",
+      "image": "https://static01.nyt.com/images/2026/10/22/multimedia/22dc-ebola-mcvt/22dc-ebola-mcvt-mediumSquareAt3X.jpg",
+      "author": "Apoorva Mandavilli",
+      "excerpt": "Health officials are urgently seeking answers about the origins of a case newly identified in Nigeria, the first in that West African nation.",
+      "source": "NYT"
+    },
+    {
+      "title": "Nicole Brown Simpson’s Sister: ‘We Deserve Answers’ on Accomplice Question",
+      "link": "https://www.nytimes.com/2026/10/22/us/oj-simpson-accomplice-investigation.html",
+      "pubDate": "2026-10-22T16:29:18.000Z",
+      "image": "https://static01.nyt.com/images/2026/10/21/multimedia/00nat-oj-reax-fzjp/00nat-oj-reax-fzjp-mediumSquareAt3X.jpg",
+      "author": "Mike Baker and Tim Arango",
+      "excerpt": "Tanya Brown said she believed someone helped O.J. Simpson get rid of the murder weapon. One of Mr. Simpson’s former lawyers called for a special prosecutor.",
+      "source": "NYT"
+    },
+    {
+      "title": "Mortgage Rates Remain Above 7%, Pushing Home Prices Lower in Some Areas",
+      "link": "https://www.nytimes.com/2026/10/22/business/mortgage-rates-housing-costs.html",
+      "pubDate": "2026-10-22T16:26:52.000Z",
+      "image": "https://static01.nyt.com/images/2026/10/22/multimedia/22Biz-Mortgage-Rates-fjpg/22Biz-Mortgage-Rates-fjpg-mediumSquareAt3X.jpg",
+      "author": "Gregory Schmidt",
+      "excerpt": "The 30-year, fixed-rate mortgage dropped slightly to 7.32 percent as prospective home buyers continue to struggle with affordability. But home prices are starting to drop in some areas.",
+      "source": "NYT"
+    },
+    {
+      "title": "He Told Us About an O.J. Accomplice. Then He Said He’d Lied. What Next?",
+      "link": "https://www.nytimes.com/2026/10/22/insider/oj-simpson-accomplice-1994-murder.html",
+      "pubDate": "2026-10-22T16:07:17.000Z",
+      "image": "https://static01.nyt.com/images/2026/10/21/multimedia/21-Insider-oj-mzfw/21-Insider-oj-mzfw-mediumSquareAt3X.jpg",
+      "author": "Mike Baker",
+      "excerpt": "A source said his brother had been with O.J. Simpson the night of the murders in 1994. But when we refused to pay, he retracted his story.",
+      "source": "NYT"
+    },
+    {
+      "title": "PHP Security Flaw Sets Off Global Rush to Patch, Leaving Websites Offline",
       "link": "https://www.nytimes.com/2026/10/22/world/php-vulnerability-websites-cybersecurity-ai.html",
-      "pubDate": "2026-10-22T11:48:14.000Z",
+      "pubDate": "2026-10-22T16:01:35.000Z",
       "image": "https://static01.nyt.com/images/2026/10/22/multimedia/22int-website-flaws-qvzg/22int-website-flaws-qvzg-mediumSquareAt3X.jpg",
-      "author": "Lynsey Chutel",
-      "excerpt": "Governments and businesses in Kenya, the Netherlands and elsewhere were scrambling to prevent hackers from exploiting a vulnerability in PHP, a widely used programming language.",
+      "author": "Lynsey Chutel, Amelia Nierenberg and Brian O. Otieno",
+      "excerpt": "Governments and businesses around the world scrambled to prevent hackers from exploiting a vulnerability in PHP, a popular programming language.",
       "source": "NYT"
     },
     {
-      "title": "Google Eyes Large ‘Virtual Power Plant’ for Data Centers",
-      "link": "https://www.nytimes.com/2026/10/22/climate/google-voltus-virtual-power-plant.html",
-      "pubDate": "2026-10-22T11:30:06.000Z",
-      "image": "https://static01.nyt.com/images/2026/10/21/climate/00cli-google-power/00cli-google-power-mediumSquareAt3X.jpg",
-      "author": "Brad Plumer",
-      "excerpt": "The tech giant is funding one of the nation’s largest “virtual power plants,” which would pay homes and businesses to adjust their energy use when grids are strained.",
+      "title": "What Is PHP? Why Are Government and Business Websites Going Offline?",
+      "link": "https://www.nytimes.com/2026/10/22/technology/what-is-php-vulnerability-risks.html",
+      "pubDate": "2026-10-22T15:55:08.000Z",
+      "image": "https://static01.nyt.com/images/2026/10/22/multimedia/22xp-PHP-fjtz/22xp-PHP-fjtz-mediumSquareAt3X.jpg",
+      "author": "Karla Adam and Dustin Volz",
+      "excerpt": "A critical security flaw in the programming language underpinning much of the web has prompted a global rush to patch vulnerable systems.",
       "source": "NYT"
     },
     {
       "title": "Putin Nears a Prize: Restoring Ties With the U.S. While Giving Up Nothing",
       "link": "https://www.nytimes.com/2026/10/22/world/europe/putin-trump-ukraine-war.html",
-      "pubDate": "2026-10-22T11:11:44.000Z",
+      "pubDate": "2026-10-22T15:22:53.000Z",
       "image": "https://static01.nyt.com/images/2026/10/22/multimedia/22int-russia-putin-ftcl/22int-russia-putin-ftcl-mediumSquareAt3X-v3.jpg",
       "author": "Valerie Hopkins",
       "excerpt": "Russia has sought to separate the war in Ukraine from potential business deals and diplomacy with the United States. Its efforts now appear to be working.",
       "source": "NYT"
     },
     {
-      "title": "Higher, Faster, Gnarlier: Have Roller Coasters Become Too Extreme?",
-      "link": "https://www.nytimes.com/2026/10/22/us/roller-coaster-safety.html",
-      "pubDate": "2026-10-22T11:07:16.000Z",
-      "image": "https://static01.nyt.com/images/2026/10/21/multimedia/21nat-coaster-reckoning-top-lfwp/21nat-coaster-reckoning-top-lfwp-mediumSquareAt3X.jpg",
-      "author": "John Branch",
-      "excerpt": "A coaster dares riders to be daring, with steep drops, high speeds and improbably tight curves. But safety has become a concern again after a man was thrown from his seat and died in Georgia.",
+      "title": "How a Legal Backlash Against Big Tech Is Forcing Big Changes",
+      "link": "https://www.nytimes.com/2026/10/22/technology/tech-lawsuit-settlements-meta-google.html",
+      "pubDate": "2026-10-22T14:33:42.000Z",
+      "image": "https://static01.nyt.com/images/2026/10/22/multimedia/22BIZ-META-ETA-1-01-qlpv/22BIZ-META-ETA-1-01-qlpv-mediumSquareAt3X.jpg",
+      "author": "Cecilia Kang",
+      "excerpt": "A series of lawsuits has created a new de facto regulatory regime as courts order companies like Meta and Google to change their business practices — and pay up.",
       "source": "NYT"
     },
     {
-      "title": "METRO with Sarah Koenig: Episode 2",
-      "link": "https://www.nytimes.com/2026/10/22/podcasts/karat-and-schtick.html",
-      "pubDate": "2026-10-22T11:05:00.000Z",
-      "image": "https://static01.nyt.com/images/2026/10/14/multimedia/serial-METRO-ep-2-diamond-district-photo-zjmp/serial-METRO-ep-2-diamond-district-photo-zjmp-mediumSquareAt3X.jpg",
-      "author": "Sarah Koenig, Corey Kilgannon, Jenelle Pifer, Julie Snyder, Matt McGinley, Bobby Johnston, Adam Dorn, Thomas Mellor and Nick Thorburn",
-      "excerpt": "In New York’s diamond district, there’s a war on: real vs. fake. It’s hard to know which side is which.",
+      "title": "The Brief, Messy Political Career of Paolo Zampolli, a Trump Ally",
+      "link": "https://www.nytimes.com/2026/10/22/style/paolo-zampolli-trump-friend-brief-political-career.html",
+      "pubDate": "2026-10-22T14:15:35.000Z",
+      "image": "https://static01.nyt.com/images/2026/10/21/multimedia/21ST-PAOLO-ZAMPOLLI-EXIT-02-qctz/21ST-PAOLO-ZAMPOLLI-EXIT-02-qctz-mediumSquareAt3X.jpg",
+      "author": "Shawn McCreesh",
+      "excerpt": "He had an unlikely rise, from modeling agent to presidential special envoy. After his firing, he was unrepentant: “I need to make money.”",
       "source": "NYT"
     },
     {
-      "title": "METRO with Sarah Koenig: Episode 1",
-      "link": "https://www.nytimes.com/2026/10/22/podcasts/nice-to-meet-you.html",
-      "pubDate": "2026-10-22T11:03:49.000Z",
-      "image": "https://static01.nyt.com/images/2026/10/14/podcasts/serial-METRO-episode-1-photo/serial-METRO-episode-1-photo-mediumSquareAt3X.jpg",
-      "author": "Sarah Koenig, Jenelle Pifer, Julie Snyder, Alex Epton, Matt McGinley, Allison Leyton-Brown, Phoebe Wang and Catherine Anderson",
-      "excerpt": "Sarah Koenig goes on a whirlwind tour of New York City to find out what New Yorkers are worrying about.",
-      "source": "NYT"
-    },
-    {
-      "title": "‘A Golden Age of Science’ Brought to You by the White House",
-      "link": "https://www.nytimes.com/2026/10/22/opinion/interesting-times-tyler-cowen-michael-kratsios.html",
-      "pubDate": "2026-10-22T11:03:37.000Z",
-      "image": "https://static01.nyt.com/images/2026/10/22/opinion/22itpod-kratsios-image/22itpod-kratsios-image-mediumSquareAt3X-v2.jpg",
-      "author": "Tyler Cowen and Charlotte Gartenberg",
-      "excerpt": "The Trump administration’s plan to supercharge scientific discovery.",
+      "title": "Impeachment. It’s Not Just for Presidents.",
+      "link": "https://www.nytimes.com/2026/10/22/opinion/trump-slotkin-corruption-impeachment.html",
+      "pubDate": "2026-10-22T14:08:38.000Z",
+      "image": null,
+      "author": "David French",
+      "excerpt": "Trump’s grotesque rerun of the Gilded Age demands a rebuke.",
       "source": "NYT"
     },
     {
@@ -995,111 +1040,12 @@
       "source": "NYT"
     },
     {
-      "title": "New U.S.-Israeli Plans to Attack Iran, and Trump’s Whistle-Blower Rewards Program",
-      "link": "https://www.nytimes.com/2026/10/22/podcasts/the-headlines/us-israel-iran-trump-whistleblower.html",
-      "pubDate": "2026-10-22T10:02:49.000Z",
-      "image": "https://static01.nyt.com/images/2026/10/22/multimedia/22themorning-iran-03-vwtg/22themorning-iran-03-vwtg-mediumSquareAt3X.jpg",
-      "author": "Will Jarvis, Margaret Kadifa, Jake Lucas, Ian Stewart, Tracy Mumford and Luke Broadwater",
-      "excerpt": "Plus, America’s newest national park.",
-      "source": "NYT"
-    },
-    {
-      "title": "Employers Shift Rising Health Care Costs Onto Millions of Workers",
-      "link": "https://www.nytimes.com/2026/10/22/business/health-insurance-costs-workers-premiums-deductibles.html",
-      "pubDate": "2026-10-22T09:03:14.000Z",
-      "image": null,
-      "author": "Reed Abelson",
-      "excerpt": "New surveys show that increases in premiums and deductibles are forcing people to forgo treatments or doctor’s visits while budgets are strained by higher food and gas prices.",
-      "source": "NYT"
-    },
-    {
-      "title": "How the A.I. Boom Is Driving Up Sales of Gray Paint",
-      "link": "https://www.nytimes.com/2026/10/22/technology/ai-data-centers-paint.html",
-      "pubDate": "2026-10-22T09:02:51.000Z",
-      "image": null,
-      "author": "Emmy Martin",
-      "excerpt": "Tech companies are painting data centers with gray coatings on top of gray concrete and steel to resist fire, rust and static electricity. That has made data centers a fast-growing market for paint makers.",
-      "source": "NYT"
-    },
-    {
-      "title": "Just How Much Are Young Voters Backing Democrats Now? See the Shift.",
-      "link": "https://www.nytimes.com/2026/10/22/upshot/young-voters-polls-midterms.html",
-      "pubDate": "2026-10-22T09:01:30.000Z",
-      "image": "https://static01.nyt.com/images/2026/10/09/multimedia/2026-10-07-young-dems-topper-index/2026-10-07-young-dems-topper-index-mediumSquareAt3X-v10.png",
-      "author": "Claire Cain Miller and Rachel Buigas-Lopez",
-      "excerpt": "In the new Times/Siena poll, 70 percent of young voters identified as Democrats or leaned that way — a jump from just two years ago.",
-      "source": "NYT"
-    },
-    {
-      "title": "Late Night: Trump Can’t Stop Talking About Jon Husted’s Rear End",
-      "link": "https://www.nytimes.com/2026/10/22/arts/television/late-night-trump-jon-husted.html",
-      "pubDate": "2026-10-22T06:44:43.000Z",
-      "image": null,
-      "author": "Trish Bendix",
-      "excerpt": "“Honestly, it’s nice to see that Trump can make men just as uncomfortable as women,” Jimmy Fallon said.",
-      "source": "NYT"
-    },
-    {
-      "title": "Clashes Darken Rally in South Carolina as Trump Seeks to Boost Darline Graham",
-      "link": "https://www.nytimes.com/2026/10/21/us/politics/trump-rally-south-carolina-darline-graham.html",
-      "pubDate": "2026-10-22T05:55:57.000Z",
-      "image": "https://static01.nyt.com/images/2026/10/21/multimedia/21pol-trump-graham-sc-cfjk/21pol-trump-graham-sc-cfjk-mediumSquareAt3X.jpg",
-      "author": "Emily Davies",
-      "excerpt": "Mr. Trump is barnstorming across conservative America this week to shore up support for Republican candidates in unexpectedly competitive races.",
-      "source": "NYT"
-    },
-    {
-      "title": "Looted Goods From French Stores Appear on Resale Sites After Riots",
-      "link": "https://www.nytimes.com/2026/10/22/business/france-riots-looting-resale.html",
-      "pubDate": "2026-10-22T04:00:07.000Z",
-      "image": "https://static01.nyt.com/images/2026/10/21/multimedia/21biz-france-resale-01-hqlz/21biz-france-resale-01-hqlz-mediumSquareAt3X.jpg",
-      "author": "Jenny Gross",
-      "excerpt": "Officials in France are pressing online platforms like eBay and Vinted to remove items that were stolen during public disturbances over the weekend.",
-      "source": "NYT"
-    },
-    {
-      "title": "How Mark Zuckerberg Pushed Meta to Shield Him From California’s Proposed Wealth Tax",
-      "link": "https://www.nytimes.com/2026/10/21/technology/mark-zuckerberg-meta-california-wealth-tax.html",
-      "pubDate": "2026-10-22T01:21:13.000Z",
-      "image": "https://static01.nyt.com/images/2026/10/21/multimedia/biz-zuckerberg-california-tpwf/biz-zuckerberg-california-tpwf-mediumSquareAt3X.jpg",
-      "author": "Eli Tan and Theodore Schleifer",
-      "excerpt": "The billionaire told Meta’s board that he planned to list his Silicon Valley home for sale. The company remade its stock structure to help him pay the tax if voters pass it.",
-      "source": "NYT"
-    },
-    {
-      "title": "U.S. and Israel Draw Up Plans for Renewed Strikes on Iran After Elections",
-      "link": "https://www.nytimes.com/2026/10/21/us/politics/us-israel-renewed-iran-strikes.html",
-      "pubDate": "2026-10-22T00:58:22.000Z",
-      "image": "https://static01.nyt.com/images/2026/10/21/multimedia/21dc-iran-strikes-01-cqpg/21dc-iran-strikes-01-cqpg-mediumSquareAt3X.jpg",
-      "author": "Julian E. Barnes, Eric Schmitt, Farnaz Fassihi, Natan Odenheimer and Ronen Bergman",
-      "excerpt": "Renewed hostilities might not be any more successful than the war’s first phase, and President Trump has repeatedly canceled plans for a return to major combat.",
-      "source": "NYT"
-    },
-    {
-      "title": "Student Protests Mushroom Across Europe, Exposing Bleak Views of the Future",
-      "link": "https://www.nytimes.com/2026/10/21/world/europe/europe-protests-youth-future.html",
-      "pubDate": "2026-10-21T21:05:46.000Z",
-      "image": "https://static01.nyt.com/images/2026/10/21/multimedia/21int-europe-protests-bjlw/21int-europe-protests-bjlw-mediumSquareAt3X.jpg",
-      "author": "Jason Horowitz",
-      "excerpt": "Since high school students began protesting in France in September, they’ve been joined by young demonstrators in at least seven other European countries.",
-      "source": "NYT"
-    },
-    {
-      "title": "In San Francisco, a Family Earning $325,000 Qualifies for Government Aid",
-      "link": "https://www.nytimes.com/2026/10/21/us/san-francisco-cost-living-affordable-housing.html",
-      "pubDate": "2026-10-21T13:08:43.000Z",
-      "image": "https://static01.nyt.com/images/2026/10/07/multimedia/00nat-sf-unaffordable-01-qzmv/00nat-sf-unaffordable-01-qzmv-mediumSquareAt3X.jpg",
-      "author": "Heather Knight",
-      "excerpt": "With the A.I. boom driving up prices, the city is subsidizing child care for households with high incomes. Even with the help, families say they are struggling.",
-      "source": "NYT"
-    },
-    {
-      "title": "After Six Flags Roller Coaster Death, Critics Call for Federal Oversight",
-      "link": "https://www.nytimes.com/2026/10/16/us/six-flags-roller-coaster-death.html",
-      "pubDate": "2026-10-19T18:29:46.000Z",
-      "image": "https://static01.nyt.com/images/2026/10/16/multimedia/16nat-roller-coaster-wvqp-copy/16nat-roller-coaster-wvqp-mediumSquareAt3X.jpg",
-      "author": "Jacey Fortin",
-      "excerpt": "Regulation of amusement parks is left to the states, and deaths are rare. But some say stronger rules are needed.",
+      "title": "Iowa, Usually Red, Is in Play This Midterm as Economic Woes Mount",
+      "link": "https://www.nytimes.com/2026/10/22/us/politics/iowa-farmers-republicans-trump.html",
+      "pubDate": "2026-10-22T09:03:19.000Z",
+      "image": "https://static01.nyt.com/images/2026/10/22/multimedia/22dc-iowa-econ-02-tjhl/22dc-iowa-econ-02-tjhl-mediumSquareAt3X.jpg",
+      "author": "Alan Rappeport, Bayliss Wagner and Rebecca Gratz",
+      "excerpt": "The Trump administration’s policies could cost Republicans in a state that is being hit hard by expensive diesel prices and uncertainty over trade.",
       "source": "NYT"
     }
   ]
