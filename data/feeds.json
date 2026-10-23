@@ -190,12 +190,12 @@
       "source": "Payload"
     },
     {
-      "title": "SpaceX tries again to launch 27 Starlink satellites on Falcon 9 rocket from Vandenberg SFB",
+      "title": "Bad weather scrubs launch of 27 Starlink satellites on Falcon 9 rocket from Vandenberg SFB",
       "link": "https://spaceflightnow.com/2026/10/20/live-coverage-spacex-to-launch-27-starlink-satellites-on-falcon-9-rocket-from-vandenberg-sfb-5/",
       "pubDate": "2026-10-20T21:18:11.000Z",
-      "image": "https://spaceflightnow.com/wp-content/uploads/2026/10/20261001-Vandenberg-File-Feature-Image.jpg",
+      "image": "https://spaceflightnow.com/wp-content/uploads/2026/10/20261022-Starlink-15-15-scrub.jpg",
       "author": "Will Robinson-Smith",
-      "excerpt": "Liftoff of the Starlink 15-15 mission from pad 4E at Vandenberg Space Force Base is scheduled at 3:51 p.m. PDT (6:51 p.m. EDT / 2251 UTC) on Thursday, Oct. 22.",
+      "excerpt": "For a third day running SpaceX called off the launch of 27 Starlink satellites from Vandenberg Space Force Base in California. The next launch window for the Falcon 9 rocket opens at 2:30 p.m. PDT (5:30 p.m. EDT / 2130 UTC) on Friday, Oct. 23.",
       "source": "Spaceflight Now"
     },
     {
@@ -878,6 +878,60 @@
   ],
   "nytNews": [
     {
+      "title": "Trump Asked Musk to Reverse Limits on Ukraine’s Military Internet Use",
+      "link": "https://www.nytimes.com/2026/10/22/us/politics/starshield-outage-ukraine-musk-trump.html",
+      "pubDate": "2026-10-23T00:54:47.000Z",
+      "image": "https://static01.nyt.com/images/2025/09/22/multimedia/22int-ukraine-sumy-print03-kjgq/22int-ukraine-sumy-print02-kjgq-mediumSquareAt3X.jpg",
+      "author": "Michael Crowley, Maggie Haberman and Siobhán O’Grady",
+      "excerpt": "The call from the president about the Starshield network came after officials in Ukraine reported that they found new limits on the use of military drones in their war against Russia.",
+      "source": "NYT"
+    },
+    {
+      "title": "New York City Passes Horse Carriage Ban, Ending a Central Park Tradition",
+      "link": "https://www.nytimes.com/2026/10/22/nyregion/nyc-horse-carriage-ban-workers-jobs.html",
+      "pubDate": "2026-10-23T00:40:08.000Z",
+      "image": "https://static01.nyt.com/images/2026/10/22/multimedia/22met-carriage-horses-mgvq/22met-carriage-horses-mgvq-mediumSquareAt3X.jpg",
+      "author": "Ed Shanahan and Dana Rubinstein",
+      "excerpt": "A passenger’s death in June became the impetus for the City Council to ban the practice, but the bill will likely face a court challenge before being implemented in 2028.",
+      "source": "NYT"
+    },
+    {
+      "title": "Justice Dept. Opens Inquiry Into Corey Lewandowski",
+      "link": "https://www.nytimes.com/2026/10/22/us/politics/corey-lewandowski-justice-dept-inquiry.html",
+      "pubDate": "2026-10-22T23:57:34.000Z",
+      "image": "https://static01.nyt.com/images/2026/03/21/multimedia/21DC-Lewandowski/21dc-corey-hp-ctmj-mediumSquareAt3X.jpg",
+      "author": "Glenn Thrush, Tyler Pager and Nicholas Nehamas",
+      "excerpt": "The details of the inquiry remain unclear, but it is one of the rare instances in which a Trump ally or appointee has been investigated for potential wrongdoing during the president’s second term.",
+      "source": "NYT"
+    },
+    {
+      "title": "Key Trump Health Adviser Resigns Ahead of Midterm Elections",
+      "link": "https://www.nytimes.com/2026/10/22/us/politics/calley-means-resigns-rfk-trump.html",
+      "pubDate": "2026-10-22T23:33:19.000Z",
+      "image": "https://static01.nyt.com/images/2026/10/22/multimedia/22dc-means-mkpj/22dc-means-mkpj-mediumSquareAt3X.jpg",
+      "author": "Christina Jewett",
+      "excerpt": "Calley Means, who helped unite Robert F. Kennedy Jr. and President Trump, pushed food reforms but grew frustrated with stalled progress on the MAHA agenda.",
+      "source": "NYT"
+    },
+    {
+      "title": "Bernie Sanders Gives $1 Million to Bolster El-Sayed and Counter AIPAC in Michigan",
+      "link": "https://www.nytimes.com/2026/10/22/us/politics/sanders-el-sayed-aipac-michigan.html",
+      "pubDate": "2026-10-22T23:02:57.000Z",
+      "image": "https://static01.nyt.com/images/2026/10/22/multimedia/22pol-sanders-aipac-wghz/22pol-sanders-aipac-wghz-mediumSquareAt3X.jpg",
+      "author": "Shane Goldmacher",
+      "excerpt": "The transfer came day after the news that the pro-Israel lobby was planning to contribute as much as $9 million to defeat the Democratic nominee for Senate.",
+      "source": "NYT"
+    },
+    {
+      "title": "Cancer Vaccine Cuts the Risk of Melanoma Recurrence, Merck and Moderna Report",
+      "link": "https://www.nytimes.com/2026/10/22/well/cancer-vaccine-melanoma-merck-moderna.html",
+      "pubDate": "2026-10-22T22:48:01.000Z",
+      "image": "https://static01.nyt.com/images/2026/08/05/multimedia/22WELL-CANCER-VAX-RESULTS-1/22WELL-CANCER-VAX-RESULTS-1-mediumSquareAt3X.jpg",
+      "author": "Nina Agrawal",
+      "excerpt": "Merck and Moderna released detailed results on an experimental vaccine to treat the skin cancer.",
+      "source": "NYT"
+    },
+    {
       "title": "Trump Goes to Iowa, Hoping to Stop Farmers From Voting Blue",
       "link": "https://www.nytimes.com/2026/10/22/briefing/trump-iowa-roller-coaster-safety.html",
       "pubDate": "2026-10-22T21:47:01.000Z",
@@ -896,15 +950,6 @@
       "source": "NYT"
     },
     {
-      "title": "Above Iran’s Capital, a Trump Impersonator Dances in a Jail Cell",
-      "link": "https://www.nytimes.com/2026/10/22/world/europe/iran-trump-impersonator-billboard.html",
-      "pubDate": "2026-10-22T21:25:08.000Z",
-      "image": "https://static01.nyt.com/images/2026/10/22/world/middleeast/Trump_billb2/Trump_billb2-mediumSquareAt3X.png",
-      "author": "Erika Solomon and Sanam Mahoozi",
-      "excerpt": "The Islamic republic has long used billboards in Tehran to mock its opponents and hammer home its messaging, but this piece of performance propaganda is perhaps the most eccentric yet.",
-      "source": "NYT"
-    },
-    {
       "title": "The Real Trump Tower",
       "link": "https://www.nytimes.com/2026/10/22/opinion/trump-slotkin-corruption-impeachment.html",
       "pubDate": "2026-10-22T21:23:19.000Z",
@@ -914,39 +959,12 @@
       "source": "NYT"
     },
     {
-      "title": "Key Trump Health Adviser Resigns Ahead of Midterm Elections",
-      "link": "https://www.nytimes.com/2026/10/22/us/politics/calley-means-resigns-rfk-trump.html",
-      "pubDate": "2026-10-22T20:45:27.000Z",
-      "image": "https://static01.nyt.com/images/2026/10/22/multimedia/22dc-means-mkpj/22dc-means-mkpj-mediumSquareAt3X.jpg",
-      "author": "Christina Jewett",
-      "excerpt": "Calley Means, who helped unite Robert F. Kennedy Jr. and President Trump, pushed food reforms but grew frustrated with stalled progress on the MAHA agenda.",
-      "source": "NYT"
-    },
-    {
-      "title": "Trump Is Still Chasing His Yalta. Here’s What He Doesn’t Get.",
-      "link": "https://www.nytimes.com/2026/10/22/opinion/trump-ukraine-russia-war-yalta.html",
-      "pubDate": "2026-10-22T20:44:39.000Z",
-      "image": "https://static01.nyt.com/images/2026/10/25/multimedia/22kimmage-cmbv/22kimmage-cmbv-mediumSquareAt3X.jpg",
-      "author": "Michael Kimmage",
-      "excerpt": "Mr. Trump has been searching for his Yalta in the war in Ukraine ever since he returned to the Oval Office.",
-      "source": "NYT"
-    },
-    {
-      "title": "New York City Council Set to Ban ",
-      "link": "https://www.nytimes.com/2026/10/22/nyregion/nyc-horse-carriage-ban-workers-jobs.html",
-      "pubDate": "2026-10-22T20:31:33.000Z",
-      "image": "https://static01.nyt.com/images/2026/10/22/multimedia/22met-carriage-horses-mgvq/22met-carriage-horses-mgvq-mediumSquareAt3X.jpg",
-      "author": "Ed Shanahan and Dana Rubinstein",
-      "excerpt": "A passenger’s death in June became the impetus for the City Council to ban the practice, but the bill will likely face a court challenge before being implemented in 2028.",
-      "source": "NYT"
-    },
-    {
-      "title": "Justice Dept. Opens Inquiry Into Corey Lewandowski",
-      "link": "https://www.nytimes.com/2026/10/22/us/politics/corey-lewandowski-justice-dept-inquiry.html",
-      "pubDate": "2026-10-22T20:19:56.000Z",
-      "image": "https://static01.nyt.com/images/2026/03/21/multimedia/21DC-Lewandowski/21dc-corey-hp-ctmj-mediumSquareAt3X.jpg",
-      "author": "Glenn Thrush, Tyler Pager and Nicholas Nehamas",
-      "excerpt": "The details of the inquiry remain unclear, but it is one of the rare instances in which a Trump ally or appointee has been investigated for potential wrongdoing during the president’s second term.",
+      "title": "Stocks See Steepest Decline in Months Amid A.I. Worries",
+      "link": "https://www.nytimes.com/2026/10/22/business/stocks-oil-prices.html",
+      "pubDate": "2026-10-22T20:11:05.000Z",
+      "image": "https://static01.nyt.com/images/2026/10/22/multimedia/22osg-promo-lqhb/22osg-promo-lqhb-mediumSquareAt3X.jpg",
+      "author": "Aruni Soni",
+      "excerpt": "The S&P 500 index fell over 1.4 percent, its largest daily decline since July, while the tech-heavy Nasdaq slumped nearly 2.5 percent, that index’s biggest one-day decline since June.",
       "source": "NYT"
     },
     {
@@ -974,42 +992,6 @@
       "image": "https://static01.nyt.com/images/2026/10/21/multimedia/00nat-oj-reax-fzjp/00nat-oj-reax-fzjp-mediumSquareAt3X.jpg",
       "author": "Mike Baker and Tim Arango",
       "excerpt": "Tanya Brown said she believed someone helped O.J. Simpson get rid of the murder weapon. One of Mr. Simpson’s former lawyers called for a special prosecutor.",
-      "source": "NYT"
-    },
-    {
-      "title": "How a Legal Backlash Against Big Tech Is Forcing Big Changes",
-      "link": "https://www.nytimes.com/2026/10/22/technology/tech-lawsuit-settlements-meta-google.html",
-      "pubDate": "2026-10-22T19:29:29.000Z",
-      "image": "https://static01.nyt.com/images/2026/10/22/multimedia/22BIZ-META-ETA-1-01-qlpv/22BIZ-META-ETA-1-01-qlpv-mediumSquareAt3X.jpg",
-      "author": "Cecilia Kang",
-      "excerpt": "A series of lawsuits has created a new de facto regulatory regime as courts order companies like Meta and Google to change their business practices — and pay up.",
-      "source": "NYT"
-    },
-    {
-      "title": "Mortgage Rates Remain Above 7%, Pushing Home Prices Lower in Some Areas",
-      "link": "https://www.nytimes.com/2026/10/22/business/mortgage-rates-housing-costs.html",
-      "pubDate": "2026-10-22T19:18:58.000Z",
-      "image": "https://static01.nyt.com/images/2026/10/22/multimedia/22Biz-Mortgage-Rates-fjpg/22Biz-Mortgage-Rates-fjpg-mediumSquareAt3X.jpg",
-      "author": "Gregory Schmidt",
-      "excerpt": "The 30-year, fixed-rate mortgage dropped slightly to 7.32 percent as prospective home buyers continue to struggle with affordability. But home prices are starting to drop in some areas.",
-      "source": "NYT"
-    },
-    {
-      "title": "Employers Shift Rising Health Care Costs Onto Millions of Workers",
-      "link": "https://www.nytimes.com/2026/10/22/business/health-insurance-costs-workers-premiums-deductibles.html",
-      "pubDate": "2026-10-22T18:51:58.000Z",
-      "image": null,
-      "author": "Reed Abelson",
-      "excerpt": "New surveys show that increases in premiums and deductibles are forcing people to forgo treatments or doctor’s visits while budgets are strained by higher food and gas prices.",
-      "source": "NYT"
-    },
-    {
-      "title": "Why Many Voters Are Unhappy With the Economy",
-      "link": "https://www.nytimes.com/video/business/100000011216716/why-many-voters-are-unhappy-with-the-economy.html",
-      "pubDate": "2026-10-22T18:13:37.000Z",
-      "image": null,
-      "author": "Ben Casselman, Nour Idriss, Stephanie Swart and Edward Vega",
-      "excerpt": "With the midterms approaching, the economy is a top concern for voters. Our chief economic correspondent, Ben Casselman, describes which aspects of the economy have voters so frustrated.",
       "source": "NYT"
     },
     {
@@ -1046,6 +1028,15 @@
       "image": "https://static01.nyt.com/images/2026/10/22/multimedia/22dc-iowa-econ-02-tjhl/22dc-iowa-econ-02-tjhl-mediumSquareAt3X.jpg",
       "author": "Alan Rappeport, Bayliss Wagner and Rebecca Gratz",
       "excerpt": "The Trump administration’s policies could cost Republicans in a state that is being hit hard by expensive diesel prices and uncertainty over trade.",
+      "source": "NYT"
+    },
+    {
+      "title": "I Have Never Seen the Online Right So Happy",
+      "link": "https://www.nytimes.com/2026/10/19/opinion/cornell-rape-political-right-smear.html",
+      "pubDate": "2026-10-20T18:08:02.000Z",
+      "image": "https://static01.nyt.com/images/2026/10/21/opinion/19pemberton-image/19pemberton-image-mediumSquareAt3X.jpg",
+      "author": "Nathan Taylor Pemberton",
+      "excerpt": "Online right-wingers are doxxing and smearing the accuser in the Cornell rape case, in tactics that reek of desperation.",
       "source": "NYT"
     },
     {
