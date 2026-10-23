@@ -1,6 +1,15 @@
 {
   "spaceNews": [
     {
+      "title": "NASA, Virginia Launch Power Partnership for Energy Security",
+      "link": "https://www.nasa.gov/centers-and-facilities/langley/nasa-power-energy-partnership/",
+      "pubDate": "2026-10-23T17:50:21.000Z",
+      "image": "https://www.nasa.gov/wp-content/uploads/2026/10/lrc-2026-ocio-p-03524.jpg?w=2048",
+      "author": "Charles G. Hatfield",
+      "excerpt": "NASA is helping to foster long-term energy security in Virginia. NASA’s Langley Research Center in Hampton, Virginia, is partnering with the Virginia Department of Energy to support informed decisions for effective energy generation, delivery and use by providing solar, meteorological, and future weather risk datasets ",
+      "source": "NASA"
+    },
+    {
       "title": "Exclusive: DoD Taps Orbital Operations for Cryogenic Spacecraft Demo",
       "link": "https://payloadspace.com/exclusive-dod-taps-orbital-operations-for-cryogenic-spacecraft-demo/",
       "pubDate": "2026-10-23T13:00:00.000Z",
@@ -151,15 +160,6 @@
       "image": "https://www.nasa.gov/wp-content/uploads/2026/10/ssc-20261021-s00947h.jpg?w=1024",
       "author": "LaToya Dean",
       "excerpt": "NASA tested RS-25 engine No. 10001 on Oct. 21 on the Fred Haise Test Stand at NASA’s Stennis Space Center near Bay St. Louis, Mississippi. Test teams fired the developmental engine for almost eight-and-a-half minutes (500 seconds), the same amount of time RS-25 engines fire during launch of NASA’s SLS (Space Launch Sys",
-      "source": "NASA"
-    },
-    {
-      "title": "NASA JPL Looks to Next 90 Years of Innovation, Exploration",
-      "link": "https://www.nasa.gov/centers-and-facilities/jpl/nasa-jpl-looks-to-next-90-years-of-innovation-exploration/",
-      "pubDate": "2026-10-21T18:35:56.000Z",
-      "image": "https://www.nasa.gov/wp-content/uploads/2026/10/jpl90collage-v3-jpg-16x9-1.jpg?w=2048",
-      "author": "Amanda Barnett",
-      "excerpt": "Interstellar probes. Lunar drones. Helicopters on Mars. When a group of Caltech graduate students and enthusiasts began conducting rocket-propulsion tests in Pasadena’s Arroyo Seco on Oct. 31, 1936, they had no idea that their work marked the inception of the Jet Propulsion Laboratory. Ninety years later, the lab, now ",
       "source": "NASA"
     },
     {
@@ -860,30 +860,183 @@
   ],
   "nytNews": [
     {
-      "title": "There Are Solutions to This Crazy Economy. Voters Will Hate Them.",
-      "link": "https://www.nytimes.com/2026/10/23/opinion/trump-economy-artificial-intelligence-midterms.html",
-      "pubDate": "2026-10-23T13:17:49.000Z",
-      "image": "https://static01.nyt.com/images/2026/10/23/opinion/23opinions-sarin-rampell-image/23opinions-sarin-rampell-image-mediumSquareAt3X-v2.png",
-      "author": "Natasha Sarin, Catherine Rampell and Emily Holzknecht",
-      "excerpt": "Ahead of the midterms, Natasha Sarin and Catherine Rampell unpack the state of the economy — and how much responsibility the president bears for it.",
+      "title": "How Worried Should We Be About the Economy? Let’s Look at 2008.",
+      "link": "https://www.nytimes.com/2026/10/23/business/economy-2008-financial-crisis.html",
+      "pubDate": "2026-10-23T17:41:27.000Z",
+      "image": "https://static01.nyt.com/images/2026/10/25/business/25bizsun-Crash-Again-illo/25bizsun-Crash-Again-illo-mediumSquareAt3X.jpg",
+      "author": "Peter Coy",
+      "excerpt": "It’s not impossible to spot the characteristics of a brewing financial crisis. We can look to 2008 for clues.",
       "source": "NYT"
     },
     {
-      "title": "Trump Asked Musk to Reverse Starshield Restrictions on Ukraine",
-      "link": "https://www.nytimes.com/2026/10/22/us/politics/starshield-outage-ukraine-musk-trump.html",
-      "pubDate": "2026-10-23T13:05:59.000Z",
-      "image": "https://static01.nyt.com/images/2025/09/22/multimedia/22int-ukraine-sumy-print03-kjgq/22int-ukraine-sumy-print02-kjgq-mediumSquareAt3X.jpg",
-      "author": "Michael Crowley, Maggie Haberman and Siobhán O’Grady",
-      "excerpt": "The call from the president about the Starshield network came after officials in Ukraine reported that they found new limits on the use of military drones in their war against Russia.",
+      "title": "Lawmakers Plan to Block Trump Nominees Over Ukraine Satellite Network Restrictions",
+      "link": "https://www.nytimes.com/2026/10/23/us/politics/senators-trump-nominees-ukraine-starlink.html",
+      "pubDate": "2026-10-23T17:35:32.000Z",
+      "image": "https://static01.nyt.com/images/2026/10/23/multimedia/23dc-cong-ukraine-01-qmlt/23dc-cong-ukraine-01-qmlt-mediumSquareAt3X.jpg",
+      "author": "Robert Jimison",
+      "excerpt": "Senators have warned the White House they will withhold confirmation votes until the administration ensures the restoration of communications capabilities used by Ukraine’s military.",
       "source": "NYT"
     },
     {
-      "title": "The Bukeleization of Latin America Has Arrived",
-      "link": "https://www.nytimes.com/2026/10/23/world/americas/the-bukeleization-of-latin-america-has-arrived.html",
-      "pubDate": "2026-10-23T13:05:24.000Z",
-      "image": "https://static01.nyt.com/images/2026/10/19/multimedia/00ideas-latam-kghw/00ideas-latam-kghw-mediumSquareAt3X.jpg",
-      "author": "Jack Nicas",
-      "excerpt": "Nayib Bukele’s notoriously harsh and wildly popular security crackdown in El Salvador is spawning imitators and remaking the region.",
+      "title": "The Meaning of the Republican War Over Ramaswamy’s Vile Ad",
+      "link": "https://www.nytimes.com/2026/10/23/opinion/acton-ramaswamy-ad-trump-ohio.html",
+      "pubDate": "2026-10-23T17:24:53.000Z",
+      "image": "https://static01.nyt.com/images/2026/10/24/multimedia/23goldberg-qmkb/23goldberg-qmkb-mediumSquareAt3X.jpg",
+      "author": "Michelle Goldberg",
+      "excerpt": "The G.O.P. nominee in Ohio has given conservatives space to reckon with the ethical degradation of Trumpism.",
+      "source": "NYT"
+    },
+    {
+      "title": "Roy Cooper Has Never Lost an Election. Can He Flip North Carolina’s Senate Seat?",
+      "link": "https://www.nytimes.com/2026/10/23/us/politics/roy-cooper-north-carolina-senate-election.html",
+      "pubDate": "2026-10-23T17:18:30.000Z",
+      "image": "https://static01.nyt.com/images/2026/10/23/multimedia/23pol-cooper-north-carolina-qztm/23pol-cooper-north-carolina-qztm-mediumSquareAt3X.jpg",
+      "author": "Patricia Mazzei",
+      "excerpt": "North Carolina has not elected a Democrat to the Senate since 2008. Can Roy Cooper break that spell?",
+      "source": "NYT"
+    },
+    {
+      "title": "Under U.S. Watch, Venezuela Grapples With Tensions Over Democracy",
+      "link": "https://www.nytimes.com/2026/10/23/us/politics/venezuela-trump-rubio-elections.html",
+      "pubDate": "2026-10-23T17:15:02.000Z",
+      "image": "https://static01.nyt.com/images/2026/10/23/multimedia/23dc-trump-venezuela-mlhb/23dc-trump-venezuela-mlhb-mediumSquareAt3X.jpg",
+      "author": "Edward Wong and Julie Turkewitz",
+      "excerpt": "President Trump says Venezuela is not ready for elections, and he focuses instead on its oil. But Secretary of State Marco Rubio is nudging talks between opposing politicians.",
+      "source": "NYT"
+    },
+    {
+      "title": "Here’s What Democrats Plan to Do With Their Power if They Win Back Congress",
+      "link": "https://www.nytimes.com/2026/10/23/us/politics/democrats-congress-majority-agenda.html",
+      "pubDate": "2026-10-23T17:14:19.000Z",
+      "image": "https://static01.nyt.com/images/2026/10/23/multimedia/23dc-dems-power-01-cvlh/23dc-dems-power-01-cvlh-mediumSquareAt3X.jpg",
+      "author": "Annie Karni",
+      "excerpt": "Democrats have campaigned on lowering living costs and holding the Trump administration accountable. This is a look at their to-do list if they win the majority.",
+      "source": "NYT"
+    },
+    {
+      "title": "Palestinian Gunmen Open Fire on Israelis in the West Bank, Officials Say",
+      "link": "https://www.nytimes.com/2026/10/23/world/middleeast/west-bank-shooting-israel.html",
+      "pubDate": "2026-10-23T17:11:13.000Z",
+      "image": "https://static01.nyt.com/images/2026/10/23/multimedia/23Int-Israel-Shooting-02-lvmh/23Int-Israel-Shooting-02-lvmh-mediumSquareAt3X-v2.jpg",
+      "author": "Adam Rasgon",
+      "excerpt": "The Israeli military said two soldiers and two attackers had been killed, and three soldiers wounded. Prime Minister Benjamin Netanyahu vowed to launch a major offensive in the Israeli-occupied territory.",
+      "source": "NYT"
+    },
+    {
+      "title": "Are Fewer Teens Identifying as Gay or Bisexual? It’s Complicated.",
+      "link": "https://www.nytimes.com/2026/10/23/science/lgbt-teens-identification.html",
+      "pubDate": "2026-10-23T17:09:05.000Z",
+      "image": "https://static01.nyt.com/images/2026/10/23/science/23SCI-LGB-TEENS/23SCI-LGB-TEENS-mediumSquareAt3X.jpg",
+      "author": "Azeen Ghorayshi",
+      "excerpt": "New data have prompted questions about changes in teens’ sexual orientations. But researchers disagree on how much the numbers can really tell us.",
+      "source": "NYT"
+    },
+    {
+      "title": "Israeli Settlers Turn a Palestinian Rite Into a Gantlet of Violence and Fear",
+      "link": "https://www.nytimes.com/2026/10/23/world/middleeast/west-bank-settlers-palestinians-harvest.html",
+      "pubDate": "2026-10-23T16:47:14.000Z",
+      "image": "https://static01.nyt.com/images/2026/10/23/multimedia/23int-olive-harvest-vfpk/23int-olive-harvest-vfpk-mediumSquareAt3X.jpg",
+      "author": "Fatima AbdulKarim, Gabby Sobelman, Azam Ahmed and Ivor Prickett",
+      "excerpt": "This year’s olive harvest in the Israeli-occupied West Bank is the most violent in years, as settlers have attacked farmers and besieged homes, drawing condemnation from U.S. officials and others.",
+      "source": "NYT"
+    },
+    {
+      "title": "Chimps Steal Less Often From Their Friends, Even When Offered Pineapple",
+      "link": "https://www.nytimes.com/2026/10/23/science/stealing-chimps-friends.html",
+      "pubDate": "2026-10-23T16:44:21.000Z",
+      "image": "https://static01.nyt.com/images/2026/10/19/science/00SCI-TB-STEALING-CHIMPS-02/00SCI-TB-STEALING-CHIMPS-02-mediumSquareAt3X.jpg",
+      "author": "Taylor Mitchell Brown",
+      "excerpt": "The discovery may hint at the roots of human norms around fairness and friendship.",
+      "source": "NYT"
+    },
+    {
+      "title": "Melania Trump Says She Brokered a Cease-Fire in a Starving Ukrainian City",
+      "link": "https://www.nytimes.com/2026/10/23/us/politics/ceasefire-ukraine-melania-trump.html",
+      "pubDate": "2026-10-23T16:37:40.000Z",
+      "image": "https://static01.nyt.com/images/2026/10/23/multimedia/23dc-melania-gwcp/23dc-melania-gwcp-mediumSquareAt3X.jpg",
+      "author": "Katie Rogers",
+      "excerpt": "The first lady, who is positioning herself as an intermediary between two warring nations as her husband sides with Russia, said the agreement would allow residents to evacuate.",
+      "source": "NYT"
+    },
+    {
+      "title": "Apple’s Foldable iPhone Duo Arrives in Stores: Smartphone Review",
+      "link": "https://www.nytimes.com/2026/10/23/technology/personaltech/iphone-duo-review-tablet-smartphone.html",
+      "pubDate": "2026-10-23T16:14:56.000Z",
+      "image": "https://static01.nyt.com/images/2026/10/23/multimedia/TECHFIX-phone-2-bwcf/TECHFIX-phone-2-bwcf-mediumSquareAt3X.jpg",
+      "author": "Brian X. Chen and Camille Cohen",
+      "excerpt": "The first-generation Apple foldable may feel awkward, but it’s an intriguing step toward merging phones and tablets into one.",
+      "source": "NYT"
+    },
+    {
+      "title": "Global Oil Price Hits $117 a Barrel, Highest Since April",
+      "link": "https://www.nytimes.com/2026/10/23/business/energy-environment/oil-prices-iran-war.html",
+      "pubDate": "2026-10-23T16:14:44.000Z",
+      "image": "https://static01.nyt.com/images/2026/04/17/world/17biz-iran-hormuz-oil-cov/17biz-iran-hormuz-oil-cov-mediumSquareAt3X.png",
+      "author": "Joe Rennison",
+      "excerpt": "Investors have grown increasingly concerned that the war in Iran could escalate again, putting energy supplies at greater risk.",
+      "source": "NYT"
+    },
+    {
+      "title": "Why Has This Teenager Tracked Down 11,377 Moths Since April?",
+      "link": "https://www.nytimes.com/2026/10/23/style/violet-clinton-teen-moth-research.html",
+      "pubDate": "2026-10-23T16:13:07.000Z",
+      "image": "https://static01.nyt.com/images/2026/10/12/multimedia/12ST-TEEN-MOTH-RESEARCHER-promo-ghlk/12ST-TEEN-MOTH-RESEARCHER-promo-ghlk-mediumSquareAt3X.jpg",
+      "author": "Callie Holtermann and Hilary Swift",
+      "excerpt": "Violet Clinton is doing award-winning entomological field research. Her dad still has to buy the beer for her moth bait.",
+      "source": "NYT"
+    },
+    {
+      "title": "Big Names Flock to Ruby-Red Florida to Sway Voters in Unexpectedly Close Contests",
+      "link": "https://www.nytimes.com/2026/10/23/us/politics/florida-republicans-midterms-.html",
+      "pubDate": "2026-10-23T16:09:51.000Z",
+      "image": "https://static01.nyt.com/images/2026/10/23/multimedia/23pol-weird-florida-hkzm/23pol-weird-florida-hkzm-mediumSquareAt3X.jpg",
+      "author": "Patricia Mazzei",
+      "excerpt": "President Trump will rally on Friday in a Republican state where Democrats have their eye on several House races.",
+      "source": "NYT"
+    },
+    {
+      "title": "U.S. Government Takes a Cut of Chip Business in Japan-Funded Deal",
+      "link": "https://www.nytimes.com/2026/10/23/business/economy/us-japan-chip-deal.html",
+      "pubDate": "2026-10-23T15:59:45.000Z",
+      "image": "https://static01.nyt.com/images/2026/10/23/multimedia/23dc-japan-invest-vmpl/23dc-japan-invest-vmpl-mediumSquareAt3X.jpg",
+      "author": "Ana Swanson",
+      "excerpt": "President Trump’s novel deal-making is on display in upstate New York, where the administration is funneling Japanese funds into a government-owned chip factory.",
+      "source": "NYT"
+    },
+    {
+      "title": "Share Your Experiences With Medicaid Claims for Repayment",
+      "link": "https://www.nytimes.com/2026/10/23/us/medicaid-repayment-claims-questions.html",
+      "pubDate": "2026-10-23T15:08:21.000Z",
+      "image": "https://static01.nyt.com/images/2026/10/13/multimedia/00inv-callout-medicaid-gjzq/00inv-callout-medicaid-gjzq-mediumSquareAt3X.jpg",
+      "author": "Chris Hamby",
+      "excerpt": "The New York Times would like to hear from people about Medicaid trying to recoup money after the death of a loved one.",
+      "source": "NYT"
+    },
+    {
+      "title": "Republicans Cut Taxes to Win the Midterms. It May Not Work Out.",
+      "link": "https://www.nytimes.com/2026/10/23/business/salt-cap-midterm-elections.html",
+      "pubDate": "2026-10-23T14:24:54.000Z",
+      "image": "https://static01.nyt.com/images/2026/10/23/multimedia/23dc-tax-election-01-thpm/23dc-tax-election-01-thpm-mediumSquareAt3X.jpg",
+      "author": "Andrew Duehren",
+      "excerpt": "Among the stakes in next month’s election is the long-running question of whether tax cuts can shape how people vote.",
+      "source": "NYT"
+    },
+    {
+      "title": "Ambush of Salvadoran Soldiers Escalates Haiti’s Anti-Gang Mission",
+      "link": "https://www.nytimes.com/2026/10/23/world/americas/el-salvador-military-haiti-gangs.html",
+      "pubDate": "2026-10-23T13:33:27.000Z",
+      "image": "https://static01.nyt.com/images/2026/10/23/world/23haiti-force/23haiti-force-mediumSquareAt3X.jpg",
+      "author": "Frances Robles",
+      "excerpt": "With four soldiers missing, Haiti’s new Gang Suppression Force, already off to a rocky start, is facing its first crisis.",
+      "source": "NYT"
+    },
+    {
+      "title": "How the Decline of Western NY Defined Kathy Hochul’s Politics",
+      "link": "https://www.nytimes.com/2026/10/23/nyregion/kathy-hochul-western-new-york-upbringing-governor.html",
+      "pubDate": "2026-10-23T12:57:42.000Z",
+      "image": "https://static01.nyt.com/images/2026/10/21/multimedia/23met-hochul-01-mctp/23met-hochul-01-mctp-mediumSquareAt3X.jpg",
+      "author": "Benjamin Oreskes",
+      "excerpt": "Gov. Kathy Hochul’s vision for New York has been largely shaped by her upbringing in a failing western New York town and her family’s move up from a trailer park to affluence.",
       "source": "NYT"
     },
     {
@@ -896,75 +1049,12 @@
       "source": "NYT"
     },
     {
-      "title": "Alpha School Claims to Teach Kids Twice as Fast. Many Don’t Make It.",
-      "link": "https://www.nytimes.com/2026/10/23/us/alpha-school-ai-education-parents.html",
-      "pubDate": "2026-10-23T12:31:23.000Z",
-      "image": "https://static01.nyt.com/images/2026/10/23/multimedia/23nat-alpha-wtkj/23nat-alpha-wtkj-mediumSquareAt3X.jpg",
-      "author": "Dana Goldstein",
-      "excerpt": "Alpha School, a private network, is spreading into public education. While its students’ test scores are high, some parents and educators say it doesn’t live up to the hype.",
-      "source": "NYT"
-    },
-    {
-      "title": "As Brazil Prepares for Election Runoff, a Town Offers Clues to Bolsonaro’s Rise",
-      "link": "https://www.nytimes.com/2026/10/23/world/americas/brazil-election-voters-lula-bolsonaro-minas-gerais.html",
-      "pubDate": "2026-10-23T11:38:12.000Z",
-      "image": "https://static01.nyt.com/images/2026/10/20/world/00int-brazil-minas-02/00int-brazil-minas-02-mediumSquareAt3X.jpg",
-      "author": "Adam B. Ellick and Seth Kugel",
-      "excerpt": "Deep in cattle country, voter sentiments in an evangelical stronghold help explain why the country’s leftist president is the underdog in Sunday’s election.",
-      "source": "NYT"
-    },
-    {
       "title": "You Are Being Watched",
       "link": "https://www.nytimes.com/2026/10/23/briefing/you-are-being-watched.html",
       "pubDate": "2026-10-23T11:33:38.000Z",
       "image": "https://static01.nyt.com/images/2026/10/22/briefing/topper-camera/topper-camera-mediumSquareAt3X.jpg",
       "author": "Sam Sifton",
       "excerpt": "Especially on the southern border.",
-      "source": "NYT"
-    },
-    {
-      "title": "Most Voters Believe the Midterm Elections Will Be Accurate, Poll Finds",
-      "link": "https://www.nytimes.com/2026/10/23/us/politics/election-integrity-trust-poll.html",
-      "pubDate": "2026-10-23T11:15:48.000Z",
-      "image": "https://static01.nyt.com/images/2026/10/23/multimedia/23pol-poll-elections-zjct/23pol-poll-elections-zjct-mediumSquareAt3X.jpg",
-      "author": "Richard Fausset and Ruth Igielnik",
-      "excerpt": "But about half expressed concerns that Republicans could try to overturn the results, a New York Times/Siena poll found.",
-      "source": "NYT"
-    },
-    {
-      "title": "The A.I.-Powered Cameras Watching Border Towns, and a Midterms Attack Ad Causes Outrage",
-      "link": "https://www.nytimes.com/2026/10/23/podcasts/the-headlines/ai-cameras-border-towns-midterms-ad.html",
-      "pubDate": "2026-10-23T11:14:09.000Z",
-      "image": "https://static01.nyt.com/images/2026/10/23/multimedia/23theheadlines-surveillance-pwgf/23theheadlines-surveillance-pwgf-mediumSquareAt3X.jpg",
-      "author": "Will Jarvis, Margaret Kadifa, Jake Lucas, Ian Stewart, Tracy Mumford, Bora Erden and Amelia Nierenberg",
-      "excerpt": "Plus, the Friday news quiz.",
-      "source": "NYT"
-    },
-    {
-      "title": "Palestinian Gunmen Open Fire on Israelis in the West Bank, Officials Say",
-      "link": "https://www.nytimes.com/2026/10/23/world/middleeast/west-bank-shooting-israel.html",
-      "pubDate": "2026-10-23T10:28:15.000Z",
-      "image": "https://static01.nyt.com/images/2026/10/23/multimedia/23Int-Israel-Shooting-02-lvmh/23Int-Israel-Shooting-02-lvmh-mediumSquareAt3X.jpg",
-      "author": "Adam Rasgon",
-      "excerpt": "Five people were wounded in the attack, days before national elections, health workers said. The Israeli military said its soldiers had killed two assailants.",
-      "source": "NYT"
-    },
-    {
-      "title": "The Michigan Senate Race Keeps Getting Nastier",
-      "link": "https://www.nytimes.com/2026/10/23/us/rogers-michigan-republican-senate.html",
-      "pubDate": "2026-10-23T10:22:32.000Z",
-      "image": "https://static01.nyt.com/images/2026/10/23/us/23pol-rogers-michigan/23pol-rogers-michigan-mediumSquareAt3X.png",
-      "author": "Michael Kruse",
-      "excerpt": "Supporters of Mike Rogers, the Republican candidate, have described his Democratic opponent, Dr. Abdul El-Sayed, as un-American and worse.",
-      "source": "NYT"
-    },
-    {
-      "title": "The Meaning of the Republican War Over Ramaswamy’s Vile Ad",
-      "link": "https://www.nytimes.com/2026/10/23/opinion/acton-ramaswamy-ad-trump-ohio.html",
-      "pubDate": "2026-10-23T10:11:50.000Z",
-      "image": "https://static01.nyt.com/images/2026/10/23/multimedia/23goldberg-qmkb/23goldberg-qmkb-mediumSquareAt3X.jpg",
-      "author": "Michelle Goldberg",
-      "excerpt": "The G.O.P. nominee in Ohio has given conservatives space to reckon with the ethical degradation of Trumpism.",
       "source": "NYT"
     },
     {
@@ -977,93 +1067,12 @@
       "source": "NYT"
     },
     {
-      "title": "Fearing Mass A.I. Layoffs, Some in Congress Eye Ways to Aid Workers",
-      "link": "https://www.nytimes.com/2026/10/23/business/ai-jobs-layoffs-congress.html",
-      "pubDate": "2026-10-23T09:03:00.000Z",
-      "image": "https://static01.nyt.com/images/2026/10/23/multimedia/23dc-ai-jobs-01-hmcb/23dc-ai-jobs-01-hmcb-mediumSquareAt3X.jpg",
-      "author": "Tony Romm",
-      "excerpt": "A bill to bolster the nation’s unemployment insurance program reflects the concern — and the risks — in Washington.",
-      "source": "NYT"
-    },
-    {
-      "title": "Does Congress Need to Approve the Arch? Trump Says It Did 100 Years Ago.",
-      "link": "https://www.nytimes.com/2026/10/23/upshot/arch-trump-washington-history.html",
-      "pubDate": "2026-10-23T09:02:30.000Z",
-      "image": "https://static01.nyt.com/images/2026/10/26/upshot/00up-arch04/00up-arch04-mediumSquareAt3X.png",
-      "author": "Emily Badger",
-      "excerpt": "The administration says the arch fulfills the “historic design intent” of a proposal from the 1920s. But does it honor history or flout it?",
-      "source": "NYT"
-    },
-    {
-      "title": "Melanoma Vaccine Ushers in New Hope for Cancer Patients",
-      "link": "https://www.nytimes.com/2026/10/23/well/cancer-vaccine-melanoma-study.html",
-      "pubDate": "2026-10-23T09:00:39.000Z",
-      "image": "https://static01.nyt.com/images/2026/10/23/well/23Well-CANCER-VAX/23Well-CANCER-VAX-mediumSquareAt3X.jpg",
-      "author": "Nina Agrawal",
-      "excerpt": "Beyond melanoma, scientists are studying cancer vaccines for glioblastoma, pancreatic cancer and more.",
-      "source": "NYT"
-    },
-    {
-      "title": "Late Night Dunks on Trump for Planning to Rename an Ocean",
-      "link": "https://www.nytimes.com/2026/10/23/arts/television/late-night-trump-ocean.html",
-      "pubDate": "2026-10-23T05:52:30.000Z",
-      "image": null,
-      "author": "Trish Bendix",
-      "excerpt": "“Once again, 12 days before this election, it’s good to see him locked in on the really big issues,” Jimmy Fallon said on “The Tonight Show.”",
-      "source": "NYT"
-    },
-    {
-      "title": "Arms Race Intensifies in Korea as the North Is Emboldened by Russia Alliance",
-      "link": "https://www.nytimes.com/2026/10/23/world/asia/korea-missiles-drones-russia.html",
-      "pubDate": "2026-10-23T05:13:32.000Z",
-      "image": "https://static01.nyt.com/images/2026/10/21/multimedia/00int-korea-arms-01-vbct/00int-korea-arms-01-vbct-mediumSquareAt3X-v2.jpg",
-      "author": "Choe Sang-Hun",
-      "excerpt": "A rare escalation this month exposed the increasingly lethal arsenals the two Koreas are building up across the world’s most heavily fortified border.",
-      "source": "NYT"
-    },
-    {
-      "title": "How Pastors Mobilize Communities in Congo’s Fight Against Ebola",
-      "link": "https://www.nytimes.com/2026/10/23/world/africa/congo-ebola-catholic-church-rumors.html",
-      "pubDate": "2026-10-23T04:01:16.000Z",
-      "image": "https://static01.nyt.com/images/2026/10/23/multimedia/23int-ebola-congo-religion-promo-lqwc/23int-ebola-congo-religion-promo-lqwc-mediumSquareAt3X.jpg",
-      "author": "Finbarr O’Reilly",
-      "excerpt": "As health care workers fought to control the latest outbreak this year, they got crucial aid from churches in beating back fear and misinformation.",
-      "source": "NYT"
-    },
-    {
-      "title": "Gadi Eisenkot Couldn’t Be More Unlike Netanyahu. Can He Beat Him?",
-      "link": "https://www.nytimes.com/2026/10/23/world/middleeast/gadi-eisenkot-israel-election.html",
-      "pubDate": "2026-10-23T04:01:13.000Z",
-      "image": "https://static01.nyt.com/images/2026/10/21/multimedia/21Israel-Eisenkot-01-mvtj/21Israel-Eisenkot-01-mvtj-mediumSquareAt3X.jpg",
-      "author": "David M. Halbfinger, Natan Odenheimer and Johnatan Reiss",
-      "excerpt": "Mr. Eisenkot, an ex-military chief leading in the polls, calls the Israeli prime minister an “anti-leader.” But his low-key campaigning style is worrying supporters.",
-      "source": "NYT"
-    },
-    {
-      "title": "Pete Ricketts’s Wealth Puts Class at the Center of Nebraska’s Senate Race",
-      "link": "https://www.nytimes.com/2026/10/22/us/politics/pete-ricketts-billionaire-nebraska-senate-race.html",
-      "pubDate": "2026-10-23T01:04:08.000Z",
-      "image": "https://static01.nyt.com/images/2026/10/23/multimedia/23nat-income-disparities2-tzpf/23nat-income-disparities2-tzpf-mediumSquareAt3X.jpg",
-      "author": "Emma Schartz",
-      "excerpt": "In a year when the wealth of the rich soared while workers lost ground to inflation, class has become political, especially in the Nebraska Senate race.",
-      "source": "NYT"
-    },
-    {
-      "title": "New York City Passes Horse Carriage Ban, Ending a Central Park Tradition",
-      "link": "https://www.nytimes.com/2026/10/22/nyregion/nyc-horse-carriage-ban-workers-jobs.html",
-      "pubDate": "2026-10-23T00:40:08.000Z",
-      "image": "https://static01.nyt.com/images/2026/10/22/multimedia/22met-carriage-horses-mgvq/22met-carriage-horses-mgvq-mediumSquareAt3X.jpg",
-      "author": "Ed Shanahan and Dana Rubinstein",
-      "excerpt": "A passenger’s death in June became the impetus for the City Council to ban the practice, but the bill will likely face a court challenge before being implemented in 2028.",
-      "source": "NYT"
-    },
-    {
-      "title": "Ebola Outbreak in Africa Reaches Widest Expansion Ever",
-      "link": "https://www.nytimes.com/2026/10/22/health/ebola-nigeria-congo-kenya.html",
-      "pubDate": "2026-10-22T16:41:13.000Z",
-      "image": "https://static01.nyt.com/images/2026/10/22/multimedia/22dc-ebola-mcvt/22dc-ebola-mcvt-mediumSquareAt3X.jpg",
-      "author": "Apoorva Mandavilli",
-      "excerpt": "Health officials are urgently seeking answers about the origins of a case newly identified in Nigeria, the first in that West African nation.",
+      "title": "Why Trump’s 2024 Voters Are Turning on Him",
+      "link": "https://www.nytimes.com/2026/10/23/opinion/ezra-klein-podcast-sarah-longwell.html",
+      "pubDate": "2026-10-23T09:02:57.000Z",
+      "image": "https://static01.nyt.com/images/2026/10/23/opinion/23eks-longwell-image01/23eks-longwell-image01-mediumSquareAt3X.jpg",
+      "author": "Ezra Klein, Annie Galvin and Jack McCordick",
+      "excerpt": "Sarah Longwell has conducted hundreds of focus groups with Trump voters, and many of them are feeling betrayed.",
       "source": "NYT"
     }
   ]
