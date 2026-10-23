@@ -1,11 +1,47 @@
 {
   "spaceNews": [
     {
+      "title": "NASA Outlines the Details of Artemis III and IV Missions",
+      "link": "https://payloadspace.com/nasa-outlines-the-details-of-artemis-iii-and-iv-missions/",
+      "pubDate": "2026-10-23T21:13:28.000Z",
+      "image": "https://payloadspace.com/wp-content/uploads/2026/10/artemis-announcement-advisory-oct-13-200x200.webp",
+      "author": "Douglas Gorman",
+      "excerpt": "NASA still wants to return US astronauts to the Moon in 2028. Today, officials shared a progress update on their efforts, as well as the finer details of the mission plans for Artemis III and IV, targeting flights in 2027 and 2028, respectively. Long story short: NASA remains confident it can meet the timeline for… The",
+      "source": "Payload"
+    },
+    {
+      "title": "Announcing the winners of Astronomy Magazine’s 2026 Astrophotography Contest",
+      "link": "https://www.astronomy.com/observing/announcing-the-winners-of-astronomy-magazines-2026-astrophotography-contest/",
+      "pubDate": "2026-10-23T20:21:06.000Z",
+      "image": null,
+      "author": "Astronomy Staff",
+      "excerpt": "Astronomy magazine is proud to announce the winners of its 2026 Astrophotography Contest, presented by Celestron — the magazine’s first photo contest in 13 years. More than 1,400 entries poured in from photographers around the world, with images ranging from faint nebulae and stunning planetary close-ups to dramatic so",
+      "source": "Astronomy Magazine"
+    },
+    {
+      "title": "Nov. 5: Satellite Mission Management at the Edge",
+      "link": "https://spacenews.com/satellite-mission-management-at-the-edge-event/",
+      "pubDate": "2026-10-23T19:53:25.000Z",
+      "image": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/10/2026-11-05-RTX-SpaceNews-2000-1500-scaled.jpg?fit=1024%2C768&amp;ssl=1",
+      "author": "SpaceNews Editor",
+      "excerpt": "Join us to explore how emerging technologies and commercial capabilities are transforming satellite operations The post Nov. 5: Satellite Mission Management at the Edge appeared first on SpaceNews.",
+      "source": "SpaceNews"
+    },
+    {
+      "title": "RS-25 Engine Tests at NASA Stennis",
+      "link": "https://www.nasa.gov/image-article/rs-25-engine-tests-at-nasa-stennis/",
+      "pubDate": "2026-10-23T18:57:04.000Z",
+      "image": "https://www.nasa.gov/wp-content/uploads/2026/10/ssc-20261021-s00947horig.jpg?w=2048",
+      "author": "HQ Web Team",
+      "excerpt": "Teams at NASA’s Stennis Space Center near Bay St. Louis, Mississippi tested RS-25 engine No. 10001 on Oct. 21, 2026. The hot fire test lasted for almost eight-and-a-half minutes (500 seconds), the same amount of time RS-25 engines fire during launch of NASA’s SLS (Space Launch System) rocket, with a 111% power level. F",
+      "source": "NASA"
+    },
+    {
       "title": "NASA, Virginia Launch Power Partnership for Energy Security",
       "link": "https://www.nasa.gov/centers-and-facilities/langley/nasa-power-energy-partnership/",
       "pubDate": "2026-10-23T17:50:21.000Z",
       "image": "https://www.nasa.gov/wp-content/uploads/2026/10/lrc-2026-ocio-p-03524.jpg?w=2048",
-      "author": "Charles G. Hatfield",
+      "author": "Holly Rink",
       "excerpt": "NASA is helping to foster long-term energy security in Virginia. NASA’s Langley Research Center in Hampton, Virginia, is partnering with the Virginia Department of Energy to support informed decisions for effective energy generation, delivery and use by providing solar, meteorological, and future weather risk datasets ",
       "source": "NASA"
     },
@@ -154,15 +190,6 @@
       "source": "NASA"
     },
     {
-      "title": "NASA Conducts RS-25 Engine Test in Support of Future Artemis Missions",
-      "link": "https://www.nasa.gov/image-article/rs-25-engine-test-in-support-of-future-artemis-missions/",
-      "pubDate": "2026-10-21T20:51:50.000Z",
-      "image": "https://www.nasa.gov/wp-content/uploads/2026/10/ssc-20261021-s00947h.jpg?w=1024",
-      "author": "LaToya Dean",
-      "excerpt": "NASA tested RS-25 engine No. 10001 on Oct. 21 on the Fred Haise Test Stand at NASA’s Stennis Space Center near Bay St. Louis, Mississippi. Test teams fired the developmental engine for almost eight-and-a-half minutes (500 seconds), the same amount of time RS-25 engines fire during launch of NASA’s SLS (Space Launch Sys",
-      "source": "NASA"
-    },
-    {
       "title": "TechnoMile Recognized as a 2026 Inc. Power Partner Award Winner",
       "link": "https://spacenews.com/technomile-recognized-as-a-2026-inc-power-partner-award-winner/",
       "pubDate": "2026-10-21T15:26:29.000Z",
@@ -217,12 +244,12 @@
       "source": "Payload"
     },
     {
-      "title": "Bad weather scrubs launch of 27 Starlink satellites on Falcon 9 rocket from Vandenberg SFB",
+      "title": "Another try for Falcon 9 launch of 27 Starlink satellites on Falcon 9 rocket from Vandenberg",
       "link": "https://spaceflightnow.com/2026/10/20/live-coverage-spacex-to-launch-27-starlink-satellites-on-falcon-9-rocket-from-vandenberg-sfb-5/",
       "pubDate": "2026-10-20T21:18:11.000Z",
       "image": "https://spaceflightnow.com/wp-content/uploads/2026/10/20261022-Starlink-15-15-scrub.jpg",
       "author": "Will Robinson-Smith",
-      "excerpt": "For a third day running SpaceX called off the launch of 27 Starlink satellites from Vandenberg Space Force Base in California. The next launch window for the Falcon 9 rocket opens at 2:30 p.m. PDT (5:30 p.m. EDT / 2130 UTC) on Friday, Oct. 23.",
+      "excerpt": "SpaceX will make a fourth attempt to launch a Falcon 9 rocket from Vandenberg Space Force Base. Liftoff is scheduled for 3:48 p.m. PDT (6:48 p.m. EDT / 2248 UTC) on Friday, Oct. 23.",
       "source": "Spaceflight Now"
     },
     {
@@ -323,15 +350,6 @@
       "author": "Will Robinson-Smith",
       "excerpt": "The launch infrastructure improvements also include a substantial manufacturing expansion at Rocket Park and the addition of new landing barges.",
       "source": "Spaceflight Now"
-    },
-    {
-      "title": "RATLOG Wants to Cut ~90% of a Rocket Engine’s Parts",
-      "link": "https://payloadspace.com/ratlog-wants-to-cut-90-of-a-rocket-engines-parts/",
-      "pubDate": "2026-10-16T12:00:00.000Z",
-      "image": "https://payloadspace.com/wp-content/uploads/2026/10/RATLOG-prototype-Test-1-200x200.png",
-      "author": "Victoria Woodburn",
-      "excerpt": "The heavy-lift rocket startup debuted on Y Combinator as part of the Fall 2026 batch. The post RATLOG Wants to Cut ~90% of a Rocket Engine’s Parts appeared first on Payload.",
-      "source": "Payload"
     },
     {
       "title": "The Sky This Week from October 16 to 23: The Orionid meteor shower peaks",
@@ -523,15 +541,6 @@
       "source": "Astronomy Magazine"
     },
     {
-      "title": "Far-infrared telescope PRIMA advances toward 2033 launch",
-      "link": "https://www.astronomy.com/science/far-infrared-telescope-prima-advances-toward-2033-launch/",
-      "pubDate": "2026-10-08T19:51:56.000Z",
-      "image": null,
-      "author": "Brooks Mendenhall",
-      "excerpt": "NASA has selected the far-infrared space telescope mission PRIMA (PRobe far-Infrared Mission for Astrophysics) to move to the next stage in its development. PRIMA will be the first in a new mission class and help scientists learn more about the evolution of the universe. PRIMA will carry a 5.9-foot (1.8-meter) mirror, ",
-      "source": "Astronomy Magazine"
-    },
-    {
       "title": "First Guardians complete Jungle Operations Training Course in Panama",
       "link": "https://www.spaceforce.mil/News/Article-Display/Article/4622101/first-guardians-complete-jungle-operations-training-course-in-panama/",
       "pubDate": "2026-10-08T15:16:17.000Z",
@@ -539,15 +548,6 @@
       "author": "U.S. Army Sgt. Alyssa Norton",
       "excerpt": "Two U.S. Space Force officers became the first Guardians to complete the Jungle Operations Training Course-Panama at Aeronaval Base Cristóbal Colón.",
       "source": "Space Force"
-    },
-    {
-      "title": "What will it take to build a moon base?",
-      "link": "https://spacenews.com/what-will-it-take-to-build-a-moon-base/",
-      "pubDate": "2026-10-08T13:57:38.000Z",
-      "image": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/10/space-minds-podcast-jhu-moon-2000-1500.jpg?fit=1024%2C768&amp;ssl=1",
-      "author": "SpaceNews Editor",
-      "excerpt": "In this episode, a panel of industry experts discuss what’s needed to build a moon base. During a live event at the Johns Hopkins University Bloomberg Center, leaders Astrolab, Firefly […] The post What will it take to build a moon base? appeared first on SpaceNews.",
-      "source": "SpaceNews"
     },
     {
       "title": "Why gatekeeping is needed in the age of AI",
@@ -860,9 +860,72 @@
   ],
   "nytNews": [
     {
+      "title": "‘I Have to Go In’: Kaylub Giamanco Describes Killing Gunman in Oregon School Shooting",
+      "link": "https://www.nytimes.com/2026/10/23/us/oregon-shooting-gunman-kaylub-giamanco.html",
+      "pubDate": "2026-10-23T21:33:59.000Z",
+      "image": "https://static01.nyt.com/images/2026/10/23/multimedia/23xp-bend-01-hmbz/23xp-bend-01-hmbz-mediumSquareAt3X.jpg",
+      "author": "Michael Levenson",
+      "excerpt": "Kaylub Giamanco told Oregon Public Broadcasting that he happened to be driving by the Silver Rail Elementary School in Bend when he saw a gunman preparing to enter the school.",
+      "source": "NYT"
+    },
+    {
+      "title": "Ambush of Salvadoran Soldiers Escalates Haiti’s Anti-Gang Mission",
+      "link": "https://www.nytimes.com/2026/10/23/world/americas/el-salvador-military-haiti-gangs.html",
+      "pubDate": "2026-10-23T21:29:29.000Z",
+      "image": "https://static01.nyt.com/images/2026/10/23/world/23haiti-force/23haiti-force-mediumSquareAt3X.jpg",
+      "author": "Frances Robles",
+      "excerpt": "With four soldiers missing, Haiti’s new Gang Suppression Force, already off to a rocky start, is facing its first crisis.",
+      "source": "NYT"
+    },
+    {
+      "title": "What Hundreds of Focus Groups With Trump Voters Revealed",
+      "link": "https://www.nytimes.com/2026/10/23/opinion/ezra-klein-podcast-sarah-longwell.html",
+      "pubDate": "2026-10-23T21:13:11.000Z",
+      "image": "https://static01.nyt.com/images/2026/10/23/opinion/23eks-longwell-image01/23eks-longwell-image01-mediumSquareAt3X.jpg",
+      "author": "Ezra Klein, Annie Galvin and Jack McCordick",
+      "excerpt": "Sarah Longwell has conducted hundreds of focus groups with Trump voters, and many of them are feeling betrayed.",
+      "source": "NYT"
+    },
+    {
+      "title": "Here’s What Democrats Plan to Do With Their Power if They Win Back Congress",
+      "link": "https://www.nytimes.com/2026/10/23/us/politics/democrats-congress-majority-agenda.html",
+      "pubDate": "2026-10-23T20:57:08.000Z",
+      "image": "https://static01.nyt.com/images/2026/10/23/multimedia/23dc-dems-power-01-cvlh/23dc-dems-power-01-cvlh-mediumSquareAt3X.jpg",
+      "author": "Annie Karni",
+      "excerpt": "Democrats have campaigned on lowering living costs and holding the Trump administration accountable. This is a look at their to-do list if they win the majority.",
+      "source": "NYT"
+    },
+    {
+      "title": "Two Former F.B.I. Officials Charged With False Statements About Hunter Biden",
+      "link": "https://www.nytimes.com/2026/10/23/us/politics/hunter-biden-ex-fbi-officials-charged.html",
+      "pubDate": "2026-10-23T20:54:25.000Z",
+      "image": "https://static01.nyt.com/images/2026/10/23/multimedia/23dc-fbi-bglz/23dc-fbi-bglz-mediumSquareAt3X.jpg",
+      "author": "Alan Feuer, Charlie Savage and Zach Montague",
+      "excerpt": "The charges intensified the administration’s efforts to go after the law enforcement and intelligence personnel who cast doubt on unsubstantiated claims that Joseph R. Biden Jr. engaged in corrupt dealings in Ukraine.",
+      "source": "NYT"
+    },
+    {
+      "title": "Ahead of Tight Race, Trump Swaps Tariffs on Some Canadian Goods",
+      "link": "https://www.nytimes.com/2026/10/23/business/trump-susan-collins-canada-tariffs.html",
+      "pubDate": "2026-10-23T20:29:40.000Z",
+      "image": "https://static01.nyt.com/images/2026/10/23/multimedia/23dc-collins-tariffs-tkwm/23dc-collins-tariffs-tkwm-mediumSquareAt3X.jpg",
+      "author": "Alan Rappeport and Ana Swanson",
+      "excerpt": "The move was announced by Senator Susan Collins, a Maine Republican who faces a tough re-election fight amid rising prices.",
+      "source": "NYT"
+    },
+    {
+      "title": "Global Oil Price Hits $116 a Barrel, Highest Since April",
+      "link": "https://www.nytimes.com/2026/10/23/business/energy-environment/oil-prices-iran-war.html",
+      "pubDate": "2026-10-23T20:03:29.000Z",
+      "image": "https://static01.nyt.com/images/2026/04/17/world/17biz-iran-hormuz-oil-cov/17biz-iran-hormuz-oil-cov-mediumSquareAt3X.png",
+      "author": "Joe Rennison",
+      "excerpt": "Investors have grown increasingly concerned that the war in Iran could escalate again, putting energy supplies at greater risk.",
+      "source": "NYT"
+    },
+    {
       "title": "How Worried Should We Be About the Economy? Let’s Look at 2008.",
       "link": "https://www.nytimes.com/2026/10/23/business/economy-2008-financial-crisis.html",
-      "pubDate": "2026-10-23T17:41:27.000Z",
+      "pubDate": "2026-10-23T18:46:44.000Z",
       "image": "https://static01.nyt.com/images/2026/10/25/business/25bizsun-Crash-Again-illo/25bizsun-Crash-Again-illo-mediumSquareAt3X.jpg",
       "author": "Peter Coy",
       "excerpt": "It’s not impossible to spot the characteristics of a brewing financial crisis. We can look to 2008 for clues.",
@@ -871,7 +934,7 @@
     {
       "title": "Lawmakers Plan to Block Trump Nominees Over Ukraine Satellite Network Restrictions",
       "link": "https://www.nytimes.com/2026/10/23/us/politics/senators-trump-nominees-ukraine-starlink.html",
-      "pubDate": "2026-10-23T17:35:32.000Z",
+      "pubDate": "2026-10-23T18:18:46.000Z",
       "image": "https://static01.nyt.com/images/2026/10/23/multimedia/23dc-cong-ukraine-01-qmlt/23dc-cong-ukraine-01-qmlt-mediumSquareAt3X.jpg",
       "author": "Robert Jimison",
       "excerpt": "Senators have warned the White House they will withhold confirmation votes until the administration ensures the restoration of communications capabilities used by Ukraine’s military.",
@@ -887,39 +950,12 @@
       "source": "NYT"
     },
     {
-      "title": "Roy Cooper Has Never Lost an Election. Can He Flip North Carolina’s Senate Seat?",
-      "link": "https://www.nytimes.com/2026/10/23/us/politics/roy-cooper-north-carolina-senate-election.html",
-      "pubDate": "2026-10-23T17:18:30.000Z",
-      "image": "https://static01.nyt.com/images/2026/10/23/multimedia/23pol-cooper-north-carolina-qztm/23pol-cooper-north-carolina-qztm-mediumSquareAt3X.jpg",
-      "author": "Patricia Mazzei",
-      "excerpt": "North Carolina has not elected a Democrat to the Senate since 2008. Can Roy Cooper break that spell?",
-      "source": "NYT"
-    },
-    {
       "title": "Under U.S. Watch, Venezuela Grapples With Tensions Over Democracy",
       "link": "https://www.nytimes.com/2026/10/23/us/politics/venezuela-trump-rubio-elections.html",
       "pubDate": "2026-10-23T17:15:02.000Z",
-      "image": "https://static01.nyt.com/images/2026/10/23/multimedia/23dc-trump-venezuela-mlhb/23dc-trump-venezuela-mlhb-mediumSquareAt3X.jpg",
+      "image": "https://static01.nyt.com/images/2026/10/23/multimedia/23dc-trump-venezuela-mlhb/23dc-trump-venezuela-mlhb-mediumSquareAt3X-v2.jpg",
       "author": "Edward Wong and Julie Turkewitz",
       "excerpt": "President Trump says Venezuela is not ready for elections, and he focuses instead on its oil. But Secretary of State Marco Rubio is nudging talks between opposing politicians.",
-      "source": "NYT"
-    },
-    {
-      "title": "Here’s What Democrats Plan to Do With Their Power if They Win Back Congress",
-      "link": "https://www.nytimes.com/2026/10/23/us/politics/democrats-congress-majority-agenda.html",
-      "pubDate": "2026-10-23T17:14:19.000Z",
-      "image": "https://static01.nyt.com/images/2026/10/23/multimedia/23dc-dems-power-01-cvlh/23dc-dems-power-01-cvlh-mediumSquareAt3X.jpg",
-      "author": "Annie Karni",
-      "excerpt": "Democrats have campaigned on lowering living costs and holding the Trump administration accountable. This is a look at their to-do list if they win the majority.",
-      "source": "NYT"
-    },
-    {
-      "title": "Palestinian Gunmen Open Fire on Israelis in the West Bank, Officials Say",
-      "link": "https://www.nytimes.com/2026/10/23/world/middleeast/west-bank-shooting-israel.html",
-      "pubDate": "2026-10-23T17:11:13.000Z",
-      "image": "https://static01.nyt.com/images/2026/10/23/multimedia/23Int-Israel-Shooting-02-lvmh/23Int-Israel-Shooting-02-lvmh-mediumSquareAt3X-v2.jpg",
-      "author": "Adam Rasgon",
-      "excerpt": "The Israeli military said two soldiers and two attackers had been killed, and three soldiers wounded. Prime Minister Benjamin Netanyahu vowed to launch a major offensive in the Israeli-occupied territory.",
       "source": "NYT"
     },
     {
@@ -968,66 +1004,12 @@
       "source": "NYT"
     },
     {
-      "title": "Global Oil Price Hits $117 a Barrel, Highest Since April",
-      "link": "https://www.nytimes.com/2026/10/23/business/energy-environment/oil-prices-iran-war.html",
-      "pubDate": "2026-10-23T16:14:44.000Z",
-      "image": "https://static01.nyt.com/images/2026/04/17/world/17biz-iran-hormuz-oil-cov/17biz-iran-hormuz-oil-cov-mediumSquareAt3X.png",
-      "author": "Joe Rennison",
-      "excerpt": "Investors have grown increasingly concerned that the war in Iran could escalate again, putting energy supplies at greater risk.",
-      "source": "NYT"
-    },
-    {
       "title": "Why Has This Teenager Tracked Down 11,377 Moths Since April?",
       "link": "https://www.nytimes.com/2026/10/23/style/violet-clinton-teen-moth-research.html",
       "pubDate": "2026-10-23T16:13:07.000Z",
       "image": "https://static01.nyt.com/images/2026/10/12/multimedia/12ST-TEEN-MOTH-RESEARCHER-promo-ghlk/12ST-TEEN-MOTH-RESEARCHER-promo-ghlk-mediumSquareAt3X.jpg",
       "author": "Callie Holtermann and Hilary Swift",
       "excerpt": "Violet Clinton is doing award-winning entomological field research. Her dad still has to buy the beer for her moth bait.",
-      "source": "NYT"
-    },
-    {
-      "title": "Big Names Flock to Ruby-Red Florida to Sway Voters in Unexpectedly Close Contests",
-      "link": "https://www.nytimes.com/2026/10/23/us/politics/florida-republicans-midterms-.html",
-      "pubDate": "2026-10-23T16:09:51.000Z",
-      "image": "https://static01.nyt.com/images/2026/10/23/multimedia/23pol-weird-florida-hkzm/23pol-weird-florida-hkzm-mediumSquareAt3X.jpg",
-      "author": "Patricia Mazzei",
-      "excerpt": "President Trump will rally on Friday in a Republican state where Democrats have their eye on several House races.",
-      "source": "NYT"
-    },
-    {
-      "title": "U.S. Government Takes a Cut of Chip Business in Japan-Funded Deal",
-      "link": "https://www.nytimes.com/2026/10/23/business/economy/us-japan-chip-deal.html",
-      "pubDate": "2026-10-23T15:59:45.000Z",
-      "image": "https://static01.nyt.com/images/2026/10/23/multimedia/23dc-japan-invest-vmpl/23dc-japan-invest-vmpl-mediumSquareAt3X.jpg",
-      "author": "Ana Swanson",
-      "excerpt": "President Trump’s novel deal-making is on display in upstate New York, where the administration is funneling Japanese funds into a government-owned chip factory.",
-      "source": "NYT"
-    },
-    {
-      "title": "Share Your Experiences With Medicaid Claims for Repayment",
-      "link": "https://www.nytimes.com/2026/10/23/us/medicaid-repayment-claims-questions.html",
-      "pubDate": "2026-10-23T15:08:21.000Z",
-      "image": "https://static01.nyt.com/images/2026/10/13/multimedia/00inv-callout-medicaid-gjzq/00inv-callout-medicaid-gjzq-mediumSquareAt3X.jpg",
-      "author": "Chris Hamby",
-      "excerpt": "The New York Times would like to hear from people about Medicaid trying to recoup money after the death of a loved one.",
-      "source": "NYT"
-    },
-    {
-      "title": "Republicans Cut Taxes to Win the Midterms. It May Not Work Out.",
-      "link": "https://www.nytimes.com/2026/10/23/business/salt-cap-midterm-elections.html",
-      "pubDate": "2026-10-23T14:24:54.000Z",
-      "image": "https://static01.nyt.com/images/2026/10/23/multimedia/23dc-tax-election-01-thpm/23dc-tax-election-01-thpm-mediumSquareAt3X.jpg",
-      "author": "Andrew Duehren",
-      "excerpt": "Among the stakes in next month’s election is the long-running question of whether tax cuts can shape how people vote.",
-      "source": "NYT"
-    },
-    {
-      "title": "Ambush of Salvadoran Soldiers Escalates Haiti’s Anti-Gang Mission",
-      "link": "https://www.nytimes.com/2026/10/23/world/americas/el-salvador-military-haiti-gangs.html",
-      "pubDate": "2026-10-23T13:33:27.000Z",
-      "image": "https://static01.nyt.com/images/2026/10/23/world/23haiti-force/23haiti-force-mediumSquareAt3X.jpg",
-      "author": "Frances Robles",
-      "excerpt": "With four soldiers missing, Haiti’s new Gang Suppression Force, already off to a rocky start, is facing its first crisis.",
       "source": "NYT"
     },
     {
@@ -1040,39 +1022,12 @@
       "source": "NYT"
     },
     {
-      "title": "Hegseth Barred Trans Troops. Military Boards Are Rejecting Those Orders.",
-      "link": "https://www.nytimes.com/2026/10/23/us/trans-troops-military-boards-retain.html",
-      "pubDate": "2026-10-23T12:55:22.000Z",
-      "image": "https://static01.nyt.com/images/2026/10/22/multimedia/22nat-trans-boards-1-tjbk/22nat-trans-boards-1-tjbk-mediumSquareAt3X.jpg",
-      "author": "Dave Philipps",
-      "excerpt": "The service members at Navy and Marine Corps hearings are finding ways to keep trans troops in uniform.",
-      "source": "NYT"
-    },
-    {
-      "title": "You Are Being Watched",
-      "link": "https://www.nytimes.com/2026/10/23/briefing/you-are-being-watched.html",
-      "pubDate": "2026-10-23T11:33:38.000Z",
-      "image": "https://static01.nyt.com/images/2026/10/22/briefing/topper-camera/topper-camera-mediumSquareAt3X.jpg",
-      "author": "Sam Sifton",
-      "excerpt": "Especially on the southern border.",
-      "source": "NYT"
-    },
-    {
-      "title": "How Long Will Russians Put Up With War? Here’s What They Told Us.",
-      "link": "https://www.nytimes.com/2026/10/23/world/europe/russia-ukraine-public-opinion.html",
-      "pubDate": "2026-10-23T09:30:47.000Z",
-      "image": "https://static01.nyt.com/images/2026/10/22/multimedia/00int-russia-attitudes-01-hbkt/00int-russia-attitudes-01-hbkt-mediumSquareAt3X.jpg",
-      "author": "Valerie Hopkins",
-      "excerpt": "“Everything is fine” is a common refrain in a country used to adapting to a new normal.",
-      "source": "NYT"
-    },
-    {
-      "title": "Why Trump’s 2024 Voters Are Turning on Him",
-      "link": "https://www.nytimes.com/2026/10/23/opinion/ezra-klein-podcast-sarah-longwell.html",
-      "pubDate": "2026-10-23T09:02:57.000Z",
-      "image": "https://static01.nyt.com/images/2026/10/23/opinion/23eks-longwell-image01/23eks-longwell-image01-mediumSquareAt3X.jpg",
-      "author": "Ezra Klein, Annie Galvin and Jack McCordick",
-      "excerpt": "Sarah Longwell has conducted hundreds of focus groups with Trump voters, and many of them are feeling betrayed.",
+      "title": "Trump’s Attacks on Voting Raise Fears He Will Try to Challenge Midterm Results",
+      "link": "https://www.nytimes.com/2026/10/15/us/politics/trumps-attacks-voting-midterms.html",
+      "pubDate": "2026-10-16T19:49:20.000Z",
+      "image": "https://static01.nyt.com/images/2026/10/15/multimedia/15dc-trump-midterms-mqfb/15dc-trump-midterms-mqfb-mediumSquareAt3X.jpg",
+      "author": "Zolan Kanno-Youngs",
+      "excerpt": "Election officials say they worry the administration could use its own unsubstantiated claims to contest the vote in November.",
       "source": "NYT"
     }
   ]
