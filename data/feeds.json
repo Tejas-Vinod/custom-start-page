@@ -1,6 +1,33 @@
 {
   "spaceNews": [
     {
+      "title": "NASA, Partners Accelerate Lander Development for 2028 Moon Missions",
+      "link": "https://www.nasa.gov/missions/artemis/nasa-partners-accelerate-lander-development-for-2028-moon-missions/",
+      "pubDate": "2026-10-23T22:39:39.000Z",
+      "image": "https://images-assets.nasa.gov/image/art002e012632/art002e012632~large.jpg?w=1920&amp;h=1280&amp;fit=clip&amp;crop=faces%2Cfocalpoint",
+      "author": "Lee Mohon",
+      "excerpt": "As NASA returns humans to the lunar surface and establishes a long-term presence on our closest celestial neighbor, the agency and commercial human landing system providers Blue Origin and SpaceX have streamlined the designs and changed both concepts of operations for its future crewed landers. Since NASA established i",
+      "source": "NASA"
+    },
+    {
+      "title": "NASA’s Artemis III Mission to Test Future Moon Lander Operations",
+      "link": "https://www.nasa.gov/missions/artemis/nasas-artemis-iii-mission-to-test-future-moon-lander-operations/",
+      "pubDate": "2026-10-23T22:37:53.000Z",
+      "image": "https://www.nasa.gov/wp-content/uploads/2026/10/2-artemis-iii-con-ops-oct2026.jpg?w=2048",
+      "author": "Jason Costa",
+      "excerpt": "Before astronauts return to the lunar surface, NASA will first conduct one of the most ambitious and complex test missions in the agency’s history. Launching in 2027, Artemis III will send NASA astronauts Randy Bresnik, Frank Rubio, Andre Douglas, and ESA (European Space Agency) astronaut Luca Parmitano aboard the Orio",
+      "source": "NASA"
+    },
+    {
+      "title": "NASA’s Swift Mission Ends, Leaves Behind Scientific Bonanza",
+      "link": "https://science.nasa.gov/missions/swift/nasas-swift-mission-ends/",
+      "pubDate": "2026-10-23T21:51:19.000Z",
+      "image": "https://assets.science.nasa.gov/dynamicimage/assets/science/missions/swift-observatory/news/2026/end-of-mission/Swift_in_space_15_ac.jpg?w=2048&#038;h=1084&#038;fit=clip&#038;crop=faces%2Cfocalpoint",
+      "author": "",
+      "excerpt": "NASA’s Neil Gehrels Swift Observatory has ended its science mission now that the spacecraft is orbiting less than 171 miles (275 kilometers) above Earth’s surface. The greater atmospheric drag at this height prevents the satellite’s telescopes from steadily gazing at their astronomical targets. Swift conducted its fina",
+      "source": "NASA"
+    },
+    {
       "title": "NASA Outlines the Details of Artemis III and IV Missions",
       "link": "https://payloadspace.com/nasa-outlines-the-details-of-artemis-iii-and-iv-missions/",
       "pubDate": "2026-10-23T21:13:28.000Z",
@@ -87,7 +114,7 @@
       "pubDate": "2026-10-23T04:05:00.000Z",
       "image": "https://assets.science.nasa.gov/dynamicimage/assets/science/cds/apod/apod/2026/october/APOD_Lucy.jpg?w=2048&#038;h=1368&#038;fit=clip&#038;crop=faces%2Cfocalpoint",
       "author": "",
-      "excerpt": "APOD Science APOD APOD: 2026 October 23 –… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional ",
+      "excerpt": "APODScienceAPODAPOD: 2026 October 23 –…Today’s APODArchiveSubmissionsIndexSearchCalendarRSSEducationAboutDiscuss APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer. A",
       "source": "NASA"
     },
     {
@@ -163,33 +190,6 @@
       "source": "Payload"
     },
     {
-      "title": "APOD: 2026 October 22 – The First Green Star, WD J1330+6435",
-      "link": "https://science.nasa.gov/image-article/apod-2026-october-22-the-first-green-star-wd-j13306435/",
-      "pubDate": "2026-10-22T04:05:00.000Z",
-      "image": "https://assets.science.nasa.gov/dynamicimage/assets/science/cds/apod/apod/2026/october/green_wd_mark-garlick_annotated2.jpg?w=1280&#038;h=1280&#038;fit=clip&#038;crop=faces%2Cfocalpoint",
-      "author": "",
-      "excerpt": "APOD Science APOD APOD: 2026 October 22 – The… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professio",
-      "source": "NASA"
-    },
-    {
-      "title": "Fires Char New Guinea",
-      "link": "https://science.nasa.gov/earth/earth-observatory/fires-char-new-guinea/",
-      "pubDate": "2026-10-22T04:01:00.000Z",
-      "image": "https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2026/new-guinea-on-fire/papuanewguinea_vir_20261011.jpg?w=2048&#038;h=1460&#038;fit=clip&#038;crop=faces%2Cfocalpoint",
-      "author": "",
-      "excerpt": "Emissions on both sides of the island are unusually high as human-set fires spread in a landscape parched by drought.",
-      "source": "NASA"
-    },
-    {
-      "title": "Faster to Science: A Letter to the Science Community",
-      "link": "https://science.nasa.gov/directorates/smd/faster-to-science-a-letter-to-the-science-community/",
-      "pubDate": "2026-10-22T00:00:16.000Z",
-      "image": null,
-      "author": "",
-      "excerpt": "NASA Science wants to deliver science faster, so we’re changing how we compete and select missions. On Monday, October 26, we will host a virtual NASA Science Town Hall.",
-      "source": "NASA"
-    },
-    {
       "title": "TechnoMile Recognized as a 2026 Inc. Power Partner Award Winner",
       "link": "https://spacenews.com/technomile-recognized-as-a-2026-inc-power-partner-award-winner/",
       "pubDate": "2026-10-21T15:26:29.000Z",
@@ -244,12 +244,12 @@
       "source": "Payload"
     },
     {
-      "title": "Another try for Falcon 9 launch of 27 Starlink satellites on Falcon 9 rocket from Vandenberg",
+      "title": "SpaceX launches Starlink 15-15 mission following a trio of scrubs",
       "link": "https://spaceflightnow.com/2026/10/20/live-coverage-spacex-to-launch-27-starlink-satellites-on-falcon-9-rocket-from-vandenberg-sfb-5/",
       "pubDate": "2026-10-20T21:18:11.000Z",
       "image": "https://spaceflightnow.com/wp-content/uploads/2026/10/20261022-Starlink-15-15-scrub.jpg",
       "author": "Will Robinson-Smith",
-      "excerpt": "SpaceX will make a fourth attempt to launch a Falcon 9 rocket from Vandenberg Space Force Base. Liftoff is scheduled for 3:48 p.m. PDT (6:48 p.m. EDT / 2248 UTC) on Friday, Oct. 23.",
+      "excerpt": "SpaceX succeeded in its fourth attempt to launch a Falcon 9 rocket from Vandenberg Space Force Base. Liftoff happened at 3:48 p.m. PDT (6:48 p.m. EDT / 2248 UTC) on Friday, Oct. 23.",
       "source": "Spaceflight Now"
     },
     {
@@ -860,21 +860,66 @@
   ],
   "nytNews": [
     {
+      "title": "In U.S. Gas Talks With Kremlin, Hidden Financing for Alaska Project Emerges",
+      "link": "https://www.nytimes.com/2026/10/23/us/politics/in-us-gas-talks-with-kremlin-hidden-financing-for-alaska-project-emerges.html",
+      "pubDate": "2026-10-24T00:27:29.000Z",
+      "image": "https://static01.nyt.com/images/2026/10/23/multimedia/23dc-polar-lng-sub-bhcl/23dc-polar-lng-sub-bhcl-mediumSquareAt3X.jpg",
+      "author": "Anton Troianovski and Eric Lipton",
+      "excerpt": "Interviews and documents show a Russian energy giant secretly funded a U.S. firm. The deal has been discussed in talks to end the war in Ukraine.",
+      "source": "NYT"
+    },
+    {
+      "title": "Why Legal Experts See the Justice Dept.’s Alaska Election Challenge as Dubious",
+      "link": "https://www.nytimes.com/2026/10/23/us/alaska-senate-doj-lawsuit-trump.html",
+      "pubDate": "2026-10-23T23:22:41.000Z",
+      "image": "https://static01.nyt.com/images/2026/10/23/multimedia/23dc-alaska-legal-cfph/23dc-alaska-legal-cfph-mediumSquareAt3X.jpg",
+      "author": "Charlie Savage",
+      "excerpt": "No obvious legal authority supports a pre-emptive effort to block the certification of Alaska’s Senate election if the Republican incumbent narrowly loses.",
+      "source": "NYT"
+    },
+    {
+      "title": "Judge Denies Medical Release for N.Y.C. Man Shot by ICE",
+      "link": "https://www.nytimes.com/2026/10/23/nyregion/ice-shooting-oscar-belgal-judge-ruling.html",
+      "pubDate": "2026-10-23T23:20:52.000Z",
+      "image": "https://static01.nyt.com/images/2026/10/22/multimedia/00met-ice-release1-jlmf/00met-ice-release1-jlmf-mediumSquareAt3X.jpg",
+      "author": "Luis Ferré-Sadurní",
+      "excerpt": "Oscar Belgal, a Dominican immigrant, was shot in the neck on Oct. 8 and detained at a federal prison. His lawyers had said he needed outside medical care.",
+      "source": "NYT"
+    },
+    {
+      "title": "Trump Officials Seek Block on Alaska Senate Race Results if the Republican Dan Sullivan Loses",
+      "link": "https://www.nytimes.com/2026/10/23/us/politics/justice-dept-alaska-senate-race-sullivan.html",
+      "pubDate": "2026-10-23T22:40:54.000Z",
+      "image": "https://static01.nyt.com/images/2026/10/23/multimedia/23dc-alaska-sub-wpfj/23dc-alaska-sub-wpfj-mediumSquareAt3X.jpg",
+      "author": "Devlin Barrett and Kellen Browning",
+      "excerpt": "The department, in a highly unusual lawsuit, argued that confusion over candidates with similar names could taint the election result.",
+      "source": "NYT"
+    },
+    {
+      "title": "Corey Lewandowski Always Found His Way Back to Trump. Until Now.",
+      "link": "https://www.nytimes.com/2026/10/23/us/politics/corey-lewandowski-trump.html",
+      "pubDate": "2026-10-23T22:26:55.000Z",
+      "image": "https://static01.nyt.com/images/2026/10/23/multimedia/23dc-lewandowski-bzgt/23dc-lewandowski-bzgt-mediumSquareAt3X.jpg",
+      "author": "Luke Broadwater",
+      "excerpt": "The Justice Department has opened an inquiry into Mr. Lewandowski. President Trump has not jumped to his defense.",
+      "source": "NYT"
+    },
+    {
+      "title": "The Evening: D.O.J. Moves to Block Alaska Result if G.O.P. Loses",
+      "link": "https://www.nytimes.com/2026/10/23/briefing/alaska-west-bank-melanoma.html",
+      "pubDate": "2026-10-23T22:12:12.000Z",
+      "image": "https://static01.nyt.com/images/2026/10/23/multimedia/23evening-nl-alaska-top/23evening-nl-alaska-top-mediumSquareAt3X.jpg",
+      "author": "Whet Moser and Matthew Cullen",
+      "excerpt": "Plus, a promising cancer vaccine. Here’s the latest at the end of Friday.",
+      "source": "NYT"
+    },
+    {
       "title": "‘I Have to Go In’: Kaylub Giamanco Describes Killing Gunman in Oregon School Shooting",
       "link": "https://www.nytimes.com/2026/10/23/us/oregon-shooting-gunman-kaylub-giamanco.html",
       "pubDate": "2026-10-23T21:33:59.000Z",
       "image": "https://static01.nyt.com/images/2026/10/23/multimedia/23xp-bend-01-hmbz/23xp-bend-01-hmbz-mediumSquareAt3X.jpg",
       "author": "Michael Levenson",
       "excerpt": "Kaylub Giamanco told Oregon Public Broadcasting that he happened to be driving by the Silver Rail Elementary School in Bend when he saw a gunman preparing to enter the school.",
-      "source": "NYT"
-    },
-    {
-      "title": "Ambush of Salvadoran Soldiers Escalates Haiti’s Anti-Gang Mission",
-      "link": "https://www.nytimes.com/2026/10/23/world/americas/el-salvador-military-haiti-gangs.html",
-      "pubDate": "2026-10-23T21:29:29.000Z",
-      "image": "https://static01.nyt.com/images/2026/10/23/world/23haiti-force/23haiti-force-mediumSquareAt3X.jpg",
-      "author": "Frances Robles",
-      "excerpt": "With four soldiers missing, Haiti’s new Gang Suppression Force, already off to a rocky start, is facing its first crisis.",
       "source": "NYT"
     },
     {
@@ -887,21 +932,21 @@
       "source": "NYT"
     },
     {
-      "title": "Here’s What Democrats Plan to Do With Their Power if They Win Back Congress",
-      "link": "https://www.nytimes.com/2026/10/23/us/politics/democrats-congress-majority-agenda.html",
-      "pubDate": "2026-10-23T20:57:08.000Z",
-      "image": "https://static01.nyt.com/images/2026/10/23/multimedia/23dc-dems-power-01-cvlh/23dc-dems-power-01-cvlh-mediumSquareAt3X.jpg",
-      "author": "Annie Karni",
-      "excerpt": "Democrats have campaigned on lowering living costs and holding the Trump administration accountable. This is a look at their to-do list if they win the majority.",
-      "source": "NYT"
-    },
-    {
       "title": "Two Former F.B.I. Officials Charged With False Statements About Hunter Biden",
       "link": "https://www.nytimes.com/2026/10/23/us/politics/hunter-biden-ex-fbi-officials-charged.html",
       "pubDate": "2026-10-23T20:54:25.000Z",
       "image": "https://static01.nyt.com/images/2026/10/23/multimedia/23dc-fbi-bglz/23dc-fbi-bglz-mediumSquareAt3X.jpg",
       "author": "Alan Feuer, Charlie Savage and Zach Montague",
       "excerpt": "The charges intensified the administration’s efforts to go after the law enforcement and intelligence personnel who cast doubt on unsubstantiated claims that Joseph R. Biden Jr. engaged in corrupt dealings in Ukraine.",
+      "source": "NYT"
+    },
+    {
+      "title": "Appeals Court Backs Trump on Constitutionality of Detentions",
+      "link": "https://www.nytimes.com/2026/10/23/us/politics/appeals-court-trump-constitution-detention.html",
+      "pubDate": "2026-10-23T20:47:16.000Z",
+      "image": "https://static01.nyt.com/images/2026/10/23/multimedia/23dc-immig-jbmk/23dc-immig-jbmk-mediumSquareAt3X.jpg",
+      "author": "Mattathias Schwartz",
+      "excerpt": "The ruling, from the U.S. Court of Appeals for the Fifth Circuit, sharply curtails the ability of judges to free undocumented immigrants.",
       "source": "NYT"
     },
     {
@@ -914,12 +959,12 @@
       "source": "NYT"
     },
     {
-      "title": "Global Oil Price Hits $116 a Barrel, Highest Since April",
-      "link": "https://www.nytimes.com/2026/10/23/business/energy-environment/oil-prices-iran-war.html",
-      "pubDate": "2026-10-23T20:03:29.000Z",
-      "image": "https://static01.nyt.com/images/2026/04/17/world/17biz-iran-hormuz-oil-cov/17biz-iran-hormuz-oil-cov-mediumSquareAt3X.png",
-      "author": "Joe Rennison",
-      "excerpt": "Investors have grown increasingly concerned that the war in Iran could escalate again, putting energy supplies at greater risk.",
+      "title": "Trump Advisers Give Fees Earned for Aiding Srpska to His Library",
+      "link": "https://www.nytimes.com/2026/10/23/us/politics/trump-srpska-donations-library.html",
+      "pubDate": "2026-10-23T19:10:04.000Z",
+      "image": "https://static01.nyt.com/images/2026/10/23/multimedia/23dc-Srpska-vptf/23dc-Srpska-vptf-mediumSquareAt3X.jpg",
+      "author": "Kenneth P. Vogel",
+      "excerpt": "The donations from James Blair and Chris LaCivita were revealed after the president expressed pique over their consulting work for Republika Srpska.",
       "source": "NYT"
     },
     {
@@ -950,15 +995,6 @@
       "source": "NYT"
     },
     {
-      "title": "Under U.S. Watch, Venezuela Grapples With Tensions Over Democracy",
-      "link": "https://www.nytimes.com/2026/10/23/us/politics/venezuela-trump-rubio-elections.html",
-      "pubDate": "2026-10-23T17:15:02.000Z",
-      "image": "https://static01.nyt.com/images/2026/10/23/multimedia/23dc-trump-venezuela-mlhb/23dc-trump-venezuela-mlhb-mediumSquareAt3X-v2.jpg",
-      "author": "Edward Wong and Julie Turkewitz",
-      "excerpt": "President Trump says Venezuela is not ready for elections, and he focuses instead on its oil. But Secretary of State Marco Rubio is nudging talks between opposing politicians.",
-      "source": "NYT"
-    },
-    {
       "title": "Are Fewer Teens Identifying as Gay or Bisexual? It’s Complicated.",
       "link": "https://www.nytimes.com/2026/10/23/science/lgbt-teens-identification.html",
       "pubDate": "2026-10-23T17:09:05.000Z",
@@ -977,24 +1013,6 @@
       "source": "NYT"
     },
     {
-      "title": "Chimps Steal Less Often From Their Friends, Even When Offered Pineapple",
-      "link": "https://www.nytimes.com/2026/10/23/science/stealing-chimps-friends.html",
-      "pubDate": "2026-10-23T16:44:21.000Z",
-      "image": "https://static01.nyt.com/images/2026/10/19/science/00SCI-TB-STEALING-CHIMPS-02/00SCI-TB-STEALING-CHIMPS-02-mediumSquareAt3X.jpg",
-      "author": "Taylor Mitchell Brown",
-      "excerpt": "The discovery may hint at the roots of human norms around fairness and friendship.",
-      "source": "NYT"
-    },
-    {
-      "title": "Melania Trump Says She Brokered a Cease-Fire in a Starving Ukrainian City",
-      "link": "https://www.nytimes.com/2026/10/23/us/politics/ceasefire-ukraine-melania-trump.html",
-      "pubDate": "2026-10-23T16:37:40.000Z",
-      "image": "https://static01.nyt.com/images/2026/10/23/multimedia/23dc-melania-gwcp/23dc-melania-gwcp-mediumSquareAt3X.jpg",
-      "author": "Katie Rogers",
-      "excerpt": "The first lady, who is positioning herself as an intermediary between two warring nations as her husband sides with Russia, said the agreement would allow residents to evacuate.",
-      "source": "NYT"
-    },
-    {
       "title": "Apple’s Foldable iPhone Duo Arrives in Stores: Smartphone Review",
       "link": "https://www.nytimes.com/2026/10/23/technology/personaltech/iphone-duo-review-tablet-smartphone.html",
       "pubDate": "2026-10-23T16:14:56.000Z",
@@ -1010,15 +1028,6 @@
       "image": "https://static01.nyt.com/images/2026/10/12/multimedia/12ST-TEEN-MOTH-RESEARCHER-promo-ghlk/12ST-TEEN-MOTH-RESEARCHER-promo-ghlk-mediumSquareAt3X.jpg",
       "author": "Callie Holtermann and Hilary Swift",
       "excerpt": "Violet Clinton is doing award-winning entomological field research. Her dad still has to buy the beer for her moth bait.",
-      "source": "NYT"
-    },
-    {
-      "title": "How the Decline of Western NY Defined Kathy Hochul’s Politics",
-      "link": "https://www.nytimes.com/2026/10/23/nyregion/kathy-hochul-western-new-york-upbringing-governor.html",
-      "pubDate": "2026-10-23T12:57:42.000Z",
-      "image": "https://static01.nyt.com/images/2026/10/21/multimedia/23met-hochul-01-mctp/23met-hochul-01-mctp-mediumSquareAt3X.jpg",
-      "author": "Benjamin Oreskes",
-      "excerpt": "Gov. Kathy Hochul’s vision for New York has been largely shaped by her upbringing in a failing western New York town and her family’s move up from a trailer park to affluence.",
       "source": "NYT"
     },
     {
