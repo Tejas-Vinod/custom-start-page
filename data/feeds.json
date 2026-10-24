@@ -860,6 +860,60 @@
   ],
   "nytNews": [
     {
+      "title": "Obama Issues Searing Attacks on Trump, Ramaswamy in Return to Campaign Trail",
+      "link": "https://www.nytimes.com/2026/10/24/us/politics/obama-trump-midterms-campaign.html",
+      "pubDate": "2026-10-24T20:38:04.000Z",
+      "image": "https://static01.nyt.com/images/2026/10/24/multimedia/24pol-obama-trump-pqgh/24pol-obama-trump-pqgh-mediumSquareAt3X-v2.jpg",
+      "author": "Tim Balk and Emily Davies",
+      "excerpt": "The 44th president appeared in Ohio on Saturday, kicking off a two-state swing with a rebuke of President Trump and Vivek Ramaswamy, the Republican nominee for governor.",
+      "source": "NYT"
+    },
+    {
+      "title": "What Happens if Trump Doesn’t Like the Midterm Results?",
+      "link": "https://www.nytimes.com/2026/10/24/opinion/trump-midterm-elections-results-predictions.html",
+      "pubDate": "2026-10-24T20:09:53.000Z",
+      "image": "https://static01.nyt.com/images/2026/10/24/opinion/24opinions-roundtable-art/24opinions-roundtable-art-mediumSquareAt3X-v2.png",
+      "author": "Michelle Cottle, Jamelle Bouie, David French and Derek Arthur",
+      "excerpt": "Hope, dread and the final stretch to Election Day.",
+      "source": "NYT"
+    },
+    {
+      "title": "Alaska Election Gambit Shows Justice Dept. Has Bowed to Trump’s Demands",
+      "link": "https://www.nytimes.com/2026/10/24/us/politics/alaska-senate-election-trump-justice-department.html",
+      "pubDate": "2026-10-24T19:21:11.000Z",
+      "image": "https://static01.nyt.com/images/2026/10/24/multimedia/24dc-trump-justice-topart-02-kjvw/24dc-trump-justice-topart-02-kjvw-mediumSquareAt3X.jpg",
+      "author": "Glenn Thrush, Katie Rogers and Zolan Kanno-Youngs",
+      "excerpt": "With moves in Alaska and California, the department has stepped up interventions in the midterm elections as the president’s instrument of unmediated executive power.",
+      "source": "NYT"
+    },
+    {
+      "title": "In U.S. Gas Talks With Kremlin, Hidden Financing for Alaska Project Emerges",
+      "link": "https://www.nytimes.com/2026/10/23/us/politics/in-us-gas-talks-with-kremlin-hidden-financing-for-alaska-project-emerges.html",
+      "pubDate": "2026-10-24T18:24:42.000Z",
+      "image": "https://static01.nyt.com/images/2026/10/23/multimedia/23dc-polar-lng-sub-bhcl/23dc-polar-lng-sub-bhcl-mediumSquareAt3X.jpg",
+      "author": "Anton Troianovski and Eric Lipton",
+      "excerpt": "Interviews and documents show a Russian energy giant secretly funded a U.S. firm. The deal has been discussed in talks to end the war in Ukraine.",
+      "source": "NYT"
+    },
+    {
+      "title": "She Planned to Protest Trump. She Didn’t Plan on Getting Punched.",
+      "link": "https://www.nytimes.com/2026/10/24/us/trump-protester-punched-youngstown-ohio.html",
+      "pubDate": "2026-10-24T18:08:58.000Z",
+      "image": "https://static01.nyt.com/images/2026/10/24/multimedia/24nat-trump-protester-1b-vpch/24nat-trump-protester-1b-vpch-mediumSquareAt3X.jpg",
+      "author": "Jessica Contrera",
+      "excerpt": "Blake Miley yelled “fascist” as President Trump spoke at a midterm campaign rally. The violence that followed “was not right,” she said.",
+      "source": "NYT"
+    },
+    {
+      "title": "Netanyahu Is Up for Re-election After Years of War. How Will Voters See Him?",
+      "link": "https://www.nytimes.com/2026/10/24/world/middleeast/netanyahu-has-reinvented-himself-will-voters-think-its-enough.html",
+      "pubDate": "2026-10-24T17:45:16.000Z",
+      "image": "https://static01.nyt.com/images/2026/10/22/multimedia/xxint-israel-netanyahu-profile-gvjt/xxint-israel-netanyahu-profile-gvjt-mediumSquareAt3X.jpg",
+      "author": "Isabel Kershner",
+      "excerpt": "The Oct. 7 attacks marred Prime Minister Benjamin Netanyahu’s image as Mr. Security. Ahead of elections, he’s trying to sell Israelis on the new, hawkish version of himself.",
+      "source": "NYT"
+    },
+    {
       "title": "Why Democrats Could Find It Hard to Win the Senate Despite Their Strong Polls",
       "link": "https://www.nytimes.com/2026/10/24/us/politics/democrats-expectations-blue-wave.html",
       "pubDate": "2026-10-24T17:00:54.000Z",
@@ -869,12 +923,12 @@
       "source": "NYT"
     },
     {
-      "title": "Iran in ‘Advanced Stages’ of Planning Attacks Against Americans, Officials Say",
-      "link": "https://www.nytimes.com/2026/10/23/us/politics/security-warnings-iran-threats.html",
-      "pubDate": "2026-10-24T16:09:15.000Z",
-      "image": "https://static01.nyt.com/images/2026/10/23/multimedia/dc-iran-security-gcqh/dc-iran-security-gcqh-mediumSquareAt3X-v2.jpg",
-      "author": "Edward Wong, Jonathan Swan and Julian E. Barnes",
-      "excerpt": "The U.S. government has ordered diplomats and other federal employees to leave Saudi Arabia. It is also drawing down staff at other missions in the region.",
+      "title": "Israel Cracks Down in West Bank City After Deadly Attack",
+      "link": "https://www.nytimes.com/2026/10/24/world/middleeast/israel-military-hebron-west-bank.html",
+      "pubDate": "2026-10-24T14:52:05.000Z",
+      "image": "https://static01.nyt.com/images/2026/10/24/multimedia/24int-westbank-operation-01-hvzq/24int-westbank-operation-01-hvzq-mediumSquareAt3X.jpg",
+      "author": "Aaron Boxerman and Fatima AbdulKarim",
+      "excerpt": "Hundreds of Palestinian families fled their homes as the Israeli military raided Hebron. The operation came a day after Palestinian gunmen killed two soldiers.",
       "source": "NYT"
     },
     {
@@ -884,24 +938,6 @@
       "image": "https://static01.nyt.com/images/2026/10/24/opinion/24dowd-ycse/24dowd-ycse-mediumSquareAt3X.jpg",
       "author": "Maureen Dowd",
       "excerpt": "Look into that unblinking gaze and see the abyss.",
-      "source": "NYT"
-    },
-    {
-      "title": "She Was Punched After Heckling Trump. No One Has Been Charged.",
-      "link": "https://www.nytimes.com/2026/10/24/us/trump-protester-punched-youngstown-ohio.html",
-      "pubDate": "2026-10-24T13:48:56.000Z",
-      "image": "https://static01.nyt.com/images/2026/10/24/multimedia/24nat-trump-protester-1b-vpch/24nat-trump-protester-1b-vpch-mediumSquareAt3X.jpg",
-      "author": "Jessica Contrera",
-      "excerpt": "Blake Miley yelled “fascist” as President Trump spoke at a midterm campaign rally. She knew the risk she was taking, but the violence that followed “was not right,” she said.",
-      "source": "NYT"
-    },
-    {
-      "title": "In U.S. Gas Talks With Kremlin, Hidden Financing for Alaska Project Emerges",
-      "link": "https://www.nytimes.com/2026/10/23/us/politics/in-us-gas-talks-with-kremlin-hidden-financing-for-alaska-project-emerges.html",
-      "pubDate": "2026-10-24T13:20:36.000Z",
-      "image": "https://static01.nyt.com/images/2026/10/23/multimedia/23dc-polar-lng-sub-bhcl/23dc-polar-lng-sub-bhcl-mediumSquareAt3X.jpg",
-      "author": "Anton Troianovski and Eric Lipton",
-      "excerpt": "Interviews and documents show a Russian energy giant secretly funded a U.S. firm. The deal has been discussed in talks to end the war in Ukraine.",
       "source": "NYT"
     },
     {
@@ -932,30 +968,12 @@
       "source": "NYT"
     },
     {
-      "title": "What Happens if Trump Doesn’t Like the Midterm Results?",
-      "link": "https://www.nytimes.com/2026/10/24/opinion/trump-midterm-elections-results-predictions.html",
-      "pubDate": "2026-10-24T11:49:58.000Z",
-      "image": "https://static01.nyt.com/images/2026/10/24/opinion/24opinions-roundtable-art/24opinions-roundtable-art-mediumSquareAt3X-v2.png",
-      "author": "Michelle Cottle, Jamelle Bouie, David French and Derek Arthur",
-      "excerpt": "Hope, dread and the final stretch to Election Day.",
-      "source": "NYT"
-    },
-    {
-      "title": "Outside Chance",
-      "link": "https://www.nytimes.com/2026/10/24/briefing/outside-chance.html",
-      "pubDate": "2026-10-24T09:22:22.000Z",
-      "image": null,
-      "author": "Melissa Kirsch",
-      "excerpt": "We’ve plunged fully into fall, complete with cozy scarves and puffy vests. Why not venture into the woods?",
-      "source": "NYT"
-    },
-    {
-      "title": "Looting Left Damage and Fear on Paradise Street in Marseille",
-      "link": "https://www.nytimes.com/2026/10/24/world/europe/france-looting-rue-paradis-marseille.html",
-      "pubDate": "2026-10-24T09:04:28.000Z",
-      "image": "https://static01.nyt.com/images/2026/10/24/multimedia/24int-france-marseille-jfgm/24int-france-marseille-jfgm-mediumSquareAt3X.jpg",
-      "author": "Ben Hubbard",
-      "excerpt": "Looters ravaged a storied commercial avenue in France’s second-largest city. Its merchants fear that more unrest could follow.",
+      "title": "How a Small Student Protest Spread Across France",
+      "link": "https://www.nytimes.com/2026/10/24/world/europe/france-protests-timeline.html",
+      "pubDate": "2026-10-24T09:46:50.000Z",
+      "image": "https://static01.nyt.com/images/2026/10/24/multimedia/24france-protests-timeline-qzbm/24france-protests-timeline-qzbm-mediumSquareAt3X.jpg",
+      "author": "Leo Sands",
+      "excerpt": "A movement that began with a few high schools has broadened to encompass labor unions and other activists.",
       "source": "NYT"
     },
     {
@@ -968,6 +986,15 @@
       "source": "NYT"
     },
     {
+      "title": "A 2028 Presidential Poll Finds Vance, Rubio and Several Democrats in the Mix",
+      "link": "https://www.nytimes.com/2026/10/24/us/democrats-republicans-presidential-primary-poll.html",
+      "pubDate": "2026-10-24T09:02:43.000Z",
+      "image": "https://static01.nyt.com/images/2026/10/22/multimedia/2026-10-16-national-poll-primary/2026-10-16-national-poll-primary-mediumSquareAt3X-v11.jpg",
+      "author": "Reid J. Epstein and Ruth Igielnik",
+      "excerpt": "The Democratic presidential primary race appears to be wide open, while JD Vance and Marco Rubio led among Republican voters, a New York Times/Siena survey found.",
+      "source": "NYT"
+    },
+    {
       "title": "They Were Accused of Illegal Fishing. They Ended Up in ICE Detention.",
       "link": "https://www.nytimes.com/2026/10/24/us/politics/fishing-immigration-trump.html",
       "pubDate": "2026-10-24T09:00:48.000Z",
@@ -977,12 +1004,12 @@
       "source": "NYT"
     },
     {
-      "title": "Trump Officials Seek Block on Alaska Senate Race Results if the Republican Dan Sullivan Loses",
-      "link": "https://www.nytimes.com/2026/10/23/us/politics/justice-dept-alaska-senate-race-sullivan.html",
-      "pubDate": "2026-10-24T02:15:51.000Z",
-      "image": "https://static01.nyt.com/images/2026/10/23/multimedia/23dc-alaska-sub-wpfj/23dc-alaska-sub-wpfj-mediumSquareAt3X.jpg",
-      "author": "Devlin Barrett and Kellen Browning",
-      "excerpt": "The department, in a highly unusual lawsuit, argued that confusion over candidates with similar names could taint the election result.",
+      "title": "What to Know About Alaska’s Senate Race",
+      "link": "https://www.nytimes.com/2026/10/23/us/politics/alaska-senate-race-explainer.html",
+      "pubDate": "2026-10-23T23:22:52.000Z",
+      "image": "https://static01.nyt.com/images/2026/10/23/multimedia/23pol-onpolitics-newsletter-sullivan-bmfp/23pol-onpolitics-newsletter-sullivan-bmfp-mediumSquareAt3X.jpg",
+      "author": "Jess Bidgood",
+      "excerpt": "President Trump told the Justice Department to intervene in the race, where polling shows Republicans at risk of losing a seat.",
       "source": "NYT"
     },
     {
