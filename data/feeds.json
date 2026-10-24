@@ -860,21 +860,75 @@
   ],
   "nytNews": [
     {
+      "title": "Iran in ‘Advanced Stages’ of Planning Attacks Against Americans, Officials Say",
+      "link": "https://www.nytimes.com/2026/10/23/us/politics/security-warnings-iran-threats.html",
+      "pubDate": "2026-10-24T14:11:59.000Z",
+      "image": "https://static01.nyt.com/images/2026/10/23/multimedia/dc-iran-security-gcqh/dc-iran-security-gcqh-mediumSquareAt3X-v2.jpg",
+      "author": "Edward Wong, Jonathan Swan and Julian E. Barnes",
+      "excerpt": "The U.S. government has ordered diplomats and other federal employees to leave Saudi Arabia. It is also drawing down staff at other missions in the region.",
+      "source": "NYT"
+    },
+    {
+      "title": "The Eyes of Elizabeth Holmes",
+      "link": "https://www.nytimes.com/2026/10/24/opinion/elizabeth-holmes-you-can-see-everything.html",
+      "pubDate": "2026-10-24T14:02:49.000Z",
+      "image": "https://static01.nyt.com/images/2026/10/24/opinion/24dowd-ycse/24dowd-ycse-mediumSquareAt3X.jpg",
+      "author": "Maureen Dowd",
+      "excerpt": "Look into that unblinking gaze and see the abyss.",
+      "source": "NYT"
+    },
+    {
+      "title": "In U.S. Gas Talks With Kremlin, Hidden Financing for Alaska Project Emerges",
+      "link": "https://www.nytimes.com/2026/10/23/us/politics/in-us-gas-talks-with-kremlin-hidden-financing-for-alaska-project-emerges.html",
+      "pubDate": "2026-10-24T13:20:35.000Z",
+      "image": "https://static01.nyt.com/images/2026/10/23/multimedia/23dc-polar-lng-sub-bhcl/23dc-polar-lng-sub-bhcl-mediumSquareAt3X.jpg",
+      "author": "Anton Troianovski and Eric Lipton",
+      "excerpt": "Interviews and documents show a Russian energy giant secretly funded a U.S. firm. The deal has been discussed in talks to end the war in Ukraine.",
+      "source": "NYT"
+    },
+    {
+      "title": "What This Democrat’s Surge in Texas Says About the Midterms",
+      "link": "https://www.nytimes.com/2026/10/24/magazine/gina-hinojosa-interview.html",
+      "pubDate": "2026-10-24T12:51:26.000Z",
+      "image": "https://static01.nyt.com/images/2026/11/01/magazine/01mag-interview-hinojosa-02/01mag-interview-hinojosa-02-mediumSquareAt3X.jpg",
+      "author": "Lulu Garcia-Navarro",
+      "excerpt": "Gina Hinojosa, the Democratic nominee for governor, on her appeal to MAGA voters and her refusal to engage in the “culture wars.”",
+      "source": "NYT"
+    },
+    {
+      "title": "5 Takeaways From Our Investigation of Trump’s Waivers for Polluters",
+      "link": "https://www.nytimes.com/2026/10/24/climate/takeaways-trump-waivers-chemical-pollution.html",
+      "pubDate": "2026-10-24T12:50:46.000Z",
+      "image": "https://static01.nyt.com/images/2026/10/22/multimedia/00CLI-POLLUTION-EPA-TAKEAWAYS-glzb/00CLI-POLLUTION-EPA-TAKEAWAYS-glzb-mediumSquareAt3X.jpg",
+      "author": "Maxine Joselow and Eric Lipton",
+      "excerpt": "Chemical plants and other industrial facilities had been required to curb their toxic emissions. A New York Times investigation shows how they got out of it.",
+      "source": "NYT"
+    },
+    {
+      "title": "How Trump Gave the Worst Polluters a Free Pass",
+      "link": "https://www.nytimes.com/2026/10/24/climate/trump-epa-chemical-air-pollution.html",
+      "pubDate": "2026-10-24T12:28:26.000Z",
+      "image": null,
+      "author": "Eric Lipton, Maxine Joselow and Mira Rojanasakul",
+      "excerpt": "The president temporarily waived clean-air rules for industrial facilities that spew cancer-causing gases. Then his appointees worked to gut the regulations altogether.",
+      "source": "NYT"
+    },
+    {
+      "title": "What Happens if Trump Doesn’t Like the Midterm Results?",
+      "link": "https://www.nytimes.com/2026/10/24/opinion/trump-midterm-elections-results-predictions.html",
+      "pubDate": "2026-10-24T11:49:58.000Z",
+      "image": "https://static01.nyt.com/images/2026/10/24/opinion/24opinions-roundtable-art/24opinions-roundtable-art-mediumSquareAt3X-v2.png",
+      "author": "Michelle Cottle, Jamelle Bouie, David French and Derek Arthur",
+      "excerpt": "Hope, dread and the final stretch to Election Day.",
+      "source": "NYT"
+    },
+    {
       "title": "Outside Chance",
       "link": "https://www.nytimes.com/2026/10/24/briefing/outside-chance.html",
       "pubDate": "2026-10-24T09:22:22.000Z",
       "image": null,
       "author": "Melissa Kirsch",
       "excerpt": "We’ve plunged fully into fall, complete with cozy scarves and puffy vests. Why not venture into the woods?",
-      "source": "NYT"
-    },
-    {
-      "title": "Gina Hinojosa Believes She’s the One Who Can Finally Flip Texas",
-      "link": "https://www.nytimes.com/2026/10/24/magazine/gina-hinojosa-interview.html",
-      "pubDate": "2026-10-24T09:15:04.000Z",
-      "image": "https://static01.nyt.com/images/2026/11/01/magazine/01mag-interview-hinojosa-02/01mag-interview-hinojosa-02-mediumSquareAt3X.jpg",
-      "author": "Lulu Garcia-Navarro",
-      "excerpt": "The Democratic nominee for governor on her appeal to MAGA voters and her refusal to engage in the “culture wars.”",
       "source": "NYT"
     },
     {
@@ -896,24 +950,6 @@
       "source": "NYT"
     },
     {
-      "title": "5 Takeaways From Our Investigation of Trump’s Waivers for Polluters",
-      "link": "https://www.nytimes.com/2026/10/24/climate/takeaways-trump-waivers-chemical-pollution.html",
-      "pubDate": "2026-10-24T09:01:26.000Z",
-      "image": "https://static01.nyt.com/images/2026/10/22/multimedia/00CLI-POLLUTION-EPA-TAKEAWAYS-glzb/00CLI-POLLUTION-EPA-TAKEAWAYS-glzb-mediumSquareAt3X.jpg",
-      "author": "Maxine Joselow and Eric Lipton",
-      "excerpt": "Chemical plants and other industrial facilities had been required to curb their toxic emissions. A New York Times investigation shows how they got out of it.",
-      "source": "NYT"
-    },
-    {
-      "title": "How Trump Gave the Worst Polluters a Free Pass",
-      "link": "https://www.nytimes.com/2026/10/24/climate/trump-epa-chemical-air-pollution.html",
-      "pubDate": "2026-10-24T09:01:00.000Z",
-      "image": null,
-      "author": "Eric Lipton, Maxine Joselow and Mira Rojanasakul",
-      "excerpt": "The president temporarily waived clean-air rules for industrial facilities that spew cancer-causing gases. Then his appointees worked to gut the regulations altogether.",
-      "source": "NYT"
-    },
-    {
       "title": "They Were Accused of Illegal Fishing. They Ended Up in ICE Detention.",
       "link": "https://www.nytimes.com/2026/10/24/us/politics/fishing-immigration-trump.html",
       "pubDate": "2026-10-24T09:00:48.000Z",
@@ -925,7 +961,7 @@
     {
       "title": "Justice Dept. Demands That California Counties Help Identify Noncitizen Voters",
       "link": "https://www.nytimes.com/2026/10/23/us/justice-dept-california-noncitizen-voters.html",
-      "pubDate": "2026-10-24T06:21:05.000Z",
+      "pubDate": "2026-10-24T06:21:06.000Z",
       "image": "https://static01.nyt.com/images/2026/08/26/multimedia/23midterms-doj-california/26dc-mailballot-wmgz-mediumSquareAt3X.jpg",
       "author": "Laurel Rosenhall and Shawn Hubler",
       "excerpt": "Election officials across the state received letters from the agency saying if they fail to comply, they “risk significant federal scrutiny.”",
@@ -941,24 +977,6 @@
       "source": "NYT"
     },
     {
-      "title": "Netanyahu Has Reinvented Himself. Will Voters Think It’s Enough?",
-      "link": "https://www.nytimes.com/2026/10/24/world/middleeast/netanyahu-has-reinvented-himself-will-voters-think-its-enough.html",
-      "pubDate": "2026-10-24T04:01:09.000Z",
-      "image": "https://static01.nyt.com/images/2026/10/22/multimedia/xxint-israel-netanyahu-profile-gvjt/xxint-israel-netanyahu-profile-gvjt-mediumSquareAt3X.jpg",
-      "author": "Isabel Kershner",
-      "excerpt": "The Oct. 7 attacks marred Prime Minister Benjamin Netanyahu’s image as Mr. Security. Ahead of elections, he’s trying to sell Israelis on the new, hawkish version of himself.",
-      "source": "NYT"
-    },
-    {
-      "title": "Iran in ‘Advanced Stages’ of Planning Attacks Against Americans, Officials Say",
-      "link": "https://www.nytimes.com/2026/10/23/us/politics/security-warnings-iran-threats.html",
-      "pubDate": "2026-10-24T03:46:54.000Z",
-      "image": "https://static01.nyt.com/images/2026/10/23/multimedia/dc-iran-security-gcqh/dc-iran-security-gcqh-mediumSquareAt3X.jpg",
-      "author": "Edward Wong, Jonathan Swan and Julian E. Barnes",
-      "excerpt": "The U.S. government has ordered diplomats and other federal employees to leave Saudi Arabia. It is also drawing down staff at other missions in the region.",
-      "source": "NYT"
-    },
-    {
       "title": "Trump Officials Seek Block on Alaska Senate Race Results if the Republican Dan Sullivan Loses",
       "link": "https://www.nytimes.com/2026/10/23/us/politics/justice-dept-alaska-senate-race-sullivan.html",
       "pubDate": "2026-10-24T02:15:51.000Z",
@@ -968,48 +986,12 @@
       "source": "NYT"
     },
     {
-      "title": "What to Know About Alaska’s Senate Race",
-      "link": "https://www.nytimes.com/2026/10/23/us/politics/alaska-senate-race-explainer.html",
-      "pubDate": "2026-10-23T23:22:52.000Z",
-      "image": "https://static01.nyt.com/images/2026/10/23/multimedia/23pol-onpolitics-newsletter-sullivan-bmfp/23pol-onpolitics-newsletter-sullivan-bmfp-mediumSquareAt3X.jpg",
-      "author": "Jess Bidgood",
-      "excerpt": "President Trump told the Justice Department to intervene in the race, where polling shows Republicans at risk of losing a seat.",
-      "source": "NYT"
-    },
-    {
       "title": "Why Legal Experts See the Justice Dept.’s Alaska Election Challenge as Dubious",
       "link": "https://www.nytimes.com/2026/10/23/us/alaska-senate-doj-lawsuit-trump.html",
       "pubDate": "2026-10-23T23:22:41.000Z",
       "image": "https://static01.nyt.com/images/2026/10/23/multimedia/23dc-alaska-legal-cfph/23dc-alaska-legal-cfph-mediumSquareAt3X.jpg",
       "author": "Charlie Savage",
       "excerpt": "No obvious legal authority supports a pre-emptive effort to block the certification of Alaska’s Senate election if the Republican incumbent narrowly loses.",
-      "source": "NYT"
-    },
-    {
-      "title": "What Hundreds of Focus Groups With Trump Voters Revealed",
-      "link": "https://www.nytimes.com/2026/10/23/opinion/ezra-klein-podcast-sarah-longwell.html",
-      "pubDate": "2026-10-23T21:13:11.000Z",
-      "image": "https://static01.nyt.com/images/2026/10/23/opinion/23eks-longwell-image01/23eks-longwell-image01-mediumSquareAt3X.jpg",
-      "author": "Ezra Klein, Annie Galvin and Jack McCordick",
-      "excerpt": "Sarah Longwell has conducted hundreds of focus groups with Trump voters, and many of them are feeling betrayed.",
-      "source": "NYT"
-    },
-    {
-      "title": "Ahead of Tight Race, Trump Swaps Tariffs on Some Canadian Goods",
-      "link": "https://www.nytimes.com/2026/10/23/business/trump-susan-collins-canada-tariffs.html",
-      "pubDate": "2026-10-23T20:29:40.000Z",
-      "image": "https://static01.nyt.com/images/2026/10/23/multimedia/23dc-collins-tariffs-tkwm/23dc-collins-tariffs-tkwm-mediumSquareAt3X.jpg",
-      "author": "Alan Rappeport and Ana Swanson",
-      "excerpt": "The move was announced by Senator Susan Collins, a Maine Republican who faces a tough re-election fight amid rising prices.",
-      "source": "NYT"
-    },
-    {
-      "title": "The Meaning of the Republican War Over Ramaswamy’s Vile Ad",
-      "link": "https://www.nytimes.com/2026/10/23/opinion/acton-ramaswamy-ad-trump-ohio.html",
-      "pubDate": "2026-10-23T17:24:54.000Z",
-      "image": "https://static01.nyt.com/images/2026/10/24/multimedia/23goldberg-qmkb/23goldberg-qmkb-mediumSquareAt3X.jpg",
-      "author": "Michelle Goldberg",
-      "excerpt": "The G.O.P. nominee in Ohio has given conservatives space to reckon with the ethical degradation of Trumpism.",
       "source": "NYT"
     }
   ]
