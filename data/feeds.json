@@ -860,21 +860,39 @@
   ],
   "nytNews": [
     {
+      "title": "The Eyes of Elizabeth Holmes",
+      "link": "https://www.nytimes.com/2026/10/24/opinion/elizabeth-holmes-you-can-see-everything.html",
+      "pubDate": "2026-10-24T22:36:41.000Z",
+      "image": "https://static01.nyt.com/images/2026/10/24/opinion/24dowd-ycse/24dowd-ycse-mediumSquareAt3X.jpg",
+      "author": "Maureen Dowd",
+      "excerpt": "Look into that unblinking gaze and see the abyss.",
+      "source": "NYT"
+    },
+    {
       "title": "Obama Issues Searing Attacks on Trump, Ramaswamy in Return to Campaign Trail",
       "link": "https://www.nytimes.com/2026/10/24/us/politics/obama-trump-midterms-campaign.html",
-      "pubDate": "2026-10-24T20:38:04.000Z",
+      "pubDate": "2026-10-24T22:18:42.000Z",
       "image": "https://static01.nyt.com/images/2026/10/24/multimedia/24pol-obama-trump-pqgh/24pol-obama-trump-pqgh-mediumSquareAt3X-v2.jpg",
       "author": "Tim Balk and Emily Davies",
       "excerpt": "The 44th president appeared in Ohio on Saturday, kicking off a two-state swing with a rebuke of President Trump and Vivek Ramaswamy, the Republican nominee for governor.",
       "source": "NYT"
     },
     {
-      "title": "What Happens if Trump Doesn’t Like the Midterm Results?",
-      "link": "https://www.nytimes.com/2026/10/24/opinion/trump-midterm-elections-results-predictions.html",
-      "pubDate": "2026-10-24T20:09:53.000Z",
-      "image": "https://static01.nyt.com/images/2026/10/24/opinion/24opinions-roundtable-art/24opinions-roundtable-art-mediumSquareAt3X-v2.png",
-      "author": "Michelle Cottle, Jamelle Bouie, David French and Derek Arthur",
-      "excerpt": "Hope, dread and the final stretch to Election Day.",
+      "title": "In Alaska, Some Early Voting Sites in Rural Villages Have Not Yet Opened",
+      "link": "https://www.nytimes.com/2026/10/24/us/alaska-early-voting-sites.html",
+      "pubDate": "2026-10-24T22:06:45.000Z",
+      "image": "https://static01.nyt.com/images/2026/10/24/multimedia/24nat-alaska-voting-sites/24hp-alaska-legal-promo-01-zqgl-mediumSquareAt3X.jpg",
+      "author": "Anna Griffin and Emily Schwing",
+      "excerpt": "“There is no legal excuse” for the failure of 18 polling sites to open for early voting, a state lawmaker said.",
+      "source": "NYT"
+    },
+    {
+      "title": "Unrest Erupts Again in France, but This Time, With Less Property Damage",
+      "link": "https://www.nytimes.com/2026/10/24/world/europe/france-protests-unrest-clashes-police.html",
+      "pubDate": "2026-10-24T21:23:15.000Z",
+      "image": "https://static01.nyt.com/images/2026/10/24/multimedia/24int-france-protests-lftm/24int-france-protests-lftm-mediumSquareAt3X.jpg",
+      "author": "Mark Landler, Catherine Porter and Ségolène Le Stradic",
+      "excerpt": "After largely peaceful marches on Saturday, clashes broke out in the evening. But a large-scale police presence, 1,000 arrests and the rerouting of protest routes kept a lid on wholesale vandalism.",
       "source": "NYT"
     },
     {
@@ -905,6 +923,15 @@
       "source": "NYT"
     },
     {
+      "title": "Republicans Are Crude, Craven, Cruel. It’s Not Working Anymore.",
+      "link": "https://www.nytimes.com/2026/10/24/opinion/midterm-elections-republicans.html",
+      "pubDate": "2026-10-24T17:51:54.000Z",
+      "image": "https://static01.nyt.com/images/2026/10/24/multimedia/24bouie-newsletter-vqbc/24bouie-newsletter-vqbc-mediumSquareAt3X.jpg",
+      "author": "Jamelle Bouie",
+      "excerpt": "Republican candidates are in a sorry state.",
+      "source": "NYT"
+    },
+    {
       "title": "Netanyahu Is Up for Re-election After Years of War. How Will Voters See Him?",
       "link": "https://www.nytimes.com/2026/10/24/world/middleeast/netanyahu-has-reinvented-himself-will-voters-think-its-enough.html",
       "pubDate": "2026-10-24T17:45:16.000Z",
@@ -929,15 +956,6 @@
       "image": "https://static01.nyt.com/images/2026/10/24/multimedia/24int-westbank-operation-01-hvzq/24int-westbank-operation-01-hvzq-mediumSquareAt3X.jpg",
       "author": "Aaron Boxerman and Fatima AbdulKarim",
       "excerpt": "Hundreds of Palestinian families fled their homes as the Israeli military raided Hebron. The operation came a day after Palestinian gunmen killed two soldiers.",
-      "source": "NYT"
-    },
-    {
-      "title": "The Eyes of Elizabeth Holmes",
-      "link": "https://www.nytimes.com/2026/10/24/opinion/elizabeth-holmes-you-can-see-everything.html",
-      "pubDate": "2026-10-24T14:02:49.000Z",
-      "image": "https://static01.nyt.com/images/2026/10/24/opinion/24dowd-ycse/24dowd-ycse-mediumSquareAt3X.jpg",
-      "author": "Maureen Dowd",
-      "excerpt": "Look into that unblinking gaze and see the abyss.",
       "source": "NYT"
     },
     {
@@ -1010,15 +1028,6 @@
       "image": "https://static01.nyt.com/images/2026/10/23/multimedia/23pol-onpolitics-newsletter-sullivan-bmfp/23pol-onpolitics-newsletter-sullivan-bmfp-mediumSquareAt3X.jpg",
       "author": "Jess Bidgood",
       "excerpt": "President Trump told the Justice Department to intervene in the race, where polling shows Republicans at risk of losing a seat.",
-      "source": "NYT"
-    },
-    {
-      "title": "Why Legal Experts See the Justice Dept.’s Alaska Election Challenge as Dubious",
-      "link": "https://www.nytimes.com/2026/10/23/us/alaska-senate-doj-lawsuit-trump.html",
-      "pubDate": "2026-10-23T23:22:42.000Z",
-      "image": "https://static01.nyt.com/images/2026/10/23/multimedia/23dc-alaska-legal-cfph/23dc-alaska-legal-cfph-mediumSquareAt3X.jpg",
-      "author": "Charlie Savage",
-      "excerpt": "No obvious legal authority supports a pre-emptive effort to block the certification of Alaska’s Senate election if the Republican incumbent narrowly loses.",
       "source": "NYT"
     }
   ]
