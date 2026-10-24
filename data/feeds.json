@@ -1,6 +1,15 @@
 {
   "spaceNews": [
     {
+      "title": "APOD: 2026 October 24 – Rosetta’s Selfie",
+      "link": "https://science.nasa.gov/image-article/apod-2026-october-24-rosettas-selfie/",
+      "pubDate": "2026-10-24T04:05:00.000Z",
+      "image": "https://assets.science.nasa.gov/dynamicimage/assets/science/cds/apod/apod/2026/october/ESA_Rosetta_Philae_CIVA_141007.png?w=1024&#038;h=1024&#038;fit=clip&#038;crop=faces%2Cfocalpoint",
+      "author": "",
+      "excerpt": "APOD Science APOD APOD: 2026 October 24 –… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional ",
+      "source": "NASA"
+    },
+    {
       "title": "NASA, Partners Accelerate Lander Development for 2028 Moon Missions",
       "link": "https://www.nasa.gov/missions/artemis/nasa-partners-accelerate-lander-development-for-2028-moon-missions/",
       "pubDate": "2026-10-23T22:39:39.000Z",
@@ -161,15 +170,6 @@
       "author": "SpaceNews Editor",
       "excerpt": "In this episode, SpaceNews’ Mike Gruss talks with the CEO of Aalyria Brian Barritt about how networks are evolving, what scaling the company means and the role of software interoperability […] The post Rethinking networks in space with Aalyria’s Brian Barritt appeared first on SpaceNews.",
       "source": "SpaceNews"
-    },
-    {
-      "title": "NASA’s Hubble Charts Path for Roman with Gravitational Lenses ",
-      "link": "https://science.nasa.gov/missions/hubble/nasas-hubble-charts-path-for-roman-with-gravitational-lenses/",
-      "pubDate": "2026-10-22T16:20:37.000Z",
-      "image": "https://assets.science.nasa.gov/dynamicimage/assets/science/missions/hubble/gravitational-lens/Hubble_DESI194.5345+03.5358_74_flat_FINALok.tif?w=2048",
-      "author": "",
-      "excerpt": "This observation is one of many gravitational lensing images taken by Hubble in preparation for science with the new Nancy Grace Roman Space Telescope.",
-      "source": "NASA"
     },
     {
       "title": "Xona Raises $250M Series D to Scale Commercial GPS Constellation",
@@ -860,9 +860,54 @@
   ],
   "nytNews": [
     {
+      "title": "New York Archdiocese Close to Settling Sexual Abuse Claims for Over $800 Million",
+      "link": "https://www.nytimes.com/2026/10/24/us/archdiocese-new-york-sexual-abuse-settlement.html",
+      "pubDate": "2026-10-24T04:12:17.000Z",
+      "image": "https://static01.nyt.com/images/2026/10/02/multimedia/00met-hfo-archdiocese-settlement-whck/00met-hfo-archdiocese-settlement-whck-mediumSquareAt3X.jpg",
+      "author": "Maya King and Jeffery C. Mays",
+      "excerpt": "The Roman Catholic archdiocese might now avoid bankruptcy by reaching a settlement with 1,300 people who said they had been abused by clergy members and lay leaders.",
+      "source": "NYT"
+    },
+    {
+      "title": "How Defiant Youth Are Testing India’s Idea of Democracy",
+      "link": "https://www.nytimes.com/2026/10/24/world/asia/india-youth-democracy-protest.html",
+      "pubDate": "2026-10-24T04:01:08.000Z",
+      "image": "https://static01.nyt.com/images/2026/10/21/multimedia/00INT-INDIA-PROTESTS-LESSONS-01-wgml/00INT-INDIA-PROTESTS-LESSONS-01-wgml-mediumSquareAt3X.jpg",
+      "author": "Somini Sengupta",
+      "excerpt": "Four takeaways from India’s protest movement, at a moment when democracies around the world are under pressure.",
+      "source": "NYT"
+    },
+    {
+      "title": "Iran in ‘Advanced Stages’ of Planning Attacks Against Americans, Officials Say",
+      "link": "https://www.nytimes.com/2026/10/23/us/politics/security-warnings-iran-threats.html",
+      "pubDate": "2026-10-24T03:46:54.000Z",
+      "image": "https://static01.nyt.com/images/2026/10/23/multimedia/dc-iran-security-gcqh/dc-iran-security-gcqh-mediumSquareAt3X.jpg",
+      "author": "Edward Wong, Jonathan Swan and Julian E. Barnes",
+      "excerpt": "The U.S. government has ordered diplomats and other federal employees to leave Saudi Arabia. It is also drawing down staff at other missions in the region.",
+      "source": "NYT"
+    },
+    {
+      "title": "Justice Dept. Demands That California Counties Help Identify Noncitizen Voters",
+      "link": "https://www.nytimes.com/2026/10/23/us/justice-dept-california-noncitizen-voters.html",
+      "pubDate": "2026-10-24T02:35:37.000Z",
+      "image": "https://static01.nyt.com/images/2026/08/26/multimedia/23midterms-doj-california/26dc-mailballot-wmgz-mediumSquareAt3X.jpg",
+      "author": "Laurel Rosenhall and Shawn Hubler",
+      "excerpt": "Election officials across the state received letters from the agency saying if they fail to comply, they “risk significant federal scrutiny.”",
+      "source": "NYT"
+    },
+    {
+      "title": "Trump Officials Seek Block on Alaska Senate Race Results if the Republican Dan Sullivan Loses",
+      "link": "https://www.nytimes.com/2026/10/23/us/politics/justice-dept-alaska-senate-race-sullivan.html",
+      "pubDate": "2026-10-24T02:15:51.000Z",
+      "image": "https://static01.nyt.com/images/2026/10/23/multimedia/23dc-alaska-sub-wpfj/23dc-alaska-sub-wpfj-mediumSquareAt3X.jpg",
+      "author": "Devlin Barrett and Kellen Browning",
+      "excerpt": "The department, in a highly unusual lawsuit, argued that confusion over candidates with similar names could taint the election result.",
+      "source": "NYT"
+    },
+    {
       "title": "In U.S. Gas Talks With Kremlin, Hidden Financing for Alaska Project Emerges",
       "link": "https://www.nytimes.com/2026/10/23/us/politics/in-us-gas-talks-with-kremlin-hidden-financing-for-alaska-project-emerges.html",
-      "pubDate": "2026-10-24T00:27:29.000Z",
+      "pubDate": "2026-10-24T01:39:28.000Z",
       "image": "https://static01.nyt.com/images/2026/10/23/multimedia/23dc-polar-lng-sub-bhcl/23dc-polar-lng-sub-bhcl-mediumSquareAt3X.jpg",
       "author": "Anton Troianovski and Eric Lipton",
       "excerpt": "Interviews and documents show a Russian energy giant secretly funded a U.S. firm. The deal has been discussed in talks to end the war in Ukraine.",
@@ -887,30 +932,12 @@
       "source": "NYT"
     },
     {
-      "title": "Trump Officials Seek Block on Alaska Senate Race Results if the Republican Dan Sullivan Loses",
-      "link": "https://www.nytimes.com/2026/10/23/us/politics/justice-dept-alaska-senate-race-sullivan.html",
-      "pubDate": "2026-10-23T22:40:54.000Z",
-      "image": "https://static01.nyt.com/images/2026/10/23/multimedia/23dc-alaska-sub-wpfj/23dc-alaska-sub-wpfj-mediumSquareAt3X.jpg",
-      "author": "Devlin Barrett and Kellen Browning",
-      "excerpt": "The department, in a highly unusual lawsuit, argued that confusion over candidates with similar names could taint the election result.",
-      "source": "NYT"
-    },
-    {
       "title": "Corey Lewandowski Always Found His Way Back to Trump. Until Now.",
       "link": "https://www.nytimes.com/2026/10/23/us/politics/corey-lewandowski-trump.html",
       "pubDate": "2026-10-23T22:26:55.000Z",
       "image": "https://static01.nyt.com/images/2026/10/23/multimedia/23dc-lewandowski-bzgt/23dc-lewandowski-bzgt-mediumSquareAt3X.jpg",
       "author": "Luke Broadwater",
       "excerpt": "The Justice Department has opened an inquiry into Mr. Lewandowski. President Trump has not jumped to his defense.",
-      "source": "NYT"
-    },
-    {
-      "title": "The Evening: D.O.J. Moves to Block Alaska Result if G.O.P. Loses",
-      "link": "https://www.nytimes.com/2026/10/23/briefing/alaska-west-bank-melanoma.html",
-      "pubDate": "2026-10-23T22:12:12.000Z",
-      "image": "https://static01.nyt.com/images/2026/10/23/multimedia/23evening-nl-alaska-top/23evening-nl-alaska-top-mediumSquareAt3X.jpg",
-      "author": "Whet Moser and Matthew Cullen",
-      "excerpt": "Plus, a promising cancer vaccine. Here’s the latest at the end of Friday.",
       "source": "NYT"
     },
     {
@@ -950,15 +977,6 @@
       "source": "NYT"
     },
     {
-      "title": "Ahead of Tight Race, Trump Swaps Tariffs on Some Canadian Goods",
-      "link": "https://www.nytimes.com/2026/10/23/business/trump-susan-collins-canada-tariffs.html",
-      "pubDate": "2026-10-23T20:29:40.000Z",
-      "image": "https://static01.nyt.com/images/2026/10/23/multimedia/23dc-collins-tariffs-tkwm/23dc-collins-tariffs-tkwm-mediumSquareAt3X.jpg",
-      "author": "Alan Rappeport and Ana Swanson",
-      "excerpt": "The move was announced by Senator Susan Collins, a Maine Republican who faces a tough re-election fight amid rising prices.",
-      "source": "NYT"
-    },
-    {
       "title": "Trump Advisers Give Fees Earned for Aiding Srpska to His Library",
       "link": "https://www.nytimes.com/2026/10/23/us/politics/trump-srpska-donations-library.html",
       "pubDate": "2026-10-23T19:10:04.000Z",
@@ -979,7 +997,7 @@
     {
       "title": "Lawmakers Plan to Block Trump Nominees Over Ukraine Satellite Network Restrictions",
       "link": "https://www.nytimes.com/2026/10/23/us/politics/senators-trump-nominees-ukraine-starlink.html",
-      "pubDate": "2026-10-23T18:18:46.000Z",
+      "pubDate": "2026-10-23T18:18:47.000Z",
       "image": "https://static01.nyt.com/images/2026/10/23/multimedia/23dc-cong-ukraine-01-qmlt/23dc-cong-ukraine-01-qmlt-mediumSquareAt3X.jpg",
       "author": "Robert Jimison",
       "excerpt": "Senators have warned the White House they will withhold confirmation votes until the administration ensures the restoration of communications capabilities used by Ukraine’s military.",
@@ -988,28 +1006,10 @@
     {
       "title": "The Meaning of the Republican War Over Ramaswamy’s Vile Ad",
       "link": "https://www.nytimes.com/2026/10/23/opinion/acton-ramaswamy-ad-trump-ohio.html",
-      "pubDate": "2026-10-23T17:24:53.000Z",
+      "pubDate": "2026-10-23T17:24:54.000Z",
       "image": "https://static01.nyt.com/images/2026/10/24/multimedia/23goldberg-qmkb/23goldberg-qmkb-mediumSquareAt3X.jpg",
       "author": "Michelle Goldberg",
       "excerpt": "The G.O.P. nominee in Ohio has given conservatives space to reckon with the ethical degradation of Trumpism.",
-      "source": "NYT"
-    },
-    {
-      "title": "Are Fewer Teens Identifying as Gay or Bisexual? It’s Complicated.",
-      "link": "https://www.nytimes.com/2026/10/23/science/lgbt-teens-identification.html",
-      "pubDate": "2026-10-23T17:09:05.000Z",
-      "image": "https://static01.nyt.com/images/2026/10/23/science/23SCI-LGB-TEENS/23SCI-LGB-TEENS-mediumSquareAt3X.jpg",
-      "author": "Azeen Ghorayshi",
-      "excerpt": "New data have prompted questions about changes in teens’ sexual orientations. But researchers disagree on how much the numbers can really tell us.",
-      "source": "NYT"
-    },
-    {
-      "title": "Israeli Settlers Turn a Palestinian Rite Into a Gantlet of Violence and Fear",
-      "link": "https://www.nytimes.com/2026/10/23/world/middleeast/west-bank-settlers-palestinians-harvest.html",
-      "pubDate": "2026-10-23T16:47:14.000Z",
-      "image": "https://static01.nyt.com/images/2026/10/23/multimedia/23int-olive-harvest-vfpk/23int-olive-harvest-vfpk-mediumSquareAt3X.jpg",
-      "author": "Fatima AbdulKarim, Gabby Sobelman, Azam Ahmed and Ivor Prickett",
-      "excerpt": "This year’s olive harvest in the Israeli-occupied West Bank is the most violent in years, as settlers have attacked farmers and besieged homes, drawing condemnation from U.S. officials and others.",
       "source": "NYT"
     },
     {
@@ -1019,15 +1019,6 @@
       "image": "https://static01.nyt.com/images/2026/10/23/multimedia/TECHFIX-phone-2-bwcf/TECHFIX-phone-2-bwcf-mediumSquareAt3X.jpg",
       "author": "Brian X. Chen and Camille Cohen",
       "excerpt": "The first-generation Apple foldable may feel awkward, but it’s an intriguing step toward merging phones and tablets into one.",
-      "source": "NYT"
-    },
-    {
-      "title": "Why Has This Teenager Tracked Down 11,377 Moths Since April?",
-      "link": "https://www.nytimes.com/2026/10/23/style/violet-clinton-teen-moth-research.html",
-      "pubDate": "2026-10-23T16:13:07.000Z",
-      "image": "https://static01.nyt.com/images/2026/10/12/multimedia/12ST-TEEN-MOTH-RESEARCHER-promo-ghlk/12ST-TEEN-MOTH-RESEARCHER-promo-ghlk-mediumSquareAt3X.jpg",
-      "author": "Callie Holtermann and Hilary Swift",
-      "excerpt": "Violet Clinton is doing award-winning entomological field research. Her dad still has to buy the beer for her moth bait.",
       "source": "NYT"
     },
     {
