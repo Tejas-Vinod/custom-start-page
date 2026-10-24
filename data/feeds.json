@@ -860,9 +860,18 @@
   ],
   "nytNews": [
     {
+      "title": "Why Democrats Could Find It Hard to Win the Senate Despite Their Strong Polls",
+      "link": "https://www.nytimes.com/2026/10/24/us/politics/democrats-expectations-blue-wave.html",
+      "pubDate": "2026-10-24T17:00:54.000Z",
+      "image": "https://static01.nyt.com/images/2026/10/24/multimedia/24pol-democrats-qwkg/24pol-democrats-qwkg-mediumSquareAt3X.jpg",
+      "author": "Lisa Lerer",
+      "excerpt": "Democrats are increasingly optimistic about the midterms. But they are being outspent by Republicans. And they are trying to compete in states that favored President Trump by large margins.",
+      "source": "NYT"
+    },
+    {
       "title": "Iran in ‘Advanced Stages’ of Planning Attacks Against Americans, Officials Say",
       "link": "https://www.nytimes.com/2026/10/23/us/politics/security-warnings-iran-threats.html",
-      "pubDate": "2026-10-24T14:11:59.000Z",
+      "pubDate": "2026-10-24T16:09:15.000Z",
       "image": "https://static01.nyt.com/images/2026/10/23/multimedia/dc-iran-security-gcqh/dc-iran-security-gcqh-mediumSquareAt3X-v2.jpg",
       "author": "Edward Wong, Jonathan Swan and Julian E. Barnes",
       "excerpt": "The U.S. government has ordered diplomats and other federal employees to leave Saudi Arabia. It is also drawing down staff at other missions in the region.",
@@ -878,9 +887,18 @@
       "source": "NYT"
     },
     {
+      "title": "She Was Punched After Heckling Trump. No One Has Been Charged.",
+      "link": "https://www.nytimes.com/2026/10/24/us/trump-protester-punched-youngstown-ohio.html",
+      "pubDate": "2026-10-24T13:48:56.000Z",
+      "image": "https://static01.nyt.com/images/2026/10/24/multimedia/24nat-trump-protester-1b-vpch/24nat-trump-protester-1b-vpch-mediumSquareAt3X.jpg",
+      "author": "Jessica Contrera",
+      "excerpt": "Blake Miley yelled “fascist” as President Trump spoke at a midterm campaign rally. She knew the risk she was taking, but the violence that followed “was not right,” she said.",
+      "source": "NYT"
+    },
+    {
       "title": "In U.S. Gas Talks With Kremlin, Hidden Financing for Alaska Project Emerges",
       "link": "https://www.nytimes.com/2026/10/23/us/politics/in-us-gas-talks-with-kremlin-hidden-financing-for-alaska-project-emerges.html",
-      "pubDate": "2026-10-24T13:20:35.000Z",
+      "pubDate": "2026-10-24T13:20:36.000Z",
       "image": "https://static01.nyt.com/images/2026/10/23/multimedia/23dc-polar-lng-sub-bhcl/23dc-polar-lng-sub-bhcl-mediumSquareAt3X.jpg",
       "author": "Anton Troianovski and Eric Lipton",
       "excerpt": "Interviews and documents show a Russian energy giant secretly funded a U.S. firm. The deal has been discussed in talks to end the war in Ukraine.",
@@ -959,24 +977,6 @@
       "source": "NYT"
     },
     {
-      "title": "Justice Dept. Demands That California Counties Help Identify Noncitizen Voters",
-      "link": "https://www.nytimes.com/2026/10/23/us/justice-dept-california-noncitizen-voters.html",
-      "pubDate": "2026-10-24T06:21:06.000Z",
-      "image": "https://static01.nyt.com/images/2026/08/26/multimedia/23midterms-doj-california/26dc-mailballot-wmgz-mediumSquareAt3X.jpg",
-      "author": "Laurel Rosenhall and Shawn Hubler",
-      "excerpt": "Election officials across the state received letters from the agency saying if they fail to comply, they “risk significant federal scrutiny.”",
-      "source": "NYT"
-    },
-    {
-      "title": "New York Archdiocese Close to Settling Sexual Abuse Claims for Over $800 Million",
-      "link": "https://www.nytimes.com/2026/10/24/us/archdiocese-new-york-sexual-abuse-settlement.html",
-      "pubDate": "2026-10-24T04:12:17.000Z",
-      "image": "https://static01.nyt.com/images/2026/10/02/multimedia/00met-hfo-archdiocese-settlement-whck/00met-hfo-archdiocese-settlement-whck-mediumSquareAt3X.jpg",
-      "author": "Maya King and Jeffery C. Mays",
-      "excerpt": "The Roman Catholic archdiocese might now avoid bankruptcy by reaching a settlement with 1,300 people who said they had been abused by clergy members and lay leaders.",
-      "source": "NYT"
-    },
-    {
       "title": "Trump Officials Seek Block on Alaska Senate Race Results if the Republican Dan Sullivan Loses",
       "link": "https://www.nytimes.com/2026/10/23/us/politics/justice-dept-alaska-senate-race-sullivan.html",
       "pubDate": "2026-10-24T02:15:51.000Z",
@@ -988,7 +988,7 @@
     {
       "title": "Why Legal Experts See the Justice Dept.’s Alaska Election Challenge as Dubious",
       "link": "https://www.nytimes.com/2026/10/23/us/alaska-senate-doj-lawsuit-trump.html",
-      "pubDate": "2026-10-23T23:22:41.000Z",
+      "pubDate": "2026-10-23T23:22:42.000Z",
       "image": "https://static01.nyt.com/images/2026/10/23/multimedia/23dc-alaska-legal-cfph/23dc-alaska-legal-cfph-mediumSquareAt3X.jpg",
       "author": "Charlie Savage",
       "excerpt": "No obvious legal authority supports a pre-emptive effort to block the certification of Alaska’s Senate election if the Republican incumbent narrowly loses.",
