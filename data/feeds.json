@@ -860,6 +860,78 @@
   ],
   "nytNews": [
     {
+      "title": "Outside Chance",
+      "link": "https://www.nytimes.com/2026/10/24/briefing/outside-chance.html",
+      "pubDate": "2026-10-24T09:22:22.000Z",
+      "image": null,
+      "author": "Melissa Kirsch",
+      "excerpt": "We’ve plunged fully into fall, complete with cozy scarves and puffy vests. Why not venture into the woods?",
+      "source": "NYT"
+    },
+    {
+      "title": "Gina Hinojosa Believes She’s the One Who Can Finally Flip Texas",
+      "link": "https://www.nytimes.com/2026/10/24/magazine/gina-hinojosa-interview.html",
+      "pubDate": "2026-10-24T09:15:04.000Z",
+      "image": "https://static01.nyt.com/images/2026/11/01/magazine/01mag-interview-hinojosa-02/01mag-interview-hinojosa-02-mediumSquareAt3X.jpg",
+      "author": "Lulu Garcia-Navarro",
+      "excerpt": "The Democratic nominee for governor on her appeal to MAGA voters and her refusal to engage in the “culture wars.”",
+      "source": "NYT"
+    },
+    {
+      "title": "Looting Left Damage and Fear on Paradise Street in Marseille",
+      "link": "https://www.nytimes.com/2026/10/24/world/europe/france-looting-rue-paradis-marseille.html",
+      "pubDate": "2026-10-24T09:04:28.000Z",
+      "image": "https://static01.nyt.com/images/2026/10/24/multimedia/24int-france-marseille-jfgm/24int-france-marseille-jfgm-mediumSquareAt3X.jpg",
+      "author": "Ben Hubbard",
+      "excerpt": "Looters ravaged a storied commercial avenue in France’s second-largest city. Its merchants fear that more unrest could follow.",
+      "source": "NYT"
+    },
+    {
+      "title": "How Vivek Ramaswamy’s Ruthless Ad in Ohio Divided Republicans",
+      "link": "https://www.nytimes.com/2026/10/24/us/politics/vivek-ramaswamy-ad-ohio-amy-acton.html",
+      "pubDate": "2026-10-24T09:03:21.000Z",
+      "image": "https://static01.nyt.com/images/2026/10/24/multimedia/24pol-ohio-fallout-01-phtq/24pol-ohio-fallout-01-phtq-mediumSquareAt3X.jpg",
+      "author": "Reid J. Epstein and Campbell Robertson",
+      "excerpt": "The fallout from Vivek Ramaswamy’s brutal spot targeting his Democratic rival in the Ohio governor’s race showed that even in the Trump era, a political attack can be seen as going too far.",
+      "source": "NYT"
+    },
+    {
+      "title": "5 Takeaways From Our Investigation of Trump’s Waivers for Polluters",
+      "link": "https://www.nytimes.com/2026/10/24/climate/takeaways-trump-waivers-chemical-pollution.html",
+      "pubDate": "2026-10-24T09:01:26.000Z",
+      "image": "https://static01.nyt.com/images/2026/10/22/multimedia/00CLI-POLLUTION-EPA-TAKEAWAYS-glzb/00CLI-POLLUTION-EPA-TAKEAWAYS-glzb-mediumSquareAt3X.jpg",
+      "author": "Maxine Joselow and Eric Lipton",
+      "excerpt": "Chemical plants and other industrial facilities had been required to curb their toxic emissions. A New York Times investigation shows how they got out of it.",
+      "source": "NYT"
+    },
+    {
+      "title": "How Trump Gave the Worst Polluters a Free Pass",
+      "link": "https://www.nytimes.com/2026/10/24/climate/trump-epa-chemical-air-pollution.html",
+      "pubDate": "2026-10-24T09:01:00.000Z",
+      "image": null,
+      "author": "Eric Lipton, Maxine Joselow and Mira Rojanasakul",
+      "excerpt": "The president temporarily waived clean-air rules for industrial facilities that spew cancer-causing gases. Then his appointees worked to gut the regulations altogether.",
+      "source": "NYT"
+    },
+    {
+      "title": "They Were Accused of Illegal Fishing. They Ended Up in ICE Detention.",
+      "link": "https://www.nytimes.com/2026/10/24/us/politics/fishing-immigration-trump.html",
+      "pubDate": "2026-10-24T09:00:48.000Z",
+      "image": "https://static01.nyt.com/images/2026/10/21/multimedia/00dc-ice-local-officers-01-flhb/00dc-ice-local-officers-01-flhb-mediumSquareAt3X.jpg",
+      "author": "Madeleine Ngo and David Ovalle",
+      "excerpt": "In states like Florida, officers who hand out fishing citations and inspect produce have been deputized by Immigration and Customs Enforcement, expanding the reach of President Trump’s deportation campaign.",
+      "source": "NYT"
+    },
+    {
+      "title": "Justice Dept. Demands That California Counties Help Identify Noncitizen Voters",
+      "link": "https://www.nytimes.com/2026/10/23/us/justice-dept-california-noncitizen-voters.html",
+      "pubDate": "2026-10-24T06:21:05.000Z",
+      "image": "https://static01.nyt.com/images/2026/08/26/multimedia/23midterms-doj-california/26dc-mailballot-wmgz-mediumSquareAt3X.jpg",
+      "author": "Laurel Rosenhall and Shawn Hubler",
+      "excerpt": "Election officials across the state received letters from the agency saying if they fail to comply, they “risk significant federal scrutiny.”",
+      "source": "NYT"
+    },
+    {
       "title": "New York Archdiocese Close to Settling Sexual Abuse Claims for Over $800 Million",
       "link": "https://www.nytimes.com/2026/10/24/us/archdiocese-new-york-sexual-abuse-settlement.html",
       "pubDate": "2026-10-24T04:12:17.000Z",
@@ -869,12 +941,12 @@
       "source": "NYT"
     },
     {
-      "title": "How Defiant Youth Are Testing India’s Idea of Democracy",
-      "link": "https://www.nytimes.com/2026/10/24/world/asia/india-youth-democracy-protest.html",
-      "pubDate": "2026-10-24T04:01:08.000Z",
-      "image": "https://static01.nyt.com/images/2026/10/21/multimedia/00INT-INDIA-PROTESTS-LESSONS-01-wgml/00INT-INDIA-PROTESTS-LESSONS-01-wgml-mediumSquareAt3X.jpg",
-      "author": "Somini Sengupta",
-      "excerpt": "Four takeaways from India’s protest movement, at a moment when democracies around the world are under pressure.",
+      "title": "Netanyahu Has Reinvented Himself. Will Voters Think It’s Enough?",
+      "link": "https://www.nytimes.com/2026/10/24/world/middleeast/netanyahu-has-reinvented-himself-will-voters-think-its-enough.html",
+      "pubDate": "2026-10-24T04:01:09.000Z",
+      "image": "https://static01.nyt.com/images/2026/10/22/multimedia/xxint-israel-netanyahu-profile-gvjt/xxint-israel-netanyahu-profile-gvjt-mediumSquareAt3X.jpg",
+      "author": "Isabel Kershner",
+      "excerpt": "The Oct. 7 attacks marred Prime Minister Benjamin Netanyahu’s image as Mr. Security. Ahead of elections, he’s trying to sell Israelis on the new, hawkish version of himself.",
       "source": "NYT"
     },
     {
@@ -887,15 +959,6 @@
       "source": "NYT"
     },
     {
-      "title": "Justice Dept. Demands That California Counties Help Identify Noncitizen Voters",
-      "link": "https://www.nytimes.com/2026/10/23/us/justice-dept-california-noncitizen-voters.html",
-      "pubDate": "2026-10-24T02:35:37.000Z",
-      "image": "https://static01.nyt.com/images/2026/08/26/multimedia/23midterms-doj-california/26dc-mailballot-wmgz-mediumSquareAt3X.jpg",
-      "author": "Laurel Rosenhall and Shawn Hubler",
-      "excerpt": "Election officials across the state received letters from the agency saying if they fail to comply, they “risk significant federal scrutiny.”",
-      "source": "NYT"
-    },
-    {
       "title": "Trump Officials Seek Block on Alaska Senate Race Results if the Republican Dan Sullivan Loses",
       "link": "https://www.nytimes.com/2026/10/23/us/politics/justice-dept-alaska-senate-race-sullivan.html",
       "pubDate": "2026-10-24T02:15:51.000Z",
@@ -905,12 +968,12 @@
       "source": "NYT"
     },
     {
-      "title": "In U.S. Gas Talks With Kremlin, Hidden Financing for Alaska Project Emerges",
-      "link": "https://www.nytimes.com/2026/10/23/us/politics/in-us-gas-talks-with-kremlin-hidden-financing-for-alaska-project-emerges.html",
-      "pubDate": "2026-10-24T01:39:28.000Z",
-      "image": "https://static01.nyt.com/images/2026/10/23/multimedia/23dc-polar-lng-sub-bhcl/23dc-polar-lng-sub-bhcl-mediumSquareAt3X.jpg",
-      "author": "Anton Troianovski and Eric Lipton",
-      "excerpt": "Interviews and documents show a Russian energy giant secretly funded a U.S. firm. The deal has been discussed in talks to end the war in Ukraine.",
+      "title": "What to Know About Alaska’s Senate Race",
+      "link": "https://www.nytimes.com/2026/10/23/us/politics/alaska-senate-race-explainer.html",
+      "pubDate": "2026-10-23T23:22:52.000Z",
+      "image": "https://static01.nyt.com/images/2026/10/23/multimedia/23pol-onpolitics-newsletter-sullivan-bmfp/23pol-onpolitics-newsletter-sullivan-bmfp-mediumSquareAt3X.jpg",
+      "author": "Jess Bidgood",
+      "excerpt": "President Trump told the Justice Department to intervene in the race, where polling shows Republicans at risk of losing a seat.",
       "source": "NYT"
     },
     {
@@ -923,33 +986,6 @@
       "source": "NYT"
     },
     {
-      "title": "Judge Denies Medical Release for N.Y.C. Man Shot by ICE",
-      "link": "https://www.nytimes.com/2026/10/23/nyregion/ice-shooting-oscar-belgal-judge-ruling.html",
-      "pubDate": "2026-10-23T23:20:52.000Z",
-      "image": "https://static01.nyt.com/images/2026/10/22/multimedia/00met-ice-release1-jlmf/00met-ice-release1-jlmf-mediumSquareAt3X.jpg",
-      "author": "Luis Ferré-Sadurní",
-      "excerpt": "Oscar Belgal, a Dominican immigrant, was shot in the neck on Oct. 8 and detained at a federal prison. His lawyers had said he needed outside medical care.",
-      "source": "NYT"
-    },
-    {
-      "title": "Corey Lewandowski Always Found His Way Back to Trump. Until Now.",
-      "link": "https://www.nytimes.com/2026/10/23/us/politics/corey-lewandowski-trump.html",
-      "pubDate": "2026-10-23T22:26:55.000Z",
-      "image": "https://static01.nyt.com/images/2026/10/23/multimedia/23dc-lewandowski-bzgt/23dc-lewandowski-bzgt-mediumSquareAt3X.jpg",
-      "author": "Luke Broadwater",
-      "excerpt": "The Justice Department has opened an inquiry into Mr. Lewandowski. President Trump has not jumped to his defense.",
-      "source": "NYT"
-    },
-    {
-      "title": "‘I Have to Go In’: Kaylub Giamanco Describes Killing Gunman in Oregon School Shooting",
-      "link": "https://www.nytimes.com/2026/10/23/us/oregon-shooting-gunman-kaylub-giamanco.html",
-      "pubDate": "2026-10-23T21:33:59.000Z",
-      "image": "https://static01.nyt.com/images/2026/10/23/multimedia/23xp-bend-01-hmbz/23xp-bend-01-hmbz-mediumSquareAt3X.jpg",
-      "author": "Michael Levenson",
-      "excerpt": "Kaylub Giamanco told Oregon Public Broadcasting that he happened to be driving by the Silver Rail Elementary School in Bend when he saw a gunman preparing to enter the school.",
-      "source": "NYT"
-    },
-    {
       "title": "What Hundreds of Focus Groups With Trump Voters Revealed",
       "link": "https://www.nytimes.com/2026/10/23/opinion/ezra-klein-podcast-sarah-longwell.html",
       "pubDate": "2026-10-23T21:13:11.000Z",
@@ -959,48 +995,12 @@
       "source": "NYT"
     },
     {
-      "title": "Two Former F.B.I. Officials Charged With False Statements About Hunter Biden",
-      "link": "https://www.nytimes.com/2026/10/23/us/politics/hunter-biden-ex-fbi-officials-charged.html",
-      "pubDate": "2026-10-23T20:54:25.000Z",
-      "image": "https://static01.nyt.com/images/2026/10/23/multimedia/23dc-fbi-bglz/23dc-fbi-bglz-mediumSquareAt3X.jpg",
-      "author": "Alan Feuer, Charlie Savage and Zach Montague",
-      "excerpt": "The charges intensified the administration’s efforts to go after the law enforcement and intelligence personnel who cast doubt on unsubstantiated claims that Joseph R. Biden Jr. engaged in corrupt dealings in Ukraine.",
-      "source": "NYT"
-    },
-    {
-      "title": "Appeals Court Backs Trump on Constitutionality of Detentions",
-      "link": "https://www.nytimes.com/2026/10/23/us/politics/appeals-court-trump-constitution-detention.html",
-      "pubDate": "2026-10-23T20:47:16.000Z",
-      "image": "https://static01.nyt.com/images/2026/10/23/multimedia/23dc-immig-jbmk/23dc-immig-jbmk-mediumSquareAt3X.jpg",
-      "author": "Mattathias Schwartz",
-      "excerpt": "The ruling, from the U.S. Court of Appeals for the Fifth Circuit, sharply curtails the ability of judges to free undocumented immigrants.",
-      "source": "NYT"
-    },
-    {
-      "title": "Trump Advisers Give Fees Earned for Aiding Srpska to His Library",
-      "link": "https://www.nytimes.com/2026/10/23/us/politics/trump-srpska-donations-library.html",
-      "pubDate": "2026-10-23T19:10:04.000Z",
-      "image": "https://static01.nyt.com/images/2026/10/23/multimedia/23dc-Srpska-vptf/23dc-Srpska-vptf-mediumSquareAt3X.jpg",
-      "author": "Kenneth P. Vogel",
-      "excerpt": "The donations from James Blair and Chris LaCivita were revealed after the president expressed pique over their consulting work for Republika Srpska.",
-      "source": "NYT"
-    },
-    {
-      "title": "How Worried Should We Be About the Economy? Let’s Look at 2008.",
-      "link": "https://www.nytimes.com/2026/10/23/business/economy-2008-financial-crisis.html",
-      "pubDate": "2026-10-23T18:46:44.000Z",
-      "image": "https://static01.nyt.com/images/2026/10/25/business/25bizsun-Crash-Again-illo/25bizsun-Crash-Again-illo-mediumSquareAt3X.jpg",
-      "author": "Peter Coy",
-      "excerpt": "It’s not impossible to spot the characteristics of a brewing financial crisis. We can look to 2008 for clues.",
-      "source": "NYT"
-    },
-    {
-      "title": "Lawmakers Plan to Block Trump Nominees Over Ukraine Satellite Network Restrictions",
-      "link": "https://www.nytimes.com/2026/10/23/us/politics/senators-trump-nominees-ukraine-starlink.html",
-      "pubDate": "2026-10-23T18:18:47.000Z",
-      "image": "https://static01.nyt.com/images/2026/10/23/multimedia/23dc-cong-ukraine-01-qmlt/23dc-cong-ukraine-01-qmlt-mediumSquareAt3X.jpg",
-      "author": "Robert Jimison",
-      "excerpt": "Senators have warned the White House they will withhold confirmation votes until the administration ensures the restoration of communications capabilities used by Ukraine’s military.",
+      "title": "Ahead of Tight Race, Trump Swaps Tariffs on Some Canadian Goods",
+      "link": "https://www.nytimes.com/2026/10/23/business/trump-susan-collins-canada-tariffs.html",
+      "pubDate": "2026-10-23T20:29:40.000Z",
+      "image": "https://static01.nyt.com/images/2026/10/23/multimedia/23dc-collins-tariffs-tkwm/23dc-collins-tariffs-tkwm-mediumSquareAt3X.jpg",
+      "author": "Alan Rappeport and Ana Swanson",
+      "excerpt": "The move was announced by Senator Susan Collins, a Maine Republican who faces a tough re-election fight amid rising prices.",
       "source": "NYT"
     },
     {
@@ -1010,24 +1010,6 @@
       "image": "https://static01.nyt.com/images/2026/10/24/multimedia/23goldberg-qmkb/23goldberg-qmkb-mediumSquareAt3X.jpg",
       "author": "Michelle Goldberg",
       "excerpt": "The G.O.P. nominee in Ohio has given conservatives space to reckon with the ethical degradation of Trumpism.",
-      "source": "NYT"
-    },
-    {
-      "title": "Apple’s Foldable iPhone Duo Arrives in Stores: Smartphone Review",
-      "link": "https://www.nytimes.com/2026/10/23/technology/personaltech/iphone-duo-review-tablet-smartphone.html",
-      "pubDate": "2026-10-23T16:14:56.000Z",
-      "image": "https://static01.nyt.com/images/2026/10/23/multimedia/TECHFIX-phone-2-bwcf/TECHFIX-phone-2-bwcf-mediumSquareAt3X.jpg",
-      "author": "Brian X. Chen and Camille Cohen",
-      "excerpt": "The first-generation Apple foldable may feel awkward, but it’s an intriguing step toward merging phones and tablets into one.",
-      "source": "NYT"
-    },
-    {
-      "title": "Trump’s Attacks on Voting Raise Fears He Will Try to Challenge Midterm Results",
-      "link": "https://www.nytimes.com/2026/10/15/us/politics/trumps-attacks-voting-midterms.html",
-      "pubDate": "2026-10-16T19:49:20.000Z",
-      "image": "https://static01.nyt.com/images/2026/10/15/multimedia/15dc-trump-midterms-mqfb/15dc-trump-midterms-mqfb-mediumSquareAt3X.jpg",
-      "author": "Zolan Kanno-Youngs",
-      "excerpt": "Election officials say they worry the administration could use its own unsubstantiated claims to contest the vote in November.",
       "source": "NYT"
     }
   ]
