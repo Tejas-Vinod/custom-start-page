@@ -1,6 +1,15 @@
 {
   "spaceNews": [
     {
+      "title": "APOD: 2026 October 25 – Dark Matter in a Simulated Universe",
+      "link": "https://science.nasa.gov/image-article/apod-2026-october-25-dark-matter-in-a-simulated-universe/",
+      "pubDate": "2026-10-25T08:19:48.000Z",
+      "image": "https://assets.science.nasa.gov/content/dam/science/cds/apod/apod/2021/october/DarkMatter_KipacAmnh_1200.jpg?w=1200&#038;h=900&#038;fit=clip&#038;crop=faces%2Cfocalpoint",
+      "author": "",
+      "excerpt": "APOD Science APOD APOD: 2026 October 25 – Dark… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professi",
+      "source": "NASA"
+    },
+    {
       "title": "APOD: 2026 October 24 – Rosetta’s Selfie",
       "link": "https://science.nasa.gov/image-article/apod-2026-october-24-rosettas-selfie/",
       "pubDate": "2026-10-24T04:05:00.000Z",
@@ -142,15 +151,6 @@
       "image": null,
       "author": "Lee Mohon",
       "excerpt": "Members of the media are invited to join NASA at the 2026 von Braun Space Exploration Symposium from Monday, Oct. 26, to Wednesday, Oct. 28, at the University of Alabama in Huntsville. This year’s symposium is focused on humanity’s return to the Moon, sustainable lunar infrastructure, advanced space propulsion, and the",
-      "source": "NASA"
-    },
-    {
-      "title": "Spiral’s Edge",
-      "link": "https://www.nasa.gov/image-article/spirals-edge/",
-      "pubDate": "2026-10-22T21:35:38.000Z",
-      "image": "https://www.nasa.gov/wp-content/uploads/2026/10/hubble-ngc1827-1-flat-final.jpg?w=2048",
-      "author": "HQ Web Team",
-      "excerpt": "This NASA Hubble Space Telescope image released on Oct. 16, 2026, features the edge-on, intermediate spiral galaxy NGC 1827, located roughly 37 million light-years away in the constellation Columba, the Dove. Hubble captured the image as part of a survey looking at 260 satellite galaxies around 22 Milky Way-like host g",
       "source": "NASA"
     },
     {
@@ -860,6 +860,78 @@
   ],
   "nytNews": [
     {
+      "title": "Public Colleges Are Passing the $50,000-a-Year Mark. For Locals.",
+      "link": "https://www.nytimes.com/2026/10/25/business/california-colleges-costs.html",
+      "pubDate": "2026-10-25T11:11:21.000Z",
+      "image": "https://static01.nyt.com/images/2026/10/24/multimedia/24Biz-UC-50-lede-lkcm/24Biz-UC-50-lede-lkcm-mediumSquareAt3X.jpg",
+      "author": "Ron Lieber and Alex Welsh For The New York Times",
+      "excerpt": "At the University of California campuses in Berkeley, Irvine and Santa Barbara, students get an unwitting education in navigating the housing market.",
+      "source": "NYT"
+    },
+    {
+      "title": "Thomas L. Friedman: We Just Set Off the Second Big Bang",
+      "link": "https://www.nytimes.com/2026/10/25/opinion/ai-second-big-bang.html",
+      "pubDate": "2026-10-25T11:00:04.000Z",
+      "image": null,
+      "author": "Thomas L. Friedman, Havovi Cooper and Mehron Abdi",
+      "excerpt": "Humanity is entering its most dangerous era yet.",
+      "source": "NYT"
+    },
+    {
+      "title": "Netanyahu Won the Middle East and Lost the World",
+      "link": "https://www.nytimes.com/2026/10/25/opinion/israel-gaza-election-netanyahu-hamas.html",
+      "pubDate": "2026-10-25T10:00:17.000Z",
+      "image": "https://static01.nyt.com/images/2026/10/25/opinion/25klein/25klein-mediumSquareAt3X.jpg",
+      "author": "Ezra Klein",
+      "excerpt": "Both Israelis and Palestinians are trapped in the Netanyahu paradigm.",
+      "source": "NYT"
+    },
+    {
+      "title": "Democrats Have Edge Across Four Key House Races in Pennsylvania, Polls Find",
+      "link": "https://www.nytimes.com/2026/10/25/us/politics/polls-pennsylvania-house-midterms-battlegrounds.html",
+      "pubDate": "2026-10-25T09:01:59.000Z",
+      "image": "https://static01.nyt.com/images/2026/10/23/multimedia/2026-10-16-national-poll-pa/2026-10-16-national-poll-pa-mediumSquareAt3X-v11.png",
+      "author": "Shane Goldmacher and Ruth Igielnik",
+      "excerpt": "Democratic candidates are ahead in two, hold a narrow edge in a third and are tied in a fourth, new polling shows. The seats embody the fights playing out nationwide in the midterms.",
+      "source": "NYT"
+    },
+    {
+      "title": "What to Know About Brazil’s Election as Bolsonaro Faces Off With Lula",
+      "link": "https://www.nytimes.com/2026/10/25/world/americas/brazil-election-lula-bolsonaro-what-to-know.html",
+      "pubDate": "2026-10-25T09:01:45.000Z",
+      "image": "https://static01.nyt.com/images/2026/10/25/multimedia/25int-brazil-election-wtk-kwpv/25int-brazil-election-wtk-kwpv-mediumSquareAt3X.jpg",
+      "author": "Ana Ionova",
+      "excerpt": "Luiz Inácio Lula da Silva, the leftist incumbent, and Flávio Bolsonaro, the right-wing challenger, face off in a narrow race that could redefine the future of Latin America.",
+      "source": "NYT"
+    },
+    {
+      "title": "Latinos Are Now America’s Most Important Swing Voters",
+      "link": "https://www.nytimes.com/2026/10/25/us/politics/latino-voters-poll-midterm-elections.html",
+      "pubDate": "2026-10-25T09:01:38.000Z",
+      "image": "https://static01.nyt.com/images/2026/10/23/multimedia/23pol-poll-latinos-kqzb/23pol-poll-latinos-kqzb-mediumSquareAt3X.jpg",
+      "author": "Jennifer Medina and Ruth Igielnik",
+      "excerpt": "Latinos helped fuel President Trump’s return to the White House. But Democrats have won back the trust of many Hispanic voters over the past two years.",
+      "source": "NYT"
+    },
+    {
+      "title": "Israel’s High-Stakes Election: What to Know",
+      "link": "https://www.nytimes.com/2026/10/25/world/middleeast/israels-high-stakes-election-what-to-know.html",
+      "pubDate": "2026-10-25T09:01:00.000Z",
+      "image": "https://static01.nyt.com/images/2026/10/27/multimedia/27israel-simple-explainer-kgjv/27israel-simple-explainer-kgjv-mediumSquareAt3X.jpg",
+      "author": "Ephrat Livni",
+      "excerpt": "Israelis head to the polls on Tuesday for an election that will determine the country’s next prime minister. But it can take weeks, months or longer to form a new government.",
+      "source": "NYT"
+    },
+    {
+      "title": "Introducing a New Way to Understand the Election: Times Voter Trends",
+      "link": "https://www.nytimes.com/2026/10/25/upshot/election-midterms-times-voter-trends.html",
+      "pubDate": "2026-10-25T05:40:13.000Z",
+      "image": "https://static01.nyt.com/images/2026/10/24/multimedia/us-estimates-2024-promo/us-estimates-2024-promo-mediumSquareAt3X.png",
+      "author": "Nate Cohn",
+      "excerpt": "A timely demographic story we’ve never been able to tell before.",
+      "source": "NYT"
+    },
+    {
       "title": "Iranians Face Anxious Wait as Threat of Attack Looms",
       "link": "https://www.nytimes.com/2026/10/24/world/middleeast/iranians-face-anxious-wait-as-threat-of-attack-looms.html",
       "pubDate": "2026-10-25T05:14:43.000Z",
@@ -869,57 +941,21 @@
       "source": "NYT"
     },
     {
-      "title": "The Grace We Seek but Have Forgotten",
-      "link": "https://www.nytimes.com/2026/10/25/opinion/the-grace-we-seek-but-have-forgotten.html",
-      "pubDate": "2026-10-25T05:00:05.000Z",
+      "title": "He Helped Deport 200 People. Now He Has Misgivings.",
+      "link": "https://www.nytimes.com/2026/10/25/magazine/ice-deputy-texas-police.html",
+      "pubDate": "2026-10-25T04:01:12.000Z",
       "image": null,
-      "author": "Lydia Sohn",
-      "excerpt": "We hurt one another, we fail one another, but we still have to figure out how to live with one another.",
-      "source": "NYT"
-    },
-    {
-      "title": "Obama Issues Searing Attacks on Trump, Ramaswamy in Return to Campaign Trail",
-      "link": "https://www.nytimes.com/2026/10/24/us/politics/obama-trump-midterms-campaign.html",
-      "pubDate": "2026-10-25T02:39:57.000Z",
-      "image": "https://static01.nyt.com/images/2026/10/24/multimedia/24pol-obama-trump-pqgh/24pol-obama-trump-pqgh-mediumSquareAt3X-v3.jpg",
-      "author": "Tim Balk, Emily Davies, John Yoon and Richard Fausset",
-      "excerpt": "The 44th president sharply criticized Mr. Trump, who hit back later in the day. Mr. Obama also assailed Vivek Ramaswamy, the Republican nominee for governor of Ohio.",
-      "source": "NYT"
-    },
-    {
-      "title": "Italy’s Young Protesters Return to the Streets",
-      "link": "https://www.nytimes.com/live/2026/10/24/world/france-protests-riots/milan-youth-protests",
-      "pubDate": "2026-10-25T01:26:08.000Z",
-      "image": "https://static01.nyt.com/images/2026/10/24/multimedia/24france-protests-italy-jgzt/24france-protests-italy-jgzt-mediumSquareAt3X.jpg",
-      "author": "Josephine de La Bruyère",
-      "excerpt": "Fed up with the political establishment and rising cost of living, demonstrators hoped to make their message heard after violence overshadowed protests last weekend.",
+      "author": "Francesca D’Annunzio, McKenzie Funk and Kirsten Luce",
+      "excerpt": "A deputy in small-town Texas became the local face of ICE’s national crackdown.",
       "source": "NYT"
     },
     {
       "title": "A New Level of Threat and Fear Risks Pushing the U.S. and Iran Back to Full War",
       "link": "https://www.nytimes.com/2026/10/24/us/politics/trump-netanyahu-iran-new-phase-of-war.html",
       "pubDate": "2026-10-25T01:06:17.000Z",
-      "image": "https://static01.nyt.com/images/2026/10/24/multimedia/24dc-prexy-iran-pkhc/24dc-prexy-iran-pkhc-mediumSquareAt3X.jpg",
+      "image": "https://static01.nyt.com/images/2026/10/24/multimedia/24dc-prexy-iran-pkhc/24dc-prexy-iran-pkhc-mediumSquareAt3X-v3.jpg",
       "author": "David E. Sanger, Julian E. Barnes, Jonathan Swan, Maggie Haberman, Farnaz Fassihi and Eric Schmitt",
       "excerpt": "With new intelligence and the possibility of all sides seeking pretexts for action, the war in Iran is entering a dangerous phase ahead of elections in the United States and Israel.",
-      "source": "NYT"
-    },
-    {
-      "title": "Elon Musk Says Ukraine Violated Starlink’s Rules",
-      "link": "https://www.nytimes.com/2026/10/24/world/europe/ukraine-starshield-drone-speed.html",
-      "pubDate": "2026-10-25T00:10:07.000Z",
-      "image": "https://static01.nyt.com/images/2026/10/24/multimedia/24int-ukraine-starshield-jmgk/24int-ukraine-starshield-jmgk-mediumSquareAt3X.jpg",
-      "author": "Sheera Frenkel, Siobhán O’Grady and Liubov Sholudko",
-      "excerpt": "The comments were his first since the disruption in the country’s satellite service. Earlier, Ukraine said drones using Starshield, the Pentagon-funded service, were back to normal speeds.",
-      "source": "NYT"
-    },
-    {
-      "title": "In Alaska, Some Early Voting Sites in Rural Villages Have Not Yet Opened",
-      "link": "https://www.nytimes.com/2026/10/24/us/alaska-early-voting-sites.html",
-      "pubDate": "2026-10-24T22:06:45.000Z",
-      "image": "https://static01.nyt.com/images/2026/10/24/multimedia/24nat-alaska-voting-sites/24hp-alaska-legal-promo-01-zqgl-mediumSquareAt3X.jpg",
-      "author": "Anna Griffin and Emily Schwing",
-      "excerpt": "“There is no legal excuse” for the failure of 18 polling sites to open for early voting, a state lawmaker said.",
       "source": "NYT"
     },
     {
@@ -932,75 +968,30 @@
       "source": "NYT"
     },
     {
-      "title": "What Happens if Trump Doesn’t Like the Midterm Results?",
-      "link": "https://www.nytimes.com/2026/10/24/opinion/trump-midterm-elections-results-predictions.html",
-      "pubDate": "2026-10-24T20:09:53.000Z",
-      "image": "https://static01.nyt.com/images/2026/10/24/opinion/24opinions-roundtable-art/24opinions-roundtable-art-mediumSquareAt3X-v2.png",
-      "author": "Michelle Cottle, Jamelle Bouie, David French and Derek Arthur",
-      "excerpt": "Hope, dread and the final stretch to Election Day.",
+      "title": "The Other Bolsonaro Who Could Become Brazil’s Next President",
+      "link": "https://www.nytimes.com/2026/10/24/world/americas/flavio-bolsonaro-brazil-election-president.html",
+      "pubDate": "2026-10-24T09:03:13.000Z",
+      "image": "https://static01.nyt.com/images/2026/10/24/multimedia/24int-brazil-bolsonaro-profile-cwqg/24int-brazil-bolsonaro-profile-cwqg-mediumSquareAt3X.jpg",
+      "author": "Ana Ionova",
+      "excerpt": "Flávio Bolsonaro, the son of the former president who was jailed over a coup plot, could be on the cusp of winning Brazil’s presidency.",
       "source": "NYT"
     },
     {
-      "title": "Alaska Election Gambit Shows Justice Dept. Has Bowed to Trump’s Demands",
-      "link": "https://www.nytimes.com/2026/10/24/us/politics/alaska-senate-election-trump-justice-department.html",
-      "pubDate": "2026-10-24T19:21:11.000Z",
-      "image": "https://static01.nyt.com/images/2026/10/24/multimedia/24dc-trump-justice-topart-02-kjvw/24dc-trump-justice-topart-02-kjvw-mediumSquareAt3X.jpg",
-      "author": "Glenn Thrush, Katie Rogers and Zolan Kanno-Youngs",
-      "excerpt": "With moves in Alaska and California, the department has stepped up interventions in the midterm elections as the president’s instrument of unmediated executive power.",
+      "title": "Could Lula Be on the Brink of Defeat in Brazil’s Election?",
+      "link": "https://www.nytimes.com/2026/10/24/world/americas/lula-brazil-election-president.html",
+      "pubDate": "2026-10-24T09:02:26.000Z",
+      "image": "https://static01.nyt.com/images/2026/10/22/multimedia/00int-brazil-lula-profile-bwkl/00int-brazil-lula-profile-bwkl-mediumSquareAt3X.jpg",
+      "author": "Ana Ionova",
+      "excerpt": "Brazil’s President Luiz Inácio Lula da Silva faces an uphill battle for another term, in a high-stakes election that may reshape Latin America.",
       "source": "NYT"
     },
     {
-      "title": "She Planned to Protest Trump. She Didn’t Plan on Getting Punched.",
-      "link": "https://www.nytimes.com/2026/10/24/us/trump-protester-punched-youngstown-ohio.html",
-      "pubDate": "2026-10-24T18:08:58.000Z",
-      "image": "https://static01.nyt.com/images/2026/10/24/multimedia/24nat-trump-protester-1b-vpch/24nat-trump-protester-1b-vpch-mediumSquareAt3X.jpg",
-      "author": "Jessica Contrera",
-      "excerpt": "Blake Miley yelled “fascist” as President Trump spoke at a midterm campaign rally. The violence that followed “was not right,” she said.",
-      "source": "NYT"
-    },
-    {
-      "title": "Why Democrats Could Find It Hard to Win the Senate Despite Their Strong Polls",
-      "link": "https://www.nytimes.com/2026/10/24/us/politics/democrats-expectations-blue-wave.html",
-      "pubDate": "2026-10-24T17:00:54.000Z",
-      "image": "https://static01.nyt.com/images/2026/10/24/multimedia/24pol-democrats-qwkg/24pol-democrats-qwkg-mediumSquareAt3X.jpg",
-      "author": "Lisa Lerer",
-      "excerpt": "Democrats are increasingly optimistic about the midterms. But they are being outspent by Republicans. And they are trying to compete in states that favored President Trump by large margins.",
-      "source": "NYT"
-    },
-    {
-      "title": "What This Democrat’s Surge in Texas Says About the Midterms",
-      "link": "https://www.nytimes.com/2026/10/24/magazine/gina-hinojosa-interview.html",
-      "pubDate": "2026-10-24T12:51:26.000Z",
-      "image": "https://static01.nyt.com/images/2026/11/01/magazine/01mag-interview-hinojosa-02/01mag-interview-hinojosa-02-mediumSquareAt3X.jpg",
-      "author": "Lulu Garcia-Navarro",
-      "excerpt": "Gina Hinojosa, the Democratic nominee for governor, on her appeal to MAGA voters and her refusal to engage in the “culture wars.”",
-      "source": "NYT"
-    },
-    {
-      "title": "How a Small Student Protest Spread Across France",
-      "link": "https://www.nytimes.com/2026/10/24/world/europe/france-protests-timeline.html",
-      "pubDate": "2026-10-24T09:46:50.000Z",
-      "image": "https://static01.nyt.com/images/2026/10/24/multimedia/24france-protests-timeline-qzbm/24france-protests-timeline-qzbm-mediumSquareAt3X.jpg",
-      "author": "Leo Sands",
-      "excerpt": "A movement that began with a few high schools has broadened to encompass labor unions and other activists.",
-      "source": "NYT"
-    },
-    {
-      "title": "Ukraine’s Feeling of Moral Whiplash at the Hands of Trump",
-      "link": "https://www.nytimes.com/2026/10/24/world/europe/ukraine-trump.html",
-      "pubDate": "2026-10-24T09:03:21.000Z",
-      "image": "https://static01.nyt.com/images/2026/10/24/multimedia/24int-ukraine-whiplash-cmvg/24int-ukraine-whiplash-cmvg-mediumSquareAt3X.jpg",
-      "author": "Marc Santora",
-      "excerpt": "The United States once declared that Ukraine’s fight was the front line in a global battle for freedom. Now the Trump administration is sending money to Moscow.",
-      "source": "NYT"
-    },
-    {
-      "title": "What to Know About Alaska’s Senate Race",
-      "link": "https://www.nytimes.com/2026/10/23/us/politics/alaska-senate-race-explainer.html",
-      "pubDate": "2026-10-23T23:22:52.000Z",
-      "image": "https://static01.nyt.com/images/2026/10/23/multimedia/23pol-onpolitics-newsletter-sullivan-bmfp/23pol-onpolitics-newsletter-sullivan-bmfp-mediumSquareAt3X.jpg",
-      "author": "Jess Bidgood",
-      "excerpt": "President Trump told the Justice Department to intervene in the race, where polling shows Republicans at risk of losing a seat.",
+      "title": "METRO with Sarah Koenig: Episode 1",
+      "link": "https://www.nytimes.com/2026/10/22/podcasts/nice-to-meet-you.html",
+      "pubDate": "2026-10-22T14:00:51.000Z",
+      "image": "https://static01.nyt.com/images/2026/10/14/podcasts/serial-METRO-episode-1-photo/serial-METRO-episode-1-photo-mediumSquareAt3X.jpg",
+      "author": "Sarah Koenig, Jenelle Pifer, Julie Snyder, Alex Epton, Matt McGinley, Allison Leyton-Brown, Phoebe Wang and Catherine Anderson",
+      "excerpt": "Sarah Koenig goes on a whirlwind tour of New York City to find out what New Yorkers are worrying about.",
       "source": "NYT"
     }
   ]
