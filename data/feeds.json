@@ -860,21 +860,48 @@
   ],
   "nytNews": [
     {
+      "title": "Saudi Arabia Reopens Riyadh Airport Even as Houthis Threaten Further Strikes",
+      "link": "https://www.nytimes.com/2026/10/25/world/middleeast/saudi-arabia-riyadh-airport-reopens.html",
+      "pubDate": "2026-10-25T21:39:45.000Z",
+      "image": "https://static01.nyt.com/images/2026/10/25/multimedia/25int-saudi-airport-1-pqfm/25int-saudi-airport-1-pqfm-mediumSquareAt3X.jpg",
+      "author": "Vivian Nereim",
+      "excerpt": "The Houthis, an Iran-backed Yemeni militia, launched several deadly attacks on the airport this month.",
+      "source": "NYT"
+    },
+    {
+      "title": "In Texas Senate Race, Talarico Leans Into Growing Rivalry With Elon Musk",
+      "link": "https://www.nytimes.com/2026/10/25/us/politics/talarico-musk-texas-senate-paxton-midterms.html",
+      "pubDate": "2026-10-25T21:37:42.000Z",
+      "image": "https://static01.nyt.com/images/2026/10/25/us/25pol-talarico-musk/25pol-talarico-musk-mediumSquareAt3X-v2.png",
+      "author": "Bayliss Wagner",
+      "excerpt": "On the trail, James Talarico, the Democratic Senate nominee, has increasingly gone after Mr. Musk, a critic of his who has given big to a group aligned with the Republican candidate, Ken Paxton.",
+      "source": "NYT"
+    },
+    {
+      "title": "Who Is María Corina Machado?",
+      "link": "https://www.nytimes.com/2026/10/25/world/americas/who-is-maria-corina-machado.html",
+      "pubDate": "2026-10-25T21:05:50.000Z",
+      "image": "https://static01.nyt.com/images/2026/10/25/multimedia/25int-machado-who-fbqg/25int-machado-who-fbqg-mediumSquareAt3X.jpg",
+      "author": "Julie Turkewitz, Jonathan Wolfe and Ephrat Livni",
+      "excerpt": "The Venezuelan opposition leader returned home from exile to a country firmly under American control. How are her relations with Washington?",
+      "source": "NYT"
+    },
+    {
       "title": "María Corina Machado Returns to Venezuela",
       "link": "https://www.nytimes.com/2026/10/25/world/americas/machado-venezuela-return.html",
-      "pubDate": "2026-10-25T18:52:31.000Z",
-      "image": "https://static01.nyt.com/images/2026/10/25/multimedia/25int-venezuela-machado-jzmw/25int-venezuela-machado-jzmw-mediumSquareAt3X.jpg",
-      "author": "Julie Turkewitz",
+      "pubDate": "2026-10-25T20:35:51.000Z",
+      "image": "https://static01.nyt.com/images/2026/10/25/multimedia/25int-venezuela-machado-wlbq/25int-venezuela-machado-wlbq-mediumSquareAt3X.jpg",
+      "author": "Julie Turkewitz, Edward Wong and Adam Entous",
       "excerpt": "After nearly 10 months in exile, Ms. Machado, a Nobel laureate, came back to challenge leaders who have sidelined her and press for new elections.",
       "source": "NYT"
     },
     {
-      "title": "Introducing a New Way to Understand the Election: Times Voter Trends",
-      "link": "https://www.nytimes.com/2026/10/25/upshot/election-midterms-times-voter-trends.html",
-      "pubDate": "2026-10-25T18:25:24.000Z",
-      "image": "https://static01.nyt.com/images/2026/10/24/multimedia/us-estimates-2024-promo/us-estimates-2024-promo-mediumSquareAt3X.png",
-      "author": "Nate Cohn",
-      "excerpt": "A timely demographic story on election night that we’ve never been able to tell before.",
+      "title": "Trump’s Election Attacks Enter New Pre-emptive Phase",
+      "link": "https://www.nytimes.com/2026/10/25/us/politics/trumps-election-alaska.html",
+      "pubDate": "2026-10-25T18:42:12.000Z",
+      "image": "https://static01.nyt.com/images/2026/10/25/multimedia/25dc-trump-elections1-vcth/25dc-trump-elections1-vcth-mediumSquareAt3X.jpg",
+      "author": "Zolan Kanno-Youngs",
+      "excerpt": "A lawsuit by the Justice Department challenging a potential narrow loss by the GOP Senate incumbent in Alaska reflects a new tactic by the president to try to shape the election results.",
       "source": "NYT"
     },
     {
@@ -884,33 +911,6 @@
       "image": null,
       "author": "Brooks Barnes",
       "excerpt": "“Clayface” was No. 1 at the box office, but “You Can See Everything,” a documentary about the disgraced Theranos founder, surged in its second weekend.",
-      "source": "NYT"
-    },
-    {
-      "title": "Saudi Arabia Reopens Riyadh Airport Even as Houthis Threaten Further Strikes",
-      "link": "https://www.nytimes.com/2026/10/25/world/middleeast/saudi-arabia-riyadh-airport-reopens.html",
-      "pubDate": "2026-10-25T15:50:53.000Z",
-      "image": "https://static01.nyt.com/images/2026/10/25/multimedia/25int-saudi-airport-1-pqfm/25int-saudi-airport-1-pqfm-mediumSquareAt3X.jpg",
-      "author": "Vivian Nereim",
-      "excerpt": "The Houthis, an Iran-backed Yemeni militia, launched several deadly attacks on the airport this month.",
-      "source": "NYT"
-    },
-    {
-      "title": "What to Know About Brazil’s Election as Bolsonaro Faces Off With Lula",
-      "link": "https://www.nytimes.com/2026/10/25/world/americas/brazil-election-lula-bolsonaro-what-to-know.html",
-      "pubDate": "2026-10-25T14:08:52.000Z",
-      "image": "https://static01.nyt.com/images/2026/10/25/multimedia/25int-brazil-election-wtk-kwpv/25int-brazil-election-wtk-kwpv-mediumSquareAt3X.jpg",
-      "author": "Ana Ionova",
-      "excerpt": "Luiz Inácio Lula da Silva, the leftist incumbent, and Flávio Bolsonaro, the right-wing challenger, face off in a narrow race that could redefine the future of Latin America.",
-      "source": "NYT"
-    },
-    {
-      "title": "A New Level of Threat and Fear Risks Pushing the U.S. and Iran Back to Full War",
-      "link": "https://www.nytimes.com/2026/10/24/us/politics/trump-netanyahu-iran-new-phase-of-war.html",
-      "pubDate": "2026-10-25T13:38:36.000Z",
-      "image": "https://static01.nyt.com/images/2026/10/24/multimedia/24dc-prexy-iran-pkhc/24dc-prexy-iran-pkhc-mediumSquareAt3X-v3.jpg",
-      "author": "David E. Sanger, Julian E. Barnes, Jonathan Swan, Maggie Haberman, Farnaz Fassihi and Eric Schmitt",
-      "excerpt": "With new intelligence and the possibility of all sides seeking pretexts for action, the war in Iran is entering a dangerous phase ahead of elections in the United States and Israel.",
       "source": "NYT"
     },
     {
@@ -932,39 +932,12 @@
       "source": "NYT"
     },
     {
-      "title": "One Agent’s Doubts",
-      "link": "https://www.nytimes.com/2026/10/25/briefing/deportation-doubts.html",
-      "pubDate": "2026-10-25T11:43:05.000Z",
-      "image": "https://static01.nyt.com/images/2026/10/13/magazine/25themorning-nl-ice/25themorning-nl-ice-mediumSquareAt3X-v6.jpg",
-      "author": "Adam B. Kushner",
-      "excerpt": "ICE pays local police to help with deportations. What’s it like for them?",
-      "source": "NYT"
-    },
-    {
-      "title": "Public Colleges Are Passing the $50,000-a-Year Mark. For Locals.",
-      "link": "https://www.nytimes.com/2026/10/25/business/california-colleges-costs.html",
-      "pubDate": "2026-10-25T11:11:21.000Z",
-      "image": "https://static01.nyt.com/images/2026/10/24/multimedia/24Biz-UC-50-lede-lkcm/24Biz-UC-50-lede-lkcm-mediumSquareAt3X.jpg",
-      "author": "Ron Lieber and Alex Welsh For The New York Times",
-      "excerpt": "At the University of California campuses in Berkeley, Irvine and Santa Barbara, students get an unwitting education in navigating the housing market.",
-      "source": "NYT"
-    },
-    {
       "title": "Thomas L. Friedman: We Just Set Off the Second Big Bang",
       "link": "https://www.nytimes.com/2026/10/25/opinion/ai-second-big-bang.html",
       "pubDate": "2026-10-25T11:00:04.000Z",
       "image": null,
       "author": "Thomas L. Friedman, Havovi Cooper and Mehron Abdi",
       "excerpt": "Humanity is entering its most dangerous era yet.",
-      "source": "NYT"
-    },
-    {
-      "title": "Israel’s High-Stakes Election: What to Know",
-      "link": "https://www.nytimes.com/2026/10/25/world/middleeast/israels-high-stakes-election-what-to-know.html",
-      "pubDate": "2026-10-25T09:01:00.000Z",
-      "image": "https://static01.nyt.com/images/2026/10/27/multimedia/27israel-simple-explainer-kgjv/27israel-simple-explainer-kgjv-mediumSquareAt3X.jpg",
-      "author": "Ephrat Livni",
-      "excerpt": "Israelis head to the polls on Tuesday for an election that will determine the country’s next prime minister. But it can take weeks, months or longer to form a new government.",
       "source": "NYT"
     },
     {
@@ -992,15 +965,6 @@
       "image": "https://static01.nyt.com/images/2026/10/14/podcasts/serial-METRO-episode-1-photo/serial-METRO-episode-1-photo-mediumSquareAt3X.jpg",
       "author": "Sarah Koenig, Jenelle Pifer, Julie Snyder, Alex Epton, Matt McGinley, Allison Leyton-Brown, Phoebe Wang and Catherine Anderson",
       "excerpt": "Sarah Koenig goes on a whirlwind tour of New York City to find out what New Yorkers are worrying about.",
-      "source": "NYT"
-    },
-    {
-      "title": "María Corina Machado on Venezuela’s Future and Her Relationship With the Trump Administration",
-      "link": "https://www.nytimes.com/2026/10/19/world/americas/maria-corina-machado-venezuela-trump.html",
-      "pubDate": "2026-10-19T19:09:33.000Z",
-      "image": "https://static01.nyt.com/images/2026/10/17/multimedia/17int-machado-interview-transcript-bqkv/17int-machado-interview-transcript-bqkv-mediumSquareAt3X.jpg",
-      "author": "Julie Turkewitz",
-      "excerpt": "Blocked from entering her country, Venezuela’s opposition leader spoke with The Times about her efforts to return and her relationship with the Trump administration.",
       "source": "NYT"
     }
   ]
