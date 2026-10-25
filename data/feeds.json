@@ -860,12 +860,48 @@
   ],
   "nytNews": [
     {
+      "title": "Iranians Face Anxious Wait as Threat of Attack Looms",
+      "link": "https://www.nytimes.com/2026/10/24/world/middleeast/iranians-face-anxious-wait-as-threat-of-attack-looms.html",
+      "pubDate": "2026-10-25T05:14:43.000Z",
+      "image": "https://static01.nyt.com/images/2026/10/24/multimedia/24int-iran-mood-bwvj/24int-iran-mood-bwvj-mediumSquareAt3X.jpg",
+      "author": "Farnaz Fassihi and Leily Nikounazar",
+      "excerpt": "The United States and Israel have drawn up plans to renew strikes against Iran, creating a sense of dread among war-weary residents.",
+      "source": "NYT"
+    },
+    {
+      "title": "The Grace We Seek but Have Forgotten",
+      "link": "https://www.nytimes.com/2026/10/25/opinion/the-grace-we-seek-but-have-forgotten.html",
+      "pubDate": "2026-10-25T05:00:05.000Z",
+      "image": null,
+      "author": "Lydia Sohn",
+      "excerpt": "We hurt one another, we fail one another, but we still have to figure out how to live with one another.",
+      "source": "NYT"
+    },
+    {
       "title": "Obama Issues Searing Attacks on Trump, Ramaswamy in Return to Campaign Trail",
       "link": "https://www.nytimes.com/2026/10/24/us/politics/obama-trump-midterms-campaign.html",
-      "pubDate": "2026-10-25T00:57:56.000Z",
+      "pubDate": "2026-10-25T02:39:57.000Z",
       "image": "https://static01.nyt.com/images/2026/10/24/multimedia/24pol-obama-trump-pqgh/24pol-obama-trump-pqgh-mediumSquareAt3X-v3.jpg",
-      "author": "Tim Balk, Emily Davies and John Yoon",
+      "author": "Tim Balk, Emily Davies, John Yoon and Richard Fausset",
       "excerpt": "The 44th president sharply criticized Mr. Trump, who hit back later in the day. Mr. Obama also assailed Vivek Ramaswamy, the Republican nominee for governor of Ohio.",
+      "source": "NYT"
+    },
+    {
+      "title": "Italy’s Young Protesters Return to the Streets",
+      "link": "https://www.nytimes.com/live/2026/10/24/world/france-protests-riots/milan-youth-protests",
+      "pubDate": "2026-10-25T01:26:08.000Z",
+      "image": "https://static01.nyt.com/images/2026/10/24/multimedia/24france-protests-italy-jgzt/24france-protests-italy-jgzt-mediumSquareAt3X.jpg",
+      "author": "Josephine de La Bruyère",
+      "excerpt": "Fed up with the political establishment and rising cost of living, demonstrators hoped to make their message heard after violence overshadowed protests last weekend.",
+      "source": "NYT"
+    },
+    {
+      "title": "A New Level of Threat and Fear Risks Pushing the U.S. and Iran Back to Full War",
+      "link": "https://www.nytimes.com/2026/10/24/us/politics/trump-netanyahu-iran-new-phase-of-war.html",
+      "pubDate": "2026-10-25T01:06:17.000Z",
+      "image": "https://static01.nyt.com/images/2026/10/24/multimedia/24dc-prexy-iran-pkhc/24dc-prexy-iran-pkhc-mediumSquareAt3X.jpg",
+      "author": "David E. Sanger, Julian E. Barnes, Jonathan Swan, Maggie Haberman, Farnaz Fassihi and Eric Schmitt",
+      "excerpt": "With new intelligence and the possibility of all sides seeking pretexts for action, the war in Iran is entering a dangerous phase ahead of elections in the United States and Israel.",
       "source": "NYT"
     },
     {
@@ -875,15 +911,6 @@
       "image": "https://static01.nyt.com/images/2026/10/24/multimedia/24int-ukraine-starshield-jmgk/24int-ukraine-starshield-jmgk-mediumSquareAt3X.jpg",
       "author": "Sheera Frenkel, Siobhán O’Grady and Liubov Sholudko",
       "excerpt": "The comments were his first since the disruption in the country’s satellite service. Earlier, Ukraine said drones using Starshield, the Pentagon-funded service, were back to normal speeds.",
-      "source": "NYT"
-    },
-    {
-      "title": "The Eyes of Elizabeth Holmes",
-      "link": "https://www.nytimes.com/2026/10/24/opinion/elizabeth-holmes-you-can-see-everything.html",
-      "pubDate": "2026-10-24T22:36:41.000Z",
-      "image": "https://static01.nyt.com/images/2026/10/24/opinion/24dowd-ycse/24dowd-ycse-mediumSquareAt3X.jpg",
-      "author": "Maureen Dowd",
-      "excerpt": "Look into that unblinking gaze and see the abyss.",
       "source": "NYT"
     },
     {
@@ -905,21 +932,21 @@
       "source": "NYT"
     },
     {
+      "title": "What Happens if Trump Doesn’t Like the Midterm Results?",
+      "link": "https://www.nytimes.com/2026/10/24/opinion/trump-midterm-elections-results-predictions.html",
+      "pubDate": "2026-10-24T20:09:53.000Z",
+      "image": "https://static01.nyt.com/images/2026/10/24/opinion/24opinions-roundtable-art/24opinions-roundtable-art-mediumSquareAt3X-v2.png",
+      "author": "Michelle Cottle, Jamelle Bouie, David French and Derek Arthur",
+      "excerpt": "Hope, dread and the final stretch to Election Day.",
+      "source": "NYT"
+    },
+    {
       "title": "Alaska Election Gambit Shows Justice Dept. Has Bowed to Trump’s Demands",
       "link": "https://www.nytimes.com/2026/10/24/us/politics/alaska-senate-election-trump-justice-department.html",
       "pubDate": "2026-10-24T19:21:11.000Z",
       "image": "https://static01.nyt.com/images/2026/10/24/multimedia/24dc-trump-justice-topart-02-kjvw/24dc-trump-justice-topart-02-kjvw-mediumSquareAt3X.jpg",
       "author": "Glenn Thrush, Katie Rogers and Zolan Kanno-Youngs",
       "excerpt": "With moves in Alaska and California, the department has stepped up interventions in the midterm elections as the president’s instrument of unmediated executive power.",
-      "source": "NYT"
-    },
-    {
-      "title": "In U.S. Gas Talks With Kremlin, Hidden Financing for Alaska Project Emerges",
-      "link": "https://www.nytimes.com/2026/10/23/us/politics/in-us-gas-talks-with-kremlin-hidden-financing-for-alaska-project-emerges.html",
-      "pubDate": "2026-10-24T18:24:42.000Z",
-      "image": "https://static01.nyt.com/images/2026/10/23/multimedia/23dc-polar-lng-sub-bhcl/23dc-polar-lng-sub-bhcl-mediumSquareAt3X.jpg",
-      "author": "Anton Troianovski and Eric Lipton",
-      "excerpt": "Interviews and documents show a Russian energy giant secretly funded a U.S. firm. The deal has been discussed in talks to end the war in Ukraine.",
       "source": "NYT"
     },
     {
@@ -932,15 +959,6 @@
       "source": "NYT"
     },
     {
-      "title": "Netanyahu Is Up for Re-election After Years of War. How Will Voters See Him?",
-      "link": "https://www.nytimes.com/2026/10/24/world/middleeast/netanyahu-has-reinvented-himself-will-voters-think-its-enough.html",
-      "pubDate": "2026-10-24T17:45:16.000Z",
-      "image": "https://static01.nyt.com/images/2026/10/22/multimedia/xxint-israel-netanyahu-profile-gvjt/xxint-israel-netanyahu-profile-gvjt-mediumSquareAt3X.jpg",
-      "author": "Isabel Kershner",
-      "excerpt": "The Oct. 7 attacks marred Prime Minister Benjamin Netanyahu’s image as Mr. Security. Ahead of elections, he’s trying to sell Israelis on the new, hawkish version of himself.",
-      "source": "NYT"
-    },
-    {
       "title": "Why Democrats Could Find It Hard to Win the Senate Despite Their Strong Polls",
       "link": "https://www.nytimes.com/2026/10/24/us/politics/democrats-expectations-blue-wave.html",
       "pubDate": "2026-10-24T17:00:54.000Z",
@@ -950,48 +968,12 @@
       "source": "NYT"
     },
     {
-      "title": "Israel Cracks Down in West Bank City After Deadly Attack",
-      "link": "https://www.nytimes.com/2026/10/24/world/middleeast/israel-military-hebron-west-bank.html",
-      "pubDate": "2026-10-24T14:52:05.000Z",
-      "image": "https://static01.nyt.com/images/2026/10/24/multimedia/24int-westbank-operation-01-hvzq/24int-westbank-operation-01-hvzq-mediumSquareAt3X.jpg",
-      "author": "Aaron Boxerman and Fatima AbdulKarim",
-      "excerpt": "Hundreds of Palestinian families fled their homes as the Israeli military raided Hebron. The operation came a day after Palestinian gunmen killed two soldiers.",
-      "source": "NYT"
-    },
-    {
       "title": "What This Democrat’s Surge in Texas Says About the Midterms",
       "link": "https://www.nytimes.com/2026/10/24/magazine/gina-hinojosa-interview.html",
       "pubDate": "2026-10-24T12:51:26.000Z",
       "image": "https://static01.nyt.com/images/2026/11/01/magazine/01mag-interview-hinojosa-02/01mag-interview-hinojosa-02-mediumSquareAt3X.jpg",
       "author": "Lulu Garcia-Navarro",
       "excerpt": "Gina Hinojosa, the Democratic nominee for governor, on her appeal to MAGA voters and her refusal to engage in the “culture wars.”",
-      "source": "NYT"
-    },
-    {
-      "title": "5 Takeaways From Our Investigation of Trump’s Waivers for Polluters",
-      "link": "https://www.nytimes.com/2026/10/24/climate/takeaways-trump-waivers-chemical-pollution.html",
-      "pubDate": "2026-10-24T12:50:46.000Z",
-      "image": "https://static01.nyt.com/images/2026/10/22/multimedia/00CLI-POLLUTION-EPA-TAKEAWAYS-glzb/00CLI-POLLUTION-EPA-TAKEAWAYS-glzb-mediumSquareAt3X.jpg",
-      "author": "Maxine Joselow and Eric Lipton",
-      "excerpt": "Chemical plants and other industrial facilities had been required to curb their toxic emissions. A New York Times investigation shows how they got out of it.",
-      "source": "NYT"
-    },
-    {
-      "title": "How Trump Gave the Worst Polluters a Free Pass",
-      "link": "https://www.nytimes.com/2026/10/24/climate/trump-epa-chemical-air-pollution.html",
-      "pubDate": "2026-10-24T12:28:26.000Z",
-      "image": null,
-      "author": "Eric Lipton, Maxine Joselow and Mira Rojanasakul",
-      "excerpt": "The president temporarily waived clean-air rules for industrial facilities that spew cancer-causing gases. Then his appointees worked to gut the regulations altogether.",
-      "source": "NYT"
-    },
-    {
-      "title": "What the Israeli Election Won’t Change",
-      "link": "https://www.nytimes.com/2026/10/24/opinion/israel-election-netanyahu.html",
-      "pubDate": "2026-10-24T11:00:03.000Z",
-      "image": "https://static01.nyt.com/images/2026/10/25/multimedia/24zonszein-vgqz/24zonszein-vgqz-mediumSquareAt3X.jpg",
-      "author": "Mairav Zonszein",
-      "excerpt": "Israelis will decide this week if Prime Minister Benjamin Netanyahu will remain in office.",
       "source": "NYT"
     },
     {
@@ -1006,7 +988,7 @@
     {
       "title": "Ukraine’s Feeling of Moral Whiplash at the Hands of Trump",
       "link": "https://www.nytimes.com/2026/10/24/world/europe/ukraine-trump.html",
-      "pubDate": "2026-10-24T09:03:20.000Z",
+      "pubDate": "2026-10-24T09:03:21.000Z",
       "image": "https://static01.nyt.com/images/2026/10/24/multimedia/24int-ukraine-whiplash-cmvg/24int-ukraine-whiplash-cmvg-mediumSquareAt3X.jpg",
       "author": "Marc Santora",
       "excerpt": "The United States once declared that Ukraine’s fight was the front line in a global battle for freedom. Now the Trump administration is sending money to Moscow.",
