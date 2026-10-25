@@ -860,6 +860,87 @@
   ],
   "nytNews": [
     {
+      "title": "Saudi Arabia Reopens Riyadh Airport Even as Houthis Threaten Further Strikes",
+      "link": "https://www.nytimes.com/2026/10/25/world/middleeast/saudi-arabia-riyadh-airport-reopens.html",
+      "pubDate": "2026-10-25T15:50:53.000Z",
+      "image": "https://static01.nyt.com/images/2026/10/25/multimedia/25int-saudi-airport-1-pqfm/25int-saudi-airport-1-pqfm-mediumSquareAt3X.jpg",
+      "author": "Vivian Nereim",
+      "excerpt": "The Houthis, an Iran-backed Yemeni militia, launched several deadly attacks on the airport this month.",
+      "source": "NYT"
+    },
+    {
+      "title": "A Day After Renewed Street Clashes in France, Relief and Anxiety Mix",
+      "link": "https://www.nytimes.com/2026/10/25/world/europe/france-protests-macron-lepen.html",
+      "pubDate": "2026-10-25T14:34:10.000Z",
+      "image": "https://static01.nyt.com/images/2026/10/25/multimedia/25int-france-assess-01-fvtc/25int-france-assess-01-fvtc-mediumSquareAt3X-v2.jpg",
+      "author": "Mark Landler and Ségolène Le Stradic",
+      "excerpt": "While the police kept a lid on vandalism, the huge number of protesters, and France’s fraught politics, suggest unrest could grow.",
+      "source": "NYT"
+    },
+    {
+      "title": "What to Know About Brazil’s Election as Bolsonaro Faces Off With Lula",
+      "link": "https://www.nytimes.com/2026/10/25/world/americas/brazil-election-lula-bolsonaro-what-to-know.html",
+      "pubDate": "2026-10-25T14:08:51.000Z",
+      "image": "https://static01.nyt.com/images/2026/10/25/multimedia/25int-brazil-election-wtk-kwpv/25int-brazil-election-wtk-kwpv-mediumSquareAt3X.jpg",
+      "author": "Ana Ionova",
+      "excerpt": "Luiz Inácio Lula da Silva, the leftist incumbent, and Flávio Bolsonaro, the right-wing challenger, face off in a narrow race that could redefine the future of Latin America.",
+      "source": "NYT"
+    },
+    {
+      "title": "Could Lula Be on the Brink of Defeat in Brazil’s Election?",
+      "link": "https://www.nytimes.com/2026/10/24/world/americas/lula-brazil-election-president.html",
+      "pubDate": "2026-10-25T13:42:54.000Z",
+      "image": "https://static01.nyt.com/images/2026/10/22/multimedia/00int-brazil-lula-profile-bwkl/00int-brazil-lula-profile-bwkl-mediumSquareAt3X.jpg",
+      "author": "Ana Ionova",
+      "excerpt": "Brazil’s President Luiz Inácio Lula da Silva, a leftist, faces an uphill battle for another term, in a high-stakes election that may reshape Latin America.",
+      "source": "NYT"
+    },
+    {
+      "title": "A New Level of Threat and Fear Risks Pushing the U.S. and Iran Back to Full War",
+      "link": "https://www.nytimes.com/2026/10/24/us/politics/trump-netanyahu-iran-new-phase-of-war.html",
+      "pubDate": "2026-10-25T13:38:36.000Z",
+      "image": "https://static01.nyt.com/images/2026/10/24/multimedia/24dc-prexy-iran-pkhc/24dc-prexy-iran-pkhc-mediumSquareAt3X-v3.jpg",
+      "author": "David E. Sanger, Julian E. Barnes, Jonathan Swan, Maggie Haberman, Farnaz Fassihi and Eric Schmitt",
+      "excerpt": "With new intelligence and the possibility of all sides seeking pretexts for action, the war in Iran is entering a dangerous phase ahead of elections in the United States and Israel.",
+      "source": "NYT"
+    },
+    {
+      "title": "Despicable Doesn’t Begin to Cover It",
+      "link": "https://www.nytimes.com/2026/10/25/opinion/midterm-ads-ramaswamy-acton-ohio.html",
+      "pubDate": "2026-10-25T13:13:02.000Z",
+      "image": "https://static01.nyt.com/images/2026/10/25/multimedia/25french-mqvp/25french-mqvp-mediumSquareAt3X.jpg",
+      "author": "David French",
+      "excerpt": "Trump’s culture of cruelty spreads.",
+      "source": "NYT"
+    },
+    {
+      "title": "Can’t Afford a Home. Can’t Afford a Baby. Can’t Afford Life. This Is 30.",
+      "link": "https://www.nytimes.com/2026/10/25/nyregion/30-year-old-angst.html",
+      "pubDate": "2026-10-25T12:56:13.000Z",
+      "image": "https://static01.nyt.com/images/2026/10/23/multimedia/met-30-topper-01-pwzt/met-30-topper-01-pwzt-mediumSquareAt3X.jpg",
+      "author": "Troy Closson",
+      "excerpt": "They’re trying to build middle-class lives in New York. But many 30-year-olds in the city feel worse off than their parents. Is it average adult angst? Or something more enduring?",
+      "source": "NYT"
+    },
+    {
+      "title": "Introducing a New Way to Understand the Election: Times Voter Trends",
+      "link": "https://www.nytimes.com/2026/10/25/upshot/election-midterms-times-voter-trends.html",
+      "pubDate": "2026-10-25T12:41:07.000Z",
+      "image": "https://static01.nyt.com/images/2026/10/24/multimedia/us-estimates-2024-promo/us-estimates-2024-promo-mediumSquareAt3X.png",
+      "author": "Nate Cohn",
+      "excerpt": "A timely demographic story we’ve never been able to tell before.",
+      "source": "NYT"
+    },
+    {
+      "title": "One Agent’s Doubts",
+      "link": "https://www.nytimes.com/2026/10/25/briefing/deportation-doubts.html",
+      "pubDate": "2026-10-25T11:43:05.000Z",
+      "image": "https://static01.nyt.com/images/2026/10/13/magazine/25themorning-nl-ice/25themorning-nl-ice-mediumSquareAt3X-v6.jpg",
+      "author": "Adam B. Kushner",
+      "excerpt": "ICE pays local police to help with deportations. What’s it like for them?",
+      "source": "NYT"
+    },
+    {
       "title": "Public Colleges Are Passing the $50,000-a-Year Mark. For Locals.",
       "link": "https://www.nytimes.com/2026/10/25/business/california-colleges-costs.html",
       "pubDate": "2026-10-25T11:11:21.000Z",
@@ -878,42 +959,6 @@
       "source": "NYT"
     },
     {
-      "title": "Netanyahu Won the Middle East and Lost the World",
-      "link": "https://www.nytimes.com/2026/10/25/opinion/israel-gaza-election-netanyahu-hamas.html",
-      "pubDate": "2026-10-25T10:00:17.000Z",
-      "image": "https://static01.nyt.com/images/2026/10/25/opinion/25klein/25klein-mediumSquareAt3X.jpg",
-      "author": "Ezra Klein",
-      "excerpt": "Both Israelis and Palestinians are trapped in the Netanyahu paradigm.",
-      "source": "NYT"
-    },
-    {
-      "title": "Democrats Have Edge Across Four Key House Races in Pennsylvania, Polls Find",
-      "link": "https://www.nytimes.com/2026/10/25/us/politics/polls-pennsylvania-house-midterms-battlegrounds.html",
-      "pubDate": "2026-10-25T09:01:59.000Z",
-      "image": "https://static01.nyt.com/images/2026/10/23/multimedia/2026-10-16-national-poll-pa/2026-10-16-national-poll-pa-mediumSquareAt3X-v11.png",
-      "author": "Shane Goldmacher and Ruth Igielnik",
-      "excerpt": "Democratic candidates are ahead in two, hold a narrow edge in a third and are tied in a fourth, new polling shows. The seats embody the fights playing out nationwide in the midterms.",
-      "source": "NYT"
-    },
-    {
-      "title": "What to Know About Brazil’s Election as Bolsonaro Faces Off With Lula",
-      "link": "https://www.nytimes.com/2026/10/25/world/americas/brazil-election-lula-bolsonaro-what-to-know.html",
-      "pubDate": "2026-10-25T09:01:45.000Z",
-      "image": "https://static01.nyt.com/images/2026/10/25/multimedia/25int-brazil-election-wtk-kwpv/25int-brazil-election-wtk-kwpv-mediumSquareAt3X.jpg",
-      "author": "Ana Ionova",
-      "excerpt": "Luiz Inácio Lula da Silva, the leftist incumbent, and Flávio Bolsonaro, the right-wing challenger, face off in a narrow race that could redefine the future of Latin America.",
-      "source": "NYT"
-    },
-    {
-      "title": "Latinos Are Now America’s Most Important Swing Voters",
-      "link": "https://www.nytimes.com/2026/10/25/us/politics/latino-voters-poll-midterm-elections.html",
-      "pubDate": "2026-10-25T09:01:38.000Z",
-      "image": "https://static01.nyt.com/images/2026/10/23/multimedia/23pol-poll-latinos-kqzb/23pol-poll-latinos-kqzb-mediumSquareAt3X.jpg",
-      "author": "Jennifer Medina and Ruth Igielnik",
-      "excerpt": "Latinos helped fuel President Trump’s return to the White House. But Democrats have won back the trust of many Hispanic voters over the past two years.",
-      "source": "NYT"
-    },
-    {
       "title": "Israel’s High-Stakes Election: What to Know",
       "link": "https://www.nytimes.com/2026/10/25/world/middleeast/israels-high-stakes-election-what-to-know.html",
       "pubDate": "2026-10-25T09:01:00.000Z",
@@ -923,48 +968,12 @@
       "source": "NYT"
     },
     {
-      "title": "Introducing a New Way to Understand the Election: Times Voter Trends",
-      "link": "https://www.nytimes.com/2026/10/25/upshot/election-midterms-times-voter-trends.html",
-      "pubDate": "2026-10-25T05:40:13.000Z",
-      "image": "https://static01.nyt.com/images/2026/10/24/multimedia/us-estimates-2024-promo/us-estimates-2024-promo-mediumSquareAt3X.png",
-      "author": "Nate Cohn",
-      "excerpt": "A timely demographic story we’ve never been able to tell before.",
-      "source": "NYT"
-    },
-    {
-      "title": "Iranians Face Anxious Wait as Threat of Attack Looms",
-      "link": "https://www.nytimes.com/2026/10/24/world/middleeast/iranians-face-anxious-wait-as-threat-of-attack-looms.html",
-      "pubDate": "2026-10-25T05:14:43.000Z",
-      "image": "https://static01.nyt.com/images/2026/10/24/multimedia/24int-iran-mood-bwvj/24int-iran-mood-bwvj-mediumSquareAt3X.jpg",
-      "author": "Farnaz Fassihi and Leily Nikounazar",
-      "excerpt": "The United States and Israel have drawn up plans to renew strikes against Iran, creating a sense of dread among war-weary residents.",
-      "source": "NYT"
-    },
-    {
       "title": "He Helped Deport 200 People. Now He Has Misgivings.",
       "link": "https://www.nytimes.com/2026/10/25/magazine/ice-deputy-texas-police.html",
-      "pubDate": "2026-10-25T04:01:12.000Z",
+      "pubDate": "2026-10-25T04:01:13.000Z",
       "image": null,
       "author": "Francesca D’Annunzio, McKenzie Funk and Kirsten Luce",
       "excerpt": "A deputy in small-town Texas became the local face of ICE’s national crackdown.",
-      "source": "NYT"
-    },
-    {
-      "title": "A New Level of Threat and Fear Risks Pushing the U.S. and Iran Back to Full War",
-      "link": "https://www.nytimes.com/2026/10/24/us/politics/trump-netanyahu-iran-new-phase-of-war.html",
-      "pubDate": "2026-10-25T01:06:17.000Z",
-      "image": "https://static01.nyt.com/images/2026/10/24/multimedia/24dc-prexy-iran-pkhc/24dc-prexy-iran-pkhc-mediumSquareAt3X-v3.jpg",
-      "author": "David E. Sanger, Julian E. Barnes, Jonathan Swan, Maggie Haberman, Farnaz Fassihi and Eric Schmitt",
-      "excerpt": "With new intelligence and the possibility of all sides seeking pretexts for action, the war in Iran is entering a dangerous phase ahead of elections in the United States and Israel.",
-      "source": "NYT"
-    },
-    {
-      "title": "Unrest Erupts Again in France, but This Time, With Less Property Damage",
-      "link": "https://www.nytimes.com/2026/10/24/world/europe/france-protests-unrest-clashes-police.html",
-      "pubDate": "2026-10-24T21:23:15.000Z",
-      "image": "https://static01.nyt.com/images/2026/10/24/multimedia/24int-france-protests-lftm/24int-france-protests-lftm-mediumSquareAt3X.jpg",
-      "author": "Mark Landler, Catherine Porter and Ségolène Le Stradic",
-      "excerpt": "After largely peaceful marches on Saturday, clashes broke out in the evening. But a large-scale police presence, 1,000 arrests and the rerouting of protest routes kept a lid on wholesale vandalism.",
       "source": "NYT"
     },
     {
@@ -977,12 +986,12 @@
       "source": "NYT"
     },
     {
-      "title": "Could Lula Be on the Brink of Defeat in Brazil’s Election?",
-      "link": "https://www.nytimes.com/2026/10/24/world/americas/lula-brazil-election-president.html",
-      "pubDate": "2026-10-24T09:02:26.000Z",
-      "image": "https://static01.nyt.com/images/2026/10/22/multimedia/00int-brazil-lula-profile-bwkl/00int-brazil-lula-profile-bwkl-mediumSquareAt3X.jpg",
-      "author": "Ana Ionova",
-      "excerpt": "Brazil’s President Luiz Inácio Lula da Silva faces an uphill battle for another term, in a high-stakes election that may reshape Latin America.",
+      "title": "The Epstein Files Produce an Unlikely Weapon for the Houthi Messaging Wars",
+      "link": "https://www.nytimes.com/2026/10/23/world/middleeast/houthis-saudi-arabia-propaganda-epstein.html",
+      "pubDate": "2026-10-23T12:18:37.000Z",
+      "image": "https://static01.nyt.com/images/2026/10/11/multimedia/00int-Houthi-Messaging-qhgb/00int-Houthi-Messaging-qhgb-mediumSquareAt3X.jpg",
+      "author": "Ephrat Livni",
+      "excerpt": "The Yemeni militia is using the culture of its sworn enemies in the renewed fighting with Saudi Arabia.",
       "source": "NYT"
     },
     {
