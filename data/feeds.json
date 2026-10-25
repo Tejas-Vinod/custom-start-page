@@ -860,21 +860,30 @@
   ],
   "nytNews": [
     {
+      "title": "Obama Issues Searing Attacks on Trump, Ramaswamy in Return to Campaign Trail",
+      "link": "https://www.nytimes.com/2026/10/24/us/politics/obama-trump-midterms-campaign.html",
+      "pubDate": "2026-10-25T00:57:56.000Z",
+      "image": "https://static01.nyt.com/images/2026/10/24/multimedia/24pol-obama-trump-pqgh/24pol-obama-trump-pqgh-mediumSquareAt3X-v3.jpg",
+      "author": "Tim Balk, Emily Davies and John Yoon",
+      "excerpt": "The 44th president sharply criticized Mr. Trump, who hit back later in the day. Mr. Obama also assailed Vivek Ramaswamy, the Republican nominee for governor of Ohio.",
+      "source": "NYT"
+    },
+    {
+      "title": "Elon Musk Says Ukraine Violated Starlink’s Rules",
+      "link": "https://www.nytimes.com/2026/10/24/world/europe/ukraine-starshield-drone-speed.html",
+      "pubDate": "2026-10-25T00:10:07.000Z",
+      "image": "https://static01.nyt.com/images/2026/10/24/multimedia/24int-ukraine-starshield-jmgk/24int-ukraine-starshield-jmgk-mediumSquareAt3X.jpg",
+      "author": "Sheera Frenkel, Siobhán O’Grady and Liubov Sholudko",
+      "excerpt": "The comments were his first since the disruption in the country’s satellite service. Earlier, Ukraine said drones using Starshield, the Pentagon-funded service, were back to normal speeds.",
+      "source": "NYT"
+    },
+    {
       "title": "The Eyes of Elizabeth Holmes",
       "link": "https://www.nytimes.com/2026/10/24/opinion/elizabeth-holmes-you-can-see-everything.html",
       "pubDate": "2026-10-24T22:36:41.000Z",
       "image": "https://static01.nyt.com/images/2026/10/24/opinion/24dowd-ycse/24dowd-ycse-mediumSquareAt3X.jpg",
       "author": "Maureen Dowd",
       "excerpt": "Look into that unblinking gaze and see the abyss.",
-      "source": "NYT"
-    },
-    {
-      "title": "Obama Issues Searing Attacks on Trump, Ramaswamy in Return to Campaign Trail",
-      "link": "https://www.nytimes.com/2026/10/24/us/politics/obama-trump-midterms-campaign.html",
-      "pubDate": "2026-10-24T22:18:42.000Z",
-      "image": "https://static01.nyt.com/images/2026/10/24/multimedia/24pol-obama-trump-pqgh/24pol-obama-trump-pqgh-mediumSquareAt3X-v2.jpg",
-      "author": "Tim Balk and Emily Davies",
-      "excerpt": "The 44th president appeared in Ohio on Saturday, kicking off a two-state swing with a rebuke of President Trump and Vivek Ramaswamy, the Republican nominee for governor.",
       "source": "NYT"
     },
     {
@@ -920,15 +929,6 @@
       "image": "https://static01.nyt.com/images/2026/10/24/multimedia/24nat-trump-protester-1b-vpch/24nat-trump-protester-1b-vpch-mediumSquareAt3X.jpg",
       "author": "Jessica Contrera",
       "excerpt": "Blake Miley yelled “fascist” as President Trump spoke at a midterm campaign rally. The violence that followed “was not right,” she said.",
-      "source": "NYT"
-    },
-    {
-      "title": "Republicans Are Crude, Craven, Cruel. It’s Not Working Anymore.",
-      "link": "https://www.nytimes.com/2026/10/24/opinion/midterm-elections-republicans.html",
-      "pubDate": "2026-10-24T17:51:54.000Z",
-      "image": "https://static01.nyt.com/images/2026/10/24/multimedia/24bouie-newsletter-vqbc/24bouie-newsletter-vqbc-mediumSquareAt3X.jpg",
-      "author": "Jamelle Bouie",
-      "excerpt": "Republican candidates are in a sorry state.",
       "source": "NYT"
     },
     {
@@ -986,6 +986,15 @@
       "source": "NYT"
     },
     {
+      "title": "What the Israeli Election Won’t Change",
+      "link": "https://www.nytimes.com/2026/10/24/opinion/israel-election-netanyahu.html",
+      "pubDate": "2026-10-24T11:00:03.000Z",
+      "image": "https://static01.nyt.com/images/2026/10/25/multimedia/24zonszein-vgqz/24zonszein-vgqz-mediumSquareAt3X.jpg",
+      "author": "Mairav Zonszein",
+      "excerpt": "Israelis will decide this week if Prime Minister Benjamin Netanyahu will remain in office.",
+      "source": "NYT"
+    },
+    {
       "title": "How a Small Student Protest Spread Across France",
       "link": "https://www.nytimes.com/2026/10/24/world/europe/france-protests-timeline.html",
       "pubDate": "2026-10-24T09:46:50.000Z",
@@ -995,30 +1004,12 @@
       "source": "NYT"
     },
     {
-      "title": "How Vivek Ramaswamy’s Ruthless Ad in Ohio Divided Republicans",
-      "link": "https://www.nytimes.com/2026/10/24/us/politics/vivek-ramaswamy-ad-ohio-amy-acton.html",
-      "pubDate": "2026-10-24T09:03:21.000Z",
-      "image": "https://static01.nyt.com/images/2026/10/24/multimedia/24pol-ohio-fallout-01-phtq/24pol-ohio-fallout-01-phtq-mediumSquareAt3X.jpg",
-      "author": "Reid J. Epstein and Campbell Robertson",
-      "excerpt": "The fallout from Vivek Ramaswamy’s brutal spot targeting his Democratic rival in the Ohio governor’s race showed that even in the Trump era, a political attack can be seen as going too far.",
-      "source": "NYT"
-    },
-    {
-      "title": "A 2028 Presidential Poll Finds Vance, Rubio and Several Democrats in the Mix",
-      "link": "https://www.nytimes.com/2026/10/24/us/democrats-republicans-presidential-primary-poll.html",
-      "pubDate": "2026-10-24T09:02:43.000Z",
-      "image": "https://static01.nyt.com/images/2026/10/22/multimedia/2026-10-16-national-poll-primary/2026-10-16-national-poll-primary-mediumSquareAt3X-v11.jpg",
-      "author": "Reid J. Epstein and Ruth Igielnik",
-      "excerpt": "The Democratic presidential primary race appears to be wide open, while JD Vance and Marco Rubio led among Republican voters, a New York Times/Siena survey found.",
-      "source": "NYT"
-    },
-    {
-      "title": "They Were Accused of Illegal Fishing. They Ended Up in ICE Detention.",
-      "link": "https://www.nytimes.com/2026/10/24/us/politics/fishing-immigration-trump.html",
-      "pubDate": "2026-10-24T09:00:48.000Z",
-      "image": "https://static01.nyt.com/images/2026/10/21/multimedia/00dc-ice-local-officers-01-flhb/00dc-ice-local-officers-01-flhb-mediumSquareAt3X.jpg",
-      "author": "Madeleine Ngo and David Ovalle",
-      "excerpt": "In states like Florida, officers who hand out fishing citations and inspect produce have been deputized by Immigration and Customs Enforcement, expanding the reach of President Trump’s deportation campaign.",
+      "title": "Ukraine’s Feeling of Moral Whiplash at the Hands of Trump",
+      "link": "https://www.nytimes.com/2026/10/24/world/europe/ukraine-trump.html",
+      "pubDate": "2026-10-24T09:03:20.000Z",
+      "image": "https://static01.nyt.com/images/2026/10/24/multimedia/24int-ukraine-whiplash-cmvg/24int-ukraine-whiplash-cmvg-mediumSquareAt3X.jpg",
+      "author": "Marc Santora",
+      "excerpt": "The United States once declared that Ukraine’s fight was the front line in a global battle for freedom. Now the Trump administration is sending money to Moscow.",
       "source": "NYT"
     },
     {
