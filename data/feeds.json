@@ -1,6 +1,51 @@
 {
   "spaceNews": [
     {
+      "title": "NASA’s Perseverance Offers Clues to Protect Crews From Mars Dust",
+      "link": "https://www.nasa.gov/missions/mars-2020-perseverance/nasas-perseverance-offers-clues-to-protect-crews-from-mars-dust/",
+      "pubDate": "2026-10-26T21:07:28.000Z",
+      "image": "https://www.nasa.gov/wp-content/uploads/2026/10/1-pia26816-pano-resized-for-web-feature.jpg?w=2048",
+      "author": "Amanda Barnett",
+      "excerpt": "Over 1,645 Martian days, NASA’s Perseverance Mars rover measured the fine and ultrafine Martian dust particles found clinging to samples of spacesuit materials that are carried aboard the rover, including some that are small enough to penetrate the lungs and enter the bloodstream. The findings will be published Tuesday",
+      "source": "NASA"
+    },
+    {
+      "title": "NEO Surveyor’s Sunshade Gets Inspected",
+      "link": "https://science.nasa.gov/photojournal/neo-surveyors-sunshade-gets-inspected/",
+      "pubDate": "2026-10-26T20:53:13.000Z",
+      "image": "https://assets.science.nasa.gov/dynamicimage/assets/science/psd/photojournal/pia/pia26/pia26780/PIA26780.jpg?w=1024&#038;h=1536&#038;fit=clip&#038;crop=faces%2Cfocalpoint",
+      "author": "",
+      "excerpt": "Description The large sunshade of NASA’s Near-Earth Object (NEO) Surveyor is mounted on an assembly ring during inspections in a clean room at BAE Systems Space & Mission Systems in Boulder, Colorado, in July 2026. The sunshade structure stands 20 feet (6 meters) tall and measures 8 feet (2.4 meters) wide at its base. ",
+      "source": "NASA"
+    },
+    {
+      "title": "Solar Cells Inspected on NASA’s NEO Surveyor",
+      "link": "https://science.nasa.gov/photojournal/solar-cells-inspected-on-nasas-neo-surveyor/",
+      "pubDate": "2026-10-26T20:52:24.000Z",
+      "image": "https://assets.science.nasa.gov/dynamicimage/assets/science/psd/photojournal/pia/pia26/pia26715/PIA26715.jpg?w=1536&#038;h=1024&#038;fit=clip&#038;crop=faces%2Cfocalpoint",
+      "author": "",
+      "excerpt": "Description The large sunshade of NASA’s Near-Earth Object (NEO) Surveyor mission is inspected by a technician at BAE Systems Space & Mission Systems in Boulder, Colorado, in late July. Built by Applied Aerospace in Stockton, California, the sunshade structure was outfitted with its solar cells by SolAero Technologies ",
+      "source": "NASA"
+    },
+    {
+      "title": "Flexell Space Establishes French Subsidiary to Strengthen European Presence",
+      "link": "https://spacenews.com/flexell-space-establishes-french-subsidiary-to-strengthen-european-presence/",
+      "pubDate": "2026-10-26T20:00:00.000Z",
+      "image": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/10/LOGO_FLEXELLBlack.png?fit=1024%2C1024&amp;ssl=1",
+      "author": "Flexell Space",
+      "excerpt": "– Paris-based FLEXELL SPACE FRANCE SAS creates a local business hub in Europe– New entity to support ongoing contract and volume-production discussions with European customers, from technical reviews to supply […] The post Flexell Space Establishes French Subsidiary to Strengthen European Presence appeared first on Spa",
+      "source": "SpaceNews"
+    },
+    {
+      "title": "NASA SEES Interns Tackle Real-World Challenges in Lunar Exploration",
+      "link": "https://science.nasa.gov/learning-resources/science-activation/nasa-sees-interns-tackle-real-world-challenges-in-lunar-exploration/",
+      "pubDate": "2026-10-26T19:28:08.000Z",
+      "image": "https://assets.science.nasa.gov/dynamicimage/assets/science/cds/learn/science-activation-stories/2026/10.09.26_SEES_Highlight.jpg?w=955&#038;h=637&#038;fit=clip&#038;crop=faces%2Cfocalpoint",
+      "author": "",
+      "excerpt": "The NASA STEM (Science, Technology, Engineering, and Mathematics) Enhancement in Earth Science (SEES) Internship Program at the University of Texas Center for Space Research places high school students on small, mission-focused research teams mentored by NASA, academic, and industry experts. During summer 2026, the SEE",
+      "source": "NASA"
+    },
+    {
       "title": "NASA Invites Media to Moon Landing Simulation Experience in California",
       "link": "https://www.nasa.gov/news-release/nasa-invites-media-to-moon-landing-simulation-experience-in-california/",
       "pubDate": "2026-10-26T17:13:44.000Z",
@@ -55,12 +100,21 @@
       "source": "Payload"
     },
     {
-      "title": "2026 October 26 – M42: The Great Nebula in Orion",
+      "title": "FCC’s New Part 100 Licensing Framework: What Space Companies Need to Know",
+      "link": "https://payloadspace.com/fccs-new-part-100-licensing-framework-what-space-companies-need-to-know/",
+      "pubDate": "2026-10-26T10:13:00.000Z",
+      "image": "https://payloadspace.com/wp-content/uploads/2026/10/Screenshot-2026-10-16-at-1.58.26-PM-1024x580-HKXZAq-200x200.png",
+      "author": "Max Puhalevich",
+      "excerpt": "In July 2026, the FCC adopted the new Part 100 comms-licensing framework for the authorization of satellite systems and Earth stations in the US. The post FCC’s New Part 100 Licensing Framework: What Space Companies Need to Know appeared first on Payload.",
+      "source": "Payload"
+    },
+    {
+      "title": "APOD: 2026 October 26 – M42: The Great Nebula in Orion",
       "link": "https://science.nasa.gov/image-article/apod/2026-october-26-m42-the-great-nebula-in-orion/",
       "pubDate": "2026-10-26T04:05:00.000Z",
       "image": "https://assets.science.nasa.gov/dynamicimage/assets/science/cds/apod/apod/2026/october/OrionSword_Palaia_2000.jpg?w=1960&#038;h=2048&#038;fit=clip&#038;crop=faces%2Cfocalpoint",
       "author": "",
-      "excerpt": "APOD Science APOD 2026 October 26 – M42: The… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a profession",
+      "excerpt": "APOD Science APOD APOD: 2026 October 26 – M42:… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professi",
       "source": "NASA"
     },
     {
@@ -79,42 +133,6 @@
       "image": "https://assets.science.nasa.gov/content/dam/science/cds/apod/apod/2021/october/DarkMatter_KipacAmnh_1200.jpg?w=1200&#038;h=900&#038;fit=clip&#038;crop=faces%2Cfocalpoint",
       "author": "",
       "excerpt": "APOD Science APOD APOD: 2026 October 25 – Dark… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professi",
-      "source": "NASA"
-    },
-    {
-      "title": "APOD: 2026 October 24 – Rosetta’s Selfie",
-      "link": "https://science.nasa.gov/image-article/apod-2026-october-24-rosettas-selfie/",
-      "pubDate": "2026-10-24T04:05:00.000Z",
-      "image": "https://assets.science.nasa.gov/dynamicimage/assets/science/cds/apod/apod/2026/october/ESA_Rosetta_Philae_CIVA_141007.png?w=1024&#038;h=1024&#038;fit=clip&#038;crop=faces%2Cfocalpoint",
-      "author": "",
-      "excerpt": "APOD Science APOD APOD: 2026 October 24 –… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional ",
-      "source": "NASA"
-    },
-    {
-      "title": "NASA, Partners Accelerate Lander Development for 2028 Moon Missions",
-      "link": "https://www.nasa.gov/missions/artemis/nasa-partners-accelerate-lander-development-for-2028-moon-missions/",
-      "pubDate": "2026-10-23T22:39:39.000Z",
-      "image": "https://images-assets.nasa.gov/image/art002e012632/art002e012632~large.jpg?w=1920&amp;h=1280&amp;fit=clip&amp;crop=faces%2Cfocalpoint",
-      "author": "Lee Mohon",
-      "excerpt": "As NASA returns humans to the lunar surface and establishes a long-term presence on our closest celestial neighbor, the agency and commercial human landing system providers Blue Origin and SpaceX have streamlined the designs and changed both concepts of operations for its future crewed landers. Since NASA established i",
-      "source": "NASA"
-    },
-    {
-      "title": "NASA’s Artemis III Mission to Test Future Moon Lander Operations",
-      "link": "https://www.nasa.gov/missions/artemis/nasas-artemis-iii-mission-to-test-future-moon-lander-operations/",
-      "pubDate": "2026-10-23T22:37:53.000Z",
-      "image": "https://www.nasa.gov/wp-content/uploads/2026/10/2-artemis-iii-con-ops-oct2026.jpg?w=2048",
-      "author": "Jason Costa",
-      "excerpt": "Before astronauts return to the lunar surface, NASA will first conduct one of the most ambitious and complex test missions in the agency’s history. Launching in 2027, Artemis III will send NASA astronauts Randy Bresnik, Frank Rubio, Andre Douglas, and ESA (European Space Agency) astronaut Luca Parmitano aboard the Orio",
-      "source": "NASA"
-    },
-    {
-      "title": "NASA’s Swift Mission Ends, Leaves Behind Scientific Bonanza",
-      "link": "https://science.nasa.gov/missions/swift/nasas-swift-mission-ends/",
-      "pubDate": "2026-10-23T21:51:19.000Z",
-      "image": "https://assets.science.nasa.gov/dynamicimage/assets/science/missions/swift-observatory/news/2026/end-of-mission/Swift_in_space_15_ac.jpg?w=2048&#038;h=1084&#038;fit=clip&#038;crop=faces%2Cfocalpoint",
-      "author": "",
-      "excerpt": "NASA’s Neil Gehrels Swift Observatory has ended its science mission now that the spacecraft is orbiting less than 171 miles (275 kilometers) above Earth’s surface. The greater atmospheric drag at this height prevents the satellite’s telescopes from steadily gazing at their astronomical targets. Swift conducted its fina",
       "source": "NASA"
     },
     {
@@ -322,15 +340,6 @@
       "image": "https://payloadspace.com/wp-content/uploads/2026/10/Hero-mountain-range-pad-200x200.png",
       "author": "Douglas Gorman",
       "excerpt": "In the contest to build up commercial launch capabilities in Canada, Quebec-based startup Reaction Dynamics has entered a new weight class. The post Reaction Dynamics Targets 2031 for Borealis Medium-Lift Launch appeared first on Payload.",
-      "source": "Payload"
-    },
-    {
-      "title": "Exclusive: EraDrive Lands $13M DoD Award For Autonomy Module",
-      "link": "https://payloadspace.com/exclusive-eradrive-lands-13m-dod-award-for-autonomy-module/",
-      "pubDate": "2026-10-19T13:00:00.000Z",
-      "image": "https://payloadspace.com/wp-content/uploads/2026/10/DSC_2980-200x200.jpeg",
-      "author": "Douglas Gorman",
-      "excerpt": "EraDrive won a $13M DoD award, under which the Space Force will buy an undisclosed number of the company’s Era-Node vision-based autonomy modules. The post Exclusive: EraDrive Lands $13M DoD Award For Autonomy Module appeared first on Payload.",
       "source": "Payload"
     },
     {
@@ -869,57 +878,120 @@
   ],
   "nytNews": [
     {
-      "title": "Walter Koenig, Chekov From ‘Star Trek,’ Has Died",
-      "link": "https://www.nytimes.com/2026/10/26/arts/television/walter-koenig-chekov-star-trek-dead.html",
-      "pubDate": "2026-10-26T18:32:43.000Z",
-      "image": "https://static01.nyt.com/images/2026/10/28/obituaries/26obit-koenig-print1/26obit-koenig-mediumSquareAt3X.jpg",
-      "author": "Anita Gates",
-      "excerpt": "As the baby-faced Russian navigator of the U.S.S. Enterprise, he was a mainstay of the original television series and seven films. He was 90.",
+      "title": "Justice Dept. Brings More Charges Against Comey, Accusing Him of Leaks",
+      "link": "https://www.nytimes.com/2026/10/26/us/politics/james-comey-charges-doj.html",
+      "pubDate": "2026-10-26T23:02:17.000Z",
+      "image": "https://static01.nyt.com/images/2026/10/26/multimedia/26dc-comey-2-vczw/26dc-comey-2-vczw-mediumSquareAt3X.jpg",
+      "author": "Devlin Barrett",
+      "excerpt": "Lawyers for James B. Comey said the case centered on an issue that had already been investigated and had not led to charges, of a purported leak of national security information to The Times in October 2016.",
       "source": "NYT"
     },
     {
-      "title": "Trump Administration Unlawfully Fired Maurene Comey, Judge Rules",
-      "link": "https://www.nytimes.com/2026/10/26/nyregion/maurene-comey-firing-doj-trump-epstein.html",
-      "pubDate": "2026-10-26T18:26:26.000Z",
-      "image": "https://static01.nyt.com/images/2026/10/26/multimedia/26met-comey-qfkz/26met-comey-qfkz-mediumSquareAt3X.jpg",
-      "author": "Santul Nerkar",
-      "excerpt": "At the time of her firing, Ms. Comey was a highly regarded trial lawyer for the U.S. attorney’s office in Manhattan, handling the prosecutions of Jeffrey Epstein and Sean Combs.",
+      "title": "Netanyahu Pushed for Attack on Iran Ahead of Israeli Election, Officials Say",
+      "link": "https://www.nytimes.com/2026/10/26/world/middleeast/netanyahu-iran-israel-election.html",
+      "pubDate": "2026-10-26T22:44:39.000Z",
+      "image": "https://static01.nyt.com/images/2026/10/26/multimedia/26int-israel-netanyahu-iran-qmcz/26int-israel-netanyahu-iran-qmcz-mediumSquareAt3X.jpg",
+      "author": "David M. Halbfinger, Ronen Bergman, Natan Odenheimer, Adam Rasgon and Aaron Boxerman",
+      "excerpt": "Israel’s military chief resisted the prime minister, who then pressed in recent days for a separate action, short of an overt strike, according to an official and a person briefed on the matter.",
       "source": "NYT"
     },
     {
-      "title": "Democrats See a Rare but Fleeting Chance to Shake Up the Senate Map",
-      "link": "https://www.nytimes.com/2026/10/26/us/elections/democrats-senate-republicans-midterms.html",
-      "pubDate": "2026-10-26T18:19:39.000Z",
-      "image": "https://static01.nyt.com/images/2026/10/23/multimedia/00dc-senate-map-wzkp/00dc-senate-map-wzkp-mediumSquareAt3X.jpg",
-      "author": "Carl Hulse",
-      "excerpt": "Democrats are targeting G.O.P. strongholds that could set them up for new majorities. But if they don’t win those races now, it could be a long time before they have another chance.",
+      "title": "France Makes Concessions to Students, but Not Enough to Halt Protests",
+      "link": "https://www.nytimes.com/2026/10/26/world/europe/france-student-protests.html",
+      "pubDate": "2026-10-26T22:22:41.000Z",
+      "image": "https://static01.nyt.com/images/2026/10/26/multimedia/26int-france-students-1-bvfj/26int-france-students-1-bvfj-mediumSquareAt3X.jpg",
+      "author": "Mark Landler",
+      "excerpt": "The government promised to phase out an unpopular university admissions system by 2028. Student groups are pushing for more.",
       "source": "NYT"
     },
     {
-      "title": "Anthropic S-1 Reveals Rapid Growth Ahead of Blockbuster IPO",
-      "link": "https://www.nytimes.com/2026/10/26/technology/anthropic-ipo-finances.html",
-      "pubDate": "2026-10-26T18:08:07.000Z",
-      "image": "https://static01.nyt.com/images/2026/08/20/multimedia/00biz-anthropic-finances-hfo-2-mjwl/00biz-anthropic-finances-hfo-2-mjwl-mediumSquareAt3X.jpg",
-      "author": "Mike Isaac, Erin Griffith, Lauren Hirsch and Sri Muppidi",
-      "excerpt": "Ahead of what could be the largest public listing ever, Anthropic said revenue soared to $16.3 billion in the first half of the year, and it planned to spend $807 billion on A.I. infrastructure.",
+      "title": "Brazil’s Vote Is a Victory for the Amazon, Environmentalists Say",
+      "link": "https://www.nytimes.com/2026/10/26/climate/brazil-lula-bolsonaro-amazon.html",
+      "pubDate": "2026-10-26T22:13:25.000Z",
+      "image": "https://static01.nyt.com/images/2026/10/26/multimedia/26cli-lula-amazon-kqvc/26cli-lula-amazon-kqvc-mediumSquareAt3X.jpg",
+      "author": "Quinn Glabicki",
+      "excerpt": "The re-election of President Luiz Inácio Lula da Silva is expected to lead to continued rainforest protections. His opponent wanted to make it easier to clear land.",
+      "source": "NYT"
+    },
+    {
+      "title": "Anthropic Reveals Rapid Revenue Growth, and Even Faster Spending",
+      "link": "https://www.nytimes.com/2026/10/26/briefing/anthropic-ipo-trump-mississippi-campaigning.html",
+      "pubDate": "2026-10-26T21:53:15.000Z",
+      "image": "https://static01.nyt.com/images/2026/10/26/multimedia/26evening-nl-anthropic-ipo-clqw/26evening-nl-anthropic-ipo-clqw-mediumSquareAt3X.jpg",
+      "author": "Matthew Cullen",
+      "excerpt": "Also, both parties are nervous about the Senate. Here’s the latest at the end of Monday.",
+      "source": "NYT"
+    },
+    {
+      "title": "How Lula’s Social Media Campaign Helped Him Win Brazil’s Election",
+      "link": "https://www.nytimes.com/2026/10/26/world/americas/brazil-election-lula-social-media.html",
+      "pubDate": "2026-10-26T21:51:52.000Z",
+      "image": "https://static01.nyt.com/images/2026/10/26/multimedia/26brazil-election-assess-mwht/26brazil-election-assess-mwht-mediumSquareAt3X.jpg",
+      "author": "Ana Ionova, Adam B. Ellick and Jack Nicas",
+      "excerpt": "President Luiz Inácio Lula da Silva won another term on Sunday, with the help of a seismic social media campaign that convinced Brazilians to reject his rival.",
+      "source": "NYT"
+    },
+    {
+      "title": "How Scuffles at Trump Rallies Echo His Past Events",
+      "link": "https://www.nytimes.com/video/us/politics/100000011231247/how-scuffles-at-trump-rallies-echo-his-past-events.html",
+      "pubDate": "2026-10-26T20:39:20.000Z",
+      "image": null,
+      "author": "David E. Sanger, Gilad Thaler, Nour Idriss, Nikolay Nikolov and Pierre Kattar",
+      "excerpt": "Examining President Trump’s praise of a rallygoer who punched a protester last week, David E. Sanger, a White House and national security correspondent for The New York Times, studied the atmosphere at Mr. Trump’s recent events. What he found was a faint echo of the moments that made Mr. Trump’s 2016 rallies so shockin",
+      "source": "NYT"
+    },
+    {
+      "title": "Israel Has Committed Genocidal Acts in Gaza Since Cease-Fire, U.N. Human Rights Panel Says",
+      "link": "https://www.nytimes.com/2026/10/26/world/middleeast/un-human-rights-panel-israel-palestinians.html",
+      "pubDate": "2026-10-26T20:30:07.000Z",
+      "image": "https://static01.nyt.com/images/2026/10/26/multimedia/26int-un-israel-gaza-01-jbhv/26int-un-israel-gaza-01-jbhv-mediumSquareAt3X.jpg",
+      "author": "Nick Cumming-Bruce",
+      "excerpt": "The panel also accuses Israel of committing crimes against humanity in the West Bank. Israel condemned the report.",
+      "source": "NYT"
+    },
+    {
+      "title": "The Key Numbers From Anthropic’s IPO Filing",
+      "link": "https://www.nytimes.com/2026/10/26/technology/anthropic-business-key-numbers.html",
+      "pubDate": "2026-10-26T20:21:28.000Z",
+      "image": "https://static01.nyt.com/images/2026/10/26/multimedia/26biz-anthropic-numbers-vztf/26biz-anthropic-numbers-vztf-mediumSquareAt3X.jpg",
+      "author": "Sri Muppidi and Lauren Hirsch",
+      "excerpt": "We broke down the A.I. company’s key figures, which give insight into the health of its business, its future plans and who’s in charge.",
+      "source": "NYT"
+    },
+    {
+      "title": "For Senegalese Street Vendors in New York, ‘Work Is Worship’",
+      "link": "https://www.nytimes.com/2026/10/26/nyregion/senegal-nyc-street-vendors-immigration.html",
+      "pubDate": "2026-10-26T20:18:10.000Z",
+      "image": "https://static01.nyt.com/images/2026/08/10/multimedia/00xp-senegalese-nyc-bzgm/00xp-senegalese-nyc-bzgm-mediumSquareAt3X.jpg",
+      "author": "Aimee Ortiz and Arisa Haboshi",
+      "excerpt": "Struggling to find steady work, many migrants who have arrived recently from Senegal have adapted with a relentless sidewalk hustle, sustaining their families through street vending.",
+      "source": "NYT"
+    },
+    {
+      "title": "Last Ditch, a Lesbian Bar Whose Mask Policy Made It Famous, Will Close",
+      "link": "https://www.nytimes.com/2026/10/26/us/last-ditch-lesbian-bar-closing.html",
+      "pubDate": "2026-10-26T20:06:53.000Z",
+      "image": "https://static01.nyt.com/images/2026/10/26/multimedia/26nat-lastditch-bwmg/26nat-lastditch-bwmg-mediumSquareAt3X.jpg",
+      "author": "Mark Arsenault",
+      "excerpt": "The Massachusetts bar, which catered to lesbians, lifted its Covid mask requirement once a week to attract more patrons. The decision brought criticism and national attention, but did not save the business.",
       "source": "NYT"
     },
     {
       "title": "Anthropic’s IPO S-1 Spells Out a Future of Promise and Peril",
       "link": "https://www.nytimes.com/2026/10/26/technology/anthropic-ipo-s1-dario-amodei.html",
-      "pubDate": "2026-10-26T18:06:58.000Z",
+      "pubDate": "2026-10-26T19:36:41.000Z",
       "image": "https://static01.nyt.com/images/2026/10/26/multimedia/2026-10-26-anthropic-ipo-letter-index/2026-10-26-anthropic-ipo-letter-index-mediumSquareAt3X-v6.png",
       "author": "Mike Isaac",
       "excerpt": "The A.I. company took great pains to describe the many benefits that can come from using its Claude chatbot and technology, but also offered up a heavy dose of gloom.",
       "source": "NYT"
     },
     {
-      "title": "Marci Webber Killed Her Child. When Should the Mental Hospital Free Her?",
-      "link": "https://www.nytimes.com/2026/10/25/us/marci-webber-mental-hospital-lindsay-clancy.html",
-      "pubDate": "2026-10-26T17:16:21.000Z",
-      "image": null,
-      "author": "Shaila Dewan",
-      "excerpt": "Marci Webber was institutionalized after being acquitted by reason of insanity for killing her 4-year-old daughter. For years she has said she is cured and should be freed.",
+      "title": "Walter Koenig, Chekov From ‘Star Trek,’ Has Died",
+      "link": "https://www.nytimes.com/2026/10/26/arts/television/walter-koenig-chekov-star-trek-dead.html",
+      "pubDate": "2026-10-26T18:32:43.000Z",
+      "image": "https://static01.nyt.com/images/2026/10/28/obituaries/26obit-koenig-print1/26obit-koenig-mediumSquareAt3X.jpg",
+      "author": "Anita Gates",
+      "excerpt": "As the baby-faced Russian navigator of the U.S.S. Enterprise, he was a mainstay of the original television series and seven films. He was 90.",
       "source": "NYT"
     },
     {
@@ -938,15 +1010,6 @@
       "image": "https://static01.nyt.com/images/2026/10/16/multimedia/FRIENDSHIP-APPS-01-whbz/FRIENDSHIP-APPS-01-whbz-mediumSquareAt3X.jpg",
       "author": "Aruni Soni",
       "excerpt": "Apps that match personalities — for a price — have surged in popularity amid a loneliness epidemic.",
-      "source": "NYT"
-    },
-    {
-      "title": "DraftKings Faces Growing Pressure Over How It Targets Customers",
-      "link": "https://www.nytimes.com/2026/10/26/business/draftkings-new-york-louisiana-blumenthal.html",
-      "pubDate": "2026-10-26T15:53:16.000Z",
-      "image": "https://static01.nyt.com/images/2026/10/26/multimedia/26biz-draftkings-pressure-02-mcgh/26biz-draftkings-pressure-02-mcgh-mediumSquareAt3X.jpg",
-      "author": "Alex Klavens",
-      "excerpt": "In Congress and in several states, officials have been questioning online gambling companies about their use of artificial intelligence.",
       "source": "NYT"
     },
     {
@@ -977,33 +1040,6 @@
       "source": "NYT"
     },
     {
-      "title": "Brazilian Markets Convulse After Unexpected Election Result",
-      "link": "https://www.nytimes.com/2026/10/26/business/brazil-stock-markets-election-lula.html",
-      "pubDate": "2026-10-26T14:42:40.000Z",
-      "image": "https://static01.nyt.com/images/2026/10/26/multimedia/26Biz-Brazil-Markets-pvmt/26Biz-Brazil-Markets-pvmt-mediumSquareAt3X.jpg",
-      "author": "Joe Rennison",
-      "excerpt": "President Luiz Inácio Lula da Silva’s re-election victory prompted a sharp reversal in financial markets that had expected his opponent to win.",
-      "source": "NYT"
-    },
-    {
-      "title": "Flurry of Diplomacy in Iran Amid Reports of U.S. and Israeli Plans to Renew War",
-      "link": "https://www.nytimes.com/2026/10/26/world/middleeast/iran-war-new-attacks-diplomacy.html",
-      "pubDate": "2026-10-26T14:30:53.000Z",
-      "image": "https://static01.nyt.com/images/2026/10/26/multimedia/26int-iran-diplomacy-vflg/26int-iran-diplomacy-vflg-mediumSquareAt3X.jpg",
-      "author": "Erika Solomon, Vivian Nereim and Adam Rasgon",
-      "excerpt": "Saudi Arabia, Turkey and Pakistan made a rare joint visit to Tehran amid reports that the U.S. and Israel were drawing up plans to renew their attacks on Iran.",
-      "source": "NYT"
-    },
-    {
-      "title": "The Storm Wrecked Their Bridges. ‘All That Red Tape’ Left Them Stranded.",
-      "link": "https://www.nytimes.com/2026/10/26/us/north-carolina-hurricane-helene-bridges.html",
-      "pubDate": "2026-10-26T14:21:09.000Z",
-      "image": null,
-      "author": "Eduardo Medina and Allison Joyce",
-      "excerpt": "Hundreds of households in North Carolina remain without a private bridge two years after Hurricane Helene. Many are frustrated by a state program’s progress.",
-      "source": "NYT"
-    },
-    {
       "title": "Israeli Jews Across the Spectrum Face an Election of Fears",
       "link": "https://www.nytimes.com/2026/10/26/world/middleeast/israel-election-stakes.html",
       "pubDate": "2026-10-26T10:30:57.000Z",
@@ -1019,15 +1055,6 @@
       "image": "https://static01.nyt.com/images/2026/10/26/science/26SCI-UNKNOWNS-NEANDERTHALS/26SCI-UNKNOWNS-NEANDERTHALS-mediumSquareAt3X.jpg",
       "author": "Carolyn Y. Johnson",
       "excerpt": "Scientists now know that they shared many of the sophisticated abilities of Homo sapiens. So why are we the only humans left standing?",
-      "source": "NYT"
-    },
-    {
-      "title": "For Senegalese Street Vendors in New York, ‘Work Is Worship’",
-      "link": "https://www.nytimes.com/2026/10/26/nyregion/senegal-nyc-street-vendors-immigration.html",
-      "pubDate": "2026-10-26T09:00:16.000Z",
-      "image": "https://static01.nyt.com/images/2026/06/29/multimedia/00xp-senegalese-nyc-comp-pvhg/00xp-senegalese-nyc-comp-pvhg-mediumSquareAt3X.jpg",
-      "author": "Aimee Ortiz and Arisa Haboshi",
-      "excerpt": "Struggling to find steady work, many migrants who have arrived recently from Senegal have adapted with a relentless sidewalk hustle, sustaining their families through street vending.",
       "source": "NYT"
     }
   ]
