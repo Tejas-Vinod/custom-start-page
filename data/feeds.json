@@ -1,6 +1,51 @@
 {
   "spaceNews": [
     {
+      "title": "NASA Invites Media to Moon Landing Simulation Experience in California",
+      "link": "https://www.nasa.gov/news-release/nasa-invites-media-to-moon-landing-simulation-experience-in-california/",
+      "pubDate": "2026-10-26T17:13:44.000Z",
+      "image": "https://images-assets.nasa.gov/image/art002e012632/art002e012632~large.jpg?w=1920&amp;h=1280&amp;fit=clip&amp;crop=faces%2Cfocalpoint",
+      "author": "Jeanne Neal",
+      "excerpt": "Members of the media are invited to tour a new lunar landing simulator at NASA’s Ames Research Center in California's Silicon Valley on Thursday, Oct. 29, and Friday, Oct. 30.",
+      "source": "NASA"
+    },
+    {
+      "title": "NASA’s X-59 Aircraft and Test Pilot",
+      "link": "https://www.nasa.gov/image-article/nasas-x-59-aircraft-and-test-pilot/",
+      "pubDate": "2026-10-26T15:25:47.000Z",
+      "image": "https://www.nasa.gov/wp-content/uploads/2026/10/afrc2026-0227-51.jpg?w=2048",
+      "author": "HQ Web Team",
+      "excerpt": "NASA test pilot Mike Lippert poses for a photo ahead of his first time flying the agency’s X-59 quiet supersonic research aircraft on Oct. 21, 2026. The X-59 has flown numerous times since its inaugural flight in November 2025; its first supersonic flight was on June 5, 2026. Lippert took off from NASA’s Armstrong Flig",
+      "source": "NASA"
+    },
+    {
+      "title": "NASA, USDA Sign Agreement Advancing Earth Science, Agriculture  ",
+      "link": "https://www.nasa.gov/news-release/nasa-usda-sign-agreement-advancing-earth-science-agriculture/",
+      "pubDate": "2026-10-26T13:54:25.000Z",
+      "image": "https://www.nasa.gov/wp-content/uploads/2026/10/mou10242026.jpg?w=1829",
+      "author": "Jennifer M. Dooren",
+      "excerpt": "NASA and the U.S. Department of Agriculture (USDA) have signed a Memorandum of Understanding expanding cooperation in Earth observation, geospatial analytics, and advanced data technologies, supporting USDA’s data modernization plan for United States agriculture. “NASA develops some of the most advanced sensing, comput",
+      "source": "NASA"
+    },
+    {
+      "title": "2026 Full Moon calendar: When to see the Full Moon and phases",
+      "link": "https://www.astronomy.com/observing/full-moon-calendar-dates-times-types/",
+      "pubDate": "2026-10-26T13:41:22.000Z",
+      "image": null,
+      "author": "Jake Parks",
+      "excerpt": "The phenomenon of a Full Moon arises when our planet, Earth, is precisely sandwiched between the Sun and the Moon. This alignment ensures the entire side of the Moon that faces us gleams under sunlight. Thanks to the Moon’s orbit around Earth, the angle of sunlight hitting the lunar surface and being reflected back toC",
+      "source": "Astronomy Magazine"
+    },
+    {
+      "title": "Astranis Upgrades Falcon 9 Launch Contract to Dedicated Mission for Entire Block 4 Production Run of Satellites",
+      "link": "https://spacenews.com/astranis-upgrades-falcon-9-launch-contract-to-dedicated-mission-for-entire-block-4-production-run-of-satellites/",
+      "pubDate": "2026-10-26T13:00:00.000Z",
+      "image": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/10/astranis-square.png?fit=1024%2C1014&amp;ssl=1",
+      "author": "Astranis",
+      "excerpt": "SAN FRANCISCO —October 26, 2026—Today, Astranis announced it has upgraded its 4th launch to a dedicated mission aboard a SpaceX Falcon 9 rocket set to launch in 2028, allowing it […] The post Astranis Upgrades Falcon 9 Launch Contract to Dedicated Mission for Entire Block 4 Production Run of Satellites appeared first o",
+      "source": "SpaceNews"
+    },
+    {
       "title": "Colare Raises $2.5M to Expand its Hardware-Focused Hiring Platform",
       "link": "https://payloadspace.com/colare-raises-2-5m-to-expand-its-hardware-focused-hiring-platform/",
       "pubDate": "2026-10-26T12:23:48.000Z",
@@ -100,24 +145,6 @@
       "source": "SpaceNews"
     },
     {
-      "title": "RS-25 Engine Tests at NASA Stennis",
-      "link": "https://www.nasa.gov/image-article/rs-25-engine-tests-at-nasa-stennis/",
-      "pubDate": "2026-10-23T18:57:04.000Z",
-      "image": "https://www.nasa.gov/wp-content/uploads/2026/10/ssc-20261021-s00947horig.jpg?w=2048",
-      "author": "HQ Web Team",
-      "excerpt": "Teams at NASA’s Stennis Space Center near Bay St. Louis, Mississippi tested RS-25 engine No. 10001 on Oct. 21, 2026. The hot fire test lasted for almost eight-and-a-half minutes (500 seconds), the same amount of time RS-25 engines fire during launch of NASA’s SLS (Space Launch System) rocket, with a 111% power level. F",
-      "source": "NASA"
-    },
-    {
-      "title": "NASA, Virginia Launch Power Partnership for Energy Security",
-      "link": "https://www.nasa.gov/centers-and-facilities/langley/nasa-power-energy-partnership/",
-      "pubDate": "2026-10-23T17:50:21.000Z",
-      "image": "https://www.nasa.gov/wp-content/uploads/2026/10/lrc-2026-ocio-p-03524.jpg?w=2048",
-      "author": "Holly Rink",
-      "excerpt": "NASA is helping to foster long-term energy security in Virginia. NASA’s Langley Research Center in Hampton, Virginia, is partnering with the Virginia Department of Energy to support informed decisions for effective energy generation, delivery and use by providing solar, meteorological, and future weather risk datasets ",
-      "source": "NASA"
-    },
-    {
       "title": "Exclusive: DoD Taps Orbital Operations for Cryogenic Spacecraft Demo",
       "link": "https://payloadspace.com/exclusive-dod-taps-orbital-operations-for-cryogenic-spacecraft-demo/",
       "pubDate": "2026-10-23T13:00:00.000Z",
@@ -152,15 +179,6 @@
       "author": "Alison Klesman",
       "excerpt": "Friday, October 23The Moon passes 5° north of Neptune at 11 P.M. EDT; you can catch the pair in the south around that time, along with Saturn in the southwest, just to the Moon’s lower left. Saturn is visible to the naked eye, but Neptune is not. The distant ice giant will require binoculars orContinue reading \"The Sky",
       "source": "Astronomy Magazine"
-    },
-    {
-      "title": "APOD: 2026 October 23 – Andromeda in Southern Spring",
-      "link": "https://science.nasa.gov/image-article/apod-2026-october-23-andromeda-in-southern-spring/",
-      "pubDate": "2026-10-23T04:05:00.000Z",
-      "image": "https://assets.science.nasa.gov/dynamicimage/assets/science/cds/apod/apod/2026/october/APOD_Lucy.jpg?w=2048&#038;h=1368&#038;fit=clip&#038;crop=faces%2Cfocalpoint",
-      "author": "",
-      "excerpt": "APODScienceAPODAPOD: 2026 October 23 –…Today’s APODArchiveSubmissionsIndexSearchCalendarRSSEducationAboutDiscuss APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer. A",
-      "source": "NASA"
     },
     {
       "title": "Tiny ‘solar flares’ recreated in the lab may explain corona mystery",
@@ -451,6 +469,15 @@
       "source": "Spaceflight Now"
     },
     {
+      "title": "Our 16th annual star products",
+      "link": "https://www.astronomy.com/observing/our-16th-annual-star-products/",
+      "pubDate": "2026-10-13T13:29:16.000Z",
+      "image": null,
+      "author": "Phil Harrington",
+      "excerpt": "Each year, new astronomy equipment reflects advances in technology and the evolving ways observers engage with the night sky. Traditional designs such as Dobsonian reflectors and apochromatic refractors continue to deliver dependable performance, while smart telescopes and integrated imaging systems are expanding acces",
+      "source": "Astronomy Magazine"
+    },
+    {
       "title": "Launch preview: NASA, SpaceX to launch new solar arrays, 6,300 pounds of cargo to the space station",
       "link": "https://spaceflightnow.com/2026/10/13/live-coverage-nasa-spacex-to-launch-new-solar-arrays-6300-pounds-of-cargo-to-the-space-station/",
       "pubDate": "2026-10-13T01:19:30.000Z",
@@ -514,15 +541,6 @@
       "source": "Spaceflight Now"
     },
     {
-      "title": "Newly selected NASA mission will hunt for caves on the Moon",
-      "link": "https://www.astronomy.com/science/newly-selected-nasa-mission-will-hunt-for-caves-on-the-moon/",
-      "pubDate": "2026-10-09T17:49:35.000Z",
-      "image": null,
-      "author": "Brooks Mendenhall",
-      "excerpt": "NASA has selected a mission proposal that will peer below a volcanic pit on the Moon to find out whether it opens onto a hidden lava tube — a geologic formation long theorized, but never confirmed on the Moon. The proposal will send a mission to the Marius Hills Pit, a large hole — approximatelyContinue reading \"Newly ",
-      "source": "Astronomy Magazine"
-    },
-    {
       "title": "Two large asteroids found spinning as fast as a fairground ride",
       "link": "https://www.newscientist.com/article/2593044-two-large-asteroids-found-spinning-as-fast-as-fairground-ride/?utm_campaign=RSS|NSNS&utm_content=space&utm_medium=RSS&utm_source=NSNS",
       "pubDate": "2026-10-09T17:00:00.000Z",
@@ -530,15 +548,6 @@
       "author": "Jonathan O’Callaghan",
       "excerpt": "Rocks in the asteroid belt rotating at ultra-fast speeds suggest our understanding of asteroid structure might be wrong",
       "source": "New Scientist"
-    },
-    {
-      "title": "The Sky This Week from October 9 to 16: Mars passes through the Beehive",
-      "link": "https://www.astronomy.com/the-sky-this-week/the-sky-this-week-from-october-9-to-16-2026/",
-      "pubDate": "2026-10-09T05:00:00.000Z",
-      "image": null,
-      "author": "Alison Klesman",
-      "excerpt": "Friday, October 9A few hours after sunset, turn toward the north to find the familiar W shape of Cassiopeia on its side, looking more like the number 3. To the upper left of this numeral is the target we’re aiming for tonight: open cluster M52. This young grouping of stars covers almost a quarter ofContinue reading \"Th",
-      "source": "Astronomy Magazine"
     },
     {
       "title": "First Guardians complete Jungle Operations Training Course in Panama",
@@ -860,57 +869,138 @@
   ],
   "nytNews": [
     {
-      "title": "Lula Defeats Bolsonaro for Brazil Presidency, in Blow to Latin America’s Right",
-      "link": "https://www.nytimes.com/2026/10/25/world/americas/brazil-election-president-lula-bolsonaro.html",
-      "pubDate": "2026-10-26T12:05:39.000Z",
-      "image": "https://static01.nyt.com/images/2026/11/25/multimedia/25int-brazil-election-wtk-promo-jvmh/25int-brazil-election-wtk-promo-jvmh-mediumSquareAt3X.jpg",
-      "author": "Ana Ionova and Adam B. Ellick",
-      "excerpt": "President Luiz Inácio Lula da Silva triumphed over Flávio Bolsonaro, the eldest son of the right-wing leader he defeated four years ago.",
+      "title": "Walter Koenig, Chekov From ‘Star Trek,’ Has Died",
+      "link": "https://www.nytimes.com/2026/10/26/arts/television/walter-koenig-chekov-star-trek-dead.html",
+      "pubDate": "2026-10-26T18:32:43.000Z",
+      "image": "https://static01.nyt.com/images/2026/10/28/obituaries/26obit-koenig-print1/26obit-koenig-mediumSquareAt3X.jpg",
+      "author": "Anita Gates",
+      "excerpt": "As the baby-faced Russian navigator of the U.S.S. Enterprise, he was a mainstay of the original television series and seven films. He was 90.",
+      "source": "NYT"
+    },
+    {
+      "title": "Trump Administration Unlawfully Fired Maurene Comey, Judge Rules",
+      "link": "https://www.nytimes.com/2026/10/26/nyregion/maurene-comey-firing-doj-trump-epstein.html",
+      "pubDate": "2026-10-26T18:26:26.000Z",
+      "image": "https://static01.nyt.com/images/2026/10/26/multimedia/26met-comey-qfkz/26met-comey-qfkz-mediumSquareAt3X.jpg",
+      "author": "Santul Nerkar",
+      "excerpt": "At the time of her firing, Ms. Comey was a highly regarded trial lawyer for the U.S. attorney’s office in Manhattan, handling the prosecutions of Jeffrey Epstein and Sean Combs.",
+      "source": "NYT"
+    },
+    {
+      "title": "Democrats See a Rare but Fleeting Chance to Shake Up the Senate Map",
+      "link": "https://www.nytimes.com/2026/10/26/us/elections/democrats-senate-republicans-midterms.html",
+      "pubDate": "2026-10-26T18:19:39.000Z",
+      "image": "https://static01.nyt.com/images/2026/10/23/multimedia/00dc-senate-map-wzkp/00dc-senate-map-wzkp-mediumSquareAt3X.jpg",
+      "author": "Carl Hulse",
+      "excerpt": "Democrats are targeting G.O.P. strongholds that could set them up for new majorities. But if they don’t win those races now, it could be a long time before they have another chance.",
+      "source": "NYT"
+    },
+    {
+      "title": "Anthropic S-1 Reveals Rapid Growth Ahead of Blockbuster IPO",
+      "link": "https://www.nytimes.com/2026/10/26/technology/anthropic-ipo-finances.html",
+      "pubDate": "2026-10-26T18:08:07.000Z",
+      "image": "https://static01.nyt.com/images/2026/08/20/multimedia/00biz-anthropic-finances-hfo-2-mjwl/00biz-anthropic-finances-hfo-2-mjwl-mediumSquareAt3X.jpg",
+      "author": "Mike Isaac, Erin Griffith, Lauren Hirsch and Sri Muppidi",
+      "excerpt": "Ahead of what could be the largest public listing ever, Anthropic said revenue soared to $16.3 billion in the first half of the year, and it planned to spend $807 billion on A.I. infrastructure.",
+      "source": "NYT"
+    },
+    {
+      "title": "Anthropic’s IPO S-1 Spells Out a Future of Promise and Peril",
+      "link": "https://www.nytimes.com/2026/10/26/technology/anthropic-ipo-s1-dario-amodei.html",
+      "pubDate": "2026-10-26T18:06:58.000Z",
+      "image": "https://static01.nyt.com/images/2026/10/26/multimedia/2026-10-26-anthropic-ipo-letter-index/2026-10-26-anthropic-ipo-letter-index-mediumSquareAt3X-v6.png",
+      "author": "Mike Isaac",
+      "excerpt": "The A.I. company took great pains to describe the many benefits that can come from using its Claude chatbot and technology, but also offered up a heavy dose of gloom.",
+      "source": "NYT"
+    },
+    {
+      "title": "Marci Webber Killed Her Child. When Should the Mental Hospital Free Her?",
+      "link": "https://www.nytimes.com/2026/10/25/us/marci-webber-mental-hospital-lindsay-clancy.html",
+      "pubDate": "2026-10-26T17:16:21.000Z",
+      "image": null,
+      "author": "Shaila Dewan",
+      "excerpt": "Marci Webber was institutionalized after being acquitted by reason of insanity for killing her 4-year-old daughter. For years she has said she is cured and should be freed.",
+      "source": "NYT"
+    },
+    {
+      "title": "Can Marissa Mayer, Yahoo’s Former CEO, Help Fix A.I.’s Gender Problem? ",
+      "link": "https://www.nytimes.com/2026/10/25/style/marissa-mayer-ai-assistants-women.html",
+      "pubDate": "2026-10-26T17:01:25.000Z",
+      "image": "https://static01.nyt.com/images/2026/10/25/multimedia/ST-MARISSA-MAYER-lkjv/ST-MARISSA-MAYER-lkjv-mediumSquareAt3X.jpg",
+      "author": "Alexandra Alter",
+      "excerpt": "She made her name as a pioneer at Google, then as chief executive at Yahoo. Now Mayer is entering the crowded marketplace for A.I. assistants — and hoping to draw in more women with a product that tackles the mental load.",
+      "source": "NYT"
+    },
+    {
+      "title": "Why Some People Are Using Apps to Make Friends",
+      "link": "https://www.nytimes.com/2026/10/26/business/friendship-apps.html",
+      "pubDate": "2026-10-26T16:56:25.000Z",
+      "image": "https://static01.nyt.com/images/2026/10/16/multimedia/FRIENDSHIP-APPS-01-whbz/FRIENDSHIP-APPS-01-whbz-mediumSquareAt3X.jpg",
+      "author": "Aruni Soni",
+      "excerpt": "Apps that match personalities — for a price — have surged in popularity amid a loneliness epidemic.",
+      "source": "NYT"
+    },
+    {
+      "title": "DraftKings Faces Growing Pressure Over How It Targets Customers",
+      "link": "https://www.nytimes.com/2026/10/26/business/draftkings-new-york-louisiana-blumenthal.html",
+      "pubDate": "2026-10-26T15:53:16.000Z",
+      "image": "https://static01.nyt.com/images/2026/10/26/multimedia/26biz-draftkings-pressure-02-mcgh/26biz-draftkings-pressure-02-mcgh-mediumSquareAt3X.jpg",
+      "author": "Alex Klavens",
+      "excerpt": "In Congress and in several states, officials have been questioning online gambling companies about their use of artificial intelligence.",
+      "source": "NYT"
+    },
+    {
+      "title": "Ken Paxton’s State-Funded Jet-Setting Draws Campaign Scrutiny",
+      "link": "https://www.nytimes.com/2026/10/26/us/politics/ken-paxton-texas-trips.html",
+      "pubDate": "2026-10-26T15:34:58.000Z",
+      "image": "https://static01.nyt.com/images/2026/10/26/multimedia/26POL-paxton-lifestyle-pqbh/26POL-paxton-lifestyle-pqbh-mediumSquareAt3X.jpg",
+      "author": "Beth Reinhard and Lauren McGaughy",
+      "excerpt": "Mr. Paxton, the Republican candidate for Senate in Texas, has taken about 350 trips outside of the state since he was sworn in as attorney general.",
+      "source": "NYT"
+    },
+    {
+      "title": "Meet Anthropic’s Seven Founders as the A.I. Firm Prepares for an IPO",
+      "link": "https://www.nytimes.com/2026/10/26/technology/anthropic-founders.html",
+      "pubDate": "2026-10-26T15:24:56.000Z",
+      "image": null,
+      "author": "Emmy Martin",
+      "excerpt": "Former OpenAI employees started the company in 2021 after disagreements over how to safely build artificial intelligence. An I.P.O. could make them billionaires.",
       "source": "NYT"
     },
     {
       "title": "I Went to India and Found It Has Lessons for Us All",
       "link": "https://www.nytimes.com/2026/10/26/opinion/india-modi-students-protests.html",
-      "pubDate": "2026-10-26T11:58:52.000Z",
+      "pubDate": "2026-10-26T14:58:11.000Z",
       "image": "https://static01.nyt.com/images/2026/10/26/multimedia/26polgreen-promo-wjbh/26polgreen-promo-wjbh-mediumSquareAt3X.jpg",
       "author": "Lydia Polgreen and Abhishek Khedekar",
       "excerpt": "Young people have revived the country’s glorious tradition of nonviolent dissent.",
       "source": "NYT"
     },
     {
-      "title": "María Corina Machado Returns to Venezuela",
-      "link": "https://www.nytimes.com/2026/10/25/world/americas/machado-venezuela-return.html",
-      "pubDate": "2026-10-26T11:56:41.000Z",
-      "image": "https://static01.nyt.com/images/2026/11/25/multimedia/25int-venezuela-machado-pwtq/25int-venezuela-machado-pwtq-mediumSquareAt3X.jpg",
-      "author": "Julie Turkewitz, Edward Wong and Adam Entous",
-      "excerpt": "After nearly 10 months in exile, Ms. Machado, a Nobel laureate, came back to challenge leaders who have sidelined her and press for new elections.",
+      "title": "Brazilian Markets Convulse After Unexpected Election Result",
+      "link": "https://www.nytimes.com/2026/10/26/business/brazil-stock-markets-election-lula.html",
+      "pubDate": "2026-10-26T14:42:40.000Z",
+      "image": "https://static01.nyt.com/images/2026/10/26/multimedia/26Biz-Brazil-Markets-pvmt/26Biz-Brazil-Markets-pvmt-mediumSquareAt3X.jpg",
+      "author": "Joe Rennison",
+      "excerpt": "President Luiz Inácio Lula da Silva’s re-election victory prompted a sharp reversal in financial markets that had expected his opponent to win.",
       "source": "NYT"
     },
     {
-      "title": "Marci Webber Killed Her Child. When Should the Mental Hospital Free Her?",
-      "link": "https://www.nytimes.com/2026/10/25/us/marci-webber-mental-hospital-lindsay-clancy.html",
-      "pubDate": "2026-10-26T11:36:50.000Z",
+      "title": "Flurry of Diplomacy in Iran Amid Reports of U.S. and Israeli Plans to Renew War",
+      "link": "https://www.nytimes.com/2026/10/26/world/middleeast/iran-war-new-attacks-diplomacy.html",
+      "pubDate": "2026-10-26T14:30:53.000Z",
+      "image": "https://static01.nyt.com/images/2026/10/26/multimedia/26int-iran-diplomacy-vflg/26int-iran-diplomacy-vflg-mediumSquareAt3X.jpg",
+      "author": "Erika Solomon, Vivian Nereim and Adam Rasgon",
+      "excerpt": "Saudi Arabia, Turkey and Pakistan made a rare joint visit to Tehran amid reports that the U.S. and Israel were drawing up plans to renew their attacks on Iran.",
+      "source": "NYT"
+    },
+    {
+      "title": "The Storm Wrecked Their Bridges. ‘All That Red Tape’ Left Them Stranded.",
+      "link": "https://www.nytimes.com/2026/10/26/us/north-carolina-hurricane-helene-bridges.html",
+      "pubDate": "2026-10-26T14:21:09.000Z",
       "image": null,
-      "author": "Shaila Dewan",
-      "excerpt": "Marci Webber was institutionalized after being convicted by reason of insanity for killing her 4-year-old daughter. For years she has said she is cured and should be freed.",
-      "source": "NYT"
-    },
-    {
-      "title": "Israel’s Future",
-      "link": "https://www.nytimes.com/2026/10/26/briefing/israels-future.html",
-      "pubDate": "2026-10-26T10:51:33.000Z",
-      "image": "https://static01.nyt.com/images/2026/10/26/multimedia/26themorning-nl-TOP/26themorning-nl-TOP-mediumSquareAt3X.png",
-      "author": "Sam Sifton",
-      "excerpt": "We look at what’s at stake in tomorrow’s elections.",
-      "source": "NYT"
-    },
-    {
-      "title": "What to Know About Lula’s Election Victory in Brazil, and What Comes Next",
-      "link": "https://www.nytimes.com/2026/10/26/world/americas/brazil-election-lula-win-what-to-know.html",
-      "pubDate": "2026-10-26T10:31:14.000Z",
-      "image": "https://static01.nyt.com/images/2026/10/25/multimedia/26xp-brazil-wwk-1/26xp-brazil-wwk-1-mediumSquareAt3X.jpg",
-      "author": "Ana Ionova, Adam B. Ellick and Yan Zhuang",
-      "excerpt": "President Luiz Inácio Lula da Silva won a fourth term, halting a string of conservative victories in Latin America. His opponent disputed the result.",
+      "author": "Eduardo Medina and Allison Joyce",
+      "excerpt": "Hundreds of households in North Carolina remain without a private bridge two years after Hurricane Helene. Many are frustrated by a state program’s progress.",
       "source": "NYT"
     },
     {
@@ -923,87 +1013,6 @@
       "source": "NYT"
     },
     {
-      "title": "U.S. Army Trains Apache Helicopter Pilots to Shoot Drones",
-      "link": "https://www.nytimes.com/2026/10/26/world/europe/helicopters-drones-apache-shahed-russia-iran.html",
-      "pubDate": "2026-10-26T10:00:51.000Z",
-      "image": "https://static01.nyt.com/images/2026/10/25/multimedia/25int-drone-apaches-01-gpjt/25int-drone-apaches-01-gpjt-mediumSquareAt3X.jpg",
-      "author": "Michael Schwirtz",
-      "excerpt": "The U.S. Army is training Apache pilots to shoot down drones as militaries around the world assess the efficacy of 20th-century technologies in a new era.",
-      "source": "NYT"
-    },
-    {
-      "title": "Brazil’s Election Defies a Right-Wing Trend, and Trump’s Midterm Attacks Enter a New Phase",
-      "link": "https://www.nytimes.com/2026/10/26/podcasts/the-headlines/brazil-election-trumps-midterm-attacks.html",
-      "pubDate": "2026-10-26T10:00:19.000Z",
-      "image": "https://static01.nyt.com/images/2026/10/26/multimedia/26theheadlines-1-lgwc/26theheadlines-1-lgwc-mediumSquareAt3X.jpg",
-      "author": "Tracy Mumford, Will Jarvis, Margaret Kadifa, Jake Lucas and Julian E. Barnes",
-      "excerpt": "Plus, can a three-hour documentary lead the box office?",
-      "source": "NYT"
-    },
-    {
-      "title": "To Work With P.O.W.s, Ukrainians Suppress Feelings About the Enemy",
-      "link": "https://www.nytimes.com/2026/10/26/world/europe/ukraine-russia-pows-prisoners.html",
-      "pubDate": "2026-10-26T09:58:09.000Z",
-      "image": "https://static01.nyt.com/images/2026/10/13/multimedia/00int-ukraine-pow-care-promo/00int-ukraine-pow-care-top-wmlz-mediumSquareAt3X.jpg",
-      "author": "Cassandra Vinograd and Oksana Parafeniuk",
-      "excerpt": "Much has been said about how Ukraine should treat Russian prisoners of war. Less attention has been paid to the emotional struggle for the Ukrainians tasked with that work.",
-      "source": "NYT"
-    },
-    {
-      "title": "Who’s Winning the Race for Congress?",
-      "link": "https://www.nytimes.com/2026/10/26/us/politics/whos-winning-the-race-for-congress.html",
-      "pubDate": "2026-10-26T09:02:28.000Z",
-      "image": null,
-      "author": "Patricia Mazzei",
-      "excerpt": "It’s Oct. 26 — eight days from the midterms. Here’s the state of play.",
-      "source": "NYT"
-    },
-    {
-      "title": "What’s Riding on Anthropic Going Public? Nearly Everything.",
-      "link": "https://www.nytimes.com/2026/10/26/technology/anthropic-going-public-stakes.html",
-      "pubDate": "2026-10-26T09:02:15.000Z",
-      "image": null,
-      "author": "Erin Griffith and Lauren Hirsch",
-      "excerpt": "Anthropic sits atop a pyramid of business partners and suppliers, making it a barometer of the broader economy. Its initial public offering will have widespread implications.",
-      "source": "NYT"
-    },
-    {
-      "title": "How Silicon Valley Stole the Future",
-      "link": "https://www.nytimes.com/2026/10/26/magazine/how-silicon-valley-stole-the-future.html",
-      "pubDate": "2026-10-26T09:02:08.000Z",
-      "image": null,
-      "author": "Linda Kinstler",
-      "excerpt": "A.I. will reshape our world. But does that mean the people who make the technology get to control our imagination, too?",
-      "source": "NYT"
-    },
-    {
-      "title": "The 11 Midterm Races That Could Shape the Progressive Movement’s Future",
-      "link": "https://www.nytimes.com/2026/10/26/us/politics/the-11-midterm-races-that-could-shape-the-progressive-movements-future.html",
-      "pubDate": "2026-10-26T09:01:41.000Z",
-      "image": "https://static01.nyt.com/images/2026/10/24/multimedia/2026-10-15-progressive-scenario-index/2026-10-15-progressive-scenario-index-mediumSquareAt3X.jpg",
-      "author": "Kellen Browning",
-      "excerpt": "The left says its populist message can attract moderates and conservatives in addition to liberals. That theory will be put to the test in a series of competitive races on Election Day.",
-      "source": "NYT"
-    },
-    {
-      "title": "Makes Rules for?",
-      "link": "https://www.nytimes.com/2026/10/26/magazine/ai-companies-law-regulations.html",
-      "pubDate": "2026-10-26T09:01:36.000Z",
-      "image": null,
-      "author": "Emily Bazelon",
-      "excerpt": "Five experts on how best to limit a rapidly evolving technology.",
-      "source": "NYT"
-    },
-    {
-      "title": "Shiny Glass Skyscrapers Are a Hot Thing. Literally.",
-      "link": "https://www.nytimes.com/2026/10/26/climate/glass-skyscrapers-heat-climate-change.html",
-      "pubDate": "2026-10-26T09:00:54.000Z",
-      "image": null,
-      "author": "Chico Harlan, Zunaira Saieed and Mira Rojanasakul",
-      "excerpt": "They’re transforming cities with million-dollar views and a message of modernity. But climate change makes cooling them tricky and costly.",
-      "source": "NYT"
-    },
-    {
       "title": "What Happened to the Neanderthals?",
       "link": "https://www.nytimes.com/2026/10/26/science/what-happened-to-the-neanderthals.html",
       "pubDate": "2026-10-26T09:00:45.000Z",
@@ -1013,12 +1022,12 @@
       "source": "NYT"
     },
     {
-      "title": "‘Pull Out the Sick Trees’: Xi’s Constant Purges Pave Way for Next Term",
-      "link": "https://www.nytimes.com/2026/10/26/world/asia/china-communist-party-xi-forever-purge.html",
-      "pubDate": "2026-10-26T04:00:07.000Z",
-      "image": "https://static01.nyt.com/images/2026/10/26/multimedia/26int-china-xi-purges-01-jlbc/26int-china-xi-purges-01-jlbc-mediumSquareAt3X.jpg",
-      "author": "Chris Buckley",
-      "excerpt": "The Chinese leader Xi Jinping, who is likely preparing to secure a fourth term in power in 2027, has complained that officials cannot be trusted.",
+      "title": "For Senegalese Street Vendors in New York, ‘Work Is Worship’",
+      "link": "https://www.nytimes.com/2026/10/26/nyregion/senegal-nyc-street-vendors-immigration.html",
+      "pubDate": "2026-10-26T09:00:16.000Z",
+      "image": "https://static01.nyt.com/images/2026/06/29/multimedia/00xp-senegalese-nyc-comp-pvhg/00xp-senegalese-nyc-comp-pvhg-mediumSquareAt3X.jpg",
+      "author": "Aimee Ortiz and Arisa Haboshi",
+      "excerpt": "Struggling to find steady work, many migrants who have arrived recently from Senegal have adapted with a relentless sidewalk hustle, sustaining their families through street vending.",
       "source": "NYT"
     }
   ]
