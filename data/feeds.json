@@ -1,8 +1,17 @@
 {
   "spaceNews": [
     {
+      "title": "Colare Raises $2.5M to Expand its Hardware-Focused Hiring Platform",
+      "link": "https://payloadspace.com/colare-raises-2-5m-to-expand-its-hardware-focused-hiring-platform/",
+      "pubDate": "2026-10-26T12:23:48.000Z",
+      "image": "https://payloadspace.com/wp-content/uploads/2026/10/Colare-founders-Esther-Thomas-and-Nain-Abdi-200x200.png",
+      "author": "Douglas Gorman",
+      "excerpt": "Colare’s technical-assessment platform maps the requirements of a role, and recreates decisions future engineers could face on the job. The post Colare Raises $2.5M to Expand its Hardware-Focused Hiring Platform appeared first on Payload.",
+      "source": "Payload"
+    },
+    {
       "title": "2026 October 26 – M42: The Great Nebula in Orion",
-      "link": "https://science.nasa.gov/image-article/2026-october-26-m42-the-great-nebula-in-orion/",
+      "link": "https://science.nasa.gov/image-article/apod/2026-october-26-m42-the-great-nebula-in-orion/",
       "pubDate": "2026-10-26T04:05:00.000Z",
       "image": "https://assets.science.nasa.gov/dynamicimage/assets/science/cds/apod/apod/2026/october/OrionSword_Palaia_2000.jpg?w=1960&#038;h=2048&#038;fit=clip&#038;crop=faces%2Cfocalpoint",
       "author": "",
@@ -69,7 +78,7 @@
       "pubDate": "2026-10-23T21:13:28.000Z",
       "image": "https://payloadspace.com/wp-content/uploads/2026/10/artemis-announcement-advisory-oct-13-200x200.webp",
       "author": "Douglas Gorman",
-      "excerpt": "NASA still wants to return US astronauts to the Moon in 2028. Today, officials shared a progress update on their efforts, as well as the finer details of the mission plans for Artemis III and IV, targeting flights in 2027 and 2028, respectively. Long story short: NASA remains confident it can meet the timeline for… The",
+      "excerpt": "NASA is still on track to return US astronauts to the Moon in 2028. On Friday, officials shared a progress update on their efforts, as well as the finer details of the mission plans for Artemis III and IV, targeting flights in 2027 and 2028, respectively. Long story short: NASA remains confident it can meet… The post N",
       "source": "Payload"
     },
     {
@@ -304,15 +313,6 @@
       "image": "https://payloadspace.com/wp-content/uploads/2026/10/DSC_2980-200x200.jpeg",
       "author": "Douglas Gorman",
       "excerpt": "EraDrive won a $13M DoD award, under which the Space Force will buy an undisclosed number of the company’s Era-Node vision-based autonomy modules. The post Exclusive: EraDrive Lands $13M DoD Award For Autonomy Module appeared first on Payload.",
-      "source": "Payload"
-    },
-    {
-      "title": "WarpWare Closes Pre-Seed to Bring Agentic Tools to Flight Software",
-      "link": "https://payloadspace.com/warpware-closes-pre-seed-to-bring-agentic-tools-to-flight-software/",
-      "pubDate": "2026-10-19T13:00:00.000Z",
-      "image": "https://payloadspace.com/wp-content/uploads/2026/10/videoframe_18759-200x200.png",
-      "author": "Victoria Woodburn",
-      "excerpt": "CO-based WarpWare closed its $1.2M pre-seed round today to expand what it calls an AI-enabled engineering platform for space missions. The post WarpWare Closes Pre-Seed to Bring Agentic Tools to Flight Software appeared first on Payload.",
       "source": "Payload"
     },
     {
@@ -768,6 +768,15 @@
   ],
   "industryNews": [
     {
+      "title": "Lockheed Martin Closes Ultra Maritime Acquisition",
+      "link": "https://news.lockheedmartin.com/2026-10-26-Lockheed-Martin-Closes-Ultra-Maritime-Acquisition",
+      "pubDate": "2026-10-26T12:00:00.000Z",
+      "image": "https://news.lockheedmartin.com/file.php/184188/Ultra-Maritime-Lockheed-Martin.jpg?thumbnail=144",
+      "author": "",
+      "excerpt": "Acquisition expands Lockheed Martin’s capability and domain expertise in anti-submarine warfare",
+      "source": "Lockheed Martin"
+    },
+    {
       "title": "Lockheed Martin Reports Third Quarter 2026 Financial Results",
       "link": "https://news.lockheedmartin.com/2026-10-22-Lockheed-Martin-Reports-Third-Quarter-2026-Financial-Results",
       "pubDate": "2026-10-22T10:19:00.000Z",
@@ -822,15 +831,6 @@
       "source": "Lockheed Martin"
     },
     {
-      "title": "U.S. Navy receives C-130J-30 Super Hercules to become future TACAMO platform, E-130J Phoenix II",
-      "link": "https://news.lockheedmartin.com/2026-10-16-U-S-Navy-receives-C-130J-30-Super-Hercules-to-become-future-TACAMO-platform,-E-130J-Phoenix-II",
-      "pubDate": "2026-10-16T12:01:00.000Z",
-      "image": "https://mmx.prnewswire.com/media/MS2014633/Lockheed-Martin-delivered-a-C-130J-30-Super-Hercules-aircraft.jpg?id=OA3022581&p=thumbnail",
-      "author": "",
-      "excerpt": "",
-      "source": "Lockheed Martin"
-    },
-    {
       "title": "Boeing Announces Third Quarter Deliveries",
       "link": "https://boeing.mediaroom.com/2026-10-13-Boeing-Announces-Third-Quarter-Deliveries",
       "pubDate": "2026-10-13T15:00:00.000Z",
@@ -860,156 +860,165 @@
   ],
   "nytNews": [
     {
-      "title": "Israeli Jews Across the Spectrum Face an Election of Fears",
-      "link": "https://www.nytimes.com/2026/10/26/world/middleeast/israel-election-stakes.html",
-      "pubDate": "2026-10-26T05:56:01.000Z",
-      "image": "https://static01.nyt.com/images/2026/10/26/multimedia/26int-israel-collapse-01-wgbz/26int-israel-collapse-01-wgbz-mediumSquareAt3X.jpg",
-      "author": "David M. Halbfinger",
-      "excerpt": "Supporters and opponents of Prime Minister Benjamin Netanyahu have expressed intense anxieties about isolation abroad, security at home and the future of Israel’s identity.",
-      "source": "NYT"
-    },
-    {
-      "title": "How Obama and Trump Made their Cases in Dueling Midterm Speeches",
-      "link": "https://www.nytimes.com/2026/10/25/us/politics/obama-trump-competing-rallies-midterms.html",
-      "pubDate": "2026-10-26T05:40:30.000Z",
-      "image": "https://static01.nyt.com/images/2026/10/25/multimedia/25pol-obama-trump-wtbj/25pol-obama-trump-wtbj-mediumSquareAt3X-v3.jpg",
-      "author": "Tim Balk",
-      "excerpt": "At rallies this weekend, Mr. Obama and Mr. Trump delivered two starkly contrasting pitches, differing in style and substance.",
-      "source": "NYT"
-    },
-    {
-      "title": "María Corina Machado Returns to Venezuela",
-      "link": "https://www.nytimes.com/2026/10/25/world/americas/machado-venezuela-return.html",
-      "pubDate": "2026-10-26T05:18:47.000Z",
-      "image": "https://static01.nyt.com/images/2026/11/25/multimedia/25int-venezuela-machado-pwtq/25int-venezuela-machado-pwtq-mediumSquareAt3X.jpg",
-      "author": "Julie Turkewitz, Edward Wong and Adam Entous",
-      "excerpt": "After nearly 10 months in exile, Ms. Machado, a Nobel laureate, came back to challenge leaders who have sidelined her and press for new elections.",
+      "title": "Lula Defeats Bolsonaro for Brazil Presidency, in Blow to Latin America’s Right",
+      "link": "https://www.nytimes.com/2026/10/25/world/americas/brazil-election-president-lula-bolsonaro.html",
+      "pubDate": "2026-10-26T12:05:39.000Z",
+      "image": "https://static01.nyt.com/images/2026/11/25/multimedia/25int-brazil-election-wtk-promo-jvmh/25int-brazil-election-wtk-promo-jvmh-mediumSquareAt3X.jpg",
+      "author": "Ana Ionova and Adam B. Ellick",
+      "excerpt": "President Luiz Inácio Lula da Silva triumphed over Flávio Bolsonaro, the eldest son of the right-wing leader he defeated four years ago.",
       "source": "NYT"
     },
     {
       "title": "I Went to India and Found It Has Lessons for Us All",
       "link": "https://www.nytimes.com/2026/10/26/opinion/india-modi-students-protests.html",
-      "pubDate": "2026-10-26T05:00:18.000Z",
+      "pubDate": "2026-10-26T11:58:52.000Z",
       "image": "https://static01.nyt.com/images/2026/10/26/multimedia/26polgreen-promo-wjbh/26polgreen-promo-wjbh-mediumSquareAt3X.jpg",
       "author": "Lydia Polgreen and Abhishek Khedekar",
       "excerpt": "Young people have revived the country’s glorious tradition of nonviolent dissent.",
       "source": "NYT"
     },
     {
-      "title": "How Netanyahu Could Cling to Power",
-      "link": "https://www.nytimes.com/2026/10/26/opinion/israel-elections-netanyahu.html",
-      "pubDate": "2026-10-26T05:00:11.000Z",
-      "image": "https://static01.nyt.com/images/2026/10/24/multimedia/24koplow-vcqf/24koplow-vcqf-mediumSquareAt3X.jpg",
-      "author": "Michael J. Koplow",
-      "excerpt": "Despite three disastrous years for Israelis, Prime Minister Benjamin Netanyahu’s core support remains strong.",
+      "title": "María Corina Machado Returns to Venezuela",
+      "link": "https://www.nytimes.com/2026/10/25/world/americas/machado-venezuela-return.html",
+      "pubDate": "2026-10-26T11:56:41.000Z",
+      "image": "https://static01.nyt.com/images/2026/11/25/multimedia/25int-venezuela-machado-pwtq/25int-venezuela-machado-pwtq-mediumSquareAt3X.jpg",
+      "author": "Julie Turkewitz, Edward Wong and Adam Entous",
+      "excerpt": "After nearly 10 months in exile, Ms. Machado, a Nobel laureate, came back to challenge leaders who have sidelined her and press for new elections.",
       "source": "NYT"
     },
     {
-      "title": "Could Lula Be on the Brink of Defeat in Brazil’s Election?",
-      "link": "https://www.nytimes.com/2026/10/24/world/americas/lula-brazil-election-president.html",
-      "pubDate": "2026-10-26T04:45:47.000Z",
-      "image": "https://static01.nyt.com/images/2026/10/22/multimedia/00int-brazil-lula-profile-bwkl/00int-brazil-lula-profile-bwkl-mediumSquareAt3X.jpg",
-      "author": "Ana Ionova",
-      "excerpt": "Brazil’s President Luiz Inácio Lula da Silva, a leftist, staged a remarkable comeback on Sunday, winning re-election and stopping a right-wing wave.",
+      "title": "Marci Webber Killed Her Child. When Should the Mental Hospital Free Her?",
+      "link": "https://www.nytimes.com/2026/10/25/us/marci-webber-mental-hospital-lindsay-clancy.html",
+      "pubDate": "2026-10-26T11:36:50.000Z",
+      "image": null,
+      "author": "Shaila Dewan",
+      "excerpt": "Marci Webber was institutionalized after being convicted by reason of insanity for killing her 4-year-old daughter. For years she has said she is cured and should be freed.",
       "source": "NYT"
     },
     {
-      "title": "Is the Venice Soccer Team Ever Going to Be as Good as It Looks?",
-      "link": "https://www.nytimes.com/2026/10/26/world/europe/venice-soceer.html",
-      "pubDate": "2026-10-26T04:01:08.000Z",
-      "image": "https://static01.nyt.com/images/2026/10/22/multimedia/00int-Venice-soccer-01-bhwl/00int-Venice-soccer-01-bhwl-mediumSquareAt3X.jpg",
-      "author": "Emma Bubola",
-      "excerpt": "Venezia FC, a historically modest club, has become a fashion sensation. But its performance has struggled to match the off-field hype.",
+      "title": "Israel’s Future",
+      "link": "https://www.nytimes.com/2026/10/26/briefing/israels-future.html",
+      "pubDate": "2026-10-26T10:51:33.000Z",
+      "image": "https://static01.nyt.com/images/2026/10/26/multimedia/26themorning-nl-TOP/26themorning-nl-TOP-mediumSquareAt3X.png",
+      "author": "Sam Sifton",
+      "excerpt": "We look at what’s at stake in tomorrow’s elections.",
+      "source": "NYT"
+    },
+    {
+      "title": "What to Know About Lula’s Election Victory in Brazil, and What Comes Next",
+      "link": "https://www.nytimes.com/2026/10/26/world/americas/brazil-election-lula-win-what-to-know.html",
+      "pubDate": "2026-10-26T10:31:14.000Z",
+      "image": "https://static01.nyt.com/images/2026/10/25/multimedia/26xp-brazil-wwk-1/26xp-brazil-wwk-1-mediumSquareAt3X.jpg",
+      "author": "Ana Ionova, Adam B. Ellick and Yan Zhuang",
+      "excerpt": "President Luiz Inácio Lula da Silva won a fourth term, halting a string of conservative victories in Latin America. His opponent disputed the result.",
+      "source": "NYT"
+    },
+    {
+      "title": "Israeli Jews Across the Spectrum Face an Election of Fears",
+      "link": "https://www.nytimes.com/2026/10/26/world/middleeast/israel-election-stakes.html",
+      "pubDate": "2026-10-26T10:30:57.000Z",
+      "image": "https://static01.nyt.com/images/2026/10/26/multimedia/26int-israel-collapse-01-wgbz/26int-israel-collapse-01-wgbz-mediumSquareAt3X.jpg",
+      "author": "David M. Halbfinger",
+      "excerpt": "Supporters and opponents of Prime Minister Benjamin Netanyahu have expressed intense anxieties about isolation abroad, security at home and the future of Israel’s identity.",
+      "source": "NYT"
+    },
+    {
+      "title": "U.S. Army Trains Apache Helicopter Pilots to Shoot Drones",
+      "link": "https://www.nytimes.com/2026/10/26/world/europe/helicopters-drones-apache-shahed-russia-iran.html",
+      "pubDate": "2026-10-26T10:00:51.000Z",
+      "image": "https://static01.nyt.com/images/2026/10/25/multimedia/25int-drone-apaches-01-gpjt/25int-drone-apaches-01-gpjt-mediumSquareAt3X.jpg",
+      "author": "Michael Schwirtz",
+      "excerpt": "The U.S. Army is training Apache pilots to shoot down drones as militaries around the world assess the efficacy of 20th-century technologies in a new era.",
+      "source": "NYT"
+    },
+    {
+      "title": "Brazil’s Election Defies a Right-Wing Trend, and Trump’s Midterm Attacks Enter a New Phase",
+      "link": "https://www.nytimes.com/2026/10/26/podcasts/the-headlines/brazil-election-trumps-midterm-attacks.html",
+      "pubDate": "2026-10-26T10:00:19.000Z",
+      "image": "https://static01.nyt.com/images/2026/10/26/multimedia/26theheadlines-1-lgwc/26theheadlines-1-lgwc-mediumSquareAt3X.jpg",
+      "author": "Tracy Mumford, Will Jarvis, Margaret Kadifa, Jake Lucas and Julian E. Barnes",
+      "excerpt": "Plus, can a three-hour documentary lead the box office?",
+      "source": "NYT"
+    },
+    {
+      "title": "To Work With P.O.W.s, Ukrainians Suppress Feelings About the Enemy",
+      "link": "https://www.nytimes.com/2026/10/26/world/europe/ukraine-russia-pows-prisoners.html",
+      "pubDate": "2026-10-26T09:58:09.000Z",
+      "image": "https://static01.nyt.com/images/2026/10/13/multimedia/00int-ukraine-pow-care-promo/00int-ukraine-pow-care-top-wmlz-mediumSquareAt3X.jpg",
+      "author": "Cassandra Vinograd and Oksana Parafeniuk",
+      "excerpt": "Much has been said about how Ukraine should treat Russian prisoners of war. Less attention has been paid to the emotional struggle for the Ukrainians tasked with that work.",
+      "source": "NYT"
+    },
+    {
+      "title": "Who’s Winning the Race for Congress?",
+      "link": "https://www.nytimes.com/2026/10/26/us/politics/whos-winning-the-race-for-congress.html",
+      "pubDate": "2026-10-26T09:02:28.000Z",
+      "image": null,
+      "author": "Patricia Mazzei",
+      "excerpt": "It’s Oct. 26 — eight days from the midterms. Here’s the state of play.",
+      "source": "NYT"
+    },
+    {
+      "title": "What’s Riding on Anthropic Going Public? Nearly Everything.",
+      "link": "https://www.nytimes.com/2026/10/26/technology/anthropic-going-public-stakes.html",
+      "pubDate": "2026-10-26T09:02:15.000Z",
+      "image": null,
+      "author": "Erin Griffith and Lauren Hirsch",
+      "excerpt": "Anthropic sits atop a pyramid of business partners and suppliers, making it a barometer of the broader economy. Its initial public offering will have widespread implications.",
+      "source": "NYT"
+    },
+    {
+      "title": "How Silicon Valley Stole the Future",
+      "link": "https://www.nytimes.com/2026/10/26/magazine/how-silicon-valley-stole-the-future.html",
+      "pubDate": "2026-10-26T09:02:08.000Z",
+      "image": null,
+      "author": "Linda Kinstler",
+      "excerpt": "A.I. will reshape our world. But does that mean the people who make the technology get to control our imagination, too?",
+      "source": "NYT"
+    },
+    {
+      "title": "The 11 Midterm Races That Could Shape the Progressive Movement’s Future",
+      "link": "https://www.nytimes.com/2026/10/26/us/politics/the-11-midterm-races-that-could-shape-the-progressive-movements-future.html",
+      "pubDate": "2026-10-26T09:01:41.000Z",
+      "image": "https://static01.nyt.com/images/2026/10/24/multimedia/2026-10-15-progressive-scenario-index/2026-10-15-progressive-scenario-index-mediumSquareAt3X.jpg",
+      "author": "Kellen Browning",
+      "excerpt": "The left says its populist message can attract moderates and conservatives in addition to liberals. That theory will be put to the test in a series of competitive races on Election Day.",
+      "source": "NYT"
+    },
+    {
+      "title": "Makes Rules for?",
+      "link": "https://www.nytimes.com/2026/10/26/magazine/ai-companies-law-regulations.html",
+      "pubDate": "2026-10-26T09:01:36.000Z",
+      "image": null,
+      "author": "Emily Bazelon",
+      "excerpt": "Five experts on how best to limit a rapidly evolving technology.",
+      "source": "NYT"
+    },
+    {
+      "title": "Shiny Glass Skyscrapers Are a Hot Thing. Literally.",
+      "link": "https://www.nytimes.com/2026/10/26/climate/glass-skyscrapers-heat-climate-change.html",
+      "pubDate": "2026-10-26T09:00:54.000Z",
+      "image": null,
+      "author": "Chico Harlan, Zunaira Saieed and Mira Rojanasakul",
+      "excerpt": "They’re transforming cities with million-dollar views and a message of modernity. But climate change makes cooling them tricky and costly.",
+      "source": "NYT"
+    },
+    {
+      "title": "What Happened to the Neanderthals?",
+      "link": "https://www.nytimes.com/2026/10/26/science/what-happened-to-the-neanderthals.html",
+      "pubDate": "2026-10-26T09:00:45.000Z",
+      "image": "https://static01.nyt.com/images/2026/10/26/science/26SCI-UNKNOWNS-NEANDERTHALS/26SCI-UNKNOWNS-NEANDERTHALS-mediumSquareAt3X.jpg",
+      "author": "Carolyn Y. Johnson",
+      "excerpt": "Scientists now know that they shared many of the sophisticated abilities of Homo sapiens. So why are we the only humans left standing?",
       "source": "NYT"
     },
     {
       "title": "‘Pull Out the Sick Trees’: Xi’s Constant Purges Pave Way for Next Term",
       "link": "https://www.nytimes.com/2026/10/26/world/asia/china-communist-party-xi-forever-purge.html",
-      "pubDate": "2026-10-26T04:00:06.000Z",
+      "pubDate": "2026-10-26T04:00:07.000Z",
       "image": "https://static01.nyt.com/images/2026/10/26/multimedia/26int-china-xi-purges-01-jlbc/26int-china-xi-purges-01-jlbc-mediumSquareAt3X.jpg",
       "author": "Chris Buckley",
       "excerpt": "The Chinese leader Xi Jinping, who is likely preparing to secure a fourth term in power in 2027, has complained that officials cannot be trusted.",
-      "source": "NYT"
-    },
-    {
-      "title": "In Islamophobic Rant, Trump Seeks to Stir Republican Base in Michigan",
-      "link": "https://www.nytimes.com/2026/10/25/us/elections/trump-michigan-el-sayed-rogers.html",
-      "pubDate": "2026-10-26T02:26:14.000Z",
-      "image": "https://static01.nyt.com/images/2026/10/25/multimedia/25dc-trump-michigan-wpqz/25dc-trump-michigan-wpqz-mediumSquareAt3X.jpg",
-      "author": "David E. Sanger and Bayliss Wagner",
-      "excerpt": "The president contended that Dr. Abdul El-Sayed, a Muslim, would “invite hordes of jihadis to our shores” as he sought to bolster the G.O.P. candidate in a tight Senate race.",
-      "source": "NYT"
-    },
-    {
-      "title": "Aleksandar Vucic Concedes Defeat in Serbian Election",
-      "link": "https://www.nytimes.com/2026/10/25/world/europe/serbia-vucic-election-defeat.html",
-      "pubDate": "2026-10-26T01:57:25.000Z",
-      "image": "https://static01.nyt.com/images/2026/10/25/multimedia/25int-serbia-vucic-mpgv/25int-serbia-vucic-mpgv-mediumSquareAt3X.jpg",
-      "author": "Andrew Higgins and Alisa Dogramadzieva",
-      "excerpt": "“It is clear that we have lost these elections,” Aleksandar Vucic said in a surprisingly early speech congratulating his opponents.",
-      "source": "NYT"
-    },
-    {
-      "title": "Trump’s Election Attacks Enter New Pre-emptive Phase",
-      "link": "https://www.nytimes.com/2026/10/25/us/politics/trumps-election-alaska.html",
-      "pubDate": "2026-10-26T01:12:21.000Z",
-      "image": "https://static01.nyt.com/images/2026/10/25/multimedia/25dc-trump-elections1-vcth/25dc-trump-elections1-vcth-mediumSquareAt3X.jpg",
-      "author": "Zolan Kanno-Youngs",
-      "excerpt": "A lawsuit by the Justice Department challenging a potential narrow loss by the GOP Senate incumbent in Alaska reflects a new tactic by the president to try to shape the election results.",
-      "source": "NYT"
-    },
-    {
-      "title": "New Fight at Gritty Manhattan Park Is Over ‘Punk Rock’ Pull-Up Bars",
-      "link": "https://www.nytimes.com/2026/10/25/nyregion/tompkins-square-park-pull-up-bars-renovation.html",
-      "pubDate": "2026-10-26T00:37:53.000Z",
-      "image": "https://static01.nyt.com/images/2026/10/25/nyregion/25met-Tompkins-Bars/25met-Tompkins-Bars-mediumSquareAt3X.jpg",
-      "author": "Nate Schweber",
-      "excerpt": "The Parks Department has a $10 million plan to renovate the northeast corner of Tompkins Square Park, but fans of its workout bars want things to stay just as they are.",
-      "source": "NYT"
-    },
-    {
-      "title": "‘You Can See Everything’ Gives ‘Clayface’ a Run for Its Money at the Box Office",
-      "link": "https://www.nytimes.com/2026/10/25/business/media/elizabeth-holmes-clayface-box-office.html",
-      "pubDate": "2026-10-25T17:16:13.000Z",
-      "image": null,
-      "author": "Brooks Barnes",
-      "excerpt": "“Clayface” was No. 1 at the box office, but “You Can See Everything,” a documentary about the disgraced Theranos founder, surged in its second weekend.",
-      "source": "NYT"
-    },
-    {
-      "title": "How to Straddle the MAGA Divide",
-      "link": "https://www.nytimes.com/2026/10/25/business/how-to-straddle-the-maga-divide.html",
-      "pubDate": "2026-10-25T17:00:21.000Z",
-      "image": "https://static01.nyt.com/images/2026/10/25/business/25wilkinson-illo/25wilkinson-illo-mediumSquareAt3X.jpg",
-      "author": "Noam Scheiber",
-      "excerpt": "Beth Wilkinson is a Washington lawyer who has thrived representing the Trump administration’s enemies and allies alike. Does she represent a vanishing type?",
-      "source": "NYT"
-    },
-    {
-      "title": "Can’t Afford a Home. Can’t Afford a Baby. Can’t Afford Life. This Is 30.",
-      "link": "https://www.nytimes.com/2026/10/25/nyregion/30-year-old-angst.html",
-      "pubDate": "2026-10-25T12:56:13.000Z",
-      "image": "https://static01.nyt.com/images/2026/10/23/multimedia/met-30-topper-01-pwzt/met-30-topper-01-pwzt-mediumSquareAt3X.jpg",
-      "author": "Troy Closson",
-      "excerpt": "They’re trying to build middle-class lives in New York. But many 30-year-olds in the city feel worse off than their parents. Is it average adult angst? Or something more enduring?",
-      "source": "NYT"
-    },
-    {
-      "title": "About That Contested Elizabeth Holmes Quote to The Times",
-      "link": "https://www.nytimes.com/2026/10/22/insider/elizabeth-holmes-backstory.html",
-      "pubDate": "2026-10-24T17:02:18.000Z",
-      "image": null,
-      "author": "Patrick Healy",
-      "excerpt": "In today’s Backstory, the new Holmes film takes issue with our profile, Nikole Hannah-Jones unpacks her viral essay and a professor shares why he thinks we apply “conservative” and “liberal” labels inconsistently.",
-      "source": "NYT"
-    },
-    {
-      "title": "The Epstein Files Produce an Unlikely Weapon for the Houthi Messaging Wars",
-      "link": "https://www.nytimes.com/2026/10/23/world/middleeast/houthis-saudi-arabia-propaganda-epstein.html",
-      "pubDate": "2026-10-23T12:18:37.000Z",
-      "image": "https://static01.nyt.com/images/2026/10/11/multimedia/00int-Houthi-Messaging-qhgb/00int-Houthi-Messaging-qhgb-mediumSquareAt3X.jpg",
-      "author": "Ephrat Livni",
-      "excerpt": "The Yemeni militia is using the culture of its sworn enemies in the renewed fighting with Saudi Arabia.",
       "source": "NYT"
     }
   ]
