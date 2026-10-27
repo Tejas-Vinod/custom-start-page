@@ -1,6 +1,15 @@
 {
   "spaceNews": [
     {
+      "title": "Ukrainian startup, GomSpace test satellite for future communications network",
+      "link": "https://spacenews.com/ukrainian-startup-gomspace-test-satellite-for-future-communications-network/",
+      "pubDate": "2026-10-27T20:21:30.000Z",
+      "image": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/10/Screenshot-2026-10-27-at-3.41.11-PM.png?fit=1024%2C588&amp;ssl=1",
+      "author": "Sandra Erwin",
+      "excerpt": "The companies said the experimental spacecraft, launched Oct. 1, could lead to a Ukrainian-controlled satellite network The post Ukrainian startup, GomSpace test satellite for future communications network appeared first on SpaceNews.",
+      "source": "SpaceNews"
+    },
+    {
       "title": "NASA Invites Media to Crew Completion of Yearlong Mars Simulation",
       "link": "https://www.nasa.gov/news-release/nasa-invites-media-to-crew-completion-of-yearlong-mars-simulation/",
       "pubDate": "2026-10-27T19:27:22.000Z",
@@ -541,15 +550,6 @@
       "source": "Astronomy Magazine"
     },
     {
-      "title": "Jena-Optronik is proud to partner with MDA Space for its first ASTRO HP mission.",
-      "link": "https://spacenews.com/jena-optronik-is-proud-to-partner-with-mda-space-for-its-first-astro-hp-mission/",
-      "pubDate": "2026-10-12T13:00:00.000Z",
-      "image": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/10/jenaoptronik.png?fit=719%2C719&amp;ssl=1",
-      "author": "Jena-Optronik",
-      "excerpt": "MDA Space, a global leader in communications satellites, Earth and space observation, space exploration and infrastructure, will utilize Jena-Optronik’s ASTRO HP star sensor on a LEO mission. This milestone underscores […] The post Jena-Optronik is proud to partner with MDA Space for its first ASTRO HP mission. appeare",
-      "source": "SpaceNews"
-    },
-    {
       "title": "How Artemis 2’s tech will improve life on Earth",
       "link": "https://www.astronomy.com/space-exploration/how-artemis-2s-tech-will-improve-life-on-earth/",
       "pubDate": "2026-10-10T13:00:00.000Z",
@@ -887,21 +887,102 @@
   ],
   "nytNews": [
     {
+      "title": "Alexander Brothers Sentenced to 30 Years Each for Sex Trafficking",
+      "link": "https://www.nytimes.com/2026/10/27/nyregion/alexander-brothers-sentencing-sex-trafficking.html",
+      "pubDate": "2026-10-27T23:15:57.000Z",
+      "image": "https://static01.nyt.com/images/2026/10/27/multimedia/27met-alexander-sentencing-01-hgzw/27met-alexander-sentencing-01-hgzw-mediumSquareAt3X.jpg",
+      "author": "Debra Kamin and Kate Christobek",
+      "excerpt": "The three siblings used their wealth and influence to lure and sexually assault women for more than a decade. Eleven of the victims spoke on Tuesday before the brothers were sentenced.",
+      "source": "NYT"
+    },
+    {
+      "title": "Exit Polls in Israel Show No Clear Winner",
+      "link": "https://www.nytimes.com/2026/10/27/briefing/israel-election-candy-prices.html",
+      "pubDate": "2026-10-27T23:02:40.000Z",
+      "image": "https://static01.nyt.com/images/2026/10/27/multimedia/27evening-nl-israel-elections-vjzl/27evening-nl-israel-elections-vjzl-mediumSquareAt3X.jpg",
+      "author": "Matthew Cullen",
+      "excerpt": "Also, Trump is set to loosen methane rules. Here’s the latest at the end of Tuesday.",
+      "source": "NYT"
+    },
+    {
+      "title": "Flávio Bolsonaro Leaves Brazil for the U.S. After Election Defeat",
+      "link": "https://www.nytimes.com/2026/10/27/world/americas/brazil-flavio-bolsonaro-flees-election.html",
+      "pubDate": "2026-10-27T22:54:13.000Z",
+      "image": "https://static01.nyt.com/images/2026/10/27/multimedia/27int-brazil-bolsonaro-flight-jtzq/27int-brazil-bolsonaro-flight-jtzq-mediumSquareAt3X.jpg",
+      "author": "Ana Ionova, Edward Wong and Thayz Guimarães",
+      "excerpt": "The U.S. plans to issue a visa to Mr. Bolsonaro, a U.S. official said. Brazilian police had asked him to hand over his passports because of his links to an investigation.",
+      "source": "NYT"
+    },
+    {
       "title": "Nate Silver on What the Polls Say — and What His Gut’s Telling Him",
       "link": "https://www.nytimes.com/2026/10/27/opinion/ezra-klein-podcast-nate-silver.html",
-      "pubDate": "2026-10-27T19:56:16.000Z",
+      "pubDate": "2026-10-27T22:49:48.000Z",
       "image": "https://static01.nyt.com/images/2026/10/27/opinion/27eks-silver-image01/27eks-silver-image01-mediumSquareAt3X.jpg",
       "author": "Ezra Klein and Jack McCordick",
       "excerpt": "The election forecaster Nate Silver breaks down the likelihood of a G.O.P. wipeout.",
       "source": "NYT"
     },
     {
-      "title": "What to Expect When the Polls Close in Israel",
+      "title": "California’s High Tides Set Records This Week. They’re Going to Get Higher.",
+      "link": "https://www.nytimes.com/2026/10/27/weather/king-tides-california-la-sf.html",
+      "pubDate": "2026-10-27T22:33:06.000Z",
+      "image": "https://static01.nyt.com/images/2026/10/27/multimedia/27wea-tides-vmhk/27wea-tides-vmhk-mediumSquareAt3X.jpg",
+      "author": "Amy Graff and Soumya Karlamangla",
+      "excerpt": "El Niño is expected to push this winter’s high tides even higher.",
+      "source": "NYT"
+    },
+    {
+      "title": "Justice Dept. Steps Up Moves on Comey and Others as Midterm Elections Near",
+      "link": "https://www.nytimes.com/2026/10/27/us/politics/trump-blanche-elections-comey.html",
+      "pubDate": "2026-10-27T22:18:49.000Z",
+      "image": "https://static01.nyt.com/images/2026/10/27/us/27dc-justice/27dc-justice-mediumSquareAt3X.jpg",
+      "author": "Glenn Thrush, Alan Feuer and Devlin Barrett",
+      "excerpt": "In some cases, court paperwork bears unmistakable signs of urgency — typos, unorthodox tactics and the signatures of the department’s senior political leadership.",
+      "source": "NYT"
+    },
+    {
+      "title": "Grand Jury Declines to Bring Charges Against Cassidy Hutchinson",
+      "link": "https://www.nytimes.com/2026/10/27/us/politics/cassidy-hutchinson-indicted-trump-testimony.html",
+      "pubDate": "2026-10-27T22:11:48.000Z",
+      "image": "https://static01.nyt.com/images/2026/10/12/multimedia/00dc-hutchinson-pzqb/00dc-hutchinson-pzqb-mediumSquareAt3X.jpg",
+      "author": "Michael S. Schmidt, Alan Feuer and Glenn Thrush",
+      "excerpt": "The rejection of the indictment was the latest extraordinary setback in President Trump’s wide-ranging campaign to go after his political opponents.",
+      "source": "NYT"
+    },
+    {
+      "title": "The Christian Influencer at the Center of Ken Paxton’s New Life",
+      "link": "https://www.nytimes.com/2026/10/27/us/ken-paxton-divorce-tracy-duhon.html",
+      "pubDate": "2026-10-27T22:08:31.000Z",
+      "image": "https://static01.nyt.com/images/2026/10/27/us/27nat-paxton-relationship-promo/27nat-paxton-relationship-promo-mediumSquareAt3X.jpg",
+      "author": "Lauren McGaughy",
+      "excerpt": "The Texas attorney general has been silent about his relationship with Tracy Duhon, a New Orleans woman who has built a personal brand around faith and redemption.",
+      "source": "NYT"
+    },
+    {
+      "title": "European Leaders Split Over Phone Call to Putin",
+      "link": "https://www.nytimes.com/2026/10/27/world/europe/norway-finland-putin-call.html",
+      "pubDate": "2026-10-27T20:49:50.000Z",
+      "image": "https://static01.nyt.com/images/2026/10/27/multimedia/27int-putin-call-kmch/27int-putin-call-kmch-mediumSquareAt3X.jpg",
+      "author": "Jeffrey Gettleman, Paul Sonne and Jeanna Smialek",
+      "excerpt": "The diplomatic outreach was part of an effort to push talks to end the war in Ukraine, though it was not welcomed by all European leaders.",
+      "source": "NYT"
+    },
+    {
+      "title": "What to Expect Now That Polls Are Closed in Israel",
       "link": "https://www.nytimes.com/2026/10/27/world/middleeast/israel-election-exit-polls-close.html",
-      "pubDate": "2026-10-27T19:53:23.000Z",
-      "image": null,
+      "pubDate": "2026-10-27T20:35:26.000Z",
+      "image": "https://static01.nyt.com/images/2026/10/27/multimedia/27israel-polls-close-what-now-pklv/27israel-polls-close-what-now-pklv-mediumSquareAt3X.jpg",
       "author": "Liam Stack",
-      "excerpt": "Polls are about to close across the country. Exits polls may offer clues about the direction of the voting but not necessarily a clear winner.",
+      "excerpt": "Polls have closed across the country. Exits polls may offer clues about the direction of the voting but not necessarily a clear winner.",
+      "source": "NYT"
+    },
+    {
+      "title": "Susan Saint James, Emmy Winner Who Starred in ‘Kate & Allie,’ Dies at 80",
+      "link": "https://www.nytimes.com/2026/10/27/arts/television/susan-st-james-dead-kate-and-allie.html",
+      "pubDate": "2026-10-27T20:17:20.000Z",
+      "image": "https://static01.nyt.com/images/2026/10/29/multimedia/27xp-stjames-top/27xp-stjames-top-mediumSquareAt3X.jpg",
+      "author": "Christine Hauser",
+      "excerpt": "In a long career, she was best known for starring opposite Jane Curtin in “Kate & Allie,” a 1980s sitcom about two divorced women raising three children in New York City.",
       "source": "NYT"
     },
     {
@@ -914,48 +995,12 @@
       "source": "NYT"
     },
     {
-      "title": "The Christian Influencer at the Center of Ken Paxton’s New Life",
-      "link": "https://www.nytimes.com/2026/10/27/us/ken-paxton-divorce-tracy-duhon.html",
-      "pubDate": "2026-10-27T18:56:21.000Z",
-      "image": "https://static01.nyt.com/images/2026/10/27/us/27nat-paxton-relationship-promo/27nat-paxton-relationship-promo-mediumSquareAt3X.jpg",
-      "author": "Lauren McGaughy",
-      "excerpt": "The Texas attorney general has been silent about his relationship with Tracy Duhon, a New Orleans woman who has built a personal brand around faith and redemption.",
-      "source": "NYT"
-    },
-    {
-      "title": "E.P.A. to Loosen Methane Rules for Oil Firms",
-      "link": "https://www.nytimes.com/2026/10/27/climate/trump-methane-rules-epa-greenhouse-gas.html",
-      "pubDate": "2026-10-27T18:42:27.000Z",
-      "image": "https://static01.nyt.com/images/2026/10/07/multimedia/00cli-methane-rollback-HFO-tchz/00cli-methane-rollback-HFO-tchz-mediumSquareAt3X.jpg",
-      "author": "Brad Plumer",
-      "excerpt": "The Biden administration had sought to crack down on methane leaks, a big driver of climate change. Those rules are now being scaled back.",
-      "source": "NYT"
-    },
-    {
-      "title": "European Leaders Split Over Phone Call to Putin",
-      "link": "https://www.nytimes.com/2026/10/27/world/europe/norway-finland-putin-call.html",
-      "pubDate": "2026-10-27T18:26:02.000Z",
-      "image": "https://static01.nyt.com/images/2026/10/27/multimedia/27int-putin-call-kmch/27int-putin-call-kmch-mediumSquareAt3X.jpg",
-      "author": "Jeffrey Gettleman, Paul Sonne and Jeanna Smialek",
-      "excerpt": "The diplomatic outreach was part of an effort to push talks to end the war in Ukraine, though it was not welcome by all European leaders.",
-      "source": "NYT"
-    },
-    {
-      "title": "Bill Bradley: My Fear for the Midterms",
-      "link": "https://www.nytimes.com/2026/10/27/opinion/election-interference-trump-midterms.html",
-      "pubDate": "2026-10-27T18:21:23.000Z",
-      "image": "https://static01.nyt.com/images/2026/10/27/opinion/27bradley-image/27bradley-image-mediumSquareAt3X.jpg",
-      "author": "Bill Bradley",
-      "excerpt": "The buck must stop with local officials.",
-      "source": "NYT"
-    },
-    {
-      "title": "‘Event Horizon’: The Cosmic Horror Flop That Rose From the Void",
-      "link": "https://www.nytimes.com/2026/10/27/movies/event-horizon-good-bad.html",
-      "pubDate": "2026-10-27T18:20:29.000Z",
-      "image": null,
-      "author": "Maya Salam",
-      "excerpt": "Paul W.S. Anderson’s nightmarish 1997 space film starring Sam Neill became a pulpy horror classic after shocking viewers expecting a simple space adventure.",
+      "title": "Alex Pretti’s Parents Say Federal Government Is Silent on Investigation",
+      "link": "https://www.nytimes.com/2026/10/27/us/alex-pretti-parents-federal-investigation.html",
+      "pubDate": "2026-10-27T18:20:27.000Z",
+      "image": "https://static01.nyt.com/images/2026/10/27/multimedia/27nat-pretti-1-qwvj/27nat-pretti-1-qwvj-mediumSquareAt3X.jpg",
+      "author": "Ernesto Londoño and Jack Healy",
+      "excerpt": "The parents of the Minneapolis nurse who was fatally shot by federal agents in January said on Tuesday that the government had ignored and misled them.",
       "source": "NYT"
     },
     {
@@ -968,12 +1013,12 @@
       "source": "NYT"
     },
     {
-      "title": "Serbian Students, Victorious and Leaderless, Go After the Media",
-      "link": "https://www.nytimes.com/2026/10/27/world/europe/serbia-student-list-news-media-vucic.html",
-      "pubDate": "2026-10-27T17:14:59.000Z",
-      "image": "https://static01.nyt.com/images/2026/10/27/multimedia/27serbia-election-01-twqc/27serbia-election-01-twqc-mediumSquareAt3X.jpg",
-      "author": "Andrew Higgins and Alisa Dogramadzieva",
-      "excerpt": "Supporters of the opposition movement that won Sunday’s election stormed the offices of a pro-government tabloid. Another news outlet apologized for years of “one-sided” coverage.",
+      "title": "Political Satire Is an American Tradition. Deceptive A.I. Ads Are Not.",
+      "link": "https://www.nytimes.com/video/opinion/100000011237739/political-satire-is-an-american-tradition-deceptive-ai-ads-are-not.html",
+      "pubDate": "2026-10-27T17:30:01.000Z",
+      "image": null,
+      "author": "",
+      "excerpt": "Despite how cringeworthy they are, political campaigns have spent $137 million on A.I.-generated ads for the midterms. And the lack of regulation on these ads is warping our sense of what’s real. The Opinion writer Rotimi Adeoye argues that while this kind of political satire falls under First Amendment protection, “yo",
       "source": "NYT"
     },
     {
@@ -986,75 +1031,12 @@
       "source": "NYT"
     },
     {
-      "title": "Election Officials Fear Trump Administration’s Interference in Midterms Voting",
-      "link": "https://www.nytimes.com/2026/10/27/us/election-interference-trump-midterms.html",
-      "pubDate": "2026-10-27T16:51:20.000Z",
-      "image": "https://static01.nyt.com/images/2026/10/27/multimedia/27pol-election-prep-lmqf/27pol-election-prep-lmqf-mediumSquareAt3X.jpg",
-      "author": "Richard Fausset, Zolan Kanno-Youngs and David W. Chen",
-      "excerpt": "State and local plans for Election Day include how to react to potential ICE raids, misbehavior by federal election monitors and attempts to seize votes or machines.",
-      "source": "NYT"
-    },
-    {
-      "title": "Michigan Senate Race Drives Anxiety Among Jewish and Muslim Voters",
-      "link": "https://www.nytimes.com/2026/10/27/us/politics/michigan-senate-race-jewish-muslim-voters.html",
-      "pubDate": "2026-10-27T16:47:22.000Z",
-      "image": "https://static01.nyt.com/images/2026/10/27/multimedia/27pol-michigan-jewish-muslim-voters-flyers-vcbm/27pol-michigan-jewish-muslim-voters-flyers-vcbm-mediumSquareAt3X.jpg",
-      "author": "Jennifer Medina",
-      "excerpt": "More than elsewhere in the country, U.S. policy toward Israel is at the forefront of the race between Mike Rogers and Abdul El-Sayed.",
-      "source": "NYT"
-    },
-    {
-      "title": "Trump-Appointed CDC Deputy Director Jennifer Shuford Resigns After 4 Months",
-      "link": "https://www.nytimes.com/2026/10/27/health/shuford-cdc-resign.html",
-      "pubDate": "2026-10-27T15:07:59.000Z",
-      "image": "https://static01.nyt.com/images/2026/11/26/multimedia/26dc-cdc-fwlb/26dc-cdc-fwlb-mediumSquareAt3X-v2.jpg",
-      "author": "Apoorva Mandavilli",
-      "excerpt": "Dr. Jennifer Shuford, a respected former Texas health official, had been appointed by President Trump to help steady the agency.",
-      "source": "NYT"
-    },
-    {
       "title": "How Billionaires Are Fighting the Prop 40 California Wealth Tax",
       "link": "https://www.nytimes.com/2026/10/27/technology/proposition-40-california-billionaire-tax.html",
       "pubDate": "2026-10-27T14:55:35.000Z",
       "image": "https://static01.nyt.com/images/2026/10/26/business/00biz-billionaire-tax/00biz-billionaire-tax-mediumSquareAt3X.jpg",
       "author": "Theodore Schleifer and Erin Griffith",
       "excerpt": "The latest Silicon Valley billionaire club is a $333 million political ad machine that is heavily engaged in next week’s elections.",
-      "source": "NYT"
-    },
-    {
-      "title": "Jane Schoenbrun’s First Novel is Another Exploration of Weird Pop Culture",
-      "link": "https://www.nytimes.com/2026/10/27/books/review/jane-schoenbrun-public-access-afterworld-book.html",
-      "pubDate": "2026-10-27T11:19:33.000Z",
-      "image": null,
-      "author": "Eric Grode",
-      "excerpt": "The filmmaker Jane Schoenbrun envisioned a sci-fi TV series about a sinister video store. “Public Access Afterworld” is the ambitious 600-page result.",
-      "source": "NYT"
-    },
-    {
-      "title": "Book Review: ‘Public Access Afterworld,’ by Jane Schoenbrun",
-      "link": "https://www.nytimes.com/2026/10/27/books/review/jane-schoenbrun-public-access-afterworld.html",
-      "pubDate": "2026-10-27T11:18:12.000Z",
-      "image": "https://static01.nyt.com/images/2026/10/27/books/27TBR-Schoenbrun-review/27TBR-Schoenbrun-review-mediumSquareAt3X.jpg",
-      "author": "Junot Díaz",
-      "excerpt": "In the filmmaker Jane Schoenbrun’s first novel, a strange broadcast invites curious outsiders to an alternate world behind the screen.",
-      "source": "NYT"
-    },
-    {
-      "title": "Where to Eat in New York City Right Now",
-      "link": "https://www.nytimes.com/article/where-to-eat-nyc-restaurants.html",
-      "pubDate": "2026-10-26T21:40:37.000Z",
-      "image": "https://static01.nyt.com/images/2026/08/25/multimedia/25FD-NYC-CITY-GUIDE-PROMO-03-jhpz/25FD-NYC-CITY-GUIDE-PROMO-03-jhpz-mediumSquareAt3X.jpg",
-      "author": "Ligaya Mishan, Luke Fortney, Mahira Rivers and Ryan Sutton",
-      "excerpt": "Our favorite restaurants of the moment in the city that never stops eating; updated monthly.",
-      "source": "NYT"
-    },
-    {
-      "title": "New Yorkers, Where’s the Best Place to Cry in the City?",
-      "link": "https://www.nytimes.com/2026/10/26/nyregion/new-yorkers-whats-the-best-place-to-cry-in-the-city.html",
-      "pubDate": "2026-10-26T19:52:38.000Z",
-      "image": null,
-      "author": "Anna Kodé and Zachary Small",
-      "excerpt": "To help us report an upcoming article, we want to hear about all the places you’ve cried — subways, sidewalks, stoops, saunas and beyond.",
       "source": "NYT"
     }
   ]
