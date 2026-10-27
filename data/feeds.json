@@ -1,6 +1,24 @@
 {
   "spaceNews": [
     {
+      "title": "West Coast Falcon 9 rocket to launch 27 Starlink satellites",
+      "link": "https://spaceflightnow.com/2026/10/27/west-coast-falcon-9-rocket-to-launch-27-starlink-satellites/",
+      "pubDate": "2026-10-27T00:50:37.000Z",
+      "image": "https://spaceflightnow.com/wp-content/uploads/2025/04/20250401_Starlink_G9_10_Vertical_Sunset.jpg",
+      "author": "Steven Young",
+      "excerpt": "Liftoff of the Starlink 15-16 mission from Space Launch Complex 4E is currently scheduled for 10:46 p.m. PDT (1:46 a.m. EDT / 0546 UTC).",
+      "source": "Spaceflight Now"
+    },
+    {
+      "title": "NASA’s Perseverance Views Dust at Neretva Vallis",
+      "link": "https://science.nasa.gov/photojournal/nasas-perseverance-views-dust-at-neretva-vallis/",
+      "pubDate": "2026-10-26T22:48:12.000Z",
+      "image": "https://assets.science.nasa.gov/dynamicimage/assets/science/psd/photojournal/pia/pia26/pia26816/PIA26816_low_res.jpg?w=1536&#038;h=405&#038;fit=clip&#038;crop=faces%2Cfocalpoint",
+      "author": "",
+      "excerpt": "Description This 360-degree look at Neretva Vallis within Mars’ Jezero Crater was stitched together using 217 images acquired by the rover’s Mastcam-Z on May 20, 2024, the 1,155th Martian day, or sol, of the mission. While it is a wind-swept dusty vista today, billions of years ago it was home to a river channel that f",
+      "source": "NASA"
+    },
+    {
       "title": "NASA’s Perseverance Offers Clues to Protect Crews From Mars Dust",
       "link": "https://www.nasa.gov/missions/mars-2020-perseverance/nasas-perseverance-offers-clues-to-protect-crews-from-mars-dust/",
       "pubDate": "2026-10-26T21:07:28.000Z",
@@ -124,15 +142,6 @@
       "image": "https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2026/red-leaf-hunting-/fallfoliagephenology_pace_20261004.jpg",
       "author": "",
       "excerpt": "A modern satellite makes it possible to pursue the ancient tradition of leaf-peeping in a whole new way.",
-      "source": "NASA"
-    },
-    {
-      "title": "APOD: 2026 October 25 – Dark Matter in a Simulated Universe",
-      "link": "https://science.nasa.gov/image-article/apod-2026-october-25-dark-matter-in-a-simulated-universe/",
-      "pubDate": "2026-10-25T08:19:48.000Z",
-      "image": "https://assets.science.nasa.gov/content/dam/science/cds/apod/apod/2021/october/DarkMatter_KipacAmnh_1200.jpg?w=1200&#038;h=900&#038;fit=clip&#038;crop=faces%2Cfocalpoint",
-      "author": "",
-      "excerpt": "APOD Science APOD APOD: 2026 October 25 – Dark… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professi",
       "source": "NASA"
     },
     {
@@ -613,15 +622,6 @@
       "source": "Spaceflight Now"
     },
     {
-      "title": "Falcon Heavy flies its first mission for U.S. spy satellite agency",
-      "link": "https://spaceflightnow.com/2026/10/01/falcon-heavy-to-fly-its-first-mission-for-u-s-spy-satellite-agency/",
-      "pubDate": "2026-10-01T22:37:30.000Z",
-      "image": "https://spaceflightnow.com/wp-content/uploads/2026/10/20261001_NROL-97_launch_MC-1.jpeg",
-      "author": "Spaceflight Now",
-      "excerpt": "The 14th Falcon Heavy rocket is scheduled to blast off on a clandestine mission from Launch Complex 39A at NASA’s Kennedy Space Center at 11:54 p.m. EDT (0354 UTC).",
-      "source": "Spaceflight Now"
-    },
-    {
       "title": "AFAS offers childcare assistance to Air Force, Space Force families ",
       "link": "https://www.spaceforce.mil/News/Article-Display/Article/4617168/afas-offers-childcare-assistance-to-air-force-space-force-families/",
       "pubDate": "2026-10-01T21:40:00.000Z",
@@ -880,7 +880,7 @@
     {
       "title": "Justice Dept. Brings More Charges Against Comey, Accusing Him of Leaks",
       "link": "https://www.nytimes.com/2026/10/26/us/politics/james-comey-charges-doj.html",
-      "pubDate": "2026-10-26T23:02:17.000Z",
+      "pubDate": "2026-10-27T01:36:01.000Z",
       "image": "https://static01.nyt.com/images/2026/10/26/multimedia/26dc-comey-2-vczw/26dc-comey-2-vczw-mediumSquareAt3X.jpg",
       "author": "Devlin Barrett",
       "excerpt": "Lawyers for James B. Comey said the case centered on an issue that had already been investigated and had not led to charges, of a purported leak of national security information to The Times in October 2016.",
@@ -889,28 +889,73 @@
     {
       "title": "Netanyahu Pushed for Attack on Iran Ahead of Israeli Election, Officials Say",
       "link": "https://www.nytimes.com/2026/10/26/world/middleeast/netanyahu-iran-israel-election.html",
-      "pubDate": "2026-10-26T22:44:39.000Z",
+      "pubDate": "2026-10-27T01:34:24.000Z",
       "image": "https://static01.nyt.com/images/2026/10/26/multimedia/26int-israel-netanyahu-iran-qmcz/26int-israel-netanyahu-iran-qmcz-mediumSquareAt3X.jpg",
       "author": "David M. Halbfinger, Ronen Bergman, Natan Odenheimer, Adam Rasgon and Aaron Boxerman",
       "excerpt": "Israel’s military chief resisted the prime minister, who then pressed in recent days for a separate action, short of an overt strike, according to an official and a person briefed on the matter.",
       "source": "NYT"
     },
     {
-      "title": "France Makes Concessions to Students, but Not Enough to Halt Protests",
-      "link": "https://www.nytimes.com/2026/10/26/world/europe/france-student-protests.html",
-      "pubDate": "2026-10-26T22:22:41.000Z",
-      "image": "https://static01.nyt.com/images/2026/10/26/multimedia/26int-france-students-1-bvfj/26int-france-students-1-bvfj-mediumSquareAt3X.jpg",
-      "author": "Mark Landler",
-      "excerpt": "The government promised to phase out an unpopular university admissions system by 2028. Student groups are pushing for more.",
+      "title": "Judge Temporarily Blocks Further Alterations at D.C.’s East Potomac Park",
+      "link": "https://www.nytimes.com/2026/10/26/us/politics/trump-golf-reyes-judge-ruling.html",
+      "pubDate": "2026-10-27T01:29:15.000Z",
+      "image": "https://static01.nyt.com/images/2026/10/26/multimedia/00dc-golf-mjgw/00dc-golf-mjgw-mediumSquareAt3X.jpg",
+      "author": "Zach Montague",
+      "excerpt": "A federal judge stopped the Trump administration from cutting trees and prohibited other changes at the park where the president has sought to overhaul a golf course.",
       "source": "NYT"
     },
     {
-      "title": "Brazil’s Vote Is a Victory for the Amazon, Environmentalists Say",
-      "link": "https://www.nytimes.com/2026/10/26/climate/brazil-lula-bolsonaro-amazon.html",
-      "pubDate": "2026-10-26T22:13:25.000Z",
-      "image": "https://static01.nyt.com/images/2026/10/26/multimedia/26cli-lula-amazon-kqvc/26cli-lula-amazon-kqvc-mediumSquareAt3X.jpg",
-      "author": "Quinn Glabicki",
-      "excerpt": "The re-election of President Luiz Inácio Lula da Silva is expected to lead to continued rainforest protections. His opponent wanted to make it easier to clear land.",
+      "title": "How Lula’s Social Media Campaign Helped Him Win Brazil’s Election",
+      "link": "https://www.nytimes.com/2026/10/26/world/americas/brazil-election-lula-social-media.html",
+      "pubDate": "2026-10-27T00:45:26.000Z",
+      "image": "https://static01.nyt.com/images/2026/10/26/multimedia/26brazil-election-assess-mwht/26brazil-election-assess-mwht-mediumSquareAt3X.jpg",
+      "author": "Ana Ionova, Adam B. Ellick and Jack Nicas",
+      "excerpt": "President Luiz Inácio Lula da Silva won another term on Sunday, with the help of a seismic social media campaign that convinced Brazilians to reject his rival.",
+      "source": "NYT"
+    },
+    {
+      "title": "Book Review: ‘Princes and Thieves,’ by Matthew Cole",
+      "link": "https://www.nytimes.com/2026/10/26/books/review/princes-and-thieves-matthew-cole.html",
+      "pubDate": "2026-10-27T00:32:50.000Z",
+      "image": "https://static01.nyt.com/images/2026/10/27/books/27TBR-OToole-review-grid/27TBR-OToole-review-grid-mediumSquareAt3X.jpg",
+      "author": "Fintan O’Toole",
+      "excerpt": "The new book by the reporter Matthew Cole connects $2 billion in slush funds from gulf state leaders to Trump’s son-in-law in an effort to influence U.S. policy.",
+      "source": "NYT"
+    },
+    {
+      "title": "Bob Woodward Criticizes Jeff Bezos in New Memoir",
+      "link": "https://www.nytimes.com/2026/10/26/us/politics/bob-woodward-memoir-jeff-bezos.html",
+      "pubDate": "2026-10-27T00:24:09.000Z",
+      "image": "https://static01.nyt.com/images/2026/10/26/multimedia/26dc-woodward-ghtw/26dc-woodward-ghtw-mediumSquareAt3X.jpg",
+      "author": "Peter Baker",
+      "excerpt": "Six takeaways from a new memoir by Mr. Woodward, the star Washington Post reporter, including his disappointment with the newspaper’s billionaire owner.",
+      "source": "NYT"
+    },
+    {
+      "title": "Appeals Court Declines to Intervene in California Ballot Lawsuit",
+      "link": "https://www.nytimes.com/2026/10/26/us/politics/appeals-court-california-ballot-suit.html",
+      "pubDate": "2026-10-27T00:04:44.000Z",
+      "image": "https://static01.nyt.com/images/2026/10/26/multimedia/00dc-cali-appeal-vgzc/00dc-cali-appeal-vgzc-mediumSquareAt3X.jpg",
+      "author": "Zach Montague",
+      "excerpt": "By a 2-1 vote, a federal appeals court panel denied the Trump administration’s request that it immediately order the state to set aside 20,000 mail-in ballots.",
+      "source": "NYT"
+    },
+    {
+      "title": "Brazil Supreme Court Orders Flávio Bolsonaro to Hand Over Passports in Money Laundering Inquiry",
+      "link": "https://www.nytimes.com/2026/10/26/world/americas/flavio-bolsonaro-passport-brazil.html",
+      "pubDate": "2026-10-26T23:55:15.000Z",
+      "image": "https://static01.nyt.com/images/2026/10/26/multimedia/26int-brazil-elections-bolsonaro-phwz/26int-brazil-elections-bolsonaro-phwz-mediumSquareAt3X.jpg",
+      "author": "Ana Ionova, Alice Maciel and Thayz Guimarães",
+      "excerpt": "Brazil’s Supreme Court told the police to seize passport of Mr. Bolsonaro, who lost the presidential election, over his links to an investigation.",
+      "source": "NYT"
+    },
+    {
+      "title": "Machado’s Return to Venezuela Tests Limits of U.S. Sway",
+      "link": "https://www.nytimes.com/2026/10/26/world/americas/venezuela-machado-rodriguez-trump.html",
+      "pubDate": "2026-10-26T23:09:14.000Z",
+      "image": "https://static01.nyt.com/images/2026/10/26/multimedia/26int-venezuela-machado-fzkh/26int-venezuela-machado-fzkh-mediumSquareAt3X.jpg",
+      "author": "Simon Romero and Edward Wong",
+      "excerpt": "Seeking new elections, María Corina Machado will need to tread carefully to avoid offending the Trump administration, while also asserting her own leadership.",
       "source": "NYT"
     },
     {
@@ -920,15 +965,6 @@
       "image": "https://static01.nyt.com/images/2026/10/26/multimedia/26evening-nl-anthropic-ipo-clqw/26evening-nl-anthropic-ipo-clqw-mediumSquareAt3X.jpg",
       "author": "Matthew Cullen",
       "excerpt": "Also, both parties are nervous about the Senate. Here’s the latest at the end of Monday.",
-      "source": "NYT"
-    },
-    {
-      "title": "How Lula’s Social Media Campaign Helped Him Win Brazil’s Election",
-      "link": "https://www.nytimes.com/2026/10/26/world/americas/brazil-election-lula-social-media.html",
-      "pubDate": "2026-10-26T21:51:52.000Z",
-      "image": "https://static01.nyt.com/images/2026/10/26/multimedia/26brazil-election-assess-mwht/26brazil-election-assess-mwht-mediumSquareAt3X.jpg",
-      "author": "Ana Ionova, Adam B. Ellick and Jack Nicas",
-      "excerpt": "President Luiz Inácio Lula da Silva won another term on Sunday, with the help of a seismic social media campaign that convinced Brazilians to reject his rival.",
       "source": "NYT"
     },
     {
@@ -947,33 +983,6 @@
       "image": "https://static01.nyt.com/images/2026/10/26/multimedia/26int-un-israel-gaza-01-jbhv/26int-un-israel-gaza-01-jbhv-mediumSquareAt3X.jpg",
       "author": "Nick Cumming-Bruce",
       "excerpt": "The panel also accuses Israel of committing crimes against humanity in the West Bank. Israel condemned the report.",
-      "source": "NYT"
-    },
-    {
-      "title": "The Key Numbers From Anthropic’s IPO Filing",
-      "link": "https://www.nytimes.com/2026/10/26/technology/anthropic-business-key-numbers.html",
-      "pubDate": "2026-10-26T20:21:28.000Z",
-      "image": "https://static01.nyt.com/images/2026/10/26/multimedia/26biz-anthropic-numbers-vztf/26biz-anthropic-numbers-vztf-mediumSquareAt3X.jpg",
-      "author": "Sri Muppidi and Lauren Hirsch",
-      "excerpt": "We broke down the A.I. company’s key figures, which give insight into the health of its business, its future plans and who’s in charge.",
-      "source": "NYT"
-    },
-    {
-      "title": "For Senegalese Street Vendors in New York, ‘Work Is Worship’",
-      "link": "https://www.nytimes.com/2026/10/26/nyregion/senegal-nyc-street-vendors-immigration.html",
-      "pubDate": "2026-10-26T20:18:10.000Z",
-      "image": "https://static01.nyt.com/images/2026/08/10/multimedia/00xp-senegalese-nyc-bzgm/00xp-senegalese-nyc-bzgm-mediumSquareAt3X.jpg",
-      "author": "Aimee Ortiz and Arisa Haboshi",
-      "excerpt": "Struggling to find steady work, many migrants who have arrived recently from Senegal have adapted with a relentless sidewalk hustle, sustaining their families through street vending.",
-      "source": "NYT"
-    },
-    {
-      "title": "Last Ditch, a Lesbian Bar Whose Mask Policy Made It Famous, Will Close",
-      "link": "https://www.nytimes.com/2026/10/26/us/last-ditch-lesbian-bar-closing.html",
-      "pubDate": "2026-10-26T20:06:53.000Z",
-      "image": "https://static01.nyt.com/images/2026/10/26/multimedia/26nat-lastditch-bwmg/26nat-lastditch-bwmg-mediumSquareAt3X.jpg",
-      "author": "Mark Arsenault",
-      "excerpt": "The Massachusetts bar, which catered to lesbians, lifted its Covid mask requirement once a week to attract more patrons. The decision brought criticism and national attention, but did not save the business.",
       "source": "NYT"
     },
     {
@@ -1004,15 +1013,6 @@
       "source": "NYT"
     },
     {
-      "title": "Why Some People Are Using Apps to Make Friends",
-      "link": "https://www.nytimes.com/2026/10/26/business/friendship-apps.html",
-      "pubDate": "2026-10-26T16:56:25.000Z",
-      "image": "https://static01.nyt.com/images/2026/10/16/multimedia/FRIENDSHIP-APPS-01-whbz/FRIENDSHIP-APPS-01-whbz-mediumSquareAt3X.jpg",
-      "author": "Aruni Soni",
-      "excerpt": "Apps that match personalities — for a price — have surged in popularity amid a loneliness epidemic.",
-      "source": "NYT"
-    },
-    {
       "title": "Ken Paxton’s State-Funded Jet-Setting Draws Campaign Scrutiny",
       "link": "https://www.nytimes.com/2026/10/26/us/politics/ken-paxton-texas-trips.html",
       "pubDate": "2026-10-26T15:34:58.000Z",
@@ -1022,30 +1022,12 @@
       "source": "NYT"
     },
     {
-      "title": "Meet Anthropic’s Seven Founders as the A.I. Firm Prepares for an IPO",
-      "link": "https://www.nytimes.com/2026/10/26/technology/anthropic-founders.html",
-      "pubDate": "2026-10-26T15:24:56.000Z",
-      "image": null,
-      "author": "Emmy Martin",
-      "excerpt": "Former OpenAI employees started the company in 2021 after disagreements over how to safely build artificial intelligence. An I.P.O. could make them billionaires.",
-      "source": "NYT"
-    },
-    {
       "title": "I Went to India and Found It Has Lessons for Us All",
       "link": "https://www.nytimes.com/2026/10/26/opinion/india-modi-students-protests.html",
       "pubDate": "2026-10-26T14:58:11.000Z",
       "image": "https://static01.nyt.com/images/2026/10/26/multimedia/26polgreen-promo-wjbh/26polgreen-promo-wjbh-mediumSquareAt3X.jpg",
       "author": "Lydia Polgreen and Abhishek Khedekar",
       "excerpt": "Young people have revived the country’s glorious tradition of nonviolent dissent.",
-      "source": "NYT"
-    },
-    {
-      "title": "Israeli Jews Across the Spectrum Face an Election of Fears",
-      "link": "https://www.nytimes.com/2026/10/26/world/middleeast/israel-election-stakes.html",
-      "pubDate": "2026-10-26T10:30:57.000Z",
-      "image": "https://static01.nyt.com/images/2026/10/26/multimedia/26int-israel-collapse-01-wgbz/26int-israel-collapse-01-wgbz-mediumSquareAt3X.jpg",
-      "author": "David M. Halbfinger",
-      "excerpt": "Supporters and opponents of Prime Minister Benjamin Netanyahu have expressed intense anxieties about isolation abroad, security at home and the future of Israel’s identity.",
       "source": "NYT"
     },
     {
