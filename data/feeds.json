@@ -1,6 +1,33 @@
 {
   "spaceNews": [
     {
+      "title": "NASA Invites Media to Crew Completion of Yearlong Mars Simulation",
+      "link": "https://www.nasa.gov/news-release/nasa-invites-media-to-crew-completion-of-yearlong-mars-simulation/",
+      "pubDate": "2026-10-27T19:27:22.000Z",
+      "image": "https://www.nasa.gov/wp-content/uploads/2026/10/chapeamission2.jpg?w=2048",
+      "author": "Lauren E. Low",
+      "excerpt": "The four volunteers who lived and worked in a simulated NASA Mars mission for more than a year will exit their habitat on Saturday, Oct. 31, after 378 days of isolation in a facility at the agency’s Johnson Space Center in Houston. Health and performance data collected from the simulation can help NASA develop methods ",
+      "source": "NASA"
+    },
+    {
+      "title": "NASA’s Neo Surveyor Sunshade",
+      "link": "https://www.nasa.gov/image-article/nasas-neo-surveyor-sunshade/",
+      "pubDate": "2026-10-27T17:58:57.000Z",
+      "image": "https://www.nasa.gov/wp-content/uploads/2026/10/1-pia26715-bae-sunshade-inspection-1.jpg?w=2048",
+      "author": "HQ Web Team",
+      "excerpt": "A technician inspects the large sunshade of NASA’s Near-Earth Object (NEO) Surveyor mission in this image released on Oct. 26, 2026. The sunshade structure, which stands 20 feet (6 meters) tall and measures 8 feet (2.4 meters) wide at its base, will keep the infrared space telescope cool as it searches for near-Earth a",
+      "source": "NASA"
+    },
+    {
+      "title": "NASA, Agriculture Department Partner On Space Data Sharing",
+      "link": "https://payloadspace.com/nasa-agriculture-department-partner-on-space-data-sharing/",
+      "pubDate": "2026-10-27T17:00:37.000Z",
+      "image": "https://payloadspace.com/wp-content/uploads/2026/10/agriculture_ast_lrg.jpg-200x200.webp",
+      "author": "Jacqueline Feldscher",
+      "excerpt": "The MoU is the second this month signed by the space agency to boost collaboration among government agencies. The post NASA, Agriculture Department Partner On Space Data Sharing appeared first on Payload.",
+      "source": "Payload"
+    },
+    {
       "title": "OSMOS X Tapped to Lead EDF-backed Tactical Capture Consortium",
       "link": "https://payloadspace.com/osmos-x-tapped-to-lead-edf-backed-tactical-capture-consortium/",
       "pubDate": "2026-10-27T12:59:00.000Z",
@@ -124,24 +151,6 @@
       "image": "https://assets.science.nasa.gov/dynamicimage/assets/science/cds/learn/science-activation-stories/2026/10.09.26_SEES_Highlight.jpg?w=955&#038;h=637&#038;fit=clip&#038;crop=faces%2Cfocalpoint",
       "author": "",
       "excerpt": "The NASA STEM (Science, Technology, Engineering, and Mathematics) Enhancement in Earth Science (SEES) Internship Program at the University of Texas Center for Space Research places high school students on small, mission-focused research teams mentored by NASA, academic, and industry experts. During summer 2026, the SEE",
-      "source": "NASA"
-    },
-    {
-      "title": "NASA Invites Media to Moon Landing Simulation Experience in California",
-      "link": "https://www.nasa.gov/news-release/nasa-invites-media-to-moon-landing-simulation-experience-in-california/",
-      "pubDate": "2026-10-26T17:13:44.000Z",
-      "image": "https://images-assets.nasa.gov/image/art002e012632/art002e012632~large.jpg?w=1920&amp;h=1280&amp;fit=clip&amp;crop=faces%2Cfocalpoint",
-      "author": "Jeanne Neal",
-      "excerpt": "Members of the media are invited to tour a new lunar landing simulator at NASA’s Ames Research Center in California's Silicon Valley on Thursday, Oct. 29, and Friday, Oct. 30.",
-      "source": "NASA"
-    },
-    {
-      "title": "NASA’s X-59 Aircraft and Test Pilot",
-      "link": "https://www.nasa.gov/image-article/nasas-x-59-aircraft-and-test-pilot/",
-      "pubDate": "2026-10-26T15:25:47.000Z",
-      "image": "https://www.nasa.gov/wp-content/uploads/2026/10/afrc2026-0227-51.jpg?w=2048",
-      "author": "HQ Web Team",
-      "excerpt": "NASA test pilot Mike Lippert poses for a photo ahead of his first time flying the agency’s X-59 quiet supersonic research aircraft on Oct. 21, 2026. The X-59 has flown numerous times since its inaugural flight in November 2025; its first supersonic flight was on June 5, 2026. Lippert took off from NASA’s Armstrong Flig",
       "source": "NASA"
     },
     {
@@ -316,15 +325,6 @@
       "source": "SpaceNews"
     },
     {
-      "title": "SpaceX’s AI Revenue Leads Q3 Earnings",
-      "link": "https://payloadspace.com/spacexs-ai-revenue-leads-q3-earnings/",
-      "pubDate": "2026-10-21T02:50:15.000Z",
-      "image": "https://payloadspace.com/wp-content/uploads/2026/10/Screenshot-2026-10-20-at-9.45.57-PM-200x200.png",
-      "author": "Victoria Woodburn",
-      "excerpt": "With its first full quarter as a public company under its belt, SpaceX blew past expectations Tuesday with ~$14.6B in revenue and net income of $4.4B. The post SpaceX’s AI Revenue Leads Q3 Earnings appeared first on Payload.",
-      "source": "Payload"
-    },
-    {
       "title": "SpaceX launches Starlink 15-15 mission following a trio of scrubs",
       "link": "https://spaceflightnow.com/2026/10/20/live-coverage-spacex-to-launch-27-starlink-satellites-on-falcon-9-rocket-from-vandenberg-sfb-5/",
       "pubDate": "2026-10-20T21:18:11.000Z",
@@ -368,6 +368,15 @@
       "author": "Will Robinson-Smith",
       "excerpt": "This will be the second launch of SpaceX’s uncrewed reentry capsule, Starfall. Liftoff from pad 40 at Cape Canaveral Space Force Station is scheduled at 7:04 a.m. EDT (1104 UTC) on Tuesday, Oct. 20.",
       "source": "Spaceflight Now"
+    },
+    {
+      "title": "Japan launches sample return mission to Phobos",
+      "link": "https://www.astronomy.com/space-exploration/japan-prepares-to-launch-sample-return-mission-to-phobos/",
+      "pubDate": "2026-10-16T19:05:00.000Z",
+      "image": null,
+      "author": "Brooks Mendenhall",
+      "excerpt": "Editor’s note: MMX is on its way to Mars. An H3 rocket lifted off from Tanegashima Space Center at 3:41 P.M. EDT on Oct. 19 (4:41 A.M. Oct. 20 local time). About 71 minutes later, JAXA confirmed the spacecraft had separated from the rocket and was on its planned trajectory. The probe should reach MarsContinue reading \"",
+      "source": "Astronomy Magazine"
     },
     {
       "title": "Japan is launching a mission to Mars’s largest moon Phobos",
@@ -557,15 +566,6 @@
       "author": "Spaceflight Now",
       "excerpt": "Liftoff of the Falcon 9 rocket from Vandenberg Space Force Base in California carrying satellites for the Space Development Agency’s Proliferated Warfighter Space Architecture constellation came at 12:39 a.m. PDT (3:39 EDT / 0739 UTC).",
       "source": "Spaceflight Now"
-    },
-    {
-      "title": "Newly selected NASA mission will hunt for caves on the Moon",
-      "link": "https://www.astronomy.com/science/newly-selected-nasa-mission-will-hunt-for-caves-on-the-moon/",
-      "pubDate": "2026-10-09T17:49:35.000Z",
-      "image": null,
-      "author": "Brooks Mendenhall",
-      "excerpt": "NASA has selected a mission proposal that will peer below a volcanic pit on the Moon to find out whether it opens onto a hidden lava tube — a geologic formation long theorized, but never confirmed on the Moon. The proposal will send a mission to the Marius Hills Pit, a large hole — approximatelyContinue reading \"Newly ",
-      "source": "Astronomy Magazine"
     },
     {
       "title": "Two large asteroids found spinning as fast as a fairground ride",
@@ -795,6 +795,24 @@
   ],
   "industryNews": [
     {
+      "title": "Lockheed Martin to Add Air-Launched Hypersonic Missile to the American Arsenal of Freedom",
+      "link": "https://news.lockheedmartin.com/2026-10-27-Lockheed-Martin-to-Add-Air-Launched-Hypersonic-Missile-to-the-American-Arsenal-of-Freedom",
+      "pubDate": "2026-10-27T19:33:00.000Z",
+      "image": "https://mmx.prnewswire.com/media/MS2022049/ARRW_Launch_PR.jpg?id=OA3043029&p=thumbnail",
+      "author": "",
+      "excerpt": "",
+      "source": "Lockheed Martin"
+    },
+    {
+      "title": "Lockheed Martin Welcomes Dedicated PAC-3® Missile Maintenance Facility in Poland",
+      "link": "https://news.lockheedmartin.com/2026-10-27-Lockheed-Martin-Welcomes-Dedicated-PAC-3-R-Missile-Maintenance-Facility-in-Poland",
+      "pubDate": "2026-10-27T16:01:00.000Z",
+      "image": null,
+      "author": "",
+      "excerpt": "",
+      "source": "Lockheed Martin"
+    },
+    {
       "title": "Boeing Reports Third Quarter Results",
       "link": "https://boeing.mediaroom.com/2026-10-27-Boeing-Reports-Third-Quarter-Results",
       "pubDate": "2026-10-27T11:30:00.000Z",
@@ -840,15 +858,6 @@
       "source": "Boeing"
     },
     {
-      "title": "Spike NLOS Live‑Fire Validates Infantry Use and ISV-U Platform Integration\r\n",
-      "link": "https://news.lockheedmartin.com/2026-10-20-Spike-NLOS-Live-Fire-Validates-Infantry-Use-and-ISV-U-Platform-Integration",
-      "pubDate": "2026-10-20T13:00:00.000Z",
-      "image": "https://news.lockheedmartin.com/file.php/184168/Spike-900+%281%29.jpg?thumbnail=144",
-      "author": "",
-      "excerpt": "",
-      "source": "Lockheed Martin"
-    },
-    {
       "title": "Boeing Introduces Dataliner, a New Aircraft Data Intelligence Platform",
       "link": "https://boeing.mediaroom.com/2026-10-20-Boeing-Introduces-Dataliner,-a-New-Aircraft-Data-Intelligence-Platform",
       "pubDate": "2026-10-20T11:30:00.000Z",
@@ -856,15 +865,6 @@
       "author": "",
       "excerpt": "",
       "source": "Boeing"
-    },
-    {
-      "title": "ER GMLRS Advances Toward Operational Fielding and Expanded Production ",
-      "link": "https://news.lockheedmartin.com/2026-10-19-ER-GMLRS-Advances-Toward-Operational-Fielding-and-Expanded-Production",
-      "pubDate": "2026-10-19T20:00:00.000Z",
-      "image": "https://news.lockheedmartin.com/file.php/184161/ER_GMLRS_Test_+900x580.jpg?thumbnail=144",
-      "author": "",
-      "excerpt": "",
-      "source": "Lockheed Martin"
     },
     {
       "title": "Boeing Announces Third Quarter Deliveries",
@@ -887,174 +887,156 @@
   ],
   "nytNews": [
     {
-      "title": "In Israel’s Election, It’s Nationalism vs. Founding Ideals",
-      "link": "https://www.nytimes.com/2026/10/27/world/middleeast/israel-election-identity.html",
-      "pubDate": "2026-10-27T14:10:11.000Z",
-      "image": "https://static01.nyt.com/images/2026/10/22/multimedia/22Israel-Identity-add-01-jfpz/22Israel-Identity-add-01-jfpz-mediumSquareAt3X.jpg",
-      "author": "Roger Cohen",
-      "excerpt": "As Israel votes, ever more strident hard-right views compete with hopes for a diverse land. The outcome could shape the country’s identity for years.",
-      "source": "NYT"
-    },
-    {
-      "title": "How Billionaires Are Fighting the Prop 40 California Wealth Tax",
-      "link": "https://www.nytimes.com/2026/10/27/technology/proposition-40-california-billioniare-tax.html",
-      "pubDate": "2026-10-27T14:05:55.000Z",
-      "image": "https://static01.nyt.com/images/2026/10/26/business/00biz-billionaire-tax/00biz-billionaire-tax-mediumSquareAt3X.jpg",
-      "author": "Theodore Schleifer and Erin Griffith",
-      "excerpt": "The latest Silicon Valley billionaire club is a $333 million political ad machine that is heavily engaged in next week’s elections.",
-      "source": "NYT"
-    },
-    {
       "title": "Nate Silver on What the Polls Say — and What His Gut’s Telling Him",
       "link": "https://www.nytimes.com/2026/10/27/opinion/ezra-klein-podcast-nate-silver.html",
-      "pubDate": "2026-10-27T13:21:21.000Z",
+      "pubDate": "2026-10-27T19:56:16.000Z",
       "image": "https://static01.nyt.com/images/2026/10/27/opinion/27eks-silver-image01/27eks-silver-image01-mediumSquareAt3X.jpg",
       "author": "Ezra Klein and Jack McCordick",
       "excerpt": "The election forecaster Nate Silver breaks down the likelihood of a G.O.P. wipeout.",
       "source": "NYT"
     },
     {
-      "title": "Could ‘You Can See Everything’ Be Up for Best Picture but Not Documentary?",
-      "link": "https://www.nytimes.com/2026/10/27/movies/you-can-see-everything-oscars-nathan-fielder.html",
-      "pubDate": "2026-10-27T11:28:49.000Z",
+      "title": "What to Expect When the Polls Close in Israel",
+      "link": "https://www.nytimes.com/2026/10/27/world/middleeast/israel-election-exit-polls-close.html",
+      "pubDate": "2026-10-27T19:53:23.000Z",
       "image": null,
-      "author": "Nicole Sperling",
-      "excerpt": "The popular nonfiction film is eligible for several Oscars. But the academy’s documentary branch may not be receptive to its unconventional approach.",
+      "author": "Liam Stack",
+      "excerpt": "Polls are about to close across the country. Exits polls may offer clues about the direction of the voting but not necessarily a clear winner.",
       "source": "NYT"
     },
     {
-      "title": "Inflation. War. Corruption. Hold Trump Accountable.",
-      "link": "https://www.nytimes.com/2026/10/27/opinion/editorials/inflation-war-corruption-trump-editorial.html",
-      "pubDate": "2026-10-27T11:12:53.000Z",
-      "image": "https://static01.nyt.com/images/2026/10/27/opinion/27midterms-editorial/27midterms-editorial-mediumSquareAt3X-v3.jpg",
-      "author": "The Editorial Board",
-      "excerpt": "The American people have a chance to allow the nation to glimpse the end of the Trump era and the start of something brighter.",
+      "title": "ChatGPT’s Advice to Cut Her Seizure Drug Led to Devastating Consequences",
+      "link": "https://www.nytimes.com/2026/10/27/well/ai-chatgpt-medication-epilepsy-death.html",
+      "pubDate": "2026-10-27T19:38:47.000Z",
+      "image": null,
+      "author": "Teddy Rosenbluth",
+      "excerpt": "The chatbot helped a woman taper off a lifesaving drug and hide the plan from her doctors.",
       "source": "NYT"
     },
     {
-      "title": "U.S. Pensions Are Riding the A.I. Wave. For Better or Worse.",
-      "link": "https://www.nytimes.com/2026/10/27/business/pensions-ai.html",
-      "pubDate": "2026-10-27T11:06:48.000Z",
-      "image": "https://static01.nyt.com/images/2026/10/17/business/00ai-pensions/00ai-pensions-mediumSquareAt3X.jpg",
-      "author": "Tony Romm",
-      "excerpt": "As exuberance around the technology stokes fears of a bubble, the nation’s public pensions are starting to grapple with their role — and their risks.",
+      "title": "The Christian Influencer at the Center of Ken Paxton’s New Life",
+      "link": "https://www.nytimes.com/2026/10/27/us/ken-paxton-divorce-tracy-duhon.html",
+      "pubDate": "2026-10-27T18:56:21.000Z",
+      "image": "https://static01.nyt.com/images/2026/10/27/us/27nat-paxton-relationship-promo/27nat-paxton-relationship-promo-mediumSquareAt3X.jpg",
+      "author": "Lauren McGaughy",
+      "excerpt": "The Texas attorney general has been silent about his relationship with Tracy Duhon, a New Orleans woman who has built a personal brand around faith and redemption.",
       "source": "NYT"
     },
     {
-      "title": "The Surprise Tossups",
-      "link": "https://www.nytimes.com/2026/10/27/briefing/the-surprise-tossups.html",
-      "pubDate": "2026-10-27T10:49:08.000Z",
-      "image": "https://static01.nyt.com/images/2026/10/27/multimedia/27themorning-nl-TOP-flgp/27themorning-nl-TOP-flgp-mediumSquareAt3X-v2.jpg",
-      "author": "Sam Sifton",
-      "excerpt": "We look at how gerrymandering shapes the midterm elections.",
+      "title": "E.P.A. to Loosen Methane Rules for Oil Firms",
+      "link": "https://www.nytimes.com/2026/10/27/climate/trump-methane-rules-epa-greenhouse-gas.html",
+      "pubDate": "2026-10-27T18:42:27.000Z",
+      "image": "https://static01.nyt.com/images/2026/10/07/multimedia/00cli-methane-rollback-HFO-tchz/00cli-methane-rollback-HFO-tchz-mediumSquareAt3X.jpg",
+      "author": "Brad Plumer",
+      "excerpt": "The Biden administration had sought to crack down on methane leaks, a big driver of climate change. Those rules are now being scaled back.",
       "source": "NYT"
     },
     {
-      "title": "In Anthropic I.P.O., Goldman and Morgan Stanley Slug It Out for Top Bank",
-      "link": "https://www.nytimes.com/2026/10/27/business/anthropic-ipo-goldman-morgan-stanley.html",
-      "pubDate": "2026-10-27T10:09:10.000Z",
-      "image": "https://static01.nyt.com/images/2026/10/26/multimedia/26biz-anthropic-banks-goldman-vgzb/26biz-anthropic-banks-goldman-vgzb-mediumSquareAt3X.jpg",
-      "author": "Lauren Hirsch and Sri Muppidi",
-      "excerpt": "Anthropic named the Wall Street firms lead underwriters on its upcoming public offering, a role that will generate generous fees and enormous prestige.",
+      "title": "European Leaders Split Over Phone Call to Putin",
+      "link": "https://www.nytimes.com/2026/10/27/world/europe/norway-finland-putin-call.html",
+      "pubDate": "2026-10-27T18:26:02.000Z",
+      "image": "https://static01.nyt.com/images/2026/10/27/multimedia/27int-putin-call-kmch/27int-putin-call-kmch-mediumSquareAt3X.jpg",
+      "author": "Jeffrey Gettleman, Paul Sonne and Jeanna Smialek",
+      "excerpt": "The diplomatic outreach was part of an effort to push talks to end the war in Ukraine, though it was not welcome by all European leaders.",
       "source": "NYT"
     },
     {
-      "title": "Israel’s First Election Since Oct. 7, and What Anthropic’s I.P.O. Means for the Whole Economy",
-      "link": "https://www.nytimes.com/2026/10/27/podcasts/the-headlines/israel-election-anthropic-ipo.html",
-      "pubDate": "2026-10-27T10:00:09.000Z",
-      "image": "https://static01.nyt.com/images/2026/10/27/multimedia/27theheadlines-israel-election-fwjz/27theheadlines-israel-election-fwjz-mediumSquareAt3X.jpg",
-      "author": "Tracy Mumford, Will Jarvis, Margaret Kadifa, Jake Lucas, David M. Halbfinger and Erin Griffith",
-      "excerpt": "Plus, why Halloween candy is scary expensive.",
+      "title": "Bill Bradley: My Fear for the Midterms",
+      "link": "https://www.nytimes.com/2026/10/27/opinion/election-interference-trump-midterms.html",
+      "pubDate": "2026-10-27T18:21:23.000Z",
+      "image": "https://static01.nyt.com/images/2026/10/27/opinion/27bradley-image/27bradley-image-mediumSquareAt3X.jpg",
+      "author": "Bill Bradley",
+      "excerpt": "The buck must stop with local officials.",
+      "source": "NYT"
+    },
+    {
+      "title": "‘Event Horizon’: The Cosmic Horror Flop That Rose From the Void",
+      "link": "https://www.nytimes.com/2026/10/27/movies/event-horizon-good-bad.html",
+      "pubDate": "2026-10-27T18:20:29.000Z",
+      "image": null,
+      "author": "Maya Salam",
+      "excerpt": "Paul W.S. Anderson’s nightmarish 1997 space film starring Sam Neill became a pulpy horror classic after shocking viewers expecting a simple space adventure.",
+      "source": "NYT"
+    },
+    {
+      "title": "Trump Explores Lifting Sanctions on Russia’s Flagship Investment Fund",
+      "link": "https://www.nytimes.com/2026/10/27/us/politics/russia-fund-sanctions-trump.html",
+      "pubDate": "2026-10-27T17:30:52.000Z",
+      "image": "https://static01.nyt.com/images/2026/10/26/multimedia/26dc-russia-sanctions-mvcg/26dc-russia-sanctions-mvcg-mediumSquareAt3X-v2.jpg",
+      "author": "Anton Troianovski",
+      "excerpt": "The move would be the latest U.S. concession to Moscow as President Trump pursues economic incentives he hopes will secure an end to war in Ukraine.",
+      "source": "NYT"
+    },
+    {
+      "title": "Serbian Students, Victorious and Leaderless, Go After the Media",
+      "link": "https://www.nytimes.com/2026/10/27/world/europe/serbia-student-list-news-media-vucic.html",
+      "pubDate": "2026-10-27T17:14:59.000Z",
+      "image": "https://static01.nyt.com/images/2026/10/27/multimedia/27serbia-election-01-twqc/27serbia-election-01-twqc-mediumSquareAt3X.jpg",
+      "author": "Andrew Higgins and Alisa Dogramadzieva",
+      "excerpt": "Supporters of the opposition movement that won Sunday’s election stormed the offices of a pro-government tabloid. Another news outlet apologized for years of “one-sided” coverage.",
+      "source": "NYT"
+    },
+    {
+      "title": "Nithya Raman Is Not L.A.’s Mamdani. But She Might Become Mayor, Too.",
+      "link": "https://www.nytimes.com/2026/10/27/us/politics/los-angeles-mayor-nithya-raman-democratic-socialist.html",
+      "pubDate": "2026-10-27T17:09:02.000Z",
+      "image": "https://static01.nyt.com/images/2026/10/27/multimedia/27nat-la-raman-wpmv/27nat-la-raman-wpmv-mediumSquareAt3X.jpg",
+      "author": "Jill Cowan",
+      "excerpt": "Little known a year ago, she is a Democratic Socialist drawing comparisons to New York’s Zohran Mamdani. She has mounted a strong challenge to the incumbent, Karen Bass.",
       "source": "NYT"
     },
     {
       "title": "Election Officials Fear Trump Administration’s Interference in Midterms Voting",
       "link": "https://www.nytimes.com/2026/10/27/us/election-interference-trump-midterms.html",
-      "pubDate": "2026-10-27T09:03:57.000Z",
+      "pubDate": "2026-10-27T16:51:20.000Z",
       "image": "https://static01.nyt.com/images/2026/10/27/multimedia/27pol-election-prep-lmqf/27pol-election-prep-lmqf-mediumSquareAt3X.jpg",
       "author": "Richard Fausset, Zolan Kanno-Youngs and David W. Chen",
-      "excerpt": "State and local plans for Election Day include how to react to potential I.C.E. raids, misbehavior by federal election monitors and attempts to seize votes or machines.",
+      "excerpt": "State and local plans for Election Day include how to react to potential ICE raids, misbehavior by federal election monitors and attempts to seize votes or machines.",
       "source": "NYT"
     },
     {
-      "title": "The Fed Is Expected to Hold Rates Steady. Warsh Will Have to Explain Why.",
-      "link": "https://www.nytimes.com/2026/10/27/business/the-fed-is-expected-to-hold-rates-steady-warsh-will-have-to-explain-why.html",
-      "pubDate": "2026-10-27T09:03:48.000Z",
-      "image": "https://static01.nyt.com/images/2026/10/26/multimedia/27dc-fed-zqhm/27dc-fed-zqhm-mediumSquareAt3X.jpg",
-      "author": "Colby Smith",
-      "excerpt": "Inflation is moving in the wrong direction and the labor market remains stable, a combination that bolsters the case for higher interest rates.",
+      "title": "Michigan Senate Race Drives Anxiety Among Jewish and Muslim Voters",
+      "link": "https://www.nytimes.com/2026/10/27/us/politics/michigan-senate-race-jewish-muslim-voters.html",
+      "pubDate": "2026-10-27T16:47:22.000Z",
+      "image": "https://static01.nyt.com/images/2026/10/27/multimedia/27pol-michigan-jewish-muslim-voters-flyers-vcbm/27pol-michigan-jewish-muslim-voters-flyers-vcbm-mediumSquareAt3X.jpg",
+      "author": "Jennifer Medina",
+      "excerpt": "More than elsewhere in the country, U.S. policy toward Israel is at the forefront of the race between Mike Rogers and Abdul El-Sayed.",
       "source": "NYT"
     },
     {
-      "title": "Did the Hardest A.I. Problem Just Get Much Easier?",
-      "link": "https://www.nytimes.com/2026/10/27/science/ai-problem-interpretability.html",
-      "pubDate": "2026-10-27T09:03:00.000Z",
+      "title": "Trump-Appointed CDC Deputy Director Jennifer Shuford Resigns After 4 Months",
+      "link": "https://www.nytimes.com/2026/10/27/health/shuford-cdc-resign.html",
+      "pubDate": "2026-10-27T15:07:59.000Z",
+      "image": "https://static01.nyt.com/images/2026/11/26/multimedia/26dc-cdc-fwlb/26dc-cdc-fwlb-mediumSquareAt3X-v2.jpg",
+      "author": "Apoorva Mandavilli",
+      "excerpt": "Dr. Jennifer Shuford, a respected former Texas health official, had been appointed by President Trump to help steady the agency.",
+      "source": "NYT"
+    },
+    {
+      "title": "How Billionaires Are Fighting the Prop 40 California Wealth Tax",
+      "link": "https://www.nytimes.com/2026/10/27/technology/proposition-40-california-billionaire-tax.html",
+      "pubDate": "2026-10-27T14:55:35.000Z",
+      "image": "https://static01.nyt.com/images/2026/10/26/business/00biz-billionaire-tax/00biz-billionaire-tax-mediumSquareAt3X.jpg",
+      "author": "Theodore Schleifer and Erin Griffith",
+      "excerpt": "The latest Silicon Valley billionaire club is a $333 million political ad machine that is heavily engaged in next week’s elections.",
+      "source": "NYT"
+    },
+    {
+      "title": "Jane Schoenbrun’s First Novel is Another Exploration of Weird Pop Culture",
+      "link": "https://www.nytimes.com/2026/10/27/books/review/jane-schoenbrun-public-access-afterworld-book.html",
+      "pubDate": "2026-10-27T11:19:33.000Z",
       "image": null,
-      "author": "Cade Metz",
-      "excerpt": "A prominent researcher claims to have a revolutionary approach to “interpretability,” or the science of why A.I. models do what they do. Other experts aren’t so sure.",
+      "author": "Eric Grode",
+      "excerpt": "The filmmaker Jane Schoenbrun envisioned a sci-fi TV series about a sinister video store. “Public Access Afterworld” is the ambitious 600-page result.",
       "source": "NYT"
     },
     {
-      "title": "Antidepressants Don’t Correct A Chemical Imbalance. How, Then, Do They Work?",
-      "link": "https://www.nytimes.com/2026/10/27/science/how-antidepressants-ssri-work.html",
-      "pubDate": "2026-10-27T09:01:32.000Z",
-      "image": null,
-      "author": "Awais Aftab",
-      "excerpt": "Here’s how psychiatrists like me think about the most promising hypotheses.",
-      "source": "NYT"
-    },
-    {
-      "title": "Jimmy Kimmel Proposes a Battle of Wits Between Trump and Obama",
-      "link": "https://www.nytimes.com/2026/10/27/arts/television/jimmy-kimmel-trump-obama-roast.html",
-      "pubDate": "2026-10-27T06:51:54.000Z",
-      "image": null,
-      "author": "Trish Bendix",
-      "excerpt": "“There is only one way to settle this: roast battle on the White House lawn, live,” Kimmel offered, after former President Barack Obama mocked President Trump.",
-      "source": "NYT"
-    },
-    {
-      "title": "Judge Temporarily Blocks Further Alterations at D.C.’s East Potomac Park",
-      "link": "https://www.nytimes.com/2026/10/26/us/politics/trump-golf-reyes-judge-ruling.html",
-      "pubDate": "2026-10-27T04:00:18.000Z",
-      "image": "https://static01.nyt.com/images/2026/10/26/multimedia/00dc-golf-mjgw/00dc-golf-mjgw-mediumSquareAt3X.jpg",
-      "author": "Zach Montague",
-      "excerpt": "A federal judge stopped the Trump administration from cutting trees and prohibited other changes at the park where the president has sought to overhaul a golf course.",
-      "source": "NYT"
-    },
-    {
-      "title": "Netanyahu Pushed for Attack on Iran Ahead of Israeli Election, Officials Say",
-      "link": "https://www.nytimes.com/2026/10/26/world/middleeast/netanyahu-iran-israel-election.html",
-      "pubDate": "2026-10-27T01:34:24.000Z",
-      "image": "https://static01.nyt.com/images/2026/10/26/multimedia/26int-israel-netanyahu-iran-qmcz/26int-israel-netanyahu-iran-qmcz-mediumSquareAt3X.jpg",
-      "author": "David M. Halbfinger, Ronen Bergman, Natan Odenheimer, Adam Rasgon and Aaron Boxerman",
-      "excerpt": "Israel’s military chief resisted the prime minister, who then pressed in recent days for a separate action, short of an overt strike, according to an official and a person briefed on the matter.",
-      "source": "NYT"
-    },
-    {
-      "title": "How Lula’s Social Media Campaign Helped Him Win Brazil’s Election",
-      "link": "https://www.nytimes.com/2026/10/26/world/americas/brazil-election-lula-social-media.html",
-      "pubDate": "2026-10-27T00:45:27.000Z",
-      "image": "https://static01.nyt.com/images/2026/10/26/multimedia/26brazil-election-assess-mwht/26brazil-election-assess-mwht-mediumSquareAt3X.jpg",
-      "author": "Ana Ionova, Adam B. Ellick and Jack Nicas",
-      "excerpt": "President Luiz Inácio Lula da Silva won another term on Sunday, with the help of a seismic social media campaign that convinced Brazilians to reject his rival.",
-      "source": "NYT"
-    },
-    {
-      "title": "Book Review: ‘Princes and Thieves,’ by Matthew Cole",
-      "link": "https://www.nytimes.com/2026/10/26/books/review/princes-and-thieves-matthew-cole.html",
-      "pubDate": "2026-10-27T00:32:51.000Z",
-      "image": "https://static01.nyt.com/images/2026/10/27/books/27TBR-OToole-review-grid/27TBR-OToole-review-grid-mediumSquareAt3X.jpg",
-      "author": "Fintan O’Toole",
-      "excerpt": "The new book by the reporter Matthew Cole connects $2 billion in slush funds from gulf state leaders to Trump’s son-in-law in an effort to influence U.S. policy.",
-      "source": "NYT"
-    },
-    {
-      "title": "Bob Woodward Criticizes Jeff Bezos in New Memoir",
-      "link": "https://www.nytimes.com/2026/10/26/us/politics/bob-woodward-memoir-jeff-bezos.html",
-      "pubDate": "2026-10-27T00:24:09.000Z",
-      "image": "https://static01.nyt.com/images/2026/10/26/multimedia/26dc-woodward-ghtw/26dc-woodward-ghtw-mediumSquareAt3X.jpg",
-      "author": "Peter Baker",
-      "excerpt": "Six takeaways from a new memoir by Mr. Woodward, the star Washington Post reporter, including his disappointment with the newspaper’s billionaire owner.",
+      "title": "Book Review: ‘Public Access Afterworld,’ by Jane Schoenbrun",
+      "link": "https://www.nytimes.com/2026/10/27/books/review/jane-schoenbrun-public-access-afterworld.html",
+      "pubDate": "2026-10-27T11:18:12.000Z",
+      "image": "https://static01.nyt.com/images/2026/10/27/books/27TBR-Schoenbrun-review/27TBR-Schoenbrun-review-mediumSquareAt3X.jpg",
+      "author": "Junot Díaz",
+      "excerpt": "In the filmmaker Jane Schoenbrun’s first novel, a strange broadcast invites curious outsiders to an alternate world behind the screen.",
       "source": "NYT"
     },
     {
@@ -1067,12 +1049,12 @@
       "source": "NYT"
     },
     {
-      "title": "Israel’s High-Stakes Election: What to Know",
-      "link": "https://www.nytimes.com/2026/10/25/world/middleeast/israel-election-guide-netanyahu-eisenkot.html",
-      "pubDate": "2026-10-25T09:01:00.000Z",
-      "image": "https://static01.nyt.com/images/2026/10/27/multimedia/27israel-simple-explainer-kgjv/27israel-simple-explainer-kgjv-mediumSquareAt3X.jpg",
-      "author": "Ephrat Livni",
-      "excerpt": "Israelis head to the polls on Tuesday for an election that will determine the country’s next prime minister. But it can take weeks, months or longer to form a new government.",
+      "title": "New Yorkers, Where’s the Best Place to Cry in the City?",
+      "link": "https://www.nytimes.com/2026/10/26/nyregion/new-yorkers-whats-the-best-place-to-cry-in-the-city.html",
+      "pubDate": "2026-10-26T19:52:38.000Z",
+      "image": null,
+      "author": "Anna Kodé and Zachary Small",
+      "excerpt": "To help us report an upcoming article, we want to hear about all the places you’ve cried — subways, sidewalks, stoops, saunas and beyond.",
       "source": "NYT"
     }
   ]
