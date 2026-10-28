@@ -1,6 +1,69 @@
 {
   "spaceNews": [
     {
+      "title": "NASA University Challenge Ignites Trajectory of Drone Entrepreneur",
+      "link": "https://www.nasa.gov/aeronautics/nasa-challenge-drone-entrepreneur/",
+      "pubDate": "2026-10-28T18:00:28.000Z",
+      "image": "https://www.nasa.gov/wp-content/uploads/2026/10/usrc-gardner-ag3-team.jpg?w=2048",
+      "author": "Jim Banke",
+      "excerpt": "Five years ago, Gavin Gardner was a Michigan State University engineering student researching next-generation drone technology as part of a NASA grant. Garder expected the research to be demanding – but he was surprised that navigating the financial side of the work presented an even greater challenge. Although Gardner",
+      "source": "NASA"
+    },
+    {
+      "title": "There may be a new dwarf planet just beyond Pluto",
+      "link": "https://www.newscientist.com/article/2596282-there-may-be-a-new-dwarf-planet-just-beyond-pluto/?utm_campaign=RSS|NSNS&utm_content=space&utm_medium=RSS&utm_source=NSNS",
+      "pubDate": "2026-10-28T16:51:28.000Z",
+      "image": null,
+      "author": "Leah Crane",
+      "excerpt": "Astronomers spotted what appears to be a dwarf planet in the outer solar system using the Vera C. Rubin Observatory – if confirmed, it joins a small and exclusive club",
+      "source": "New Scientist"
+    },
+    {
+      "title": "NASA Selects 19 New Citizen Science Proposals in 2026",
+      "link": "https://science.nasa.gov/get-involved/citizen-science/nasa-selects-19-new-citizen-science-proposals-in-2026/",
+      "pubDate": "2026-10-28T16:25:29.000Z",
+      "image": "https://assets.science.nasa.gov/dynamicimage/assets/science/cds/citizen-science/highlights/2026/NASA_citizen_science_projects_2026.jpg",
+      "author": "",
+      "excerpt": "So far, 2026 has seen a flood of successes for volunteers who do NASA science, exemplifying NASA’s commitment to gold-standard science—transparent, reproducible and intrinsically collaborative. The Backyard Worlds: Planet 9 project announced that their project volunteers have now discovered most of the known brown dwar",
+      "source": "NASA"
+    },
+    {
+      "title": "Webb Sees Turbulent Star Nursery",
+      "link": "https://www.nasa.gov/image-article/webb-sees-turbulent-star-nursery/",
+      "pubDate": "2026-10-28T15:33:10.000Z",
+      "image": "https://www.nasa.gov/wp-content/uploads/2026/10/55604475252-31d25bf2e0-o.jpg?w=2048",
+      "author": "HQ Web Team",
+      "excerpt": "In this Webb image released on Oct. 22, 2026, we see a turbulent cauldron of star formation filled with dense clumps of gas. This region is named N159 and is located 161,000 light-years away in the Large Magellanic Cloud, one of the satellite galaxies orbiting the Milky Way galaxy. This region has a lower metallicity [",
+      "source": "NASA"
+    },
+    {
+      "title": "Flexell Space and Satoro Agree to Collaborate on In-Orbit Demonstration of Next-Generation Space Solar Cells",
+      "link": "https://spacenews.com/flexell-space-and-satoro-agree-to-collaborate-on-in-orbit-demonstration-of-next-generation-space-solar-cells/",
+      "pubDate": "2026-10-28T14:43:08.000Z",
+      "image": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/10/LOGO_FLEXELLBlack.png?fit=1024%2C1024&amp;ssl=1",
+      "author": "Flexell Space",
+      "excerpt": "– Two demonstration missions planned aboard SpaceX Falcon 9, one each in 2027 and 2028 – Satoro to provide “Satellite-as-a-service” solution; Flexell Space to supply solar cells and test modules […] The post Flexell Space and Satoro Agree to Collaborate on In-Orbit Demonstration of Next-Generation Space Solar Cells app",
+      "source": "SpaceNews"
+    },
+    {
+      "title": "Shield Space Launches UK Space Superiority Coalition",
+      "link": "https://payloadspace.com/shield-space-launches-uk-space-superiority-coalition/",
+      "pubDate": "2026-10-28T13:00:00.000Z",
+      "image": "https://payloadspace.com/wp-content/uploads/2026/10/1782376075703-200x200.jpeg",
+      "author": "Douglas Gorman",
+      "excerpt": "The UK Space Superiority Coalition brings together space companies across the UK in an effort to build a space-based carrier strike force. The post Shield Space Launches UK Space Superiority Coalition appeared first on Payload.",
+      "source": "Payload"
+    },
+    {
+      "title": "Exclusive: Rendezvous Robotics Raises $20M to Develop Self-Assembling Spacecraft",
+      "link": "https://payloadspace.com/exclusive-rendezvous-robotics-raises-20m-to-develop-self-assembling-spacecraft/",
+      "pubDate": "2026-10-28T13:00:00.000Z",
+      "image": "https://payloadspace.com/wp-content/uploads/2026/10/hero-200x200.jpeg",
+      "author": "Douglas Gorman",
+      "excerpt": "Rendezvous Robotics is developing technology to allow future satellites to launch in pieces that can self-assemble in space. The post Exclusive: Rendezvous Robotics Raises $20M to Develop Self-Assembling Spacecraft appeared first on Payload.",
+      "source": "Payload"
+    },
+    {
       "title": "Curiosity Blog, Sols 5043-5049: Preparing to Drill at ‘Nazca’",
       "link": "https://science.nasa.gov/blog/curiosity-blog-sols-5043-5049-preparing-to-drill-at-nazca/",
       "pubDate": "2026-10-28T05:39:46.000Z",
@@ -109,15 +172,6 @@
       "source": "NASA"
     },
     {
-      "title": "A-81 Reaches South Georgia",
-      "link": "https://science.nasa.gov/earth/earth-observatory/a-81-reaches-south-georgia/",
-      "pubDate": "2026-10-27T04:00:00.000Z",
-      "image": "https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2026/a-81-reaches-south-georgia/iceberga81_tmo_20261020.jpg?w=2048&#038;h=1365&#038;fit=clip&#038;crop=faces%2Cfocalpoint",
-      "author": "",
-      "excerpt": "The Antarctic iceberg made a relatively quick exit from the Weddell Sea, only to slow at the edge of a remote island’s underwater shelf.",
-      "source": "NASA"
-    },
-    {
       "title": "Cowboy Space Reveals Big Iron Data Center Rocket ",
       "link": "https://payloadspace.com/cowboy-space-reveals-big-iron-data-center-rocket/",
       "pubDate": "2026-10-27T02:30:00.000Z",
@@ -134,24 +188,6 @@
       "author": "Steven Young",
       "excerpt": "Liftoff of the Starlink 15-16 mission from Space Launch Complex 4E happened Tuesday, October 27, 2026, at 12:25 a.m. PDT (3:25 a.m. EDT / 0825 UTC).",
       "source": "Spaceflight Now"
-    },
-    {
-      "title": "NASA’s Perseverance Views Dust at Neretva Vallis",
-      "link": "https://science.nasa.gov/photojournal/nasas-perseverance-views-dust-at-neretva-vallis/",
-      "pubDate": "2026-10-26T22:48:12.000Z",
-      "image": "https://assets.science.nasa.gov/dynamicimage/assets/science/psd/photojournal/pia/pia26/pia26816/PIA26816_low_res.jpg?w=1536&#038;h=405&#038;fit=clip&#038;crop=faces%2Cfocalpoint",
-      "author": "",
-      "excerpt": "Description This 360-degree look at Neretva Vallis within Mars’ Jezero Crater was stitched together using 217 images acquired by the rover’s Mastcam-Z on May 20, 2024, the 1,155th Martian day, or sol, of the mission. While it is a wind-swept dusty vista today, billions of years ago it was home to a river channel that f",
-      "source": "NASA"
-    },
-    {
-      "title": "NASA’s Perseverance Offers Clues to Protect Crews From Mars Dust",
-      "link": "https://www.nasa.gov/missions/mars-2020-perseverance/nasas-perseverance-offers-clues-to-protect-crews-from-mars-dust/",
-      "pubDate": "2026-10-26T21:07:28.000Z",
-      "image": "https://www.nasa.gov/wp-content/uploads/2026/10/1-pia26816-pano-resized-for-web-feature.jpg?w=2048",
-      "author": "Amanda Barnett",
-      "excerpt": "Over 1,645 Martian days, NASA’s Perseverance Mars rover measured the fine and ultrafine Martian dust particles found clinging to samples of spacesuit materials that are carried aboard the rover, including some that are small enough to penetrate the lungs and enter the bloodstream. The findings will be published Tuesday",
-      "source": "NASA"
     },
     {
       "title": "Flexell Space Establishes French Subsidiary to Strengthen European Presence",
@@ -280,15 +316,6 @@
       "source": "Payload"
     },
     {
-      "title": "National Academies Rank Nonpolar Moon Sites",
-      "link": "https://payloadspace.com/national-academies-rank-ideal-nonpolar-moon-sites/",
-      "pubDate": "2026-10-22T12:30:00.000Z",
-      "image": "https://payloadspace.com/wp-content/uploads/2026/10/Moon-cover-background-200x200.jpg",
-      "author": "Victoria Woodburn",
-      "excerpt": "A new report from the National Academies ranks the top four non-polar sites for future crewed lunar missions. The post National Academies Rank Nonpolar Moon Sites appeared first on Payload.",
-      "source": "Payload"
-    },
-    {
       "title": "TechnoMile Recognized as a 2026 Inc. Power Partner Award Winner",
       "link": "https://spacenews.com/technomile-recognized-as-a-2026-inc-power-partner-award-winner/",
       "pubDate": "2026-10-21T15:26:29.000Z",
@@ -314,15 +341,6 @@
       "author": "Space Nuclear Power Corporation",
       "excerpt": "LOS ALAMOS, N.M. — October 21, 2026 — Space Nuclear Power Corporation (SpaceNukes) announced today that the Defense Advanced Research Projects Agency (DARPA) has awarded the company an Other Transaction […] The post Space Nuclear Power Corporation Awarded DARPA Agreement for Ground Test of Autonomous Nuclear Reactor Co",
       "source": "SpaceNews"
-    },
-    {
-      "title": "Hewlett Packard Enterprise to Send AI Compute Module to the Moon",
-      "link": "https://payloadspace.com/hewlett-packard-enterprise-to-send-ai-compute-module-to-the-moon/",
-      "pubDate": "2026-10-21T12:14:24.000Z",
-      "image": "https://payloadspace.com/wp-content/uploads/2026/10/HPjfn3wXEAA6aU4-200x200.jpeg",
-      "author": "Douglas Gorman",
-      "excerpt": "Hewlett Packard Enterprise ($HPE) is taking remote working to a whole new level. The post Hewlett Packard Enterprise to Send AI Compute Module to the Moon appeared first on Payload.",
-      "source": "Payload"
     },
     {
       "title": "Summer of Quantum: Building momentum for space-based QKD",
@@ -676,15 +694,6 @@
       "source": "New Scientist"
     },
     {
-      "title": "Do we live in a simulation? If so, it could be a giant consciousness experiment",
-      "link": "https://www.newscientist.com/article/2588325-do-we-live-in-a-simulation-if-so-it-could-be-a-giant-consciousness-experiment/?utm_campaign=RSS|NSNS&utm_content=space&utm_medium=RSS&utm_source=NSNS",
-      "pubDate": "2026-09-23T15:00:00.000Z",
-      "image": null,
-      "author": "Jacklin Kwan",
-      "excerpt": "Philosophers have pondered whether we live in a simulation for centuries. Now, Astronomer Royal for Scotland Catherine Heymans suggests a compelling rationale for why our reality might actually be synthetic",
-      "source": "New Scientist"
-    },
-    {
       "title": "Department of the Air Force pilot program expands to help more military spouses",
       "link": "https://www.spaceforce.mil/News/Article-Display/Article/4609375/department-of-the-air-force-pilot-program-expands-to-help-more-military-spouses/",
       "pubDate": "2026-09-23T14:43:00.000Z",
@@ -795,6 +804,15 @@
   ],
   "industryNews": [
     {
+      "title": " Lockheed Martin Advances Joint Fires Capability by Redirecting In-flight GMLRS Rocket During U.S. Army Test ",
+      "link": "https://news.lockheedmartin.com/2026-10-28-Lockheed-Martin-Advances-Joint-Fires-Capability-by-Redirecting-In-flight-GMLRS-Rocket-During-US-Army-Test",
+      "pubDate": "2026-10-28T13:00:00.000Z",
+      "image": "https://news.lockheedmartin.com/file.php/184191/Joint-Fires-900.jpg?thumbnail=144",
+      "author": "",
+      "excerpt": "",
+      "source": "Lockheed Martin"
+    },
+    {
       "title": "Boeing: Global Freighter Fleet to Exceed 4,000 Airplanes as Air Cargo Traffic Doubles by 2045",
       "link": "https://boeing.mediaroom.com/2026-10-28-Boeing-Global-Freighter-Fleet-to-Exceed-4,000-Airplanes-as-Air-Cargo-Traffic-Doubles-by-2045",
       "pubDate": "2026-10-28T12:00:00.000Z",
@@ -849,15 +867,6 @@
       "source": "Lockheed Martin"
     },
     {
-      "title": "New Framework Agreement for Multiyear F‑35 Production and Sustainment",
-      "link": "https://news.lockheedmartin.com/2026-10-22-New-Framework-Agreement-for-Multiyear-F-35-Production-and-Sustainment",
-      "pubDate": "2026-10-22T10:10:00.000Z",
-      "image": "https://mmx.prnewswire.com/media/MS2018621/USAF-F-35As-in-CENTCOM_Sept-28-2026_-U-S-Air-Force-photo-by-Tech-Sgt-Tiffany-A-Emery-2.jpg?id=OA3033697&p=thumbnail",
-      "author": "",
-      "excerpt": "",
-      "source": "Lockheed Martin"
-    },
-    {
       "title": "U.S. FAA certifies Boeing 737-10, largest member of 737 MAX family",
       "link": "https://boeing.mediaroom.com/2026-10-20-U-S-FAA-certifies-Boeing-737-10,-largest-member-of-737-MAX-family",
       "pubDate": "2026-10-20T19:38:00.000Z",
@@ -887,66 +896,138 @@
   ],
   "nytNews": [
     {
-      "title": "Israel’s Election: When Will We Know Who Will Be Prime Minister?",
-      "link": "https://www.nytimes.com/2026/10/25/world/middleeast/israel-election-guide-netanyahu-eisenkot.html",
-      "pubDate": "2026-10-28T12:38:03.000Z",
-      "image": "https://static01.nyt.com/images/2026/11/25/multimedia/25int-israel-election-explainer-promo-gqlj/25int-israel-election-explainer-promo-gqlj-mediumSquareAt3X.jpg",
-      "author": "Ephrat Livni",
-      "excerpt": "Most votes were expected to be counted by Wednesday, but forming a government could take weeks of negotiations — or require another election.",
+      "title": "A Punishing Housing Market Is Squeezing Renters",
+      "link": "https://www.nytimes.com/2026/10/28/business/housing-market-rent-pressure.html",
+      "pubDate": "2026-10-28T18:43:54.000Z",
+      "image": "https://static01.nyt.com/images/2026/10/28/multimedia/28biz-rents-vbmw/28biz-rents-vbmw-mediumSquareAt3X.jpg",
+      "author": "Sydney Ember",
+      "excerpt": "Higher mortgage rates and slowing residential construction are again giving landlords the upper hand.",
       "source": "NYT"
     },
     {
-      "title": "What Our New Senate Polls Tell Us About the State of the Midterms",
-      "link": "https://www.nytimes.com/2026/10/28/upshot/polls-south-carolina-minnesota-florida.html",
-      "pubDate": "2026-10-28T12:26:36.000Z",
-      "image": "https://static01.nyt.com/images/2026/10/27/multimedia/2026-10-23-fl-mn-sc-index/2026-10-23-fl-mn-sc-index-mediumSquareAt3X-v3.png",
-      "author": "Nate Cohn",
-      "excerpt": "South Carolina seems like a serious race; Minnesota may not be; and Florida still appears out of reach for Democrats.",
+      "title": "Apple Unveils Its First Touch-Screen MacBook Pro",
+      "link": "https://www.nytimes.com/2026/10/28/technology/apple-touch-screen-macbook-pro.html",
+      "pubDate": "2026-10-28T18:30:51.000Z",
+      "image": "https://static01.nyt.com/images/2026/10/28/multimedia/APPLE-1-lcgk/APPLE-1-lcgk-mediumSquareAt3X.jpg",
+      "author": "Kalley Huang and Brian X. Chen",
+      "excerpt": "Steve Jobs and Tim Cook both dismissed the idea, but Apple’s new chief executive is reimagining some of the company’s most important products.",
       "source": "NYT"
     },
     {
-      "title": "Can You Trust the Midterm Polls? Three Times Journalists Talk It Out.",
-      "link": "https://www.nytimes.com/2026/10/28/insider/polls-midterm-election.html",
-      "pubDate": "2026-10-28T12:01:20.000Z",
-      "image": null,
-      "author": "Patrick Healy, Nate Cohn and William P. Davis",
-      "excerpt": "Members of the team behind the Times/Siena Poll on what the data show, how they’ve improved their methodology and what it means to be “right.”",
-      "source": "NYT"
-    },
-    {
-      "title": "Italians Protesting High Prices Fear a Listless Future, Too",
-      "link": "https://www.nytimes.com/2026/10/28/world/europe/italy-protests-students-truckers-meloni.html",
-      "pubDate": "2026-10-28T11:49:56.000Z",
-      "image": "https://static01.nyt.com/images/2026/10/28/multimedia/28int-italy-protests-vjmw/28int-italy-protests-vjmw-mediumSquareAt3X.jpg",
-      "author": "Motoko Rich and Josephine de La Bruyère",
-      "excerpt": "Inspired in part by French demonstrations, protests in Italy by students in the north and truckers in the south could affect national elections next year.",
-      "source": "NYT"
-    },
-    {
-      "title": "A Historic Show of Strength for Israel’s Arab Minority",
-      "link": "https://www.nytimes.com/2026/10/27/world/middleeast/israel-election-arab-parties.html",
-      "pubDate": "2026-10-28T11:32:42.000Z",
-      "image": "https://static01.nyt.com/images/2026/10/27/multimedia/27israel-arab-parties1-qwmp/27israel-arab-parties1-qwmp-mediumSquareAt3X.jpg",
-      "author": "Liam Stack",
-      "excerpt": "Voters supporting two leading Arab parties turned out in record numbers to voice their opposition to the Netanyahu government in Tuesday’s election.",
+      "title": "The Special Ops Podcasts Changing the Narrative of the War on Terror",
+      "link": "https://www.nytimes.com/2026/10/28/magazine/special-ops-podcasts-war-on-terror.html",
+      "pubDate": "2026-10-28T18:08:04.000Z",
+      "image": "https://static01.nyt.com/images/2026/11/08/magazine/08mag-podcasts-03/08mag-podcasts-03-mediumSquareAt3X.jpg",
+      "author": "Wesley Morgan",
+      "excerpt": "Veterans’ complaints about the rules of engagement have reached Pete Hegseth and a generation of new recruits.",
       "source": "NYT"
     },
     {
       "title": "Trump Cannot Be the End of the Story",
       "link": "https://www.nytimes.com/2026/10/28/opinion/trump-law-lawlessness-presidency-congress.html",
-      "pubDate": "2026-10-28T11:26:37.000Z",
+      "pubDate": "2026-10-28T18:05:19.000Z",
       "image": "https://static01.nyt.com/images/2026/10/28/multimedia/28bouie-mjcf/28bouie-mjcf-mediumSquareAt3X.jpg",
       "author": "Jamelle Bouie",
       "excerpt": "Trump has no use for pretense and he’s not interested in playing along.",
       "source": "NYT"
     },
     {
-      "title": "Trump Administration Backs Down on an Opioid Ban After Kratom Industry Lobbying",
-      "link": "https://www.nytimes.com/2026/10/28/us/politics/trump-opioid-kratom.html",
-      "pubDate": "2026-10-28T11:19:51.000Z",
-      "image": "https://static01.nyt.com/images/2026/10/23/multimedia/00dc-kratom-top-lhgf/00dc-kratom-top-lhgf-mediumSquareAt3X.jpg",
+      "title": "Flávio Bolsonaro Lands in Miami After Fleeing Brazil",
+      "link": "https://www.nytimes.com/2026/10/28/world/americas/flavio-bolsonaro-us-miami-brazil-trump.html",
+      "pubDate": "2026-10-28T17:56:15.000Z",
+      "image": "https://static01.nyt.com/images/2026/10/28/multimedia/28int-bolsonaro-flight-fqlp/28int-bolsonaro-flight-fqlp-mediumSquareAt3X.jpg",
+      "author": "Ana Ionova, Edward Wong, Alice Maciel and Lucía Cholakian Herrera",
+      "excerpt": "Mr. Bolsonaro, who lost Sunday’s presidential election, fled Brazil for the United States via Argentina after the police canceled his passport in relation to an investigation.",
+      "source": "NYT"
+    },
+    {
+      "title": "What Does the Cheesecake Factory’s Designer Think of Obama and Trump’s Jabs at His Décor?",
+      "link": "https://www.nytimes.com/2026/10/28/dining/cheesecake-factory-obama-trump-midterm-elections.html",
+      "pubDate": "2026-10-28T17:55:11.000Z",
+      "image": "https://static01.nyt.com/images/2026/10/28/multimedia/28FD-cheesecake-factory1-jgmh/28FD-cheesecake-factory1-jgmh-mediumSquareAt3X.jpg",
+      "author": "Kim Severson",
+      "excerpt": "Long before its baroque décor and class identity became midterm talking points, this durable restaurant chain survived some withering critiques.",
+      "source": "NYT"
+    },
+    {
+      "title": "Linda McMahon Spends $43,000 on Furniture as She Looks to Close Education Department",
+      "link": "https://www.nytimes.com/2026/10/28/us/politics/linda-mcmahon-education-department-furniture-trump.html",
+      "pubDate": "2026-10-28T17:40:19.000Z",
+      "image": "https://static01.nyt.com/images/2026/10/28/multimedia/28dc-mcmahon-furniture-fzvk/28dc-mcmahon-furniture-fzvk-mediumSquareAt3X.jpg",
+      "author": "Michael C. Bender",
+      "excerpt": "The education secretary says her old furniture “cannot be configurationally or aesthetically integrated” into new office space.",
+      "source": "NYT"
+    },
+    {
+      "title": "What to Know About Brazil’s Election and Flávio Bolsonaro’s Departure",
+      "link": "https://www.nytimes.com/2026/10/26/world/americas/brazil-election-lula-win-what-to-know.html",
+      "pubDate": "2026-10-28T17:31:12.000Z",
+      "image": "https://static01.nyt.com/images/2026/10/25/multimedia/26xp-brazil-wwk-1/26xp-brazil-wwk-1-mediumSquareAt3X.jpg",
+      "author": "Ana Ionova, Adam B. Ellick and Yan Zhuang",
+      "excerpt": "President Luiz Inácio Lula da Silva’s re-election ended a string of victories by right-wing candidates in Latin America. His opponent, Flávio Bolsonaro, fled Brazil for the United States.",
+      "source": "NYT"
+    },
+    {
+      "title": "Spain Crash Survivor Describes a ‘Twisted Tangle of Metal’",
+      "link": "https://www.nytimes.com/2026/10/28/world/europe/spain-train-crash-survivor.html",
+      "pubDate": "2026-10-28T17:29:29.000Z",
+      "image": "https://static01.nyt.com/images/2026/10/28/multimedia/28spain-crash-passenger-lqtk/28spain-crash-passenger-lqtk-mediumSquareAt3X.jpg",
+      "author": "Carlos Barragán",
+      "excerpt": "Fernando Seco, 62, said he and others moved at least a dozen wounded passengers from the crash site, using parts of the wreckage as makeshift stretchers.",
+      "source": "NYT"
+    },
+    {
+      "title": "RFK Jr. to Allow Broad Use of Unapproved Peptide Injections",
+      "link": "https://www.nytimes.com/2026/10/28/health/peptides-kennedy-fda.html",
+      "pubDate": "2026-10-28T17:05:05.000Z",
+      "image": "https://static01.nyt.com/images/2026/10/28/multimedia/00DC-Peptides-mpjh/00DC-Peptides-mpjh-mediumSquareAt3X.jpg",
       "author": "Christina Jewett",
-      "excerpt": "Health officials will now allow some levels of a powerful substance to remain in products marketed as natural. The change could help a G.O.P. donor facing wrongful death lawsuits.",
+      "excerpt": "In a unilateral declaration by the health secretary, several injections promoted by online influencers will become widely available. The F.D.A. had advised against the move.",
+      "source": "NYT"
+    },
+    {
+      "title": "Dolores Huerta, Who Founded United Farm Workers With Cesar Chavez, Dies",
+      "link": "https://www.nytimes.com/2026/10/28/us/dolores-huerta-dead.html",
+      "pubDate": "2026-10-28T16:49:27.000Z",
+      "image": "https://static01.nyt.com/images/2022/01/25/obituaries/00Huerta-01/00Huerta-01-mediumSquareAt3X.jpg",
+      "author": "Robert D. McFadden",
+      "excerpt": "She founded the United Farm Workers with Cesar Chavez. In early 2026, she told The Times that she had been raped by him decades earlier. She was 96.",
+      "source": "NYT"
+    },
+    {
+      "title": "What We Know About the Deadly Train Crash in Spain",
+      "link": "https://www.nytimes.com/2026/10/28/world/europe/train-crash-spain.html",
+      "pubDate": "2026-10-28T16:41:58.000Z",
+      "image": "https://static01.nyt.com/images/2026/10/28/multimedia/28xp-spain-wtk-swap-bkmc/28xp-spain-wtk-swap-bkmc-mediumSquareAt3X.jpg",
+      "author": "Jonathan Wolfe",
+      "excerpt": "A train accident near Toledo, Spain, which killed at least 68 people, was one of the deadliest in the country’s history.",
+      "source": "NYT"
+    },
+    {
+      "title": "Brain Disease Is Pervasive in N.F.L., New Estimate Suggests",
+      "link": "https://www.nytimes.com/2026/10/28/science/brain-disease-cte-nfl-football.html",
+      "pubDate": "2026-10-28T16:31:14.000Z",
+      "image": "https://static01.nyt.com/images/2026/10/28/science/28SCI-CTE-BRAINBANK/28SCI-CTE-BRAINBANK-mediumSquareAt3X.jpg",
+      "author": "Carolyn Y. Johnson and John Branch",
+      "excerpt": "Using statistical techniques, a new study has arrived at a harrowing estimate: Three of four retired pro football players most likely had C.T.E. at death.",
+      "source": "NYT"
+    },
+    {
+      "title": "Inside Democrats’ Secret Effort to Stack Alaska’s Midterm Ballot With Another Dan Sullivan",
+      "link": "https://www.nytimes.com/2026/10/28/us/politics/alaska-dan-sullivan-conspiracy-peltola.html",
+      "pubDate": "2026-10-28T14:37:47.000Z",
+      "image": "https://static01.nyt.com/images/2026/10/26/multimedia/pol-alaska-ballot-01-tpwm/pol-alaska-ballot-01-tpwm-mediumSquareAt3X-v4.jpg",
+      "author": "Kellen Browning",
+      "excerpt": "Operatives aligned with Mary Peltola, the Democratic nominee for Senate, spent months recruiting candidates to peel votes from Senator Dan Sullivan, the Republican.",
+      "source": "NYT"
+    },
+    {
+      "title": "4 Takeaways From Israel’s Election",
+      "link": "https://www.nytimes.com/2026/10/28/world/middleeast/israel-election-vote-results-takeaways.html",
+      "pubDate": "2026-10-28T14:10:53.000Z",
+      "image": "https://static01.nyt.com/images/2026/10/28/multimedia/28int-israel-takeaways-promo-1-gfmt/28int-israel-takeaways-promo-1-gfmt-mediumSquareAt3X.jpg",
+      "author": "David M. Halbfinger",
+      "excerpt": "Votes are still being counted, and much is in flux. But as the stage was set for bitter talks over forming a government, nearly all sides could face disappointment.",
       "source": "NYT"
     },
     {
@@ -955,151 +1036,25 @@
       "pubDate": "2026-10-28T11:06:22.000Z",
       "image": "https://static01.nyt.com/images/2026/10/28/multimedia/28themorning-anthropic2-gckm/28themorning-anthropic2-gckm-mediumSquareAt3X.jpg",
       "author": "Sam Sifton",
-      "excerpt": "Intro TK: minus “good morning”",
+      "excerpt": "Plus, Israel’s election, Flávio Bolsonaro and a Gen Z cookbook.",
       "source": "NYT"
     },
     {
-      "title": "For Israel’s Neighbors in Middle East, the Election Offers Little Hope of a Reset",
-      "link": "https://www.nytimes.com/2026/10/28/world/middleeast/israel-election-middle-east-relations.html",
-      "pubDate": "2026-10-28T10:45:04.000Z",
-      "image": "https://static01.nyt.com/images/2026/10/28/multimedia/28israel-arab-world-zptj/28israel-arab-world-zptj-mediumSquareAt3X.jpg",
-      "author": "Christina Goldbaum",
-      "excerpt": "Few countries in the Middle East expect a turning point in relations with Israel. But the outcome of the vote has implications for the regional conflict with Iran.",
-      "source": "NYT"
-    },
-    {
-      "title": "Flávio Bolsonaro Leaves Brazil for the U.S. After Election Defeat",
-      "link": "https://www.nytimes.com/2026/10/27/world/americas/brazil-flavio-bolsonaro-flees-election.html",
-      "pubDate": "2026-10-28T10:43:41.000Z",
-      "image": "https://static01.nyt.com/images/2026/10/27/multimedia/27int-brazil-bolsonaro-flight-jtzq/27int-brazil-bolsonaro-flight-jtzq-mediumSquareAt3X.jpg",
-      "author": "Ana Ionova, Edward Wong and Thayz Guimarães",
-      "excerpt": "Officials in Argentina said Mr. Bolsonaro entered the country by land then flew to Ecuador. Brazilian police had asked him to hand over his passports because of his links to an investigation.",
-      "source": "NYT"
-    },
-    {
-      "title": "Flávio Bolsonaro Flees Brazil for the U.S., and How ChatGPT Laid Out a Dangerous Medical Plan",
-      "link": "https://www.nytimes.com/2026/10/28/podcasts/the-headlines/bolsonaro-brazil-chatgpt-medical-plan.html",
-      "pubDate": "2026-10-28T10:00:07.000Z",
-      "image": "https://static01.nyt.com/images/2026/10/28/multimedia/28theheadlines-bolsonaro-03-vgbz/28theheadlines-bolsonaro-03-vgbz-mediumSquareAt3X.jpg",
-      "author": "Tracy Mumford, Will Jarvis, Margaret Kadifa, Jake Lucas, Teddy Rosenbluth and Kashmir Hill",
-      "excerpt": "Plus, robot-dog walkers wanted: $20 an hour.",
-      "source": "NYT"
-    },
-    {
-      "title": "The Federal Reserve Will Release Its Interest Rate Decision Today. Here’s What to Watch.",
-      "link": "https://www.nytimes.com/2026/10/28/business/federal-reserve-interest-rates.html",
-      "pubDate": "2026-10-28T09:05:48.000Z",
-      "image": "https://static01.nyt.com/images/2026/10/28/multimedia/28dc-fed-preview--01-gbkp/28dc-fed-preview--01-gbkp-mediumSquareAt3X.jpg",
-      "author": "Colby Smith",
-      "excerpt": "The central bank is widely expected to hold interest rates steady on Wednesday, just days before the midterm elections.",
-      "source": "NYT"
-    },
-    {
-      "title": "Heavily Republican South Carolina’s Senate Race Is a Tossup, Poll Finds",
-      "link": "https://www.nytimes.com/2026/10/28/us/south-carolina-florida-minnesota-poll.html",
-      "pubDate": "2026-10-28T09:05:43.000Z",
-      "image": "https://static01.nyt.com/images/2026/10/27/multimedia/2026-10-23-fl-mn-sc-index/2026-10-23-fl-mn-sc-index-mediumSquareAt3X-v3.png",
-      "author": "Patricia Mazzei and Ruth Igielnik",
-      "excerpt": "Senator Darline Graham, the South Carolina Republican, is struggling to replicate her late brother’s success. Republicans lead in the Florida Senate race and Democrats are up in Minnesota.",
-      "source": "NYT"
-    },
-    {
-      "title": "How to Tax and Spend in a ‘Turbulent Time?’ U.K. Tries a Balancing Act.",
-      "link": "https://www.nytimes.com/2026/10/28/business/uk-budget-chancellor-healey.html",
-      "pubDate": "2026-10-28T09:05:37.000Z",
-      "image": "https://static01.nyt.com/images/2026/10/28/multimedia/28biz-uk-budget-01-jfbc/28biz-uk-budget-01-jfbc-mediumSquareAt3X.jpg",
-      "author": "Eshe Nelson",
-      "excerpt": "The new government, led by Andy Burnham, will deliver its first budget on Wednesday, a plan expected to tread between wide ambition and narrow financial limits.",
-      "source": "NYT"
-    },
-    {
-      "title": "A Punishing Housing Market Is Squeezing Renters",
-      "link": "https://www.nytimes.com/2026/10/28/business/housing-market-rent-pressure.html",
-      "pubDate": "2026-10-28T09:05:30.000Z",
-      "image": "https://static01.nyt.com/images/2026/10/28/multimedia/28biz-rents-vbmw/28biz-rents-vbmw-mediumSquareAt3X.jpg",
-      "author": "Sydney Ember",
-      "excerpt": "Higher mortgage rates and slowing residential construction are again giving landlords the upper hand.",
-      "source": "NYT"
-    },
-    {
-      "title": "The U.S. Attorneys Carrying Out Trump’s Election and Grievance Cases",
-      "link": "https://www.nytimes.com/2026/10/28/us/politics/trump-us-attorneys-elections-protests-cases.html",
-      "pubDate": "2026-10-28T09:02:47.000Z",
-      "image": "https://static01.nyt.com/images/2026/09/29/multimedia/DC-MAGA-ATTORNEYS-ESSAYLI-2-kbqt/DC-MAGA-ATTORNEYS-ESSAYLI-2-kbqt-mediumSquareAt3X.jpg",
-      "author": "Devlin Barrett",
-      "excerpt": "Together, they have pursued cases against the president’s enemies and protesters and amplified false claims of widespread election fraud, often citing thin evidence.",
-      "source": "NYT"
-    },
-    {
-      "title": "The Perfect Books for Classic Horror Movie Fans",
-      "link": "https://www.nytimes.com/2026/10/28/books/horror-movie-books.html",
-      "pubDate": "2026-10-28T09:00:55.000Z",
-      "image": "https://static01.nyt.com/images/2026/11/01/books/01TBR-HorrorList-MEDINA-Sub01/01TBR-HorrorList-MEDINA-Sub01-mediumSquareAt3X.jpg",
-      "author": "Nick Medina",
-      "excerpt": "The author Nick Medina recommends novels that capture the vibes of beloved scary movies like “The Thing,” “Scream” and more.",
-      "source": "NYT"
-    },
-    {
-      "title": "Horror Bookstores Are (Gasp!) Multiplying",
-      "link": "https://www.nytimes.com/2026/10/28/books/review/horror-bookstores-growth.html",
-      "pubDate": "2026-10-28T09:00:47.000Z",
-      "image": "https://static01.nyt.com/images/2026/10/28/multimedia/28tbr-horror-bookstores-02-tbqf/28tbr-horror-bookstores-02-tbqf-mediumSquareAt3X.jpg",
-      "author": "Erik Piepenburg",
-      "excerpt": "More shops are opening their doors, providing genre fans the chance to browse, buy and find creepy community.",
-      "source": "NYT"
-    },
-    {
-      "title": "Justice Dept. Declines to Unseal Warrant for Search of Ilhan Omar’s Home",
-      "link": "https://www.nytimes.com/2026/10/28/us/politics/ilhan-omar-doj-search-warrant.html",
-      "pubDate": "2026-10-28T08:58:07.000Z",
-      "image": "https://static01.nyt.com/images/2026/10/28/multimedia/28xp-omar-pcfj/28xp-omar-pcfj-mediumSquareAt3X.jpg",
-      "author": "Francesca Regalado",
-      "excerpt": "More than a dozen news organizations have asked a federal judge to unseal documents related to a search warrant executed at Ms. Omar’s home this month.",
-      "source": "NYT"
-    },
-    {
-      "title": "Jimmy Kimmel Turns Trump Heckler’s Taunt Into a T-Shirt",
-      "link": "https://www.nytimes.com/2026/10/28/arts/television/jimmy-kimmel-trump-heckler.html",
-      "pubDate": "2026-10-28T06:12:48.000Z",
+      "title": "Byron Donalds Holds Slim Lead in Florida’s Race for Governor",
+      "link": "https://www.nytimes.com/2026/10/28/us/politics/governors-poll-florida-south-carolina-minnesota.html",
+      "pubDate": "2026-10-28T09:05:53.000Z",
       "image": null,
-      "author": "Trish Bendix",
-      "excerpt": "Kimmel was inspired after the president’s “‘Tone-Deaf Comedy Jam’ got tripped up by a heckler.”",
+      "author": "Emily Cochrane and Ruth Igielnik",
+      "excerpt": "New polls in Florida, South Carolina and Minnesota illuminate the head winds that Republicans are facing.",
       "source": "NYT"
     },
     {
-      "title": "A Chinese Port Could Be a Lifeline for Spain, but Also a Threat",
-      "link": "https://www.nytimes.com/2026/10/28/world/europe/spain-saic-ferrol-china.html",
-      "pubDate": "2026-10-28T04:01:09.000Z",
-      "image": "https://static01.nyt.com/images/2026/10/28/multimedia/28int-spain-china-01-bckv/28int-spain-china-01-bckv-mediumSquareAt3X.jpg",
-      "author": "Jason Horowitz",
-      "excerpt": "Residents say a proposed Chinese car plant in northern Spain will create new jobs. Others say it’s a long-term risk, distilling a debate about the costs and perks of ties to China.",
-      "source": "NYT"
-    },
-    {
-      "title": "Grand Jury Declines to Bring Charges Against Cassidy Hutchinson",
-      "link": "https://www.nytimes.com/2026/10/27/us/politics/cassidy-hutchinson-indicted-trump-testimony.html",
-      "pubDate": "2026-10-28T02:21:11.000Z",
-      "image": "https://static01.nyt.com/images/2026/10/12/multimedia/00dc-hutchinson-pzqb/00dc-hutchinson-pzqb-mediumSquareAt3X-v2.jpg",
-      "author": "Michael S. Schmidt, Alan Feuer and Glenn Thrush",
-      "excerpt": "The rejection of the indictment was the latest extraordinary setback in President Trump’s wide-ranging campaign to go after his political opponents.",
-      "source": "NYT"
-    },
-    {
-      "title": "Justice Dept. Steps Up Moves on Comey and Others as Midterm Elections Near",
-      "link": "https://www.nytimes.com/2026/10/27/us/politics/trump-blanche-elections-comey.html",
-      "pubDate": "2026-10-28T00:15:54.000Z",
-      "image": "https://static01.nyt.com/images/2026/10/27/us/27dc-justice/27dc-justice-mediumSquareAt3X.jpg",
-      "author": "Glenn Thrush, Alan Feuer and Devlin Barrett",
-      "excerpt": "In some cases, court paperwork bears unmistakable signs of urgency — typos, unorthodox tactics and the signatures of the department’s senior political leadership.",
-      "source": "NYT"
-    },
-    {
-      "title": "California’s High Tides Set Records This Week. They’re Going to Get Higher.",
-      "link": "https://www.nytimes.com/2026/10/27/weather/king-tides-california-la-sf.html",
-      "pubDate": "2026-10-27T22:33:06.000Z",
-      "image": "https://static01.nyt.com/images/2026/10/27/multimedia/27wea-tides-vmhk/27wea-tides-vmhk-mediumSquareAt3X-v2.jpg",
-      "author": "Amy Graff and Soumya Karlamangla",
-      "excerpt": "El Niño is expected to push this winter’s high tides even higher.",
+      "title": "Do You Have Questions About the U.S. Midterm Elections?",
+      "link": "https://www.nytimes.com/2026/10/27/world/americas/callout-reader-questions-us-midterm-elections.html",
+      "pubDate": "2026-10-27T19:01:44.000Z",
+      "image": null,
+      "author": "Katrin Bennhold",
+      "excerpt": "We want to hear from you.",
       "source": "NYT"
     }
   ]
