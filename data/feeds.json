@@ -1,6 +1,42 @@
 {
   "spaceNews": [
     {
+      "title": "Untied Launch Alliance announces mid-November return to flight for Vulcan rocket",
+      "link": "https://spaceflightnow.com/2026/10/28/untied-launch-alliance-announces-mid-november-return-to-flight-for-vulcan-rocket/",
+      "pubDate": "2026-10-28T22:46:41.000Z",
+      "image": "https://spaceflightnow.com/wp-content/uploads/2026/10/20261028-Vulcan-Leo-1-Fairing.jpg",
+      "author": "Will Robinson-Smith",
+      "excerpt": "The anticipated launch will be the first for the heavy-lift rocket since a mid-flight nozzle failure on a solid rocket booster. The rocket will carry 40 Amazon Leo satellites to orbit.",
+      "source": "Spaceflight Now"
+    },
+    {
+      "title": "NASA Welcomes Vietnam as Newest Artemis Accords Signatory ",
+      "link": "https://www.nasa.gov/organizations/oiir/nasa-welcomes-vietnam-as-newest-artemis-accords-signatory/",
+      "pubDate": "2026-10-28T21:50:01.000Z",
+      "image": "https://www.nasa.gov/wp-content/uploads/2026/10/artemis-accords-vietnam-78-102826.jpg?w=2048",
+      "author": "Elizabeth Shaw",
+      "excerpt": "The Socialist Republic of Vietnam became the 78th nation to sign the Artemis Accords, joining a growing coalition of like-minded nations committed to the peaceful, transparent, and responsible exploration of space. “Vietnam is joining at an important point in the development of its own space program,” said NASA Deputy ",
+      "source": "NASA"
+    },
+    {
+      "title": "NASA nears end of space station solar array upgrade with Oct. 29 and Nov. 5 spacewalks",
+      "link": "https://spaceflightnow.com/2026/10/28/nasa-nears-end-of-space-station-solar-array-upgrade-with-oct-29-and-nov-5-spacewalks/",
+      "pubDate": "2026-10-28T21:03:33.000Z",
+      "image": "https://spaceflightnow.com/wp-content/uploads/2026/10/20261028-IROSA-Install-3.jpg",
+      "author": "Houston Harwood",
+      "excerpt": "NASA is two spacewalks away from completing a major, years-long upgrade to the International Space Station that will power the orbiting lab through to its planned decommissioning in 2030.",
+      "source": "Spaceflight Now"
+    },
+    {
+      "title": "Artemis III SLS Core Stage Joins Boosters at Kennedy",
+      "link": "https://www.nasa.gov/image-article/artemis-iii-sls-core-stage-joins-boosters-at-kennedy/",
+      "pubDate": "2026-10-28T18:59:44.000Z",
+      "image": "https://images-assets.nasa.gov/image/KSC-20261022-PH-SNC01_0001/KSC-20261022-PH-SNC01_0001~large.jpg?w=1920&amp;h=1371&amp;fit=clip&amp;crop=faces%2Cfocalpoint",
+      "author": "Tiffany L. Fairley",
+      "excerpt": "NASA’s Artemis III SLS (Space Launch System) core stage is integrated alongside the twin solid rocket boosters on Oct. 28 inside the Vehicle Assembly Building’s High Bay 3 at NASA’s Kennedy Space Center in Florida. Technicians lifted the 212-foot rocket stage from the facility’s High Bay 2 using a one-of-a kind lifting",
+      "source": "NASA"
+    },
+    {
       "title": "NASA University Challenge Ignites Trajectory of Drone Entrepreneur",
       "link": "https://www.nasa.gov/aeronautics/nasa-challenge-drone-entrepreneur/",
       "pubDate": "2026-10-28T18:00:28.000Z",
@@ -78,7 +114,7 @@
       "pubDate": "2026-10-28T04:05:00.000Z",
       "image": null,
       "author": "",
-      "excerpt": "APOD Science APOD APOD: 2026 October 28 – The… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professio",
+      "excerpt": "APODScienceAPODAPOD: 2026 October 28 – The…Today’s APODArchiveSubmissionsIndexSearchCalendarRSSEducationAboutDiscuss APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronome",
       "source": "NASA"
     },
     {
@@ -152,24 +188,6 @@
       "author": "Craft Prospect",
       "excerpt": "Craft Prospect is working with Fraunhofer Centre for Applied Photonics (Fraunhofer CAP) and Vector Photonics on a new project exploring the potential of next-generation laser technology for high-performance optical communications […] The post Craft Prospect kicks off PERSEUS project to advance optical communications fo",
       "source": "SpaceNews"
-    },
-    {
-      "title": "How a Johnson Mentor Shapes the Next Generation of NASA Talent ",
-      "link": "https://www.nasa.gov/general/how-a-johnson-mentor-shapes-the-next-generation-of-nasa-talent/",
-      "pubDate": "2026-10-27T07:07:51.000Z",
-      "image": "https://www.nasa.gov/wp-content/uploads/2026/10/image.jpg?w=1536",
-      "author": "Sumer Loggins",
-      "excerpt": "When Rice University student Malvika Bhardwaj asked her mentor Daniel Cohen, a Guidance, Navigation & Control (GN&C) engineer at NASA’s Johnson Space Center, whether he had time to keep teaching interns with his busy workload, he answered, “You decide what’s important.” In honor of National Mentoring Day on Oct. 27, Bh",
-      "source": "NASA"
-    },
-    {
-      "title": "APOD: 2026 October 27 – Noctilucent Clouds over Sweden",
-      "link": "https://science.nasa.gov/image-article/apod-2026-october-27-noctilucent-clouds-over-sweden/",
-      "pubDate": "2026-10-27T04:05:00.000Z",
-      "image": "https://assets.science.nasa.gov/dynamicimage/assets/science/cds/apod/apod/2026/october/NocClouds_Hofer_6048.jpg?w=2048&#038;h=1365&#038;fit=clip&#038;crop=faces%2Cfocalpoint",
-      "author": "",
-      "excerpt": "APOD Science APOD APOD: 2026 October 27 –… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional ",
-      "source": "NASA"
     },
     {
       "title": "Cowboy Space Reveals Big Iron Data Center Rocket ",
@@ -577,15 +595,6 @@
       "source": "Astronomy Magazine"
     },
     {
-      "title": "SpaceX launches 21 data satellites for the Space Development Agency",
-      "link": "https://spaceflightnow.com/2026/10/09/spacex-to-make-another-attempt-to-launch-21-data-satellites-for-space-development-agency/",
-      "pubDate": "2026-10-09T21:41:30.000Z",
-      "image": "https://spaceflightnow.com/wp-content/uploads/2026/10/20261010-F9-Launch-Quick.jpg",
-      "author": "Spaceflight Now",
-      "excerpt": "Liftoff of the Falcon 9 rocket from Vandenberg Space Force Base in California carrying satellites for the Space Development Agency’s Proliferated Warfighter Space Architecture constellation came at 12:39 a.m. PDT (3:39 EDT / 0739 UTC).",
-      "source": "Spaceflight Now"
-    },
-    {
       "title": "Two large asteroids found spinning as fast as a fairground ride",
       "link": "https://www.newscientist.com/article/2593044-two-large-asteroids-found-spinning-as-fast-as-fairground-ride/?utm_campaign=RSS|NSNS&utm_content=space&utm_medium=RSS&utm_source=NSNS",
       "pubDate": "2026-10-09T17:00:00.000Z",
@@ -638,15 +647,6 @@
       "author": "Leah Crane",
       "excerpt": "Near the centre of the Milky Way, a swarm of stars hurtles around a supermassive black hole at extraordinary speeds. Studying them could be the key to understanding our galaxy",
       "source": "New Scientist"
-    },
-    {
-      "title": "SpaceX scrubs launch attempt for 21 data transport satellites for the Space Development Agency",
-      "link": "https://spaceflightnow.com/2026/10/04/live-coverage-spacex-to-launch-21-data-transport-satellites-for-the-space-development-agency/",
-      "pubDate": "2026-10-04T20:33:26.000Z",
-      "image": "https://spaceflightnow.com/wp-content/uploads/2026/10/20261005_T1TL-A_scrub.jpg",
-      "author": "Will Robinson-Smith",
-      "excerpt": "The Tranche 1 Transporter Layer A mission is the fourth flight supporting the Space Development Agency’s Proliferated Warfighter Space Architecture constellation. The next launch attempt could come as soon as Saturday.",
-      "source": "Spaceflight Now"
     },
     {
       "title": "AFAS offers childcare assistance to Air Force, Space Force families ",
@@ -896,21 +896,93 @@
   ],
   "nytNews": [
     {
-      "title": "A Punishing Housing Market Is Squeezing Renters",
-      "link": "https://www.nytimes.com/2026/10/28/business/housing-market-rent-pressure.html",
-      "pubDate": "2026-10-28T18:43:54.000Z",
-      "image": "https://static01.nyt.com/images/2026/10/28/multimedia/28biz-rents-vbmw/28biz-rents-vbmw-mediumSquareAt3X.jpg",
-      "author": "Sydney Ember",
-      "excerpt": "Higher mortgage rates and slowing residential construction are again giving landlords the upper hand.",
+      "title": "Flávio Bolsonaro Lands in Miami After Fleeing Brazil",
+      "link": "https://www.nytimes.com/2026/10/28/world/americas/flavio-bolsonaro-us-miami-brazil-trump.html",
+      "pubDate": "2026-10-28T23:04:44.000Z",
+      "image": "https://static01.nyt.com/images/2026/10/28/multimedia/28int-bolsonaro-flight-fqlp/28int-bolsonaro-flight-fqlp-mediumSquareAt3X.jpg",
+      "author": "Ana Ionova, Edward Wong, Alice Maciel and Lucía Cholakian Herrera",
+      "excerpt": "Mr. Bolsonaro, who lost Sunday’s presidential election, fled Brazil for the United States via Argentina after the police canceled his passport in relation to an investigation.",
       "source": "NYT"
     },
     {
-      "title": "Apple Unveils Its First Touch-Screen MacBook Pro",
-      "link": "https://www.nytimes.com/2026/10/28/technology/apple-touch-screen-macbook-pro.html",
-      "pubDate": "2026-10-28T18:30:51.000Z",
-      "image": "https://static01.nyt.com/images/2026/10/28/multimedia/APPLE-1-lcgk/APPLE-1-lcgk-mediumSquareAt3X.jpg",
-      "author": "Kalley Huang and Brian X. Chen",
-      "excerpt": "Steve Jobs and Tim Cook both dismissed the idea, but Apple’s new chief executive is reimagining some of the company’s most important products.",
+      "title": "Cornell Faculty Senate Moves Ahead With No-Confidence Vote Over Handling of Rape Case",
+      "link": "https://www.nytimes.com/2026/10/28/nyregion/cornell-faculty-no-confidence-vote.html",
+      "pubDate": "2026-10-28T23:02:51.000Z",
+      "image": "https://static01.nyt.com/images/2026/10/28/multimedia/28met-cornell-senate-bfwz/28met-cornell-senate-bfwz-mediumSquareAt3X.jpg",
+      "author": "Sharon Otterman",
+      "excerpt": "After fierce debate, faculty members will begin voting Thursday on a resolution to condemn the administration’s handling of campus sexual assault.",
+      "source": "NYT"
+    },
+    {
+      "title": "Atlanta’s Mayor Walked Away After Covid Chaos. Will Voters Make Her Georgia’s Governor?",
+      "link": "https://www.nytimes.com/2026/10/28/us/politics/keisha-lance-bottoms-atlanta-mayor.html",
+      "pubDate": "2026-10-28T22:44:59.000Z",
+      "image": "https://static01.nyt.com/images/2026/10/28/multimedia/00nat-bottoms-atlanta-01-fpct/00nat-bottoms-atlanta-01-fpct-mediumSquareAt3X.jpg",
+      "author": "Rick Rojas and Sean Keenan",
+      "excerpt": "Keisha Lance Bottoms, in her bid for Georgia governor, has faced pointed criticism of her leadership in Atlanta and disappointment in her decision to leave after one term.",
+      "source": "NYT"
+    },
+    {
+      "title": "Weil Gotshal, Once a Legal Powerhouse, Plans to Dissolve",
+      "link": "https://www.nytimes.com/2026/10/28/business/weil-gotshal-law-firm.html",
+      "pubDate": "2026-10-28T21:57:33.000Z",
+      "image": "https://static01.nyt.com/images/2026/10/28/multimedia/28biz-Weil-Gotshal-qhwl/28biz-Weil-Gotshal-qhwl-mediumSquareAt3X.jpg",
+      "author": "Lauren Hirsch",
+      "excerpt": "The prominent law firm has been rocked by an exodus of high-profile lawyers, a failed succession plan and a scuttled deal to merge with a rival firm.",
+      "source": "NYT"
+    },
+    {
+      "title": "Worried About A.I. Taking Your Job? This Is for You.",
+      "link": "https://www.nytimes.com/2026/10/28/opinion/ai-job-replacement-unions-san-francisco.html",
+      "pubDate": "2026-10-28T21:45:40.000Z",
+      "image": null,
+      "author": "Jillian Weinberger, Binyamin Appelbaum and Steph Khoury",
+      "excerpt": "We can learn a lot from a long-dead labor leader about how to reckon with technology that threatens our jobs.",
+      "source": "NYT"
+    },
+    {
+      "title": "A Ballot-Stacking Effort in Alaska",
+      "link": "https://www.nytimes.com/2026/10/28/briefing/alaska-ballot-stacking-horror-bookshops.html",
+      "pubDate": "2026-10-28T21:40:48.000Z",
+      "image": "https://static01.nyt.com/images/2026/10/28/multimedia/28evening-nl-alaska-dems-zclv/28evening-nl-alaska-dems-zclv-mediumSquareAt3X.jpg",
+      "author": "Matthew Cullen",
+      "excerpt": "Also, Life magazine rises again. Here’s the latest at the end of Wednesday.",
+      "source": "NYT"
+    },
+    {
+      "title": "CNN, MS Now and Politico Update Lawsuit Against Trump Over White House Access",
+      "link": "https://www.nytimes.com/2026/10/28/business/media/cnn-ms-now-politico-white-house-lawsuit.html",
+      "pubDate": "2026-10-28T20:47:13.000Z",
+      "image": "https://static01.nyt.com/images/2026/10/27/multimedia/00biz-cnn-lawsuit-cwzm/00biz-cnn-lawsuit-cwzm-mediumSquareAt3X.jpg",
+      "author": "Erik Wemple",
+      "excerpt": "The news outlets argued in an updated lawsuit that they should be granted access to the White House reporting pools.",
+      "source": "NYT"
+    },
+    {
+      "title": "How André Janones Helped Turbocharge Lula’s Comeback in Brazil’s Election",
+      "link": "https://www.nytimes.com/2026/10/28/world/americas/andre-janones-whatsapp-lula-brazil-election.html",
+      "pubDate": "2026-10-28T20:35:54.000Z",
+      "image": "https://static01.nyt.com/images/2026/10/28/multimedia/00brazil-election-influencer-promo/00brazil-election-influencer-cbkz-mediumSquareAt3X.jpg",
+      "author": "Adam B. Ellick and Victor Moriyama",
+      "excerpt": "With street talk and tactics from the far-right’s playbook, André Janones used a WhatsApp channel to help organize millions of Brazilians online.",
+      "source": "NYT"
+    },
+    {
+      "title": "Spain Train Crash Kills at Least 68",
+      "link": "https://www.nytimes.com/2026/10/28/world/europe/spain-train-crash-rescue-victims.html",
+      "pubDate": "2026-10-28T20:26:04.000Z",
+      "image": "https://static01.nyt.com/images/2026/10/28/multimedia/28int-spain-train-2-gbkt/28int-spain-train-2-gbkt-mediumSquareAt3X.jpg",
+      "author": "Jason Horowitz, José Bautista and Carlos Barragán",
+      "excerpt": "The accident, the second in less than a year on the same busy rail line, was one of the deadliest in the country’s history.",
+      "source": "NYT"
+    },
+    {
+      "title": "Dolores Huerta, Who Founded United Farm Workers With Cesar Chavez, Dies",
+      "link": "https://www.nytimes.com/2026/10/28/us/dolores-huerta-dead.html",
+      "pubDate": "2026-10-28T19:31:00.000Z",
+      "image": "https://static01.nyt.com/images/2022/01/25/obituaries/00Huerta-01/00Huerta-01-mediumSquareAt3X.jpg",
+      "author": "Robert D. McFadden",
+      "excerpt": "She founded the United Farm Workers with Cesar Chavez. In early 2026, she told The Times that she had been raped by him decades earlier. She was 96.",
       "source": "NYT"
     },
     {
@@ -920,24 +992,6 @@
       "image": "https://static01.nyt.com/images/2026/11/08/magazine/08mag-podcasts-03/08mag-podcasts-03-mediumSquareAt3X.jpg",
       "author": "Wesley Morgan",
       "excerpt": "Veterans’ complaints about the rules of engagement have reached Pete Hegseth and a generation of new recruits.",
-      "source": "NYT"
-    },
-    {
-      "title": "Trump Cannot Be the End of the Story",
-      "link": "https://www.nytimes.com/2026/10/28/opinion/trump-law-lawlessness-presidency-congress.html",
-      "pubDate": "2026-10-28T18:05:19.000Z",
-      "image": "https://static01.nyt.com/images/2026/10/28/multimedia/28bouie-mjcf/28bouie-mjcf-mediumSquareAt3X.jpg",
-      "author": "Jamelle Bouie",
-      "excerpt": "Trump has no use for pretense and he’s not interested in playing along.",
-      "source": "NYT"
-    },
-    {
-      "title": "Flávio Bolsonaro Lands in Miami After Fleeing Brazil",
-      "link": "https://www.nytimes.com/2026/10/28/world/americas/flavio-bolsonaro-us-miami-brazil-trump.html",
-      "pubDate": "2026-10-28T17:56:15.000Z",
-      "image": "https://static01.nyt.com/images/2026/10/28/multimedia/28int-bolsonaro-flight-fqlp/28int-bolsonaro-flight-fqlp-mediumSquareAt3X.jpg",
-      "author": "Ana Ionova, Edward Wong, Alice Maciel and Lucía Cholakian Herrera",
-      "excerpt": "Mr. Bolsonaro, who lost Sunday’s presidential election, fled Brazil for the United States via Argentina after the police canceled his passport in relation to an investigation.",
       "source": "NYT"
     },
     {
@@ -968,48 +1022,12 @@
       "source": "NYT"
     },
     {
-      "title": "Spain Crash Survivor Describes a ‘Twisted Tangle of Metal’",
-      "link": "https://www.nytimes.com/2026/10/28/world/europe/spain-train-crash-survivor.html",
-      "pubDate": "2026-10-28T17:29:29.000Z",
-      "image": "https://static01.nyt.com/images/2026/10/28/multimedia/28spain-crash-passenger-lqtk/28spain-crash-passenger-lqtk-mediumSquareAt3X.jpg",
-      "author": "Carlos Barragán",
-      "excerpt": "Fernando Seco, 62, said he and others moved at least a dozen wounded passengers from the crash site, using parts of the wreckage as makeshift stretchers.",
-      "source": "NYT"
-    },
-    {
       "title": "RFK Jr. to Allow Broad Use of Unapproved Peptide Injections",
       "link": "https://www.nytimes.com/2026/10/28/health/peptides-kennedy-fda.html",
       "pubDate": "2026-10-28T17:05:05.000Z",
       "image": "https://static01.nyt.com/images/2026/10/28/multimedia/00DC-Peptides-mpjh/00DC-Peptides-mpjh-mediumSquareAt3X.jpg",
       "author": "Christina Jewett",
       "excerpt": "In a unilateral declaration by the health secretary, several injections promoted by online influencers will become widely available. The F.D.A. had advised against the move.",
-      "source": "NYT"
-    },
-    {
-      "title": "Dolores Huerta, Who Founded United Farm Workers With Cesar Chavez, Dies",
-      "link": "https://www.nytimes.com/2026/10/28/us/dolores-huerta-dead.html",
-      "pubDate": "2026-10-28T16:49:27.000Z",
-      "image": "https://static01.nyt.com/images/2022/01/25/obituaries/00Huerta-01/00Huerta-01-mediumSquareAt3X.jpg",
-      "author": "Robert D. McFadden",
-      "excerpt": "She founded the United Farm Workers with Cesar Chavez. In early 2026, she told The Times that she had been raped by him decades earlier. She was 96.",
-      "source": "NYT"
-    },
-    {
-      "title": "What We Know About the Deadly Train Crash in Spain",
-      "link": "https://www.nytimes.com/2026/10/28/world/europe/train-crash-spain.html",
-      "pubDate": "2026-10-28T16:41:58.000Z",
-      "image": "https://static01.nyt.com/images/2026/10/28/multimedia/28xp-spain-wtk-swap-bkmc/28xp-spain-wtk-swap-bkmc-mediumSquareAt3X.jpg",
-      "author": "Jonathan Wolfe",
-      "excerpt": "A train accident near Toledo, Spain, which killed at least 68 people, was one of the deadliest in the country’s history.",
-      "source": "NYT"
-    },
-    {
-      "title": "Brain Disease Is Pervasive in N.F.L., New Estimate Suggests",
-      "link": "https://www.nytimes.com/2026/10/28/science/brain-disease-cte-nfl-football.html",
-      "pubDate": "2026-10-28T16:31:14.000Z",
-      "image": "https://static01.nyt.com/images/2026/10/28/science/28SCI-CTE-BRAINBANK/28SCI-CTE-BRAINBANK-mediumSquareAt3X.jpg",
-      "author": "Carolyn Y. Johnson and John Branch",
-      "excerpt": "Using statistical techniques, a new study has arrived at a harrowing estimate: Three of four retired pro football players most likely had C.T.E. at death.",
       "source": "NYT"
     },
     {
@@ -1031,30 +1049,12 @@
       "source": "NYT"
     },
     {
-      "title": "A.I. by the Numbers",
-      "link": "https://www.nytimes.com/2026/10/28/briefing/ai-by-the-numbers.html",
-      "pubDate": "2026-10-28T11:06:22.000Z",
-      "image": "https://static01.nyt.com/images/2026/10/28/multimedia/28themorning-anthropic2-gckm/28themorning-anthropic2-gckm-mediumSquareAt3X.jpg",
-      "author": "Sam Sifton",
-      "excerpt": "Plus, Israel’s election, Flávio Bolsonaro and a Gen Z cookbook.",
-      "source": "NYT"
-    },
-    {
       "title": "Byron Donalds Holds Slim Lead in Florida’s Race for Governor",
       "link": "https://www.nytimes.com/2026/10/28/us/politics/governors-poll-florida-south-carolina-minnesota.html",
       "pubDate": "2026-10-28T09:05:53.000Z",
       "image": null,
       "author": "Emily Cochrane and Ruth Igielnik",
       "excerpt": "New polls in Florida, South Carolina and Minnesota illuminate the head winds that Republicans are facing.",
-      "source": "NYT"
-    },
-    {
-      "title": "Do You Have Questions About the U.S. Midterm Elections?",
-      "link": "https://www.nytimes.com/2026/10/27/world/americas/callout-reader-questions-us-midterm-elections.html",
-      "pubDate": "2026-10-27T19:01:44.000Z",
-      "image": null,
-      "author": "Katrin Bennhold",
-      "excerpt": "We want to hear from you.",
       "source": "NYT"
     }
   ]
