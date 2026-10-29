@@ -1,6 +1,33 @@
 {
   "spaceNews": [
     {
+      "title": "NASA-funded Study Details One of Oldest Mars Meteorites Ever Found",
+      "link": "https://www.nasa.gov/solar-system/planets/mars/nasa-funded-study-details-one-of-oldest-mars-meteorites-ever-found/",
+      "pubDate": "2026-10-29T18:18:09.000Z",
+      "image": "https://www.nasa.gov/wp-content/uploads/2026/10/1-closeup-of-teghaza-001-mars-meteorite.jpg?w=2048",
+      "author": "Amanda Barnett",
+      "excerpt": "When a rose-colored meteorite was found in the Sahara Desert in 2022, no one knew how old it was or where it came from. Not until NASA-funded scientists age-dated its minerals did they realize the nearly 2-pound (800-gram) rock was a piece of Mars that formed more than 4.1 billion years ago, making it one […]",
+      "source": "NASA"
+    },
+    {
+      "title": "NASA Names Troy Asher Armstrong Flight Research Center Director",
+      "link": "https://www.nasa.gov/news-release/nasa-names-troy-asher-armstrong-flight-research-center-director/",
+      "pubDate": "2026-10-29T18:00:35.000Z",
+      "image": "https://www.nasa.gov/wp-content/uploads/2026/10/troyasher.jpg?w=1638",
+      "author": "Lauren E. Low",
+      "excerpt": "NASA Administrator Jared Isaacman has named Troy Asher director of the agency’s Armstrong Flight Research Center in Edwards, California. Asher, a veteran test pilot and aerospace engineer with decades of experience in flight research and operations, has served as the center’s acting director since March. “Troy has spen",
+      "source": "NASA"
+    },
+    {
+      "title": "NIH–NASA QuSAFE Challenge",
+      "link": "https://www.nasa.gov/directorates/stmd/prizes-challenges-crowdsourcing-program/center-of-excellence-for-collaborative-innovation-coeci/nih-nasa-qusafe-challenge/",
+      "pubDate": "2026-10-29T17:44:37.000Z",
+      "image": "https://www.nasa.gov/wp-content/uploads/2026/07/bps-goals-landscape-ppt-no-text.jpg?w=2000",
+      "author": "Bailey Light",
+      "excerpt": "The Quantum-Enabled Predictive Preclinical NAMs for Toxicity and Safety (QuSAFE) Challenge, a collaboration between the National Institutes of Health (NIH) and NASA, advances quantum-enabled sensing for in vitro NAMs, such as organoids and microphysiological systems (MPS), to improve drug safety while reducing animal u",
+      "source": "NASA"
+    },
+    {
       "title": "Envía tu nombre a Titán a bordo de la misión Dragonfly de la NASA",
       "link": "https://www.nasa.gov/news-release/envia-tu-nombre-a-titan-a-bordo-de-la-mision-dragonfly-de-la-nasa/",
       "pubDate": "2026-10-29T15:21:23.000Z",
@@ -91,24 +118,6 @@
       "source": "NASA"
     },
     {
-      "title": "Arnab Strikes India",
-      "link": "https://science.nasa.gov/earth/earth-observatory/arnab-strikes-india/",
-      "pubDate": "2026-10-29T04:01:00.000Z",
-      "image": "https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2026/arnab-strikes-india/typhoonarnab_vir_20261026.jpg?w=2048&#038;h=1365&#038;fit=clip&#038;crop=faces%2Cfocalpoint",
-      "author": "",
-      "excerpt": "The first named storm of the North Indian Ocean’s cyclone season made landfall along the coast of Andhra Pradesh.",
-      "source": "NASA"
-    },
-    {
-      "title": "Caltech Names Artemis II Commander Reid Wiseman as NASA JPL Deputy",
-      "link": "https://www.nasa.gov/centers-and-facilities/jpl/caltech-names-artemis-ii-commander-reid-wiseman-as-nasa-jpl-deputy/",
-      "pubDate": "2026-10-29T02:49:59.000Z",
-      "image": "https://www.nasa.gov/wp-content/uploads/2026/10/wiseman-portrait-crop-for-portal.jpg?w=2048",
-      "author": "Ryan J. Smernoff",
-      "excerpt": "Artemis II Commander Reid Wiseman has been named Caltech associate vice president and deputy director of NASA’s Jet Propulsion Laboratory in Southern California. The emeritus astronaut and retired U.S. Navy captain begins his new role at NASA’s center of excellence for robotics and deep space exploration and at Caltech",
-      "source": "NASA"
-    },
-    {
       "title": "United Launch Alliance announces mid-November return to flight for Vulcan rocket",
       "link": "https://spaceflightnow.com/2026/10/28/united-launch-alliance-announces-mid-november-return-to-flight-for-vulcan-rocket/",
       "pubDate": "2026-10-28T22:46:41.000Z",
@@ -116,15 +125,6 @@
       "author": "Will Robinson-Smith",
       "excerpt": "The anticipated launch will be the first for the heavy-lift rocket since a mid-flight nozzle failure on a solid rocket booster. The rocket will carry 40 Amazon Leo satellites to orbit.",
       "source": "Spaceflight Now"
-    },
-    {
-      "title": "NASA Welcomes Vietnam as Newest Artemis Accords Signatory ",
-      "link": "https://www.nasa.gov/organizations/oiir/nasa-welcomes-vietnam-as-newest-artemis-accords-signatory/",
-      "pubDate": "2026-10-28T21:50:01.000Z",
-      "image": "https://www.nasa.gov/wp-content/uploads/2026/10/artemis-accords-vietnam-78-102826.jpg?w=2048",
-      "author": "Elizabeth Shaw",
-      "excerpt": "The Socialist Republic of Vietnam became the 78th nation to sign the Artemis Accords, joining a growing coalition of like-minded nations committed to the peaceful, transparent, and responsible exploration of space. “Vietnam is joining at an important point in the development of its own space program,” said NASA Deputy ",
-      "source": "NASA"
     },
     {
       "title": "NASA nears end of space station solar array upgrade with Oct. 29 and Nov. 5 spacewalks",
@@ -460,12 +460,12 @@
       "source": "Astronomy Magazine"
     },
     {
-      "title": "Oct. 29: Applying AI/SI to the GEOINT Mission",
+      "title": "Applying AI/SI to the GEOINT Mission",
       "link": "https://spacenews.com/applying-ai-si-to-the-geoint-mission-event/",
       "pubDate": "2026-10-15T20:41:50.000Z",
       "image": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/10/2026-10-29-vantor-spacenews_2000-1500_AI-SI-scaled.jpg?fit=1024%2C768&amp;ssl=1",
       "author": "SpaceNews Editor",
-      "excerpt": "Join us for a conversation on how machine learning is transforming the GEOINT mission across different markets The post Oct. 29: Applying AI/SI to the GEOINT Mission appeared first on SpaceNews.",
+      "excerpt": "A conversation on how machine learning is transforming the GEOINT mission across different markets The post Applying AI/SI to the GEOINT Mission appeared first on SpaceNews.",
       "source": "SpaceNews"
     },
     {
@@ -898,37 +898,163 @@
     {
       "title": "I Can Hear Everything",
       "link": "https://www.nytimes.com/2026/10/29/us/single-sided-deafness-hearing-aids.html",
-      "pubDate": "2026-10-29T16:43:57.000Z",
+      "pubDate": "2026-10-29T21:40:51.000Z",
       "image": "https://static01.nyt.com/images/2026/10/27/multimedia/00nat-half-deaf-gthb/00nat-half-deaf-gthb-mediumSquareAt3X.jpg",
       "author": "Scott Dodd",
-      "excerpt": "The world can be tough to navigate with one working ear. Even with two, I still face challenges.",
+      "excerpt": "The world can be tough to navigate with one working ear. Even now with two, I still face challenges.",
       "source": "NYT"
     },
     {
-      "title": "Suddenly, Empathy Isn’t So Toxic",
-      "link": "https://www.nytimes.com/2026/10/29/opinion/toxic-empathy-immigration-ice.html",
-      "pubDate": "2026-10-29T16:28:19.000Z",
+      "title": "Why Miami Is a Destination for Latin America’s Political Exiles",
+      "link": "https://www.nytimes.com/2026/10/29/us/flavio-bolsonaro-miami-exile.html",
+      "pubDate": "2026-10-29T21:36:23.000Z",
+      "image": "https://static01.nyt.com/images/2026/10/29/multimedia/29xp-miami-fgjl/29xp-miami-fgjl-mediumSquareAt3X.jpg",
+      "author": "Francesca Regalado and Victor Mather",
+      "excerpt": "The city’s Hispanic majority, news media reach and air links to Latin America have made it an ideal base for politicians escaping their home countries.",
+      "source": "NYT"
+    },
+    {
+      "title": "U.S. Expels Cuban Diplomat After Fiery Showdown at United Nations",
+      "link": "https://www.nytimes.com/2026/10/29/us/politics/cuban-diplomat-expelled.html",
+      "pubDate": "2026-10-29T21:35:55.000Z",
+      "image": "https://static01.nyt.com/images/2026/10/29/multimedia/29dc-diplo-cuba-kbwc/29dc-diplo-cuba-kbwc-mediumSquareAt3X.jpg",
+      "author": "Michael Crowley",
+      "excerpt": "Tensions have risen between the United States and Cuba as the Trump administration tries to force the island’s Communist government to make drastic changes.",
+      "source": "NYT"
+    },
+    {
+      "title": "Trump Administration Pressures California With Expanded Voter Fraud Investigation",
+      "link": "https://www.nytimes.com/2026/10/29/us/trump-doj-california-voter-rolls-midterms.html",
+      "pubDate": "2026-10-29T21:29:29.000Z",
+      "image": "https://static01.nyt.com/images/2026/10/29/multimedia/29dc-california-vpcf/29dc-california-vpcf-mediumSquareAt3X.jpg",
+      "author": "Devlin Barrett and Shawn Hubler",
+      "excerpt": "The department has issued grand jury subpoenas to local election officials as part of a widening effort to prove unsubstantiated claims about large numbers of illegal voters in the state.",
+      "source": "NYT"
+    },
+    {
+      "title": "A Sailor Jumped From the U.S.S. Lincoln. The Navy Punished Him.",
+      "link": "https://www.nytimes.com/2026/10/29/us/politics/sailor-mental-health-uss-lincoln-navy.html",
+      "pubDate": "2026-10-29T21:22:25.000Z",
+      "image": "https://static01.nyt.com/images/2026/10/29/multimedia/dc-sailor-promo-fqgm/dc-sailor-promo-fqgm-mediumSquareAt3X.jpg",
+      "author": "Jan Ransom",
+      "excerpt": "The case offers a rare look at the military’s handling of mental health issues during extended deployments.",
+      "source": "NYT"
+    },
+    {
+      "title": "Intel’s Shares Plunge 20% as A.I. Hinders Some Parts of Its Business",
+      "link": "https://www.nytimes.com/2026/10/29/technology/intel-earnings.html",
+      "pubDate": "2026-10-29T21:17:40.000Z",
+      "image": "https://static01.nyt.com/images/2026/10/29/multimedia/29biz-intel-earnings-1-vcjt/29biz-intel-earnings-1-vcjt-mediumSquareAt3X.jpg",
+      "author": "Don Clark",
+      "excerpt": "The chipmaker, whose largest investor is the U.S. government, reported that the A.I. boom’s domino effect had hurt sales to personal computer makers.",
+      "source": "NYT"
+    },
+    {
+      "title": "Cuba’s Foreign Minister: We’ll Outlast Trump",
+      "link": "https://www.nytimes.com/2026/10/29/world/americas/cuba-foreign-minister-trump.html",
+      "pubDate": "2026-10-29T21:12:21.000Z",
+      "image": "https://static01.nyt.com/images/2026/10/29/multimedia/29int-cuba-interview-jpgt/29int-cuba-interview-jpgt-mediumSquareAt3X.jpg",
+      "author": "Jack Nicas",
+      "excerpt": "The Trump administration is carrying out the most intense pressure campaign on Cuba in decades. The Cuban government says its plan is simply to endure.",
+      "source": "NYT"
+    },
+    {
+      "title": "Polymarket and Kalshi Turn Midterm Elections Into a Multimillion Dollar Market",
+      "link": "https://www.nytimes.com/2026/10/29/technology/polymarket-kalshi-midterm-election-betting-wagers.html",
+      "pubDate": "2026-10-29T21:08:30.000Z",
+      "image": "https://static01.nyt.com/images/2026/11/01/multimedia/POLYMARKET-MONEY3-fbwc/POLYMARKET-MONEY-fbwc-mediumSquareAt3X.jpg",
+      "author": "Stuart A. Thompson and Lauren McCarthy",
+      "excerpt": "Betting markets like Polymarket and Kalshi have transformed America’s democracy into a new kind of casino.",
+      "source": "NYT"
+    },
+    {
+      "title": "Patrick Stewart, ‘Star Trek’ Captain and Professor X on ‘X-Men,’ Dies at 86",
+      "link": "https://www.nytimes.com/2026/10/29/arts/television/patrick-stewart-dead.html",
+      "pubDate": "2026-10-29T21:06:56.000Z",
+      "image": "https://static01.nyt.com/images/2026/10/31/multimedia/28patrick-stewart-ctmp-copy-print1/28patrick-stewart-ctmp-mediumSquareAt3X.jpg",
+      "author": "Anita Gates and William McDonald",
+      "excerpt": "The British actor was 86. He achieved pop-culture stardom as Capt. Jean-Luc Picard on “Star Trek: The Next Generation.”",
+      "source": "NYT"
+    },
+    {
+      "title": "The New DNA Technology That Linked Ted Bundy to a 52-Year-Old Cold Case",
+      "link": "https://www.nytimes.com/2026/10/29/science/dna-ted-bundy-cold-case.html",
+      "pubDate": "2026-10-29T20:55:59.000Z",
+      "image": "https://static01.nyt.com/images/2026/10/29/science/29sci-dna-bundy-01/29sci-dna-bundy-01-mediumSquareAt3X.jpg",
+      "author": "Alexander Nazaryan",
+      "excerpt": "Software known as STRmix was instrumental in identifying Mr. Bundy’s DNA in a decades-old sample.",
+      "source": "NYT"
+    },
+    {
+      "title": "Big Tech’s Data Center Blitz Is Burning Through Cash and Scaring Wall Street",
+      "link": "https://www.nytimes.com/2026/10/29/technology/amazon-earnings-tech-spending.html",
+      "pubDate": "2026-10-29T20:53:41.000Z",
+      "image": "https://static01.nyt.com/images/2026/10/29/multimedia/29biz-bigtech-spending-amazon-kltm/29biz-bigtech-spending-amazon-kltm-mediumSquareAt3X.jpg",
+      "author": "Karen Weise",
+      "excerpt": "Amazon on Thursday became the latest tech company to announce swelling investments in A.I. amid stumbling share prices.",
+      "source": "NYT"
+    },
+    {
+      "title": "What’s Next for Israel? Four Writers Decode the Election Results.",
+      "link": "https://www.nytimes.com/2026/10/29/opinion/israel-elections-arab-parties.html",
+      "pubDate": "2026-10-29T20:37:01.000Z",
+      "image": "https://static01.nyt.com/images/2026/10/29/opinion/29israel-roundtable/29israel-roundtable-mediumSquareAt3X.jpg",
+      "author": "Diana Buttu, Yossi Klein Halevi, Dahlia Scheindlin, Bret Stephens and Daniel J. Wakin",
+      "excerpt": "A round table discussion on what the future holds for Israel and its government.",
+      "source": "NYT"
+    },
+    {
+      "title": "Patrick Stewart’s Many Roles, From ‘Star Trek’ to ‘Avengers: Doomsday’",
+      "link": "https://www.nytimes.com/2026/10/29/arts/patrick-stewart-best-moments-star-trek.html",
+      "pubDate": "2026-10-29T20:30:31.000Z",
+      "image": "https://static01.nyt.com/images/2026/10/29/multimedia/00xp-stewart-moments/00xp-stewart-moments-mediumSquareAt3X-v2.png",
+      "author": "Claire Moses",
+      "excerpt": "The actor’s long and varied career included Shakespearean roles, “Star Trek: The Next Generation,” comedy and a stint in the Marvel Universe.",
+      "source": "NYT"
+    },
+    {
+      "title": "Nvidia Chief, Jensen Huang, Is Seen as Target of Chinese Spy Plot",
+      "link": "https://www.nytimes.com/2026/10/29/us/politics/nvidia-china-jensen-huang-trump.html",
+      "pubDate": "2026-10-29T19:27:01.000Z",
+      "image": "https://static01.nyt.com/images/2026/10/28/multimedia/00dc-chips-01-zhpm/00dc-chips-01-zhpm-mediumSquareAt3X.jpg",
+      "author": "Jonathan Swan, Maggie Haberman, Ana Swanson, Paul Mozur, Tripp Mickle and Julian E. Barnes",
+      "excerpt": "A Chinese businesswoman who had a close relationship with Jensen Huang was found to be passing intelligence to Beijing. President Trump was briefed and took no action.",
+      "source": "NYT"
+    },
+    {
+      "title": "Trump and His Aides Helped Bolsonaro Flee Brazil and Enter U.S.",
+      "link": "https://www.nytimes.com/2026/10/29/world/americas/flavio-bolsonaro-trump-brazil-us.html",
+      "pubDate": "2026-10-29T18:53:47.000Z",
+      "image": "https://static01.nyt.com/images/2026/10/29/multimedia/29brazil-bolsonaro-flight-khcf/29brazil-bolsonaro-flight-khcf-mediumSquareAt3X.jpg",
+      "author": "Edward Wong, Ana Ionova, Hamed Aleaziz and Tyler Pager",
+      "excerpt": "President Trump ensured Flávio Bolsonaro, who lost a presidential election in Brazil and faces multiple criminal investigations there, could enter the United States, U.S. officials said.",
+      "source": "NYT"
+    },
+    {
+      "title": "Taryn Simon Fills Guggenheim With Evidence in ‘Father Country I Do Love You’",
+      "link": "https://www.nytimes.com/2026/10/29/arts/design/taryn-simon-guggenheim-father-country-i-do-love-you.html",
+      "pubDate": "2026-10-29T18:37:31.000Z",
       "image": null,
-      "author": "David French",
-      "excerpt": "Deport immigrants? Oh yes. But not this guy.",
+      "author": "Jason Farago and Daniel Terna",
+      "excerpt": "The photographer Taryn Simon spent a decade channeling an F.B.I. agent’s life into pictures. Is it good art? Does it matter?",
       "source": "NYT"
     },
     {
-      "title": "From a Billionaires Tax to Abortion Rights, Voters Will Decide Policy",
-      "link": "https://www.nytimes.com/2026/10/29/us/elections/ballot-questions-midterms-election.html",
-      "pubDate": "2026-10-29T16:20:30.000Z",
-      "image": "https://static01.nyt.com/images/2026/10/29/multimedia/29nat-referendums-1-qcfg/29nat-referendums-1-qcfg-mediumSquareAt3X.jpg",
-      "author": "Maia Spoto and Leo Dominguez",
-      "excerpt": "More than 140 statewide ballot measures will go before voters during the midterms. Here are the races we’re watching.",
+      "title": "Hegseth Fires Top Army General He Accused of Leaking Information to Media",
+      "link": "https://www.nytimes.com/2026/10/29/us/hegseth-army-general-sylvia-trump.html",
+      "pubDate": "2026-10-29T17:59:49.000Z",
+      "image": "https://static01.nyt.com/images/2026/10/29/multimedia/29dc-general-fired-bzpw/29dc-general-fired-bzpw-mediumSquareAt3X.jpg",
+      "author": "Greg Jaffe",
+      "excerpt": "Lt. Gen. Brett Sylvia was fired as part of a broad and highly unusual campaign to find and punish senior military officers who speak to reporters.",
       "source": "NYT"
     },
     {
-      "title": "The Fed Risks Falling Behind in its Inflation Fight",
-      "link": "https://www.nytimes.com/2026/10/29/business/economy/federal-reserve-interest-rates.html",
-      "pubDate": "2026-10-29T16:06:49.000Z",
-      "image": "https://static01.nyt.com/images/2026/10/29/multimedia/29DC-FED-hzjb/29DC-FED-hzjb-mediumSquareAt3X.jpg",
-      "author": "Colby Smith",
-      "excerpt": "Federal Reserve officials are expected to restart rate increases in December, but the cadence of additional moves will depend on the data.",
+      "title": "Four Scenarios for How the Midterms Could Go",
+      "link": "https://www.nytimes.com/2026/10/29/upshot/midterm-elections-senate-house-scenarios.html",
+      "pubDate": "2026-10-29T17:48:41.000Z",
+      "image": "https://static01.nyt.com/images/2026/10/28/multimedia/2026-10-27-tilt-wave-newsletter-index/2026-10-27-tilt-wave-newsletter-index-mediumSquareAt3X-v4.png",
+      "author": "Nate Cohn",
+      "excerpt": "Expectations are cresting for Democrats, and some kind of wave seems likely, but so much will depend on a few close Senate races.",
       "source": "NYT"
     },
     {
@@ -941,51 +1067,6 @@
       "source": "NYT"
     },
     {
-      "title": "U.S. GDP Increased 3.4% in Third Quarter",
-      "link": "https://www.nytimes.com/2026/10/29/business/economy/us-economy-gdp.html",
-      "pubDate": "2026-10-29T15:58:35.000Z",
-      "image": "https://static01.nyt.com/images/2026/10/27/multimedia/2026-oct-biz-promos-gdp/2026-oct-biz-promos-gdp-mediumSquareAt3X-v3.png",
-      "author": "Ben Casselman",
-      "excerpt": "The economy grew 3.4 percent in the third quarter, the fastest pace in a year. Strong spending and growth contrast with the poor marks many voters are giving the economy.",
-      "source": "NYT"
-    },
-    {
-      "title": "The Red States That Could Decide the Senate",
-      "link": "https://www.nytimes.com/video/us/elections/100000011223984/the-red-states-that-could-decide-the-senate.html",
-      "pubDate": "2026-10-29T14:58:19.000Z",
-      "image": null,
-      "author": "Evan Reynolds, Laura Bult, June Kim, Sutton Raphael and Thomas Vollkommer",
-      "excerpt": "Democrats need to flip four Republican-held Senate seats to regain the majority, but some of their targets are in states President Trump won by double digits in 2024. Our election data reporter Evan Reynolds explains just how difficult that might be.",
-      "source": "NYT"
-    },
-    {
-      "title": "Spain Crash Investigators Focus on Train Traffic Controllers’ Role",
-      "link": "https://www.nytimes.com/2026/10/29/world/europe/spain-train-crash-renfe.html",
-      "pubDate": "2026-10-29T14:35:49.000Z",
-      "image": "https://static01.nyt.com/images/2026/10/29/multimedia/29int-spain-crash-01-cjqk/29int-spain-crash-01-cjqk-mediumSquareAt3X.jpg",
-      "author": "Jason Horowitz",
-      "excerpt": "After the country’s second major rail disaster in a year, Spaniards were confronting questions about the safety of their once-vaunted rail system.",
-      "source": "NYT"
-    },
-    {
-      "title": "Inflation Accelerated in October, PCE Index Shows",
-      "link": "https://www.nytimes.com/2026/10/29/business/economy/pce-inflation-economy.html",
-      "pubDate": "2026-10-29T14:31:57.000Z",
-      "image": "https://static01.nyt.com/images/2026/11/27/multimedia/29biz-inflation-vljt/27biz-inflation-vljt-mediumSquareAt3X.jpg",
-      "author": "Aruni Soni",
-      "excerpt": "The Personal Consumption Expenditures index picked up in September, according to data released a day after the Federal Reserve’s decision to hold interest rates steady.",
-      "source": "NYT"
-    },
-    {
-      "title": "Russian Strike on Ukrainian Train Station Kills 14",
-      "link": "https://www.nytimes.com/2026/10/29/world/europe/ukraine-dnipro-train-russia.html",
-      "pubDate": "2026-10-29T13:45:35.000Z",
-      "image": "https://static01.nyt.com/images/2026/10/29/multimedia/29int-ukraine-dnipro-tkcz/29int-ukraine-dnipro-tkcz-mediumSquareAt3X.jpg",
-      "author": "Cassandra Vinograd",
-      "excerpt": "A deadly strike was a grim reminder that despite a rare local cease-fire around the Russian-occupied town of Oleshky, other communities remained under fire.",
-      "source": "NYT"
-    },
-    {
       "title": "Why Are We Having Less Sex? Ask a Pornographer.",
       "link": "https://www.nytimes.com/2026/10/29/opinion/interesting-times-podcast-julia-yost-erika-lust.html",
       "pubDate": "2026-10-29T13:39:19.000Z",
@@ -995,57 +1076,30 @@
       "source": "NYT"
     },
     {
-      "title": "Ilhan Omar Investigation Involves New Scrutiny of Long-Disputed Marriage",
-      "link": "https://www.nytimes.com/2026/10/29/us/immigration-fraud-claims-ilhan-omar.html",
-      "pubDate": "2026-10-29T12:30:09.000Z",
-      "image": "https://static01.nyt.com/images/2026/10/27/multimedia/00nat-omar-immigration-1-blgc/00nat-omar-immigration-1-blgc-mediumSquareAt3X.jpg",
-      "author": "Ernesto Londoño",
-      "excerpt": "Several current and former law enforcement officials said an Obama-era investigation found some evidence that Ms. Omar had entered into a sham marriage with a man suspected of being her brother.",
+      "title": "Websites For Midterm Candidates Are Filled With A.I.-Written Text, Analysis Shows",
+      "link": "https://www.nytimes.com/2026/10/29/us/politics/campaign-websites-artificial-intelligence.html",
+      "pubDate": "2026-10-29T11:55:40.000Z",
+      "image": "https://static01.nyt.com/images/2026/10/28/multimedia/2026-10-23-ai-text-index/2026-10-23-ai-text-index-mediumSquareAt3X.png",
+      "author": "Stuart A. Thompson and James O’Toole",
+      "excerpt": "The use of A.I. chatbots to write candidate biographies and policy positions is another way the technology is entangled with elections.",
       "source": "NYT"
     },
     {
-      "title": "After 28 Years Walking the Globe, Karl Bushby Is Almost Home",
-      "link": "https://www.nytimes.com/2026/10/29/world/europe/karl-bushby-walking-globe-uk.html",
-      "pubDate": "2026-10-29T12:12:48.000Z",
-      "image": "https://static01.nyt.com/images/2026/10/21/multimedia/00xp-world-walker-end-gbcz-promo/00xp-world-walker-end-gbcz-promo-mediumSquareAt3X.jpg",
-      "author": "Jonathan Wolfe",
-      "excerpt": "Karl Bushby has walked 31,000 miles, crossing some of the world’s harshest landscapes. He plans to reach his mother’s house in England next week.",
+      "title": "Bodacious A.I. Bots Are Stealing Jokes From Young Female Comedians",
+      "link": "https://www.nytimes.com/2026/10/29/arts/ai-bots-jokes-theft-comedians.html",
+      "pubDate": "2026-10-29T11:15:18.000Z",
+      "image": null,
+      "author": "Jason Zinoman",
+      "excerpt": "Swiping jokes word for word, these bodacious bots mainly lift from young female comedians. What’s so insidious is how they’re subtly changing us, the audience.",
       "source": "NYT"
     },
     {
-      "title": "Stacking Ballots",
-      "link": "https://www.nytimes.com/2026/10/29/briefing/alaska-midterms-cheesecake-factory.html",
-      "pubDate": "2026-10-29T11:03:34.000Z",
-      "image": "https://static01.nyt.com/images/2026/10/26/multimedia/29themorning-nl-alaska3-promo/29themorning-nl-alaska3-mediumSquareAt3X.jpg",
-      "author": "Sam Sifton",
-      "excerpt": "A tale of political intrigue from Alaska.",
-      "source": "NYT"
-    },
-    {
-      "title": "Four Scenarios for How the Midterms Could Go",
-      "link": "https://www.nytimes.com/2026/10/29/upshot/midterm-elections-senate-house-scenarios.html",
-      "pubDate": "2026-10-29T09:11:01.000Z",
-      "image": "https://static01.nyt.com/images/2026/10/28/multimedia/2026-10-27-tilt-wave-newsletter-index/2026-10-27-tilt-wave-newsletter-index-mediumSquareAt3X-v4.png",
-      "author": "Nate Cohn",
-      "excerpt": "Expectations are cresting for Democrats, and some kind of wave seems likely, but so much will depend on a few close Senate races.",
-      "source": "NYT"
-    },
-    {
-      "title": "Billionaire Tax Campaign Pins Its Hopes on Influencers and Social Media",
-      "link": "https://www.nytimes.com/2026/10/29/us/california-billionaire-tax-influencers.html",
-      "pubDate": "2026-10-29T09:02:28.000Z",
-      "image": "https://static01.nyt.com/images/2026/10/28/multimedia/28nat-billionaire-tax-backers-lvcm/28nat-billionaire-tax-backers-lvcm-mediumSquareAt3X.jpg",
-      "author": "Laurel Rosenhall",
-      "excerpt": "Supporters of a California wealth tax are short on cash and are relying on cheaper campaign methods to get their word out.",
-      "source": "NYT"
-    },
-    {
-      "title": "Nvidia Chief, Jensen Huang, Is Seen as Target of Chinese Spy Plot",
-      "link": "https://www.nytimes.com/2026/10/29/us/politics/nvidia-china-jensen-huang-trump.html",
-      "pubDate": "2026-10-29T09:01:52.000Z",
-      "image": "https://static01.nyt.com/images/2026/10/28/multimedia/00dc-chips-01-zhpm/00dc-chips-01-zhpm-mediumSquareAt3X.jpg",
-      "author": "Jonathan Swan, Maggie Haberman, Ana Swanson, Paul Mozur, Tripp Mickle and Julian E. Barnes",
-      "excerpt": "A Chinese businesswoman who had a close relationship with Jensen Huang was found to be passing intelligence to Beijing. President Trump was briefed and took no action.",
+      "title": "China Is Not Happy About Fan-made A.I. Videos of Sun Wukong and Lin Daiyu",
+      "link": "https://www.nytimes.com/2026/10/29/world/asia/china-ai-videos-sun-wukong-lin-daiyu.html",
+      "pubDate": "2026-10-29T09:09:01.000Z",
+      "image": null,
+      "author": "Tiffany May",
+      "excerpt": "Mash-up videos of beloved characters from Chinese classics — some made with A.I. — have caught the attention of the authorities.",
       "source": "NYT"
     }
   ]
