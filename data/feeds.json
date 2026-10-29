@@ -1,7 +1,7 @@
 {
   "spaceNews": [
     {
-      "title": "Untied Launch Alliance announces mid-November return to flight for Vulcan rocket",
+      "title": "United Launch Alliance announces mid-November return to flight for Vulcan rocket",
       "link": "https://spaceflightnow.com/2026/10/28/untied-launch-alliance-announces-mid-november-return-to-flight-for-vulcan-rocket/",
       "pubDate": "2026-10-28T22:46:41.000Z",
       "image": "https://spaceflightnow.com/wp-content/uploads/2026/10/20261028-Vulcan-Leo-1-Fairing.jpg",
@@ -265,7 +265,7 @@
       "title": "Nov. 5: Satellite Mission Management at the Edge",
       "link": "https://spacenews.com/satellite-mission-management-at-the-edge-event/",
       "pubDate": "2026-10-23T19:53:25.000Z",
-      "image": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/10/2026-11-05-RTX-SpaceNews-2000-1500-scaled.jpg?fit=1024%2C768&amp;ssl=1",
+      "image": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/10/2026-11-05-RTX-SpaceNews-2000-1500-update-scaled.jpg?fit=1024%2C768&amp;ssl=1",
       "author": "SpaceNews Editor",
       "excerpt": "Join us to explore how emerging technologies and commercial capabilities are transforming satellite operations The post Nov. 5: Satellite Mission Management at the Edge appeared first on SpaceNews.",
       "source": "SpaceNews"
@@ -896,6 +896,78 @@
   ],
   "nytNews": [
     {
+      "title": "In Her Final Months, Dolores Huerta Was Lauded for Revealing a Deep Secret",
+      "link": "https://www.nytimes.com/2026/10/28/us/dolores-huerta-california-legacy.html",
+      "pubDate": "2026-10-29T01:47:04.000Z",
+      "image": "https://static01.nyt.com/images/2026/10/28/multimedia/28nat-huerta-react-ptgl/28nat-huerta-react-ptgl-mediumSquareAt3X.jpg",
+      "author": "Soumya Karlamangla, Orlando Mayorquín and Laurel Rosenhall",
+      "excerpt": "Ms. Huerta, a champion for workers and Latinos, revealed this year that she had been sexually assaulted by Cesar Chavez. But some women said she rebuffed their own complaints about abuse within the movement.",
+      "source": "NYT"
+    },
+    {
+      "title": "Judge Rejects Trump Officials’ Bid to Set Aside California Ballots",
+      "link": "https://www.nytimes.com/2026/10/28/us/politics/california-noncitizen-voters-trump.html",
+      "pubDate": "2026-10-29T01:32:14.000Z",
+      "image": "https://static01.nyt.com/images/2026/10/28/multimedia/28nat-calif-ballot-cbpm/28nat-calif-ballot-cbpm-mediumSquareAt3X.jpg",
+      "author": "Shawn Hubler",
+      "excerpt": "The judge ruled that no immediate action was necessary, dealing another setback to the administration as it moves to target voting by noncitizens.",
+      "source": "NYT"
+    },
+    {
+      "title": "After Flying Past the Moon, an Artemis II Astronaut Lands in California",
+      "link": "https://www.nytimes.com/2026/10/28/science/space/reid-wiseman-artemis-ii-astronaut.html",
+      "pubDate": "2026-10-29T01:13:27.000Z",
+      "image": "https://static01.nyt.com/images/2026/10/28/multimedia/28sci-nasa-wiseman-kfhp/28sci-nasa-wiseman-kfhp-mediumSquareAt3X.jpg",
+      "author": "Kenneth Chang",
+      "excerpt": "Reid Wiseman, now a retired emeritus astronaut, will become deputy director of the Jet Propulsion Laboratory, NASA’s premier center for deep-space robotic missions.",
+      "source": "NYT"
+    },
+    {
+      "title": "She Was Arrested After Leaving Her Kids for Days. It Sparked a Debate.",
+      "link": "https://www.nytimes.com/2026/10/28/us/florida-mother-las-vegas.html",
+      "pubDate": "2026-10-29T01:03:42.000Z",
+      "image": "https://static01.nyt.com/images/2026/10/28/multimedia/28nat-arrest-pjqh/28nat-arrest-pjqh-mediumSquareAt3X.jpg",
+      "author": "Vivian Yee",
+      "excerpt": "A Florida sheriff’s office arrested a mother who had left her children home alone for days to go on a work trip, reigniting the debate over when parents act irresponsibly.",
+      "source": "NYT"
+    },
+    {
+      "title": "As Trump Faces Down the Midterms, a Grim Mood Takes Over the White House",
+      "link": "https://www.nytimes.com/2026/10/28/us/politics/trump-midterms-white-house-mood.html",
+      "pubDate": "2026-10-29T01:01:58.000Z",
+      "image": "https://static01.nyt.com/images/2026/10/28/multimedia/28dc-trump-midterms-top-vpqj/28dc-trump-midterms-top-vpqj-mediumSquareAt3X.jpg",
+      "author": "Katie Rogers",
+      "excerpt": "The White House has been rocked by turnover and anxiety over the midterms. The president, who is tightening his inner circle, has lashed out at critics, held meandering rallies and feasted on a diet of news clips and “A.I. slop,” as one aide put it.",
+      "source": "NYT"
+    },
+    {
+      "title": "Weil Gotshal, Once a Legal Powerhouse, Plans to Dissolve",
+      "link": "https://www.nytimes.com/2026/10/28/business/weil-gotshal-law-firm.html",
+      "pubDate": "2026-10-29T00:53:39.000Z",
+      "image": "https://static01.nyt.com/images/2026/10/28/multimedia/28biz-Weil-Gotshal-qhwl/28biz-Weil-Gotshal-qhwl-mediumSquareAt3X.jpg",
+      "author": "Lauren Hirsch",
+      "excerpt": "The prominent law firm has been rocked by an exodus of high-profile lawyers, a failed succession plan and a scuttled deal to merge with a rival firm.",
+      "source": "NYT"
+    },
+    {
+      "title": "Surprise Showing by Arab Parties in Israeli Vote Puts Them in Spotlight",
+      "link": "https://www.nytimes.com/2026/10/28/world/middleeast/israel-election-arab-parties.html",
+      "pubDate": "2026-10-29T00:25:15.000Z",
+      "image": "https://static01.nyt.com/images/2026/10/28/multimedia/28israel-arab-parties2-bmlf/28israel-arab-parties2-bmlf-mediumSquareAt3X.jpg",
+      "author": "Aaron Boxerman",
+      "excerpt": "The Arab parties have long been kept on the political sidelines. But stunning turnout by their supporters makes the Arab minority an Israeli political reality that cannot be ignored.",
+      "source": "NYT"
+    },
+    {
+      "title": "Cabinet Officials on the Campaign Trail? Ethics Experts Say Some Are Breaking the Law.",
+      "link": "https://www.nytimes.com/2026/10/28/us/politics/trump-hatch-act.html",
+      "pubDate": "2026-10-28T23:35:45.000Z",
+      "image": "https://static01.nyt.com/images/2026/10/28/multimedia/28dc-hatch-wmjp/28dc-hatch-wmjp-mediumSquareAt3X.jpg",
+      "author": "Karoun Demirjian",
+      "excerpt": "As Trump officials stump for Republican candidates facing difficult races, ethics experts say they are being lax about complying with the Hatch Act, a federal anti-corruption law.",
+      "source": "NYT"
+    },
+    {
       "title": "Flávio Bolsonaro Lands in Miami After Fleeing Brazil",
       "link": "https://www.nytimes.com/2026/10/28/world/americas/flavio-bolsonaro-us-miami-brazil-trump.html",
       "pubDate": "2026-10-28T23:04:44.000Z",
@@ -905,30 +977,12 @@
       "source": "NYT"
     },
     {
-      "title": "Cornell Faculty Senate Moves Ahead With No-Confidence Vote Over Handling of Rape Case",
-      "link": "https://www.nytimes.com/2026/10/28/nyregion/cornell-faculty-no-confidence-vote.html",
-      "pubDate": "2026-10-28T23:02:51.000Z",
-      "image": "https://static01.nyt.com/images/2026/10/28/multimedia/28met-cornell-senate-bfwz/28met-cornell-senate-bfwz-mediumSquareAt3X.jpg",
-      "author": "Sharon Otterman",
-      "excerpt": "After fierce debate, faculty members will begin voting Thursday on a resolution to condemn the administration’s handling of campus sexual assault.",
-      "source": "NYT"
-    },
-    {
       "title": "Atlanta’s Mayor Walked Away After Covid Chaos. Will Voters Make Her Georgia’s Governor?",
       "link": "https://www.nytimes.com/2026/10/28/us/politics/keisha-lance-bottoms-atlanta-mayor.html",
       "pubDate": "2026-10-28T22:44:59.000Z",
       "image": "https://static01.nyt.com/images/2026/10/28/multimedia/00nat-bottoms-atlanta-01-fpct/00nat-bottoms-atlanta-01-fpct-mediumSquareAt3X.jpg",
       "author": "Rick Rojas and Sean Keenan",
       "excerpt": "Keisha Lance Bottoms, in her bid for Georgia governor, has faced pointed criticism of her leadership in Atlanta and disappointment in her decision to leave after one term.",
-      "source": "NYT"
-    },
-    {
-      "title": "Weil Gotshal, Once a Legal Powerhouse, Plans to Dissolve",
-      "link": "https://www.nytimes.com/2026/10/28/business/weil-gotshal-law-firm.html",
-      "pubDate": "2026-10-28T21:57:33.000Z",
-      "image": "https://static01.nyt.com/images/2026/10/28/multimedia/28biz-Weil-Gotshal-qhwl/28biz-Weil-Gotshal-qhwl-mediumSquareAt3X.jpg",
-      "author": "Lauren Hirsch",
-      "excerpt": "The prominent law firm has been rocked by an exodus of high-profile lawyers, a failed succession plan and a scuttled deal to merge with a rival firm.",
       "source": "NYT"
     },
     {
@@ -977,12 +1031,12 @@
       "source": "NYT"
     },
     {
-      "title": "Dolores Huerta, Who Founded United Farm Workers With Cesar Chavez, Dies",
-      "link": "https://www.nytimes.com/2026/10/28/us/dolores-huerta-dead.html",
-      "pubDate": "2026-10-28T19:31:00.000Z",
-      "image": "https://static01.nyt.com/images/2022/01/25/obituaries/00Huerta-01/00Huerta-01-mediumSquareAt3X.jpg",
-      "author": "Robert D. McFadden",
-      "excerpt": "She founded the United Farm Workers with Cesar Chavez. In early 2026, she told The Times that she had been raped by him decades earlier. She was 96.",
+      "title": "Israel’s Parties Gird for Wrangling to Form a Government, With No Clear Path",
+      "link": "https://www.nytimes.com/2026/10/28/world/middleeast/israel-government-formation-negotiation.html",
+      "pubDate": "2026-10-28T20:13:57.000Z",
+      "image": "https://static01.nyt.com/images/2026/10/28/multimedia/28int-israel-ledeall-1-kzpm/28int-israel-ledeall-1-kzpm-mediumSquareAt3X.jpg",
+      "author": "Isabel Kershner, Johnatan Reiss, Aaron Boxerman, Qasim Nauman and Michael Levenson",
+      "excerpt": "Votes are still being counted, but it appears that neither Prime Minister Benjamin Netanyahu’s right-wing coalition nor the opposition alliance headed by Gadi Eisenkot will have a majority.",
       "source": "NYT"
     },
     {
@@ -1004,57 +1058,12 @@
       "source": "NYT"
     },
     {
-      "title": "Linda McMahon Spends $43,000 on Furniture as She Looks to Close Education Department",
-      "link": "https://www.nytimes.com/2026/10/28/us/politics/linda-mcmahon-education-department-furniture-trump.html",
-      "pubDate": "2026-10-28T17:40:19.000Z",
-      "image": "https://static01.nyt.com/images/2026/10/28/multimedia/28dc-mcmahon-furniture-fzvk/28dc-mcmahon-furniture-fzvk-mediumSquareAt3X.jpg",
-      "author": "Michael C. Bender",
-      "excerpt": "The education secretary says her old furniture “cannot be configurationally or aesthetically integrated” into new office space.",
-      "source": "NYT"
-    },
-    {
-      "title": "What to Know About Brazil’s Election and Flávio Bolsonaro’s Departure",
-      "link": "https://www.nytimes.com/2026/10/26/world/americas/brazil-election-lula-win-what-to-know.html",
-      "pubDate": "2026-10-28T17:31:12.000Z",
-      "image": "https://static01.nyt.com/images/2026/10/25/multimedia/26xp-brazil-wwk-1/26xp-brazil-wwk-1-mediumSquareAt3X.jpg",
-      "author": "Ana Ionova, Adam B. Ellick and Yan Zhuang",
-      "excerpt": "President Luiz Inácio Lula da Silva’s re-election ended a string of victories by right-wing candidates in Latin America. His opponent, Flávio Bolsonaro, fled Brazil for the United States.",
-      "source": "NYT"
-    },
-    {
-      "title": "RFK Jr. to Allow Broad Use of Unapproved Peptide Injections",
-      "link": "https://www.nytimes.com/2026/10/28/health/peptides-kennedy-fda.html",
-      "pubDate": "2026-10-28T17:05:05.000Z",
-      "image": "https://static01.nyt.com/images/2026/10/28/multimedia/00DC-Peptides-mpjh/00DC-Peptides-mpjh-mediumSquareAt3X.jpg",
-      "author": "Christina Jewett",
-      "excerpt": "In a unilateral declaration by the health secretary, several injections promoted by online influencers will become widely available. The F.D.A. had advised against the move.",
-      "source": "NYT"
-    },
-    {
       "title": "Inside Democrats’ Secret Effort to Stack Alaska’s Midterm Ballot With Another Dan Sullivan",
       "link": "https://www.nytimes.com/2026/10/28/us/politics/alaska-dan-sullivan-conspiracy-peltola.html",
       "pubDate": "2026-10-28T14:37:47.000Z",
       "image": "https://static01.nyt.com/images/2026/10/26/multimedia/pol-alaska-ballot-01-tpwm/pol-alaska-ballot-01-tpwm-mediumSquareAt3X-v4.jpg",
       "author": "Kellen Browning",
       "excerpt": "Operatives aligned with Mary Peltola, the Democratic nominee for Senate, spent months recruiting candidates to peel votes from Senator Dan Sullivan, the Republican.",
-      "source": "NYT"
-    },
-    {
-      "title": "4 Takeaways From Israel’s Election",
-      "link": "https://www.nytimes.com/2026/10/28/world/middleeast/israel-election-vote-results-takeaways.html",
-      "pubDate": "2026-10-28T14:10:53.000Z",
-      "image": "https://static01.nyt.com/images/2026/10/28/multimedia/28int-israel-takeaways-promo-1-gfmt/28int-israel-takeaways-promo-1-gfmt-mediumSquareAt3X.jpg",
-      "author": "David M. Halbfinger",
-      "excerpt": "Votes are still being counted, and much is in flux. But as the stage was set for bitter talks over forming a government, nearly all sides could face disappointment.",
-      "source": "NYT"
-    },
-    {
-      "title": "Byron Donalds Holds Slim Lead in Florida’s Race for Governor",
-      "link": "https://www.nytimes.com/2026/10/28/us/politics/governors-poll-florida-south-carolina-minnesota.html",
-      "pubDate": "2026-10-28T09:05:53.000Z",
-      "image": null,
-      "author": "Emily Cochrane and Ruth Igielnik",
-      "excerpt": "New polls in Florida, South Carolina and Minnesota illuminate the head winds that Republicans are facing.",
       "source": "NYT"
     }
   ]
