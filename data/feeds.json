@@ -1,8 +1,44 @@
 {
   "spaceNews": [
     {
+      "title": "Seraphim Space Launches Space Academy",
+      "link": "https://payloadspace.com/seraphim-space-launches-space-academy/",
+      "pubDate": "2026-10-29T09:00:00.000Z",
+      "image": "https://payloadspace.com/wp-content/uploads/2026/10/Seraphim2084-1-200x200.jpg",
+      "author": "Douglas Gorman",
+      "excerpt": "Thinking of going back to school? Seraphim Space is taking applications. The post Seraphim Space Launches Space Academy appeared first on Payload.",
+      "source": "Payload"
+    },
+    {
+      "title": "APOD: 29 October 2026 – The Horns of Venus",
+      "link": "https://science.nasa.gov/image-article/apod-29-october-2026-the-horns-of-venus/",
+      "pubDate": "2026-10-29T04:05:00.000Z",
+      "image": "https://assets.science.nasa.gov/dynamicimage/assets/science/cds/apod/apod/2026/october/venus_20261024a.jpg?w=744&#038;h=744&#038;fit=clip&#038;crop=faces%2Cfocalpoint",
+      "author": "",
+      "excerpt": "APOD Science APOD APOD: 29 October 2026 – The… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professio",
+      "source": "NASA"
+    },
+    {
+      "title": "Arnab Strikes India",
+      "link": "https://science.nasa.gov/earth/earth-observatory/arnab-strikes-india/",
+      "pubDate": "2026-10-29T04:01:00.000Z",
+      "image": "https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2026/arnab-strikes-india/typhoonarnab_vir_20261026.jpg?w=2048&#038;h=1365&#038;fit=clip&#038;crop=faces%2Cfocalpoint",
+      "author": "",
+      "excerpt": "The first named storm of the North Indian Ocean’s cyclone season made landfall along the coast of Andhra Pradesh.",
+      "source": "NASA"
+    },
+    {
+      "title": "Caltech Names Artemis II Commander Reid Wiseman as NASA JPL Deputy",
+      "link": "https://www.nasa.gov/centers-and-facilities/jpl/caltech-names-artemis-ii-commander-reid-wiseman-as-nasa-jpl-deputy/",
+      "pubDate": "2026-10-29T02:49:59.000Z",
+      "image": "https://www.nasa.gov/wp-content/uploads/2026/10/wiseman-portrait-crop-for-portal.jpg?w=2048",
+      "author": "Ryan J. Smernoff",
+      "excerpt": "Artemis II Commander Reid Wiseman has been named Caltech associate vice president and deputy director of NASA’s Jet Propulsion Laboratory in Southern California. The emeritus astronaut and retired U.S. Navy captain begins his new role at NASA’s center of excellence for robotics and deep space exploration and at Caltech",
+      "source": "NASA"
+    },
+    {
       "title": "United Launch Alliance announces mid-November return to flight for Vulcan rocket",
-      "link": "https://spaceflightnow.com/2026/10/28/untied-launch-alliance-announces-mid-november-return-to-flight-for-vulcan-rocket/",
+      "link": "https://spaceflightnow.com/2026/10/28/united-launch-alliance-announces-mid-november-return-to-flight-for-vulcan-rocket/",
       "pubDate": "2026-10-28T22:46:41.000Z",
       "image": "https://spaceflightnow.com/wp-content/uploads/2026/10/20261028-Vulcan-Leo-1-Fairing.jpg",
       "author": "Will Robinson-Smith",
@@ -118,15 +154,6 @@
       "source": "NASA"
     },
     {
-      "title": "The Land of the Standing-Up Rocks",
-      "link": "https://science.nasa.gov/earth/earth-observatory/the-land-of-the-standing-up-rocks/",
-      "pubDate": "2026-10-28T04:01:00.000Z",
-      "image": "https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2026/the-land-of-the-standing-up-rocks/chiricahua_oli2_20260702.jpg?w=1440&#038;h=960&#038;fit=clip&#038;crop=faces%2Cfocalpoint",
-      "author": "",
-      "excerpt": "A national monument since the 1920s, Chiricahua is America’s newest national park.",
-      "source": "NASA"
-    },
-    {
       "title": "Ukrainian startup, GomSpace test satellite for future communications network",
       "link": "https://spacenews.com/ukrainian-startup-gomspace-test-satellite-for-future-communications-network/",
       "pubDate": "2026-10-27T20:21:30.000Z",
@@ -134,24 +161,6 @@
       "author": "Sandra Erwin",
       "excerpt": "The companies said the experimental spacecraft, launched Oct. 1, could lead to a Ukrainian-controlled satellite network The post Ukrainian startup, GomSpace test satellite for future communications network appeared first on SpaceNews.",
       "source": "SpaceNews"
-    },
-    {
-      "title": "NASA Invites Media to Crew Completion of Yearlong Mars Simulation",
-      "link": "https://www.nasa.gov/news-release/nasa-invites-media-to-crew-completion-of-yearlong-mars-simulation/",
-      "pubDate": "2026-10-27T19:27:22.000Z",
-      "image": "https://www.nasa.gov/wp-content/uploads/2026/10/chapeamission2.jpg?w=2048",
-      "author": "Lauren E. Low",
-      "excerpt": "The four volunteers who lived and worked in a simulated NASA Mars mission for more than a year will exit their habitat on Saturday, Oct. 31, after 378 days of isolation in a facility at the agency’s Johnson Space Center in Houston. Health and performance data collected from the simulation can help NASA develop methods ",
-      "source": "NASA"
-    },
-    {
-      "title": "NASA’s Neo Surveyor Sunshade",
-      "link": "https://www.nasa.gov/image-article/nasas-neo-surveyor-sunshade/",
-      "pubDate": "2026-10-27T17:58:57.000Z",
-      "image": "https://www.nasa.gov/wp-content/uploads/2026/10/1-pia26715-bae-sunshade-inspection-1.jpg?w=2048",
-      "author": "HQ Web Team",
-      "excerpt": "A technician inspects the large sunshade of NASA’s Near-Earth Object (NEO) Surveyor mission in this image released on Oct. 26, 2026. The sunshade structure, which stands 20 feet (6 meters) tall and measures 8 feet (2.4 meters) wide at its base, will keep the infrared space telescope cool as it searches for near-Earth a",
-      "source": "NASA"
     },
     {
       "title": "NASA, Agriculture Department Partner On Space Data Sharing",
@@ -323,15 +332,6 @@
       "author": "SpaceNews Editor",
       "excerpt": "In this episode, SpaceNews’ Mike Gruss talks with the CEO of Aalyria Brian Barritt about how networks are evolving, what scaling the company means and the role of software interoperability […] The post Rethinking networks in space with Aalyria’s Brian Barritt appeared first on SpaceNews.",
       "source": "SpaceNews"
-    },
-    {
-      "title": "Xona Raises $250M Series D to Scale Commercial GPS Constellation",
-      "link": "https://payloadspace.com/xona-raises-250m-series-d-to-scale-commercial-gps-constellation/",
-      "pubDate": "2026-10-22T13:00:00.000Z",
-      "image": "https://payloadspace.com/wp-content/uploads/2026/10/DSC02617-200x200.jpeg",
-      "author": "Douglas Gorman",
-      "excerpt": "Xona’s long-term plan is to build a ~258-sat constellation to offer an upgraded commercial alternative to government GPS networks. The post Xona Raises $250M Series D to Scale Commercial GPS Constellation appeared first on Payload.",
-      "source": "Payload"
     },
     {
       "title": "TechnoMile Recognized as a 2026 Inc. Power Partner Award Winner",
@@ -896,57 +896,129 @@
   ],
   "nytNews": [
     {
-      "title": "In Her Final Months, Dolores Huerta Was Lauded for Revealing a Deep Secret",
-      "link": "https://www.nytimes.com/2026/10/28/us/dolores-huerta-california-legacy.html",
-      "pubDate": "2026-10-29T01:47:04.000Z",
-      "image": "https://static01.nyt.com/images/2026/10/28/multimedia/28nat-huerta-react-ptgl/28nat-huerta-react-ptgl-mediumSquareAt3X.jpg",
-      "author": "Soumya Karlamangla, Orlando Mayorquín and Laurel Rosenhall",
-      "excerpt": "Ms. Huerta, a champion for workers and Latinos, revealed this year that she had been sexually assaulted by Cesar Chavez. But some women said she rebuffed their own complaints about abuse within the movement.",
+      "title": "After 28 Years Walking the Globe, Karl Bushby Is Almost Home",
+      "link": "https://www.nytimes.com/2026/10/29/world/europe/karl-bushby-walking-globe-uk.html",
+      "pubDate": "2026-10-29T09:29:39.000Z",
+      "image": "https://static01.nyt.com/images/2026/10/21/multimedia/00xp-world-walker-end-gbcz-promo/00xp-world-walker-end-gbcz-promo-mediumSquareAt3X.jpg",
+      "author": "Jonathan Wolfe",
+      "excerpt": "Karl Bushby has walked 31,000 miles, crossing some of the world’s harshest landscapes. He plans to reach his mother’s house in England next week.",
       "source": "NYT"
     },
     {
-      "title": "Judge Rejects Trump Officials’ Bid to Set Aside California Ballots",
-      "link": "https://www.nytimes.com/2026/10/28/us/politics/california-noncitizen-voters-trump.html",
-      "pubDate": "2026-10-29T01:32:14.000Z",
-      "image": "https://static01.nyt.com/images/2026/10/28/multimedia/28nat-calif-ballot-cbpm/28nat-calif-ballot-cbpm-mediumSquareAt3X.jpg",
-      "author": "Shawn Hubler",
-      "excerpt": "The judge ruled that no immediate action was necessary, dealing another setback to the administration as it moves to target voting by noncitizens.",
+      "title": "The Midterms May End the Trump Era. Here Are 10 Takeaways.",
+      "link": "https://www.nytimes.com/2026/10/29/opinion/trump-midterms.html",
+      "pubDate": "2026-10-29T09:03:24.000Z",
+      "image": null,
+      "author": "David Wallace-Wells",
+      "excerpt": "It’s time to take stock. Here are 12 takeaways from the last 10 years.",
       "source": "NYT"
     },
     {
-      "title": "After Flying Past the Moon, an Artemis II Astronaut Lands in California",
-      "link": "https://www.nytimes.com/2026/10/28/science/space/reid-wiseman-artemis-ii-astronaut.html",
-      "pubDate": "2026-10-29T01:13:27.000Z",
-      "image": "https://static01.nyt.com/images/2026/10/28/multimedia/28sci-nasa-wiseman-kfhp/28sci-nasa-wiseman-kfhp-mediumSquareAt3X.jpg",
-      "author": "Kenneth Chang",
-      "excerpt": "Reid Wiseman, now a retired emeritus astronaut, will become deputy director of the Jet Propulsion Laboratory, NASA’s premier center for deep-space robotic missions.",
+      "title": "In Moving Gradually, Fed Risks Having to Play Catch-Up to Quell Inflation",
+      "link": "https://www.nytimes.com/2026/10/29/business/economy/federal-reserve-interest-rates.html",
+      "pubDate": "2026-10-29T09:03:21.000Z",
+      "image": "https://static01.nyt.com/images/2026/10/29/multimedia/29DC-FED-hzjb/29DC-FED-hzjb-mediumSquareAt3X.jpg",
+      "author": "Colby Smith",
+      "excerpt": "Federal Reserve officials are expected to restart rate increases in December, but the cadence of additional moves will depend on the data.",
       "source": "NYT"
     },
     {
-      "title": "She Was Arrested After Leaving Her Kids for Days. It Sparked a Debate.",
-      "link": "https://www.nytimes.com/2026/10/28/us/florida-mother-las-vegas.html",
-      "pubDate": "2026-10-29T01:03:42.000Z",
-      "image": "https://static01.nyt.com/images/2026/10/28/multimedia/28nat-arrest-pjqh/28nat-arrest-pjqh-mediumSquareAt3X.jpg",
-      "author": "Vivian Yee",
-      "excerpt": "A Florida sheriff’s office arrested a mother who had left her children home alone for days to go on a work trip, reigniting the debate over when parents act irresponsibly.",
+      "title": "Can Porn Ever Be Ethical?",
+      "link": "https://www.nytimes.com/2026/10/29/opinion/interesting-times-podcast-julia-yost-erika-lust.html",
+      "pubDate": "2026-10-29T09:03:09.000Z",
+      "image": "https://static01.nyt.com/images/2026/10/29/opinion/29itpod-lust-image/29itpod-lust-image-mediumSquareAt3X.jpg",
+      "author": "Julia Yost and Raina Raskin",
+      "excerpt": "A pornographer and conservative Catholic discuss sex and pleasure.",
+      "source": "NYT"
+    },
+    {
+      "title": "Nvidia Chief, Jensen Huang, Is Seen as Target of Chinese Spy Plot",
+      "link": "https://www.nytimes.com/2026/10/29/us/politics/nvidia-china-jensen-huang-trump.html",
+      "pubDate": "2026-10-29T09:01:51.000Z",
+      "image": "https://static01.nyt.com/images/2026/10/28/multimedia/00dc-chips-01-zhpm/00dc-chips-01-zhpm-mediumSquareAt3X.jpg",
+      "author": "Jonathan Swan, Maggie Haberman, Ana Swanson, Paul Mozur, Tripp Mickle and Julian E. Barnes",
+      "excerpt": "A Chinese businesswoman who had a close relationship with Jensen Huang was found to be passing intelligence to Beijing. President Trump was briefed and took no action.",
+      "source": "NYT"
+    },
+    {
+      "title": "The Red States That Could Decide the Senate",
+      "link": "https://www.nytimes.com/video/us/elections/100000011223984/the-red-states-that-could-decide-the-senate.html",
+      "pubDate": "2026-10-29T09:01:46.000Z",
+      "image": null,
+      "author": "Evan Reynolds, Laura Bult, June Kim, Sutton Raphael and Thomas Vollkommer",
+      "excerpt": "Democrats need to flip four Republican-held Senate seats to regain the majority, but some of their targets are in states President Trump won by double digits in 2024. Our election data reporter Evan Reynolds explains just how difficult that might be.",
+      "source": "NYT"
+    },
+    {
+      "title": "Ilhan Omar Investigation Involves New Scrutiny of Long-Disputed Marriage",
+      "link": "https://www.nytimes.com/2026/10/29/us/immigration-fraud-claims-ilhan-omar.html",
+      "pubDate": "2026-10-29T09:01:32.000Z",
+      "image": "https://static01.nyt.com/images/2026/10/27/multimedia/00nat-omar-immigration-1-blgc/00nat-omar-immigration-1-blgc-mediumSquareAt3X.jpg",
+      "author": "Ernesto Londoño",
+      "excerpt": "Several current and former law enforcement officials said an Obama-era investigation found some evidence that Ms. Omar had entered into a sham marriage with a man who may have been her brother.",
+      "source": "NYT"
+    },
+    {
+      "title": "A Ukrainian City in the Kill Zone Relishes a Moment of Peace",
+      "link": "https://www.nytimes.com/2026/10/29/world/europe/ukraine-kherson-respite.html",
+      "pubDate": "2026-10-29T08:30:50.000Z",
+      "image": "https://static01.nyt.com/images/2026/10/29/multimedia/29int-ukraine-kherson-dispatch-promo/29int-ukraine-kherson-dispatch-gvpc-mediumSquareAt3X.jpg",
+      "author": "Siobhán O’Grady, Liubov Sholudko and David Guttenfelder",
+      "excerpt": "A rare localized peace deal announced by the first lady, Melania Trump, offered a brief respite for Kherson, where Russian drones and artillery have long terrorized civilians.",
       "source": "NYT"
     },
     {
       "title": "As Trump Faces Down the Midterms, a Grim Mood Takes Over the White House",
       "link": "https://www.nytimes.com/2026/10/28/us/politics/trump-midterms-white-house-mood.html",
-      "pubDate": "2026-10-29T01:01:58.000Z",
+      "pubDate": "2026-10-29T07:49:54.000Z",
       "image": "https://static01.nyt.com/images/2026/10/28/multimedia/28dc-trump-midterms-top-vpqj/28dc-trump-midterms-top-vpqj-mediumSquareAt3X.jpg",
       "author": "Katie Rogers",
       "excerpt": "The White House has been rocked by turnover and anxiety over the midterms. The president, who is tightening his inner circle, has lashed out at critics, held meandering rallies and feasted on a diet of news clips and “A.I. slop,” as one aide put it.",
       "source": "NYT"
     },
     {
-      "title": "Weil Gotshal, Once a Legal Powerhouse, Plans to Dissolve",
-      "link": "https://www.nytimes.com/2026/10/28/business/weil-gotshal-law-firm.html",
-      "pubDate": "2026-10-29T00:53:39.000Z",
-      "image": "https://static01.nyt.com/images/2026/10/28/multimedia/28biz-Weil-Gotshal-qhwl/28biz-Weil-Gotshal-qhwl-mediumSquareAt3X.jpg",
-      "author": "Lauren Hirsch",
-      "excerpt": "The prominent law firm has been rocked by an exodus of high-profile lawyers, a failed succession plan and a scuttled deal to merge with a rival firm.",
+      "title": "Alaska Governor Orders Criminal Investigation Into Peltola Campaign",
+      "link": "https://www.nytimes.com/2026/10/28/us/politics/trump-peltola-sullivan-alaska-senate.html",
+      "pubDate": "2026-10-29T07:22:59.000Z",
+      "image": "https://static01.nyt.com/images/2026/10/28/multimedia/28pol-alaska-ballot-reax-mlfp/28pol-alaska-ballot-reax-mlfp-mediumSquareAt3X.jpg",
+      "author": "Kellen Browning and Anna Griffin",
+      "excerpt": "President Trump had lashed out at Mary Peltola after The New York Times reported that her campaign and national Democrats helped recruit spoiler candidates to the race. He offered no explanation of what crime may have been committed.",
+      "source": "NYT"
+    },
+    {
+      "title": "At NYC Marathon, Cowbells Are a Signature Sound. But Why?",
+      "link": "https://www.nytimes.com/2026/10/29/nyregion/nyc-marathon-race-cowbell.html",
+      "pubDate": "2026-10-29T07:00:24.000Z",
+      "image": "https://static01.nyt.com/images/2026/10/29/multimedia/29met-nycm-cowbell-01-zkgp/29met-nycm-cowbell-01-zkgp-mediumSquareAt3X.jpg",
+      "author": "Claire Fahy",
+      "excerpt": "Screaming fans and clanging cowbells have become the soundtrack to the New York City Marathon and to sporting events around the world.",
+      "source": "NYT"
+    },
+    {
+      "title": "The Five-Borough Route: The Beating Heart of the NYC Marathon",
+      "link": "https://www.nytimes.com/2026/10/29/nyregion/nyc-marathon-route-five-boroughs-course-history.html",
+      "pubDate": "2026-10-29T07:00:18.000Z",
+      "image": "https://static01.nyt.com/images/2026/10/28/multimedia/00met-nycm-5boroughs--01-ghbl/00met-nycm-5boroughs--01-ghbl-mediumSquareAt3X.jpg",
+      "author": "Jennie Coughlin",
+      "excerpt": "When the event’s five co-founders first proposed moving it out of Central Park, it seemed impossible. Much has changed in the sport and the city since that 1976 race.",
+      "source": "NYT"
+    },
+    {
+      "title": "Cabinet Officials on the Campaign Trail? Ethics Experts Say Some Are Breaking the Law.",
+      "link": "https://www.nytimes.com/2026/10/28/us/politics/trump-hatch-act.html",
+      "pubDate": "2026-10-29T04:30:48.000Z",
+      "image": "https://static01.nyt.com/images/2026/10/28/multimedia/28dc-hatch-wmjp/28dc-hatch-wmjp-mediumSquareAt3X.jpg",
+      "author": "Karoun Demirjian",
+      "excerpt": "As Trump officials stump for Republican candidates facing difficult races, ethics experts say they are being lax about complying with the Hatch Act, a federal anti-corruption law.",
+      "source": "NYT"
+    },
+    {
+      "title": "Israel’s Parties Gird for Wrangling to Form a Government, With No Clear Path",
+      "link": "https://www.nytimes.com/2026/10/28/world/middleeast/israel-government-formation-negotiation.html",
+      "pubDate": "2026-10-29T02:27:45.000Z",
+      "image": "https://static01.nyt.com/images/2026/10/28/multimedia/28int-israel-ledeall-1-kzpm/28int-israel-ledeall-1-kzpm-mediumSquareAt3X.jpg",
+      "author": "Isabel Kershner, Johnatan Reiss, Aaron Boxerman, Qasim Nauman and Michael Levenson",
+      "excerpt": "Votes are still being counted, but it appears that neither Prime Minister Benjamin Netanyahu’s right-wing coalition nor the opposition alliance headed by Gadi Eisenkot will have a majority.",
       "source": "NYT"
     },
     {
@@ -959,111 +1031,12 @@
       "source": "NYT"
     },
     {
-      "title": "Cabinet Officials on the Campaign Trail? Ethics Experts Say Some Are Breaking the Law.",
-      "link": "https://www.nytimes.com/2026/10/28/us/politics/trump-hatch-act.html",
-      "pubDate": "2026-10-28T23:35:45.000Z",
-      "image": "https://static01.nyt.com/images/2026/10/28/multimedia/28dc-hatch-wmjp/28dc-hatch-wmjp-mediumSquareAt3X.jpg",
-      "author": "Karoun Demirjian",
-      "excerpt": "As Trump officials stump for Republican candidates facing difficult races, ethics experts say they are being lax about complying with the Hatch Act, a federal anti-corruption law.",
-      "source": "NYT"
-    },
-    {
-      "title": "Flávio Bolsonaro Lands in Miami After Fleeing Brazil",
-      "link": "https://www.nytimes.com/2026/10/28/world/americas/flavio-bolsonaro-us-miami-brazil-trump.html",
-      "pubDate": "2026-10-28T23:04:44.000Z",
-      "image": "https://static01.nyt.com/images/2026/10/28/multimedia/28int-bolsonaro-flight-fqlp/28int-bolsonaro-flight-fqlp-mediumSquareAt3X.jpg",
-      "author": "Ana Ionova, Edward Wong, Alice Maciel and Lucía Cholakian Herrera",
-      "excerpt": "Mr. Bolsonaro, who lost Sunday’s presidential election, fled Brazil for the United States via Argentina after the police canceled his passport in relation to an investigation.",
-      "source": "NYT"
-    },
-    {
-      "title": "Atlanta’s Mayor Walked Away After Covid Chaos. Will Voters Make Her Georgia’s Governor?",
-      "link": "https://www.nytimes.com/2026/10/28/us/politics/keisha-lance-bottoms-atlanta-mayor.html",
-      "pubDate": "2026-10-28T22:44:59.000Z",
-      "image": "https://static01.nyt.com/images/2026/10/28/multimedia/00nat-bottoms-atlanta-01-fpct/00nat-bottoms-atlanta-01-fpct-mediumSquareAt3X.jpg",
-      "author": "Rick Rojas and Sean Keenan",
-      "excerpt": "Keisha Lance Bottoms, in her bid for Georgia governor, has faced pointed criticism of her leadership in Atlanta and disappointment in her decision to leave after one term.",
-      "source": "NYT"
-    },
-    {
-      "title": "Worried About A.I. Taking Your Job? This Is for You.",
-      "link": "https://www.nytimes.com/2026/10/28/opinion/ai-job-replacement-unions-san-francisco.html",
-      "pubDate": "2026-10-28T21:45:40.000Z",
-      "image": null,
-      "author": "Jillian Weinberger, Binyamin Appelbaum and Steph Khoury",
-      "excerpt": "We can learn a lot from a long-dead labor leader about how to reckon with technology that threatens our jobs.",
-      "source": "NYT"
-    },
-    {
-      "title": "A Ballot-Stacking Effort in Alaska",
-      "link": "https://www.nytimes.com/2026/10/28/briefing/alaska-ballot-stacking-horror-bookshops.html",
-      "pubDate": "2026-10-28T21:40:48.000Z",
-      "image": "https://static01.nyt.com/images/2026/10/28/multimedia/28evening-nl-alaska-dems-zclv/28evening-nl-alaska-dems-zclv-mediumSquareAt3X.jpg",
-      "author": "Matthew Cullen",
-      "excerpt": "Also, Life magazine rises again. Here’s the latest at the end of Wednesday.",
-      "source": "NYT"
-    },
-    {
-      "title": "CNN, MS Now and Politico Update Lawsuit Against Trump Over White House Access",
-      "link": "https://www.nytimes.com/2026/10/28/business/media/cnn-ms-now-politico-white-house-lawsuit.html",
-      "pubDate": "2026-10-28T20:47:13.000Z",
-      "image": "https://static01.nyt.com/images/2026/10/27/multimedia/00biz-cnn-lawsuit-cwzm/00biz-cnn-lawsuit-cwzm-mediumSquareAt3X.jpg",
-      "author": "Erik Wemple",
-      "excerpt": "The news outlets argued in an updated lawsuit that they should be granted access to the White House reporting pools.",
-      "source": "NYT"
-    },
-    {
-      "title": "How André Janones Helped Turbocharge Lula’s Comeback in Brazil’s Election",
-      "link": "https://www.nytimes.com/2026/10/28/world/americas/andre-janones-whatsapp-lula-brazil-election.html",
-      "pubDate": "2026-10-28T20:35:54.000Z",
-      "image": "https://static01.nyt.com/images/2026/10/28/multimedia/00brazil-election-influencer-promo/00brazil-election-influencer-cbkz-mediumSquareAt3X.jpg",
-      "author": "Adam B. Ellick and Victor Moriyama",
-      "excerpt": "With street talk and tactics from the far-right’s playbook, André Janones used a WhatsApp channel to help organize millions of Brazilians online.",
-      "source": "NYT"
-    },
-    {
-      "title": "Spain Train Crash Kills at Least 68",
-      "link": "https://www.nytimes.com/2026/10/28/world/europe/spain-train-crash-rescue-victims.html",
-      "pubDate": "2026-10-28T20:26:04.000Z",
-      "image": "https://static01.nyt.com/images/2026/10/28/multimedia/28int-spain-train-2-gbkt/28int-spain-train-2-gbkt-mediumSquareAt3X.jpg",
-      "author": "Jason Horowitz, José Bautista and Carlos Barragán",
-      "excerpt": "The accident, the second in less than a year on the same busy rail line, was one of the deadliest in the country’s history.",
-      "source": "NYT"
-    },
-    {
-      "title": "Israel’s Parties Gird for Wrangling to Form a Government, With No Clear Path",
-      "link": "https://www.nytimes.com/2026/10/28/world/middleeast/israel-government-formation-negotiation.html",
-      "pubDate": "2026-10-28T20:13:57.000Z",
-      "image": "https://static01.nyt.com/images/2026/10/28/multimedia/28int-israel-ledeall-1-kzpm/28int-israel-ledeall-1-kzpm-mediumSquareAt3X.jpg",
-      "author": "Isabel Kershner, Johnatan Reiss, Aaron Boxerman, Qasim Nauman and Michael Levenson",
-      "excerpt": "Votes are still being counted, but it appears that neither Prime Minister Benjamin Netanyahu’s right-wing coalition nor the opposition alliance headed by Gadi Eisenkot will have a majority.",
-      "source": "NYT"
-    },
-    {
-      "title": "The Special Ops Podcasts Changing the Narrative of the War on Terror",
-      "link": "https://www.nytimes.com/2026/10/28/magazine/special-ops-podcasts-war-on-terror.html",
-      "pubDate": "2026-10-28T18:08:04.000Z",
-      "image": "https://static01.nyt.com/images/2026/11/08/magazine/08mag-podcasts-03/08mag-podcasts-03-mediumSquareAt3X.jpg",
-      "author": "Wesley Morgan",
-      "excerpt": "Veterans’ complaints about the rules of engagement have reached Pete Hegseth and a generation of new recruits.",
-      "source": "NYT"
-    },
-    {
-      "title": "What Does the Cheesecake Factory’s Designer Think of Obama and Trump’s Jabs at His Décor?",
-      "link": "https://www.nytimes.com/2026/10/28/dining/cheesecake-factory-obama-trump-midterm-elections.html",
-      "pubDate": "2026-10-28T17:55:11.000Z",
-      "image": "https://static01.nyt.com/images/2026/10/28/multimedia/28FD-cheesecake-factory1-jgmh/28FD-cheesecake-factory1-jgmh-mediumSquareAt3X.jpg",
-      "author": "Kim Severson",
-      "excerpt": "Long before its baroque décor and class identity became midterm talking points, this durable restaurant chain survived some withering critiques.",
-      "source": "NYT"
-    },
-    {
-      "title": "Inside Democrats’ Secret Effort to Stack Alaska’s Midterm Ballot With Another Dan Sullivan",
-      "link": "https://www.nytimes.com/2026/10/28/us/politics/alaska-dan-sullivan-conspiracy-peltola.html",
-      "pubDate": "2026-10-28T14:37:47.000Z",
-      "image": "https://static01.nyt.com/images/2026/10/26/multimedia/pol-alaska-ballot-01-tpwm/pol-alaska-ballot-01-tpwm-mediumSquareAt3X-v4.jpg",
-      "author": "Kellen Browning",
-      "excerpt": "Operatives aligned with Mary Peltola, the Democratic nominee for Senate, spent months recruiting candidates to peel votes from Senator Dan Sullivan, the Republican.",
+      "title": "New York City Marathon Weather Forecast: Warmer Temperatures Than Normal",
+      "link": "https://www.nytimes.com/2026/10/28/weather/nyc-marathon-weather-forecast.html",
+      "pubDate": "2026-10-28T19:36:33.000Z",
+      "image": "https://static01.nyt.com/images/2026/10/28/multimedia/28wea-marathonweather-01-zkcb/28wea-marathonweather-01-zkcb-mediumSquareAt3X.jpg",
+      "author": "Nazaneen Ghaffar",
+      "excerpt": "Thousands of runners will take part in the New York City Marathon on Sunday. Temperatures are expected to be unusually warm for November.",
       "source": "NYT"
     }
   ]
