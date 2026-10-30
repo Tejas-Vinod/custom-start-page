@@ -1,6 +1,60 @@
 {
   "spaceNews": [
     {
+      "title": "Turkey aims for first Moon-orbiting mission in 2027",
+      "link": "https://spaceflightnow.com/2026/10/30/turkey-aims-for-first-moon-orbiting-mission-in-2027/",
+      "pubDate": "2026-10-30T15:50:37.000Z",
+      "image": "https://spaceflightnow.com/wp-content/uploads/2026/10/20261007_TLM-1_1-1.jpeg",
+      "author": "Will Robinson-Smith",
+      "excerpt": "This is the first of a pair of Turkish flights to the Moon. The first will be an orbiter with several scientific instruments and the second will be a lander.",
+      "source": "Spaceflight Now"
+    },
+    {
+      "title": "Rusty crust made Mars warm and wet",
+      "link": "https://www.newscientist.com/article/2596726-rusty-crust-made-mars-warm-and-wet/?utm_campaign=RSS|NSNS&utm_content=space&utm_medium=RSS&utm_source=NSNS",
+      "pubDate": "2026-10-30T15:00:00.000Z",
+      "image": null,
+      "author": "Bas den Hond",
+      "excerpt": "It's unclear how and why Mars once became warm enough to allow water to flow on its surface, but a new idea suggests it comes down to rust below the surface",
+      "source": "New Scientist"
+    },
+    {
+      "title": "NASA Explores Potential Commercial Servicing for Hubble Telescope",
+      "link": "https://science.nasa.gov/missions/hubble/nasa-explores-potential-commercial-servicing-for-hubble-telescope/",
+      "pubDate": "2026-10-30T14:51:21.000Z",
+      "image": "https://assets.science.nasa.gov/dynamicimage/assets/science/cds/general/images/2023/04/2/27946391011_d40ff10573_h.jpg?w=1536&#038;h=1020&#038;fit=clip&#038;crop=faces%2Cfocalpoint",
+      "author": "",
+      "excerpt": "NASA issued a Request for Information Oct. 29 to learn more about industry capabilities for in-space servicing to support the agency’s Hubble Space Telescope.",
+      "source": "NASA"
+    },
+    {
+      "title": "Telesat Stays Quiet on C$2.4B GEO Debt Due in December",
+      "link": "https://payloadspace.com/telesat-stays-quiet-on-c2-4b-geo-debt-due-in-december/",
+      "pubDate": "2026-10-30T12:00:00.000Z",
+      "image": "https://payloadspace.com/wp-content/uploads/2026/10/inset-image-telstar18-vantage-200x200.jpg",
+      "author": "Victoria Woodburn",
+      "excerpt": "Telesat CEO Dan Goldberg told analysts the company was “pretty constrained” in what it could say about refinancing its legacy GEO debt. The post Telesat Stays Quiet on C$2.4B GEO Debt Due in December appeared first on Payload.",
+      "source": "Payload"
+    },
+    {
+      "title": "November’s Night Sky Notes: Light-Day Away",
+      "link": "https://science.nasa.gov/solar-system/skywatching/night-sky-network/novembers-night-sky-notes-light-day-away/",
+      "pubDate": "2026-10-30T10:00:00.000Z",
+      "image": "https://science.nasa.gov/wp-content/uploads/2024/04/grand-tour.jpg?w=1200",
+      "author": "",
+      "excerpt": "Twin Travelers In 1977, NASA launched twin spacecraft Voyager 1 and 2, taking advantage of a once-every-175-year planetary alignment of the four largest planets in our solar system: Jupiter, Saturn, Uranus, and Neptune. Using six gravity assists between them, this Grand Tour gave us up-close views of the gas and ice gi",
+      "source": "NASA"
+    },
+    {
+      "title": "Read an extract from Dark Eden by Chris Beckett",
+      "link": "https://www.newscientist.com/article/2596432-read-an-extract-from-dark-eden-by-chris-beckett/?utm_campaign=RSS|NSNS&utm_content=space&utm_medium=RSS&utm_source=NSNS",
+      "pubDate": "2026-10-30T09:30:00.000Z",
+      "image": "https://www.newscientist.com/wp-content/uploads/2026/10/SEI317456926.jpg",
+      "author": "Chris Beckett",
+      "excerpt": "In this extract from Chris Beckett’s Dark Eden, the November read for the New Scientist Book Club, we meet some of the inhabitants of a dark planet that drifts outside the Milky Way, descendants of two astronauts marooned there over a century earlier",
+      "source": "New Scientist"
+    },
+    {
       "title": "Europe Begins Funding Offensive In-Space Capabilities",
       "link": "https://payloadspace.com/europe-begins-funding-offensive-in-space-capabilities/",
       "pubDate": "2026-10-30T06:29:00.000Z",
@@ -50,7 +104,7 @@
       "link": "https://spaceflightnow.com/2026/10/29/as-it-happened-spacewalkers-install-new-solar-array/",
       "pubDate": "2026-10-29T23:45:33.000Z",
       "image": "https://spaceflightnow.com/wp-content/uploads/2026/10/20261029_US_EVA_100-2.jpg",
-      "author": "John Pisani",
+      "author": "Spaceflight Now",
       "excerpt": "NASA astronaut Anil Menon and Canadian Space Agency astronaut Joshua Kutryk are performing a spacewalk to install the 7th of 8 ISS Roll-Out Solar Arrays (iROSA) to upgrade the orbiting outpost's power system.",
       "source": "Spaceflight Now"
     },
@@ -115,24 +169,6 @@
       "image": "https://www.nasa.gov/wp-content/uploads/2026/07/bps-goals-landscape-ppt-no-text.jpg?w=2000",
       "author": "Bailey Light",
       "excerpt": "The Quantum-Enabled Predictive Preclinical NAMs for Toxicity and Safety (QuSAFE) Challenge, a collaboration between the National Institutes of Health (NIH) and NASA, advances quantum-enabled sensing for in vitro NAMs, such as organoids and microphysiological systems (MPS), to improve drug safety while reducing animal u",
-      "source": "NASA"
-    },
-    {
-      "title": "Envía tu nombre a Titán a bordo de la misión Dragonfly de la NASA",
-      "link": "https://www.nasa.gov/news-release/envia-tu-nombre-a-titan-a-bordo-de-la-mision-dragonfly-de-la-nasa/",
-      "pubDate": "2026-10-29T15:21:23.000Z",
-      "image": "https://www.nasa.gov/wp-content/uploads/2026/10/27-10097-01j-hero-image-16-9-spanish-v01.jpg?w=2048",
-      "author": "María José Viñas",
-      "excerpt": "Read this release in English here. Puede que nunca llegues a surcar los cielos bajo las nubes o sobre las arenas orgánicas de la luna Titán de Saturno, ¡pero tu nombre sí puede hacerlo! La NASA invita al público a enviar su nombre a bordo de la aeronave de ala giratoria Dragonfly de la agencia […]",
-      "source": "NASA"
-    },
-    {
-      "title": "Send Your Name to Titan Aboard NASA’s Dragonfly Mission",
-      "link": "https://www.nasa.gov/news-release/send-your-name-to-titan-aboard-nasas-dragonfly-mission/",
-      "pubDate": "2026-10-29T15:10:18.000Z",
-      "image": "https://www.nasa.gov/wp-content/uploads/2026/10/27-10097-01a-hero-image-16-9-v02.jpg?w=2048",
-      "author": "Jessica Taveau",
-      "excerpt": "You may never soar under the clouds or over the organic sands of Saturn’s moon Titan, but your name can. NASA is inviting the public to send their names aboard the agency’s Dragonfly rotorcraft and be part of the first science mission to fly and explore the surface of another world. To have your […]",
       "source": "NASA"
     },
     {
@@ -316,15 +352,6 @@
       "source": "Payload"
     },
     {
-      "title": "NASA Outlines the Details of Artemis III and IV Missions",
-      "link": "https://payloadspace.com/nasa-outlines-the-details-of-artemis-iii-and-iv-missions/",
-      "pubDate": "2026-10-23T21:13:28.000Z",
-      "image": "https://payloadspace.com/wp-content/uploads/2026/10/artemis-announcement-advisory-oct-13-200x200.webp",
-      "author": "Douglas Gorman",
-      "excerpt": "NASA is still on track to return US astronauts to the Moon in 2028. On Friday, officials shared a progress update on their efforts, as well as the finer details of the mission plans for Artemis III and IV, targeting flights in 2027 and 2028, respectively. Long story short: NASA remains confident it can meet… The post N",
-      "source": "Payload"
-    },
-    {
       "title": "Announcing the winners of Astronomy Magazine’s 2026 Astrophotography Contest",
       "link": "https://www.astronomy.com/observing/announcing-the-winners-of-astronomy-magazines-2026-astrophotography-contest/",
       "pubDate": "2026-10-23T20:21:06.000Z",
@@ -424,6 +451,15 @@
       "source": "Astronomy Magazine"
     },
     {
+      "title": "JWST tours Orion’s hidden stellar nursery",
+      "link": "https://www.astronomy.com/science/jwst-tours-orions-hidden-stellar-nursery/",
+      "pubDate": "2026-10-20T16:36:55.000Z",
+      "image": null,
+      "author": "Richard Talcott",
+      "excerpt": "Few sights thrill backyard observers as much as the Orion Nebula (M42). The brightest stellar nursery visible from mid-northern latitudes resolves into a complex web of luminous gas and dusty tendrils even through modest telescopes. And at its core, you’ll see the brilliant young stars of the Trapezium Cluster that pro",
+      "source": "Astronomy Magazine"
+    },
+    {
       "title": "AnySignal to Deliver Space-to-Earth Communications for Three Reflect Orbital Missions",
       "link": "https://spacenews.com/anysignal-to-deliver-space-to-earth-communications-for-three-reflect-orbital-missions/",
       "pubDate": "2026-10-20T13:00:00.000Z",
@@ -505,24 +541,6 @@
       "source": "Spaceflight Now"
     },
     {
-      "title": "How NASA is thinking about a moon base",
-      "link": "https://spacenews.com/how-nasa-is-thinking-about-a-moon-base/",
-      "pubDate": "2026-10-15T15:14:24.000Z",
-      "image": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/10/space-minds-podcast-NASA-moon-2000-1500.jpg?fit=1024%2C768&amp;ssl=1",
-      "author": "SpaceNews Editor",
-      "excerpt": "In this episode, SpaceNews’ Mike Gruss talks with NASA’s Shatel Bhakta, the principal systems engineer for Moon Base, about what’s needed between now and 2028 and the incremental steps to […] The post How NASA is thinking about a moon base appeared first on SpaceNews.",
-      "source": "SpaceNews"
-    },
-    {
-      "title": "Agile Space Industries Expands to Seattle Area with New Bellevue Office",
-      "link": "https://spacenews.com/agile-space-industries-expands-to-seattle-area-with-new-bellevue-office/",
-      "pubDate": "2026-10-15T12:00:00.000Z",
-      "image": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/07/agile-space-industries-square-logo-scaled.png?fit=1024%2C1024&amp;ssl=1",
-      "author": "Agile Space Industries",
-      "excerpt": "BELLEVUE, Wash., Oct. 15, 2026 — Agile Space Industries, a leading provider of in-space chemical propulsion solutions, has expanded into the Seattle metropolitan area with the opening of a new […] The post Agile Space Industries Expands to Seattle Area with New Bellevue Office appeared first on SpaceNews.",
-      "source": "SpaceNews"
-    },
-    {
       "title": "CSO Notice to Guardians: Lines of Effort for the Force",
       "link": "https://www.spaceforce.mil/News/Article-Display/Article/4625150/cso-notice-to-guardians-lines-of-effort-for-the-force/",
       "pubDate": "2026-10-14T13:36:00.000Z",
@@ -559,15 +577,6 @@
       "source": "Astronomy Magazine"
     },
     {
-      "title": "SpaceX launches NASA science and cargo to the International Space Station",
-      "link": "https://spaceflightnow.com/2026/10/13/spacex-launches-nasa-science-and-cargo-to-the-international-space-station/",
-      "pubDate": "2026-10-13T14:07:50.000Z",
-      "image": "https://spaceflightnow.com/wp-content/uploads/2026/10/20261013_CRS-35_MC-1.jpeg",
-      "author": "Will Robinson-Smith",
-      "excerpt": "The sunrise launch on Oct. 13 was the 35th SpaceX flight under the Commercial Resupply Services 2 contract with NASA.",
-      "source": "Spaceflight Now"
-    },
-    {
       "title": "Our 16th annual star products",
       "link": "https://www.astronomy.com/observing/our-16th-annual-star-products/",
       "pubDate": "2026-10-13T13:29:16.000Z",
@@ -583,15 +592,6 @@
       "image": null,
       "author": "David J. Eicher",
       "excerpt": "Today I’ll be telling you about 10 of my favorite autumn deep-sky objects, with suggestions for viewing them. I hope you’ll enjoy this list, and I’ll share some other deep-sky favorites of mine from time to time in the future. What’s a large telescope? The notion of what’s big changes from observer to observer, butCont",
-      "source": "Astronomy Magazine"
-    },
-    {
-      "title": "What can we learn from gravitational lensing?",
-      "link": "https://www.astronomy.com/science/what-can-we-learn-from-gravitational-lensing/",
-      "pubDate": "2026-10-12T14:00:00.000Z",
-      "image": null,
-      "author": "Astronomy Staff",
-      "excerpt": "What information is obtainable through gravitational lensing and how? Patrick A. CloughWichita, Kansas Gravitational lensing is the effect by which comparatively nearby objects, such as clusters of galaxies, can bend and focus the light of other objects that are more distant. Lensing is only possible because highly mas",
       "source": "Astronomy Magazine"
     },
     {
@@ -667,15 +667,6 @@
       "source": "Space Force"
     },
     {
-      "title": "A lack of rockets is creating a crisis for space technology companies",
-      "link": "https://www.newscientist.com/article/2591502-a-lack-of-rockets-is-creating-a-crisis-for-space-technology-companies/?utm_campaign=RSS|NSNS&utm_content=space&utm_medium=RSS&utm_source=NSNS",
-      "pubDate": "2026-10-01T11:00:00.000Z",
-      "image": null,
-      "author": "Jonathan O’Callaghan",
-      "excerpt": "SpaceX’s changing priorities, the war in Ukraine and a lack of competitors are all causing a launch crisis that might last years",
-      "source": "New Scientist"
-    },
-    {
       "title": "DAF to adopt standardized Religious Affiliation Codes: Action required in vMPF",
       "link": "https://www.spaceforce.mil/News/Article-Display/Article/4611397/daf-to-adopt-standardized-religious-affiliation-codes-action-required-in-vmpf/",
       "pubDate": "2026-09-25T13:03:00.000Z",
@@ -683,15 +674,6 @@
       "author": "Pentagon News",
       "excerpt": "Airmen and Guardians must take action to update their RAC in the Virtual Military Personnel Flight and certify their Record of Emergency Data is accurate.",
       "source": "Space Force"
-    },
-    {
-      "title": "Is China catching up to the US and SpaceX on reusable rockets?",
-      "link": "https://www.newscientist.com/article/2589931-is-china-catching-up-to-the-us-and-spacex-on-reusable-rockets/?utm_campaign=RSS|NSNS&utm_content=space&utm_medium=RSS&utm_source=NSNS",
-      "pubDate": "2026-09-25T12:00:00.000Z",
-      "image": null,
-      "author": "Matthew Sparkes",
-      "excerpt": "The next space race is not about making rockets faster, bigger or more capacious, but about reusing them reliably and cheaply. The US is well ahead, but can China catch up?",
-      "source": "New Scientist"
     },
     {
       "title": "Department of the Air Force pilot program expands to help more military spouses",
@@ -804,6 +786,15 @@
   ],
   "industryNews": [
     {
+      "title": "Lockheed Martin Advances 25Forward Initiative Through New Partnerships",
+      "link": "https://news.lockheedmartin.com/2026-10-30-Lockheed-Martin-Advances-25Forward-Initiative-Through-New-Partnerships",
+      "pubDate": "2026-10-30T13:00:00.000Z",
+      "image": "https://news.lockheedmartin.com/file.php/184088/25forward-1000.jpg?thumbnail=144",
+      "author": "",
+      "excerpt": "New and expanded partnerships support the company’s $25 million commitment to honor, remember and serve.",
+      "source": "Lockheed Martin"
+    },
+    {
       "title": " Lockheed Martin Advances Joint Fires Capability by Redirecting In-flight GMLRS Rocket During U.S. Army Test ",
       "link": "https://news.lockheedmartin.com/2026-10-28-Lockheed-Martin-Advances-Joint-Fires-Capability-by-Redirecting-In-flight-GMLRS-Rocket-During-US-Army-Test",
       "pubDate": "2026-10-28T13:00:00.000Z",
@@ -858,15 +849,6 @@
       "source": "Lockheed Martin"
     },
     {
-      "title": "Lockheed Martin Reports Third Quarter 2026 Financial Results",
-      "link": "https://news.lockheedmartin.com/2026-10-22-Lockheed-Martin-Reports-Third-Quarter-2026-Financial-Results",
-      "pubDate": "2026-10-22T10:19:00.000Z",
-      "image": null,
-      "author": "",
-      "excerpt": "",
-      "source": "Lockheed Martin"
-    },
-    {
       "title": "U.S. FAA certifies Boeing 737-10, largest member of 737 MAX family",
       "link": "https://boeing.mediaroom.com/2026-10-20-U-S-FAA-certifies-Boeing-737-10,-largest-member-of-737-MAX-family",
       "pubDate": "2026-10-20T19:38:00.000Z",
@@ -896,21 +878,192 @@
   ],
   "nytNews": [
     {
-      "title": "‘We’ve Seen This Movie’: Four Writers on What’s Next for Israel",
-      "link": "https://www.nytimes.com/2026/10/29/opinion/israel-elections-arab-parties.html",
-      "pubDate": "2026-10-30T08:08:45.000Z",
-      "image": "https://static01.nyt.com/images/2026/10/29/opinion/29israel-roundtable/29israel-roundtable-mediumSquareAt3X.jpg",
-      "author": "Diana Buttu, Yossi Klein Halevi, Dahlia Scheindlin, Bret Stephens and Daniel J. Wakin",
-      "excerpt": "A round table discussion decoding the election results.",
+      "title": "Tech Stocks Tumble, but Broader Market Is Holding On",
+      "link": "https://www.nytimes.com/2026/10/30/business/stock-market-october-ai.html",
+      "pubDate": "2026-10-30T15:50:04.000Z",
+      "image": "https://static01.nyt.com/images/2026/10/30/multimedia/30biz-stocks-promo-image-ztkj/30biz-stocks-promo-image-ztkj-mediumSquareAt3X.jpg",
+      "author": "Joe Rennison and Aruni Soni",
+      "excerpt": "The S&P 500 is set for a small loss for the month, despite a deeper slide in some of the A.I. stocks that exert a heavy influence on the index.",
+      "source": "NYT"
+    },
+    {
+      "title": "The Trouble With This Popular Progressive Idea",
+      "link": "https://www.nytimes.com/2026/10/30/opinion/billionaire-wealth-tax-california.html",
+      "pubDate": "2026-10-30T15:19:49.000Z",
+      "image": "https://static01.nyt.com/images/2026/10/30/opinion/30opinions-sarin-image/30opinions-sarin-image-mediumSquareAt3X.png",
+      "author": "Natasha Sarin and Emily Holzknecht",
+      "excerpt": "Forget California’s billionaire wealth tax. The economist Natasha Sarin believes there are better ways to make billionaires pay up.",
+      "source": "NYT"
+    },
+    {
+      "title": "Binance Suspends Withdrawals After Crypto Hackers Steal $6.3 Billion",
+      "link": "https://www.nytimes.com/2026/10/29/technology/binance-hack-crypto.html",
+      "pubDate": "2026-10-30T15:16:55.000Z",
+      "image": "https://static01.nyt.com/images/2026/10/29/multimedia/29biz-binance-cjwh/29biz-binance-cjwh-mediumSquareAt3X.jpg",
+      "author": "David Yaffe-Bellany and Ryan Mac",
+      "excerpt": "The crypto exchange said it was compromised in what could be the biggest crypto heist ever. One research lab attributed the theft to “North Korea’s elite hacking unit.”",
+      "source": "NYT"
+    },
+    {
+      "title": "Binance Hack Sends Crypto Stocks Tumbling",
+      "link": "https://www.nytimes.com/2026/10/30/business/binance-hack-crypto-stocks-bitcoin.html",
+      "pubDate": "2026-10-30T15:06:23.000Z",
+      "image": "https://static01.nyt.com/images/2026/10/30/multimedia/30biz-crypto-markets-tqhz/30biz-crypto-markets-tqhz-mediumSquareAt3X.jpg",
+      "author": "Aruni Soni",
+      "excerpt": "The rout hit publicly traded crypto exchanges and fintech companies, as well as cryptocurrencies like Bitcoin.",
+      "source": "NYT"
+    },
+    {
+      "title": "Darline Graham Is ‘a Little Nervous.’ Can She Keep South Carolina’s Senate Seat Red?",
+      "link": "https://www.nytimes.com/2026/10/30/us/darline-graham-annie-andrews-south-carolina-senate.html",
+      "pubDate": "2026-10-30T14:36:16.000Z",
+      "image": "https://static01.nyt.com/images/2026/10/30/multimedia/30pol-sc-graham-01-jhfp/30pol-sc-graham-01-jhfp-mediumSquareAt3X.jpg",
+      "author": "Emily Davies",
+      "excerpt": "Polls show the sister of the late Senator Lindsey Graham in a virtual tie with her Democratic opponent, Dr. Annie Andrews. An upset was unthinkable just a few months ago.",
+      "source": "NYT"
+    },
+    {
+      "title": "Conservation Efforts for Caucasian Leopards Show Promise",
+      "link": "https://www.nytimes.com/2026/10/30/climate/injured-leopards-200-mile-trek-suggests-hope-for-a-species.html",
+      "pubDate": "2026-10-30T14:35:02.000Z",
+      "image": null,
+      "author": "Eric Niiler",
+      "excerpt": "In Armenia, a three-legged Caucasian leopard’s astonishing hike signals that conservation efforts for the endangered animal may be working.",
+      "source": "NYT"
+    },
+    {
+      "title": "Mosquito Lasers",
+      "link": "https://www.nytimes.com/2026/10/30/briefing/mosquito-lasers.html",
+      "pubDate": "2026-10-30T14:21:52.000Z",
+      "image": "https://static01.nyt.com/images/2026/10/27/multimedia/30themorning-nl-Laser/30themorning-nl-Laser-mediumSquareAt3X.jpg",
+      "author": "Sam Sifton",
+      "excerpt": "China has come up with an innovative way to kill the insects.",
       "source": "NYT"
     },
     {
       "title": "Rare Evacuation Announced by Melania Trump Begins in Ukrainian City of Oleshky",
       "link": "https://www.nytimes.com/2026/10/26/world/europe/ukraine-oleshky-ceasefire-russia-war.html",
-      "pubDate": "2026-10-30T07:54:42.000Z",
-      "image": "https://static01.nyt.com/images/2026/10/30/multimedia/30int-Ukraine-Oleshky-WTK-tkfg/30int-Ukraine-Oleshky-WTK-tkfg-mediumSquareAt3X.jpg",
+      "pubDate": "2026-10-30T14:21:24.000Z",
+      "image": "https://static01.nyt.com/images/2026/10/30/multimedia/30int-ukraine-oleshky-wtk-01-pwbk/30int-ukraine-oleshky-wtk-01-pwbk-mediumSquareAt3X.jpg",
       "author": "Carlotta Gall and Oleksandr Chubko",
-      "excerpt": "Many people left in Oleshky, where bombardment is constant, have run out of food. A truce that began Tuesday is supposed to allow aid in and civilians out.",
+      "excerpt": "Many of the people left in Oleshky, where bombardment is constant, have run out of food. A truce that began Tuesday is supposed to allow aid in and civilians out.",
+      "source": "NYT"
+    },
+    {
+      "title": "Novaya Gazeta, Fiercely Independent Russian News Outlet, Says It Will Shut Down",
+      "link": "https://www.nytimes.com/2026/10/30/world/europe/russia-novaya-gazeta-newspaper.html",
+      "pubDate": "2026-10-30T14:12:50.000Z",
+      "image": "https://static01.nyt.com/images/2026/10/30/multimedia/30-RUSSIA-NOVAYA-GAZETA-01-bpwq/30-RUSSIA-NOVAYA-GAZETA-01-bpwq-mediumSquareAt3X.jpg",
+      "author": "Valerie Hopkins",
+      "excerpt": "Journalists at Novaya Gazeta, whose co-founder received the Nobel Peace Prize, said the government had orchestrated its demise: “They killed us.”",
+      "source": "NYT"
+    },
+    {
+      "title": "Big Tech’s Data Center Blitz Is Burning Through Cash and Scaring Wall St.",
+      "link": "https://www.nytimes.com/2026/10/29/technology/amazon-earnings-tech-spending.html",
+      "pubDate": "2026-10-30T14:02:24.000Z",
+      "image": "https://static01.nyt.com/images/2026/10/29/multimedia/29biz-bigtech-spending-amazon-kltm/29biz-bigtech-spending-amazon-kltm-mediumSquareAt3X.jpg",
+      "author": "Karen Weise",
+      "excerpt": "Amazon became the latest tech company to announce swelling investments in A.I. amid stumbling share prices.",
+      "source": "NYT"
+    },
+    {
+      "title": "Another Toll of the Violent Unrest in France: The Political Center",
+      "link": "https://www.nytimes.com/2026/10/30/world/europe/france-unrest-political-center.html",
+      "pubDate": "2026-10-30T14:00:48.000Z",
+      "image": "https://static01.nyt.com/images/2026/10/30/multimedia/30int-france-center-01-gtlk/30int-france-center-01-gtlk-mediumSquareAt3X-v2.jpg",
+      "author": "Mark Landler",
+      "excerpt": "Support for Édouard Philippe, the leading candidate from the centrist bloc, has eroded, while his far-right and far-left rivals benefit.",
+      "source": "NYT"
+    },
+    {
+      "title": "Ukrainians Are Fighting Russians Inside Underground Gas Pipes. I Went in One.",
+      "link": "https://www.nytimes.com/2026/10/30/world/europe/ukraine-russia-natural-gas-pipes.html",
+      "pubDate": "2026-10-30T13:33:25.000Z",
+      "image": "https://static01.nyt.com/images/2026/10/28/multimedia/28int-ukraine-pipes-promo-afabuo/28int-ukraine-pipes-promo-afabuo-mediumSquareAt3X.jpg",
+      "author": "Maria Varenikova and Finbarr O’Reilly",
+      "excerpt": "I experienced war’s subterranean future as drones dominate the skies. I didn’t like it.",
+      "source": "NYT"
+    },
+    {
+      "title": "The Result of Dissatisfaction Is Endless Political Deadlock",
+      "link": "https://www.nytimes.com/2026/10/30/magazine/political-deadlock-france-brazil.html",
+      "pubDate": "2026-10-30T13:17:50.000Z",
+      "image": null,
+      "author": "David Wallace-Wells",
+      "excerpt": "From France to Brazil, voters are railing against the status quo, even as the politics of disenchantment make lasting change nearly impossible.",
+      "source": "NYT"
+    },
+    {
+      "title": "Christa Pike Describes Pain and Isolation After Botched Execution",
+      "link": "https://www.nytimes.com/2026/10/30/us/christa-pike-botched-execution-statement.html",
+      "pubDate": "2026-10-30T13:00:05.000Z",
+      "image": "https://static01.nyt.com/images/2026/10/30/multimedia/30nat-pike-statement-01-jpcl/30nat-pike-statement-01-jpcl-mediumSquareAt3X.jpg",
+      "author": "Emily Cochrane",
+      "excerpt": "Convicted of a 1995 murder, Ms. Pike released her first statement since the failed attempt to execute her last month.",
+      "source": "NYT"
+    },
+    {
+      "title": "U.S. Oil Industry Earned Over $130 Billion in Profit During Iran War",
+      "link": "https://www.nytimes.com/2026/10/30/business/energy-environment/exxon-chevron-oil-profits-iran-war.html",
+      "pubDate": "2026-10-30T10:35:33.000Z",
+      "image": "https://static01.nyt.com/images/2026/10/29/multimedia/2026-10-26-oil-profits-index/2026-10-26-oil-profits-index-mediumSquareAt3X-v4.png",
+      "author": "Rebecca F. Elliott and Keith Collins",
+      "excerpt": "That was almost three times as much as what businesses producing and refining oil in the United States made in the same period in 2025.",
+      "source": "NYT"
+    },
+    {
+      "title": "Trump Administration Steps Up Midterm Interventions, and Israeli Elections Have No Clear Winner",
+      "link": "https://www.nytimes.com/2026/10/30/podcasts/the-headlines/trump-interventions-midterms-israeli-election.html",
+      "pubDate": "2026-10-30T10:00:12.000Z",
+      "image": "https://static01.nyt.com/images/2026/10/30/multimedia/30theheadlines-hgzb/30theheadlines-hgzb-mediumSquareAt3X.jpg",
+      "author": "Tracy Mumford, Will Jarvis, Margaret Kadifa, Jake Lucas and Jonathan Wolfe",
+      "excerpt": "Plus, the Friday news quiz.",
+      "source": "NYT"
+    },
+    {
+      "title": "Why Trump Is Losing Young Men",
+      "link": "https://www.nytimes.com/video/us/elections/100000011230123/trump-young-men-voters-michigan.html",
+      "pubDate": "2026-10-30T09:51:42.000Z",
+      "image": "https://static01.nyt.com/images/2026/11/18/video/181515_vid-genz-male-voters_1/181515_vid-genz-male-voters_1-mediumSquareAt3X.jpg",
+      "author": "Sabrina Tavernise, Kassie Bracken, Mark Boyer, Luke Piotrowski, Erik Ljung, David Jouppi and Ruth Igielnik",
+      "excerpt": "Young men swung to Donald Trump in 2024. Polling shows they are now moving away — but to what? Sabrina Tavernise, a reporter for The New York Times, went to Michigan to find out.",
+      "source": "NYT"
+    },
+    {
+      "title": "Here’s Where Rain Could Dampen Your Spirits This Halloween",
+      "link": "https://www.nytimes.com/2026/10/30/weather/halloween-rain-forecast.html",
+      "pubDate": "2026-10-30T09:30:06.000Z",
+      "image": "https://static01.nyt.com/images/2026/10/30/pageoneplus/30wea-halloween/30wea-halloween-mediumSquareAt3X.jpg",
+      "author": "Amy Graff",
+      "excerpt": "Use our tool to see your trick-or-treat forecast.",
+      "source": "NYT"
+    },
+    {
+      "title": "High Prices Haunt Trump and the GOP on Eve of the Midterms",
+      "link": "https://www.nytimes.com/2026/10/30/business/trump-inflation-election.html",
+      "pubDate": "2026-10-30T09:03:21.000Z",
+      "image": "https://static01.nyt.com/images/2026/10/30/multimedia/30dc-trump-econ-01-qwmg/30dc-trump-econ-01-qwmg-mediumSquareAt3X.jpg",
+      "author": "Tony Romm",
+      "excerpt": "A backlash over high prices helped Republicans capture a majority in 2024. Now, it may be the source of the party’s own undoing.",
+      "source": "NYT"
+    },
+    {
+      "title": "Why the Markets Don’t Care About the Midterms",
+      "link": "https://www.nytimes.com/2026/10/30/business/midterms-stock-bond-markets.html",
+      "pubDate": "2026-10-30T09:02:44.000Z",
+      "image": null,
+      "author": "Jeff Sommer",
+      "excerpt": "Factors like inflation, interest rates, A.I. and the war with Iran are far more important, our columnist says.",
+      "source": "NYT"
+    },
+    {
+      "title": "How Michigan’s Midterm Senate Race Could Influence the 2028 Democratic Presidential Primary",
+      "link": "https://www.nytimes.com/2026/10/30/us/politics/michigan-senate-democratic-presidential-primary.html",
+      "pubDate": "2026-10-30T09:02:02.000Z",
+      "image": "https://static01.nyt.com/images/2026/10/30/multimedia/30pol-michigan-2028-qmzl/30pol-michigan-2028-qmzl-mediumSquareAt3X.jpg",
+      "author": "Shane Goldmacher",
+      "excerpt": "The fate of Dr. Abdul El-Sayed, the progressive candidate in the race, will serve as a litmus test for the left’s potency heading into the next presidential contest.",
       "source": "NYT"
     },
     {
@@ -923,48 +1076,12 @@
       "source": "NYT"
     },
     {
-      "title": "What Israeli Election Results Reveal About the Electorate",
-      "link": "https://www.nytimes.com/2026/10/29/world/middleeast/israel-voter-data-takeaways.html",
-      "pubDate": "2026-10-30T06:31:44.000Z",
-      "image": "https://static01.nyt.com/images/2026/10/29/multimedia/29Int-Israel-Voter-Data-vtlz/29Int-Israel-Voter-Data-vtlz-mediumSquareAt3X.jpg",
-      "author": "Johnatan Reiss",
-      "excerpt": "Some groups stood by Prime Minister Benjamin Netanyahu’s party, but support fell off among others. Turnout was also a striking factor in the election.",
-      "source": "NYT"
-    },
-    {
       "title": "Is This the End for Trump’s Princelings? Or Just the Start?",
       "link": "https://www.nytimes.com/2026/10/30/opinion/trump-america-capitalism-rich-politics.html",
       "pubDate": "2026-10-30T05:58:54.000Z",
       "image": null,
       "author": "Noah Shachtman",
       "excerpt": "American capitalism may never be the same again.",
-      "source": "NYT"
-    },
-    {
-      "title": "China Is Not Happy About Fan-made A.I. Videos of Sun Wukong and Lin Daiyu",
-      "link": "https://www.nytimes.com/2026/10/29/world/asia/china-ai-videos-sun-wukong-lin-daiyu.html",
-      "pubDate": "2026-10-30T05:24:20.000Z",
-      "image": null,
-      "author": "Tiffany May",
-      "excerpt": "Mash-up videos of beloved characters from Chinese classics — some made with A.I. — have caught the attention of the authorities.",
-      "source": "NYT"
-    },
-    {
-      "title": "Binance Grapples With ‘Security Incident’ That May Cause $6.3 Billion in Losses",
-      "link": "https://www.nytimes.com/2026/10/29/technology/binance-hack-crypto.html",
-      "pubDate": "2026-10-30T03:07:38.000Z",
-      "image": "https://static01.nyt.com/images/2026/10/29/multimedia/29biz-binance-cjwh/29biz-binance-cjwh-mediumSquareAt3X.jpg",
-      "author": "David Yaffe-Bellany",
-      "excerpt": "The world’s largest crypto exchange suspended deposits and withdrawals after an apparent hack.",
-      "source": "NYT"
-    },
-    {
-      "title": "Republicans Ramp Up Investigation Into Democratic Plan to Pack Alaska’s Ballot",
-      "link": "https://www.nytimes.com/2026/10/29/us/politics/alaska-dan-sullivan-peltola-ballot-investigation-trump.html",
-      "pubDate": "2026-10-30T02:18:43.000Z",
-      "image": "https://static01.nyt.com/images/2026/10/29/multimedia/29pol-alaska-ballot-folo-jqck/29pol-alaska-ballot-folo-jqck-mediumSquareAt3X.jpg",
-      "author": "Kellen Browning, Anna Griffin and Glenn Thrush",
-      "excerpt": "The Justice Department issued subpoenas, a House oversight committee sought interviews and the state opened its own inquiry into a Democratic plan to recruit a spoiler into a Senate race.",
       "source": "NYT"
     },
     {
@@ -977,165 +1094,12 @@
       "source": "NYT"
     },
     {
-      "title": "Big Tech’s Data Center Blitz Is Burning Through Cash and Scaring Wall St.",
-      "link": "https://www.nytimes.com/2026/10/29/technology/amazon-earnings-tech-spending.html",
-      "pubDate": "2026-10-30T01:30:27.000Z",
-      "image": "https://static01.nyt.com/images/2026/10/29/multimedia/29biz-bigtech-spending-amazon-kltm/29biz-bigtech-spending-amazon-kltm-mediumSquareAt3X.jpg",
-      "author": "Karen Weise",
-      "excerpt": "Amazon on Thursday became the latest tech company to announce swelling investments in A.I. amid stumbling share prices.",
-      "source": "NYT"
-    },
-    {
-      "title": "Bostonians Compete to Be Their Airport’s New Voice ",
-      "link": "https://www.nytimes.com/2026/10/29/us/voice-logan-airport-contest-boston-accent.html",
-      "pubDate": "2026-10-30T01:22:43.000Z",
-      "image": "https://static01.nyt.com/images/2026/10/30/multimedia/30nat-logan-announcer-tzpg/30nat-logan-announcer-tzpg-mediumSquareAt3X.jpg",
-      "author": "Jenna Russell",
-      "excerpt": "By Christmas, the winning voice will echo through Boston Logan International in recorded greetings and announcements that millions of travelers will hear.",
-      "source": "NYT"
-    },
-    {
-      "title": "Trump Cancels Rallies in Kansas and Iowa This Weekend",
-      "link": "https://www.nytimes.com/2026/10/29/us/elections/trump-rally-canceled-kansas-iowa.html",
-      "pubDate": "2026-10-30T01:08:52.000Z",
-      "image": "https://static01.nyt.com/images/2026/10/29/multimedia/29midterms-rally-cancelled-qvhg/29midterms-rally-cancelled-qvhg-mediumSquareAt3X.jpg",
-      "author": "Chris Cameron",
-      "excerpt": "President Trump has been holding hours-long rallies for G.O.P. candidates nearly every day for weeks.",
-      "source": "NYT"
-    },
-    {
-      "title": "How Common Is Ballot Stacking? What to Know as Conflict Roils Alaska Senate Race.",
-      "link": "https://www.nytimes.com/2026/10/29/us/elections/ballot-stacking-alaska.html",
-      "pubDate": "2026-10-30T00:39:54.000Z",
-      "image": "https://static01.nyt.com/images/2026/10/29/multimedia/29midterms-ballot-stacking-promo/29midterms-ballot-stacking-promo-mediumSquareAt3X.png",
-      "author": "Madison Malone Kircher",
-      "excerpt": "As a conflict over candidates roils the Alaskan Senate race, here’s a look back at the political practice over the years.",
-      "source": "NYT"
-    },
-    {
-      "title": "Patrick Stewart Brought Elegance To ‘Star Trek’ as Jean-Luc Picard",
-      "link": "https://www.nytimes.com/2026/10/29/arts/television/patrick-stewart-captain-picard-star-trek-the-next-generation.html",
-      "pubDate": "2026-10-30T00:37:55.000Z",
-      "image": "https://static01.nyt.com/images/2026/10/29/multimedia/29stewart-fjvz/29stewart-fjvz-mediumSquareAt3X.jpg",
-      "author": "Sopan Deb",
-      "excerpt": "Led by the Shakespearean veteran in his role as Jean-Luc Picard, “Star Trek: The Next Generation” gracefully went where the franchise had never gone before.",
-      "source": "NYT"
-    },
-    {
-      "title": "Trump Administration Pressures California With Expanded Voter Fraud Investigation",
-      "link": "https://www.nytimes.com/2026/10/29/us/trump-doj-california-voter-rolls-midterms.html",
-      "pubDate": "2026-10-29T23:49:56.000Z",
-      "image": "https://static01.nyt.com/images/2026/10/29/multimedia/29dc-california-vpcf/29dc-california-vpcf-mediumSquareAt3X.jpg",
-      "author": "Devlin Barrett and Shawn Hubler",
-      "excerpt": "The department has issued grand jury subpoenas to local election officials as part of a widening effort to prove unsubstantiated claims about large numbers of illegal voters in the state.",
-      "source": "NYT"
-    },
-    {
-      "title": "Polymarket Is Investigating Suspicious Bets on Israeli Election",
-      "link": "https://www.nytimes.com/2026/10/29/business/polymarket-investigates-israeli-bets.html",
-      "pubDate": "2026-10-29T23:37:35.000Z",
-      "image": "https://static01.nyt.com/images/2026/10/29/multimedia/29biz-polymarket-israel-election-1-wzbk/29biz-polymarket-israel-election-1-wzbk-mediumSquareAt3X.jpg",
-      "author": "Lauren McCarthy and Stuart A. Thompson",
-      "excerpt": "The company said it was looking into hundreds of new accounts that had placed wagers in two markets related to the election on Tuesday.",
-      "source": "NYT"
-    },
-    {
-      "title": "Newly Freed American Describes His Years in Russian Prison",
-      "link": "https://www.nytimes.com/2026/10/29/world/europe/stephen-james-hubbard-russian-prison.html",
-      "pubDate": "2026-10-29T23:32:33.000Z",
-      "image": "https://static01.nyt.com/images/2026/10/29/multimedia/29int-ukraine-hubbard-lgpk/29int-ukraine-hubbard-lgpk-mediumSquareAt3X.jpg",
-      "author": "Kim Barker",
-      "excerpt": "Stephen James Hubbard, the retired teacher arrested soon after Russia’s full-scale invasion of Ukraine in 2022, said he sometimes lost hope.",
-      "source": "NYT"
-    },
-    {
-      "title": "No Clear Winner in Israel Election, Final Results Show",
-      "link": "https://www.nytimes.com/2026/10/29/world/middleeast/israel-election-results-netanyahu-eisenkot.html",
-      "pubDate": "2026-10-29T23:07:49.000Z",
-      "image": "https://static01.nyt.com/images/2026/10/29/multimedia/29int-israel-result-netanyahu-hflp/29int-israel-result-netanyahu-hflp-mediumSquareAt3X-v4.jpg",
-      "author": "Leo Sands, Johnatan Reiss and Ephrat Livni",
-      "excerpt": "Prime Minister Benjamin Netanyahu’s party and its allies won 53 seats in Parliament, falling short of the outright majority needed to form a government. The main opposition bloc, led by Gadi Eisenkot, won 48.",
-      "source": "NYT"
-    },
-    {
       "title": "Trump Erupted After Learning of Alina Habba’s $50 Million Deal",
       "link": "https://www.nytimes.com/2026/10/29/us/politics/trump-alina-habba-mildon-deal.html",
-      "pubDate": "2026-10-29T22:54:37.000Z",
+      "pubDate": "2026-10-29T22:54:38.000Z",
       "image": "https://static01.nyt.com/images/2026/03/11/multimedia/29dc-habba/11met-nj-courts-print-bqlg-mediumSquareAt3X.jpg",
       "author": "Tyler Pager",
       "excerpt": "Angry about the scale of a contract signed by one of his former lawyers with the family of a wealthy pardon seeker, the president told allies he wanted some of the money to go to his future presidential library.",
-      "source": "NYT"
-    },
-    {
-      "title": "Cuba’s Foreign Minister: We’ll Outlast Trump",
-      "link": "https://www.nytimes.com/2026/10/29/world/americas/cuba-foreign-minister-trump.html",
-      "pubDate": "2026-10-29T22:49:00.000Z",
-      "image": "https://static01.nyt.com/images/2026/10/29/multimedia/29int-cuba-interview-jpgt/29int-cuba-interview-jpgt-mediumSquareAt3X.jpg",
-      "author": "Jack Nicas",
-      "excerpt": "The Trump administration is carrying out the most intense pressure campaign on Cuba in decades. The Cuban government says its plan is simply to endure.",
-      "source": "NYT"
-    },
-    {
-      "title": "Patrick Stewart’s Many Roles, From ‘Star Trek’ to ‘Avengers: Doomsday’",
-      "link": "https://www.nytimes.com/2026/10/29/arts/patrick-stewart-best-moments-star-trek.html",
-      "pubDate": "2026-10-29T22:22:11.000Z",
-      "image": "https://static01.nyt.com/images/2026/10/29/multimedia/00xp-stewart-moments/00xp-stewart-moments-mediumSquareAt3X-v2.png",
-      "author": "Claire Moses",
-      "excerpt": "The actor’s long and varied career included Shakespearean roles, “Star Trek: The Next Generation,” comedy and a stint in the Marvel Universe.",
-      "source": "NYT"
-    },
-    {
-      "title": "Patrick Stewart, ‘Star Trek’ Captain and Professor X on ‘X-Men,’ Dies at 86",
-      "link": "https://www.nytimes.com/2026/10/29/arts/television/patrick-stewart-dead.html",
-      "pubDate": "2026-10-29T22:20:51.000Z",
-      "image": "https://static01.nyt.com/images/2026/10/31/multimedia/28patrick-stewart-ctmp-copy-print1/28patrick-stewart-ctmp-mediumSquareAt3X.jpg",
-      "author": "Anita Gates and William McDonald",
-      "excerpt": "The British actor was 86. He achieved pop-culture stardom as Capt. Jean-Luc Picard on “Star Trek: The Next Generation.”",
-      "source": "NYT"
-    },
-    {
-      "title": "U.S. Expels Cuban Diplomat After Fiery Showdown at United Nations",
-      "link": "https://www.nytimes.com/2026/10/29/us/politics/cuban-diplomat-expelled.html",
-      "pubDate": "2026-10-29T21:35:55.000Z",
-      "image": "https://static01.nyt.com/images/2026/10/29/multimedia/29dc-diplo-cuba-kbwc/29dc-diplo-cuba-kbwc-mediumSquareAt3X.jpg",
-      "author": "Michael Crowley",
-      "excerpt": "Tensions have risen between the United States and Cuba as the Trump administration tries to force the island’s Communist government to make drastic changes.",
-      "source": "NYT"
-    },
-    {
-      "title": "Intel’s Shares Plunge 20% as A.I. Hinders Some Parts of Its Business",
-      "link": "https://www.nytimes.com/2026/10/29/technology/intel-earnings.html",
-      "pubDate": "2026-10-29T21:17:40.000Z",
-      "image": "https://static01.nyt.com/images/2026/10/29/multimedia/29biz-intel-earnings-1-vcjt/29biz-intel-earnings-1-vcjt-mediumSquareAt3X.jpg",
-      "author": "Don Clark",
-      "excerpt": "The chipmaker, whose largest investor is the U.S. government, reported that the A.I. boom’s domino effect had hurt sales to personal computer makers.",
-      "source": "NYT"
-    },
-    {
-      "title": "Three Stone Age Caves Reveal Continual Cannibalism",
-      "link": "https://www.nytimes.com/2026/10/29/science/stone-age-cannibal-caves-of-spain.html",
-      "pubDate": "2026-10-29T13:02:26.000Z",
-      "image": null,
-      "author": "Joshua Rapp Learn",
-      "excerpt": "A tour of the three caves in southern Spain suggests that people in the area cannibalized one another as funerary practice over many generations.",
-      "source": "NYT"
-    },
-    {
-      "title": "How a Self-Described ‘Junkie’ Rode Synthetic Drugs to Oblivion — and Fame",
-      "link": "https://www.nytimes.com/2026/10/29/world/europe/synthetic-opioids-estonia.html",
-      "pubDate": "2026-10-29T11:53:48.000Z",
-      "image": "https://static01.nyt.com/images/2026/07/03/multimedia/int-Estonia-plwv/int-Estonia-plwv-mediumSquareAt3X.jpg",
-      "author": "Azam Ahmed",
-      "excerpt": "An Estonian addict could barely keep pace with the new drugs flooding the market. His terrifying accounts of the cruel toll they took on his body held his country in its grip.",
-      "source": "NYT"
-    },
-    {
-      "title": "Bodacious A.I. Bots Are Stealing Jokes From Young Female Comedians",
-      "link": "https://www.nytimes.com/2026/10/29/arts/ai-bots-jokes-theft-comedians.html",
-      "pubDate": "2026-10-29T11:15:18.000Z",
-      "image": null,
-      "author": "Jason Zinoman",
-      "excerpt": "Swiping jokes word for word, these bodacious bots mainly lift from young female comedians. What’s so insidious is how they’re subtly changing us, the audience.",
       "source": "NYT"
     }
   ]
