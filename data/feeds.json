@@ -1,6 +1,33 @@
 {
   "spaceNews": [
     {
+      "title": "NASA Releases MAX POWER Key Events for Media, Participants",
+      "link": "https://www.nasa.gov/news-release/nasa-releases-max-power-key-events-for-media-participants/",
+      "pubDate": "2026-10-30T19:31:02.000Z",
+      "image": "https://www.nasa.gov/wp-content/uploads/2026/10/grc-2026-c-06389large.jpg?w=1920",
+      "author": "Jessica Taveau",
+      "excerpt": "America’s newest aerospace expo and air show – MAX POWER – is fast approaching, and NASA has announced key events beginning Friday, Nov. 6, and running through Sunday, Nov. 8, hosted on and near the agency’s Kennedy Space Center in Florida. Through multiple park experiences at MAX POWER, NASA and a variety of external ",
+      "source": "NASA"
+    },
+    {
+      "title": "ESI supplying solar array components to missile defense programs",
+      "link": "https://spacenews.com/esi-supplying-solar-array-components-to-missile-defense-programs/",
+      "pubDate": "2026-10-30T18:54:34.000Z",
+      "image": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/10/ESI-Motion-Square-Logo-Blue-PNG.png?fit=969%2C1024&amp;ssl=1",
+      "author": "ESI Motion",
+      "excerpt": "Oct. 30, 2026 – ESI Motion Inc. is proud to announce that it is supplying the Solar Array Drive Electronics (SADE) to Lockheed Martin for its work on the Space […] The post ESI supplying solar array components to missile defense programs appeared first on SpaceNews.",
+      "source": "SpaceNews"
+    },
+    {
+      "title": "NASA’s James Webb Space Telescope Captures Eerie Cat’s Head",
+      "link": "https://www.nasa.gov/image-article/nasas-james-webb-space-telescope-captures-eerie-cats-head/",
+      "pubDate": "2026-10-30T15:56:26.000Z",
+      "image": "https://www.nasa.gov/wp-content/uploads/2026/10/full-res-for-display.png?w=2048",
+      "author": "HQ Web Team",
+      "excerpt": "Intricate structures within the Cat’s Head Nebula are illuminated in this mid-infrared view from NASA’s James Webb Space Telescope released on Oct. 29, 2026. The distinctive “cat’s head” shape of the nebula was likely sculpted over time by the intense ultraviolet radiation and winds from massive stars in the Carina Neb",
+      "source": "NASA"
+    },
+    {
       "title": "Turkey aims for first Moon-orbiting mission in 2027",
       "link": "https://spaceflightnow.com/2026/10/30/turkey-aims-for-first-moon-orbiting-mission-in-2027/",
       "pubDate": "2026-10-30T15:50:37.000Z",
@@ -139,7 +166,7 @@
       "title": "Halloween Aboard the International Space Station ",
       "link": "https://www.nasa.gov/centers-and-facilities/johnson/halloween-aboard-the-international-space-station/",
       "pubDate": "2026-10-29T21:44:23.000Z",
-      "image": "https://www.nasa.gov/wp-content/uploads/2026/10/halloween-on-iss-2026-3-exp-37-parmitano-as-superman.jpg?w=524",
+      "image": "https://www.nasa.gov/wp-content/uploads/2026/10/luca-parmitano.jpg?w=1024",
       "author": "Sumer Loggins",
       "excerpt": "Although no ghouls, goblins, or trick-or-treaters come knocking at the International Space Station’s front hatch, crew members aboard the orbiting laboratory still like to get in the Halloween spirit. Whether individually or as an entire crew, they dress up in sometimes spooky, sometimes scary, but always creative cost",
       "source": "NASA"
@@ -151,24 +178,6 @@
       "image": "https://www.nasa.gov/wp-content/uploads/2026/10/1-closeup-of-teghaza-001-mars-meteorite.jpg?w=2048",
       "author": "Amanda Barnett",
       "excerpt": "When a rose-colored meteorite was found in the Sahara Desert in 2022, no one knew how old it was or where it came from. Not until NASA-funded scientists age-dated its minerals did they realize the nearly 2-pound (800-gram) rock was a piece of Mars that formed more than 4.1 billion years ago, making it one […]",
-      "source": "NASA"
-    },
-    {
-      "title": "NASA Names Troy Asher Armstrong Flight Research Center Director",
-      "link": "https://www.nasa.gov/news-release/nasa-names-troy-asher-armstrong-flight-research-center-director/",
-      "pubDate": "2026-10-29T18:00:35.000Z",
-      "image": "https://www.nasa.gov/wp-content/uploads/2026/10/troyasher.jpg?w=1638",
-      "author": "Lauren E. Low",
-      "excerpt": "NASA Administrator Jared Isaacman has named Troy Asher director of the agency’s Armstrong Flight Research Center in Edwards, California. Asher, a veteran test pilot and aerospace engineer with decades of experience in flight research and operations, has served as the center’s acting director since March. “Troy has spen",
-      "source": "NASA"
-    },
-    {
-      "title": "NIH–NASA QuSAFE Challenge",
-      "link": "https://www.nasa.gov/directorates/stmd/prizes-challenges-crowdsourcing-program/center-of-excellence-for-collaborative-innovation-coeci/nih-nasa-qusafe-challenge/",
-      "pubDate": "2026-10-29T17:44:37.000Z",
-      "image": "https://www.nasa.gov/wp-content/uploads/2026/07/bps-goals-landscape-ppt-no-text.jpg?w=2000",
-      "author": "Bailey Light",
-      "excerpt": "The Quantum-Enabled Predictive Preclinical NAMs for Toxicity and Safety (QuSAFE) Challenge, a collaboration between the National Institutes of Health (NIH) and NASA, advances quantum-enabled sensing for in vitro NAMs, such as organoids and microphysiological systems (MPS), to improve drug safety while reducing animal u",
       "source": "NASA"
     },
     {
@@ -523,15 +532,6 @@
       "source": "Astronomy Magazine"
     },
     {
-      "title": "Replay: Applying AI/SI to the GEOINT Mission",
-      "link": "https://spacenews.com/applying-ai-si-to-the-geoint-mission-event/",
-      "pubDate": "2026-10-15T20:41:50.000Z",
-      "image": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/10/2026-10-29-vantor-spacenews_2000-1500_AI-SI-scaled.jpg?fit=1024%2C768&amp;ssl=1",
-      "author": "SpaceNews Editor",
-      "excerpt": "A conversation on how machine learning is transforming the GEOINT mission across different markets The post Replay: Applying AI/SI to the GEOINT Mission appeared first on SpaceNews.",
-      "source": "SpaceNews"
-    },
-    {
       "title": "SpaceX launches a classified payload for U.S. Space Force",
       "link": "https://spaceflightnow.com/2026/10/15/live-coverage-spacex-to-launch-classified-payload-for-u-s-space-force/",
       "pubDate": "2026-10-15T19:11:45.000Z",
@@ -878,57 +878,147 @@
   ],
   "nytNews": [
     {
-      "title": "Tech Stocks Tumble, but Broader Market Is Holding On",
+      "title": "Obamacare Dealt Yet Another Blow as Premiums Rise Again",
+      "link": "https://www.nytimes.com/2026/10/30/business/obamacare-health-insurance-rates.html",
+      "pubDate": "2026-10-30T20:42:59.000Z",
+      "image": "https://static01.nyt.com/images/2026/10/27/multimedia/00biz-obamacare--mlbk/00biz-obamacare--mlbk-mediumSquareAt3X.jpg",
+      "author": "Reed Abelson and Margot Sanger-Katz",
+      "excerpt": "Premiums will jump by 13 percent for next year, though much of the price increase will be offset by subsidies. But customers who earn over $64,000 will pay more, on top of this year’s huge increases.",
+      "source": "NYT"
+    },
+    {
+      "title": "Tech Stocks See Worst Day Since June, Pressuring Broader Market",
       "link": "https://www.nytimes.com/2026/10/30/business/stock-market-october-ai.html",
-      "pubDate": "2026-10-30T15:50:04.000Z",
-      "image": "https://static01.nyt.com/images/2026/10/30/multimedia/30biz-stocks-promo-image-ztkj/30biz-stocks-promo-image-ztkj-mediumSquareAt3X.jpg",
+      "pubDate": "2026-10-30T20:40:47.000Z",
+      "image": "https://static01.nyt.com/images/2026/10/30/multimedia/2026-oct-biz-promos-stocks/2026-oct-biz-promos-stocks-mediumSquareAt3X-v9.png",
       "author": "Joe Rennison and Aruni Soni",
-      "excerpt": "The S&P 500 is set for a small loss for the month, despite a deeper slide in some of the A.I. stocks that exert a heavy influence on the index.",
+      "excerpt": "The Nasdaq and the S&P 500 had their worst day since June as investors worried about spending on A.I. infrastructure.",
       "source": "NYT"
     },
     {
-      "title": "The Trouble With This Popular Progressive Idea",
-      "link": "https://www.nytimes.com/2026/10/30/opinion/billionaire-wealth-tax-california.html",
-      "pubDate": "2026-10-30T15:19:49.000Z",
-      "image": "https://static01.nyt.com/images/2026/10/30/opinion/30opinions-sarin-image/30opinions-sarin-image-mediumSquareAt3X.png",
-      "author": "Natasha Sarin and Emily Holzknecht",
-      "excerpt": "Forget California’s billionaire wealth tax. The economist Natasha Sarin believes there are better ways to make billionaires pay up.",
-      "source": "NYT"
-    },
-    {
-      "title": "Binance Suspends Withdrawals After Crypto Hackers Steal $6.3 Billion",
-      "link": "https://www.nytimes.com/2026/10/29/technology/binance-hack-crypto.html",
-      "pubDate": "2026-10-30T15:16:55.000Z",
-      "image": "https://static01.nyt.com/images/2026/10/29/multimedia/29biz-binance-cjwh/29biz-binance-cjwh-mediumSquareAt3X.jpg",
-      "author": "David Yaffe-Bellany and Ryan Mac",
-      "excerpt": "The crypto exchange said it was compromised in what could be the biggest crypto heist ever. One research lab attributed the theft to “North Korea’s elite hacking unit.”",
-      "source": "NYT"
-    },
-    {
-      "title": "Binance Hack Sends Crypto Stocks Tumbling",
-      "link": "https://www.nytimes.com/2026/10/30/business/binance-hack-crypto-stocks-bitcoin.html",
-      "pubDate": "2026-10-30T15:06:23.000Z",
-      "image": "https://static01.nyt.com/images/2026/10/30/multimedia/30biz-crypto-markets-tqhz/30biz-crypto-markets-tqhz-mediumSquareAt3X.jpg",
-      "author": "Aruni Soni",
-      "excerpt": "The rout hit publicly traded crypto exchanges and fintech companies, as well as cryptocurrencies like Bitcoin.",
-      "source": "NYT"
-    },
-    {
-      "title": "Darline Graham Is ‘a Little Nervous.’ Can She Keep South Carolina’s Senate Seat Red?",
-      "link": "https://www.nytimes.com/2026/10/30/us/darline-graham-annie-andrews-south-carolina-senate.html",
-      "pubDate": "2026-10-30T14:36:16.000Z",
-      "image": "https://static01.nyt.com/images/2026/10/30/multimedia/30pol-sc-graham-01-jhfp/30pol-sc-graham-01-jhfp-mediumSquareAt3X.jpg",
-      "author": "Emily Davies",
-      "excerpt": "Polls show the sister of the late Senator Lindsey Graham in a virtual tie with her Democratic opponent, Dr. Annie Andrews. An upset was unthinkable just a few months ago.",
-      "source": "NYT"
-    },
-    {
-      "title": "Conservation Efforts for Caucasian Leopards Show Promise",
-      "link": "https://www.nytimes.com/2026/10/30/climate/injured-leopards-200-mile-trek-suggests-hope-for-a-species.html",
-      "pubDate": "2026-10-30T14:35:02.000Z",
+      "title": "Why the Markets Don’t Care About the Midterms",
+      "link": "https://www.nytimes.com/2026/10/30/business/midterms-stock-bond-markets.html",
+      "pubDate": "2026-10-30T20:36:05.000Z",
       "image": null,
-      "author": "Eric Niiler",
-      "excerpt": "In Armenia, a three-legged Caucasian leopard’s astonishing hike signals that conservation efforts for the endangered animal may be working.",
+      "author": "Jeff Sommer",
+      "excerpt": "Factors like inflation, interest rates, A.I. and the war with Iran are far more important, our columnist says.",
+      "source": "NYT"
+    },
+    {
+      "title": "Christa Pike Describes Pain and Isolation After Botched Execution",
+      "link": "https://www.nytimes.com/2026/10/30/us/christa-pike-botched-execution-statement.html",
+      "pubDate": "2026-10-30T20:30:36.000Z",
+      "image": "https://static01.nyt.com/images/2026/10/30/multimedia/30nat-pike-statement-01-jpcl/30nat-pike-statement-01-jpcl-mediumSquareAt3X.jpg",
+      "author": "Emily Cochrane",
+      "excerpt": "Ms. Pike, who was convicted of a 1995 murder, released her first statement since the failed attempt to execute her last month.",
+      "source": "NYT"
+    },
+    {
+      "title": "Binance Was Hacked. What Protections Exist for Crypto Customers?",
+      "link": "https://www.nytimes.com/2026/10/30/business/binances-hack-customer-protections.html",
+      "pubDate": "2026-10-30T20:02:46.000Z",
+      "image": "https://static01.nyt.com/images/2026/10/30/business/30Biz-Cryptoconsumer/30Biz-Cryptoconsumer-mediumSquareAt3X.jpg",
+      "author": "Ron Lieber and Tara Siegel Bernard",
+      "excerpt": "After a $6.3 billion hack, the company said it was going to reimburse customers who have losses.",
+      "source": "NYT"
+    },
+    {
+      "title": "Marvin Shanken, Publisher of Wine Spectator and Cigar Aficionado, Has Died",
+      "link": "https://www.nytimes.com/2026/10/30/dining/drinks/marvin-shanken-wine-dead.html",
+      "pubDate": "2026-10-30T19:47:00.000Z",
+      "image": null,
+      "author": "Clay Risen",
+      "excerpt": "He bought a struggling industry newsletter called Wine Spectator in 1979 and turned it into one of America’s leading tastemakers. He was 83.",
+      "source": "NYT"
+    },
+    {
+      "title": "Curry Barker Narrates a Scene From ‘Obsession’",
+      "link": "https://www.nytimes.com/2026/10/30/movies/curry-barker-obsession-scene.html",
+      "pubDate": "2026-10-30T19:41:45.000Z",
+      "image": null,
+      "author": "Mekado Murphy",
+      "excerpt": "Barker, the film’s writer and director, explains how lingering shots heighten the tension and awkwardness in a party scene.",
+      "source": "NYT"
+    },
+    {
+      "title": "Judge Appoints Special Master to Determine if Trump Officials Lied in Golf Course Suit",
+      "link": "https://www.nytimes.com/2026/10/30/us/politics/special-master-reyes-trump-golf.html",
+      "pubDate": "2026-10-30T19:40:42.000Z",
+      "image": "https://static01.nyt.com/images/2026/10/30/multimedia/30DC-GOLF-lwmh/30DC-GOLF-lwmh-mediumSquareAt3X.jpg",
+      "author": "Zach Montague",
+      "excerpt": "Judge Ana C. Reyes said an outside investigator would help determine whether parks officials or Justice Department lawyers withheld plans for Washington’s East Potomac Park.",
+      "source": "NYT"
+    },
+    {
+      "title": "U.S. to Send Dozens Back to Afghanistan, Despite Risk of Persecution",
+      "link": "https://www.nytimes.com/2026/10/30/world/asia/afghan-refugees-deported-flight-pakistan.html",
+      "pubDate": "2026-10-30T18:53:37.000Z",
+      "image": "https://static01.nyt.com/images/2026/10/30/multimedia/30int-afghan-deport-flight-1-kgbj/30int-afghan-deport-flight-1-kgbj-mediumSquareAt3X.jpg",
+      "author": "Pranav Baskar, Hamed Aleaziz and Elian Peltier",
+      "excerpt": "The Trump administration plans to fly the Afghan immigrants from Louisiana to Pakistan, where they are expected to be expelled over the border to Afghanistan.",
+      "source": "NYT"
+    },
+    {
+      "title": "Binance’s $6.3 Billion Hack Is Just the Start of a Risky New Era",
+      "link": "https://www.nytimes.com/2026/10/30/technology/binance-hack-ai-north-korea.html",
+      "pubDate": "2026-10-30T17:47:07.000Z",
+      "image": "https://static01.nyt.com/images/2026/10/30/multimedia/30biz-binance-lzht/30biz-binance-lzht-mediumSquareAt3X.jpg",
+      "author": "David Yaffe-Bellany and Dustin Volz",
+      "excerpt": "The largest cyber heist in history came as attackers increasingly use artificial intelligence and other advanced techniques to steal crypto and quickly launder the funds.",
+      "source": "NYT"
+    },
+    {
+      "title": "I Covered the Tiananmen Square Massacre. It Still Weighs on Me.",
+      "link": "https://www.nytimes.com/2026/10/30/world/asia/china-tiananmen-kristof.html",
+      "pubDate": "2026-10-30T17:07:18.000Z",
+      "image": "https://static01.nyt.com/images/2026/11/01/multimedia/1101-175-EYEWITNESS-TIANANMEN-Print1/00PROJECTS-175-EYEWITNESS-TIANANMEN-SQUARE-01-zwtm-mediumSquareAt3X.jpg",
+      "author": "Nicholas Kristof",
+      "excerpt": "The day that changed modern China also taught me how to recognize true courage.",
+      "source": "NYT"
+    },
+    {
+      "title": "Polymarket and Kalshi Face a Major Accuracy Test: The Midterms",
+      "link": "https://www.nytimes.com/2026/10/30/technology/polymarket-kalshi-midterm-elections.html",
+      "pubDate": "2026-10-30T16:35:45.000Z",
+      "image": "https://static01.nyt.com/images/2026/10/30/multimedia/30biz-prediction-pmzg/30biz-prediction-pmzg-mediumSquareAt3X.jpg",
+      "author": "Stuart A. Thompson",
+      "excerpt": "Studies have shown that the betting sites can predict races correctly, but their ability to forecast U.S. midterm elections is an important proving ground.",
+      "source": "NYT"
+    },
+    {
+      "title": "As Picard on ‘Star Trek’, Patrick Stewart Influenced Generations of Scientists",
+      "link": "https://www.nytimes.com/2026/10/30/science/space/patrick-stewart-scientists-react.html",
+      "pubDate": "2026-10-30T15:55:14.000Z",
+      "image": "https://static01.nyt.com/images/2026/10/30/science/30SCI-STEWART-APPRAISAL/30SCI-STEWART-APPRAISAL-mediumSquareAt3X.jpg",
+      "author": "Robin George Andrews",
+      "excerpt": "Stewart’s iconic “Star Trek” character inspired astronomers and astronauts in countless ways: “You were the captain of my childhood,” one astrophysicist said.",
+      "source": "NYT"
+    },
+    {
+      "title": "I’m in ‘You Can See Everything.’ Here’s My Side of the Story.",
+      "link": "https://www.nytimes.com/2026/10/30/opinion/you-can-see-everything-elizabeth-holmes-nathan-fielder.html",
+      "pubDate": "2026-10-30T15:32:31.000Z",
+      "image": null,
+      "author": "Amy Chozick",
+      "excerpt": "I’m in ‘You Can See Everything.’ Here’s my side of the story.",
+      "source": "NYT"
+    },
+    {
+      "title": "Patrick Stewart Was Regal, Stately and Quite Hilarious",
+      "link": "https://www.nytimes.com/2026/10/30/arts/television/patrick-stewart-humor-comedy.html",
+      "pubDate": "2026-10-30T15:18:56.000Z",
+      "image": null,
+      "author": "Maya Phillips",
+      "excerpt": "The actor used his booming voice and Shakespearean pedigree in the service of absurd (and often lewd) comedy.",
+      "source": "NYT"
+    },
+    {
+      "title": "Democrats and Republicans Share Dueling Health Care Messages in Final Midterms Push",
+      "link": "https://www.nytimes.com/2026/10/30/us/politics/midterms-health-care-affordability-fraud.html",
+      "pubDate": "2026-10-30T15:09:29.000Z",
+      "image": "https://static01.nyt.com/images/2026/10/29/multimedia/29dc-health-midterms-qmlz/29dc-health-midterms-qmlz-mediumSquareAt3X.jpg",
+      "author": "Sheryl Gay Stolberg",
+      "excerpt": "After concentrating on the high price of gas and groceries, Democrats are using health costs to make their case about an “affordability crisis.”",
       "source": "NYT"
     },
     {
@@ -941,30 +1031,12 @@
       "source": "NYT"
     },
     {
-      "title": "Rare Evacuation Announced by Melania Trump Begins in Ukrainian City of Oleshky",
-      "link": "https://www.nytimes.com/2026/10/26/world/europe/ukraine-oleshky-ceasefire-russia-war.html",
-      "pubDate": "2026-10-30T14:21:24.000Z",
-      "image": "https://static01.nyt.com/images/2026/10/30/multimedia/30int-ukraine-oleshky-wtk-01-pwbk/30int-ukraine-oleshky-wtk-01-pwbk-mediumSquareAt3X.jpg",
-      "author": "Carlotta Gall and Oleksandr Chubko",
-      "excerpt": "Many of the people left in Oleshky, where bombardment is constant, have run out of food. A truce that began Tuesday is supposed to allow aid in and civilians out.",
-      "source": "NYT"
-    },
-    {
-      "title": "Novaya Gazeta, Fiercely Independent Russian News Outlet, Says It Will Shut Down",
-      "link": "https://www.nytimes.com/2026/10/30/world/europe/russia-novaya-gazeta-newspaper.html",
-      "pubDate": "2026-10-30T14:12:50.000Z",
-      "image": "https://static01.nyt.com/images/2026/10/30/multimedia/30-RUSSIA-NOVAYA-GAZETA-01-bpwq/30-RUSSIA-NOVAYA-GAZETA-01-bpwq-mediumSquareAt3X.jpg",
-      "author": "Valerie Hopkins",
-      "excerpt": "Journalists at Novaya Gazeta, whose co-founder received the Nobel Peace Prize, said the government had orchestrated its demise: “They killed us.”",
-      "source": "NYT"
-    },
-    {
-      "title": "Big Tech’s Data Center Blitz Is Burning Through Cash and Scaring Wall St.",
-      "link": "https://www.nytimes.com/2026/10/29/technology/amazon-earnings-tech-spending.html",
-      "pubDate": "2026-10-30T14:02:24.000Z",
-      "image": "https://static01.nyt.com/images/2026/10/29/multimedia/29biz-bigtech-spending-amazon-kltm/29biz-bigtech-spending-amazon-kltm-mediumSquareAt3X.jpg",
-      "author": "Karen Weise",
-      "excerpt": "Amazon became the latest tech company to announce swelling investments in A.I. amid stumbling share prices.",
+      "title": "The Justice Department’s Unusual Election-Year Activity",
+      "link": "https://www.nytimes.com/video/us/elections/100000011240630/the-justice-departments-unusual-election-year-activity.html",
+      "pubDate": "2026-10-30T14:03:34.000Z",
+      "image": null,
+      "author": "Devlin Barrett, Paul Abowd, Nikolay Nikolov, Rafaela Balster, Whitney Shefte, Nour Idriss and Laura Salaberry",
+      "excerpt": "Federal prosecutors have targeted President Trump’s political opponents and sued states over election administration just before the midterms. Devlin Barrett, a reporter for The New York Times, explains how this activity is compared with the Justice Department’s usual election-year behavior.",
       "source": "NYT"
     },
     {
@@ -977,15 +1049,6 @@
       "source": "NYT"
     },
     {
-      "title": "Ukrainians Are Fighting Russians Inside Underground Gas Pipes. I Went in One.",
-      "link": "https://www.nytimes.com/2026/10/30/world/europe/ukraine-russia-natural-gas-pipes.html",
-      "pubDate": "2026-10-30T13:33:25.000Z",
-      "image": "https://static01.nyt.com/images/2026/10/28/multimedia/28int-ukraine-pipes-promo-afabuo/28int-ukraine-pipes-promo-afabuo-mediumSquareAt3X.jpg",
-      "author": "Maria Varenikova and Finbarr O’Reilly",
-      "excerpt": "I experienced war’s subterranean future as drones dominate the skies. I didn’t like it.",
-      "source": "NYT"
-    },
-    {
       "title": "The Result of Dissatisfaction Is Endless Political Deadlock",
       "link": "https://www.nytimes.com/2026/10/30/magazine/political-deadlock-france-brazil.html",
       "pubDate": "2026-10-30T13:17:50.000Z",
@@ -995,111 +1058,21 @@
       "source": "NYT"
     },
     {
-      "title": "Christa Pike Describes Pain and Isolation After Botched Execution",
-      "link": "https://www.nytimes.com/2026/10/30/us/christa-pike-botched-execution-statement.html",
-      "pubDate": "2026-10-30T13:00:05.000Z",
-      "image": "https://static01.nyt.com/images/2026/10/30/multimedia/30nat-pike-statement-01-jpcl/30nat-pike-statement-01-jpcl-mediumSquareAt3X.jpg",
-      "author": "Emily Cochrane",
-      "excerpt": "Convicted of a 1995 murder, Ms. Pike released her first statement since the failed attempt to execute her last month.",
+      "title": "What’s Driving Elon Musk?",
+      "link": "https://www.nytimes.com/2026/10/30/opinion/ezra-klein-podcast-quinn-slobodian.html",
+      "pubDate": "2026-10-30T09:03:28.000Z",
+      "image": "https://static01.nyt.com/images/2026/10/30/opinion/30eks-slobodian-image/30eks-slobodian-image-mediumSquareAt3X.png",
+      "author": "Ezra Klein and Rollin Hu",
+      "excerpt": "What does the world’s richest man believe in?",
       "source": "NYT"
     },
     {
-      "title": "U.S. Oil Industry Earned Over $130 Billion in Profit During Iran War",
-      "link": "https://www.nytimes.com/2026/10/30/business/energy-environment/exxon-chevron-oil-profits-iran-war.html",
-      "pubDate": "2026-10-30T10:35:33.000Z",
-      "image": "https://static01.nyt.com/images/2026/10/29/multimedia/2026-10-26-oil-profits-index/2026-10-26-oil-profits-index-mediumSquareAt3X-v4.png",
-      "author": "Rebecca F. Elliott and Keith Collins",
-      "excerpt": "That was almost three times as much as what businesses producing and refining oil in the United States made in the same period in 2025.",
-      "source": "NYT"
-    },
-    {
-      "title": "Trump Administration Steps Up Midterm Interventions, and Israeli Elections Have No Clear Winner",
-      "link": "https://www.nytimes.com/2026/10/30/podcasts/the-headlines/trump-interventions-midterms-israeli-election.html",
-      "pubDate": "2026-10-30T10:00:12.000Z",
-      "image": "https://static01.nyt.com/images/2026/10/30/multimedia/30theheadlines-hgzb/30theheadlines-hgzb-mediumSquareAt3X.jpg",
-      "author": "Tracy Mumford, Will Jarvis, Margaret Kadifa, Jake Lucas and Jonathan Wolfe",
-      "excerpt": "Plus, the Friday news quiz.",
-      "source": "NYT"
-    },
-    {
-      "title": "Why Trump Is Losing Young Men",
-      "link": "https://www.nytimes.com/video/us/elections/100000011230123/trump-young-men-voters-michigan.html",
-      "pubDate": "2026-10-30T09:51:42.000Z",
-      "image": "https://static01.nyt.com/images/2026/11/18/video/181515_vid-genz-male-voters_1/181515_vid-genz-male-voters_1-mediumSquareAt3X.jpg",
-      "author": "Sabrina Tavernise, Kassie Bracken, Mark Boyer, Luke Piotrowski, Erik Ljung, David Jouppi and Ruth Igielnik",
-      "excerpt": "Young men swung to Donald Trump in 2024. Polling shows they are now moving away — but to what? Sabrina Tavernise, a reporter for The New York Times, went to Michigan to find out.",
-      "source": "NYT"
-    },
-    {
-      "title": "Here’s Where Rain Could Dampen Your Spirits This Halloween",
-      "link": "https://www.nytimes.com/2026/10/30/weather/halloween-rain-forecast.html",
-      "pubDate": "2026-10-30T09:30:06.000Z",
-      "image": "https://static01.nyt.com/images/2026/10/30/pageoneplus/30wea-halloween/30wea-halloween-mediumSquareAt3X.jpg",
-      "author": "Amy Graff",
-      "excerpt": "Use our tool to see your trick-or-treat forecast.",
-      "source": "NYT"
-    },
-    {
-      "title": "High Prices Haunt Trump and the GOP on Eve of the Midterms",
-      "link": "https://www.nytimes.com/2026/10/30/business/trump-inflation-election.html",
-      "pubDate": "2026-10-30T09:03:21.000Z",
-      "image": "https://static01.nyt.com/images/2026/10/30/multimedia/30dc-trump-econ-01-qwmg/30dc-trump-econ-01-qwmg-mediumSquareAt3X.jpg",
-      "author": "Tony Romm",
-      "excerpt": "A backlash over high prices helped Republicans capture a majority in 2024. Now, it may be the source of the party’s own undoing.",
-      "source": "NYT"
-    },
-    {
-      "title": "Why the Markets Don’t Care About the Midterms",
-      "link": "https://www.nytimes.com/2026/10/30/business/midterms-stock-bond-markets.html",
-      "pubDate": "2026-10-30T09:02:44.000Z",
-      "image": null,
-      "author": "Jeff Sommer",
-      "excerpt": "Factors like inflation, interest rates, A.I. and the war with Iran are far more important, our columnist says.",
-      "source": "NYT"
-    },
-    {
-      "title": "How Michigan’s Midterm Senate Race Could Influence the 2028 Democratic Presidential Primary",
-      "link": "https://www.nytimes.com/2026/10/30/us/politics/michigan-senate-democratic-presidential-primary.html",
-      "pubDate": "2026-10-30T09:02:02.000Z",
-      "image": "https://static01.nyt.com/images/2026/10/30/multimedia/30pol-michigan-2028-qmzl/30pol-michigan-2028-qmzl-mediumSquareAt3X.jpg",
-      "author": "Shane Goldmacher",
-      "excerpt": "The fate of Dr. Abdul El-Sayed, the progressive candidate in the race, will serve as a litmus test for the left’s potency heading into the next presidential contest.",
-      "source": "NYT"
-    },
-    {
-      "title": "Seth Meyers Cheers ‘Stand-Up Obama’ for Riling Republicans",
-      "link": "https://www.nytimes.com/2026/10/30/arts/television/seth-meyers-obama-trump-comedy.html",
-      "pubDate": "2026-10-30T06:44:54.000Z",
-      "image": null,
-      "author": "Trish Bendix",
-      "excerpt": "“He’s working on material for his next special, ‘Hussein in the Membrane,’” Meyers said after the former president ruffled feathers with jokes about the Cheesecake Factory.",
-      "source": "NYT"
-    },
-    {
-      "title": "Is This the End for Trump’s Princelings? Or Just the Start?",
-      "link": "https://www.nytimes.com/2026/10/30/opinion/trump-america-capitalism-rich-politics.html",
-      "pubDate": "2026-10-30T05:58:54.000Z",
-      "image": null,
-      "author": "Noah Shachtman",
-      "excerpt": "American capitalism may never be the same again.",
-      "source": "NYT"
-    },
-    {
-      "title": "A Sailor Jumped From the U.S.S. Lincoln. The Navy Punished Him.",
-      "link": "https://www.nytimes.com/2026/10/29/us/politics/sailor-mental-health-uss-lincoln-navy.html",
-      "pubDate": "2026-10-30T02:01:52.000Z",
-      "image": "https://static01.nyt.com/images/2026/10/29/multimedia/dc-sailor-promo-fqgm/dc-sailor-promo-fqgm-mediumSquareAt3X.jpg",
-      "author": "Jan Ransom",
-      "excerpt": "The case offers a rare look at the military’s handling of mental health issues during extended deployments.",
-      "source": "NYT"
-    },
-    {
-      "title": "Trump Erupted After Learning of Alina Habba’s $50 Million Deal",
-      "link": "https://www.nytimes.com/2026/10/29/us/politics/trump-alina-habba-mildon-deal.html",
-      "pubDate": "2026-10-29T22:54:38.000Z",
-      "image": "https://static01.nyt.com/images/2026/03/11/multimedia/29dc-habba/11met-nj-courts-print-bqlg-mediumSquareAt3X.jpg",
-      "author": "Tyler Pager",
-      "excerpt": "Angry about the scale of a contract signed by one of his former lawyers with the family of a wealthy pardon seeker, the president told allies he wanted some of the money to go to his future presidential library.",
+      "title": "Can Scientists Make Football Safer?",
+      "link": "https://www.nytimes.com/2026/10/28/science/cte-nfl-football-brain-safety.html",
+      "pubDate": "2026-10-28T15:00:11.000Z",
+      "image": "https://static01.nyt.com/images/2026/10/28/multimedia/28SCI-CTE-TREATMENTS-stillpromo-tfck/28SCI-CTE-TREATMENTS-stillpromo-tfck-mediumSquareAt3X.jpg",
+      "author": "Lynne Peeples",
+      "excerpt": "Researchers are exploring novel ways to treat, even prevent, the brain disease C.T.E. One of the most surprising: near-infrared light.",
       "source": "NYT"
     }
   ]
