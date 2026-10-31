@@ -1,6 +1,15 @@
 {
   "spaceNews": [
     {
+      "title": "Live coverage: SpaceX to close out October with Halloween eve Falcon 9 launch",
+      "link": "https://spaceflightnow.com/2026/10/30/live-coverage-spacex-to-close-out-october-with-halloween-eve-falcon-9-launch/",
+      "pubDate": "2026-10-30T22:46:02.000Z",
+      "image": "https://spaceflightnow.com/wp-content/uploads/2026/03/20260326-Vandy-Starlink-File-Photo.jpg",
+      "author": "Will Robinson-Smith",
+      "excerpt": "The Starlink 15-18 mission will add another 27 Starlink V2 Mini Optimized satellites to SpaceX’s megaconstellation. Liftoff from pad 4E at Vandenberg Space Force Base is scheduled for 9:02 p.m. PDT (12:02 a.m. EDT / 0402 UTC).",
+      "source": "Spaceflight Now"
+    },
+    {
       "title": "NASA Releases MAX POWER Key Events for Media, Participants",
       "link": "https://www.nasa.gov/news-release/nasa-releases-max-power-key-events-for-media-participants/",
       "pubDate": "2026-10-30T19:31:02.000Z",
@@ -532,15 +541,6 @@
       "source": "Astronomy Magazine"
     },
     {
-      "title": "SpaceX launches a classified payload for U.S. Space Force",
-      "link": "https://spaceflightnow.com/2026/10/15/live-coverage-spacex-to-launch-classified-payload-for-u-s-space-force/",
-      "pubDate": "2026-10-15T19:11:45.000Z",
-      "image": "https://spaceflightnow.com/wp-content/uploads/2026/10/20261015_USSF-481.jpg",
-      "author": "Will Robinson-Smith",
-      "excerpt": "Liftoff from pad 4E at Vandenberg Space Force Base in California happened on Thursday, Oct. 15, at 5:01 p.m. PDT (8:01 p.m. EDT / 0001 UTC).",
-      "source": "Spaceflight Now"
-    },
-    {
       "title": "CSO Notice to Guardians: Lines of Effort for the Force",
       "link": "https://www.spaceforce.mil/News/Article-Display/Article/4625150/cso-notice-to-guardians-lines-of-effort-for-the-force/",
       "pubDate": "2026-10-14T13:36:00.000Z",
@@ -878,12 +878,120 @@
   ],
   "nytNews": [
     {
-      "title": "Obamacare Dealt Yet Another Blow as Premiums Rise Again",
+      "title": "Alina Habba’s Husband Ignited Drama in Trump’s Circle. Now He’s Under Scrutiny.",
+      "link": "https://www.nytimes.com/2026/10/30/us/politics/alina-habba-turhan-mildon-trump-congo-venezuela.html",
+      "pubDate": "2026-10-31T00:01:53.000Z",
+      "image": "https://static01.nyt.com/images/2026/10/30/us/30DC-MILDON/30DC-MILDON-mediumSquareAt3X.jpg",
+      "author": "Anatoly Kurmanaev, Tyler Pager and Declan Walsh",
+      "excerpt": "Turhan Mildon, who married Alina Habba this summer, presents himself as a 29-year-old billionaire with ties to global leaders. His story has inconsistencies.",
+      "source": "NYT"
+    },
+    {
+      "title": "Justice Dept. Confirms Alaska Inquiry Even as Its Focus Remains Unclear",
+      "link": "https://www.nytimes.com/2026/10/30/us/politics/justice-dept-alaska-senate-inquiry.html",
+      "pubDate": "2026-10-30T23:56:11.000Z",
+      "image": "https://static01.nyt.com/images/2026/10/30/multimedia/30dc-alaska-pkvb/30dc-alaska-pkvb-mediumSquareAt3X.jpg",
+      "author": "Anna Griffin and Glenn Thrush",
+      "excerpt": "Democrats and former officials have accused the department of pursuing a political goal in the guise of a legal one: to publicize a scheme, sordid but not illegal under state law, damaging to Democrats.",
+      "source": "NYT"
+    },
+    {
+      "title": "Obamacare Policies Hit Again With Steep Premium Increases for 2027",
       "link": "https://www.nytimes.com/2026/10/30/business/obamacare-health-insurance-rates.html",
-      "pubDate": "2026-10-30T20:42:59.000Z",
+      "pubDate": "2026-10-30T23:42:10.000Z",
       "image": "https://static01.nyt.com/images/2026/10/27/multimedia/00biz-obamacare--mlbk/00biz-obamacare--mlbk-mediumSquareAt3X.jpg",
       "author": "Reed Abelson and Margot Sanger-Katz",
-      "excerpt": "Premiums will jump by 13 percent for next year, though much of the price increase will be offset by subsidies. But customers who earn over $64,000 will pay more, on top of this year’s huge increases.",
+      "excerpt": "Premiums will increase an average 13 percent next year for millions of Americans, on top of an earlier steep increase. It adds to the problems facing the program, which the Trump administration has weakened.",
+      "source": "NYT"
+    },
+    {
+      "title": "Houston Grand Jury Indicts ICE Agent on Charges of Ramming Man in Chase",
+      "link": "https://www.nytimes.com/2026/10/30/us/houston-ice-agent-charged-ramming.html",
+      "pubDate": "2026-10-30T23:14:01.000Z",
+      "image": null,
+      "author": "Edgar Sandoval",
+      "excerpt": "The agent is facing charges of aggravated assault with a deadly weapon. The immigrant who was struck is recovering from severe leg injuries.",
+      "source": "NYT"
+    },
+    {
+      "title": "Polymarket and Kalshi Face a Major Accuracy Test: The Midterms",
+      "link": "https://www.nytimes.com/2026/10/30/technology/polymarket-kalshi-midterm-elections.html",
+      "pubDate": "2026-10-30T22:46:05.000Z",
+      "image": "https://static01.nyt.com/images/2026/10/30/multimedia/30biz-prediction-pmzg/30biz-prediction-pmzg-mediumSquareAt3X.jpg",
+      "author": "Stuart A. Thompson",
+      "excerpt": "Studies have shown that the betting sites can predict races correctly, but their ability to forecast U.S. midterm elections is an important proving ground.",
+      "source": "NYT"
+    },
+    {
+      "title": "Minnesota Declined to Buy a Prison for $75 Million. D.H.S. Paid $495 Million.",
+      "link": "https://www.nytimes.com/2026/10/30/us/minnesota-prison-homeland-security.html",
+      "pubDate": "2026-10-30T22:15:46.000Z",
+      "image": "https://static01.nyt.com/images/2026/10/30/multimedia/30nat-ice-prison-1-tbhg/30nat-ice-prison-1-tbhg-mediumSquareAt3X.jpg",
+      "author": "Ernesto Londoño",
+      "excerpt": "The recent purchase of the prison to hold immigrants is among the acquisitions facing scrutiny in the Trump administration’s mass deportation push.",
+      "source": "NYT"
+    },
+    {
+      "title": "Binance Lost Over $6 Billion in Crypto Hack. Here’s What to Know.",
+      "link": "https://www.nytimes.com/2026/10/30/business/binance-hack-crypto-price-what.html",
+      "pubDate": "2026-10-30T21:48:01.000Z",
+      "image": "https://static01.nyt.com/images/2026/10/30/multimedia/30xp-binance-wtk-vzbg/30xp-binance-wtk-vzbg-mediumSquareAt3X.jpg",
+      "author": "Jonathan Wolfe",
+      "excerpt": "Hackers made off with around $6 billion in digital currency in what could be the biggest crypto heist in history. Binance said it will cover the losses.",
+      "source": "NYT"
+    },
+    {
+      "title": "Trump Will Go to Kansas and Iowa Before Election Day",
+      "link": "https://www.nytimes.com/2026/10/30/briefing/trump-campaign-plans-crypto-hack.html",
+      "pubDate": "2026-10-30T21:40:56.000Z",
+      "image": "https://static01.nyt.com/images/2026/10/30/multimedia/30evening-nl-trump-rally-mjcq/30evening-nl-trump-rally-mjcq-mediumSquareAt3X-v2.jpg",
+      "author": "Matthew Cullen",
+      "excerpt": "Also, a rare rescue begins in Ukraine. Here’s the latest at the end of Friday.",
+      "source": "NYT"
+    },
+    {
+      "title": "Binance’s $6.3 Billion Hack Is Just the Start of a Risky New Era",
+      "link": "https://www.nytimes.com/2026/10/30/technology/binance-hack-ai-north-korea.html",
+      "pubDate": "2026-10-30T21:17:37.000Z",
+      "image": "https://static01.nyt.com/images/2026/10/30/multimedia/30biz-binance-lzht/30biz-binance-lzht-mediumSquareAt3X.jpg",
+      "author": "David Yaffe-Bellany and Dustin Volz",
+      "excerpt": "The largest cyber heist in history came as attackers increasingly use artificial intelligence and other advanced techniques to steal crypto and quickly launder the funds.",
+      "source": "NYT"
+    },
+    {
+      "title": "Christa Pike Describes Pain and Isolation After Botched Execution",
+      "link": "https://www.nytimes.com/2026/10/30/us/christa-pike-botched-execution-statement.html",
+      "pubDate": "2026-10-30T21:13:56.000Z",
+      "image": "https://static01.nyt.com/images/2026/10/30/multimedia/30nat-pike-statement-01-jpcl/30nat-pike-statement-01-jpcl-mediumSquareAt3X.jpg",
+      "author": "Emily Cochrane",
+      "excerpt": "Christa Pike, who was convicted of a 1995 murder, released her first statement since the failed attempt to execute her last month.",
+      "source": "NYT"
+    },
+    {
+      "title": "I Covered the Tiananmen Square Massacre. It Still Weighs on Me.",
+      "link": "https://www.nytimes.com/2026/10/30/world/asia/china-tiananmen-kristof.html",
+      "pubDate": "2026-10-30T21:04:43.000Z",
+      "image": "https://static01.nyt.com/images/2026/11/01/multimedia/1101-175-EYEWITNESS-TIANANMEN-Print1/00PROJECTS-175-EYEWITNESS-TIANANMEN-SQUARE-01-zwtm-mediumSquareAt3X.jpg",
+      "author": "Nicholas Kristof",
+      "excerpt": "The day that changed modern China also taught me how to recognize true courage.",
+      "source": "NYT"
+    },
+    {
+      "title": "Elon Musk’s Endgame",
+      "link": "https://www.nytimes.com/2026/10/30/opinion/ezra-klein-podcast-quinn-slobodian.html",
+      "pubDate": "2026-10-30T20:50:30.000Z",
+      "image": "https://static01.nyt.com/images/2026/10/30/opinion/30eks-slobodian-image/30eks-slobodian-image-mediumSquareAt3X.png",
+      "author": "Ezra Klein and Rollin Hu",
+      "excerpt": "What does the world’s richest man believe in?",
+      "source": "NYT"
+    },
+    {
+      "title": "Binance Was Hacked. What Protections Exist for Crypto Customers?",
+      "link": "https://www.nytimes.com/2026/10/30/business/binances-hack-customer-protections.html",
+      "pubDate": "2026-10-30T20:49:27.000Z",
+      "image": "https://static01.nyt.com/images/2026/10/30/business/30Biz-Cryptoconsumer/30Biz-Cryptoconsumer-mediumSquareAt3X.jpg",
+      "author": "Ron Lieber and Tara Siegel Bernard",
+      "excerpt": "After a $6.3 billion hack, the company said it was going to reimburse customers who had losses.",
       "source": "NYT"
     },
     {
@@ -896,30 +1004,12 @@
       "source": "NYT"
     },
     {
-      "title": "Why the Markets Don’t Care About the Midterms",
-      "link": "https://www.nytimes.com/2026/10/30/business/midterms-stock-bond-markets.html",
-      "pubDate": "2026-10-30T20:36:05.000Z",
-      "image": null,
-      "author": "Jeff Sommer",
-      "excerpt": "Factors like inflation, interest rates, A.I. and the war with Iran are far more important, our columnist says.",
-      "source": "NYT"
-    },
-    {
-      "title": "Christa Pike Describes Pain and Isolation After Botched Execution",
-      "link": "https://www.nytimes.com/2026/10/30/us/christa-pike-botched-execution-statement.html",
-      "pubDate": "2026-10-30T20:30:36.000Z",
-      "image": "https://static01.nyt.com/images/2026/10/30/multimedia/30nat-pike-statement-01-jpcl/30nat-pike-statement-01-jpcl-mediumSquareAt3X.jpg",
-      "author": "Emily Cochrane",
-      "excerpt": "Ms. Pike, who was convicted of a 1995 murder, released her first statement since the failed attempt to execute her last month.",
-      "source": "NYT"
-    },
-    {
-      "title": "Binance Was Hacked. What Protections Exist for Crypto Customers?",
-      "link": "https://www.nytimes.com/2026/10/30/business/binances-hack-customer-protections.html",
-      "pubDate": "2026-10-30T20:02:46.000Z",
-      "image": "https://static01.nyt.com/images/2026/10/30/business/30Biz-Cryptoconsumer/30Biz-Cryptoconsumer-mediumSquareAt3X.jpg",
-      "author": "Ron Lieber and Tara Siegel Bernard",
-      "excerpt": "After a $6.3 billion hack, the company said it was going to reimburse customers who have losses.",
+      "title": "Prosecutors Suggest They May Seek Additional Comey Charges",
+      "link": "https://www.nytimes.com/2026/10/30/us/politics/james-comey-charges-doj.html",
+      "pubDate": "2026-10-30T20:22:31.000Z",
+      "image": "https://static01.nyt.com/images/2026/10/30/multimedia/30dc-comey-jmwq/30dc-comey-jmwq-mediumSquareAt3X.jpg",
+      "author": "Devlin Barrett",
+      "excerpt": "At a hearing in federal court, prosecutors defended an unusual, 11th-hour criminal case accusing the former F.B.I. director of leaking classified information a decade ago.",
       "source": "NYT"
     },
     {
@@ -959,48 +1049,12 @@
       "source": "NYT"
     },
     {
-      "title": "Binance’s $6.3 Billion Hack Is Just the Start of a Risky New Era",
-      "link": "https://www.nytimes.com/2026/10/30/technology/binance-hack-ai-north-korea.html",
-      "pubDate": "2026-10-30T17:47:07.000Z",
-      "image": "https://static01.nyt.com/images/2026/10/30/multimedia/30biz-binance-lzht/30biz-binance-lzht-mediumSquareAt3X.jpg",
-      "author": "David Yaffe-Bellany and Dustin Volz",
-      "excerpt": "The largest cyber heist in history came as attackers increasingly use artificial intelligence and other advanced techniques to steal crypto and quickly launder the funds.",
-      "source": "NYT"
-    },
-    {
-      "title": "I Covered the Tiananmen Square Massacre. It Still Weighs on Me.",
-      "link": "https://www.nytimes.com/2026/10/30/world/asia/china-tiananmen-kristof.html",
-      "pubDate": "2026-10-30T17:07:18.000Z",
-      "image": "https://static01.nyt.com/images/2026/11/01/multimedia/1101-175-EYEWITNESS-TIANANMEN-Print1/00PROJECTS-175-EYEWITNESS-TIANANMEN-SQUARE-01-zwtm-mediumSquareAt3X.jpg",
-      "author": "Nicholas Kristof",
-      "excerpt": "The day that changed modern China also taught me how to recognize true courage.",
-      "source": "NYT"
-    },
-    {
-      "title": "Polymarket and Kalshi Face a Major Accuracy Test: The Midterms",
-      "link": "https://www.nytimes.com/2026/10/30/technology/polymarket-kalshi-midterm-elections.html",
-      "pubDate": "2026-10-30T16:35:45.000Z",
-      "image": "https://static01.nyt.com/images/2026/10/30/multimedia/30biz-prediction-pmzg/30biz-prediction-pmzg-mediumSquareAt3X.jpg",
-      "author": "Stuart A. Thompson",
-      "excerpt": "Studies have shown that the betting sites can predict races correctly, but their ability to forecast U.S. midterm elections is an important proving ground.",
-      "source": "NYT"
-    },
-    {
       "title": "As Picard on ‘Star Trek’, Patrick Stewart Influenced Generations of Scientists",
       "link": "https://www.nytimes.com/2026/10/30/science/space/patrick-stewart-scientists-react.html",
       "pubDate": "2026-10-30T15:55:14.000Z",
       "image": "https://static01.nyt.com/images/2026/10/30/science/30SCI-STEWART-APPRAISAL/30SCI-STEWART-APPRAISAL-mediumSquareAt3X.jpg",
       "author": "Robin George Andrews",
       "excerpt": "Stewart’s iconic “Star Trek” character inspired astronomers and astronauts in countless ways: “You were the captain of my childhood,” one astrophysicist said.",
-      "source": "NYT"
-    },
-    {
-      "title": "I’m in ‘You Can See Everything.’ Here’s My Side of the Story.",
-      "link": "https://www.nytimes.com/2026/10/30/opinion/you-can-see-everything-elizabeth-holmes-nathan-fielder.html",
-      "pubDate": "2026-10-30T15:32:31.000Z",
-      "image": null,
-      "author": "Amy Chozick",
-      "excerpt": "I’m in ‘You Can See Everything.’ Here’s my side of the story.",
       "source": "NYT"
     },
     {
@@ -1028,42 +1082,6 @@
       "image": "https://static01.nyt.com/images/2026/10/27/multimedia/30themorning-nl-Laser/30themorning-nl-Laser-mediumSquareAt3X.jpg",
       "author": "Sam Sifton",
       "excerpt": "China has come up with an innovative way to kill the insects.",
-      "source": "NYT"
-    },
-    {
-      "title": "The Justice Department’s Unusual Election-Year Activity",
-      "link": "https://www.nytimes.com/video/us/elections/100000011240630/the-justice-departments-unusual-election-year-activity.html",
-      "pubDate": "2026-10-30T14:03:34.000Z",
-      "image": null,
-      "author": "Devlin Barrett, Paul Abowd, Nikolay Nikolov, Rafaela Balster, Whitney Shefte, Nour Idriss and Laura Salaberry",
-      "excerpt": "Federal prosecutors have targeted President Trump’s political opponents and sued states over election administration just before the midterms. Devlin Barrett, a reporter for The New York Times, explains how this activity is compared with the Justice Department’s usual election-year behavior.",
-      "source": "NYT"
-    },
-    {
-      "title": "Another Toll of the Violent Unrest in France: The Political Center",
-      "link": "https://www.nytimes.com/2026/10/30/world/europe/france-unrest-political-center.html",
-      "pubDate": "2026-10-30T14:00:48.000Z",
-      "image": "https://static01.nyt.com/images/2026/10/30/multimedia/30int-france-center-01-gtlk/30int-france-center-01-gtlk-mediumSquareAt3X-v2.jpg",
-      "author": "Mark Landler",
-      "excerpt": "Support for Édouard Philippe, the leading candidate from the centrist bloc, has eroded, while his far-right and far-left rivals benefit.",
-      "source": "NYT"
-    },
-    {
-      "title": "The Result of Dissatisfaction Is Endless Political Deadlock",
-      "link": "https://www.nytimes.com/2026/10/30/magazine/political-deadlock-france-brazil.html",
-      "pubDate": "2026-10-30T13:17:50.000Z",
-      "image": null,
-      "author": "David Wallace-Wells",
-      "excerpt": "From France to Brazil, voters are railing against the status quo, even as the politics of disenchantment make lasting change nearly impossible.",
-      "source": "NYT"
-    },
-    {
-      "title": "What’s Driving Elon Musk?",
-      "link": "https://www.nytimes.com/2026/10/30/opinion/ezra-klein-podcast-quinn-slobodian.html",
-      "pubDate": "2026-10-30T09:03:28.000Z",
-      "image": "https://static01.nyt.com/images/2026/10/30/opinion/30eks-slobodian-image/30eks-slobodian-image-mediumSquareAt3X.png",
-      "author": "Ezra Klein and Rollin Hu",
-      "excerpt": "What does the world’s richest man believe in?",
       "source": "NYT"
     },
     {
