@@ -878,12 +878,57 @@
   ],
   "nytNews": [
     {
+      "title": "How Binance’s $6.3 Billion Hack Went Down",
+      "link": "https://www.nytimes.com/2026/10/31/technology/binance-hack-crypto-north-korea.html",
+      "pubDate": "2026-10-31T22:19:48.000Z",
+      "image": "https://static01.nyt.com/images/2026/11/01/business/00biz-binance-ticktock/00biz-binance-ticktock-mediumSquareAt3X.jpg",
+      "author": "David Yaffe-Bellany",
+      "excerpt": "A war room. A global conference call. A founder who live-posted about the largest crypto heist in history. Inside a frantic 24 hours at the world’s biggest crypto exchange.",
+      "source": "NYT"
+    },
+    {
+      "title": "North Korean Hackers Stole Billions, the F.B.I. Says. It’s Not Their First Heist.",
+      "link": "https://www.nytimes.com/2026/10/31/world/asia/north-korea-hacking.html",
+      "pubDate": "2026-10-31T22:09:47.000Z",
+      "image": "https://static01.nyt.com/images/2026/10/31/multimedia/31int-nkorea-hacking-wtk-lpjv/31int-nkorea-hacking-wtk-lpjv-mediumSquareAt3X.jpg",
+      "author": "Pranav Baskar",
+      "excerpt": "This week’s $6.3 billion hack of Binance is the largest to hit crypto, and would be the most that North Koreans have stolen in years of brazen cybercrime.",
+      "source": "NYT"
+    },
+    {
+      "title": "‘We Are Coming From Hell’: A Ukrainian City’s Evacuees Tell Survival Stories",
+      "link": "https://www.nytimes.com/2026/10/31/todayspaper/we-are-coming-from-hell-a-ukrainian-citys-evacuees-tell-survival-stories.html",
+      "pubDate": "2026-10-31T21:43:34.000Z",
+      "image": "https://static01.nyt.com/images/2026/10/31/multimedia/31int-ukraine-oleshky-zcvf/31int-ukraine-oleshky-zcvf-mediumSquareAt3X.jpg",
+      "author": "Carlotta Gall, Oleksandr Chubko and David Guttenfelder",
+      "excerpt": "Safely out of Oleshky after enduring years in the combat zone and a harrowing 24-hour journey, weary civilians reunited with family and friends.",
+      "source": "NYT"
+    },
+    {
+      "title": "Susan Collins Is Always Keeping Score",
+      "link": "https://www.nytimes.com/2026/10/31/us/politics/susan-collins-maine-senate-election.html",
+      "pubDate": "2026-10-31T20:06:57.000Z",
+      "image": "https://static01.nyt.com/images/2026/10/31/multimedia/31pol-collins-maine-boss-04-clqp/31pol-collins-maine-boss-04-clqp-mediumSquareAt3X.jpg",
+      "author": "Michael Kruse and Lisa Lerer",
+      "excerpt": "The long-serving senator has delivered millions of dollars to every corner of her state. But in Maine, people say, it’s best to avoid getting on her bad side.",
+      "source": "NYT"
+    },
+    {
       "title": "Iran Braces for More War, No Matter the Outcome of the U.S. and Israeli Elections",
       "link": "https://www.nytimes.com/2026/10/31/world/middleeast/iran-war-israel-us-elections-trump-netanyahu.html",
-      "pubDate": "2026-10-31T18:15:16.000Z",
+      "pubDate": "2026-10-31T20:04:18.000Z",
       "image": "https://static01.nyt.com/images/2026/10/31/multimedia/31int-iran-assess-1-vjkm/31int-iran-assess-1-vjkm-mediumSquareAt3X.jpg",
       "author": "Yeganeh Torbati",
       "excerpt": "With Prime Minister Benjamin Netanyahu fighting to stay in power and President Trump facing a tough midterm, Iran’s leaders expect no major shift in policy.",
+      "source": "NYT"
+    },
+    {
+      "title": "Doctors in Ukraine Try Treating Infections Like Biological Warfare Attacks",
+      "link": "https://www.nytimes.com/2026/10/31/science/ukraine-soldiers-infection-treatment.html",
+      "pubDate": "2026-10-31T18:34:45.000Z",
+      "image": "https://static01.nyt.com/images/2026/10/22/multimedia/00sci-Ukraine-infections-04-bfqh/00sci-Ukraine-infections-04-bfqh-mediumSquareAt3X.jpg",
+      "author": "Gina Kolata and Marc Santora",
+      "excerpt": "As many as 40 percent of injured soldiers face severe infections that can lead to amputations and death. One initiative is trying to fix that.",
       "source": "NYT"
     },
     {
@@ -896,24 +941,6 @@
       "source": "NYT"
     },
     {
-      "title": "How Binance’s $6.3 Billion Hack Went Down",
-      "link": "https://www.nytimes.com/2026/10/31/technology/binance-hack-crypto-north-korea.html",
-      "pubDate": "2026-10-31T17:51:04.000Z",
-      "image": "https://static01.nyt.com/images/2026/11/01/business/00biz-binance-ticktock/00biz-binance-ticktock-mediumSquareAt3X.jpg",
-      "author": "David Yaffe-Bellany",
-      "excerpt": "A war room. A global conference call. A founder who live-posted about the largest crypto heist in history. Inside a frantic 24 hours at the world’s biggest crypto exchange.",
-      "source": "NYT"
-    },
-    {
-      "title": "Doctors in Ukraine Try Treating Infections Like Biological Warfare Attacks",
-      "link": "https://www.nytimes.com/2026/10/31/science/ukraine-soldiers-infection-treatment.html",
-      "pubDate": "2026-10-31T17:38:21.000Z",
-      "image": "https://static01.nyt.com/images/2026/10/22/multimedia/00sci-Ukraine-infections-04-bfqh/00sci-Ukraine-infections-04-bfqh-mediumSquareAt3X.jpg",
-      "author": "Gina Kolata and Marc Santora",
-      "excerpt": "As many as 40 percent of injured soldiers face severe infections that can lead to amputations and death. One initiative is trying to fix that.",
-      "source": "NYT"
-    },
-    {
       "title": "How Trump Is Dismantling America’s Scientific Research Machine",
       "link": "https://www.nytimes.com/2026/10/31/science/how-trump-is-dismantling-americas-scientific-research-machine.html",
       "pubDate": "2026-10-31T17:32:04.000Z",
@@ -923,21 +950,12 @@
       "source": "NYT"
     },
     {
-      "title": "Evacuees Arrive to Safety From Besieged Ukrainian City of Oleshky",
-      "link": "https://www.nytimes.com/2026/10/26/world/europe/ukraine-oleshky-ceasefire-russia-war.html",
-      "pubDate": "2026-10-31T15:24:29.000Z",
-      "image": "https://static01.nyt.com/images/2026/10/31/multimedia/30vid-Oleshky-new/31int-ukraine-oleshky-zcvf-mediumSquareAt3X.jpg",
-      "author": "Carlotta Gall and Oleksandr Chubko",
-      "excerpt": "A few days of truce allowed the removal of remaining civilians from Oleshky, which continual Russian attacks have made all but uninhabitable.",
-      "source": "NYT"
-    },
-    {
-      "title": "Talarico Makes Final Election Pitch to Texans: ‘You Are My Slingshot’",
-      "link": "https://www.nytimes.com/2026/10/31/us/politics/talarico-texas.html",
-      "pubDate": "2026-10-31T13:34:18.000Z",
-      "image": "https://static01.nyt.com/images/2026/10/31/multimedia/31dc-talarico2-fbvq/31dc-talarico2-fbvq-mediumSquareAt3X.jpg",
-      "author": "Robert Draper",
-      "excerpt": "The Democratic candidate for Senate has led in polls. But because it’s Texas, he remains the underdog.",
+      "title": "Why Manipulate the Lines When You Can Just Move People Around?",
+      "link": "https://www.nytimes.com/2026/10/31/opinion/gerrymandering-colonization-gilded-age.html",
+      "pubDate": "2026-10-31T16:46:54.000Z",
+      "image": "https://static01.nyt.com/images/2026/10/31/opinion/31grinspan/31grinspan-mediumSquareAt3X.png",
+      "author": "Jon Grinspan",
+      "excerpt": "Gerrymandering, Gilded Age-style.",
       "source": "NYT"
     },
     {
@@ -947,33 +965,6 @@
       "image": "https://static01.nyt.com/images/2026/10/30/multimedia/00met-marathon-affordability1-zmqj/00met-marathon-affordability1-zmqj-mediumSquareAt3X.jpg",
       "author": "Santul Nerkar",
       "excerpt": "Running has long been celebrated as a cheap and accessible sport. But the culture of racing, especially in New York, is often anything but.",
-      "source": "NYT"
-    },
-    {
-      "title": "Brace Yourself for an ‘Unusual Election’",
-      "link": "https://www.nytimes.com/2026/10/31/opinion/midterms-races-democrats-election.html",
-      "pubDate": "2026-10-31T11:46:38.000Z",
-      "image": "https://static01.nyt.com/images/2026/10/31/opinion/31opinions-roundtable-image/31opinions-roundtable-image-mediumSquareAt3X.png",
-      "author": "Robert Siegel, Jamelle Bouie, E.J. Dionne Jr. and Vishakha Darbha",
-      "excerpt": "Democratic sweep or not, politics are about to change.",
-      "source": "NYT"
-    },
-    {
-      "title": "Republicans Tried to Turn the Cheesecake Factory Against Democrats. It Flopped.",
-      "link": "https://www.nytimes.com/2026/10/31/opinion/democrats-populist-working-class.html",
-      "pubDate": "2026-10-31T11:45:28.000Z",
-      "image": "https://static01.nyt.com/images/2026/10/31/multimedia/31goldberg-fwth/31goldberg-fwth-mediumSquareAt3X.jpg",
-      "author": "Michelle Goldberg",
-      "excerpt": "It’s become screamingly obvious who represents billionaires and unchecked plutocratic power.",
-      "source": "NYT"
-    },
-    {
-      "title": "Stage Fright",
-      "link": "https://www.nytimes.com/2026/10/31/briefing/stage-fright.html",
-      "pubDate": "2026-10-31T09:58:16.000Z",
-      "image": null,
-      "author": "Melissa Kirsch",
-      "excerpt": "Halloween presents an endless parade of ghouls and goblins. Most aren’t actually scary, but can illuminate some things about the nature of fear.",
       "source": "NYT"
     },
     {
@@ -995,12 +986,12 @@
       "source": "NYT"
     },
     {
-      "title": "Trump and GOP Close Midterms With Ugly Personal Attacks",
-      "link": "https://www.nytimes.com/2026/10/31/us/politics/trump-republicans-personal-attacks-midterms.html",
-      "pubDate": "2026-10-31T09:05:21.000Z",
-      "image": "https://static01.nyt.com/images/2026/10/31/multimedia/31pol-gop-attacks-01-hgzl/31pol-gop-attacks-01-hgzl-mediumSquareAt3X.jpg",
-      "author": "Tim Balk and Sam Easter",
-      "excerpt": "Facing backlash over inflation and anger with the president, Republicans have turned to an onslaught of baseless claims about Democratic candidates.",
+      "title": "As Midterms Near, Top Law Firms That Capitulated to Trump Are on the Sidelines",
+      "link": "https://www.nytimes.com/2026/10/31/us/politics/law-firms-trump-voting.html",
+      "pubDate": "2026-10-31T09:02:24.000Z",
+      "image": "https://static01.nyt.com/images/2026/10/29/multimedia/29dc-lawfirms-fbvq/29dc-lawfirms-fbvq-mediumSquareAt3X.jpg",
+      "author": "Michael S. Schmidt and Jim Rutenberg",
+      "excerpt": "None of the firms that struck deals to avoid crippling executive orders are publicly involved in the major legal efforts to check the Trump administration’s attempts to meddle in the midterm elections, a review by The New York Times shows.",
       "source": "NYT"
     },
     {
@@ -1013,12 +1004,21 @@
       "source": "NYT"
     },
     {
-      "title": "Beware of Election Night Mirages",
-      "link": "https://www.nytimes.com/video/us/elections/100000011224072/beware-of-election-night-mirages.html",
-      "pubDate": "2026-10-30T09:01:58.000Z",
+      "title": "Voters Usually Ignore Corruption as an Issue. It Now Has Their Attention.",
+      "link": "https://www.nytimes.com/2026/10/31/us/politics/corruption-midterms.html",
+      "pubDate": "2026-10-31T09:00:44.000Z",
+      "image": "https://static01.nyt.com/images/2026/10/31/multimedia/31nat-corruption-vhbp/31nat-corruption-vhbp-mediumSquareAt3X.jpg",
+      "author": "David Ovalle and Emily Cochrane",
+      "excerpt": "Voters have shrugged off accusations of corruption for years, believing all politicians are corrupt, but thanks to President Trump’s unpopularity and growing wealth, the issue is breaking through.",
+      "source": "NYT"
+    },
+    {
+      "title": "This Year, Yet Again, I’m Dressing as Grapes",
+      "link": "https://www.nytimes.com/2026/10/25/opinion/this-year-yet-again-im-dressing-as-grapes.html",
+      "pubDate": "2026-10-25T18:04:09.000Z",
       "image": null,
-      "author": "Christine Zhang, Laura Bult, Brian Oh and Stephanie Swart",
-      "excerpt": "Early race counts on election night can sometimes differ sharply from the final outcome. Christine Zhang, our election data reporter, explains the reasons behind red and blue “mirages.”",
+      "author": "Michael Linares",
+      "excerpt": "Every Halloween for nearly two decades, I’ve adorned myself with purple (or black) balloons. It’s a lifelong commitment to the bit.",
       "source": "NYT"
     }
   ]
