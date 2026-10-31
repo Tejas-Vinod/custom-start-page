@@ -1,12 +1,21 @@
 {
   "spaceNews": [
     {
-      "title": "Live coverage: SpaceX to close out October with Halloween eve Falcon 9 launch",
+      "title": "APOD: 2026 October 31 – Night on a Spooky Planet",
+      "link": "https://science.nasa.gov/image-article/apod-2026-october-31-night-on-a-spooky-planet/",
+      "pubDate": "2026-10-31T04:05:00.000Z",
+      "image": "https://assets.science.nasa.gov/dynamicimage/assets/science/cds/apod/apod/Hverir_Vetter_1300.jpg?w=1300&#038;h=867&#038;fit=clip&#038;crop=faces%2Cfocalpoint",
+      "author": "",
+      "excerpt": "APOD Science APOD APOD: 2026 October 31 –… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional ",
+      "source": "NASA"
+    },
+    {
+      "title": "SpaceX closes out October with Halloween eve Falcon 9 launch, 700th Falcon 9 launch to date",
       "link": "https://spaceflightnow.com/2026/10/30/live-coverage-spacex-to-close-out-october-with-halloween-eve-falcon-9-launch/",
       "pubDate": "2026-10-30T22:46:02.000Z",
-      "image": "https://spaceflightnow.com/wp-content/uploads/2026/03/20260326-Vandy-Starlink-File-Photo.jpg",
+      "image": "https://spaceflightnow.com/wp-content/uploads/2026/10/20261031-Starlink-15-18-Launch.jpg",
       "author": "Will Robinson-Smith",
-      "excerpt": "The Starlink 15-18 mission will add another 27 Starlink V2 Mini Optimized satellites to SpaceX’s megaconstellation. Liftoff from pad 4E at Vandenberg Space Force Base is scheduled for 9:02 p.m. PDT (12:02 a.m. EDT / 0402 UTC).",
+      "excerpt": "The Starlink 15-18 mission will add another 27 Starlink V2 Mini Optimized satellites to SpaceX’s megaconstellation. Liftoff from pad 4E at Vandenberg Space Force Base is scheduled for 9:04 p.m. PDT (12:04 a.m. EDT / 0404 UTC).",
       "source": "Spaceflight Now"
     },
     {
@@ -178,15 +187,6 @@
       "image": "https://www.nasa.gov/wp-content/uploads/2026/10/luca-parmitano.jpg?w=1024",
       "author": "Sumer Loggins",
       "excerpt": "Although no ghouls, goblins, or trick-or-treaters come knocking at the International Space Station’s front hatch, crew members aboard the orbiting laboratory still like to get in the Halloween spirit. Whether individually or as an entire crew, they dress up in sometimes spooky, sometimes scary, but always creative cost",
-      "source": "NASA"
-    },
-    {
-      "title": "NASA-funded Study Details One of Oldest Mars Meteorites Ever Found",
-      "link": "https://www.nasa.gov/solar-system/planets/mars/nasa-funded-study-details-one-of-oldest-mars-meteorites-ever-found/",
-      "pubDate": "2026-10-29T18:18:09.000Z",
-      "image": "https://www.nasa.gov/wp-content/uploads/2026/10/1-closeup-of-teghaza-001-mars-meteorite.jpg?w=2048",
-      "author": "Amanda Barnett",
-      "excerpt": "When a rose-colored meteorite was found in the Sahara Desert in 2022, no one knew how old it was or where it came from. Not until NASA-funded scientists age-dated its minerals did they realize the nearly 2-pound (800-gram) rock was a piece of Mars that formed more than 4.1 billion years ago, making it one […]",
       "source": "NASA"
     },
     {
@@ -878,21 +878,30 @@
   ],
   "nytNews": [
     {
+      "title": "El-Sayed Clashes With Former Primary Rival Who Demanded His Apology",
+      "link": "https://www.nytimes.com/2026/10/30/us/politics/el-sayed-stevens-michigan-senate-event.html",
+      "pubDate": "2026-10-31T04:15:26.000Z",
+      "image": "https://static01.nyt.com/images/2026/10/30/multimedia/30pol-el-sayed-stevens-02-qftw/30pol-el-sayed-stevens-02-qftw-mediumSquareAt3X.jpg",
+      "author": "Tim Balk",
+      "excerpt": "Dr. Abdul El-Sayed and Representative Haley Stevens traded sharply critical comments Friday, escalating intraparty tensions in Michigan’s pivotal Senate race.",
+      "source": "NYT"
+    },
+    {
+      "title": "Britain’s Prime Minister Says He’s Open to a Formal Apology for Slavery",
+      "link": "https://www.nytimes.com/2026/10/30/world/europe/britain-burnham-charles-apology-slavery.html",
+      "pubDate": "2026-10-31T03:32:20.000Z",
+      "image": "https://static01.nyt.com/images/2026/11/30/multimedia/30int-uk-slavery-apology-mhgb/30int-uk-slavery-apology-mhgb-mediumSquareAt3X.jpg",
+      "author": "Michael D. Shear",
+      "excerpt": "The premier’s comments represent a major change in British policy, but they are unlikely to satisfy those who hoped that reparations would follow.",
+      "source": "NYT"
+    },
+    {
       "title": "Alina Habba’s Husband Ignited Drama in Trump’s Circle. Now He’s Under Scrutiny.",
       "link": "https://www.nytimes.com/2026/10/30/us/politics/alina-habba-turhan-mildon-trump-congo-venezuela.html",
       "pubDate": "2026-10-31T00:01:53.000Z",
       "image": "https://static01.nyt.com/images/2026/10/30/us/30DC-MILDON/30DC-MILDON-mediumSquareAt3X.jpg",
       "author": "Anatoly Kurmanaev, Tyler Pager and Declan Walsh",
       "excerpt": "Turhan Mildon, who married Alina Habba this summer, presents himself as a 29-year-old billionaire with ties to global leaders. His story has inconsistencies.",
-      "source": "NYT"
-    },
-    {
-      "title": "Justice Dept. Confirms Alaska Inquiry Even as Its Focus Remains Unclear",
-      "link": "https://www.nytimes.com/2026/10/30/us/politics/justice-dept-alaska-senate-inquiry.html",
-      "pubDate": "2026-10-30T23:56:11.000Z",
-      "image": "https://static01.nyt.com/images/2026/10/30/multimedia/30dc-alaska-pkvb/30dc-alaska-pkvb-mediumSquareAt3X.jpg",
-      "author": "Anna Griffin and Glenn Thrush",
-      "excerpt": "Democrats and former officials have accused the department of pursuing a political goal in the guise of a legal one: to publicize a scheme, sordid but not illegal under state law, damaging to Democrats.",
       "source": "NYT"
     },
     {
@@ -905,12 +914,12 @@
       "source": "NYT"
     },
     {
-      "title": "Houston Grand Jury Indicts ICE Agent on Charges of Ramming Man in Chase",
-      "link": "https://www.nytimes.com/2026/10/30/us/houston-ice-agent-charged-ramming.html",
-      "pubDate": "2026-10-30T23:14:01.000Z",
-      "image": null,
-      "author": "Edgar Sandoval",
-      "excerpt": "The agent is facing charges of aggravated assault with a deadly weapon. The immigrant who was struck is recovering from severe leg injuries.",
+      "title": "Trump’s Plane Flyover Is a Halloween Trick for Startled D.C. Residents",
+      "link": "https://www.nytimes.com/2026/10/30/us/politics/air-force-flyover.html",
+      "pubDate": "2026-10-30T23:25:23.000Z",
+      "image": "https://static01.nyt.com/images/2026/10/30/multimedia/30dc-flyover-lcbz/30dc-flyover-lcbz-mediumSquareAt3X.jpg",
+      "author": "Michael Crowley",
+      "excerpt": "A White House social media account said the surprise Air Force One flight was part of a Halloween event hosted by the president and the first lady.",
       "source": "NYT"
     },
     {
@@ -920,33 +929,6 @@
       "image": "https://static01.nyt.com/images/2026/10/30/multimedia/30biz-prediction-pmzg/30biz-prediction-pmzg-mediumSquareAt3X.jpg",
       "author": "Stuart A. Thompson",
       "excerpt": "Studies have shown that the betting sites can predict races correctly, but their ability to forecast U.S. midterm elections is an important proving ground.",
-      "source": "NYT"
-    },
-    {
-      "title": "Minnesota Declined to Buy a Prison for $75 Million. D.H.S. Paid $495 Million.",
-      "link": "https://www.nytimes.com/2026/10/30/us/minnesota-prison-homeland-security.html",
-      "pubDate": "2026-10-30T22:15:46.000Z",
-      "image": "https://static01.nyt.com/images/2026/10/30/multimedia/30nat-ice-prison-1-tbhg/30nat-ice-prison-1-tbhg-mediumSquareAt3X.jpg",
-      "author": "Ernesto Londoño",
-      "excerpt": "The recent purchase of the prison to hold immigrants is among the acquisitions facing scrutiny in the Trump administration’s mass deportation push.",
-      "source": "NYT"
-    },
-    {
-      "title": "Binance Lost Over $6 Billion in Crypto Hack. Here’s What to Know.",
-      "link": "https://www.nytimes.com/2026/10/30/business/binance-hack-crypto-price-what.html",
-      "pubDate": "2026-10-30T21:48:01.000Z",
-      "image": "https://static01.nyt.com/images/2026/10/30/multimedia/30xp-binance-wtk-vzbg/30xp-binance-wtk-vzbg-mediumSquareAt3X.jpg",
-      "author": "Jonathan Wolfe",
-      "excerpt": "Hackers made off with around $6 billion in digital currency in what could be the biggest crypto heist in history. Binance said it will cover the losses.",
-      "source": "NYT"
-    },
-    {
-      "title": "Trump Will Go to Kansas and Iowa Before Election Day",
-      "link": "https://www.nytimes.com/2026/10/30/briefing/trump-campaign-plans-crypto-hack.html",
-      "pubDate": "2026-10-30T21:40:56.000Z",
-      "image": "https://static01.nyt.com/images/2026/10/30/multimedia/30evening-nl-trump-rally-mjcq/30evening-nl-trump-rally-mjcq-mediumSquareAt3X-v2.jpg",
-      "author": "Matthew Cullen",
-      "excerpt": "Also, a rare rescue begins in Ukraine. Here’s the latest at the end of Friday.",
       "source": "NYT"
     },
     {
@@ -968,15 +950,6 @@
       "source": "NYT"
     },
     {
-      "title": "I Covered the Tiananmen Square Massacre. It Still Weighs on Me.",
-      "link": "https://www.nytimes.com/2026/10/30/world/asia/china-tiananmen-kristof.html",
-      "pubDate": "2026-10-30T21:04:43.000Z",
-      "image": "https://static01.nyt.com/images/2026/11/01/multimedia/1101-175-EYEWITNESS-TIANANMEN-Print1/00PROJECTS-175-EYEWITNESS-TIANANMEN-SQUARE-01-zwtm-mediumSquareAt3X.jpg",
-      "author": "Nicholas Kristof",
-      "excerpt": "The day that changed modern China also taught me how to recognize true courage.",
-      "source": "NYT"
-    },
-    {
       "title": "Elon Musk’s Endgame",
       "link": "https://www.nytimes.com/2026/10/30/opinion/ezra-klein-podcast-quinn-slobodian.html",
       "pubDate": "2026-10-30T20:50:30.000Z",
@@ -995,30 +968,12 @@
       "source": "NYT"
     },
     {
-      "title": "Tech Stocks See Worst Day Since June, Pressuring Broader Market",
-      "link": "https://www.nytimes.com/2026/10/30/business/stock-market-october-ai.html",
-      "pubDate": "2026-10-30T20:40:47.000Z",
-      "image": "https://static01.nyt.com/images/2026/10/30/multimedia/2026-oct-biz-promos-stocks/2026-oct-biz-promos-stocks-mediumSquareAt3X-v9.png",
-      "author": "Joe Rennison and Aruni Soni",
-      "excerpt": "The Nasdaq and the S&P 500 had their worst day since June as investors worried about spending on A.I. infrastructure.",
-      "source": "NYT"
-    },
-    {
       "title": "Prosecutors Suggest They May Seek Additional Comey Charges",
       "link": "https://www.nytimes.com/2026/10/30/us/politics/james-comey-charges-doj.html",
       "pubDate": "2026-10-30T20:22:31.000Z",
       "image": "https://static01.nyt.com/images/2026/10/30/multimedia/30dc-comey-jmwq/30dc-comey-jmwq-mediumSquareAt3X.jpg",
       "author": "Devlin Barrett",
       "excerpt": "At a hearing in federal court, prosecutors defended an unusual, 11th-hour criminal case accusing the former F.B.I. director of leaking classified information a decade ago.",
-      "source": "NYT"
-    },
-    {
-      "title": "Marvin Shanken, Publisher of Wine Spectator and Cigar Aficionado, Has Died",
-      "link": "https://www.nytimes.com/2026/10/30/dining/drinks/marvin-shanken-wine-dead.html",
-      "pubDate": "2026-10-30T19:47:00.000Z",
-      "image": null,
-      "author": "Clay Risen",
-      "excerpt": "He bought a struggling industry newsletter called Wine Spectator in 1979 and turned it into one of America’s leading tastemakers. He was 83.",
       "source": "NYT"
     },
     {
@@ -1040,57 +995,12 @@
       "source": "NYT"
     },
     {
-      "title": "U.S. to Send Dozens Back to Afghanistan, Despite Risk of Persecution",
-      "link": "https://www.nytimes.com/2026/10/30/world/asia/afghan-refugees-deported-flight-pakistan.html",
-      "pubDate": "2026-10-30T18:53:37.000Z",
-      "image": "https://static01.nyt.com/images/2026/10/30/multimedia/30int-afghan-deport-flight-1-kgbj/30int-afghan-deport-flight-1-kgbj-mediumSquareAt3X.jpg",
-      "author": "Pranav Baskar, Hamed Aleaziz and Elian Peltier",
-      "excerpt": "The Trump administration plans to fly the Afghan immigrants from Louisiana to Pakistan, where they are expected to be expelled over the border to Afghanistan.",
-      "source": "NYT"
-    },
-    {
-      "title": "As Picard on ‘Star Trek’, Patrick Stewart Influenced Generations of Scientists",
-      "link": "https://www.nytimes.com/2026/10/30/science/space/patrick-stewart-scientists-react.html",
-      "pubDate": "2026-10-30T15:55:14.000Z",
-      "image": "https://static01.nyt.com/images/2026/10/30/science/30SCI-STEWART-APPRAISAL/30SCI-STEWART-APPRAISAL-mediumSquareAt3X.jpg",
-      "author": "Robin George Andrews",
-      "excerpt": "Stewart’s iconic “Star Trek” character inspired astronomers and astronauts in countless ways: “You were the captain of my childhood,” one astrophysicist said.",
-      "source": "NYT"
-    },
-    {
-      "title": "Patrick Stewart Was Regal, Stately and Quite Hilarious",
-      "link": "https://www.nytimes.com/2026/10/30/arts/television/patrick-stewart-humor-comedy.html",
-      "pubDate": "2026-10-30T15:18:56.000Z",
-      "image": null,
-      "author": "Maya Phillips",
-      "excerpt": "The actor used his booming voice and Shakespearean pedigree in the service of absurd (and often lewd) comedy.",
-      "source": "NYT"
-    },
-    {
-      "title": "Democrats and Republicans Share Dueling Health Care Messages in Final Midterms Push",
-      "link": "https://www.nytimes.com/2026/10/30/us/politics/midterms-health-care-affordability-fraud.html",
-      "pubDate": "2026-10-30T15:09:29.000Z",
-      "image": "https://static01.nyt.com/images/2026/10/29/multimedia/29dc-health-midterms-qmlz/29dc-health-midterms-qmlz-mediumSquareAt3X.jpg",
-      "author": "Sheryl Gay Stolberg",
-      "excerpt": "After concentrating on the high price of gas and groceries, Democrats are using health costs to make their case about an “affordability crisis.”",
-      "source": "NYT"
-    },
-    {
-      "title": "Mosquito Lasers",
-      "link": "https://www.nytimes.com/2026/10/30/briefing/mosquito-lasers.html",
-      "pubDate": "2026-10-30T14:21:52.000Z",
-      "image": "https://static01.nyt.com/images/2026/10/27/multimedia/30themorning-nl-Laser/30themorning-nl-Laser-mediumSquareAt3X.jpg",
-      "author": "Sam Sifton",
-      "excerpt": "China has come up with an innovative way to kill the insects.",
-      "source": "NYT"
-    },
-    {
-      "title": "Can Scientists Make Football Safer?",
-      "link": "https://www.nytimes.com/2026/10/28/science/cte-nfl-football-brain-safety.html",
-      "pubDate": "2026-10-28T15:00:11.000Z",
-      "image": "https://static01.nyt.com/images/2026/10/28/multimedia/28SCI-CTE-TREATMENTS-stillpromo-tfck/28SCI-CTE-TREATMENTS-stillpromo-tfck-mediumSquareAt3X.jpg",
-      "author": "Lynne Peeples",
-      "excerpt": "Researchers are exploring novel ways to treat, even prevent, the brain disease C.T.E. One of the most surprising: near-infrared light.",
+      "title": "Patrick Stewart Embraced His Baldness and Became an Icon",
+      "link": "https://www.nytimes.com/2026/10/30/style/patrick-stewart-bald-hereditary-alopecia.html",
+      "pubDate": "2026-10-30T18:35:37.000Z",
+      "image": "https://static01.nyt.com/images/2026/10/30/multimedia/ST-PATRICK-STEWART-BALD-1-vtgj/ST-PATRICK-STEWART-BALD-1-vtgj-mediumSquareAt3X.jpg",
+      "author": "Guy Trebay",
+      "excerpt": "It took him a while to realize that his lack of hair only added to his quietly commanding presence.",
       "source": "NYT"
     }
   ]
