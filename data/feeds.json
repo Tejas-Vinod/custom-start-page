@@ -878,21 +878,48 @@
   ],
   "nytNews": [
     {
-      "title": "How Binance’s $6.3 Billion Hack Went Down",
-      "link": "https://www.nytimes.com/2026/10/31/technology/binance-hack-crypto-north-korea.html",
-      "pubDate": "2026-10-31T22:19:48.000Z",
-      "image": "https://static01.nyt.com/images/2026/11/01/business/00biz-binance-ticktock/00biz-binance-ticktock-mediumSquareAt3X.jpg",
-      "author": "David Yaffe-Bellany",
-      "excerpt": "A war room. A global conference call. A founder who live-posted about the largest crypto heist in history. Inside a frantic 24 hours at the world’s biggest crypto exchange.",
+      "title": "Trump Calls Former Lawyer’s $50 Million Deal ‘Obnoxious and Outrageous’",
+      "link": "https://www.nytimes.com/2026/10/31/us/politics/trump-habba-mildon-lawyer.html",
+      "pubDate": "2026-11-01T01:37:37.000Z",
+      "image": "https://static01.nyt.com/images/2026/10/31/multimedia/31dc-mildon-fchv/31dc-mildon-fchv-mediumSquareAt3X.jpg",
+      "author": "Tyler Pager",
+      "excerpt": "At a Halloween event in Florida, President Trump told reporters that Alina Habba Mildon’s lucrative work for someone seeking a pardon was “not acceptable.”",
       "source": "NYT"
     },
     {
       "title": "North Korean Hackers Stole Billions, the F.B.I. Says. It’s Not Their First Heist.",
       "link": "https://www.nytimes.com/2026/10/31/world/asia/north-korea-hacking.html",
-      "pubDate": "2026-10-31T22:09:47.000Z",
+      "pubDate": "2026-10-31T23:05:42.000Z",
       "image": "https://static01.nyt.com/images/2026/10/31/multimedia/31int-nkorea-hacking-wtk-lpjv/31int-nkorea-hacking-wtk-lpjv-mediumSquareAt3X.jpg",
       "author": "Pranav Baskar",
       "excerpt": "This week’s $6.3 billion hack of Binance is the largest to hit crypto, and would be the most that North Koreans have stolen in years of brazen cybercrime.",
+      "source": "NYT"
+    },
+    {
+      "title": "Doctors in Ukraine Try Treating Infections Like Biological Warfare Attacks",
+      "link": "https://www.nytimes.com/2026/10/31/science/ukraine-soldiers-infection-treatment.html",
+      "pubDate": "2026-10-31T22:54:18.000Z",
+      "image": "https://static01.nyt.com/images/2026/10/22/multimedia/00sci-Ukraine-infections-04-bfqh/00sci-Ukraine-infections-04-bfqh-mediumSquareAt3X.jpg",
+      "author": "Gina Kolata and Marc Santora",
+      "excerpt": "As many as 40 percent of injured soldiers face severe infections that can lead to amputations and death. One initiative is trying to fix that.",
+      "source": "NYT"
+    },
+    {
+      "title": "Susan Collins Is Always Keeping Score",
+      "link": "https://www.nytimes.com/2026/10/31/us/politics/susan-collins-maine-senate-election.html",
+      "pubDate": "2026-10-31T22:45:39.000Z",
+      "image": "https://static01.nyt.com/images/2026/10/31/multimedia/31pol-collins-maine-boss-04-clqp/31pol-collins-maine-boss-04-clqp-mediumSquareAt3X.jpg",
+      "author": "Michael Kruse and Lisa Lerer",
+      "excerpt": "The long-serving senator has delivered millions of dollars to every corner of her state. But in Maine, people say, it’s best to avoid getting on her bad side.",
+      "source": "NYT"
+    },
+    {
+      "title": "How Binance’s $6.3 Billion Hack Went Down",
+      "link": "https://www.nytimes.com/2026/10/31/technology/binance-hack-crypto-north-korea.html",
+      "pubDate": "2026-10-31T22:19:49.000Z",
+      "image": "https://static01.nyt.com/images/2026/11/01/business/00biz-binance-ticktock/00biz-binance-ticktock-mediumSquareAt3X.jpg",
+      "author": "David Yaffe-Bellany",
+      "excerpt": "A war room. A global conference call. A founder who live-posted about the largest crypto heist in history. Inside a frantic 24 hours at the world’s biggest crypto exchange.",
       "source": "NYT"
     },
     {
@@ -905,30 +932,12 @@
       "source": "NYT"
     },
     {
-      "title": "Susan Collins Is Always Keeping Score",
-      "link": "https://www.nytimes.com/2026/10/31/us/politics/susan-collins-maine-senate-election.html",
-      "pubDate": "2026-10-31T20:06:57.000Z",
-      "image": "https://static01.nyt.com/images/2026/10/31/multimedia/31pol-collins-maine-boss-04-clqp/31pol-collins-maine-boss-04-clqp-mediumSquareAt3X.jpg",
-      "author": "Michael Kruse and Lisa Lerer",
-      "excerpt": "The long-serving senator has delivered millions of dollars to every corner of her state. But in Maine, people say, it’s best to avoid getting on her bad side.",
-      "source": "NYT"
-    },
-    {
       "title": "Iran Braces for More War, No Matter the Outcome of the U.S. and Israeli Elections",
       "link": "https://www.nytimes.com/2026/10/31/world/middleeast/iran-war-israel-us-elections-trump-netanyahu.html",
       "pubDate": "2026-10-31T20:04:18.000Z",
       "image": "https://static01.nyt.com/images/2026/10/31/multimedia/31int-iran-assess-1-vjkm/31int-iran-assess-1-vjkm-mediumSquareAt3X.jpg",
       "author": "Yeganeh Torbati",
       "excerpt": "With Prime Minister Benjamin Netanyahu fighting to stay in power and President Trump facing a tough midterm, Iran’s leaders expect no major shift in policy.",
-      "source": "NYT"
-    },
-    {
-      "title": "Doctors in Ukraine Try Treating Infections Like Biological Warfare Attacks",
-      "link": "https://www.nytimes.com/2026/10/31/science/ukraine-soldiers-infection-treatment.html",
-      "pubDate": "2026-10-31T18:34:45.000Z",
-      "image": "https://static01.nyt.com/images/2026/10/22/multimedia/00sci-Ukraine-infections-04-bfqh/00sci-Ukraine-infections-04-bfqh-mediumSquareAt3X.jpg",
-      "author": "Gina Kolata and Marc Santora",
-      "excerpt": "As many as 40 percent of injured soldiers face severe infections that can lead to amputations and death. One initiative is trying to fix that.",
       "source": "NYT"
     },
     {
@@ -950,12 +959,12 @@
       "source": "NYT"
     },
     {
-      "title": "Why Manipulate the Lines When You Can Just Move People Around?",
-      "link": "https://www.nytimes.com/2026/10/31/opinion/gerrymandering-colonization-gilded-age.html",
-      "pubDate": "2026-10-31T16:46:54.000Z",
-      "image": "https://static01.nyt.com/images/2026/10/31/opinion/31grinspan/31grinspan-mediumSquareAt3X.png",
-      "author": "Jon Grinspan",
-      "excerpt": "Gerrymandering, Gilded Age-style.",
+      "title": "You Should Go to the Basement. Just Don’t Go Alone.",
+      "link": "https://www.nytimes.com/2026/10/31/opinion/horror-family-father.html",
+      "pubDate": "2026-10-31T16:45:41.000Z",
+      "image": null,
+      "author": "Matt Greenberg",
+      "excerpt": "Horror isn’t just scary — it can draw people together, especially when they’ve struggled to connect.",
       "source": "NYT"
     },
     {
@@ -977,15 +986,6 @@
       "source": "NYT"
     },
     {
-      "title": "Why Haley Stevens Can’t Stop Talking About Abdul El-Sayed",
-      "link": "https://www.nytimes.com/2026/10/31/us/haley-stevens-abdul-el-sayed.html",
-      "pubDate": "2026-10-31T09:06:09.000Z",
-      "image": "https://static01.nyt.com/images/2026/10/31/multimedia/31pol-haley-stevens-01-lqvt/31pol-haley-stevens-01-lqvt-mediumSquareAt3X.jpg",
-      "author": "Reid J. Epstein",
-      "excerpt": "In a frank interview, she described her disappointment and also said she was considering converting to Judaism. Her fiancé had thoughts, too.",
-      "source": "NYT"
-    },
-    {
       "title": "As Midterms Near, Top Law Firms That Capitulated to Trump Are on the Sidelines",
       "link": "https://www.nytimes.com/2026/10/31/us/politics/law-firms-trump-voting.html",
       "pubDate": "2026-10-31T09:02:24.000Z",
@@ -995,30 +995,12 @@
       "source": "NYT"
     },
     {
-      "title": "In San Francisco’s A.I. Boom, a First Date Has Become an Interview",
-      "link": "https://www.nytimes.com/2026/10/31/technology/san-francisco-ai-boom-dating.html",
-      "pubDate": "2026-10-31T09:00:54.000Z",
-      "image": "https://static01.nyt.com/images/2026/10/31/multimedia/31BIZ-SF-DATING-1-04-mwjv/31BIZ-SF-DATING-1-04-mwjv-mediumSquareAt3X.jpg",
-      "author": "Emmy Martin",
-      "excerpt": "When there is A.I. to build, who has time for romance? Techies are going out less and expecting more on each date — including a family health history.",
-      "source": "NYT"
-    },
-    {
       "title": "Voters Usually Ignore Corruption as an Issue. It Now Has Their Attention.",
       "link": "https://www.nytimes.com/2026/10/31/us/politics/corruption-midterms.html",
       "pubDate": "2026-10-31T09:00:44.000Z",
       "image": "https://static01.nyt.com/images/2026/10/31/multimedia/31nat-corruption-vhbp/31nat-corruption-vhbp-mediumSquareAt3X.jpg",
       "author": "David Ovalle and Emily Cochrane",
       "excerpt": "Voters have shrugged off accusations of corruption for years, believing all politicians are corrupt, but thanks to President Trump’s unpopularity and growing wealth, the issue is breaking through.",
-      "source": "NYT"
-    },
-    {
-      "title": "This Year, Yet Again, I’m Dressing as Grapes",
-      "link": "https://www.nytimes.com/2026/10/25/opinion/this-year-yet-again-im-dressing-as-grapes.html",
-      "pubDate": "2026-10-25T18:04:09.000Z",
-      "image": null,
-      "author": "Michael Linares",
-      "excerpt": "Every Halloween for nearly two decades, I’ve adorned myself with purple (or black) balloons. It’s a lifelong commitment to the bit.",
       "source": "NYT"
     }
   ]
