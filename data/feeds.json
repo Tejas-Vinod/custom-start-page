@@ -163,15 +163,6 @@
       "source": "NASA"
     },
     {
-      "title": "As it happened: spacewalkers install new solar array",
-      "link": "https://spaceflightnow.com/2026/10/29/as-it-happened-spacewalkers-install-new-solar-array/",
-      "pubDate": "2026-10-29T23:45:33.000Z",
-      "image": "https://spaceflightnow.com/wp-content/uploads/2026/10/20261029_US_EVA_100-2.jpg",
-      "author": "Spaceflight Now",
-      "excerpt": "NASA astronaut Anil Menon and Canadian Space Agency astronaut Joshua Kutryk are performing a spacewalk to install the 7th of 8 ISS Roll-Out Solar Arrays (iROSA) to upgrade the orbiting outpost's power system.",
-      "source": "Spaceflight Now"
-    },
-    {
       "title": "Slice of Martian Meteorite Teghaza 001",
       "link": "https://science.nasa.gov/photojournal/slice-of-martian-meteorite-teghaza-001/",
       "pubDate": "2026-10-29T23:32:35.000Z",
@@ -196,6 +187,15 @@
       "image": "https://spaceflightnow.com/wp-content/uploads/2026/10/20261029-IROSA-unfurls.jpg",
       "author": "Houston Harwood",
       "excerpt": "NASA astronaut Anil Menon and Canadian Space Agency astronaut Joshua Kutryk successfully installed and unfurled the seventh of eight new solar panels designed to power the outpost through its retirement in 2030.",
+      "source": "Spaceflight Now"
+    },
+    {
+      "title": "As it happened: spacewalkers install new solar array",
+      "link": "https://spaceflightnow.com/2026/10/29/as-it-happened-spacewalkers-install-new-solar-array/",
+      "pubDate": "2026-10-29T18:45:33.000Z",
+      "image": "https://spaceflightnow.com/wp-content/uploads/2026/10/20261029_US_EVA_100-2.jpg",
+      "author": "Spaceflight Now",
+      "excerpt": "NASA astronaut Anil Menon and Canadian Space Agency astronaut Joshua Kutryk are performing a spacewalk to install the 7th of 8 ISS Roll-Out Solar Arrays (iROSA) to upgrade the orbiting outpost's power system.",
       "source": "Spaceflight Now"
     },
     {
@@ -878,12 +878,39 @@
   ],
   "nytNews": [
     {
-      "title": "Did the Peltola Campaign Seal the Fate of Alaska’s Ranked Choice Vote?",
-      "link": "https://www.nytimes.com/2026/11/01/us/alaska-ranked-choice-voting-peltola.html",
-      "pubDate": "2026-11-01T15:21:05.000Z",
-      "image": "https://static01.nyt.com/images/2026/11/01/multimedia/01nat-ranked-choice-alaska-1-tbzg/01nat-ranked-choice-alaska-1-tbzg-mediumSquareAt3X.jpg",
+      "title": "The Rise and Fall of the Triumphal Arch",
+      "link": "https://www.nytimes.com/2026/11/01/opinion/trump-arch-washington-dc.html",
+      "pubDate": "2026-11-01T20:09:55.000Z",
+      "image": "https://static01.nyt.com/images/2026/11/01/arts/1campanella-arches-top-cover/1campanella-arches-top-cover-mediumSquareAt3X.jpg",
+      "author": "Thomas J. Campanella",
+      "excerpt": "The history of triumphal arches is long and messy. Where does Donald Trump’s proposed edifice fit in?",
+      "source": "NYT"
+    },
+    {
+      "title": "Judge Rejects Trump Officials’ Move to Challenge Alaska Senate Election",
+      "link": "https://www.nytimes.com/2026/11/01/us/alaska-senate-election-lawsuit.html",
+      "pubDate": "2026-11-01T19:44:11.000Z",
+      "image": null,
       "author": "Anna Griffin",
-      "excerpt": "Beyond hotly contested Senate and governor’s races, Alaskans will decide Tuesday whether to scrap the state’s unique ballot. The campaign of Mary Peltola may have bolstered critics of the system.",
+      "excerpt": "In the latest defeat for the Trump administration, the ruling dismisses a lawsuit that pre-emptively contested the results of a race that includes two candidates named Daniel Sullivan.",
+      "source": "NYT"
+    },
+    {
+      "title": "Senator Chris Murphy Is ‘Awake and Alert’ After Suffering a Stroke",
+      "link": "https://www.nytimes.com/2026/11/01/us/politics/chris-murphy-stroke.html",
+      "pubDate": "2026-11-01T19:02:09.000Z",
+      "image": "https://static01.nyt.com/images/2026/11/01/multimedia/01DC-Murphy-Stroke-wpkz/01DC-Murphy-Stroke-wpkz-mediumSquareAt3X.jpg",
+      "author": "Michael Gold",
+      "excerpt": "The Connecticut senator, who has been campaigning for fellow Democrats, has been viewed as a potential candidate for president in 2028.",
+      "source": "NYT"
+    },
+    {
+      "title": "Stylish Looks From the New York City Marathon",
+      "link": "https://www.nytimes.com/2026/11/01/style/nyc-marathon-fashion-outfits.html",
+      "pubDate": "2026-11-01T17:53:29.000Z",
+      "image": null,
+      "author": "Nadav Gavrielov and Lanna Apisukh",
+      "excerpt": "A pasta-loving runner and a woman celebrating a birthday were among the marathoners, some of whom were extending their Halloween festivities into race day.",
       "source": "NYT"
     },
     {
@@ -905,66 +932,21 @@
       "source": "NYT"
     },
     {
-      "title": "India’s Congress Party Holds Mass Protest in New Delhi",
-      "link": "https://www.nytimes.com/2026/10/31/world/asia/congress-cjp-protest-delhi-india-modi.html",
-      "pubDate": "2026-11-01T14:34:54.000Z",
-      "image": "https://static01.nyt.com/images/2026/11/01/multimedia/01int-india-protest-vtgk/01int-india-protest-vtgk-mediumSquareAt3X.jpg",
-      "author": "Jeremy W. Peters and Hari Kumar",
-      "excerpt": "Tens of thousands gathered in India’s capital in a clamor of banging drums, chants and billowing flags, with participants from across the country.",
+      "title": "Culture War Tensions Roil Beverly Hills School Board Race",
+      "link": "https://www.nytimes.com/2026/11/01/us/politics/beverly-hills-school-board.html",
+      "pubDate": "2026-11-01T10:02:22.000Z",
+      "image": "https://static01.nyt.com/images/2026/11/02/multimedia/02nat-beverlyhills-feud-01-fjqv/02nat-beverlyhills-feud-01-fjqv-mediumSquareAt3X.jpg",
+      "author": "Tim Arango",
+      "excerpt": "Battles over Israel, antisemitism and race have shaken Beverly Hills in recent years and divided the formerly Democratic enclave.",
       "source": "NYT"
     },
     {
-      "title": "What a Decade of Pizzagate Has Done to America",
-      "link": "https://www.nytimes.com/2026/11/01/opinion/pizzagate-conspiracy-epstein.html",
-      "pubDate": "2026-11-01T14:16:37.000Z",
-      "image": null,
-      "author": "Anna Merlan",
-      "excerpt": "A decade after the Pizzagate theory began, the Epstein files give the conspiracy theory a new life.",
-      "source": "NYT"
-    },
-    {
-      "title": "The History Behind Trump’s Arch",
-      "link": "https://www.nytimes.com/2026/11/01/opinion/trump-arch-washington-dc.html",
-      "pubDate": "2026-11-01T14:00:20.000Z",
-      "image": "https://static01.nyt.com/images/2026/11/01/arts/1campanella-arches-top-cover/1campanella-arches-top-cover-mediumSquareAt3X.jpg",
-      "author": "Thomas J. Campanella",
-      "excerpt": "The history of triumphal arches is long and messy. Where does Donald Trump’s proposed edifice fit in?",
-      "source": "NYT"
-    },
-    {
-      "title": "How Marathons Changed",
-      "link": "https://www.nytimes.com/2026/11/01/briefing/how-marathons-changed.html",
-      "pubDate": "2026-11-01T12:21:32.000Z",
-      "image": "https://static01.nyt.com/images/2026/11/01/multimedia/01themorning-nl-LEAD-plfg/01themorning-nl-LEAD-plfg-mediumSquareAt3X.jpg",
-      "author": "Molly Mirhashem",
-      "excerpt": "The New York City Marathon is happening this morning.",
-      "source": "NYT"
-    },
-    {
-      "title": "Netanyahu’s Bid to Stay in Power Will Test His Political Savvy",
-      "link": "https://www.nytimes.com/2026/11/01/world/middleeast/netanyahu-coalition-building-tests-political-skills.html",
-      "pubDate": "2026-11-01T10:20:20.000Z",
-      "image": "https://static01.nyt.com/images/2026/10/31/multimedia/31int-netanyahu-coalition-chmj/31int-netanyahu-coalition-chmj-mediumSquareAt3X.jpg",
-      "author": "Isabel Kershner",
-      "excerpt": "After losing ground in Israel’s election, Prime Minister Benjamin Netanyahu must draw on decades of political capital and reckon with old foes if he is to build a governing coalition.",
-      "source": "NYT"
-    },
-    {
-      "title": "Where Do Israel’s Arab Parties Stand?",
-      "link": "https://www.nytimes.com/2026/11/01/world/middleeast/israel-arab-parties.html",
-      "pubDate": "2026-11-01T10:03:51.000Z",
-      "image": "https://static01.nyt.com/images/2026/11/01/multimedia/01int-israel-arab-parties-hfkw/01int-israel-arab-parties-hfkw-mediumSquareAt3X.jpg",
-      "author": "Adam Rasgon",
-      "excerpt": "Having won a record 19 seats in Israel’s Parliament, the two Arab-led parties say they want to work with opposition factions to take down the Netanyahu government.",
-      "source": "NYT"
-    },
-    {
-      "title": "A Midterm Campaign Dominated by Concerns Over High Prices Nears Its End",
-      "link": "https://www.nytimes.com/2026/11/01/us/politics/election-mood-affordability.html",
-      "pubDate": "2026-11-01T10:02:37.000Z",
-      "image": "https://static01.nyt.com/images/2026/11/01/multimedia/01pol-mood-lfzh/01pol-mood-lfzh-mediumSquareAt3X.jpg",
-      "author": "Lisa Lerer and Alan Rappeport",
-      "excerpt": "Across the country, many voters have drawn a straight line between President Trump’s policies and inflation.",
+      "title": "This Republican Wants Voters to Consider a Post-Trump World",
+      "link": "https://www.nytimes.com/2026/11/01/us/politics/john-sununu-new-hampshire-senate-race.html",
+      "pubDate": "2026-11-01T10:02:09.000Z",
+      "image": "https://static01.nyt.com/images/2026/11/01/multimedia/01pol-sununu-trump-fgqc/01pol-sununu-trump-fgqc-mediumSquareAt3X.jpg",
+      "author": "Jess Bidgood",
+      "excerpt": "John E. Sununu, the Republican Senate candidate in New Hampshire, has the president’s endorsement but is keeping him at arm’s length.",
       "source": "NYT"
     },
     {
@@ -977,48 +959,12 @@
       "source": "NYT"
     },
     {
-      "title": "‘I Came as Donald Trump’: The President Hosts a Luxury Halloween at Mar-a-Lago",
-      "link": "https://www.nytimes.com/2026/10/31/us/politics/trump-halloween-party-scene.html",
-      "pubDate": "2026-11-01T03:37:24.000Z",
-      "image": "https://static01.nyt.com/images/2026/10/31/multimedia/31DC-TRUMP-PARTY-SCENE-01-bmvk/31DC-TRUMP-PARTY-SCENE-01-bmvk-mediumSquareAt3X.jpg",
-      "author": "Tyler Pager",
-      "excerpt": "President Trump attended his jungle-themed Halloween party at Mar-a-Lago dressed as a distinctly recognizable figure.",
-      "source": "NYT"
-    },
-    {
-      "title": "Trump Calls Former Lawyer’s $50 Million Deal ‘Obnoxious and Outrageous’",
-      "link": "https://www.nytimes.com/2026/10/31/us/politics/trump-habba-mildon-lawyer.html",
-      "pubDate": "2026-11-01T01:37:37.000Z",
-      "image": "https://static01.nyt.com/images/2026/10/31/multimedia/31dc-mildon-fchv/31dc-mildon-fchv-mediumSquareAt3X.jpg",
-      "author": "Tyler Pager",
-      "excerpt": "At a Halloween event in Florida, President Trump told reporters that Alina Habba Mildon’s lucrative work for someone seeking a pardon was “not acceptable.”",
-      "source": "NYT"
-    },
-    {
-      "title": "Bronx Neighbors Mourn Family Ravaged by E-bike Fire",
-      "link": "https://www.nytimes.com/2026/10/31/nyregion/bronx-neighbors-mourn-family-ravaged-by-e-bike-fire.html",
-      "pubDate": "2026-11-01T00:46:50.000Z",
-      "image": "https://static01.nyt.com/images/2026/10/31/multimedia/31met-bronx-fire-01-kplb/31met-bronx-fire-01-kplb-mediumSquareAt3X.jpg",
-      "author": "Maia Coleman and Anusha Bayya",
-      "excerpt": "Four members of a family have died after an electric-bike battery caught fire inside their apartment on Wednesday.",
-      "source": "NYT"
-    },
-    {
-      "title": "Inside the Times’s Decisions on the Alaska Senate Race Story",
-      "link": "https://www.nytimes.com/2026/10/31/insider/the-times-decisions-alaska-senate-race-story.html",
-      "pubDate": "2026-10-31T23:06:52.000Z",
-      "image": "https://static01.nyt.com/images/2026/10/30/multimedia/30insider-alaska-02-lgvj/30insider-alaska-02-lgvj-mediumSquareAt3X.jpg",
-      "author": "Patrick Healy, Terence McGinley, Kellen Browning and Amy Gardner",
-      "excerpt": "Our investigation found that Democratic operatives were behind a plan to bring a potential spoiler into the Senate race.",
-      "source": "NYT"
-    },
-    {
-      "title": "How to Track Runners During the NYC Marathon",
-      "link": "https://www.nytimes.com/2026/10/25/nyregion/track-runners-nyc-marathon.html",
-      "pubDate": "2026-10-25T15:32:38.000Z",
-      "image": "https://static01.nyt.com/images/2026/10/25/multimedia/25met-nycm-tracking-runners-1-plct/25met-nycm-tracking-runners-1-plct-mediumSquareAt3X.jpg",
-      "author": "Claire Fahy",
-      "excerpt": "The New York Road Runners app allows spectators to follow along the 26.2-mile race scheduled for Nov. 1.",
+      "title": "Nate Silver on What the Polls Say — and What His Gut’s Telling Him",
+      "link": "https://www.nytimes.com/2026/10/27/opinion/ezra-klein-podcast-nate-silver.html",
+      "pubDate": "2026-10-30T20:41:08.000Z",
+      "image": "https://static01.nyt.com/images/2026/10/27/opinion/27eks-silver-image01/27eks-silver-image01-mediumSquareAt3X.jpg",
+      "author": "Ezra Klein and Jack McCordick",
+      "excerpt": "The election forecaster Nate Silver breaks down the likelihood of a G.O.P. wipeout.",
       "source": "NYT"
     }
   ]
