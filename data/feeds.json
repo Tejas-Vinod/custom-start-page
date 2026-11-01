@@ -878,30 +878,111 @@
   ],
   "nytNews": [
     {
+      "title": "Did the Peltola Campaign Seal the Fate of Alaska’s Ranked Choice Vote?",
+      "link": "https://www.nytimes.com/2026/11/01/us/alaska-ranked-choice-voting-peltola.html",
+      "pubDate": "2026-11-01T15:21:05.000Z",
+      "image": "https://static01.nyt.com/images/2026/11/01/multimedia/01nat-ranked-choice-alaska-1-tbzg/01nat-ranked-choice-alaska-1-tbzg-mediumSquareAt3X.jpg",
+      "author": "Anna Griffin",
+      "excerpt": "Beyond hotly contested Senate and governor’s races, Alaskans will decide Tuesday whether to scrap the state’s unique ballot. The campaign of Mary Peltola may have bolstered critics of the system.",
+      "source": "NYT"
+    },
+    {
+      "title": "Here Are Some of the Celebrities Running in the NYC Marathon",
+      "link": "https://www.nytimes.com/2026/11/01/nyregion/new-york-city-marathon-celebrities-running.html",
+      "pubDate": "2026-11-01T15:18:32.000Z",
+      "image": "https://static01.nyt.com/images/2026/11/01/multimedia/01nyc-marathon-live-celebrities-lhqp/01nyc-marathon-live-celebrities-lhqp-mediumSquareAt3X.jpg",
+      "author": "Claire Fahy",
+      "excerpt": "Actors, reality stars and athletes are among those in the mass of runners. The comedian Tracy Morgan is the event’s grand marshal.",
+      "source": "NYT"
+    },
+    {
+      "title": "The Rise, Fall and Rise of Curtis Malone, D.C. Basketball Power Broker",
+      "link": "https://www.nytimes.com/2026/11/01/magazine/curtis-malone-basketball.html",
+      "pubDate": "2026-11-01T15:11:49.000Z",
+      "image": "https://static01.nyt.com/images/2026/11/15/magazine/15mag-malone-02/15mag-malone-02-mediumSquareAt3X-v2.jpg",
+      "author": "Jacob Stern",
+      "excerpt": "Curtis Malone ran a basketball powerhouse in Washington, D.C., before going to prison for drug dealing. Now he wants back in the game.",
+      "source": "NYT"
+    },
+    {
       "title": "India’s Congress Party Holds Mass Protest in New Delhi",
       "link": "https://www.nytimes.com/2026/10/31/world/asia/congress-cjp-protest-delhi-india-modi.html",
-      "pubDate": "2026-11-01T08:49:47.000Z",
+      "pubDate": "2026-11-01T14:34:54.000Z",
       "image": "https://static01.nyt.com/images/2026/11/01/multimedia/01int-india-protest-vtgk/01int-india-protest-vtgk-mediumSquareAt3X.jpg",
       "author": "Jeremy W. Peters and Hari Kumar",
-      "excerpt": "Many more are still streaming into the city for what organizers hope will be one of the biggest demonstrations yet in a string of recent rallies.",
+      "excerpt": "Tens of thousands gathered in India’s capital in a clamor of banging drums, chants and billowing flags, with participants from across the country.",
       "source": "NYT"
     },
     {
-      "title": "Pope Leo XIV, the Tough Guy of ‘High T’ Christianity",
-      "link": "https://www.nytimes.com/2026/11/01/opinion/pope-leo-xiv-hegseth-courage.html",
-      "pubDate": "2026-11-01T08:16:32.000Z",
-      "image": "https://static01.nyt.com/images/2026/11/01/multimedia/01burke-wkbh/01burke-wkbh-mediumSquareAt3X.jpg",
-      "author": "Daniel Burke and Scott Detrow",
-      "excerpt": "The pontiff draws on his missionary background for a show of fortitude.",
+      "title": "What a Decade of Pizzagate Has Done to America",
+      "link": "https://www.nytimes.com/2026/11/01/opinion/pizzagate-conspiracy-epstein.html",
+      "pubDate": "2026-11-01T14:16:37.000Z",
+      "image": null,
+      "author": "Anna Merlan",
+      "excerpt": "A decade after the Pizzagate theory began, the Epstein files give the conspiracy theory a new life.",
       "source": "NYT"
     },
     {
-      "title": "El-Sayed’s Campaign Doesn’t Want Haley Stevens at His Events",
-      "link": "https://www.nytimes.com/2026/10/31/us/elections/el-sayed-haley-stevens-democrats-tension.html",
-      "pubDate": "2026-11-01T03:05:39.000Z",
-      "image": "https://static01.nyt.com/images/2026/10/31/multimedia/31midterms-el-sayed-stevens/31midterms-el-sayed-stevens-mediumSquareAt3X.png",
-      "author": "Tim Balk and Reid J. Epstein",
-      "excerpt": "Tensions have flared between Dr. Abdul El-Sayed, the Democratic Senate nominee in Michigan, and his former primary rival. “I don’t want any distractions,” Dr. El-Sayed said Saturday.",
+      "title": "The History Behind Trump’s Arch",
+      "link": "https://www.nytimes.com/2026/11/01/opinion/trump-arch-washington-dc.html",
+      "pubDate": "2026-11-01T14:00:20.000Z",
+      "image": "https://static01.nyt.com/images/2026/11/01/arts/1campanella-arches-top-cover/1campanella-arches-top-cover-mediumSquareAt3X.jpg",
+      "author": "Thomas J. Campanella",
+      "excerpt": "The history of triumphal arches is long and messy. Where does Donald Trump’s proposed edifice fit in?",
+      "source": "NYT"
+    },
+    {
+      "title": "How Marathons Changed",
+      "link": "https://www.nytimes.com/2026/11/01/briefing/how-marathons-changed.html",
+      "pubDate": "2026-11-01T12:21:32.000Z",
+      "image": "https://static01.nyt.com/images/2026/11/01/multimedia/01themorning-nl-LEAD-plfg/01themorning-nl-LEAD-plfg-mediumSquareAt3X.jpg",
+      "author": "Molly Mirhashem",
+      "excerpt": "The New York City Marathon is happening this morning.",
+      "source": "NYT"
+    },
+    {
+      "title": "Netanyahu’s Bid to Stay in Power Will Test His Political Savvy",
+      "link": "https://www.nytimes.com/2026/11/01/world/middleeast/netanyahu-coalition-building-tests-political-skills.html",
+      "pubDate": "2026-11-01T10:20:20.000Z",
+      "image": "https://static01.nyt.com/images/2026/10/31/multimedia/31int-netanyahu-coalition-chmj/31int-netanyahu-coalition-chmj-mediumSquareAt3X.jpg",
+      "author": "Isabel Kershner",
+      "excerpt": "After losing ground in Israel’s election, Prime Minister Benjamin Netanyahu must draw on decades of political capital and reckon with old foes if he is to build a governing coalition.",
+      "source": "NYT"
+    },
+    {
+      "title": "Where Do Israel’s Arab Parties Stand?",
+      "link": "https://www.nytimes.com/2026/11/01/world/middleeast/israel-arab-parties.html",
+      "pubDate": "2026-11-01T10:03:51.000Z",
+      "image": "https://static01.nyt.com/images/2026/11/01/multimedia/01int-israel-arab-parties-hfkw/01int-israel-arab-parties-hfkw-mediumSquareAt3X.jpg",
+      "author": "Adam Rasgon",
+      "excerpt": "Having won a record 19 seats in Israel’s Parliament, the two Arab-led parties say they want to work with opposition factions to take down the Netanyahu government.",
+      "source": "NYT"
+    },
+    {
+      "title": "A Midterm Campaign Dominated by Concerns Over High Prices Nears Its End",
+      "link": "https://www.nytimes.com/2026/11/01/us/politics/election-mood-affordability.html",
+      "pubDate": "2026-11-01T10:02:37.000Z",
+      "image": "https://static01.nyt.com/images/2026/11/01/multimedia/01pol-mood-lfzh/01pol-mood-lfzh-mediumSquareAt3X.jpg",
+      "author": "Lisa Lerer and Alan Rappeport",
+      "excerpt": "Across the country, many voters have drawn a straight line between President Trump’s policies and inflation.",
+      "source": "NYT"
+    },
+    {
+      "title": "Gaffes and Men’s Bodies: Analysis of Trump’s Speeches at Age 80",
+      "link": "https://www.nytimes.com/2026/11/01/us/politics/trump-speeches-rallies-age.html",
+      "pubDate": "2026-11-01T10:01:59.000Z",
+      "image": "https://static01.nyt.com/images/2026/10/30/multimedia/30DC-TRUMP-AGE-TOP-04-fzmt/30DC-TRUMP-AGE-TOP-04-fzmt-mediumSquareAt3X.jpg",
+      "author": "Peter Baker and Dylan Freedman",
+      "excerpt": "A Times review of the president’s public speeches finds that he is more profane, more absolutist, longer-winded and less coherent than he was in 2016.",
+      "source": "NYT"
+    },
+    {
+      "title": "‘I Came as Donald Trump’: The President Hosts a Luxury Halloween at Mar-a-Lago",
+      "link": "https://www.nytimes.com/2026/10/31/us/politics/trump-halloween-party-scene.html",
+      "pubDate": "2026-11-01T03:37:24.000Z",
+      "image": "https://static01.nyt.com/images/2026/10/31/multimedia/31DC-TRUMP-PARTY-SCENE-01-bmvk/31DC-TRUMP-PARTY-SCENE-01-bmvk-mediumSquareAt3X.jpg",
+      "author": "Tyler Pager",
+      "excerpt": "President Trump attended his jungle-themed Halloween party at Mar-a-Lago dressed as a distinctly recognizable figure.",
       "source": "NYT"
     },
     {
@@ -914,102 +995,30 @@
       "source": "NYT"
     },
     {
-      "title": "North Korean Hackers Stole Billions, the F.B.I. Says. It’s Not Their First Heist.",
-      "link": "https://www.nytimes.com/2026/10/31/world/asia/north-korea-hacking.html",
-      "pubDate": "2026-10-31T23:05:42.000Z",
-      "image": "https://static01.nyt.com/images/2026/10/31/multimedia/31int-nkorea-hacking-wtk-lpjv/31int-nkorea-hacking-wtk-lpjv-mediumSquareAt3X.jpg",
-      "author": "Pranav Baskar",
-      "excerpt": "This week’s $6.3 billion hack of Binance is the largest to hit crypto, and would be the most that North Koreans have stolen in years of brazen cybercrime.",
+      "title": "Bronx Neighbors Mourn Family Ravaged by E-bike Fire",
+      "link": "https://www.nytimes.com/2026/10/31/nyregion/bronx-neighbors-mourn-family-ravaged-by-e-bike-fire.html",
+      "pubDate": "2026-11-01T00:46:50.000Z",
+      "image": "https://static01.nyt.com/images/2026/10/31/multimedia/31met-bronx-fire-01-kplb/31met-bronx-fire-01-kplb-mediumSquareAt3X.jpg",
+      "author": "Maia Coleman and Anusha Bayya",
+      "excerpt": "Four members of a family have died after an electric-bike battery caught fire inside their apartment on Wednesday.",
       "source": "NYT"
     },
     {
-      "title": "Doctors in Ukraine Try Treating Infections Like Biological Warfare Attacks",
-      "link": "https://www.nytimes.com/2026/10/31/science/ukraine-soldiers-infection-treatment.html",
-      "pubDate": "2026-10-31T22:54:18.000Z",
-      "image": "https://static01.nyt.com/images/2026/10/22/multimedia/00sci-Ukraine-infections-04-bfqh/00sci-Ukraine-infections-04-bfqh-mediumSquareAt3X.jpg",
-      "author": "Gina Kolata and Marc Santora",
-      "excerpt": "As many as 40 percent of injured soldiers face severe infections that can lead to amputations and death. One initiative is trying to fix that.",
+      "title": "Inside the Times’s Decisions on the Alaska Senate Race Story",
+      "link": "https://www.nytimes.com/2026/10/31/insider/the-times-decisions-alaska-senate-race-story.html",
+      "pubDate": "2026-10-31T23:06:52.000Z",
+      "image": "https://static01.nyt.com/images/2026/10/30/multimedia/30insider-alaska-02-lgvj/30insider-alaska-02-lgvj-mediumSquareAt3X.jpg",
+      "author": "Patrick Healy, Terence McGinley, Kellen Browning and Amy Gardner",
+      "excerpt": "Our investigation found that Democratic operatives were behind a plan to bring a potential spoiler into the Senate race.",
       "source": "NYT"
     },
     {
-      "title": "Susan Collins Is Always Keeping Score",
-      "link": "https://www.nytimes.com/2026/10/31/us/politics/susan-collins-maine-senate-election.html",
-      "pubDate": "2026-10-31T22:45:39.000Z",
-      "image": "https://static01.nyt.com/images/2026/10/31/multimedia/31pol-collins-maine-boss-04-clqp/31pol-collins-maine-boss-04-clqp-mediumSquareAt3X.jpg",
-      "author": "Michael Kruse and Lisa Lerer",
-      "excerpt": "The long-serving senator has delivered millions of dollars to every corner of her state. But in Maine, people say, it’s best to avoid getting on her bad side.",
-      "source": "NYT"
-    },
-    {
-      "title": "How Binance’s $6.3 Billion Hack Went Down",
-      "link": "https://www.nytimes.com/2026/10/31/technology/binance-hack-crypto-north-korea.html",
-      "pubDate": "2026-10-31T22:19:49.000Z",
-      "image": "https://static01.nyt.com/images/2026/11/01/business/00biz-binance-ticktock/00biz-binance-ticktock-mediumSquareAt3X.jpg",
-      "author": "David Yaffe-Bellany",
-      "excerpt": "A war room. A global conference call. A founder who live-posted about the largest crypto heist in history. Inside a frantic 24 hours at the world’s biggest crypto exchange.",
-      "source": "NYT"
-    },
-    {
-      "title": "‘We Are Coming From Hell’: A Ukrainian City’s Evacuees Tell Survival Stories",
-      "link": "https://www.nytimes.com/2026/10/31/todayspaper/ukraine-evacuees-oleshky.html",
-      "pubDate": "2026-10-31T21:43:34.000Z",
-      "image": "https://static01.nyt.com/images/2026/10/31/multimedia/31int-ukraine-oleshky-zcvf/31int-ukraine-oleshky-zcvf-mediumSquareAt3X.jpg",
-      "author": "Carlotta Gall, Oleksandr Chubko and David Guttenfelder",
-      "excerpt": "Safely out of Oleshky after enduring years in the combat zone and a harrowing 24-hour journey, weary civilians reunited with family and friends.",
-      "source": "NYT"
-    },
-    {
-      "title": "How Trump Is Dismantling America’s Scientific Research Machine",
-      "link": "https://www.nytimes.com/2026/10/31/science/how-trump-is-dismantling-americas-scientific-research-machine.html",
-      "pubDate": "2026-10-31T17:32:04.000Z",
-      "image": "https://static01.nyt.com/images/2026/10/29/us/dc-trumpscience-promo/dc-trumpscience-promo-mediumSquareAt3X.jpg",
-      "author": "Christopher Flavelle, Irena Hwang, Adam Sella, Alan Blinder, Sheryl Gay Stolberg, Benjamin Mueller and Michael C. Bender",
-      "excerpt": "The system that has driven life-altering discoveries and helped make the United States a superpower is now under intense strain.",
-      "source": "NYT"
-    },
-    {
-      "title": "The NYC Marathon Is as Popular as Ever. It Remains Inaccessible to Many.",
-      "link": "https://www.nytimes.com/2026/10/31/nyregion/nyc-marathon-price.html",
-      "pubDate": "2026-10-31T13:20:50.000Z",
-      "image": "https://static01.nyt.com/images/2026/10/30/multimedia/00met-marathon-affordability1-zmqj/00met-marathon-affordability1-zmqj-mediumSquareAt3X.jpg",
-      "author": "Santul Nerkar",
-      "excerpt": "Running has long been celebrated as a cheap and accessible sport. But the culture of racing, especially in New York, is often anything but.",
-      "source": "NYT"
-    },
-    {
-      "title": "Martin McDonagh Says Art Can Change the World. Just Not as Much as Murder.",
-      "link": "https://www.nytimes.com/2026/10/31/magazine/martin-mcdonagh-interview.html",
-      "pubDate": "2026-10-31T09:15:07.000Z",
-      "image": "https://static01.nyt.com/images/2026/11/08/magazine/08mag-interview-mcdonagh-04/08mag-interview-mcdonagh-04-mediumSquareAt3X.jpg",
-      "author": "David Marchese",
-      "excerpt": "The writer-director, known for his dark and bleak work, believes in film’s power to change our lives.",
-      "source": "NYT"
-    },
-    {
-      "title": "As Midterms Near, Top Law Firms That Capitulated to Trump Are on the Sidelines",
-      "link": "https://www.nytimes.com/2026/10/31/us/politics/law-firms-trump-voting.html",
-      "pubDate": "2026-10-31T09:02:24.000Z",
-      "image": "https://static01.nyt.com/images/2026/10/29/multimedia/29dc-lawfirms-fbvq/29dc-lawfirms-fbvq-mediumSquareAt3X.jpg",
-      "author": "Michael S. Schmidt and Jim Rutenberg",
-      "excerpt": "None of the firms that struck deals to avoid crippling executive orders are publicly involved in the major legal efforts to check the Trump administration’s attempts to meddle in the midterm elections, a review by The New York Times shows.",
-      "source": "NYT"
-    },
-    {
-      "title": "Voters Usually Ignore Corruption as an Issue. It Now Has Their Attention.",
-      "link": "https://www.nytimes.com/2026/10/31/us/politics/corruption-midterms.html",
-      "pubDate": "2026-10-31T09:00:44.000Z",
-      "image": "https://static01.nyt.com/images/2026/10/31/multimedia/31nat-corruption-vhbp/31nat-corruption-vhbp-mediumSquareAt3X.jpg",
-      "author": "David Ovalle and Emily Cochrane",
-      "excerpt": "Voters have shrugged off accusations of corruption for years, believing all politicians are corrupt, but thanks to President Trump’s unpopularity and growing wealth, the issue is breaking through.",
-      "source": "NYT"
-    },
-    {
-      "title": "Why Are We Having Less Sex? Ask a Pornographer.",
-      "link": "https://www.nytimes.com/2026/10/29/opinion/interesting-times-podcast-julia-yost-erika-lust.html",
-      "pubDate": "2026-10-30T19:44:24.000Z",
-      "image": "https://static01.nyt.com/images/2026/10/29/opinion/29itpod-lust-image/29itpod-lust-image-mediumSquareAt3X.jpg",
-      "author": "Julia Yost, Raina Raskin and Charlotte Gartenberg",
-      "excerpt": "Erika Lust wants to excite you.",
+      "title": "How to Track Runners During the NYC Marathon",
+      "link": "https://www.nytimes.com/2026/10/25/nyregion/track-runners-nyc-marathon.html",
+      "pubDate": "2026-10-25T15:32:38.000Z",
+      "image": "https://static01.nyt.com/images/2026/10/25/multimedia/25met-nycm-tracking-runners-1-plct/25met-nycm-tracking-runners-1-plct-mediumSquareAt3X.jpg",
+      "author": "Claire Fahy",
+      "excerpt": "The New York Road Runners app allows spectators to follow along the 26.2-mile race scheduled for Nov. 1.",
       "source": "NYT"
     }
   ]
