@@ -1,6 +1,24 @@
 {
   "spaceNews": [
     {
+      "title": "November 2026: What’s in the sky this month?",
+      "link": "https://www.astronomy.com/observing/sky-this-month-november-2026/",
+      "pubDate": "2026-11-01T05:01:00.000Z",
+      "image": null,
+      "author": "Martin Ratcliffe",
+      "excerpt": "Saturn is already visible as darkness falls; some challenging transits of its moons occur this month. Neptune is a binocular object close to Saturn, while Uranus is an easy target in Taurus. A Full Moon courses in front of the Pleiades in late November. Mars and Jupiter dominate the early-morning sky, and in the hourCo",
+      "source": "Astronomy Magazine"
+    },
+    {
+      "title": "APOD: 2026 November 1 – Colors of the Moon",
+      "link": "https://science.nasa.gov/image-article/apod-2026-november-1-colors-of-the-moon/",
+      "pubDate": "2026-11-01T04:05:00.000Z",
+      "image": "https://assets.science.nasa.gov/dynamicimage/assets/science/cds/apod/apod/2026/november/MoonColors_Pace_960.jpg?w=960&#038;h=991&#038;fit=clip&#038;crop=faces%2Cfocalpoint",
+      "author": "",
+      "excerpt": "APOD Science APOD APOD: 2026 November 1 –… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional ",
+      "source": "NASA"
+    },
+    {
       "title": "APOD: 2026 October 31 – Night on a Spooky Planet",
       "link": "https://science.nasa.gov/image-article/apod-2026-october-31-night-on-a-spooky-planet/",
       "pubDate": "2026-10-31T04:05:00.000Z",
@@ -179,15 +197,6 @@
       "author": "Houston Harwood",
       "excerpt": "NASA astronaut Anil Menon and Canadian Space Agency astronaut Joshua Kutryk successfully installed and unfurled the seventh of eight new solar panels designed to power the outpost through its retirement in 2030.",
       "source": "Spaceflight Now"
-    },
-    {
-      "title": "Halloween Aboard the International Space Station ",
-      "link": "https://www.nasa.gov/centers-and-facilities/johnson/halloween-aboard-the-international-space-station/",
-      "pubDate": "2026-10-29T21:44:23.000Z",
-      "image": "https://www.nasa.gov/wp-content/uploads/2026/10/luca-parmitano.jpg?w=1024",
-      "author": "Sumer Loggins",
-      "excerpt": "Although no ghouls, goblins, or trick-or-treaters come knocking at the International Space Station’s front hatch, crew members aboard the orbiting laboratory still like to get in the Halloween spirit. Whether individually or as an entire crew, they dress up in sometimes spooky, sometimes scary, but always creative cost",
-      "source": "NASA"
     },
     {
       "title": "Advice for optimizing the space industry with Laura Crabtree",
@@ -586,15 +595,6 @@
       "source": "Astronomy Magazine"
     },
     {
-      "title": "Autumn observing targets for large telescopes",
-      "link": "https://www.astronomy.com/observing/autumn-observing-targets-for-large-telescopes/",
-      "pubDate": "2026-10-12T14:07:03.000Z",
-      "image": null,
-      "author": "David J. Eicher",
-      "excerpt": "Today I’ll be telling you about 10 of my favorite autumn deep-sky objects, with suggestions for viewing them. I hope you’ll enjoy this list, and I’ll share some other deep-sky favorites of mine from time to time in the future. What’s a large telescope? The notion of what’s big changes from observer to observer, butCont",
-      "source": "Astronomy Magazine"
-    },
-    {
       "title": "Two large asteroids found spinning as fast as a fairground ride",
       "link": "https://www.newscientist.com/article/2593044-two-large-asteroids-found-spinning-as-fast-as-fairground-ride/?utm_campaign=RSS|NSNS&utm_content=space&utm_medium=RSS&utm_source=NSNS",
       "pubDate": "2026-10-09T17:00:00.000Z",
@@ -878,6 +878,33 @@
   ],
   "nytNews": [
     {
+      "title": "India’s Congress Party Holds Mass Protest in New Delhi",
+      "link": "https://www.nytimes.com/2026/10/31/world/asia/congress-cjp-protest-delhi-india-modi.html",
+      "pubDate": "2026-11-01T08:49:47.000Z",
+      "image": "https://static01.nyt.com/images/2026/11/01/multimedia/01int-india-protest-vtgk/01int-india-protest-vtgk-mediumSquareAt3X.jpg",
+      "author": "Jeremy W. Peters and Hari Kumar",
+      "excerpt": "Many more are still streaming into the city for what organizers hope will be one of the biggest demonstrations yet in a string of recent rallies.",
+      "source": "NYT"
+    },
+    {
+      "title": "Pope Leo XIV, the Tough Guy of ‘High T’ Christianity",
+      "link": "https://www.nytimes.com/2026/11/01/opinion/pope-leo-xiv-hegseth-courage.html",
+      "pubDate": "2026-11-01T08:16:32.000Z",
+      "image": "https://static01.nyt.com/images/2026/11/01/multimedia/01burke-wkbh/01burke-wkbh-mediumSquareAt3X.jpg",
+      "author": "Daniel Burke and Scott Detrow",
+      "excerpt": "The pontiff draws on his missionary background for a show of fortitude.",
+      "source": "NYT"
+    },
+    {
+      "title": "El-Sayed’s Campaign Doesn’t Want Haley Stevens at His Events",
+      "link": "https://www.nytimes.com/2026/10/31/us/elections/el-sayed-haley-stevens-democrats-tension.html",
+      "pubDate": "2026-11-01T03:05:39.000Z",
+      "image": "https://static01.nyt.com/images/2026/10/31/multimedia/31midterms-el-sayed-stevens/31midterms-el-sayed-stevens-mediumSquareAt3X.png",
+      "author": "Tim Balk and Reid J. Epstein",
+      "excerpt": "Tensions have flared between Dr. Abdul El-Sayed, the Democratic Senate nominee in Michigan, and his former primary rival. “I don’t want any distractions,” Dr. El-Sayed said Saturday.",
+      "source": "NYT"
+    },
+    {
       "title": "Trump Calls Former Lawyer’s $50 Million Deal ‘Obnoxious and Outrageous’",
       "link": "https://www.nytimes.com/2026/10/31/us/politics/trump-habba-mildon-lawyer.html",
       "pubDate": "2026-11-01T01:37:37.000Z",
@@ -924,29 +951,11 @@
     },
     {
       "title": "‘We Are Coming From Hell’: A Ukrainian City’s Evacuees Tell Survival Stories",
-      "link": "https://www.nytimes.com/2026/10/31/todayspaper/we-are-coming-from-hell-a-ukrainian-citys-evacuees-tell-survival-stories.html",
+      "link": "https://www.nytimes.com/2026/10/31/todayspaper/ukraine-evacuees-oleshky.html",
       "pubDate": "2026-10-31T21:43:34.000Z",
       "image": "https://static01.nyt.com/images/2026/10/31/multimedia/31int-ukraine-oleshky-zcvf/31int-ukraine-oleshky-zcvf-mediumSquareAt3X.jpg",
       "author": "Carlotta Gall, Oleksandr Chubko and David Guttenfelder",
       "excerpt": "Safely out of Oleshky after enduring years in the combat zone and a harrowing 24-hour journey, weary civilians reunited with family and friends.",
-      "source": "NYT"
-    },
-    {
-      "title": "Iran Braces for More War, No Matter the Outcome of the U.S. and Israeli Elections",
-      "link": "https://www.nytimes.com/2026/10/31/world/middleeast/iran-war-israel-us-elections-trump-netanyahu.html",
-      "pubDate": "2026-10-31T20:04:18.000Z",
-      "image": "https://static01.nyt.com/images/2026/10/31/multimedia/31int-iran-assess-1-vjkm/31int-iran-assess-1-vjkm-mediumSquareAt3X.jpg",
-      "author": "Yeganeh Torbati",
-      "excerpt": "With Prime Minister Benjamin Netanyahu fighting to stay in power and President Trump facing a tough midterm, Iran’s leaders expect no major shift in policy.",
-      "source": "NYT"
-    },
-    {
-      "title": "Syria Weighs Joining Saudi Mutual Defense Pact as Yemen War Rages",
-      "link": "https://www.nytimes.com/2026/10/31/world/middleeast/syria-saudi-defense-pact.html",
-      "pubDate": "2026-10-31T17:56:18.000Z",
-      "image": "https://static01.nyt.com/images/2026/10/31/multimedia/31int-syria-mecca-pact-tfhp/31int-syria-mecca-pact-tfhp-mediumSquareAt3X.jpg",
-      "author": "Euan Ward and Vivian Nereim",
-      "excerpt": "A move to join Saudi Arabia’s agreement with Turkey and Pakistan could entangle more countries in the kingdom’s escalating conflict between the Iran-backed Houthis.",
       "source": "NYT"
     },
     {
@@ -956,15 +965,6 @@
       "image": "https://static01.nyt.com/images/2026/10/29/us/dc-trumpscience-promo/dc-trumpscience-promo-mediumSquareAt3X.jpg",
       "author": "Christopher Flavelle, Irena Hwang, Adam Sella, Alan Blinder, Sheryl Gay Stolberg, Benjamin Mueller and Michael C. Bender",
       "excerpt": "The system that has driven life-altering discoveries and helped make the United States a superpower is now under intense strain.",
-      "source": "NYT"
-    },
-    {
-      "title": "You Should Go to the Basement. Just Don’t Go Alone.",
-      "link": "https://www.nytimes.com/2026/10/31/opinion/horror-family-father.html",
-      "pubDate": "2026-10-31T16:45:41.000Z",
-      "image": null,
-      "author": "Matt Greenberg",
-      "excerpt": "Horror isn’t just scary — it can draw people together, especially when they’ve struggled to connect.",
       "source": "NYT"
     },
     {
@@ -1001,6 +1001,15 @@
       "image": "https://static01.nyt.com/images/2026/10/31/multimedia/31nat-corruption-vhbp/31nat-corruption-vhbp-mediumSquareAt3X.jpg",
       "author": "David Ovalle and Emily Cochrane",
       "excerpt": "Voters have shrugged off accusations of corruption for years, believing all politicians are corrupt, but thanks to President Trump’s unpopularity and growing wealth, the issue is breaking through.",
+      "source": "NYT"
+    },
+    {
+      "title": "Why Are We Having Less Sex? Ask a Pornographer.",
+      "link": "https://www.nytimes.com/2026/10/29/opinion/interesting-times-podcast-julia-yost-erika-lust.html",
+      "pubDate": "2026-10-30T19:44:24.000Z",
+      "image": "https://static01.nyt.com/images/2026/10/29/opinion/29itpod-lust-image/29itpod-lust-image-mediumSquareAt3X.jpg",
+      "author": "Julia Yost, Raina Raskin and Charlotte Gartenberg",
+      "excerpt": "Erika Lust wants to excite you.",
       "source": "NYT"
     }
   ]
