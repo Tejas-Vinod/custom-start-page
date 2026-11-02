@@ -1,6 +1,24 @@
 {
   "spaceNews": [
     {
+      "title": "APOD: 2026 November 2 – A Long Cloud on Mars",
+      "link": "https://science.nasa.gov/image-article/apod-2026-november-2-a-long-cloud-on-mars/",
+      "pubDate": "2026-11-02T05:05:00.000Z",
+      "image": "https://assets.science.nasa.gov/dynamicimage/assets/science/cds/apod/apod/2026/november/MonsCloud_MarsExpress_1920.jpg?w=1920&#038;h=1200&#038;fit=clip&#038;crop=faces%2Cfocalpoint",
+      "author": "",
+      "excerpt": "APOD Science APOD APOD: 2026 November 2 – A… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professiona",
+      "source": "NASA"
+    },
+    {
+      "title": "Pennsylvania’s Grand Canyon",
+      "link": "https://science.nasa.gov/earth/earth-observatory/pennsylvanias-grand-canyon/",
+      "pubDate": "2026-11-02T05:01:00.000Z",
+      "image": "https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2026/pennsylvania’s-grand-canyon/pinecreekgorge_oli_20261025.jpg?w=2048&#038;h=1991&#038;fit=clip&#038;crop=faces%2Cfocalpoint",
+      "author": "",
+      "excerpt": "Amid the warm hues of fall foliage, Pine Creek Gorge forms a deep scar in the Allegheny Plateau.",
+      "source": "NASA"
+    },
+    {
       "title": "November 2026: What’s in the sky this month?",
       "link": "https://www.astronomy.com/observing/sky-this-month-november-2026/",
       "pubDate": "2026-11-01T05:01:00.000Z",
@@ -151,24 +169,6 @@
       "image": "https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2026/vega-island-frozen-in-fright/vegaislandzm_oli2_20250322.jpg",
       "author": "",
       "excerpt": "The sight of an icy skull-like visage on the Antarctic island could make one’s blood run cold.",
-      "source": "NASA"
-    },
-    {
-      "title": "Map Showing Potential Origins of Martian Meteorite Teghaza 001",
-      "link": "https://science.nasa.gov/photojournal/map-showing-potential-origins-of-martian-meteorite-teghaza-001/",
-      "pubDate": "2026-10-30T00:07:39.000Z",
-      "image": "https://assets.science.nasa.gov/dynamicimage/assets/science/psd/photojournal/pia/pia26/pia26802/PIA26802.jpg?w=1536&#038;h=770&#038;fit=clip&#038;crop=faces%2Cfocalpoint",
-      "author": "",
-      "excerpt": "Description This global map of Mars shows 13 locations that match the mineralogy and chemistry of Teghaza 001, one of the most ancient Martian meteorites ever found on Earth. While scientists can never know for sure where a Martian meteorite originated, Teghaza 001 includes clues that link it to highlands in the southe",
-      "source": "NASA"
-    },
-    {
-      "title": "Slice of Martian Meteorite Teghaza 001",
-      "link": "https://science.nasa.gov/photojournal/slice-of-martian-meteorite-teghaza-001/",
-      "pubDate": "2026-10-29T23:32:35.000Z",
-      "image": "https://assets.science.nasa.gov/dynamicimage/assets/science/psd/photojournal/pia/pia26/pia26801/PIA26801.jpg?w=1536&#038;h=1186&#038;fit=clip&#038;crop=faces%2Cfocalpoint",
-      "author": "",
-      "excerpt": "Description This slice of Teghaza 001, one of the most ancient Martian meteorites ever found on Earth, was used to determine the age of the rock. Reflected light images like these serve as a scientist’s road map, helping them find minerals of interest to analyze by different instruments. Figure A is the same image with",
       "source": "NASA"
     },
     {
@@ -878,84 +878,120 @@
   ],
   "nytNews": [
     {
-      "title": "He’s the Top Snake Catcher, and Business Is Booming. There’s Just One Problem.",
-      "link": "https://www.nytimes.com/2026/11/01/world/asia/snake-catcher-bangkok-thailand.html",
-      "pubDate": "2026-11-02T00:22:33.000Z",
-      "image": "https://static01.nyt.com/images/2026/11/01/multimedia/01int-snake-catcher-profile-promoimage-qtfg/01int-snake-catcher-profile-promoimage-qtfg-mediumSquareAt3X.jpg",
-      "author": "Hannah Beech and Lauren DeCicca",
-      "excerpt": "Bangkok’s firefighters do more snake catching than firefighting, and Pinyo Pukpinyo trains them. But he refuses to kill the snakes, and he’s running out of containers.",
+      "title": "Inside the Abdul El-Sayed-Haley Stevens Meltdown in Michigan",
+      "link": "https://www.nytimes.com/2026/11/01/us/politics/el-sayed-stevens-meltdown-michigan-democrats.html",
+      "pubDate": "2026-11-02T06:31:55.000Z",
+      "image": "https://static01.nyt.com/images/2026/11/02/multimedia/02pol-michigan-tick-tock-kgtf/02pol-michigan-tick-tock-kgtf-mediumSquareAt3X.jpg",
+      "author": "Reid J. Epstein and Tim Balk",
+      "excerpt": "The relationship shattered in part because of Israel, but also because of their sensitive egos and hurt feelings. The split had been months in the making.",
       "source": "NYT"
     },
     {
-      "title": "Learjet Plummets to Ground in Florida, Killing 9",
-      "link": "https://www.nytimes.com/2026/11/01/us/florida-plane-crash-palm-beach-county.html",
-      "pubDate": "2026-11-01T23:22:37.000Z",
-      "image": "https://static01.nyt.com/images/2026/11/01/multimedia/01xp-plane-mkth/01xp-plane-mkth-mediumSquareAt3X.jpg",
-      "author": "Adeel Hassan, Christina Morales and David Ovalle",
-      "excerpt": "Photos and video posted online showed the plane diving nose first to the ground and exploding. In radio call, the pilot said the plane was descending at a speed of 20,000 feet per minute.",
+      "title": "The Final Polls Show a Blue Surge. Can We Trust Them?",
+      "link": "https://www.nytimes.com/2026/11/01/upshot/poll-times-siena-senate-midterms.html",
+      "pubDate": "2026-11-02T06:07:37.000Z",
+      "image": "https://static01.nyt.com/images/2026/11/01/multimedia/01up-talarico2-jbpq/01up-talarico2-jbpq-mediumSquareAt3X.jpg",
+      "author": "Nate Cohn",
+      "excerpt": "Democrats lead in all the key states that will decide Senate control, according to new Times/Siena surveys.",
       "source": "NYT"
     },
     {
-      "title": "Stylish Looks From the New York City Marathon",
-      "link": "https://www.nytimes.com/2026/11/01/style/nyc-marathon-fashion-outfits.html",
-      "pubDate": "2026-11-01T21:29:29.000Z",
+      "title": "U.S.-China Relations Will Never Be the Same in the Age of A.I.",
+      "link": "https://www.nytimes.com/2026/11/02/opinion/us-china-ai-manufacturing-exports-weapons.html",
+      "pubDate": "2026-11-02T06:00:05.000Z",
       "image": null,
-      "author": "Nadav Gavrielov and Lanna Apisukh",
-      "excerpt": "Newlyweds and a woman celebrating a birthday were among the marathoners, some of whom were extending their Halloween festivities into race day.",
+      "author": "Thomas L. Friedman",
+      "excerpt": "China and the U.S. need mutually assured collaboration to quash the threat of A.I.-empowered bad actors, even while their economic differences sharpen.",
       "source": "NYT"
     },
     {
-      "title": "The Rise and Fall of the Triumphal Arch",
-      "link": "https://www.nytimes.com/2026/11/01/opinion/trump-arch-washington-dc.html",
-      "pubDate": "2026-11-01T20:09:55.000Z",
-      "image": "https://static01.nyt.com/images/2026/11/01/arts/1campanella-arches-top-cover/1campanella-arches-top-cover-mediumSquareAt3X.jpg",
-      "author": "Thomas J. Campanella",
-      "excerpt": "The history of triumphal arches is long and messy. Where does Donald Trump’s proposed edifice fit in?",
+      "title": "Newsom and Harris Appear Together, With Little Hint of What’s to Come",
+      "link": "https://www.nytimes.com/2026/11/02/us/elections/newsom-harris-becerra-rally.html",
+      "pubDate": "2026-11-02T05:17:33.000Z",
+      "image": "https://static01.nyt.com/images/2026/12/01/multimedia/01midterms-nat-newsom-harris-mflg/01midterms-nat-newsom-harris-mflg-mediumSquareAt3X.jpg",
+      "author": "Laurel Rosenhall and Vik Jolly",
+      "excerpt": "The two possible presidential candidates showed up in Los Angeles to support Xavier Becerra, the Democratic candidate for California governor.",
       "source": "NYT"
     },
     {
-      "title": "Judge Rejects Trump Officials’ Move to Challenge Alaska Senate Election",
-      "link": "https://www.nytimes.com/2026/11/01/us/alaska-senate-election-lawsuit.html",
-      "pubDate": "2026-11-01T19:44:12.000Z",
-      "image": null,
-      "author": "Anna Griffin",
-      "excerpt": "In the latest defeat for the Trump administration, the ruling dismisses a lawsuit that pre-emptively contested the results of a race that includes two candidates named Daniel Sullivan.",
+      "title": "FIFA Quietly Paid Millions in Gianni Infantino’s Taxes",
+      "link": "https://www.nytimes.com/2026/11/02/business/fifa-infantino-taxes.html",
+      "pubDate": "2026-11-02T05:01:08.000Z",
+      "image": "https://static01.nyt.com/images/2026/11/02/multimedia/02Biz-Infantino-Tax-01-ctzl/02Biz-Infantino-Tax-01-ctzl-mediumSquareAt3X.jpg",
+      "author": "Tariq Panja",
+      "excerpt": "FIFA promises to disclose its executives’ compensation. But its under-fire president received tax benefits that were never made public, according to documents and interviews.",
+      "source": "NYT"
+    },
+    {
+      "title": "‘This Hour Has 22 Minutes,’ a Canadian Sketch Show, Beats American Late Night to the Punchline",
+      "link": "https://www.nytimes.com/2026/11/02/world/canada/this-hour-has-22-minutes-trump-carney.html",
+      "pubDate": "2026-11-02T05:01:07.000Z",
+      "image": "https://static01.nyt.com/images/2026/11/02/multimedia/02int-canada-us-comedy-vtfm/02int-canada-us-comedy-vtfm-mediumSquareAt3X.jpg",
+      "author": "Shawna Richer",
+      "excerpt": "The long-running comedy show “This Hour Has 22 Minutes” is having a heyday playing with the fraught relationship between President Trump and Canada.",
+      "source": "NYT"
+    },
+    {
+      "title": "China’s Message to Its Rivals: You Need What We Make",
+      "link": "https://www.nytimes.com/2026/11/02/world/asia/chinas-message-to-its-rivals-you-need-what-we-make.html",
+      "pubDate": "2026-11-02T05:00:08.000Z",
+      "image": "https://static01.nyt.com/images/2026/11/02/multimedia/02int-china-export-controls-01-pqvb/02int-china-export-controls-01-pqvb-mediumSquareAt3X.jpg",
+      "author": "David Pierson and Berry Wang",
+      "excerpt": "It’s not just rare earths. China is making it harder for other countries to shed their dependence on its solar, drone and drugmaking technology.",
       "source": "NYT"
     },
     {
       "title": "Senator Chris Murphy Is ‘Awake and Alert’ After Suffering a Stroke",
       "link": "https://www.nytimes.com/2026/11/01/us/politics/chris-murphy-stroke.html",
-      "pubDate": "2026-11-01T19:02:09.000Z",
+      "pubDate": "2026-11-02T04:32:38.000Z",
       "image": "https://static01.nyt.com/images/2026/11/01/multimedia/01DC-Murphy-Stroke-wpkz/01DC-Murphy-Stroke-wpkz-mediumSquareAt3X.jpg",
       "author": "Michael Gold",
       "excerpt": "The Connecticut senator, who has been campaigning for fellow Democrats, has been viewed as a potential candidate for president in 2028.",
       "source": "NYT"
     },
     {
-      "title": "On the Ballot in California: The Prospects for a National Wealth Tax",
-      "link": "https://www.nytimes.com/2026/11/01/us/on-the-ballot-in-california-the-prospects-for-a-national-wealth-tax.html",
-      "pubDate": "2026-11-01T10:02:45.000Z",
-      "image": "https://static01.nyt.com/images/2026/10/31/multimedia/31DC-WEALTH-TAX-cwlm/31DC-WEALTH-TAX-cwlm-mediumSquareAt3X.jpg",
-      "author": "Andrew Duehren and Laurel Rosenhall",
-      "excerpt": "The outcome of the state’s ballot initiative for a billionaires tax could set the tone for the broader Democratic debate about how to raise more revenue.",
+      "title": "Campuses Join Take Back the Night Gathering to Protest Sexual Violence",
+      "link": "https://www.nytimes.com/2026/11/01/us/take-back-the-night-protests-sexual-violence.html",
+      "pubDate": "2026-11-02T04:21:50.000Z",
+      "image": "https://static01.nyt.com/images/2026/11/01/multimedia/01nat-take-back-night-tchb/01nat-take-back-night-tchb-mediumSquareAt3X.jpg",
+      "author": "Sabrina Tavernise",
+      "excerpt": "Similar protests date to the 1970s, but their focus has evolved over time. Sunday’s event was prompted by a former Cornell University student’s lawsuit alleging she was raped.",
       "source": "NYT"
     },
     {
-      "title": "Culture War Tensions Roil Beverly Hills School Board Race",
-      "link": "https://www.nytimes.com/2026/11/01/us/politics/beverly-hills-school-board.html",
-      "pubDate": "2026-11-01T10:02:22.000Z",
-      "image": "https://static01.nyt.com/images/2026/11/02/multimedia/02nat-beverlyhills-feud-01-fjqv/02nat-beverlyhills-feud-01-fjqv-mediumSquareAt3X.jpg",
-      "author": "Tim Arango",
-      "excerpt": "Battles over Israel, antisemitism and race have shaken Beverly Hills in recent years and divided the formerly Democratic enclave.",
+      "title": "Learjet Plummets to Ground in Florida, Killing 9",
+      "link": "https://www.nytimes.com/2026/11/01/us/florida-plane-crash-palm-beach-county.html",
+      "pubDate": "2026-11-02T03:46:25.000Z",
+      "image": "https://static01.nyt.com/images/2026/11/01/multimedia/01xp-plane-mkth/01xp-plane-mkth-mediumSquareAt3X.jpg",
+      "author": "Christina Morales, David Ovalle and Georgia Gee",
+      "excerpt": "Photos and video posted online showed the plane diving nose first to the ground and exploding. In a radio call, the pilot said the plane was descending at a speed of 20,000 feet per minute.",
       "source": "NYT"
     },
     {
-      "title": "Gaffes and Men’s Bodies: Analysis of Trump’s Speeches at Age 80",
-      "link": "https://www.nytimes.com/2026/11/01/us/politics/trump-speeches-rallies-age.html",
-      "pubDate": "2026-11-01T10:01:59.000Z",
-      "image": "https://static01.nyt.com/images/2026/10/30/multimedia/30DC-TRUMP-AGE-TOP-04-fzmt/30DC-TRUMP-AGE-TOP-04-fzmt-mediumSquareAt3X.jpg",
-      "author": "Peter Baker and Dylan Freedman",
-      "excerpt": "A Times review of the president’s public speeches finds that he is more profane, more absolutist, longer-winded and less coherent than he was in 2016.",
+      "title": "Democrats Show Strength in Final Days of Race for the Senate, New Polls Find",
+      "link": "https://www.nytimes.com/2026/11/01/us/politics/times-siena-poll-senate.html",
+      "pubDate": "2026-11-02T02:49:50.000Z",
+      "image": "https://static01.nyt.com/images/2026/11/01/multimedia/2026-10-26-battleground-states-index/2026-10-26-battleground-states-index-mediumSquareAt3X-v9.png",
+      "author": "Shane Goldmacher and Ruth Igielnik",
+      "excerpt": "Democrats are up in Michigan, Texas, Kansas, Maine and Ohio, have an edge in Alaska and are effectively tied with Republicans in Iowa, new New York Times/Siena polls found.",
+      "source": "NYT"
+    },
+    {
+      "title": "The New York City Marathon in Photos and Videos",
+      "link": "https://www.nytimes.com/2026/11/01/nyregion/the-new-york-city-marathon-in-photos-and-videos.html",
+      "pubDate": "2026-11-02T00:26:27.000Z",
+      "image": "https://static01.nyt.com/images/2026/11/01/multimedia/01met-marathon-visuals-promo-gvtk/01met-marathon-visuals-promo-gvtk-mediumSquareAt3X.jpg",
+      "author": "The New York Times",
+      "excerpt": "See how tens of thousands of runners and an estimated 2 million spectators embraced the race across the five boroughs.",
+      "source": "NYT"
+    },
+    {
+      "title": "Stylish Looks From the New York City Marathon",
+      "link": "https://www.nytimes.com/2026/11/01/style/nyc-marathon-fashion-outfits.html",
+      "pubDate": "2026-11-01T21:29:30.000Z",
+      "image": null,
+      "author": "Nadav Gavrielov and Lanna Apisukh",
+      "excerpt": "Newlyweds and a woman celebrating a birthday were among the marathoners, some of whom were extending their Halloween festivities into race day.",
       "source": "NYT"
     },
     {
