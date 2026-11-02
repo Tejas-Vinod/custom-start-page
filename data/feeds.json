@@ -1,6 +1,69 @@
 {
   "spaceNews": [
     {
+      "title": "NASA Invites Media to Northrop Grumman CRS-25 Station Resupply Launch",
+      "link": "https://www.nasa.gov/news-release/nasa-invites-media-to-northrop-grumman-crs-25-station-resupply-launch/",
+      "pubDate": "2026-11-02T17:33:22.000Z",
+      "image": "https://images-assets.nasa.gov/image/iss075e0189493/iss075e0189493~large.jpg?w=1920&amp;h=1078&amp;fit=clip&amp;crop=faces%2Cfocalpoint",
+      "author": "Jessica Taveau",
+      "excerpt": "Media accreditation is open for the next launch to deliver NASA science investigations, supplies, and equipment to the International Space Station. A Northrop Grumman Cygnus XL spacecraft will launch in November to the orbital laboratory on a SpaceX Falcon 9 rocket for NASA. The mission is known as NASA’s Northrop Grum",
+      "source": "NASA"
+    },
+    {
+      "title": "NASA’s Hubble Uncovers Case of Missing Oxygen in Nearby Dwarf Galaxies",
+      "link": "https://science.nasa.gov/missions/hubble/nasas-hubble-uncovers-case-of-missing-oxygen-in-nearby-dwarf-galaxies/",
+      "pubDate": "2026-11-02T15:00:39.000Z",
+      "image": "https://assets.science.nasa.gov/dynamicimage/assets/science/missions/hubble/releases/2026/11/STScI-01M4RST3TGWT2T53FVXQBSP75D.jpg?w=1536&#038;h=990&#038;fit=clip&#038;crop=faces%2Cfocalpoint",
+      "author": "",
+      "excerpt": "NASA’s Hubble studied 37 nearby dwarf galaxies and found that much of the oxygen they expected to see is missing.",
+      "source": "NASA"
+    },
+    {
+      "title": "How to Expand Reliable, Flexible Access to Space",
+      "link": "https://spacenews.com/how-to-expand-reliable-flexible-access-to-space/",
+      "pubDate": "2026-11-02T14:00:00.000Z",
+      "image": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/10/SpaceNews_AD-1-1.png?fit=1024%2C794&amp;ssl=1",
+      "author": "Exolaunch",
+      "excerpt": "The space industry launched more rockets into orbit last year than ever before, yet satellite operators are confronting an unexpected problem: There still aren’t enough rides to go around. And […] The post How to Expand Reliable, Flexible Access to Space appeared first on SpaceNews.",
+      "source": "SpaceNews"
+    },
+    {
+      "title": "What is the physical size of a 1-billion-solar-mass black hole compared to the Sun?",
+      "link": "https://www.astronomy.com/science/how-big-is-a-supermassive-black-hole/",
+      "pubDate": "2026-11-02T14:00:00.000Z",
+      "image": null,
+      "author": "Astronomy Staff",
+      "excerpt": "When a supermassive black hole is measured as 1 billion solar masses, what would be its actual physical size relative to the size of our Sun? Joseph De BenedettoOxford, New Jersey The size of a black hole is generally taken to be the size of its event horizon. The event horizon is a mathematical boundaryContinue readin",
+      "source": "Astronomy Magazine"
+    },
+    {
+      "title": "Exclusive: Stellar Alpina Unveils Monarch Orbiter and Morpho Lunar Lander",
+      "link": "https://payloadspace.com/exclusive-stellar-alpina-unveils-monarch-orbiter-and-morpho-lunar-lander/",
+      "pubDate": "2026-11-02T13:42:22.000Z",
+      "image": "https://payloadspace.com/wp-content/uploads/2026/11/Stellar_Alpina_Monarch_Cislunar_Transportation-200x200.png",
+      "author": "Victoria Woodburn",
+      "excerpt": "The Swiss startup is unveiling two new vehicles: a high-performance orbiter, Monarch, and a lunar lander, Morpho. The post Exclusive: Stellar Alpina Unveils Monarch Orbiter and Morpho Lunar Lander appeared first on Payload.",
+      "source": "Payload"
+    },
+    {
+      "title": "Hydrosat Unveils New High-Res MWIR Thermal Capability",
+      "link": "https://payloadspace.com/hydrosat-unveils-new-high-res-mwir-thermal-capability/",
+      "pubDate": "2026-11-02T11:00:00.000Z",
+      "image": "https://payloadspace.com/wp-content/uploads/2026/11/Nyktos-04-200x200.png",
+      "author": "Douglas Gorman",
+      "excerpt": "Hydrosat is zooming in on the thermal EO market. The post Hydrosat Unveils New High-Res MWIR Thermal Capability appeared first on Payload.",
+      "source": "Payload"
+    },
+    {
+      "title": "Northwood Space Raises $375M Series C at $2B Valuation",
+      "link": "https://payloadspace.com/northwood-space-raises-375m-series-c-at-2b-valuation/",
+      "pubDate": "2026-11-02T10:30:00.000Z",
+      "image": "https://payloadspace.com/wp-content/uploads/2026/11/261026_Portals-at-Dusk-200x200.jpg",
+      "author": "Douglas Gorman",
+      "excerpt": "Northwood Space is attempting to build the world’s largest ground-station network, and now it has a massive pool of capital to fund its buildout. The post Northwood Space Raises $375M Series C at $2B Valuation appeared first on Payload.",
+      "source": "Payload"
+    },
+    {
       "title": "APOD: 2026 November 2 – A Long Cloud on Mars",
       "link": "https://science.nasa.gov/image-article/apod-2026-november-2-a-long-cloud-on-mars/",
       "pubDate": "2026-11-02T05:05:00.000Z",
@@ -152,24 +215,6 @@
       "author": "Alison Klesman",
       "excerpt": "Friday, October 30Take a peek over at Pisces this evening before moonrise to look for its famous Circlet asterism of stars. You can find this star pattern easiest by first finding Saturn, the brightest point of light in this part of the sky, which stands about 30° high in the southeast by 8 P.M. localContinue reading \"",
       "source": "Astronomy Magazine"
-    },
-    {
-      "title": "APOD: 2026 October 30 – Haunting the Cepheus Flare",
-      "link": "https://science.nasa.gov/image-article/apod-2026-october-30-haunting-the-cepheus-flare/",
-      "pubDate": "2026-10-30T04:05:00.000Z",
-      "image": "https://assets.science.nasa.gov/dynamicimage/assets/science/cds/apod/apod/2026/october/CepheusFlare_Tondinelli.jpg?w=2048&#038;h=1391&#038;fit=clip&#038;crop=faces%2Cfocalpoint",
-      "author": "",
-      "excerpt": "APOD Science APOD APOD: 2026 October 30 –… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional ",
-      "source": "NASA"
-    },
-    {
-      "title": "Vega Island Frozen in Fright",
-      "link": "https://science.nasa.gov/earth/earth-observatory/vega-island-frozen-in-fright/",
-      "pubDate": "2026-10-30T04:01:00.000Z",
-      "image": "https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2026/vega-island-frozen-in-fright/vegaislandzm_oli2_20250322.jpg",
-      "author": "",
-      "excerpt": "The sight of an icy skull-like visage on the Antarctic island could make one’s blood run cold.",
-      "source": "NASA"
     },
     {
       "title": "Argotec Raises €50M To Scale Small Sat Manufacturing",
@@ -325,15 +370,6 @@
       "source": "SpaceNews"
     },
     {
-      "title": "Cowboy Space Reveals Big Iron Data Center Rocket ",
-      "link": "https://payloadspace.com/cowboy-space-reveals-big-iron-data-center-rocket/",
-      "pubDate": "2026-10-27T02:30:00.000Z",
-      "image": "https://payloadspace.com/wp-content/uploads/2026/10/2-Cowboy-Space-200x200.png",
-      "author": "Victoria Woodburn",
-      "excerpt": "Cowboy Space pulled back the curtain on Big Iron—a launch vehicle whose upper stage is designed to remain in orbit as a megawatt-class data center. The post Cowboy Space Reveals Big Iron Data Center Rocket appeared first on Payload.",
-      "source": "Payload"
-    },
-    {
       "title": "West Coast Falcon 9 rocket launches 27 Starlink satellites",
       "link": "https://spaceflightnow.com/2026/10/27/west-coast-falcon-9-rocket-to-launch-27-starlink-satellites/",
       "pubDate": "2026-10-27T00:50:37.000Z",
@@ -359,24 +395,6 @@
       "author": "Astranis",
       "excerpt": "SAN FRANCISCO —October 26, 2026—Today, Astranis announced it has upgraded its 4th launch to a dedicated mission aboard a SpaceX Falcon 9 rocket set to launch in 2028, allowing it […] The post Astranis Upgrades Falcon 9 Launch Contract to Dedicated Mission for Entire Block 4 Production Run of Satellites appeared first o",
       "source": "SpaceNews"
-    },
-    {
-      "title": "Colare Raises $2.5M to Expand its Hardware-Focused Hiring Platform",
-      "link": "https://payloadspace.com/colare-raises-2-5m-to-expand-its-hardware-focused-hiring-platform/",
-      "pubDate": "2026-10-26T12:23:48.000Z",
-      "image": "https://payloadspace.com/wp-content/uploads/2026/10/Colare-founders-Esther-Thomas-and-Nain-Abdi-200x200.png",
-      "author": "Douglas Gorman",
-      "excerpt": "Colare’s technical-assessment platform maps the requirements of a role, and recreates decisions future engineers could face on the job. The post Colare Raises $2.5M to Expand its Hardware-Focused Hiring Platform appeared first on Payload.",
-      "source": "Payload"
-    },
-    {
-      "title": "FCC’s New Part 100 Licensing Framework: What Space Companies Need to Know",
-      "link": "https://payloadspace.com/fccs-new-part-100-licensing-framework-what-space-companies-need-to-know/",
-      "pubDate": "2026-10-26T10:13:00.000Z",
-      "image": "https://payloadspace.com/wp-content/uploads/2026/10/Screenshot-2026-10-16-at-1.58.26-PM-1024x580-HKXZAq-200x200.png",
-      "author": "Max Puhalevich",
-      "excerpt": "In July 2026, the FCC adopted the new Part 100 comms-licensing framework for the authorization of satellite systems and Earth stations in the US. The post FCC’s New Part 100 Licensing Framework: What Space Companies Need to Know appeared first on Payload.",
-      "source": "Payload"
     },
     {
       "title": "Announcing the winners of Astronomy Magazine’s 2026 Astrophotography Contest",
@@ -487,15 +505,6 @@
       "source": "Astronomy Magazine"
     },
     {
-      "title": "AnySignal to Deliver Space-to-Earth Communications for Three Reflect Orbital Missions",
-      "link": "https://spacenews.com/anysignal-to-deliver-space-to-earth-communications-for-three-reflect-orbital-missions/",
-      "pubDate": "2026-10-20T13:00:00.000Z",
-      "image": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/10/AnySignal_GoogleBusinessProfile.png?fit=720%2C720&amp;ssl=1",
-      "author": "AnySignal",
-      "excerpt": "LOS ANGELES — October 20, 2026 AnySignal, a leading provider of software-defined radios and space-based networking, today announced an agreement with Reflect Orbital to deliver space-to-earth communications for Reflect Orbital’s inaugural […] The post AnySignal to Deliver Space-to-Earth Communications for Three Reflect",
-      "source": "SpaceNews"
-    },
-    {
       "title": "Why the Drake equation is still important 65 years after its creation",
       "link": "https://www.newscientist.com/article/2594385-why-the-drake-equation-is-still-important-65-years-after-its-creation/?utm_campaign=RSS|NSNS&utm_content=space&utm_medium=RSS&utm_source=NSNS",
       "pubDate": "2026-10-19T08:00:00.000Z",
@@ -583,15 +592,6 @@
       "image": null,
       "author": "Richard Talcott",
       "excerpt": "Glittering star clusters and ruby-colored emission nebulae pepper the star-studded spiral arms of NGC 3137. The galaxy, which spans nearly 140,000 light-years, spills out of this Hubble image’s frame. The nebulae are stellar nurseries, glowing with emission from hydrogen atoms excited by the massive stars forming insid",
-      "source": "Astronomy Magazine"
-    },
-    {
-      "title": "Our 16th annual star products",
-      "link": "https://www.astronomy.com/observing/our-16th-annual-star-products/",
-      "pubDate": "2026-10-13T13:29:16.000Z",
-      "image": null,
-      "author": "Phil Harrington",
-      "excerpt": "Each year, new astronomy equipment reflects advances in technology and the evolving ways observers engage with the night sky. Traditional designs such as Dobsonian reflectors and apochromatic refractors continue to deliver dependable performance, while smart telescopes and integrated imaging systems are expanding acces",
       "source": "Astronomy Magazine"
     },
     {
@@ -786,6 +786,15 @@
   ],
   "industryNews": [
     {
+      "title": "Boeing and Icelease Sign Agreement for up to Three 767-300 Boeing Converted Freighters",
+      "link": "https://boeing.mediaroom.com/2026-11-02-Boeing-and-Icelease-Sign-Agreement-for-up-to-Three-767-300-Boeing-Converted-Freighters",
+      "pubDate": "2026-11-02T14:00:00.000Z",
+      "image": "https://mmx.prnewswire.com/media/MS2024862/Icelease-767-300-Converted-Freighter.jpg?id=OA3050788&p=thumbnail",
+      "author": "",
+      "excerpt": "",
+      "source": "Boeing"
+    },
+    {
       "title": "Lockheed Martin Advances 25Forward Initiative Through New Partnerships",
       "link": "https://news.lockheedmartin.com/2026-10-30-Lockheed-Martin-Advances-25Forward-Initiative-Through-New-Partnerships",
       "pubDate": "2026-10-30T13:00:00.000Z",
@@ -865,160 +874,196 @@
       "author": "",
       "excerpt": "",
       "source": "Boeing"
-    },
-    {
-      "title": "Boeing Announces Third Quarter Deliveries",
-      "link": "https://boeing.mediaroom.com/2026-10-13-Boeing-Announces-Third-Quarter-Deliveries",
-      "pubDate": "2026-10-13T15:00:00.000Z",
-      "image": null,
-      "author": "",
-      "excerpt": "",
-      "source": "Boeing"
     }
   ],
   "nytNews": [
     {
-      "title": "Inside the Abdul El-Sayed-Haley Stevens Meltdown in Michigan",
-      "link": "https://www.nytimes.com/2026/11/01/us/politics/el-sayed-stevens-meltdown-michigan-democrats.html",
-      "pubDate": "2026-11-02T06:31:55.000Z",
-      "image": "https://static01.nyt.com/images/2026/11/02/multimedia/02pol-michigan-tick-tock-kgtf/02pol-michigan-tick-tock-kgtf-mediumSquareAt3X.jpg",
-      "author": "Reid J. Epstein and Tim Balk",
-      "excerpt": "The relationship shattered in part because of Israel, but also because of their sensitive egos and hurt feelings. The split had been months in the making.",
+      "title": "Iran Says It Would Reopen Strait of Hormuz in 2 Days as Part of U.S. Deal",
+      "link": "https://www.nytimes.com/2026/11/02/world/middleeast/iran-deal-strait-of-hormuz.html",
+      "pubDate": "2026-11-02T18:06:47.000Z",
+      "image": "https://static01.nyt.com/images/2026/11/02/multimedia/02-int-Iran-Diplomacy-01-jglt/02-int-Iran-Diplomacy-01-jglt-mediumSquareAt3X.jpg",
+      "author": "Erika Solomon and Sanam Mahoozi",
+      "excerpt": "Iranian officials spoke of some progress in negotiating to reopen the strait, a vital oil and gas shipping lane, even as they prepare for all-out war.",
       "source": "NYT"
     },
     {
-      "title": "The Final Polls Show a Blue Surge. Can We Trust Them?",
-      "link": "https://www.nytimes.com/2026/11/01/upshot/poll-times-siena-senate-midterms.html",
-      "pubDate": "2026-11-02T06:07:37.000Z",
-      "image": "https://static01.nyt.com/images/2026/11/01/multimedia/01up-talarico2-jbpq/01up-talarico2-jbpq-mediumSquareAt3X.jpg",
-      "author": "Nate Cohn",
-      "excerpt": "Democrats lead in all the key states that will decide Senate control, according to new Times/Siena surveys.",
+      "title": "Inside Anthropic’s Hunt for A.I. Computing Power",
+      "link": "https://www.nytimes.com/2026/11/02/technology/anthropic-ai-computing-power.html",
+      "pubDate": "2026-11-02T18:01:24.000Z",
+      "image": "https://static01.nyt.com/images/2026/10/29/business/00anthropic-compute/00anthropic-compute-mediumSquareAt3X.jpg",
+      "author": "Sri Muppidi and Kalley Huang",
+      "excerpt": "The company went on a deal spree with tech giants, former crypto miners and others to gain computing power to further its artificial intelligence ambitions.",
       "source": "NYT"
     },
     {
-      "title": "U.S.-China Relations Will Never Be the Same in the Age of A.I.",
+      "title": "20-Year-Old Nathalia Filgueiras Was a Pilot on Learjet That Crashed in Florida",
+      "link": "https://www.nytimes.com/2026/11/02/us/nathalia-filgueiras-florida-plane-crash-pilot.html",
+      "pubDate": "2026-11-02T17:43:32.000Z",
+      "image": "https://static01.nyt.com/images/2026/11/02/multimedia/02nat-crash-folo-zcfb/02nat-crash-folo-zcfb-mediumSquareAt3X.jpg",
+      "author": "David Ovalle and Jacey Fortin",
+      "excerpt": "Nathalia Filgueiras received a pilot’s license at 17, had logged more than 1,300 hours of flight time and was the co-pilot on Sunday, her mother said in an interview.",
+      "source": "NYT"
+    },
+    {
+      "title": "Trump Administration Asks Supreme Court to Intervene in California Ballot Case",
+      "link": "https://www.nytimes.com/2026/11/02/us/politics/trump-supreme-court-california-ballots.html",
+      "pubDate": "2026-11-02T17:40:29.000Z",
+      "image": "https://static01.nyt.com/images/2026/11/02/multimedia/02dc-scotus-california-pglk/02dc-scotus-california-pglk-mediumSquareAt3X.jpg",
+      "author": "Abbie VanSickle",
+      "excerpt": "In an emergency application, administration lawyers asked the justices to immediately order California to set aside 20,000 mail-in ballots.",
+      "source": "NYT"
+    },
+    {
+      "title": "What Seven Presidents Knew — and Trump Does Not",
+      "link": "https://www.nytimes.com/2026/11/02/opinion/trump-character-presidents-midterms.html",
+      "pubDate": "2026-11-02T17:40:16.000Z",
+      "image": null,
+      "author": "Howell Raines",
+      "excerpt": "Will Americans decide this week that character does, after all, matter?",
+      "source": "NYT"
+    },
+    {
+      "title": "Judge Throws Out Charges Against Former F.B.I. Officials",
+      "link": "https://www.nytimes.com/2026/11/02/us/politics/judge-fbi-agents-charges-midterms.html",
+      "pubDate": "2026-11-02T17:39:07.000Z",
+      "image": "https://static01.nyt.com/images/2026/11/02/us/02dc-fbi/02dc-fbi-mediumSquareAt3X.jpg",
+      "author": "Alan Feuer",
+      "excerpt": "The magistrate judge, Zia M. Faruqui, said the case was a rushed, political prosecution ordered by the White House intended to affect the midterm elections.",
+      "source": "NYT"
+    },
+    {
+      "title": "Robin Greenfield Wants to Be One With Nature. But He Can’t Quit Instagram.",
+      "link": "https://www.nytimes.com/2026/11/02/nyregion/forager-robin-greenfield.html",
+      "pubDate": "2026-11-02T17:30:25.000Z",
+      "image": "https://static01.nyt.com/images/2026/11/02/multimedia/02met-forager-nyc-top-01-vqkw/02met-forager-nyc-top-01-vqkw-mediumSquareAt3X.jpg",
+      "author": "Hilary Howard and Lexi Parra",
+      "excerpt": "Once, Robin Greenfield aspired to wealth. Now, he has no home and eats from the earth. He chronicles it all on social media, but does the persona match the man?",
+      "source": "NYT"
+    },
+    {
+      "title": "They Tried Kratom for Its Health Benefits, Then They Became Addicted",
+      "link": "https://www.nytimes.com/2026/11/02/well/kratom-wellness-marketing-addiction.html",
+      "pubDate": "2026-11-02T17:11:11.000Z",
+      "image": "https://static01.nyt.com/images/2026/10/28/multimedia/00WELL-KRATOM-MARKETING1-qmcp/00WELL-KRATOM-MARKETING1-qmcp-mediumSquareAt3X.jpg",
+      "author": "Olivia Tauber",
+      "excerpt": "Some say they were introduced to the drug through wellness podcasts, free samples at gyms or fitness influencers.",
+      "source": "NYT"
+    },
+    {
+      "title": "Why Orban and Vucic Broke With Trump on Election Denial",
+      "link": "https://www.nytimes.com/2026/11/02/world/europe/serbia-hungary-elections-trump.html",
+      "pubDate": "2026-11-02T16:48:12.000Z",
+      "image": "https://static01.nyt.com/images/2026/11/02/multimedia/02right-concede-01-btjv/02right-concede-01-btjv-mediumSquareAt3X.jpg",
+      "author": "Andrew Higgins",
+      "excerpt": "Rejecting President Trump’s election denial playbook, nationalist leaders in Serbia and Hungary opted for an orderly retreat.",
+      "source": "NYT"
+    },
+    {
+      "title": "Accused of Voter Fraud, They Ended Up in Shackles",
+      "link": "https://www.nytimes.com/2026/11/02/us/politics/noncitizen-voters-green-cards.html",
+      "pubDate": "2026-11-02T15:58:09.000Z",
+      "image": "https://static01.nyt.com/images/2026/11/01/multimedia/01nat-noncitizen-voters-qchj/01nat-noncitizen-voters-qchj-mediumSquareAt3X.jpg",
+      "author": "Livia Albeck-Ripka and Jacey Fortin",
+      "excerpt": "The Trump administration’s campaign to identify and charge immigrants in connection with voting violations has led to fears of being jailed, or deported.",
+      "source": "NYT"
+    },
+    {
+      "title": "Anthropic Reveals $17 Billion in Revenue as I.P.O. Approaches",
+      "link": "https://www.nytimes.com/2026/11/02/business/anthropic-earnings-ai.html",
+      "pubDate": "2026-11-02T15:48:38.000Z",
+      "image": "https://static01.nyt.com/images/2026/11/02/multimedia/02Biz-Anthropic-Earnings-lvbz/02Biz-Anthropic-Earnings-lvbz-mediumSquareAt3X.jpg",
+      "author": "Lauren Hirsch",
+      "excerpt": "The A.I. company’s quarterly revenue totaled $17 billion, 12 times higher than the same quarter a year ago, while its net loss totaled $23 billion.",
+      "source": "NYT"
+    },
+    {
+      "title": "What to Know About the Florida Plane Crash That Killed 9",
+      "link": "https://www.nytimes.com/2026/11/01/us/learjet-crash-florida-palm-beach.html",
+      "pubDate": "2026-11-02T15:29:55.000Z",
+      "image": "https://static01.nyt.com/images/2026/11/02/multimedia/02vid-florida-jet-atc-cover-vgpq/02vid-florida-jet-atc-cover-vgpq-mediumSquareAt3X.jpg",
+      "author": "Bernard Mokam, Christina Morales, Georgia Gee and David Ovalle",
+      "excerpt": "A small jet plummeted to the ground on Sunday, exploding into a fireball and killing everyone on board. The authorities did not immediately release information about the victims.",
+      "source": "NYT"
+    },
+    {
+      "title": "The Big Change Coming in U.S.-China Relations in the Age of A.I.",
       "link": "https://www.nytimes.com/2026/11/02/opinion/us-china-ai-manufacturing-exports-weapons.html",
-      "pubDate": "2026-11-02T06:00:05.000Z",
+      "pubDate": "2026-11-02T15:05:49.000Z",
       "image": null,
       "author": "Thomas L. Friedman",
       "excerpt": "China and the U.S. need mutually assured collaboration to quash the threat of A.I.-empowered bad actors, even while their economic differences sharpen.",
       "source": "NYT"
     },
     {
-      "title": "Newsom and Harris Appear Together, With Little Hint of What’s to Come",
-      "link": "https://www.nytimes.com/2026/11/02/us/elections/newsom-harris-becerra-rally.html",
-      "pubDate": "2026-11-02T05:17:33.000Z",
-      "image": "https://static01.nyt.com/images/2026/12/01/multimedia/01midterms-nat-newsom-harris-mflg/01midterms-nat-newsom-harris-mflg-mediumSquareAt3X.jpg",
-      "author": "Laurel Rosenhall and Vik Jolly",
-      "excerpt": "The two possible presidential candidates showed up in Los Angeles to support Xavier Becerra, the Democratic candidate for California governor.",
+      "title": "Trump Skirts Court Commands as Distrust Between Branches Spirals",
+      "link": "https://www.nytimes.com/2026/11/02/us/trump-courts-judges-orders.html",
+      "pubDate": "2026-11-02T14:47:09.000Z",
+      "image": "https://static01.nyt.com/images/2026/10/31/multimedia/31dc-trump-courts-TOP-bcjh/31dc-trump-courts-TOP-bcjh-mediumSquareAt3X.jpg",
+      "author": "Charlie Savage",
+      "excerpt": "Repeated compliance disputes and personal attacks on judges are straining relations between the executive branch and the judiciary.",
       "source": "NYT"
     },
     {
-      "title": "FIFA Quietly Paid Millions in Gianni Infantino’s Taxes",
-      "link": "https://www.nytimes.com/2026/11/02/business/fifa-infantino-taxes.html",
-      "pubDate": "2026-11-02T05:01:08.000Z",
-      "image": "https://static01.nyt.com/images/2026/11/02/multimedia/02Biz-Infantino-Tax-01-ctzl/02Biz-Infantino-Tax-01-ctzl-mediumSquareAt3X.jpg",
-      "author": "Tariq Panja",
-      "excerpt": "FIFA promises to disclose its executives’ compensation. But its under-fire president received tax benefits that were never made public, according to documents and interviews.",
-      "source": "NYT"
-    },
-    {
-      "title": "‘This Hour Has 22 Minutes,’ a Canadian Sketch Show, Beats American Late Night to the Punchline",
-      "link": "https://www.nytimes.com/2026/11/02/world/canada/this-hour-has-22-minutes-trump-carney.html",
-      "pubDate": "2026-11-02T05:01:07.000Z",
-      "image": "https://static01.nyt.com/images/2026/11/02/multimedia/02int-canada-us-comedy-vtfm/02int-canada-us-comedy-vtfm-mediumSquareAt3X.jpg",
-      "author": "Shawna Richer",
-      "excerpt": "The long-running comedy show “This Hour Has 22 Minutes” is having a heyday playing with the fraught relationship between President Trump and Canada.",
-      "source": "NYT"
-    },
-    {
-      "title": "China’s Message to Its Rivals: You Need What We Make",
-      "link": "https://www.nytimes.com/2026/11/02/world/asia/chinas-message-to-its-rivals-you-need-what-we-make.html",
-      "pubDate": "2026-11-02T05:00:08.000Z",
-      "image": "https://static01.nyt.com/images/2026/11/02/multimedia/02int-china-export-controls-01-pqvb/02int-china-export-controls-01-pqvb-mediumSquareAt3X.jpg",
-      "author": "David Pierson and Berry Wang",
-      "excerpt": "It’s not just rare earths. China is making it harder for other countries to shed their dependence on its solar, drone and drugmaking technology.",
-      "source": "NYT"
-    },
-    {
-      "title": "Senator Chris Murphy Is ‘Awake and Alert’ After Suffering a Stroke",
-      "link": "https://www.nytimes.com/2026/11/01/us/politics/chris-murphy-stroke.html",
-      "pubDate": "2026-11-02T04:32:38.000Z",
-      "image": "https://static01.nyt.com/images/2026/11/01/multimedia/01DC-Murphy-Stroke-wpkz/01DC-Murphy-Stroke-wpkz-mediumSquareAt3X.jpg",
-      "author": "Michael Gold",
-      "excerpt": "The Connecticut senator, who has been campaigning for fellow Democrats, has been viewed as a potential candidate for president in 2028.",
-      "source": "NYT"
-    },
-    {
-      "title": "Campuses Join Take Back the Night Gathering to Protest Sexual Violence",
-      "link": "https://www.nytimes.com/2026/11/01/us/take-back-the-night-protests-sexual-violence.html",
-      "pubDate": "2026-11-02T04:21:50.000Z",
-      "image": "https://static01.nyt.com/images/2026/11/01/multimedia/01nat-take-back-night-tchb/01nat-take-back-night-tchb-mediumSquareAt3X.jpg",
-      "author": "Sabrina Tavernise",
-      "excerpt": "Similar protests date to the 1970s, but their focus has evolved over time. Sunday’s event was prompted by a former Cornell University student’s lawsuit alleging she was raped.",
-      "source": "NYT"
-    },
-    {
-      "title": "Learjet Plummets to Ground in Florida, Killing 9",
-      "link": "https://www.nytimes.com/2026/11/01/us/florida-plane-crash-palm-beach-county.html",
-      "pubDate": "2026-11-02T03:46:25.000Z",
-      "image": "https://static01.nyt.com/images/2026/11/01/multimedia/01xp-plane-mkth/01xp-plane-mkth-mediumSquareAt3X.jpg",
-      "author": "Christina Morales, David Ovalle and Georgia Gee",
-      "excerpt": "Photos and video posted online showed the plane diving nose first to the ground and exploding. In a radio call, the pilot said the plane was descending at a speed of 20,000 feet per minute.",
-      "source": "NYT"
-    },
-    {
-      "title": "Democrats Show Strength in Final Days of Race for the Senate, New Polls Find",
-      "link": "https://www.nytimes.com/2026/11/01/us/politics/times-siena-poll-senate.html",
-      "pubDate": "2026-11-02T02:49:50.000Z",
-      "image": "https://static01.nyt.com/images/2026/11/01/multimedia/2026-10-26-battleground-states-index/2026-10-26-battleground-states-index-mediumSquareAt3X-v9.png",
-      "author": "Shane Goldmacher and Ruth Igielnik",
-      "excerpt": "Democrats are up in Michigan, Texas, Kansas, Maine and Ohio, have an edge in Alaska and are effectively tied with Republicans in Iowa, new New York Times/Siena polls found.",
-      "source": "NYT"
-    },
-    {
-      "title": "The New York City Marathon in Photos and Videos",
-      "link": "https://www.nytimes.com/2026/11/01/nyregion/the-new-york-city-marathon-in-photos-and-videos.html",
-      "pubDate": "2026-11-02T00:26:27.000Z",
-      "image": "https://static01.nyt.com/images/2026/11/01/multimedia/01met-marathon-visuals-promo-gvtk/01met-marathon-visuals-promo-gvtk-mediumSquareAt3X.jpg",
+      "title": "How Much Do You Pay for TV Streaming Services? We Want to Know.",
+      "link": "https://www.nytimes.com/2026/11/02/arts/television/streaming-costs-readers.html",
+      "pubDate": "2026-11-02T14:05:51.000Z",
+      "image": "https://static01.nyt.com/images/2026/11/02/multimedia/02cul-streaming-callout-kvlq/02cul-streaming-callout-kvlq-mediumSquareAt3X.jpg",
       "author": "The New York Times",
-      "excerpt": "See how tens of thousands of runners and an estimated 2 million spectators embraced the race across the five boroughs.",
+      "excerpt": "Let us know your thoughts about the costs of streaming television.",
       "source": "NYT"
     },
     {
-      "title": "Stylish Looks From the New York City Marathon",
-      "link": "https://www.nytimes.com/2026/11/01/style/nyc-marathon-fashion-outfits.html",
-      "pubDate": "2026-11-01T21:29:30.000Z",
+      "title": "Do Animals Grieve?",
+      "link": "https://www.nytimes.com/2026/11/02/science/animals-grief-death.html",
+      "pubDate": "2026-11-02T12:07:41.000Z",
+      "image": "https://static01.nyt.com/images/2026/10/27/multimedia/00SCI-UNKNOWNS-ANIMALGRIEF-hero-01-gzbw/00SCI-UNKNOWNS-ANIMALGRIEF-hero-01-gzbw-mediumSquareAt3X.jpg",
+      "author": "Emily Anthes",
+      "excerpt": "The feeling of existential loss was long thought to be uniquely human. But studies of coyotes, cockatoos and other creatures are prompting some scientists to reconsider.",
+      "source": "NYT"
+    },
+    {
+      "title": "Our Final Polls",
+      "link": "https://www.nytimes.com/2026/11/02/briefing/our-final-polls.html",
+      "pubDate": "2026-11-02T11:48:42.000Z",
+      "image": "https://static01.nyt.com/images/2026/11/02/multimedia/02themorning-nl-midterm-trump-qwlt/02themorning-nl-midterm-trump-qwlt-mediumSquareAt3X.jpg",
+      "author": "Sam Sifton",
+      "excerpt": "We look at our final polls before the midterms.",
+      "source": "NYT"
+    },
+    {
+      "title": "Senate Control After the Midterms: Party Switches, Ties and Wild Cards",
+      "link": "https://www.nytimes.com/2026/11/02/us/politics/senate-midterms-tie-independents-wild-cards.html",
+      "pubDate": "2026-11-02T10:03:42.000Z",
+      "image": "https://static01.nyt.com/images/2026/11/02/multimedia/02dc-senate-wildcards-01-qjzg/02dc-senate-wildcards-01-qjzg-mediumSquareAt3X.jpg",
+      "author": "Carl Hulse",
+      "excerpt": "The likelihood of a slim majority leaves room for several hard-to-predict scenarios that could affect the balance of power.",
+      "source": "NYT"
+    },
+    {
+      "title": "The Streaming Era Has Given Us Great TV, but It Comes at a Price",
+      "link": "https://www.nytimes.com/2026/11/02/arts/television/streaming-tv-era-cost.html",
+      "pubDate": "2026-11-02T10:03:14.000Z",
       "image": null,
-      "author": "Nadav Gavrielov and Lanna Apisukh",
-      "excerpt": "Newlyweds and a woman celebrating a birthday were among the marathoners, some of whom were extending their Halloween festivities into race day.",
+      "author": "James Poniewozik",
+      "excerpt": "The streaming era has provided viewers a lot of great things to watch. But it comes at a price.",
       "source": "NYT"
     },
     {
-      "title": "The U.S. Becomes a Global Hub for Horse Racing",
-      "link": "https://www.nytimes.com/2026/10/31/business/breeders-cup-thoroughbreds-keeneland-saratoga-sales.html",
-      "pubDate": "2026-10-31T09:02:10.000Z",
-      "image": "https://static01.nyt.com/images/2026/10/28/multimedia/00Biz-sheikhbreederscup-wpvt/00Biz-sheikhbreederscup-wpvt-mediumSquareAt3X.jpg",
-      "author": "Joe Drape",
-      "excerpt": "More horses from overseas are competing in America’s marquee events, as the sport enjoys a renaissance.",
+      "title": "How a Tax Cut Could Threaten a Florida Necessity: Mosquito Control",
+      "link": "https://www.nytimes.com/2026/11/02/us/florida-mosquitoes-dengue-fever-taxes.html",
+      "pubDate": "2026-11-02T10:03:10.000Z",
+      "image": "https://static01.nyt.com/images/2026/11/01/multimedia/01nat-florida-mosquitos-ghmb/01nat-florida-mosquitos-ghmb-mediumSquareAt3X.jpg",
+      "author": "David Ovalle",
+      "excerpt": "As Florida fights a dengue outbreak, a ballot proposal to cut property taxes has raised concerns about local governments’ ability to pay for sufficient mosquito control.",
       "source": "NYT"
     },
     {
-      "title": "Will Digging Up Vietnam’s War Dead Heal Old Wounds or Reopen Them?",
-      "link": "https://www.nytimes.com/2026/10/31/world/asia/vietnam-missing-war-dead.html",
-      "pubDate": "2026-10-31T04:01:13.000Z",
-      "image": "https://static01.nyt.com/images/2026/10/27/multimedia/00int-vietnam-graves-mtjp/00int-vietnam-graves-mtjp-mediumSquareAt3X.jpg",
-      "author": "Damien Cave, Tung Ngo and Chang W. Lee",
-      "excerpt": "A 500-day campaign to find and identify fallen soldiers has unearthed hundreds of bodies, but not everyone gets a chance at closure.",
-      "source": "NYT"
-    },
-    {
-      "title": "Nate Silver on What the Polls Say — and What His Gut’s Telling Him",
-      "link": "https://www.nytimes.com/2026/10/27/opinion/ezra-klein-podcast-nate-silver.html",
-      "pubDate": "2026-10-30T20:41:08.000Z",
-      "image": "https://static01.nyt.com/images/2026/10/27/opinion/27eks-silver-image01/27eks-silver-image01-mediumSquareAt3X.jpg",
-      "author": "Ezra Klein and Jack McCordick",
-      "excerpt": "The election forecaster Nate Silver breaks down the likelihood of a G.O.P. wipeout.",
+      "title": "Why Did Snakes Lose Their Legs? And 9 More Animal Mysteries",
+      "link": "https://www.nytimes.com/2026/11/02/science/animals-mysteries-research.html",
+      "pubDate": "2026-11-02T10:00:21.000Z",
+      "image": "https://static01.nyt.com/images/2026/10/29/science/00SCI-UNKNOWNS-ANIMALS-promo/00SCI-UNKNOWNS-ANIMALS-legs-mediumSquareAt3X-v2.jpg",
+      "author": "Emily Anthes and Stella Raine Chu",
+      "excerpt": "There are more than 1.5 million known zoological species on Earth, with at least as many enigmas. Here are our top 10.",
       "source": "NYT"
     }
   ]
