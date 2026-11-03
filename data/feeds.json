@@ -1,6 +1,78 @@
 {
   "spaceNews": [
     {
+      "title": "Simera Sense and Spacemanic to Collaborate on a New Complete Dual-Use Mission Solution",
+      "link": "https://spacenews.com/simera-sense-and-spacemanic-to-collaborate-on-a-new-complete-dual-use-mission-solution/",
+      "pubDate": "2026-11-03T16:59:43.000Z",
+      "image": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/11/simera-space.png?fit=1024%2C1024&amp;ssl=1",
+      "author": "Spacemanic",
+      "excerpt": "Czech company Spacemanic and Belgian optical leader Simera Sense are teaming up to deliver a new dual-use satellite solution that can compete with bigger and heavier satellites. Simera Sense xScape200 […] The post Simera Sense and Spacemanic to Collaborate on a New Complete Dual-Use Mission Solution appeared first on S",
+      "source": "SpaceNews"
+    },
+    {
+      "title": "Astronaut and Earth",
+      "link": "https://www.nasa.gov/image-article/astronaut-and-earth/",
+      "pubDate": "2026-11-03T16:37:42.000Z",
+      "image": "https://www.nasa.gov/wp-content/uploads/2026/11/iss075e0253663orig.jpg?w=2048",
+      "author": "HQ Web Team",
+      "excerpt": "CSA (Canadian Space Agency) astronaut Joshua Kutryk is pictured during the Oct. 29, 2026, spacewalk. The International Space Station was soaring 267 miles above the South Atlantic Ocean at the time of this photograph. Kutryk and NASA astronaut Anil Menon installed a new roll-out solar array on the space station and per",
+      "source": "NASA"
+    },
+    {
+      "title": "What to Watch on Election Night",
+      "link": "https://payloadspace.com/what-to-watch-on-election-night/",
+      "pubDate": "2026-11-03T15:51:20.000Z",
+      "image": "https://payloadspace.com/wp-content/uploads/2026/11/iss064e000163-200x200.jpg",
+      "author": "Jacqueline Feldscher",
+      "excerpt": "Here are the top things I’ll be paying attention to over my election-night pizza—a cheat sheet of what to watch as it relates to space. The post What to Watch on Election Night appeared first on Payload.",
+      "source": "Payload"
+    },
+    {
+      "title": "TB 26-10 Printed Circuit Board Assembly Chip Resistor Body Cracking",
+      "link": "https://www.nasa.gov/centers-and-facilities/nesc/tb-26-10-printed-circuit-board-assembly-chip-resistor-body-cracking/",
+      "pubDate": "2026-11-03T15:35:14.000Z",
+      "image": "https://www.nasa.gov/wp-content/uploads/2015/04/tb-26-10-fig-1.png?w=770",
+      "author": "Meagan Chappell",
+      "excerpt": "For more information, contact Joel W. Sills, Langley Research Center, joel.w.sills@nasa.gov. Download PDF here Chip resistors are widely used in NASA projects, yet cases of alumina substrate cracking during environmental testing are rare. Two instances of thick-film chip resistor cracking were observed during thermal c",
+      "source": "NASA"
+    },
+    {
+      "title": "NASA Astronaut, STEM Creator Connect with Students for STEM Day",
+      "link": "https://www.nasa.gov/learning-resources/nasa-astronaut-stem-creator-connect-with-students-for-stem-day/",
+      "pubDate": "2026-11-03T15:15:50.000Z",
+      "image": "https://www.nasa.gov/wp-content/uploads/2026/11/anil-menon-downlink-nov-3.jpg?w=1280",
+      "author": "Gerelle Q. Dodson",
+      "excerpt": "Students across the country will have the opportunity to connect directly with the International Space Station during a live, interactive in-flight call with NASA astronaut Anil Menon and Mark Rober STEM content creator and founder of ClassCrunchLabs Foundation. The event, hosted by NASA’s Office of STEM Engagement, ce",
+      "source": "NASA"
+    },
+    {
+      "title": "Exclusive: Sceye Signs Deal to Fly HAPS Fleet for SoftBank",
+      "link": "https://payloadspace.com/exclusive-sceye-signs-five-year-deal-to-fly-haps-fleet-for-softbank/",
+      "pubDate": "2026-11-03T14:00:00.000Z",
+      "image": "https://payloadspace.com/wp-content/uploads/2026/11/Sceye-ST1-Launch-4-200x200.png",
+      "author": "Victoria Woodburn",
+      "excerpt": "Sceye signed a five-year, master-services agreement with SoftBank to manufacture, launch, and operate a fleet of Sceye’s high-altitude platform systems (HAPS) over Japan. The post Exclusive: Sceye Signs Deal to Fly HAPS Fleet for SoftBank appeared first on Payload.",
+      "source": "Payload"
+    },
+    {
+      "title": "NASA’s Neil Gehrels Swift Observatory to burn up this week after more than two decades in space",
+      "link": "https://spaceflightnow.com/2026/11/03/nasas-neil-gehrels-swift-observatory-to-burn-up-this-week-after-two-decades-in-space/",
+      "pubDate": "2026-11-03T13:35:33.000Z",
+      "image": "https://spaceflightnow.com/wp-content/uploads/2026/11/Swift_in_space_11.jpg",
+      "author": "Houston Harwood",
+      "excerpt": "As of Monday, the U.S. Space Force predicted Swift would re-enter Earth's atmosphere at approximately 3:30 a.m. EST Wednesday, Nov. 4, somewhere within about 21 degrees north or south of the equator — a band that is mostly ocean.",
+      "source": "Spaceflight Now"
+    },
+    {
+      "title": "DETUMBLER: Airbus’ Passive Spin Stabilization Solution",
+      "link": "https://spacenews.com/detumbler-airbus-passive-spin-stabilization-solution/",
+      "pubDate": "2026-11-03T13:30:00.000Z",
+      "image": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/11/AIRBUS_Blue.png?fit=1024%2C1024&amp;ssl=1",
+      "author": "Airbus",
+      "excerpt": "The tumbling crisis: why dead satellites threaten orbit Every year, hundreds of satellites reach end-of-life, most are deorbited, but some fail abruptly. Yet, even when properly decommissioned, some dead satellites […] The post DETUMBLER: Airbus’ Passive Spin Stabilization Solution appeared first on SpaceNews.",
+      "source": "SpaceNews"
+    },
+    {
       "title": "Tumbleweed Raises €6.9M to Build its Own Reentry Vehicle",
       "link": "https://payloadspace.com/tumbleweed-raises-e6-9m-to-build-its-own-reentry-vehicle/",
       "pubDate": "2026-11-03T08:00:00.000Z",
@@ -73,15 +145,6 @@
       "source": "NASA"
     },
     {
-      "title": "NASA’s Hubble Uncovers Case of Missing Oxygen in Nearby Dwarf Galaxies",
-      "link": "https://science.nasa.gov/missions/hubble/nasas-hubble-uncovers-case-of-missing-oxygen-in-nearby-dwarf-galaxies/",
-      "pubDate": "2026-11-02T15:00:39.000Z",
-      "image": "https://assets.science.nasa.gov/dynamicimage/assets/science/missions/hubble/releases/2026/11/STScI-01M4RST3TGWT2T53FVXQBSP75D.jpg?w=1536&#038;h=990&#038;fit=clip&#038;crop=faces%2Cfocalpoint",
-      "author": "",
-      "excerpt": "NASA’s Hubble studied 37 nearby dwarf galaxies and found that much of the oxygen they expected to see is missing.",
-      "source": "NASA"
-    },
-    {
       "title": "DAF announces Spark Tank 2026 Top 5",
       "link": "https://www.spaceforce.mil/News/Article-Display/Article/4638883/daf-announces-spark-tank-2026-top-5/",
       "pubDate": "2026-11-02T14:10:00.000Z",
@@ -134,24 +197,6 @@
       "author": "Douglas Gorman",
       "excerpt": "Northwood Space is attempting to build the world’s largest ground-station network, and now it has a massive pool of capital to fund its buildout. The post Northwood Space Raises $375M Series C at $2B Valuation appeared first on Payload.",
       "source": "Payload"
-    },
-    {
-      "title": "APOD: 2026 November 2 – A Long Cloud on Mars",
-      "link": "https://science.nasa.gov/image-article/apod-2026-november-2-a-long-cloud-on-mars/",
-      "pubDate": "2026-11-02T05:05:00.000Z",
-      "image": "https://assets.science.nasa.gov/dynamicimage/assets/science/cds/apod/apod/2026/november/MonsCloud_MarsExpress_1920.jpg?w=1920&#038;h=1200&#038;fit=clip&#038;crop=faces%2Cfocalpoint",
-      "author": "",
-      "excerpt": "APODScienceAPODAPOD: 2026 November 2 – A…Today’s APODArchiveSubmissionsIndexSearchCalendarRSSEducationAboutDiscuss APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer.",
-      "source": "NASA"
-    },
-    {
-      "title": "Pennsylvania’s Grand Canyon",
-      "link": "https://science.nasa.gov/earth/earth-observatory/pennsylvanias-grand-canyon/",
-      "pubDate": "2026-11-02T05:01:00.000Z",
-      "image": "https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2026/pennsylvania’s-grand-canyon/pinecreekgorge_oli_20261025.jpg?w=2048&#038;h=1991&#038;fit=clip&#038;crop=faces%2Cfocalpoint",
-      "author": "",
-      "excerpt": "Amid the warm hues of fall foliage, Pine Creek Gorge forms a deep scar in the Allegheny Plateau.",
-      "source": "NASA"
     },
     {
       "title": "November 2026: What’s in the sky this month?",
@@ -352,24 +397,6 @@
       "source": "SpaceNews"
     },
     {
-      "title": "NASA, Agriculture Department Partner On Space Data Sharing",
-      "link": "https://payloadspace.com/nasa-agriculture-department-partner-on-space-data-sharing/",
-      "pubDate": "2026-10-27T17:00:37.000Z",
-      "image": "https://payloadspace.com/wp-content/uploads/2026/10/agriculture_ast_lrg.jpg-200x200.webp",
-      "author": "Jacqueline Feldscher",
-      "excerpt": "The MoU is the second this month signed by the space agency to boost collaboration among government agencies. The post NASA, Agriculture Department Partner On Space Data Sharing appeared first on Payload.",
-      "source": "Payload"
-    },
-    {
-      "title": "OSMOS X Tapped to Lead EDF-backed Tactical Capture Consortium",
-      "link": "https://payloadspace.com/osmos-x-tapped-to-lead-edf-backed-tactical-capture-consortium/",
-      "pubDate": "2026-10-27T12:59:00.000Z",
-      "image": "https://payloadspace.com/wp-content/uploads/2026/10/Orbital-Rendezvous-Thorus-200x200.jpg",
-      "author": "Douglas Gorman",
-      "excerpt": "The Europeans are gearing up for a fight in orbit. The post OSMOS X Tapped to Lead EDF-backed Tactical Capture Consortium appeared first on Payload.",
-      "source": "Payload"
-    },
-    {
       "title": "Craft Prospect kicks off PERSEUS project to advance optical communications for space",
       "link": "https://spacenews.com/craft-prospect-kicks-off-perseus-project-to-advance-optical-communications-for-space/",
       "pubDate": "2026-10-27T12:00:00.000Z",
@@ -548,15 +575,6 @@
       "author": "Leah Crane",
       "excerpt": "The Martian Moons eXploration spacecraft, set to launch on 20 October, will bring back samples that should solve a moon mystery that has been vexing scientists for more than a century",
       "source": "New Scientist"
-    },
-    {
-      "title": "Blue Origin to add new Florida launch pads, seeks aggressive increase in New Glenn flight rate",
-      "link": "https://spaceflightnow.com/2026/10/16/blue-origin-to-add-new-florida-launch-pads-seeks-aggressive-increase-in-new-glenn-flight-rate/",
-      "pubDate": "2026-10-16T13:17:28.000Z",
-      "image": "https://spaceflightnow.com/wp-content/uploads/2026/10/20261016-Blue-Origin-Map-of-Key-Facilities.png",
-      "author": "Will Robinson-Smith",
-      "excerpt": "The launch infrastructure improvements also include a substantial manufacturing expansion at Rocket Park and the addition of new landing barges.",
-      "source": "Spaceflight Now"
     },
     {
       "title": "The Sky This Week from October 16 to 23: The Orionid meteor shower peaks",
@@ -786,10 +804,19 @@
   ],
   "industryNews": [
     {
+      "title": "Boeing: Travel Demand Propels Middle East Fleet to Double by 2045",
+      "link": "https://boeing.mediaroom.com/2026-11-03-Boeing-Travel-Demand-Propels-Middle-East-Fleet-to-Double-by-2045",
+      "pubDate": "2026-11-03T14:00:00.000Z",
+      "image": null,
+      "author": "",
+      "excerpt": "",
+      "source": "Boeing"
+    },
+    {
       "title": "Boeing Projects China’s Commercial Fleet Will More than Double Over 20 Years",
       "link": "https://boeing.mediaroom.com/2026-11-03-Boeing-Projects-Chinas-Commercial-Fleet-Will-More-than-Double-Over-20-Years",
       "pubDate": "2026-11-03T04:00:00.000Z",
-      "image": null,
+      "image": "https://boeing.mediaroom.com/image/China+CMO+Media+Briefing+2+resize.jpg",
       "author": "",
       "excerpt": "",
       "source": "Boeing"
@@ -865,196 +892,151 @@
       "author": "",
       "excerpt": "Acquisition expands Lockheed Martin’s capability and domain expertise in anti-submarine warfare",
       "source": "Lockheed Martin"
-    },
-    {
-      "title": "U.S. FAA certifies Boeing 737-10, largest member of 737 MAX family",
-      "link": "https://boeing.mediaroom.com/2026-10-20-U-S-FAA-certifies-Boeing-737-10,-largest-member-of-737-MAX-family",
-      "pubDate": "2026-10-20T19:38:00.000Z",
-      "image": "https://mmx.prnewswire.com/media/MS2017416/Boeing-737-10_5.jpg?id=OA3030135&p=thumbnail",
-      "author": "",
-      "excerpt": "",
-      "source": "Boeing"
     }
   ],
   "nytNews": [
     {
-      "title": "Saudi Aramco Profit Jumps Despite Damaging Attacks on Pipelines and Refineries",
-      "link": "https://www.nytimes.com/2026/11/03/business/saudi-aramco-q3-earnings.html",
-      "pubDate": "2026-11-03T08:20:55.000Z",
-      "image": "https://static01.nyt.com/images/2026/11/03/multimedia/03biz-saudi-aramco-gjzm/03biz-saudi-aramco-gjzm-mediumSquareAt3X.jpg",
-      "author": "Lisa Friedman",
-      "excerpt": "Saudi Arabia’s state-owned oil company posted a 9 percent increase in third-quarter profit on Tuesday.",
+      "title": "Poland Beefs Up Security at Border With Russia",
+      "link": "https://www.nytimes.com/2026/11/03/world/europe/poland-russia-kaliningrad.html",
+      "pubDate": "2026-11-03T17:35:45.000Z",
+      "image": "https://static01.nyt.com/images/2026/11/03/multimedia/03int-POLAND-RUSSIA-01-cgwz/03int-POLAND-RUSSIA-01-cgwz-mediumSquareAt3X.jpg",
+      "author": "Andrew Higgins",
+      "excerpt": "Prime Minister Donald Tusk said there had been “disturbing movement” in Kaliningrad, a Russian region just north of Poland.",
       "source": "NYT"
     },
     {
-      "title": "Jimmy Kimmel Mocks the President’s ‘Pettysburg Address’",
-      "link": "https://www.nytimes.com/2026/11/03/arts/television/jimmy-kimmel-trump-midterms.html",
-      "pubDate": "2026-11-03T07:13:47.000Z",
-      "image": null,
-      "author": "Trish Bendix",
-      "excerpt": "“And where better to reassure the public that they are in good hands than in front of a pool you’ve repeatedly botched to the tune of $16 million?” Kimmel said of Trump’s speech before the midterms.",
+      "title": "Trump Says U.S. to End $4 Billion in Aid to Israel at End of Year",
+      "link": "https://www.nytimes.com/2026/11/03/us/politics/trump-israel-aid-netanyahu.html",
+      "pubDate": "2026-11-03T17:22:57.000Z",
+      "image": "https://static01.nyt.com/images/2026/11/03/multimedia/03dc-trump-israel-vjpz/03dc-trump-israel-vjpz-mediumSquareAt3X.jpg",
+      "author": "David E. Sanger",
+      "excerpt": "The president’s announcement on Election Day, which he said was part of an agreement reached months ago, was a sign of how quickly the politics surrounding Israel have shifted.",
       "source": "NYT"
     },
     {
-      "title": "Latin America’s Swing to the Right Was Never About Trump",
-      "link": "https://www.nytimes.com/2026/11/03/opinion/lula-brazil-latin-america-trump.html",
-      "pubDate": "2026-11-03T06:00:07.000Z",
-      "image": "https://static01.nyt.com/images/2026/11/03/multimedia/03shifter-btck/03shifter-btck-mediumSquareAt3X-v2.jpg",
-      "author": "Michael Shifter",
-      "excerpt": "The Trump administration has profoundly misread Latin America’s political winds.",
+      "title": "Google Will Turn Off Search for Schools That Reject A.I.",
+      "link": "https://www.nytimes.com/2026/11/03/us/google-search-schools-restrict-ai.html",
+      "pubDate": "2026-11-03T17:21:24.000Z",
+      "image": "https://static01.nyt.com/images/2026/11/03/multimedia/03nat-google-schools-cfkb/03nat-google-schools-cfkb-mediumSquareAt3X.jpg",
+      "author": "Dana Goldstein and Natasha Singer",
+      "excerpt": "Google is making it easier to restrict its A.I. tools for students. But schools that block A.I. entirely will lose student access to Google’s search engine.",
+      "source": "NYT"
+    },
+    {
+      "title": "House Republicans Accuse Top Psychology Group of Antisemitism",
+      "link": "https://www.nytimes.com/2026/11/03/well/mind/american-psychological-association-antisemitism-congress-house-report.html",
+      "pubDate": "2026-11-03T16:46:41.000Z",
+      "image": "https://static01.nyt.com/images/2026/11/02/multimedia/WELL-APA-ANTISEMITISM1-vbjl/WELL-APA-ANTISEMITISM1-vbjl-mediumSquareAt3X.jpg",
+      "author": "Christina Caron and Azeen Ghorayshi",
+      "excerpt": "A monthslong G.O.P. effort culminated in a scathing report about emails and other exchanges within the American Psychological Association.",
+      "source": "NYT"
+    },
+    {
+      "title": "Five Telltale Signs of a Democratic Blowout",
+      "link": "https://www.nytimes.com/2026/11/03/opinion/midterms-democrats-republicans-senate.html",
+      "pubDate": "2026-11-03T16:32:58.000Z",
+      "image": "https://static01.nyt.com/images/2026/11/03/opinion/03soltisanderson-image/03soltisanderson-image-mediumSquareAt3X.jpg",
+      "author": "Kristen Soltis Anderson",
+      "excerpt": "The political winds are blowing in Democrats’ direction. The question is: How strong are they?",
       "source": "NYT"
     },
     {
       "title": "U.S. Military Strikes Iran’s Qeshm Island in What U.S. Officials Call a Defensive Measure",
-      "link": "https://www.nytimes.com/2026/11/02/us/politics/us-military-strike-defensive-iran.html",
-      "pubDate": "2026-11-03T04:10:38.000Z",
+      "link": "https://www.nytimes.com/2026/11/02/us/politics/us-military-strikes-iran-qeshm-island.html",
+      "pubDate": "2026-11-03T16:23:39.000Z",
       "image": "https://static01.nyt.com/images/2026/06/01/multimedia/02DC-military/01xp-iran-01-mcgh-mediumSquareAt3X.jpg",
       "author": "Helene Cooper, Tyler Pager and Jonathan Swan",
       "excerpt": "The action was limited, the officials said, with no immediate plans to escalate. The strikes come on the eve of the midterm elections.",
       "source": "NYT"
     },
     {
-      "title": "Child Dies From Measles in New York State’s First Fatal Case in 30 Years",
-      "link": "https://www.nytimes.com/2026/11/02/nyregion/measles-death-child-new-york-lewis-county.html",
-      "pubDate": "2026-11-03T03:58:04.000Z",
-      "image": "https://static01.nyt.com/images/2026/11/02/multimedia/02met-measles-death-wgmb/02met-measles-death-wgmb-mediumSquareAt3X-v2.jpg",
-      "author": "Joseph Goldstein",
-      "excerpt": "Gov. Kathy Hochul said that the death in Lewis County reflected eroding vaccination levels. The state is experiencing a significant outbreak of the viral illness.",
+      "title": "Trump Effort to Prove Rampant Noncitizen Voting Leads to Few Charges So Far",
+      "link": "https://www.nytimes.com/2026/11/03/us/politics/dhs-noncitizen-voting-midterms.html",
+      "pubDate": "2026-11-03T16:21:27.000Z",
+      "image": "https://static01.nyt.com/images/2026/11/03/multimedia/03dc-noncitizen-voting-01-mhgb/03dc-noncitizen-voting-01-mhgb-mediumSquareAt3X.jpg",
+      "author": "Madeleine Ngo",
+      "excerpt": "Just 236 people have been charged with voting-fraud-related offenses by the Trump administration, despite its unsubstantiated claims that fraud is widespread.",
       "source": "NYT"
     },
     {
-      "title": "In Run-Up to Midterms, Legacy of 2020 Looms Large Over Justice Dept.",
-      "link": "https://www.nytimes.com/2026/11/02/us/politics/midterms-2020-election-justice-department.html",
-      "pubDate": "2026-11-03T03:36:43.000Z",
-      "image": "https://static01.nyt.com/images/2026/11/02/multimedia/dc-justice-promo-hfbt/dc-justice-promo-hfbt-mediumSquareAt3X.jpg",
-      "author": "Glenn Thrush",
-      "excerpt": "The refusal of top department officials to acknowledge Donald J. Trump’s loss that year is the engine driving an intensifying effort to intercede in state administration of elections.",
+      "title": "Flouting Consumer Law, Insurers Refuse to Pay Medical Bills for Emergency Care",
+      "link": "https://www.nytimes.com/2026/11/03/us/insuers-nonpayment-arbitration.html",
+      "pubDate": "2026-11-03T16:20:43.000Z",
+      "image": "https://static01.nyt.com/images/2026/10/21/multimedia/00dc-insurer-nonpay-helo-hgwf/00dc-insurer-nonpay-helo-hgwf-mediumSquareAt3X.jpg",
+      "author": "Margot Sanger-Katz and Sarah Kliff",
+      "excerpt": "A law to end surprise medical bills has generated millions of high-dollar payouts for doctors. Health plans are now fighting back by frequently withholding money.",
       "source": "NYT"
     },
     {
-      "title": "Democratic Divisions on Israel Come Thundering Back, in Preview of Fights to Come",
-      "link": "https://www.nytimes.com/2026/11/02/us/politics/democrats-split-israel-michigan.html",
-      "pubDate": "2026-11-03T01:56:37.000Z",
-      "image": "https://static01.nyt.com/images/2026/11/02/multimedia/02pol-democrats-israel-01-cpzk/02pol-democrats-israel-01-cpzk-mediumSquareAt3X.jpg",
-      "author": "Tim Balk and Jennifer Medina",
-      "excerpt": "A shattered alliance in Michigan between Dr. Abdul El-Sayed and his former primary rival, Representative Haley Stevens, underscored broader tensions in the party.",
-      "source": "NYT"
-    },
-    {
-      "title": "‘Devastating’ Damage as Hard Rains and Flash Floods Batter the Southwest",
-      "link": "https://www.nytimes.com/2026/11/02/weather/southwest-flooding-four-corners.html",
-      "pubDate": "2026-11-03T01:22:59.000Z",
-      "image": "https://static01.nyt.com/images/2026/11/01/multimedia/01wea-southwestfloods-vtzl/01wea-southwestfloods-vtzl-mediumSquareAt3X.jpg",
-      "author": "Jack Healy and Nazaneen Ghaffar",
-      "excerpt": "Some towns received more rain in a single day than they typically get during all of November, forcing evacuations across the Four Corners region.",
-      "source": "NYT"
-    },
-    {
-      "title": "20-Year-Old Nathalia Filgueiras Was a Pilot on Learjet That Crashed in Florida",
-      "link": "https://www.nytimes.com/2026/11/02/us/nathalia-filgueiras-florida-plane-crash-pilot.html",
-      "pubDate": "2026-11-03T01:22:04.000Z",
-      "image": "https://static01.nyt.com/images/2026/11/02/multimedia/02nat-crash-folo-zcfb/02nat-crash-folo-zcfb-mediumSquareAt3X.jpg",
-      "author": "David Ovalle, Jacey Fortin and Shahrzad Rasekh",
-      "excerpt": "Nine people died, including two young children and a 20-year-old co-pilot, Nathalia Filgueiras, who received her pilot’s license three years ago, when she was still a teenager.",
-      "source": "NYT"
-    },
-    {
-      "title": "William Nordhaus Pioneered Putting a Price on Pollution",
-      "link": "https://www.nytimes.com/2026/11/02/climate/william-nordhaus-carbon-tax-american-business.html",
-      "pubDate": "2026-11-03T00:27:42.000Z",
-      "image": "https://static01.nyt.com/images/2026/11/02/multimedia/02cli-nordhaus-01-pvch/02cli-nordhaus-01-pvch-mediumSquareAt3X.jpg",
-      "author": "David Gelles",
-      "excerpt": "Economist William Nordhaus said putting a price on pollution was the best way to reduce climate change. Then came the fossil fuel lobby and the anti-tax movement.",
-      "source": "NYT"
-    },
-    {
-      "title": "Don’t Be a Haley Stevens",
-      "link": "https://www.nytimes.com/2026/11/02/opinion/trump-midterms-history.html",
-      "pubDate": "2026-11-03T00:23:22.000Z",
-      "image": null,
-      "author": "Kevin Baker",
-      "excerpt": "History doesn’t give us second chances.",
-      "source": "NYT"
-    },
-    {
-      "title": "Trump Delivers a Closing Midterm Message. Mostly About Landscaping.",
-      "link": "https://www.nytimes.com/2026/11/02/us/politics/trump-reflecting-pool-midterms.html",
-      "pubDate": "2026-11-03T00:22:03.000Z",
-      "image": "https://static01.nyt.com/images/2026/11/02/multimedia/02dc-trump-reflecting-pool-mtwl/02dc-trump-reflecting-pool-mtwl-mediumSquareAt3X.jpg",
-      "author": "Shawn McCreesh",
-      "excerpt": "On the eve of the election, the president held forth in great detail on columns, drain pipes and granite at the newly refilled Reflecting Pool.",
-      "source": "NYT"
-    },
-    {
-      "title": "Supreme Court Rejects Trump Administration Request to Intervene in California Ballot Case",
-      "link": "https://www.nytimes.com/2026/11/02/us/politics/trump-supreme-court-california-ballots.html",
-      "pubDate": "2026-11-03T00:14:14.000Z",
-      "image": "https://static01.nyt.com/images/2026/11/02/multimedia/02dc-scotus-california-pglk/02dc-scotus-california-pglk-mediumSquareAt3X.jpg",
-      "author": "Abbie VanSickle",
-      "excerpt": "The court’s ruling came just hours after administration lawyers asked the justices to immediately order California to set aside 20,000 mail-in ballots.",
+      "title": "Strike on Ukraine Humanitarian Hub Is Feared to Be Among War’s Deadliest",
+      "link": "https://www.nytimes.com/2026/11/03/world/europe/komyshuvakha-zaporizhzhia-attack-ukraine.html",
+      "pubDate": "2026-11-03T15:58:26.000Z",
+      "image": "https://static01.nyt.com/images/2026/12/02/multimedia/02int-ukraine-attack-01-wckg/02int-ukraine-attack-01-wckg-mediumSquareAt3X.jpg",
+      "author": "Siobhán O’Grady and Liubov Sholudko",
+      "excerpt": "Hours after the Russian attack, which killed at least 31 and left dozens missing, the United States said that peace talks with the two countries would resume after nine months.",
       "source": "NYT"
     },
     {
       "title": "Investigators Looking for Cause of Learjet Crash Say Ice Was ‘Certainly a Factor’",
       "link": "https://www.nytimes.com/2026/11/02/science/florida-learjet-crash-causes.html",
-      "pubDate": "2026-11-02T23:50:50.000Z",
+      "pubDate": "2026-11-03T15:55:50.000Z",
       "image": "https://static01.nyt.com/images/2026/11/02/multimedia/02sci-jet-crash-01-ktfm/02sci-jet-crash-01-ktfm-mediumSquareAt3X.jpg",
       "author": "Alexander Nazaryan",
       "excerpt": "Ice, experts said, can change the shape of a plane’s wing, disrupting its aerodynamics.",
       "source": "NYT"
     },
     {
-      "title": "William Nordhaus Has Died. Nobelist Influenced Climate Policy.",
-      "link": "https://www.nytimes.com/2026/11/02/business/economy/williiam-nordhaus-nobel-dead.html",
-      "pubDate": "2026-11-02T23:13:58.000Z",
-      "image": "https://static01.nyt.com/images/2026/11/02/multimedia/02obit-Nordhaus-vhzj/02obit-Nordhaus-vhzj-mediumSquareAt3X.jpg",
-      "author": "Lydia DePillis",
-      "excerpt": "The Yale professor moved climate change into mainstream economic analysis.",
+      "title": "Ken Burns: Why I’m Optimistic About the Midterms",
+      "link": "https://www.nytimes.com/2026/11/03/opinion/midterm-elections-politics-ken-burns.html",
+      "pubDate": "2026-11-03T12:17:29.000Z",
+      "image": "https://static01.nyt.com/images/2026/11/03/multimedia/03burns-mkht/03burns-mkht-mediumSquareAt3X.jpg",
+      "author": "Ken Burns",
+      "excerpt": "There’s something fundamental at stake in the midterms this year, beyond policy differences.",
       "source": "NYT"
     },
     {
-      "title": "Trump Administration Said to Plan Rolling Back Pregnancy-Related Job Protections",
-      "link": "https://www.nytimes.com/2026/11/02/business/economy/eeoc-trump-administration-pregnancy-fertility-abortion.html",
-      "pubDate": "2026-11-02T23:10:21.000Z",
-      "image": "https://static01.nyt.com/images/2026/10/30/multimedia/00biz-pregnant-workers--01-lcqm/00biz-pregnant-workers--01-lcqm-mediumSquareAt3X.jpg",
-      "author": "Coral Davenport and Rebecca Davis O’Brien",
-      "excerpt": "The Biden era law was meant to help women stay in the workplace, but some conservatives say rules to enact it went too far with coverage for abortion and fertility treatment.",
+      "title": "It’s Election Day",
+      "link": "https://www.nytimes.com/2026/11/03/briefing/its-election-day.html",
+      "pubDate": "2026-11-03T11:24:37.000Z",
+      "image": "https://static01.nyt.com/images/2026/11/03/multimedia/03themorning-nl-LEAD-bmlh/03themorning-nl-LEAD-bmlh-mediumSquareAt3X.jpg",
+      "author": "Sam Sifton",
+      "excerpt": "And we’re looking at the fight for the Senate.",
       "source": "NYT"
     },
     {
-      "title": "Trump’s Election Fraud Reward Raises Fears of Vigilantism, Local Officials Say",
-      "link": "https://www.nytimes.com/2026/11/02/us/politics/trump-midterms-election-fraud-reward.html",
-      "pubDate": "2026-11-02T22:59:40.000Z",
-      "image": "https://static01.nyt.com/images/2026/11/02/multimedia/02dc-trump-election-top-kczt/02dc-trump-election-top-kczt-mediumSquareAt3X.jpg",
-      "author": "Zolan Kanno-Youngs",
-      "excerpt": "Election officials across the country have conducted hundreds of exercises to prepare for possible threats or disruptions at polling sites.",
+      "title": "As Trump’s Midterm Deadline Looms, Gulf Countries Brace for Possible Renewal of Iran War",
+      "link": "https://www.nytimes.com/2026/11/03/world/middleeast/trump-iran-war-midterms-election.html",
+      "pubDate": "2026-11-03T10:47:18.000Z",
+      "image": "https://static01.nyt.com/images/2026/11/03/multimedia/03int-gulf-war-1-vkwm/03int-gulf-war-1-vkwm-mediumSquareAt3X.jpg",
+      "author": "Vivian Nereim",
+      "excerpt": "The energy-rich Gulf Arab countries are engaged in a flurry of mediation efforts to avert war between the U.S. and Iran, as many fear that the fighting will be worse this time around.",
       "source": "NYT"
     },
     {
-      "title": "How a Reporter Interviews People About the Midterms, Even Those Who ‘Don’t Talk Politics’",
-      "link": "https://www.nytimes.com/2026/11/02/insider/midterm-election-reporting-michigan-politics.html",
-      "pubDate": "2026-11-02T21:28:58.000Z",
-      "image": "https://static01.nyt.com/images/2026/11/02/pageoneplus/02insider-mich/02insider-mich-mediumSquareAt3X.jpg",
-      "author": "Sabrina Tavernise",
-      "excerpt": "In purple states like Michigan, sharing political views — especially with reporters — has become a socially risky thing to do.",
+      "title": "A Test for Israeli Democracy: Should Jews Ask Arabs to Join the Government?",
+      "link": "https://www.nytimes.com/2026/11/03/world/middleeast/israel-coalition-arab-lawmakers.html",
+      "pubDate": "2026-11-03T10:03:49.000Z",
+      "image": "https://static01.nyt.com/images/2026/11/03/multimedia/03int-israel-assess01-photo-gqbw/03int-israel-assess01-photo-gqbw-mediumSquareAt3X.jpg",
+      "author": "David M. Halbfinger and Natan Odenheimer",
+      "excerpt": "Arab lawmakers give opponents of Benjamin Netanyahu a clear majority in the Parliament. But many Jewish lawmakers are trying to avoid relying on them.",
       "source": "NYT"
     },
     {
-      "title": "A 31,000-Mile Walk Ends in England, at Mom’s House",
-      "link": "https://www.nytimes.com/2026/11/02/world/europe/karl-bushby-world-walk-hull-england.html",
-      "pubDate": "2026-11-02T20:00:28.000Z",
-      "image": "https://static01.nyt.com/images/2026/11/02/multimedia/02vid-globaltrotter-gckm/02vid-globaltrotter-gckm-mediumSquareAt3X.jpg",
-      "author": "Amanda Holpuch",
-      "excerpt": "Karl Bushby arrived in Hull, England, on Monday after spending 28 years crossing four continents on foot.",
+      "title": "Supreme Court to Hear Catholic Schools’ Challenge to Colorado Aid Rules",
+      "link": "https://www.nytimes.com/2026/11/03/us/politics/supreme-court-colorado-catholic-schools-discrimination.html",
+      "pubDate": "2026-11-03T10:03:09.000Z",
+      "image": "https://static01.nyt.com/images/2026/11/03/multimedia/03dc-scotus-preschool-top-kqcv/03dc-scotus-preschool-top-kqcv-mediumSquareAt3X.jpg",
+      "author": "Ann E. Marimow",
+      "excerpt": "The Supreme Court considers whether Catholic preschools in Colorado that decline to enroll families with gay and transgender parents can participate in a state program.",
       "source": "NYT"
     },
     {
-      "title": "They Tried Kratom for Its Purported Health Benefits, Then They Became Addicted",
-      "link": "https://www.nytimes.com/2026/11/02/well/kratom-wellness-marketing-addiction.html",
-      "pubDate": "2026-11-02T18:42:22.000Z",
-      "image": "https://static01.nyt.com/images/2026/10/28/multimedia/00WELL-KRATOM-MARKETING1-qmcp/00WELL-KRATOM-MARKETING1-qmcp-mediumSquareAt3X.jpg",
-      "author": "Olivia Tauber",
-      "excerpt": "Some say they were introduced to the drug through wellness podcasts, free samples at gyms or fitness influencers.",
+      "title": "Trump’s Immigration Dragnet Sweeps Up Ukrainian Truckers Who Fled War",
+      "link": "https://www.nytimes.com/2026/11/03/us/ukraine-immigrant-trucker-cdl-weigh-stations-ice.html",
+      "pubDate": "2026-11-03T10:00:17.000Z",
+      "image": "https://static01.nyt.com/images/2026/11/10/multimedia/10nat-immig-truckers-1-gvkh/10nat-immig-truckers-1-gvkh-mediumSquareAt3X.jpg",
+      "author": "Jazmine Ulloa",
+      "excerpt": "At least a dozen Ukrainian truck drivers were arrested this summer, according to a representative for Ukraine. Several remain in detention.",
       "source": "NYT"
     }
   ]
