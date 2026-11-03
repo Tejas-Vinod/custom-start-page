@@ -1,6 +1,33 @@
 {
   "spaceNews": [
     {
+      "title": "Tumbleweed Raises €6.9M to Build its Own Reentry Vehicle",
+      "link": "https://payloadspace.com/tumbleweed-raises-e6-9m-to-build-its-own-reentry-vehicle/",
+      "pubDate": "2026-11-03T08:00:00.000Z",
+      "image": "https://payloadspace.com/wp-content/uploads/2026/11/Tumbleweed_Oasis-Beta_RENDER-200x200.jpg",
+      "author": "Douglas Gorman",
+      "excerpt": "Vienna-based startup Tumbleweed is attempting to build an anti-gravity machine. The post Tumbleweed Raises €6.9M to Build its Own Reentry Vehicle appeared first on Payload.",
+      "source": "Payload"
+    },
+    {
+      "title": "APOD: 2026 November 3 – Comet PanSTARRs and Rainbow Meteor",
+      "link": "https://science.nasa.gov/image-article/apod-2026-november-3-comet-panstarrs-and-rainbow-meteor/",
+      "pubDate": "2026-11-03T05:05:00.000Z",
+      "image": "https://assets.science.nasa.gov/dynamicimage/assets/science/cds/apod/apod/2026/november/CometMeteor_Metais_1934.jpg?w=0&#038;h=0&#038;fit=clip&#038;crop=faces%2Cfocalpoint",
+      "author": "",
+      "excerpt": "APOD Science APOD APOD: 2026 November 3 –… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional ",
+      "source": "NASA"
+    },
+    {
+      "title": "The Pacific’s Busy Storm Season",
+      "link": "https://science.nasa.gov/earth/earth-observatory/the-pacifics-busy-storm-season/",
+      "pubDate": "2026-11-03T05:01:00.000Z",
+      "image": "https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2026/the-pacific",
+      "author": "",
+      "excerpt": "Super Typhoon In-fa developed an unusually large eye, and the remnants of Typhoon Champi transitioned into an extratropical storm that targeted Alaska.",
+      "source": "NASA"
+    },
+    {
       "title": "Happy 65 Years: NASA’s Johnson Space Center Then and Now",
       "link": "https://www.nasa.gov/centers-and-facilities/johnson/happy-65-years-nasas-johnson-space-center-then-and-now/",
       "pubDate": "2026-11-02T21:35:59.000Z",
@@ -134,24 +161,6 @@
       "author": "Martin Ratcliffe",
       "excerpt": "Saturn is already visible as darkness falls; some challenging transits of its moons occur this month. Neptune is a binocular object close to Saturn, while Uranus is an easy target in Taurus. A Full Moon courses in front of the Pleiades in late November. Mars and Jupiter dominate the early-morning sky, and in the hourCo",
       "source": "Astronomy Magazine"
-    },
-    {
-      "title": "APOD: 2026 November 1 – Colors of the Moon",
-      "link": "https://science.nasa.gov/image-article/apod-2026-november-1-colors-of-the-moon/",
-      "pubDate": "2026-11-01T04:05:00.000Z",
-      "image": "https://assets.science.nasa.gov/dynamicimage/assets/science/cds/apod/apod/2026/november/MoonColors_Pace_960.jpg?w=960&#038;h=991&#038;fit=clip&#038;crop=faces%2Cfocalpoint",
-      "author": "",
-      "excerpt": "APODScienceAPODAPOD: 2026 November 1 –…Today’s APODArchiveSubmissionsIndexSearchCalendarRSSEducationAboutDiscuss APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer. C",
-      "source": "NASA"
-    },
-    {
-      "title": "APOD: 2026 October 31 – Night on a Spooky Planet",
-      "link": "https://science.nasa.gov/image-article/apod-2026-october-31-night-on-a-spooky-planet/",
-      "pubDate": "2026-10-31T04:05:00.000Z",
-      "image": "https://assets.science.nasa.gov/dynamicimage/assets/science/cds/apod/apod/Hverir_Vetter_1300.jpg?w=1300&#038;h=867&#038;fit=clip&#038;crop=faces%2Cfocalpoint",
-      "author": "",
-      "excerpt": "APODScienceAPODAPOD: 2026 October 31 –…Today’s APODArchiveSubmissionsIndexSearchCalendarRSSEducationAboutDiscuss APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer. N",
-      "source": "NASA"
     },
     {
       "title": "SpaceX closes out October with 700th Falcon 9 launch to date",
@@ -358,15 +367,6 @@
       "image": "https://payloadspace.com/wp-content/uploads/2026/10/Orbital-Rendezvous-Thorus-200x200.jpg",
       "author": "Douglas Gorman",
       "excerpt": "The Europeans are gearing up for a fight in orbit. The post OSMOS X Tapped to Lead EDF-backed Tactical Capture Consortium appeared first on Payload.",
-      "source": "Payload"
-    },
-    {
-      "title": "MP Space Raises AUD $23M to Scale Satellite Battery Manufacturing",
-      "link": "https://payloadspace.com/mp-space-raises-aud-23m-to-scale-satellite-battery-manufacturing/",
-      "pubDate": "2026-10-27T12:29:27.000Z",
-      "image": "https://payloadspace.com/wp-content/uploads/2026/10/MP-Space-team-photo-200x200.jpg",
-      "author": "Douglas Gorman",
-      "excerpt": "MP Space’s batteries launched for the first time last week with an undisclosed customer on SpaceX’s Bandwagon-5 mission, and already the company has orders to support 500+ spacecraft. The post MP Space Raises AUD $23M to Scale Satellite Battery Manufacturing appeared first on Payload.",
       "source": "Payload"
     },
     {
@@ -786,6 +786,15 @@
   ],
   "industryNews": [
     {
+      "title": "Boeing Projects China’s Commercial Fleet Will More than Double Over 20 Years",
+      "link": "https://boeing.mediaroom.com/2026-11-03-Boeing-Projects-Chinas-Commercial-Fleet-Will-More-than-Double-Over-20-Years",
+      "pubDate": "2026-11-03T04:00:00.000Z",
+      "image": null,
+      "author": "",
+      "excerpt": "",
+      "source": "Boeing"
+    },
+    {
       "title": "Boeing and Icelease Sign Agreement for up to Three 767-300 Boeing Converted Freighters",
       "link": "https://boeing.mediaroom.com/2026-11-02-Boeing-and-Icelease-Sign-Agreement-for-up-to-Three-767-300-Boeing-Converted-Freighters",
       "pubDate": "2026-11-02T14:00:00.000Z",
@@ -865,18 +874,81 @@
       "author": "",
       "excerpt": "",
       "source": "Boeing"
-    },
-    {
-      "title": "Boeing Introduces Dataliner, a New Aircraft Data Intelligence Platform",
-      "link": "https://boeing.mediaroom.com/2026-10-20-Boeing-Introduces-Dataliner,-a-New-Aircraft-Data-Intelligence-Platform",
-      "pubDate": "2026-10-20T11:30:00.000Z",
-      "image": "https://mmx.prnewswire.com/media/MS2016680/Dataliner-Aircraft-Data-Intelligence-Platform.jpg?id=OA3028200&p=thumbnail",
-      "author": "",
-      "excerpt": "",
-      "source": "Boeing"
     }
   ],
   "nytNews": [
+    {
+      "title": "Saudi Aramco Profit Jumps Despite Damaging Attacks on Pipelines and Refineries",
+      "link": "https://www.nytimes.com/2026/11/03/business/saudi-aramco-q3-earnings.html",
+      "pubDate": "2026-11-03T08:20:55.000Z",
+      "image": "https://static01.nyt.com/images/2026/11/03/multimedia/03biz-saudi-aramco-gjzm/03biz-saudi-aramco-gjzm-mediumSquareAt3X.jpg",
+      "author": "Lisa Friedman",
+      "excerpt": "Saudi Arabia’s state-owned oil company posted a 9 percent increase in third-quarter profit on Tuesday.",
+      "source": "NYT"
+    },
+    {
+      "title": "Jimmy Kimmel Mocks the President’s ‘Pettysburg Address’",
+      "link": "https://www.nytimes.com/2026/11/03/arts/television/jimmy-kimmel-trump-midterms.html",
+      "pubDate": "2026-11-03T07:13:47.000Z",
+      "image": null,
+      "author": "Trish Bendix",
+      "excerpt": "“And where better to reassure the public that they are in good hands than in front of a pool you’ve repeatedly botched to the tune of $16 million?” Kimmel said of Trump’s speech before the midterms.",
+      "source": "NYT"
+    },
+    {
+      "title": "Latin America’s Swing to the Right Was Never About Trump",
+      "link": "https://www.nytimes.com/2026/11/03/opinion/lula-brazil-latin-america-trump.html",
+      "pubDate": "2026-11-03T06:00:07.000Z",
+      "image": "https://static01.nyt.com/images/2026/11/03/multimedia/03shifter-btck/03shifter-btck-mediumSquareAt3X-v2.jpg",
+      "author": "Michael Shifter",
+      "excerpt": "The Trump administration has profoundly misread Latin America’s political winds.",
+      "source": "NYT"
+    },
+    {
+      "title": "U.S. Military Strikes Iran’s Qeshm Island in What U.S. Officials Call a Defensive Measure",
+      "link": "https://www.nytimes.com/2026/11/02/us/politics/us-military-strike-defensive-iran.html",
+      "pubDate": "2026-11-03T04:10:38.000Z",
+      "image": "https://static01.nyt.com/images/2026/06/01/multimedia/02DC-military/01xp-iran-01-mcgh-mediumSquareAt3X.jpg",
+      "author": "Helene Cooper, Tyler Pager and Jonathan Swan",
+      "excerpt": "The action was limited, the officials said, with no immediate plans to escalate. The strikes come on the eve of the midterm elections.",
+      "source": "NYT"
+    },
+    {
+      "title": "Child Dies From Measles in New York State’s First Fatal Case in 30 Years",
+      "link": "https://www.nytimes.com/2026/11/02/nyregion/measles-death-child-new-york-lewis-county.html",
+      "pubDate": "2026-11-03T03:58:04.000Z",
+      "image": "https://static01.nyt.com/images/2026/11/02/multimedia/02met-measles-death-wgmb/02met-measles-death-wgmb-mediumSquareAt3X-v2.jpg",
+      "author": "Joseph Goldstein",
+      "excerpt": "Gov. Kathy Hochul said that the death in Lewis County reflected eroding vaccination levels. The state is experiencing a significant outbreak of the viral illness.",
+      "source": "NYT"
+    },
+    {
+      "title": "In Run-Up to Midterms, Legacy of 2020 Looms Large Over Justice Dept.",
+      "link": "https://www.nytimes.com/2026/11/02/us/politics/midterms-2020-election-justice-department.html",
+      "pubDate": "2026-11-03T03:36:43.000Z",
+      "image": "https://static01.nyt.com/images/2026/11/02/multimedia/dc-justice-promo-hfbt/dc-justice-promo-hfbt-mediumSquareAt3X.jpg",
+      "author": "Glenn Thrush",
+      "excerpt": "The refusal of top department officials to acknowledge Donald J. Trump’s loss that year is the engine driving an intensifying effort to intercede in state administration of elections.",
+      "source": "NYT"
+    },
+    {
+      "title": "Democratic Divisions on Israel Come Thundering Back, in Preview of Fights to Come",
+      "link": "https://www.nytimes.com/2026/11/02/us/politics/democrats-split-israel-michigan.html",
+      "pubDate": "2026-11-03T01:56:37.000Z",
+      "image": "https://static01.nyt.com/images/2026/11/02/multimedia/02pol-democrats-israel-01-cpzk/02pol-democrats-israel-01-cpzk-mediumSquareAt3X.jpg",
+      "author": "Tim Balk and Jennifer Medina",
+      "excerpt": "A shattered alliance in Michigan between Dr. Abdul El-Sayed and his former primary rival, Representative Haley Stevens, underscored broader tensions in the party.",
+      "source": "NYT"
+    },
+    {
+      "title": "‘Devastating’ Damage as Hard Rains and Flash Floods Batter the Southwest",
+      "link": "https://www.nytimes.com/2026/11/02/weather/southwest-flooding-four-corners.html",
+      "pubDate": "2026-11-03T01:22:59.000Z",
+      "image": "https://static01.nyt.com/images/2026/11/01/multimedia/01wea-southwestfloods-vtzl/01wea-southwestfloods-vtzl-mediumSquareAt3X.jpg",
+      "author": "Jack Healy and Nazaneen Ghaffar",
+      "excerpt": "Some towns received more rain in a single day than they typically get during all of November, forcing evacuations across the Four Corners region.",
+      "source": "NYT"
+    },
     {
       "title": "20-Year-Old Nathalia Filgueiras Was a Pilot on Learjet That Crashed in Florida",
       "link": "https://www.nytimes.com/2026/11/02/us/nathalia-filgueiras-florida-plane-crash-pilot.html",
@@ -884,33 +956,6 @@
       "image": "https://static01.nyt.com/images/2026/11/02/multimedia/02nat-crash-folo-zcfb/02nat-crash-folo-zcfb-mediumSquareAt3X.jpg",
       "author": "David Ovalle, Jacey Fortin and Shahrzad Rasekh",
       "excerpt": "Nine people died, including two young children and a 20-year-old co-pilot, Nathalia Filgueiras, who received her pilot’s license three years ago, when she was still a teenager.",
-      "source": "NYT"
-    },
-    {
-      "title": "Child Dies From Measles in New York State’s First Fatal Case in 30 Years",
-      "link": "https://www.nytimes.com/2026/11/02/nyregion/measles-death-child-new-york-lewis-county.html",
-      "pubDate": "2026-11-03T01:04:46.000Z",
-      "image": "https://static01.nyt.com/images/2026/11/02/multimedia/02met-measles-death-wgmb/02met-measles-death-wgmb-mediumSquareAt3X-v2.jpg",
-      "author": "Joseph Goldstein",
-      "excerpt": "Gov. Kathy Hochul said that the death in Lewis County reflects eroding vaccination levels. The state is experiencing a significant outbreak of the viral illness.",
-      "source": "NYT"
-    },
-    {
-      "title": "Early Voting Turnout Surges",
-      "link": "https://www.nytimes.com/2026/11/02/briefing/early-voting-turnout-surges.html",
-      "pubDate": "2026-11-03T00:58:40.000Z",
-      "image": "https://static01.nyt.com/images/2026/11/02/multimedia/02evening-nl-midterms-hpct/02evening-nl-midterms-hpct-mediumSquareAt3X.jpg",
-      "author": "Matthew Cullen",
-      "excerpt": "Also, the Senate’s future is riddled with wild cards. Here’s the latest at the end of Monday.",
-      "source": "NYT"
-    },
-    {
-      "title": "In Run-Up to Midterms, Legacy of 2020 Looms Large Over Justice Dept.",
-      "link": "https://www.nytimes.com/2026/11/02/us/politics/midterms-2020-election-justice-department.html",
-      "pubDate": "2026-11-03T00:47:52.000Z",
-      "image": "https://static01.nyt.com/images/2026/11/02/multimedia/dc-justice-promo-hfbt/dc-justice-promo-hfbt-mediumSquareAt3X.jpg",
-      "author": "Glenn Thrush",
-      "excerpt": "The refusal of top department officials to acknowledge Donald J. Trump’s loss that year is the engine driving an intensifying effort to intercede in state administration of elections.",
       "source": "NYT"
     },
     {
@@ -943,14 +988,14 @@
     {
       "title": "Supreme Court Rejects Trump Administration Request to Intervene in California Ballot Case",
       "link": "https://www.nytimes.com/2026/11/02/us/politics/trump-supreme-court-california-ballots.html",
-      "pubDate": "2026-11-03T00:14:13.000Z",
+      "pubDate": "2026-11-03T00:14:14.000Z",
       "image": "https://static01.nyt.com/images/2026/11/02/multimedia/02dc-scotus-california-pglk/02dc-scotus-california-pglk-mediumSquareAt3X.jpg",
       "author": "Abbie VanSickle",
       "excerpt": "The court’s ruling came just hours after administration lawyers asked the justices to immediately order California to set aside 20,000 mail-in ballots.",
       "source": "NYT"
     },
     {
-      "title": "Investigators Looking for Cause of Florida Crash Say Ice Was ‘Certainly a Factor’",
+      "title": "Investigators Looking for Cause of Learjet Crash Say Ice Was ‘Certainly a Factor’",
       "link": "https://www.nytimes.com/2026/11/02/science/florida-learjet-crash-causes.html",
       "pubDate": "2026-11-02T23:50:50.000Z",
       "image": "https://static01.nyt.com/images/2026/11/02/multimedia/02sci-jet-crash-01-ktfm/02sci-jet-crash-01-ktfm-mediumSquareAt3X.jpg",
@@ -970,7 +1015,7 @@
     {
       "title": "Trump Administration Said to Plan Rolling Back Pregnancy-Related Job Protections",
       "link": "https://www.nytimes.com/2026/11/02/business/economy/eeoc-trump-administration-pregnancy-fertility-abortion.html",
-      "pubDate": "2026-11-02T23:10:20.000Z",
+      "pubDate": "2026-11-02T23:10:21.000Z",
       "image": "https://static01.nyt.com/images/2026/10/30/multimedia/00biz-pregnant-workers--01-lcqm/00biz-pregnant-workers--01-lcqm-mediumSquareAt3X.jpg",
       "author": "Coral Davenport and Rebecca Davis O’Brien",
       "excerpt": "The Biden era law was meant to help women stay in the workplace, but some conservatives say rules to enact it went too far with coverage for abortion and fertility treatment.",
@@ -995,33 +1040,6 @@
       "source": "NYT"
     },
     {
-      "title": "What Seven Presidents Knew — and Trump Does Not",
-      "link": "https://www.nytimes.com/2026/11/02/opinion/trump-character-presidents-midterms.html",
-      "pubDate": "2026-11-02T20:34:27.000Z",
-      "image": null,
-      "author": "Howell Raines",
-      "excerpt": "Will Americans decide this week that character does, after all, matter?",
-      "source": "NYT"
-    },
-    {
-      "title": "Trump’s Immigration Crackdown Backlash Poses Challenge for Republicans in the Midterms",
-      "link": "https://www.nytimes.com/2026/11/02/us/politics/trump-immigration-crackdown-backlash-republicans.html",
-      "pubDate": "2026-11-02T20:29:52.000Z",
-      "image": "https://static01.nyt.com/images/2026/11/02/multimedia/02pol-voters-immigration-03-cvlg/02pol-voters-immigration-03-cvlg-mediumSquareAt3X.jpg",
-      "author": "Jennifer Medina and Jazmine Ulloa",
-      "excerpt": "President Trump promised to end the chaos at the southern border. But deadly ICE shootings and high-profile raids have shaken many voters.",
-      "source": "NYT"
-    },
-    {
-      "title": "Iran Says It Would Reopen Strait of Hormuz in 2 Days as Part of U.S. Deal",
-      "link": "https://www.nytimes.com/2026/11/02/world/middleeast/iran-deal-strait-of-hormuz.html",
-      "pubDate": "2026-11-02T20:25:34.000Z",
-      "image": "https://static01.nyt.com/images/2026/11/02/multimedia/02-int-Iran-Diplomacy-01-jglt/02-int-Iran-Diplomacy-01-jglt-mediumSquareAt3X.jpg",
-      "author": "Erika Solomon, Sanam Mahoozi, Adam Rasgon and Vivian Nereim",
-      "excerpt": "Iranian officials spoke of some progress in negotiating to reopen the strait even as they prepared for all-out war. A Qatari delegation arrived in Tehran on Monday to meet with the foreign minister to continue talks.",
-      "source": "NYT"
-    },
-    {
       "title": "A 31,000-Mile Walk Ends in England, at Mom’s House",
       "link": "https://www.nytimes.com/2026/11/02/world/europe/karl-bushby-world-walk-hull-england.html",
       "pubDate": "2026-11-02T20:00:28.000Z",
@@ -1037,15 +1055,6 @@
       "image": "https://static01.nyt.com/images/2026/10/28/multimedia/00WELL-KRATOM-MARKETING1-qmcp/00WELL-KRATOM-MARKETING1-qmcp-mediumSquareAt3X.jpg",
       "author": "Olivia Tauber",
       "excerpt": "Some say they were introduced to the drug through wellness podcasts, free samples at gyms or fitness influencers.",
-      "source": "NYT"
-    },
-    {
-      "title": "Robin Greenfield Wants to Be One With Nature. But He Can’t Quit Instagram.",
-      "link": "https://www.nytimes.com/2026/11/02/nyregion/forager-robin-greenfield.html",
-      "pubDate": "2026-11-02T17:30:25.000Z",
-      "image": "https://static01.nyt.com/images/2026/11/02/multimedia/02met-forager-nyc-top-01-vqkw/02met-forager-nyc-top-01-vqkw-mediumSquareAt3X.jpg",
-      "author": "Hilary Howard and Lexi Parra",
-      "excerpt": "Once, Robin Greenfield aspired to wealth. Now, he has no home and eats from the earth. He chronicles it all on social media, but does the persona match the man?",
       "source": "NYT"
     }
   ]
