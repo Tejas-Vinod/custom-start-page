@@ -1,6 +1,78 @@
 {
   "spaceNews": [
     {
+      "title": "NASA Shares Plans to Accelerate Artemis, Return to Moon",
+      "link": "https://www.nasa.gov/missions/artemis/nasa-shares-plans-to-accelerate-artemis-return-to-moon/",
+      "pubDate": "2026-11-04T21:04:10.000Z",
+      "image": "https://www.nasa.gov/wp-content/uploads/2026/10/2-artemis-iii-con-ops-oct2026.jpg?w=2048",
+      "author": "Lee Mohon",
+      "excerpt": "In an update on Oct. 23, NASA Administrator Jared Isaacman and other agency leaders shared the agency’s path to returning Americans to the lunar surface in 2028. Agency leadership provided updates on the previously announced acceleration plans for the Artemis program, advancing toward the agency’s Artemis III test flig",
+      "source": "NASA"
+    },
+    {
+      "title": "NASA’s Neil Gehrels Swift Observatory reenters over Western Indonesia",
+      "link": "https://spaceflightnow.com/2026/11/04/nasas-neil-gehrels-swift-observatory-reenters-over-western-indonesia/",
+      "pubDate": "2026-11-04T20:14:59.000Z",
+      "image": "https://spaceflightnow.com/wp-content/uploads/2026/11/trajectory-swift@2x-300x220.jpg",
+      "author": "Houston Harwood",
+      "excerpt": "NASA’s Neil Gehrels Swift Observatory plummeted back into Earth’s atmosphere Wednesday over western Indonesia, ending nearly 22 years in orbit for the gamma-ray burst hunter after a failed attempt to rescue it.",
+      "source": "Spaceflight Now"
+    },
+    {
+      "title": "Van Gogh’s Starry Night shows a real night sky, study suggests",
+      "link": "https://www.astronomy.com/science/van-goghs-starry-night-shows-a-real-night-sky-study-suggests/",
+      "pubDate": "2026-11-04T19:01:39.000Z",
+      "image": null,
+      "author": "Brooks Mendenhall",
+      "excerpt": "For decades, art historians and astronomers have wondered whether the sky of Vincent van Gogh’s The Starry Night shows real stars or imagined ones. A new study argues the stars are real — and that Van Gogh likely saw them a month later than most scholars thought. The study, published Oct. 22 in Scientific Reports,Conti",
+      "source": "Astronomy Magazine"
+    },
+    {
+      "title": "NASA Announces Ka-Band Satellite Relay Awards for Space Communications",
+      "link": "https://www.nasa.gov/news-release/nasa-announces-ka-band-satellite-relay-awards-for-space-communications/",
+      "pubDate": "2026-11-04T18:00:02.000Z",
+      "image": "https://www.nasa.gov/wp-content/uploads/2022/02/nasa_meatball_large.jpg?w=1920",
+      "author": "Jessica Taveau",
+      "excerpt": "NASA selected three companies on Wednesday to perform work to develop Ka-band space relay capability concepts that are compatible with current missions in space, ensuring service continuity for existing spacecraft without requiring modifications to their onboard systems. Through this work, NASA will aim to acquire end-",
+      "source": "NASA"
+    },
+    {
+      "title": "Could primordial black holes hold the key to dark matter?",
+      "link": "https://www.newscientist.com/video/2597265-could-primordial-black-holes-hold-the-key-to-dark-matter/?utm_campaign=RSS|NSNS&utm_content=space&utm_medium=RSS&utm_source=NSNS",
+      "pubDate": "2026-11-04T18:00:00.000Z",
+      "image": null,
+      "author": "Emily Bates",
+      "excerpt": "Some black holes may be older than the stars themselves. And their existence could help solve one of the biggest mysteries in physics: dark matter",
+      "source": "New Scientist"
+    },
+    {
+      "title": "NASA Navigation Experiment Shows Promise for Planetary Landings",
+      "link": "https://www.nasa.gov/centers-and-facilities/armstrong/nasa-navigation-experiment-shows-promise-for-planetary-landings/",
+      "pubDate": "2026-11-04T16:52:43.000Z",
+      "image": "https://images-assets.nasa.gov/image/AFRC2026-0152-30/AFRC2026-0152-30~large.jpg?w=1920&amp;h=1280&amp;fit=clip&amp;crop=faces%2Cfocalpoint",
+      "author": "Dede Dinius",
+      "excerpt": "NASA successfully demonstrated technology designed to help spacecraft autonomously navigate to safe landing sites on the Moon and on other planets. An Alta-X drone equipped with the agency’s Safe and Precise Landing – Integrated Capabilities Evolution (SPLICE) guidance, navigation, and control payload completed simulat",
+      "source": "NASA"
+    },
+    {
+      "title": "NASA Space Grant Students Fuel Agency’s Inspiration Tour",
+      "link": "https://www.nasa.gov/learning-resources/nasa-space-grant-students-fuel-agencys-inspiration-tour/",
+      "pubDate": "2026-11-04T16:16:41.000Z",
+      "image": "https://www.nasa.gov/wp-content/uploads/2026/11/2097409090238472611.png?w=962",
+      "author": "Sandra May",
+      "excerpt": "NASA’s Inspiration Tour spread the excitement of space exploration and aeronautical innovation by connecting the public, industry, and academia with the people, technologies, and organizations that drive American leadership in space. At nearly every stop across the country, NASA Space Grant has brought students into th",
+      "source": "NASA"
+    },
+    {
+      "title": "Hubble Reveals Cosmic Mystery",
+      "link": "https://www.nasa.gov/image-article/hubble-reveals-cosmic-mystery/",
+      "pubDate": "2026-11-04T15:59:36.000Z",
+      "image": "https://www.nasa.gov/wp-content/uploads/2026/11/full-res-for-display-1.png?w=2048",
+      "author": "HQ Web Team",
+      "excerpt": "This photo released on Nov. 2, 2026, showcases NGC 4449, a dwarf irregular. Researchers using NASA’s Hubble Space Telescope studied 37 nearby dwarf galaxies — small galaxies containing a few thousand to hundreds of millions of stars — including NGC 4449 and found that much of the oxygen they expected to see is missing.",
+      "source": "NASA"
+    },
+    {
       "title": "Orbital Matter, EnduroSat Announce an In-Space Manufacturing Mission in 2028",
       "link": "https://payloadspace.com/orbital-matter-endurosat-announce-an-in-space-manufacturing-mission-in-2028/",
       "pubDate": "2026-11-04T14:00:00.000Z",
@@ -125,51 +197,6 @@
       "author": "Douglas Gorman",
       "excerpt": "Vienna-based startup Tumbleweed is attempting to build an anti-gravity machine. The post Tumbleweed Raises €6.9M to Build its Own Reentry Vehicle appeared first on Payload.",
       "source": "Payload"
-    },
-    {
-      "title": "APOD: 2026 November 3 – Comet PanSTARRs and Rainbow Meteor",
-      "link": "https://science.nasa.gov/image-article/apod-2026-november-3-comet-panstarrs-and-rainbow-meteor/",
-      "pubDate": "2026-11-03T05:05:00.000Z",
-      "image": "https://assets.science.nasa.gov/dynamicimage/assets/science/cds/apod/apod/2026/november/CometMeteor_Metais_1934.jpg?w=0&#038;h=0&#038;fit=clip&#038;crop=faces%2Cfocalpoint",
-      "author": "",
-      "excerpt": "APOD Science APOD APOD: 2026 November 3 –… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional ",
-      "source": "NASA"
-    },
-    {
-      "title": "The Pacific’s Busy Storm Season",
-      "link": "https://science.nasa.gov/earth/earth-observatory/the-pacifics-busy-storm-season/",
-      "pubDate": "2026-11-03T05:01:00.000Z",
-      "image": "https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2026/the-pacific",
-      "author": "",
-      "excerpt": "Super Typhoon In-fa developed an unusually large eye, and the remnants of Typhoon Champi transitioned into an extratropical storm that targeted Alaska.",
-      "source": "NASA"
-    },
-    {
-      "title": "Happy 65 Years: NASA’s Johnson Space Center Then and Now",
-      "link": "https://www.nasa.gov/centers-and-facilities/johnson/happy-65-years-nasas-johnson-space-center-then-and-now/",
-      "pubDate": "2026-11-02T21:35:59.000Z",
-      "image": "https://www.nasa.gov/wp-content/uploads/2026/10/s63-11625.jpg?w=1536",
-      "author": "Sumer Loggins",
-      "excerpt": "Sixty-five years ago, a bold vision took root in Houston: a NASA center dedicated to human spaceflight. Since its founding, NASA’s Johnson Space Center has helped lead the nation’s human spaceflight program, supporting missions from Project Mercury through Artemis. Today, Johnson serves as NASA’s Center of Excellence f",
-      "source": "NASA"
-    },
-    {
-      "title": "TB 26-09 Measured Hammer-Tap Inputs",
-      "link": "https://www.nasa.gov/centers-and-facilities/nesc/tb-26-09-measured-hammer-tap-inputs/",
-      "pubDate": "2026-11-02T20:47:41.000Z",
-      "image": "https://www.nasa.gov/wp-content/uploads/2015/04/tb-26-09-1-illustrative-hammer-force-time-histories.png?w=1366",
-      "author": "Meagan Chappell",
-      "excerpt": "For more information, contact Joel W. Sills, Langley Research Center, joel.w.sills@nasa.gov. Download the PDF version An instrumented hammer test does not require an idealized single half-sine waveform. When the complete force and response are measured accurately, crest ripples and separated contacts remain known input",
-      "source": "NASA"
-    },
-    {
-      "title": "NASA’s CHAPEA Crew “Returns” to Earth",
-      "link": "https://www.nasa.gov/image-article/nasas-chapea-crew-returns-to-earth/",
-      "pubDate": "2026-11-02T18:50:42.000Z",
-      "image": "https://www.nasa.gov/wp-content/uploads/2026/11/jsc2026e424293orig.jpg?w=2048",
-      "author": "HQ Web Team",
-      "excerpt": "The four-member Crew Health and Performance Exploration Analog (CHAPEA) crew poses outside for the first time in more than a year following the end of their simulated Mars journey on Oct. 31, 2026. Crew members Matthew Montgomery (left), James Spicer (middle left), Ross Elder (middle right), and Ellen Ellis (right) spe",
-      "source": "NASA"
     },
     {
       "title": "DAF announces Spark Tank 2026 Top 5",
@@ -478,33 +505,6 @@
       "source": "SpaceNews"
     },
     {
-      "title": "TechnoMile Recognized as a 2026 Inc. Power Partner Award Winner",
-      "link": "https://spacenews.com/technomile-recognized-as-a-2026-inc-power-partner-award-winner/",
-      "pubDate": "2026-10-21T15:26:29.000Z",
-      "image": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/10/TechnoMile-Horizontal-Logo-scaled.png?fit=1024%2C153&amp;ssl=1",
-      "author": "TechnoMile",
-      "excerpt": "TechnoMile, the leading AI solution that unifies growth, contracts, compliance, and security workflows, has been named a 2026 Inc. Power Partner Awards winner, recognizing the company among the leading B2B […] The post TechnoMile Recognized as a 2026 Inc. Power Partner Award Winner appeared first on SpaceNews.",
-      "source": "SpaceNews"
-    },
-    {
-      "title": "Global Satcom Services Revenues to Reach $145 Billion by 2035",
-      "link": "https://spacenews.com/global-satcom-services-revenues-to-reach-145-billion-by-2035/",
-      "pubDate": "2026-10-21T15:00:22.000Z",
-      "image": "https://i0.wp.com/spacenews.com/wp-content/uploads/2025/04/novaspace-square-1-scaled.png?fit=1024%2C1024&amp;ssl=1",
-      "author": "Novaspace",
-      "excerpt": "Paris, France | October 2026 – Global satellite services revenues are forecast to grow 44% to reach $145 billion by 2035, according to the 33rd edition of Novaspace’s Satellite Connectivity […] The post Global Satcom Services Revenues to Reach $145 Billion by 2035 appeared first on SpaceNews.",
-      "source": "SpaceNews"
-    },
-    {
-      "title": "Space Nuclear Power Corporation Awarded DARPA Agreement for Ground Test of Autonomous Nuclear Reactor Controller",
-      "link": "https://spacenews.com/space-nuclear-power-corporation-awarded-darpa-agreement-for-ground-test-of-autonomous-nuclear-reactor-controller/",
-      "pubDate": "2026-10-21T14:29:57.000Z",
-      "image": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/10/Space_Nukes_Logo.jpg?fit=703%2C368&amp;ssl=1",
-      "author": "Space Nuclear Power Corporation",
-      "excerpt": "LOS ALAMOS, N.M. — October 21, 2026 — Space Nuclear Power Corporation (SpaceNukes) announced today that the Defense Advanced Research Projects Agency (DARPA) has awarded the company an Other Transaction […] The post Space Nuclear Power Corporation Awarded DARPA Agreement for Ground Test of Autonomous Nuclear Reactor Co",
-      "source": "SpaceNews"
-    },
-    {
       "title": "SpaceX launches Starlink 15-15 mission following a trio of scrubs",
       "link": "https://spaceflightnow.com/2026/10/20/live-coverage-spacex-to-launch-27-starlink-satellites-on-falcon-9-rocket-from-vandenberg-sfb-5/",
       "pubDate": "2026-10-20T21:18:11.000Z",
@@ -539,15 +539,6 @@
       "author": "Leah Crane",
       "excerpt": "The Drake equation provides a way to guess how many aliens we might be able to communicate with, but it’s also a prime example of the importance of scientific guessing, says columnist Leah Crane",
       "source": "New Scientist"
-    },
-    {
-      "title": "SpaceX launches Starfall reentry capsule, 31 customer payloads on Bandwagon-5 rideshare mission",
-      "link": "https://spaceflightnow.com/2026/10/18/live-coverage-spacex-to-launch-starfall-reentry-capsule-31-customer-payloads-on-bandwagon-5-rideshare-mission/",
-      "pubDate": "2026-10-18T16:32:02.000Z",
-      "image": "https://spaceflightnow.com/wp-content/uploads/2026/10/20261020_Bandwagon-5_MC-1.jpeg",
-      "author": "Will Robinson-Smith",
-      "excerpt": "This will be the second launch of SpaceX’s uncrewed reentry capsule, Starfall. Liftoff from pad 40 at Cape Canaveral Space Force Station is scheduled at 7:04 a.m. EDT (1104 UTC) on Tuesday, Oct. 20.",
-      "source": "Spaceflight Now"
     },
     {
       "title": "Japan launches sample return mission to Phobos",
@@ -604,15 +595,6 @@
       "source": "Space Force"
     },
     {
-      "title": "Distant NGC 3137 reveals clues about our own galaxy",
-      "link": "https://www.astronomy.com/science/distant-ngc-3137-reveals-clues-about-our-own-galaxy/",
-      "pubDate": "2026-10-13T15:00:00.000Z",
-      "image": null,
-      "author": "Richard Talcott",
-      "excerpt": "Glittering star clusters and ruby-colored emission nebulae pepper the star-studded spiral arms of NGC 3137. The galaxy, which spans nearly 140,000 light-years, spills out of this Hubble image’s frame. The nebulae are stellar nurseries, glowing with emission from hydrogen atoms excited by the massive stars forming insid",
-      "source": "Astronomy Magazine"
-    },
-    {
       "title": "Two large asteroids found spinning as fast as a fairground ride",
       "link": "https://www.newscientist.com/article/2593044-two-large-asteroids-found-spinning-as-fast-as-fairground-ride/?utm_campaign=RSS|NSNS&utm_content=space&utm_medium=RSS&utm_source=NSNS",
       "pubDate": "2026-10-09T17:00:00.000Z",
@@ -655,15 +637,6 @@
       "image": null,
       "author": "Leah Crane",
       "excerpt": "The Roman telescope is NASA’s newest space observatory. Every 10 months, it will get the equivalent of about 1000 years' worth of Hubble observations. Will it find the answers to our questions about dark matter and dark energy?",
-      "source": "New Scientist"
-    },
-    {
-      "title": "Impossibly fast-moving stars are revealing the Milky Way’s mysterious heart",
-      "link": "https://www.newscientist.com/article/2590428-impossibly-fast-moving-stars-are-revealing-the-milky-ways-mysterious-heart/?utm_campaign=RSS|NSNS&utm_content=space&utm_medium=RSS&utm_source=NSNS",
-      "pubDate": "2026-10-06T15:00:00.000Z",
-      "image": null,
-      "author": "Leah Crane",
-      "excerpt": "Near the centre of the Milky Way, a swarm of stars hurtles around a supermassive black hole at extraordinary speeds. Studying them could be the key to understanding our galaxy",
       "source": "New Scientist"
     },
     {
@@ -795,6 +768,15 @@
   ],
   "industryNews": [
     {
+      "title": "Lockheed Martin Completes Flight Test of Future Intercontinental Ballistic Missile System Reentry Vehicle\r\n",
+      "link": "https://news.lockheedmartin.com/Lockheed-Martin-Completes-Flight-Test-of-Future-Intercontinental-Ballistic-Missile-System-Reentry-Vehicle",
+      "pubDate": "2026-11-04T19:00:00.000Z",
+      "image": "https://news.lockheedmartin.com/file.php/181658/MK21A.jpg?thumbnail=144",
+      "author": "",
+      "excerpt": "",
+      "source": "Lockheed Martin"
+    },
+    {
       "title": "Avolon Finalizes Order for 140 Boeing 737-10 Jets",
       "link": "https://boeing.mediaroom.com/2026-11-04-Avolon-Finalizes-Order-for-140-Boeing-737-10-Jets",
       "pubDate": "2026-11-04T08:30:00.000Z",
@@ -874,34 +856,106 @@
       "author": "",
       "excerpt": "",
       "source": "Lockheed Martin"
-    },
-    {
-      "title": "Lockheed Martin Closes Ultra Maritime Acquisition",
-      "link": "https://news.lockheedmartin.com/2026-10-26-Lockheed-Martin-Closes-Ultra-Maritime-Acquisition",
-      "pubDate": "2026-10-26T12:00:00.000Z",
-      "image": "https://news.lockheedmartin.com/file.php/184188/Ultra-Maritime-Lockheed-Martin.jpg?thumbnail=144",
-      "author": "",
-      "excerpt": "Acquisition expands Lockheed Martin’s capability and domain expertise in anti-submarine warfare",
-      "source": "Lockheed Martin"
     }
   ],
   "nytNews": [
     {
-      "title": "‘The Beginning of the End of Trumpism’",
-      "link": "https://www.nytimes.com/video/opinion/100000011257707/the-beginning-of-the-end-of-trumpism.html",
-      "pubDate": "2026-11-04T14:25:32.000Z",
-      "image": null,
-      "author": "",
-      "excerpt": "“People hate the way that Trump is running this country,” the columnist Michelle Goldberg argues. Her fellow columnists and the American electorate agree. Democrats had a great night, but what now? Eight Opinion columnists offer their views on what Democrats need to do next, and what Trump’s final two years in office m",
+      "title": "Appeals Court Allows Mamdani to Move Forward with Pied-à-Terre Tax",
+      "link": "https://www.nytimes.com/2026/11/04/nyregion/pied-a-terre-mamdani-appeal-win-home-tax.html",
+      "pubDate": "2026-11-04T21:14:26.000Z",
+      "image": "https://static01.nyt.com/images/2026/11/05/multimedia/05-met-tax-appeal-PRINT/00met-tax-appeal-bwcj-mediumSquareAt3X.jpg",
+      "author": "Mihir Zaveri",
+      "excerpt": "The court reversed a judge’s order that had said New York erred in its rollout of the tax, granting Mayor Zohran Mamdani a victory over a key piece of his agenda.",
       "source": "NYT"
     },
     {
-      "title": "CVS to Split Off Pharmacy Business, Ending the Healthcare Conglomerate Era",
+      "title": "Stocks Rise as Democrats Flip Control of Congress",
+      "link": "https://www.nytimes.com/2026/11/04/business/midterm-elections-stock-market.html",
+      "pubDate": "2026-11-04T21:14:25.000Z",
+      "image": "https://static01.nyt.com/images/2026/11/03/multimedia/03biz-midterms-stocks-mjvc/03biz-midterms-stocks-mjvc-mediumSquareAt3X.jpg",
+      "author": "Sui-Lee Wee, Aruni Soni, Eshe Nelson and Joe Rennison",
+      "excerpt": "Markets traded higher as investors foresaw gridlock in Washington, typically a bullish signal.",
+      "source": "NYT"
+    },
+    {
+      "title": "SpaceX and Tesla Stocks Tumble After Elon Musk-Backed Candidates Lose in Texas",
+      "link": "https://www.nytimes.com/2026/11/04/business/musk-elections-spacex-tesla-stocks.html",
+      "pubDate": "2026-11-04T20:52:52.000Z",
+      "image": "https://static01.nyt.com/images/2026/11/04/multimedia/04biz-midterms-musk-market-wqlv/04biz-midterms-musk-market-wqlv-mediumSquareAt3X.jpg",
+      "author": "Ryan Mac and Jack Ewing",
+      "excerpt": "The world’s richest person has antagonized Democrats, some of whom have signaled their intent to investigate him when they take control of Congress.",
+      "source": "NYT"
+    },
+    {
+      "title": "Trump Wanted Democrats to Win",
+      "link": "https://www.nytimes.com/2026/11/04/opinion/trump-democrats-midterms.html",
+      "pubDate": "2026-11-04T20:00:07.000Z",
+      "image": "https://static01.nyt.com/images/2026/11/03/04cottle-cfbj-cover/04cottle-cfbj-cover-mediumSquareAt3X-v2.jpg",
+      "author": "Michelle Cottle",
+      "excerpt": "The president loves combat and chaos. He’s about to get more of it.",
+      "source": "NYT"
+    },
+    {
+      "title": "With Democrats’ Sweep, Congress Is Set to Reassert Power to Check Trump",
+      "link": "https://www.nytimes.com/2026/11/04/us/politics/democrats-house-senate-congress-trump.html",
+      "pubDate": "2026-11-04T19:51:04.000Z",
+      "image": "https://static01.nyt.com/images/2026/11/04/multimedia/04dc-cong-assess-zlwj/04dc-cong-assess-zlwj-mediumSquareAt3X.jpg",
+      "author": "Carl Hulse",
+      "excerpt": "President Trump usurped power from the legislative branch with Republican help for two years. Democrats are now positioned to try to claw back some of Congress’s prerogatives.",
+      "source": "NYT"
+    },
+    {
+      "title": "On the Democrats’ Agenda: Investigations of Trump and His Family",
+      "link": "https://www.nytimes.com/2026/11/04/us/trump-family-investigations-democrats.html",
+      "pubDate": "2026-11-04T19:38:05.000Z",
+      "image": "https://static01.nyt.com/images/2026/11/04/us/04dc-trump-investigations-1/04dc-trump-investigations-1-mediumSquareAt3X.jpg",
+      "author": "Ben Protess, Michael Gold and Andrew Duehren",
+      "excerpt": "When a new Congress is sworn in, it will have the power to hold hearings and issue subpoenas, prompting one representative to advise White House officials and others to “lawyer up.”",
+      "source": "NYT"
+    },
+    {
+      "title": "CVS to Split Off Drugstore Business, Ending Its Bigger-Is-Better Era",
       "link": "https://www.nytimes.com/2026/11/04/business/cvs-health-split.html",
-      "pubDate": "2026-11-04T14:09:00.000Z",
+      "pubDate": "2026-11-04T17:44:43.000Z",
       "image": "https://static01.nyt.com/images/2026/11/04/multimedia/04biz-cvs-breakup-zpcw/04biz-cvs-breakup-zpcw-mediumSquareAt3X.jpg",
-      "author": "Rebecca Robbins",
-      "excerpt": "In a breakup planned for 2028, CVS Health intends to split off its pharmacies into a new company, while keeping together its businesses in insurance and pharmacy benefits.",
+      "author": "Rebecca Robbins and Reed Abelson",
+      "excerpt": "In a breakup planned for 2028, CVS Health intends to keep together its insurance and pharmacy benefits divisions and create a separate company for its pharmacies.",
+      "source": "NYT"
+    },
+    {
+      "title": "The Southwest Is Parched. Can the Recent Floodwaters Quench It?",
+      "link": "https://www.nytimes.com/2026/11/03/climate/floods-arizona-colorado-river-water.html",
+      "pubDate": "2026-11-04T17:01:11.000Z",
+      "image": "https://static01.nyt.com/images/2026/11/03/multimedia/03cli-floods-01-flkh/03cli-floods-01-flkh-mediumSquareAt3X-v2.jpg",
+      "author": "Scott Dance",
+      "excerpt": "A series of storms has added to reservoirs in the Colorado River basin, but the long-term water outlook remains bleak.",
+      "source": "NYT"
+    },
+    {
+      "title": "Trump Has Been Thumped. That Doesn’t Make Him Any Less Dangerous.",
+      "link": "https://www.nytimes.com/2026/11/04/opinion/trump-midterms-democracy-threats.html",
+      "pubDate": "2026-11-04T16:00:06.000Z",
+      "image": "https://static01.nyt.com/images/2026/11/04/multimedia/04bouie-hcgp/04bouie-hcgp-mediumSquareAt3X.jpg",
+      "author": "Jamelle Bouie",
+      "excerpt": "Breathe easy. For a minute.",
+      "source": "NYT"
+    },
+    {
+      "title": "Could a Viral Video Save Her Mom’s Chinese Restaurant?",
+      "link": "https://www.nytimes.com/2026/11/04/world/europe/chinese-restaurant-edinburgh-viral-social-media.html",
+      "pubDate": "2026-11-04T15:15:05.000Z",
+      "image": "https://static01.nyt.com/images/2026/10/20/multimedia/20xp-restaurant-promo-wpgl/20xp-restaurant-promo-wpgl-mediumSquareAt3X.jpg",
+      "author": "Isabella Kwai",
+      "excerpt": "Millions viewed Lisa He’s post about her mother’s struggling business in Edinburgh. But internet fame created its own complications — and obscured bigger questions.",
+      "source": "NYT"
+    },
+    {
+      "title": "Five Things to Know About Hakeem Jeffries",
+      "link": "https://www.nytimes.com/2026/11/04/us/politics/hakeem-jeffries-what-to-know.html",
+      "pubDate": "2026-11-04T15:06:03.000Z",
+      "image": "https://static01.nyt.com/images/2026/11/03/multimedia/00dc-hfo-jeffries-fivethings-fpwb/00dc-hfo-jeffries-fivethings-fpwb-mediumSquareAt3X.jpg",
+      "author": "Annie Karni",
+      "excerpt": "The New York Democrat who is in line to be the first Black speaker was raised in Brooklyn, is a moderate who is cautious by nature and loves a hip-hop reference.",
       "source": "NYT"
     },
     {
@@ -914,60 +968,6 @@
       "source": "NYT"
     },
     {
-      "title": "More Iranians Call for Nuclear Weapons After War With U.S.",
-      "link": "https://www.nytimes.com/2026/11/03/world/europe/iran-nuclear-weapons-war.html",
-      "pubDate": "2026-11-04T13:17:49.000Z",
-      "image": "https://static01.nyt.com/images/2026/11/03/multimedia/00int-iran-nuclear-01-kgpq/00int-iran-nuclear-01-kgpq-mediumSquareAt3X.jpg",
-      "author": "Erika Solomon",
-      "excerpt": "Some Iranian clerics and officials argue the country must rebuild deterrence by dropping its longstanding pledge not to build a nuclear bomb.",
-      "source": "NYT"
-    },
-    {
-      "title": "Democrats Take Congress in a Landslide, and Trump Says He’s ‘Willing to Accept Those Results’",
-      "link": "https://www.nytimes.com/2026/11/04/podcasts/the-headlines/midterm-election-results.html",
-      "pubDate": "2026-11-04T12:32:11.000Z",
-      "image": "https://static01.nyt.com/images/2026/11/04/multimedia/04theheadlines-dems-hlzq/04theheadlines-dems-hlzq-mediumSquareAt3X.jpg",
-      "author": "Tracy Mumford, Will Jarvis, Margaret Kadifa, Jake Lucas, J. David Goodman and Reid J. Epstein",
-      "excerpt": "Plus, how to vote from space.",
-      "source": "NYT"
-    },
-    {
-      "title": "How the Stock Market Is Reacting to the Midterm Elections",
-      "link": "https://www.nytimes.com/2026/11/04/business/midterm-elections-stock-market.html",
-      "pubDate": "2026-11-04T12:18:04.000Z",
-      "image": "https://static01.nyt.com/images/2026/11/03/multimedia/03biz-midterms-stocks-mjvc/03biz-midterms-stocks-mjvc-mediumSquareAt3X.jpg",
-      "author": "Sui-Lee Wee, Aruni Soni and Eshe Nelson",
-      "excerpt": "Global markets fell as the first results came in, but later traded higher as investors assessed the outlook for policy as the balance of power shifted sharply in Washington.",
-      "source": "NYT"
-    },
-    {
-      "title": "Musk Faces Setback as SpaceX and Tesla Stocks Tumble on Midterm Election Results",
-      "link": "https://www.nytimes.com/2026/11/04/business/musk-elections-spacex-tesla-stocks.html",
-      "pubDate": "2026-11-04T12:14:55.000Z",
-      "image": "https://static01.nyt.com/images/2026/11/04/multimedia/04biz-midterms-musk-market-wqlv/04biz-midterms-musk-market-wqlv-mediumSquareAt3X.jpg",
-      "author": "Ryan Mac",
-      "excerpt": "The world’s richest person has antagonized Democrats, some of whom have signaled their intent to investigate him when they take control of Congress.",
-      "source": "NYT"
-    },
-    {
-      "title": "A Blue Wave",
-      "link": "https://www.nytimes.com/2026/11/04/briefing/a-blue-wave.html",
-      "pubDate": "2026-11-04T12:05:10.000Z",
-      "image": "https://static01.nyt.com/images/2026/11/04/multimedia/04themorning-nl-dem-wave-qbwz/04themorning-nl-dem-wave-qbwz-mediumSquareAt3X.jpg",
-      "author": "Sam Sifton",
-      "excerpt": "In a rebuke to President Trump, the Democrats flipped both the Senate and the House.",
-      "source": "NYT"
-    },
-    {
-      "title": "‘Decency Won’: 9 Writers on the Best and Worst Moments From Trump’s Midterm Rout",
-      "link": "https://www.nytimes.com/2026/11/04/opinion/midterms-democrats-senate-house-results.html",
-      "pubDate": "2026-11-04T11:44:08.000Z",
-      "image": "https://static01.nyt.com/images/2026/11/04/multimedia/04midterms-scorecard-top-ghzp/04midterms-scorecard-top-ghzp-mediumSquareAt3X.jpg",
-      "author": "New York Times Opinion",
-      "excerpt": "What mattered most in these midterms?",
-      "source": "NYT"
-    },
-    {
       "title": "For ‘Dune: Part Three,’ Timothée Chalamet, Zendaya and Friends Weigh in on the Trilogy",
       "link": "https://www.nytimes.com/2026/11/04/movies/dune-part-three-timothee-chalamet-zendaya-robert-pattinson.html",
       "pubDate": "2026-11-04T10:00:33.000Z",
@@ -977,48 +977,12 @@
       "source": "NYT"
     },
     {
-      "title": "Angry Voters Usher in Beginning of the End to the Trump Era",
-      "link": "https://www.nytimes.com/2026/11/04/us/politics/midterm-election-trump-voters.html",
-      "pubDate": "2026-11-04T09:26:24.000Z",
-      "image": "https://static01.nyt.com/images/2026/11/04/multimedia/04dc-trump-assess-kgzh/04dc-trump-assess-kgzh-mediumSquareAt3X.jpg",
-      "author": "Peter Baker",
-      "excerpt": "The electoral backlash extended even into deep red states and indicated that President Trump has lost his hold over the coalition that lifted him to the White House twice.",
-      "source": "NYT"
-    },
-    {
-      "title": "Jimmy Kimmel Rides Election Day’s ‘Blue Tsunami’",
-      "link": "https://www.nytimes.com/2026/11/04/arts/television/jimmy-kimmel-midterm-election-blue-wave.html",
-      "pubDate": "2026-11-04T06:38:16.000Z",
-      "image": null,
-      "author": "Trish Bendix",
-      "excerpt": "“Man, oh man, would I hate to be the DoorDash driver who delivers Trump his Papa Johns tonight,” Kimmel said.",
-      "source": "NYT"
-    },
-    {
-      "title": "Prosecutors Seek to Drop Charges Against Russian Scientist Accused of Smuggling Frog Embryos",
-      "link": "https://www.nytimes.com/2026/11/03/science/petrova-russian-scientist-charges-frog-embryo.html",
-      "pubDate": "2026-11-04T03:44:17.000Z",
-      "image": "https://static01.nyt.com/images/2026/11/03/multimedia/03SCI-PETROVA-DISMISS-topart-01-whtj/03SCI-PETROVA-DISMISS-topart-01-whtj-mediumSquareAt3X.jpg",
-      "author": "Carolyn Y. Johnson",
-      "excerpt": "Kseniia Petrova, a researcher at Harvard, has argued that she was vindictively prosecuted after her arrest in 2025.",
-      "source": "NYT"
-    },
-    {
       "title": "Key Part of Jet in Deadly Florida Crash Found Far From Impact Site",
       "link": "https://www.nytimes.com/2026/11/03/us/florida-plane-crash-wreckage-recovered.html",
       "pubDate": "2026-11-03T23:46:52.000Z",
       "image": "https://static01.nyt.com/images/2026/11/03/multimedia/03nat-crash-1-vbfz/03nat-crash-1-vbfz-mediumSquareAt3X.jpg",
       "author": "Karoun Demirjian and Nicholas Bogel-Burroughs",
       "excerpt": "The mechanism that controls the vertical angle of the plane was found in three pieces, including one nearly four miles away. All nine people aboard were killed.",
-      "source": "NYT"
-    },
-    {
-      "title": "Why Floodwaters Won’t Solve the Southwestern Water Crisis",
-      "link": "https://www.nytimes.com/2026/11/03/climate/floods-arizona-colorado-river-water.html",
-      "pubDate": "2026-11-03T21:06:37.000Z",
-      "image": "https://static01.nyt.com/images/2026/11/03/multimedia/03cli-floods-01-flkh/03cli-floods-01-flkh-mediumSquareAt3X-v2.jpg",
-      "author": "Scott Dance",
-      "excerpt": "A series of storms has added to reservoirs in the Colorado River basin, but the long-term water outlook remains bleak.",
       "source": "NYT"
     }
   ]
