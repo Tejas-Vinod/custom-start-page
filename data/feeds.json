@@ -1,6 +1,33 @@
 {
   "spaceNews": [
     {
+      "title": "Orbital Matter, EnduroSat Announce an In-Space Manufacturing Mission in 2028",
+      "link": "https://payloadspace.com/orbital-matter-endurosat-announce-an-in-space-manufacturing-mission-in-2028/",
+      "pubDate": "2026-11-04T14:00:00.000Z",
+      "image": "https://payloadspace.com/wp-content/uploads/2026/11/OM_news-first-print-camera-200x200.jpg",
+      "author": "Douglas Gorman",
+      "excerpt": "Orbital Matter announced it would partner with EnduroSat for mission in 2028 to deploy a 5 kW solar array with its 3D printing capabilities. The post Orbital Matter, EnduroSat Announce an In-Space Manufacturing Mission in 2028 appeared first on Payload.",
+      "source": "Payload"
+    },
+    {
+      "title": "Starfish Loses Contact with Otter, Cutting SSPICY Short",
+      "link": "https://payloadspace.com/starfish-loses-contact-with-otter-cutting-sspicy-short/",
+      "pubDate": "2026-11-04T13:18:29.000Z",
+      "image": "https://payloadspace.com/wp-content/uploads/2026/11/GEO_OTTER_SOLO_MASTER-1536x864.png-200x200.webp",
+      "author": "Douglas Gorman",
+      "excerpt": "Starfish’s Otter spacecraft has joined the graveyard it was sent to inspect. The post Starfish Loses Contact with Otter, Cutting SSPICY Short appeared first on Payload.",
+      "source": "Payload"
+    },
+    {
+      "title": "Election 2026: Space Winners, Losers, and What’s Next",
+      "link": "https://payloadspace.com/election-2026-space-winners-losers-and-whats-next/",
+      "pubDate": "2026-11-04T12:46:19.000Z",
+      "image": "https://payloadspace.com/wp-content/uploads/2024/11/american-flag-on-station-200x200.webp",
+      "author": "Jacqueline Feldscher",
+      "excerpt": "Forget the blue tsunami. Tuesday night’s election was a blue supernova. The post Election 2026: Space Winners, Losers, and What’s Next appeared first on Payload.",
+      "source": "Payload"
+    },
+    {
       "title": "APOD: 2026 November 4 – The Not-So-Hidden Galaxy, IC 342",
       "link": "https://science.nasa.gov/image-article/apod-2026-november-4-the-not-so-hidden-galaxy-ic-342/",
       "pubDate": "2026-11-04T05:05:00.000Z",
@@ -325,15 +352,6 @@
       "source": "Payload"
     },
     {
-      "title": "Seraphim Space Launches Space Academy",
-      "link": "https://payloadspace.com/seraphim-space-launches-space-academy/",
-      "pubDate": "2026-10-29T09:00:00.000Z",
-      "image": "https://payloadspace.com/wp-content/uploads/2026/10/Seraphim2084-1-200x200.jpg",
-      "author": "Douglas Gorman",
-      "excerpt": "Thinking of going back to school? Seraphim Space is taking applications. The post Seraphim Space Launches Space Academy appeared first on Payload.",
-      "source": "Payload"
-    },
-    {
       "title": "United Launch Alliance announces mid-November return to flight for Vulcan rocket",
       "link": "https://spaceflightnow.com/2026/10/28/united-launch-alliance-announces-mid-november-return-to-flight-for-vulcan-rocket/",
       "pubDate": "2026-10-28T22:46:41.000Z",
@@ -368,24 +386,6 @@
       "author": "Flexell Space",
       "excerpt": "– Two demonstration missions planned aboard SpaceX Falcon 9, one each in 2027 and 2028 – Satoro to provide “Satellite-as-a-service” solution; Flexell Space to supply solar cells and test modules […] The post Flexell Space and Satoro Agree to Collaborate on In-Orbit Demonstration of Next-Generation Space Solar Cells app",
       "source": "SpaceNews"
-    },
-    {
-      "title": "Shield Space Launches UK Space Superiority Coalition",
-      "link": "https://payloadspace.com/shield-space-launches-uk-space-superiority-coalition/",
-      "pubDate": "2026-10-28T13:00:00.000Z",
-      "image": "https://payloadspace.com/wp-content/uploads/2026/10/1782376075703-200x200.jpeg",
-      "author": "Douglas Gorman",
-      "excerpt": "The UK Space Superiority Coalition brings together space companies across the UK in an effort to build a space-based carrier strike force. The post Shield Space Launches UK Space Superiority Coalition appeared first on Payload.",
-      "source": "Payload"
-    },
-    {
-      "title": "Exclusive: Rendezvous Robotics Raises $20M to Develop Self-Assembling Spacecraft",
-      "link": "https://payloadspace.com/exclusive-rendezvous-robotics-raises-20m-to-develop-self-assembling-spacecraft/",
-      "pubDate": "2026-10-28T13:00:00.000Z",
-      "image": "https://payloadspace.com/wp-content/uploads/2026/10/hero-200x200.jpeg",
-      "author": "Douglas Gorman",
-      "excerpt": "Rendezvous Robotics is developing technology to allow future satellites to launch in pieces that can self-assemble in space. The post Exclusive: Rendezvous Robotics Raises $20M to Develop Self-Assembling Spacecraft appeared first on Payload.",
-      "source": "Payload"
     },
     {
       "title": "Ukrainian startup, GomSpace test satellite for future communications network",
@@ -795,6 +795,15 @@
   ],
   "industryNews": [
     {
+      "title": "Avolon Finalizes Order for 140 Boeing 737-10 Jets",
+      "link": "https://boeing.mediaroom.com/2026-11-04-Avolon-Finalizes-Order-for-140-Boeing-737-10-Jets",
+      "pubDate": "2026-11-04T08:30:00.000Z",
+      "image": "https://mmx.prnewswire.com/media/MS2026716/Boeing-Avolon-737.jpg?id=OA3056390&p=thumbnail",
+      "author": "",
+      "excerpt": "",
+      "source": "Boeing"
+    },
+    {
       "title": "Boeing: Travel Demand Propels Middle East Fleet to Double by 2045",
       "link": "https://boeing.mediaroom.com/2026-11-03-Boeing-Travel-Demand-Propels-Middle-East-Fleet-to-Double-by-2045",
       "pubDate": "2026-11-03T14:00:00.000Z",
@@ -867,15 +876,6 @@
       "source": "Lockheed Martin"
     },
     {
-      "title": "Boeing Reports Third Quarter Results",
-      "link": "https://boeing.mediaroom.com/2026-10-27-Boeing-Reports-Third-Quarter-Results",
-      "pubDate": "2026-10-27T11:30:00.000Z",
-      "image": null,
-      "author": "",
-      "excerpt": "",
-      "source": "Boeing"
-    },
-    {
       "title": "Lockheed Martin Closes Ultra Maritime Acquisition",
       "link": "https://news.lockheedmartin.com/2026-10-26-Lockheed-Martin-Closes-Ultra-Maritime-Acquisition",
       "pubDate": "2026-10-26T12:00:00.000Z",
@@ -887,39 +887,120 @@
   ],
   "nytNews": [
     {
-      "title": "Finally. FINALLY. Texas Is Blue.",
-      "link": "https://www.nytimes.com/2026/11/04/opinion/talarico-hinojosa-texas-democrats.html",
-      "pubDate": "2026-11-04T05:49:17.000Z",
-      "image": "https://static01.nyt.com/images/2026/11/03/multimedia/03goldberg-talarico-bw-tight-pfvh/03goldberg-talarico-bw-tight-pfvh-mediumSquareAt3X.jpg",
-      "author": "Michelle Goldberg",
-      "excerpt": "For Republicans, Texas has long been a dependable political anchor. Its loss was a profound psychological blow.",
+      "title": "‘The Beginning of the End of Trumpism’",
+      "link": "https://www.nytimes.com/video/opinion/100000011257707/the-beginning-of-the-end-of-trumpism.html",
+      "pubDate": "2026-11-04T14:25:32.000Z",
+      "image": null,
+      "author": "",
+      "excerpt": "“People hate the way that Trump is running this country,” the columnist Michelle Goldberg argues. Her fellow columnists and the American electorate agree. Democrats had a great night, but what now? Eight Opinion columnists offer their views on what Democrats need to do next, and what Trump’s final two years in office m",
       "source": "NYT"
     },
     {
-      "title": "The American People Have Repudiated Trump",
-      "link": "https://www.nytimes.com/2026/11/03/opinion/democracy-midterms-trump.html",
-      "pubDate": "2026-11-04T05:39:44.000Z",
-      "image": "https://static01.nyt.com/images/2026/11/04/multimedia/04editorial-voting-pclz/04editorial-voting-pclz-mediumSquareAt3X.jpg",
-      "author": "The Editorial Board",
-      "excerpt": "Americans showed that the power to choose their leaders belongs to them. Now they must remain vigilant until officials certify every race and the winners take office.",
+      "title": "CVS to Split Off Pharmacy Business, Ending the Healthcare Conglomerate Era",
+      "link": "https://www.nytimes.com/2026/11/04/business/cvs-health-split.html",
+      "pubDate": "2026-11-04T14:09:00.000Z",
+      "image": "https://static01.nyt.com/images/2026/11/04/multimedia/04biz-cvs-breakup-zpcw/04biz-cvs-breakup-zpcw-mediumSquareAt3X.jpg",
+      "author": "Rebecca Robbins",
+      "excerpt": "In a breakup planned for 2028, CVS Health intends to split off its pharmacies into a new company, while keeping together its businesses in insurance and pharmacy benefits.",
       "source": "NYT"
     },
     {
-      "title": "Trump Says in Interview That He Will Accept Election Results",
-      "link": "https://www.nytimes.com/2026/11/03/us/politics/trump-midterm-election-results.html",
-      "pubDate": "2026-11-04T04:59:14.000Z",
-      "image": "https://static01.nyt.com/images/2026/11/03/multimedia/03dc-trump-top-vhcm/03dc-trump-top-vhcm-mediumSquareAt3X.jpg",
-      "author": "Erica L. Green and Tyler Pager",
-      "excerpt": "In an interview with two Times reporters, President Trump blamed the G.O.P.’s losses on the fact that he was not on the ballot, and said he was willing to work with Democrats.",
+      "title": "Israel’s President Could Play Key Role in Breaking Post-Election Deadlock",
+      "link": "https://www.nytimes.com/2026/11/04/world/middleeast/israel-president-herzog-election-government.html",
+      "pubDate": "2026-11-04T13:18:58.000Z",
+      "image": "https://static01.nyt.com/images/2026/11/04/multimedia/04int-israel-herzog-gbcw/04int-israel-herzog-gbcw-mediumSquareAt3X-v2.jpg",
+      "author": "Isabel Kershner",
+      "excerpt": "President Isaac Herzog has tried to avoid controversy and heal rifts in his largely ceremonial role. But his skills as a savvy mediator could be instrumental after an inconclusive election.",
       "source": "NYT"
     },
     {
-      "title": "Paul Pelosi Prohibited From Driving After Crash in Napa Valley",
-      "link": "https://www.nytimes.com/2026/11/03/us/paul-pelosi-crash-napa-valley-prohibited-driving.html",
-      "pubDate": "2026-11-04T04:09:21.000Z",
-      "image": "https://static01.nyt.com/images/2026/11/03/multimedia/03nat-paul-pelosi-topart-01-thfk/03nat-paul-pelosi-topart-01-thfk-mediumSquareAt3X.jpg",
-      "author": "Soumya Karlamangla",
-      "excerpt": "Nancy Pelosi’s husband was charged with a misdemeanor after he hit a parked car and drove away. He will not be allowed to drive for six months.",
+      "title": "More Iranians Call for Nuclear Weapons After War With U.S.",
+      "link": "https://www.nytimes.com/2026/11/03/world/europe/iran-nuclear-weapons-war.html",
+      "pubDate": "2026-11-04T13:17:49.000Z",
+      "image": "https://static01.nyt.com/images/2026/11/03/multimedia/00int-iran-nuclear-01-kgpq/00int-iran-nuclear-01-kgpq-mediumSquareAt3X.jpg",
+      "author": "Erika Solomon",
+      "excerpt": "Some Iranian clerics and officials argue the country must rebuild deterrence by dropping its longstanding pledge not to build a nuclear bomb.",
+      "source": "NYT"
+    },
+    {
+      "title": "Democrats Take Congress in a Landslide, and Trump Says He’s ‘Willing to Accept Those Results’",
+      "link": "https://www.nytimes.com/2026/11/04/podcasts/the-headlines/midterm-election-results.html",
+      "pubDate": "2026-11-04T12:32:11.000Z",
+      "image": "https://static01.nyt.com/images/2026/11/04/multimedia/04theheadlines-dems-hlzq/04theheadlines-dems-hlzq-mediumSquareAt3X.jpg",
+      "author": "Tracy Mumford, Will Jarvis, Margaret Kadifa, Jake Lucas, J. David Goodman and Reid J. Epstein",
+      "excerpt": "Plus, how to vote from space.",
+      "source": "NYT"
+    },
+    {
+      "title": "How the Stock Market Is Reacting to the Midterm Elections",
+      "link": "https://www.nytimes.com/2026/11/04/business/midterm-elections-stock-market.html",
+      "pubDate": "2026-11-04T12:18:04.000Z",
+      "image": "https://static01.nyt.com/images/2026/11/03/multimedia/03biz-midterms-stocks-mjvc/03biz-midterms-stocks-mjvc-mediumSquareAt3X.jpg",
+      "author": "Sui-Lee Wee, Aruni Soni and Eshe Nelson",
+      "excerpt": "Global markets fell as the first results came in, but later traded higher as investors assessed the outlook for policy as the balance of power shifted sharply in Washington.",
+      "source": "NYT"
+    },
+    {
+      "title": "Musk Faces Setback as SpaceX and Tesla Stocks Tumble on Midterm Election Results",
+      "link": "https://www.nytimes.com/2026/11/04/business/musk-elections-spacex-tesla-stocks.html",
+      "pubDate": "2026-11-04T12:14:55.000Z",
+      "image": "https://static01.nyt.com/images/2026/11/04/multimedia/04biz-midterms-musk-market-wqlv/04biz-midterms-musk-market-wqlv-mediumSquareAt3X.jpg",
+      "author": "Ryan Mac",
+      "excerpt": "The world’s richest person has antagonized Democrats, some of whom have signaled their intent to investigate him when they take control of Congress.",
+      "source": "NYT"
+    },
+    {
+      "title": "A Blue Wave",
+      "link": "https://www.nytimes.com/2026/11/04/briefing/a-blue-wave.html",
+      "pubDate": "2026-11-04T12:05:10.000Z",
+      "image": "https://static01.nyt.com/images/2026/11/04/multimedia/04themorning-nl-dem-wave-qbwz/04themorning-nl-dem-wave-qbwz-mediumSquareAt3X.jpg",
+      "author": "Sam Sifton",
+      "excerpt": "In a rebuke to President Trump, the Democrats flipped both the Senate and the House.",
+      "source": "NYT"
+    },
+    {
+      "title": "‘Decency Won’: 9 Writers on the Best and Worst Moments From Trump’s Midterm Rout",
+      "link": "https://www.nytimes.com/2026/11/04/opinion/midterms-democrats-senate-house-results.html",
+      "pubDate": "2026-11-04T11:44:08.000Z",
+      "image": "https://static01.nyt.com/images/2026/11/04/multimedia/04midterms-scorecard-top-ghzp/04midterms-scorecard-top-ghzp-mediumSquareAt3X.jpg",
+      "author": "New York Times Opinion",
+      "excerpt": "What mattered most in these midterms?",
+      "source": "NYT"
+    },
+    {
+      "title": "For ‘Dune: Part Three,’ Timothée Chalamet, Zendaya and Friends Weigh in on the Trilogy",
+      "link": "https://www.nytimes.com/2026/11/04/movies/dune-part-three-timothee-chalamet-zendaya-robert-pattinson.html",
+      "pubDate": "2026-11-04T10:00:33.000Z",
+      "image": "https://static01.nyt.com/images/2026/11/08/multimedia/08cul-dune-roundtable-promo-hlgz/08cul-dune-roundtable-promo-hlgz-mediumSquareAt3X.jpg",
+      "author": "Eleanor Stanford",
+      "excerpt": "As Denis Villeneuve’s blockbuster series concludes, the cast recalls dealing with desert shoots and wrestling with the story’s moral implications.",
+      "source": "NYT"
+    },
+    {
+      "title": "Angry Voters Usher in Beginning of the End to the Trump Era",
+      "link": "https://www.nytimes.com/2026/11/04/us/politics/midterm-election-trump-voters.html",
+      "pubDate": "2026-11-04T09:26:24.000Z",
+      "image": "https://static01.nyt.com/images/2026/11/04/multimedia/04dc-trump-assess-kgzh/04dc-trump-assess-kgzh-mediumSquareAt3X.jpg",
+      "author": "Peter Baker",
+      "excerpt": "The electoral backlash extended even into deep red states and indicated that President Trump has lost his hold over the coalition that lifted him to the White House twice.",
+      "source": "NYT"
+    },
+    {
+      "title": "Jimmy Kimmel Rides Election Day’s ‘Blue Tsunami’",
+      "link": "https://www.nytimes.com/2026/11/04/arts/television/jimmy-kimmel-midterm-election-blue-wave.html",
+      "pubDate": "2026-11-04T06:38:16.000Z",
+      "image": null,
+      "author": "Trish Bendix",
+      "excerpt": "“Man, oh man, would I hate to be the DoorDash driver who delivers Trump his Papa Johns tonight,” Kimmel said.",
+      "source": "NYT"
+    },
+    {
+      "title": "Prosecutors Seek to Drop Charges Against Russian Scientist Accused of Smuggling Frog Embryos",
+      "link": "https://www.nytimes.com/2026/11/03/science/petrova-russian-scientist-charges-frog-embryo.html",
+      "pubDate": "2026-11-04T03:44:17.000Z",
+      "image": "https://static01.nyt.com/images/2026/11/03/multimedia/03SCI-PETROVA-DISMISS-topart-01-whtj/03SCI-PETROVA-DISMISS-topart-01-whtj-mediumSquareAt3X.jpg",
+      "author": "Carolyn Y. Johnson",
+      "excerpt": "Kseniia Petrova, a researcher at Harvard, has argued that she was vindictively prosecuted after her arrest in 2025.",
       "source": "NYT"
     },
     {
@@ -932,57 +1013,12 @@
       "source": "NYT"
     },
     {
-      "title": "More Iranians Call for Nuclear Weapons After War With U.S.",
-      "link": "https://www.nytimes.com/2026/11/03/world/europe/iran-nuclear-weapons-war.html",
-      "pubDate": "2026-11-03T23:04:05.000Z",
-      "image": "https://static01.nyt.com/images/2026/11/03/multimedia/00int-iran-nuclear-01-kgpq/00int-iran-nuclear-01-kgpq-mediumSquareAt3X.jpg",
-      "author": "Erika Solomon",
-      "excerpt": "Some Iranian clerics and officials argue the country must rebuild deterrence by dropping its longstanding pledge not to build a nuclear bomb.",
-      "source": "NYT"
-    },
-    {
-      "title": "U.S. Assisted Venezuela in Deadly Drone Strike, Officials Say",
-      "link": "https://www.nytimes.com/2026/11/03/world/americas/us-venezuela-strike-eln-drug-trafficking.html",
-      "pubDate": "2026-11-03T23:03:45.000Z",
-      "image": "https://static01.nyt.com/images/2026/11/03/multimedia/03int-venezuela-us-bombing01-photo-vwmt/03int-venezuela-us-bombing01-photo-vwmt-mediumSquareAt3X.jpg",
-      "author": "Annie Correal, Eric Schmitt, Isayen Herrera and Julie Turkewitz",
-      "excerpt": "The attack on a drug-trafficking group killed about two dozen people, a rights group said. It comes as the United States is militarizing the fight against “narcoterrorism” in Latin America.",
-      "source": "NYT"
-    },
-    {
-      "title": "An 80-Cent Plastic Pouch Is Saving Thousands of Women From Dying in Childbirth",
-      "link": "https://www.nytimes.com/2026/11/03/health/maternal-drapes-nigeria-childbirth.html",
-      "pubDate": "2026-11-03T20:57:08.000Z",
-      "image": "https://static01.nyt.com/images/2026/11/02/multimedia/00dc-maternal-drape-husaina-ljbz/00dc-maternal-drape-husaina-ljbz-mediumSquareAt3X.jpg",
-      "author": "Stephanie Nolen and Taiwo Aina",
-      "excerpt": "The maternal drape, as it is called, is helping to solve one of the world’s most intractable health problems.",
-      "source": "NYT"
-    },
-    {
-      "title": "Trump Pushes Venezuela for Agreement Allowing U.S. Troops to Stay",
-      "link": "https://www.nytimes.com/2026/11/03/us/politics/trump-venezuela-troop-agreement.html",
-      "pubDate": "2026-11-03T19:47:00.000Z",
-      "image": "https://static01.nyt.com/images/2026/11/03/multimedia/03dc-venezuela-military-bvkz/03dc-venezuela-military-bvkz-mediumSquareAt3X.jpg",
-      "author": "Edward Wong",
-      "excerpt": "The two countries have long been adversaries, and the United States attacked Venezuela this year, but Secretary of State Marco Rubio is starting talks on a legal agreement.",
-      "source": "NYT"
-    },
-    {
-      "title": "Is Sysco Making Every Restaurant the Same, or Saving Small Business Owners?",
-      "link": "https://www.nytimes.com/2026/11/03/dining/sysco-restaurants-small-business-owners.html",
-      "pubDate": "2026-11-03T17:13:13.000Z",
-      "image": "https://static01.nyt.com/images/2026/11/03/multimedia/03FD-sysco-27-pfjw/03FD-sysco-27-pfjw-mediumSquareAt3X.jpg",
-      "author": "Meghan McCarron",
-      "excerpt": "Depending on whom you ask, the giant food distributor is flattening the way we eat, or helping small business owners survive. Maybe both are true?",
-      "source": "NYT"
-    },
-    {
-      "title": "Investigators Looking for Cause of Learjet Crash Say Ice Was ‘Certainly a Factor’",
-      "link": "https://www.nytimes.com/2026/11/02/science/florida-learjet-crash-causes.html",
-      "pubDate": "2026-11-03T15:55:50.000Z",
-      "image": "https://static01.nyt.com/images/2026/11/02/multimedia/02sci-jet-crash-01-ktfm/02sci-jet-crash-01-ktfm-mediumSquareAt3X.jpg",
-      "author": "Alexander Nazaryan",
-      "excerpt": "Ice, experts said, can change the shape of a plane’s wing, disrupting its aerodynamics.",
+      "title": "Why Floodwaters Won’t Solve the Southwestern Water Crisis",
+      "link": "https://www.nytimes.com/2026/11/03/climate/floods-arizona-colorado-river-water.html",
+      "pubDate": "2026-11-03T21:06:37.000Z",
+      "image": "https://static01.nyt.com/images/2026/11/03/multimedia/03cli-floods-01-flkh/03cli-floods-01-flkh-mediumSquareAt3X-v2.jpg",
+      "author": "Scott Dance",
+      "excerpt": "A series of storms has added to reservoirs in the Colorado River basin, but the long-term water outlook remains bleak.",
       "source": "NYT"
     }
   ]
