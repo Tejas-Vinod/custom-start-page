@@ -1,6 +1,24 @@
 {
   "spaceNews": [
     {
+      "title": "APOD: 2026 November 4 – The Not-So-Hidden Galaxy, IC 342",
+      "link": "https://science.nasa.gov/image-article/apod-2026-november-4-the-not-so-hidden-galaxy-ic-342/",
+      "pubDate": "2026-11-04T05:05:00.000Z",
+      "image": "https://assets.science.nasa.gov/dynamicimage/assets/science/cds/apod/apod/2026/november/ic342.png?w=2048&#038;h=1395&#038;fit=clip&#038;crop=faces%2Cfocalpoint",
+      "author": "",
+      "excerpt": "APOD Science APOD APOD: 2026 November 4 – The… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professio",
+      "source": "NASA"
+    },
+    {
+      "title": "Before the Dawn in America’s Heartland",
+      "link": "https://science.nasa.gov/earth/earth-observatory/before-the-dawn-in-americas-heartland/",
+      "pubDate": "2026-11-04T05:01:00.000Z",
+      "image": "https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2026/before-the-dawn-in-america’s-heartland/ISS075-E-226709.jpg?w=1440&#038;h=960&#038;fit=clip&#038;crop=faces%2Cfocalpoint",
+      "author": "",
+      "excerpt": "With hardly a cloud in sight, astronauts had a sweeping view of nighttime lights in the U.S. Midwest.",
+      "source": "NASA"
+    },
+    {
       "title": "Simera Sense and Spacemanic to Collaborate on a New Complete Dual-Use Mission Solution",
       "link": "https://spacenews.com/simera-sense-and-spacemanic-to-collaborate-on-a-new-complete-dual-use-mission-solution/",
       "pubDate": "2026-11-03T16:59:43.000Z",
@@ -124,24 +142,6 @@
       "image": "https://www.nasa.gov/wp-content/uploads/2026/11/jsc2026e424293orig.jpg?w=2048",
       "author": "HQ Web Team",
       "excerpt": "The four-member Crew Health and Performance Exploration Analog (CHAPEA) crew poses outside for the first time in more than a year following the end of their simulated Mars journey on Oct. 31, 2026. Crew members Matthew Montgomery (left), James Spicer (middle left), Ross Elder (middle right), and Ellen Ellis (right) spe",
-      "source": "NASA"
-    },
-    {
-      "title": "What’s Up: November 2026 Skywatching Tips from NASA",
-      "link": "https://science.nasa.gov/solar-system/skywatching/whats-up-november-2026-skywatching-tips-from-nasa/",
-      "pubDate": "2026-11-02T18:19:58.000Z",
-      "image": "https://science.nasa.gov/wp-content/uploads/2023/07/moonrise-at-vasquez-rocks-credit-nasa-preston-dyches-cc-by-nc-2.0.jpg?w=2048",
-      "author": "",
-      "excerpt": "Meteor Showers, a Spacecraft Milestone, and a Supermoon Catch Taurid and Leonid meteors, spot Mars near Jupiter, celebrate Voyager 1’s light-day milestone, and watch November’s supermoon. Skywatching Highlights Transcript A month of meteor showers … a close pairing of Mars and Jupiter … and a supermoon! That’s What’s U",
-      "source": "NASA"
-    },
-    {
-      "title": "NASA Invites Media to Northrop Grumman CRS-25 Station Resupply Launch",
-      "link": "https://www.nasa.gov/news-release/nasa-invites-media-to-northrop-grumman-crs-25-station-resupply-launch/",
-      "pubDate": "2026-11-02T17:33:22.000Z",
-      "image": "https://images-assets.nasa.gov/image/iss075e0189493/iss075e0189493~large.jpg?w=1920&amp;h=1078&amp;fit=clip&amp;crop=faces%2Cfocalpoint",
-      "author": "Jessica Taveau",
-      "excerpt": "Media accreditation is open for the next launch to deliver NASA science investigations, supplies, and equipment to the International Space Station. A Northrop Grumman Cygnus XL spacecraft will launch in November to the orbital laboratory on a SpaceX Falcon 9 rocket for NASA. The mission is known as NASA’s Northrop Grum",
       "source": "NASA"
     },
     {
@@ -502,15 +502,6 @@
       "image": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/10/Space_Nukes_Logo.jpg?fit=703%2C368&amp;ssl=1",
       "author": "Space Nuclear Power Corporation",
       "excerpt": "LOS ALAMOS, N.M. — October 21, 2026 — Space Nuclear Power Corporation (SpaceNukes) announced today that the Defense Advanced Research Projects Agency (DARPA) has awarded the company an Other Transaction […] The post Space Nuclear Power Corporation Awarded DARPA Agreement for Ground Test of Autonomous Nuclear Reactor Co",
-      "source": "SpaceNews"
-    },
-    {
-      "title": "Summer of Quantum: Building momentum for space-based QKD",
-      "link": "https://spacenews.com/summer-of-quantum-building-momentum-for-space-based-qkd/",
-      "pubDate": "2026-10-21T11:54:30.000Z",
-      "image": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/10/White-CPL-Logo11.png?fit=1024%2C1024&amp;ssl=1",
-      "author": "Craft Prospect",
-      "excerpt": "Glasgow, UK | 21 October 2026 – The pace of development in quantum technologies continues to accelerate, and over the past few months, space engineering company Craft Prospect has been […] The post Summer of Quantum: Building momentum for space-based QKD appeared first on SpaceNews.",
       "source": "SpaceNews"
     },
     {
@@ -896,12 +887,48 @@
   ],
   "nytNews": [
     {
-      "title": "How We Model Election Results With the Needle",
-      "link": "https://www.nytimes.com/video/us/elections/100000011253864/how-we-model-election-results-with-the-needle.html",
-      "pubDate": "2026-11-03T23:12:38.000Z",
-      "image": null,
-      "author": "Nate Cohn, James Surdam, June Kim, Amílcar Cariño Charlemagne, Laura Bult and Claire Hogan",
-      "excerpt": "Our live election night forecast is known as “the Needle.” Nate Cohn, chief political analyst for The New York Times, explains how it works.",
+      "title": "Finally. FINALLY. Texas Is Blue.",
+      "link": "https://www.nytimes.com/2026/11/04/opinion/talarico-hinojosa-texas-democrats.html",
+      "pubDate": "2026-11-04T05:49:17.000Z",
+      "image": "https://static01.nyt.com/images/2026/11/03/multimedia/03goldberg-talarico-bw-tight-pfvh/03goldberg-talarico-bw-tight-pfvh-mediumSquareAt3X.jpg",
+      "author": "Michelle Goldberg",
+      "excerpt": "For Republicans, Texas has long been a dependable political anchor. Its loss was a profound psychological blow.",
+      "source": "NYT"
+    },
+    {
+      "title": "The American People Have Repudiated Trump",
+      "link": "https://www.nytimes.com/2026/11/03/opinion/democracy-midterms-trump.html",
+      "pubDate": "2026-11-04T05:39:44.000Z",
+      "image": "https://static01.nyt.com/images/2026/11/04/multimedia/04editorial-voting-pclz/04editorial-voting-pclz-mediumSquareAt3X.jpg",
+      "author": "The Editorial Board",
+      "excerpt": "Americans showed that the power to choose their leaders belongs to them. Now they must remain vigilant until officials certify every race and the winners take office.",
+      "source": "NYT"
+    },
+    {
+      "title": "Trump Says in Interview That He Will Accept Election Results",
+      "link": "https://www.nytimes.com/2026/11/03/us/politics/trump-midterm-election-results.html",
+      "pubDate": "2026-11-04T04:59:14.000Z",
+      "image": "https://static01.nyt.com/images/2026/11/03/multimedia/03dc-trump-top-vhcm/03dc-trump-top-vhcm-mediumSquareAt3X.jpg",
+      "author": "Erica L. Green and Tyler Pager",
+      "excerpt": "In an interview with two Times reporters, President Trump blamed the G.O.P.’s losses on the fact that he was not on the ballot, and said he was willing to work with Democrats.",
+      "source": "NYT"
+    },
+    {
+      "title": "Paul Pelosi Prohibited From Driving After Crash in Napa Valley",
+      "link": "https://www.nytimes.com/2026/11/03/us/paul-pelosi-crash-napa-valley-prohibited-driving.html",
+      "pubDate": "2026-11-04T04:09:21.000Z",
+      "image": "https://static01.nyt.com/images/2026/11/03/multimedia/03nat-paul-pelosi-topart-01-thfk/03nat-paul-pelosi-topart-01-thfk-mediumSquareAt3X.jpg",
+      "author": "Soumya Karlamangla",
+      "excerpt": "Nancy Pelosi’s husband was charged with a misdemeanor after he hit a parked car and drove away. He will not be allowed to drive for six months.",
+      "source": "NYT"
+    },
+    {
+      "title": "Key Part of Jet in Deadly Florida Crash Found Far From Impact Site",
+      "link": "https://www.nytimes.com/2026/11/03/us/florida-plane-crash-wreckage-recovered.html",
+      "pubDate": "2026-11-03T23:46:52.000Z",
+      "image": "https://static01.nyt.com/images/2026/11/03/multimedia/03nat-crash-1-vbfz/03nat-crash-1-vbfz-mediumSquareAt3X.jpg",
+      "author": "Karoun Demirjian and Nicholas Bogel-Burroughs",
+      "excerpt": "The mechanism that controls the vertical angle of the plane was found in three pieces, including one nearly four miles away. All nine people aboard were killed.",
       "source": "NYT"
     },
     {
@@ -923,39 +950,12 @@
       "source": "NYT"
     },
     {
-      "title": "Chris Murphy, Recovering From a Stroke, Remains Hospitalized on Election Day",
-      "link": "https://www.nytimes.com/2026/11/03/us/chris-murphy-stroke-hospitalization.html",
-      "pubDate": "2026-11-03T22:27:09.000Z",
-      "image": "https://static01.nyt.com/images/2026/11/03/multimedia/03xp-murphy-wghp/03xp-murphy-wghp-mediumSquareAt3X.jpg",
-      "author": "Neil Vigdor",
-      "excerpt": "The Democratic senator from Connecticut, who is 53, began experiencing symptoms while attending his son’s hockey game on Saturday, his office said.",
-      "source": "NYT"
-    },
-    {
-      "title": "Trump Says U.S. to End $4 Billion in Aid to Israel at End of Year",
-      "link": "https://www.nytimes.com/2026/11/03/us/politics/trump-israel-aid-netanyahu.html",
-      "pubDate": "2026-11-03T21:52:37.000Z",
-      "image": "https://static01.nyt.com/images/2026/11/03/us/politics/03vid-trump-israel-aid/03vid-trump-israel-aid-mediumSquareAt3X.jpg",
-      "author": "David E. Sanger",
-      "excerpt": "The president’s announcement on Election Day, which he said was part of an agreement reached months ago, was a sign of how quickly the politics surrounding Israel have shifted.",
-      "source": "NYT"
-    },
-    {
-      "title": "Google Will Turn Off Search for Schools That Reject A.I.",
-      "link": "https://www.nytimes.com/2026/11/03/us/google-search-schools-restrict-ai.html",
-      "pubDate": "2026-11-03T20:53:40.000Z",
-      "image": "https://static01.nyt.com/images/2026/11/04/multimedia/04-nat-google-schools-print/03nat-google-schools-cfkb-mediumSquareAt3X.jpg",
-      "author": "Dana Goldstein and Natasha Singer",
-      "excerpt": "Google is making it easier to restrict its A.I. tools for students. But schools that block A.I. entirely will lose student access to Google’s search engine.",
-      "source": "NYT"
-    },
-    {
-      "title": "Supreme Court to Hear Catholic Schools’ Challenge to Colorado Aid Rules",
-      "link": "https://www.nytimes.com/2026/11/03/us/politics/supreme-court-colorado-catholic-schools-discrimination.html",
-      "pubDate": "2026-11-03T20:03:01.000Z",
-      "image": "https://static01.nyt.com/images/2026/11/03/multimedia/03dc-scotus-preschool-top-kqcv/03dc-scotus-preschool-top-kqcv-mediumSquareAt3X.jpg",
-      "author": "Ann E. Marimow",
-      "excerpt": "The Supreme Court considered whether Catholic preschools in Colorado that decline to enroll families with gay and transgender parents can participate in a state program.",
+      "title": "An 80-Cent Plastic Pouch Is Saving Thousands of Women From Dying in Childbirth",
+      "link": "https://www.nytimes.com/2026/11/03/health/maternal-drapes-nigeria-childbirth.html",
+      "pubDate": "2026-11-03T20:57:08.000Z",
+      "image": "https://static01.nyt.com/images/2026/11/02/multimedia/00dc-maternal-drape-husaina-ljbz/00dc-maternal-drape-husaina-ljbz-mediumSquareAt3X.jpg",
+      "author": "Stephanie Nolen and Taiwo Aina",
+      "excerpt": "The maternal drape, as it is called, is helping to solve one of the world’s most intractable health problems.",
       "source": "NYT"
     },
     {
@@ -968,24 +968,6 @@
       "source": "NYT"
     },
     {
-      "title": "Ken Burns: Why I’m Optimistic About the Midterms",
-      "link": "https://www.nytimes.com/2026/11/03/opinion/midterm-elections-politics-ken-burns.html",
-      "pubDate": "2026-11-03T17:58:52.000Z",
-      "image": "https://static01.nyt.com/images/2026/11/03/multimedia/03burns-mkht/03burns-mkht-mediumSquareAt3X.jpg",
-      "author": "Ken Burns",
-      "excerpt": "There’s something fundamental at stake in the midterms this year, beyond policy differences.",
-      "source": "NYT"
-    },
-    {
-      "title": "Israeli Claims of Iranian Chemical Weapons Divide U.S. Officials",
-      "link": "https://www.nytimes.com/2026/11/03/world/middleeast/iran-chemical-weapons-israel-trump.html",
-      "pubDate": "2026-11-03T17:48:03.000Z",
-      "image": "https://static01.nyt.com/images/2026/11/02/multimedia/02dc-iran-intel-zltq/02dc-iran-intel-zltq-mediumSquareAt3X.jpg",
-      "author": "Julian E. Barnes, Natan Odenheimer, Eric Schmitt, Adam Rasgon and Dustin Volz",
-      "excerpt": "Some administration officials suggested Prime Minister Benjamin Netanyahu is trying to draw President Trump back into military action.",
-      "source": "NYT"
-    },
-    {
       "title": "Is Sysco Making Every Restaurant the Same, or Saving Small Business Owners?",
       "link": "https://www.nytimes.com/2026/11/03/dining/sysco-restaurants-small-business-owners.html",
       "pubDate": "2026-11-03T17:13:13.000Z",
@@ -995,30 +977,12 @@
       "source": "NYT"
     },
     {
-      "title": "Five Telltale Signs of a Democratic Blowout",
-      "link": "https://www.nytimes.com/2026/11/03/opinion/midterms-democrats-republicans-senate.html",
-      "pubDate": "2026-11-03T16:32:58.000Z",
-      "image": "https://static01.nyt.com/images/2026/11/03/opinion/03soltisanderson-image/03soltisanderson-image-mediumSquareAt3X.jpg",
-      "author": "Kristen Soltis Anderson",
-      "excerpt": "The political winds are blowing in Democrats’ direction. The question is: How strong are they?",
-      "source": "NYT"
-    },
-    {
       "title": "Investigators Looking for Cause of Learjet Crash Say Ice Was ‘Certainly a Factor’",
       "link": "https://www.nytimes.com/2026/11/02/science/florida-learjet-crash-causes.html",
       "pubDate": "2026-11-03T15:55:50.000Z",
       "image": "https://static01.nyt.com/images/2026/11/02/multimedia/02sci-jet-crash-01-ktfm/02sci-jet-crash-01-ktfm-mediumSquareAt3X.jpg",
       "author": "Alexander Nazaryan",
       "excerpt": "Ice, experts said, can change the shape of a plane’s wing, disrupting its aerodynamics.",
-      "source": "NYT"
-    },
-    {
-      "title": "A Test for Israeli Democracy: Should Jews Ask Arabs to Join the Government?",
-      "link": "https://www.nytimes.com/2026/11/03/world/middleeast/israel-coalition-arab-lawmakers.html",
-      "pubDate": "2026-11-03T10:03:49.000Z",
-      "image": "https://static01.nyt.com/images/2026/11/03/multimedia/03int-israel-assess01-photo-gqbw/03int-israel-assess01-photo-gqbw-mediumSquareAt3X.jpg",
-      "author": "David M. Halbfinger and Natan Odenheimer",
-      "excerpt": "Arab lawmakers give opponents of Benjamin Netanyahu a clear majority in the Parliament. But many Jewish lawmakers are trying to avoid relying on them.",
       "source": "NYT"
     }
   ]
