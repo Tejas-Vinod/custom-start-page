@@ -1,6 +1,24 @@
 {
   "spaceNews": [
     {
+      "title": "NASA Announces X-70 Experimental Aircraft to Advance Flight Research ",
+      "link": "https://www.nasa.gov/news-release/nasa-announces-x-70-experimental-aircraft-to-advance-flight-research/",
+      "pubDate": "2026-11-05T01:43:21.000Z",
+      "image": "https://www.nasa.gov/wp-content/uploads/2026/11/nasa-x-70-image.png?w=1672",
+      "author": "Cheryl Warner",
+      "excerpt": "On Wednesday, NASA unveiled its newest experimental aircraft, the X-70 Fractal, during the UP.Summit at the agency’s Kennedy Space Center in Florida. This high-performance, highly adaptable research platform is designed to accelerate the development and testing of advanced aviation technologies. The crewed X-70 feature",
+      "source": "NASA"
+    },
+    {
+      "title": "Redwire Wins $20M DARPA Contract for Second VLEO Demo",
+      "link": "https://payloadspace.com/redwire-wins-20m-darpa-contract-for-second-vleo-demo/",
+      "pubDate": "2026-11-05T00:34:48.000Z",
+      "image": "https://payloadspace.com/wp-content/uploads/2026/11/Redwire-SabreSat-Over-Earth-200x200.jpg",
+      "author": "Douglas Gorman",
+      "excerpt": "A group of otters is called a bevy, and DARPA just ordered another round. The post Redwire Wins $20M DARPA Contract for Second VLEO Demo appeared first on Payload.",
+      "source": "Payload"
+    },
+    {
       "title": "NASA Shares Plans to Accelerate Artemis, Return to Moon",
       "link": "https://www.nasa.gov/missions/artemis/nasa-shares-plans-to-accelerate-artemis-return-to-moon/",
       "pubDate": "2026-11-04T21:04:10.000Z",
@@ -151,15 +169,6 @@
       "image": "https://www.nasa.gov/wp-content/uploads/2015/04/tb-26-10-fig-1.png?w=770",
       "author": "Meagan Chappell",
       "excerpt": "For more information, contact Joel W. Sills, Langley Research Center, joel.w.sills@nasa.gov. Download PDF here Chip resistors are widely used in NASA projects, yet cases of alumina substrate cracking during environmental testing are rare. Two instances of thick-film chip resistor cracking were observed during thermal c",
-      "source": "NASA"
-    },
-    {
-      "title": "NASA Astronaut, STEM Creator Connect with Students for STEM Day",
-      "link": "https://www.nasa.gov/learning-resources/nasa-astronaut-stem-creator-connect-with-students-for-stem-day/",
-      "pubDate": "2026-11-03T15:15:50.000Z",
-      "image": "https://www.nasa.gov/wp-content/uploads/2026/11/anil-menon-downlink-nov-3.jpg?w=1280",
-      "author": "Gerelle Q. Dodson",
-      "excerpt": "Students across the country will have the opportunity to connect directly with the International Space Station during a live, interactive in-flight call with NASA astronaut Anil Menon and Mark Rober STEM content creator and founder of ClassCrunchLabs Foundation. The event, hosted by NASA’s Office of STEM Engagement, ce",
       "source": "NASA"
     },
     {
@@ -368,15 +377,6 @@
       "author": "SpaceNews Editor",
       "excerpt": "In this episode, Mike Gruss speaks with Laura Crabtree, the CEO of Epsilon3, who is also a former SpaceX astronaut trainer. They talk about ways that space companies can organize […] The post Advice for optimizing the space industry with Laura Crabtree appeared first on SpaceNews.",
       "source": "SpaceNews"
-    },
-    {
-      "title": "Virgin Galactic Unveils Apeiron, Delays Commercial Flights to Q2 2027",
-      "link": "https://payloadspace.com/virgin-galactic-unveils-apeiron-delays-commercial-flights-to-q2-2027/",
-      "pubDate": "2026-10-29T12:11:04.000Z",
-      "image": "https://payloadspace.com/wp-content/uploads/2026/10/HVuvYjmacAEIoCd-200x200.jpeg",
-      "author": "Victoria Woodburn",
-      "excerpt": "Virgin Galactic introduced Apeiron to the world on Wednesday, drawing from the ancient Greek concept of the boundless in naming its newest spaceship. The post Virgin Galactic Unveils Apeiron, Delays Commercial Flights to Q2 2027 appeared first on Payload.",
-      "source": "Payload"
     },
     {
       "title": "United Launch Alliance announces mid-November return to flight for Vulcan rocket",
@@ -860,84 +860,111 @@
   ],
   "nytNews": [
     {
-      "title": "Appeals Court Allows Mamdani to Move Forward with Pied-à-Terre Tax",
-      "link": "https://www.nytimes.com/2026/11/04/nyregion/pied-a-terre-mamdani-appeal-win-home-tax.html",
-      "pubDate": "2026-11-04T21:14:26.000Z",
-      "image": "https://static01.nyt.com/images/2026/11/05/multimedia/05-met-tax-appeal-PRINT/00met-tax-appeal-bwcj-mediumSquareAt3X.jpg",
-      "author": "Mihir Zaveri",
-      "excerpt": "The court reversed a judge’s order that had said New York erred in its rollout of the tax, granting Mayor Zohran Mamdani a victory over a key piece of his agenda.",
+      "title": "Golden State Valkyries Reign Supreme in San Francisco, a City of Start-Ups",
+      "link": "https://www.nytimes.com/2026/11/04/us/golden-state-valkyries-san-francisco-parade.html",
+      "pubDate": "2026-11-05T02:09:24.000Z",
+      "image": "https://static01.nyt.com/images/2026/11/04/us/04nat-valkyries-sf/04nat-valkyries-sf-mediumSquareAt3X.jpg",
+      "author": "Heather Knight and Lauren Segal",
+      "excerpt": "San Francisco hosted a victory parade on Wednesday for the new W.N.B.A. champions, a team that’s not even two years old but has made the Bay Area swoon.",
       "source": "NYT"
     },
     {
-      "title": "Stocks Rise as Democrats Flip Control of Congress",
-      "link": "https://www.nytimes.com/2026/11/04/business/midterm-elections-stock-market.html",
-      "pubDate": "2026-11-04T21:14:25.000Z",
-      "image": "https://static01.nyt.com/images/2026/11/03/multimedia/03biz-midterms-stocks-mjvc/03biz-midterms-stocks-mjvc-mediumSquareAt3X.jpg",
-      "author": "Sui-Lee Wee, Aruni Soni, Eshe Nelson and Joe Rennison",
-      "excerpt": "Markets traded higher as investors foresaw gridlock in Washington, typically a bullish signal.",
+      "title": "Inside Team Trump’s Historic Collapse in the 2026 Midterm Elections",
+      "link": "https://www.nytimes.com/2026/11/04/us/politics/trump-midterms-losses-republicans.html",
+      "pubDate": "2026-11-05T02:02:47.000Z",
+      "image": "https://static01.nyt.com/images/2026/11/04/multimedia/04pol-midterms-ticktok-top-01-kcwp/04pol-midterms-ticktok-top-01-kcwp-mediumSquareAt3X.jpg",
+      "author": "Shane Goldmacher, Jonathan Swan and Maggie Haberman",
+      "excerpt": "How an unpopular president and an unpopular war provided an opening for Democrats to make sweeping gains in the midterms.",
       "source": "NYT"
     },
     {
-      "title": "SpaceX and Tesla Stocks Tumble After Elon Musk-Backed Candidates Lose in Texas",
-      "link": "https://www.nytimes.com/2026/11/04/business/musk-elections-spacex-tesla-stocks.html",
-      "pubDate": "2026-11-04T20:52:52.000Z",
-      "image": "https://static01.nyt.com/images/2026/11/04/multimedia/04biz-midterms-musk-market-wqlv/04biz-midterms-musk-market-wqlv-mediumSquareAt3X.jpg",
-      "author": "Ryan Mac and Jack Ewing",
-      "excerpt": "The world’s richest person has antagonized Democrats, some of whom have signaled their intent to investigate him when they take control of Congress.",
+      "title": "The Bell Tolls for Trumpism",
+      "link": "https://www.nytimes.com/2026/11/04/opinion/ezra-klein-podcast-aaron-retica-midterm-2026.html",
+      "pubDate": "2026-11-05T01:44:22.000Z",
+      "image": "https://static01.nyt.com/images/2026/11/04/opinion/04eks-midterm-image/04eks-midterm-image-mediumSquareAt3X.jpg",
+      "author": "Ezra Klein, Rollin Hu and Jack McCordick",
+      "excerpt": "Ezra Klein and Aaron Retica react to the Democratic Party’s major midterm victory.",
+      "source": "NYT"
+    },
+    {
+      "title": "Trump Wrestles With New Reality: A Lame Duck With Two Years Left to Fight",
+      "link": "https://www.nytimes.com/2026/11/04/us/politics/trump-new-role-lame-duck.html",
+      "pubDate": "2026-11-05T01:08:24.000Z",
+      "image": "https://static01.nyt.com/images/2026/11/04/multimedia/04dc-trump-future-wplz/04dc-trump-future-wplz-mediumSquareAt3X.jpg",
+      "author": "Katie Rogers",
+      "excerpt": "After a decade at the center of American politics, President Trump is politically wounded, with diminished power. Those who know him say the next two years will be unpredictable.",
+      "source": "NYT"
+    },
+    {
+      "title": "Trump Administration Moves to Oust Arbitrators as Doctor Payouts Soar",
+      "link": "https://www.nytimes.com/2026/11/04/health/arbitrators-medical-bills.html",
+      "pubDate": "2026-11-05T00:01:15.000Z",
+      "image": "https://static01.nyt.com/images/2026/11/04/multimedia/04dc-arbitators-jwgf/04dc-arbitators-jwgf-mediumSquareAt3X.jpg",
+      "author": "Margot Sanger-Katz and Sarah Kliff",
+      "excerpt": "The two companies settled billing disputes between doctors and insurers, keeping patients out of the middle. One let doctors win 96 percent of the time.",
+      "source": "NYT"
+    },
+    {
+      "title": "Justice Alito Will Not Retire From Supreme Court Immediately, Despite Election Outcome",
+      "link": "https://www.nytimes.com/2026/11/04/us/politics/alito-trump-supreme-court-not-retiring.html",
+      "pubDate": "2026-11-04T23:44:50.000Z",
+      "image": "https://static01.nyt.com/images/2026/11/05/multimedia/05dc-scotus-alito-wqvp/05dc-scotus-alito-wqvp-mediumSquareAt3X.jpg",
+      "author": "Ann E. Marimow",
+      "excerpt": "The conservative justice has told friends he does not plan to step down before the end of the court’s term, even as Democrats are set to seize the Senate in January.",
+      "source": "NYT"
+    },
+    {
+      "title": "Beverly Whipple Has Died. She Introduced the G-Spot to the Mainstream.",
+      "link": "https://www.nytimes.com/2026/11/04/science/beverly-whipple-g-spot-dead.html",
+      "pubDate": "2026-11-04T23:03:06.000Z",
+      "image": "https://static01.nyt.com/images/2026/11/04/obituaries/04whipple_top/04whipple_top-mediumSquareAt3X.jpg",
+      "author": "Randi Hutter Epstein",
+      "excerpt": "Dr. Whipple studied the female erogenous zone and, with collaborators, wrote a best seller about women’s sexuality. She was 85.",
+      "source": "NYT"
+    },
+    {
+      "title": "The Blame Game Begins",
+      "link": "https://www.nytimes.com/2026/11/04/briefing/midterm-election-results-congress-power.html",
+      "pubDate": "2026-11-04T22:43:58.000Z",
+      "image": "https://static01.nyt.com/images/2026/11/04/multimedia/04evening-nl-blame-game-wczp/04evening-nl-blame-game-wczp-mediumSquareAt3X.jpg",
+      "author": "Matthew Cullen",
+      "excerpt": "Also, Democrats will have a huge majority in the House. Here’s the latest at the end of Wednesday.",
+      "source": "NYT"
+    },
+    {
+      "title": "Trump Emerges After the Midterms: ‘Did You Guys See the Helipad?’",
+      "link": "https://www.nytimes.com/2026/11/04/us/trump-midterms-ballroom.html",
+      "pubDate": "2026-11-04T22:43:44.000Z",
+      "image": "https://static01.nyt.com/images/2026/11/04/multimedia/04dc-scene-top-jgfk/04dc-scene-top-jgfk-mediumSquareAt3X.jpg",
+      "author": "Shawn McCreesh",
+      "excerpt": "His party just suffered a drubbing unseen in decades. But the president, leading a tour of his ballroom project, was placid and eager to wax on about construction instead.",
       "source": "NYT"
     },
     {
       "title": "Trump Wanted Democrats to Win",
       "link": "https://www.nytimes.com/2026/11/04/opinion/trump-democrats-midterms.html",
-      "pubDate": "2026-11-04T20:00:07.000Z",
+      "pubDate": "2026-11-04T22:32:07.000Z",
       "image": "https://static01.nyt.com/images/2026/11/03/04cottle-cfbj-cover/04cottle-cfbj-cover-mediumSquareAt3X-v2.jpg",
       "author": "Michelle Cottle",
       "excerpt": "The president loves combat and chaos. He’s about to get more of it.",
       "source": "NYT"
     },
     {
-      "title": "With Democrats’ Sweep, Congress Is Set to Reassert Power to Check Trump",
-      "link": "https://www.nytimes.com/2026/11/04/us/politics/democrats-house-senate-congress-trump.html",
-      "pubDate": "2026-11-04T19:51:04.000Z",
-      "image": "https://static01.nyt.com/images/2026/11/04/multimedia/04dc-cong-assess-zlwj/04dc-cong-assess-zlwj-mediumSquareAt3X.jpg",
-      "author": "Carl Hulse",
-      "excerpt": "President Trump usurped power from the legislative branch with Republican help for two years. Democrats are now positioned to try to claw back some of Congress’s prerogatives.",
+      "title": "Retracing the Night Katie Suarez Was Attacked During Her Jog in Brooklyn",
+      "link": "https://www.nytimes.com/2026/11/04/nyregion/katie-suarez-stabbing-brooklyn-jogger-nyc.html",
+      "pubDate": "2026-11-04T22:03:02.000Z",
+      "image": "https://static01.nyt.com/images/2026/12/03/multimedia/03met-brooklyn-stabbing-promo/03met-brooklyn-stabbing-hzfp-mediumSquareAt3X.jpg",
+      "author": "Chelsia Rose Marcius, Nate Schweber and Dave Sanders",
+      "excerpt": "Katie Suarez was a regular runner on a desolate stretch of the Brooklyn waterfront. On Friday, her parents went looking for her after she stopped returning phone calls.",
       "source": "NYT"
     },
     {
-      "title": "On the Democrats’ Agenda: Investigations of Trump and His Family",
-      "link": "https://www.nytimes.com/2026/11/04/us/trump-family-investigations-democrats.html",
-      "pubDate": "2026-11-04T19:38:05.000Z",
-      "image": "https://static01.nyt.com/images/2026/11/04/us/04dc-trump-investigations-1/04dc-trump-investigations-1-mediumSquareAt3X.jpg",
-      "author": "Ben Protess, Michael Gold and Andrew Duehren",
-      "excerpt": "When a new Congress is sworn in, it will have the power to hold hearings and issue subpoenas, prompting one representative to advise White House officials and others to “lawyer up.”",
-      "source": "NYT"
-    },
-    {
-      "title": "CVS to Split Off Drugstore Business, Ending Its Bigger-Is-Better Era",
-      "link": "https://www.nytimes.com/2026/11/04/business/cvs-health-split.html",
-      "pubDate": "2026-11-04T17:44:43.000Z",
-      "image": "https://static01.nyt.com/images/2026/11/04/multimedia/04biz-cvs-breakup-zpcw/04biz-cvs-breakup-zpcw-mediumSquareAt3X.jpg",
-      "author": "Rebecca Robbins and Reed Abelson",
-      "excerpt": "In a breakup planned for 2028, CVS Health intends to keep together its insurance and pharmacy benefits divisions and create a separate company for its pharmacies.",
-      "source": "NYT"
-    },
-    {
-      "title": "The Southwest Is Parched. Can the Recent Floodwaters Quench It?",
-      "link": "https://www.nytimes.com/2026/11/03/climate/floods-arizona-colorado-river-water.html",
-      "pubDate": "2026-11-04T17:01:11.000Z",
-      "image": "https://static01.nyt.com/images/2026/11/03/multimedia/03cli-floods-01-flkh/03cli-floods-01-flkh-mediumSquareAt3X-v2.jpg",
-      "author": "Scott Dance",
-      "excerpt": "A series of storms has added to reservoirs in the Colorado River basin, but the long-term water outlook remains bleak.",
-      "source": "NYT"
-    },
-    {
-      "title": "Trump Has Been Thumped. That Doesn’t Make Him Any Less Dangerous.",
-      "link": "https://www.nytimes.com/2026/11/04/opinion/trump-midterms-democracy-threats.html",
-      "pubDate": "2026-11-04T16:00:06.000Z",
-      "image": "https://static01.nyt.com/images/2026/11/04/multimedia/04bouie-hcgp/04bouie-hcgp-mediumSquareAt3X.jpg",
-      "author": "Jamelle Bouie",
-      "excerpt": "Breathe easy. For a minute.",
+      "title": "Appeals Court Allows Mamdani to Move Forward with Pied-à-Terre Tax",
+      "link": "https://www.nytimes.com/2026/11/04/nyregion/pied-a-terre-mamdani-appeal-win-home-tax.html",
+      "pubDate": "2026-11-04T21:30:52.000Z",
+      "image": "https://static01.nyt.com/images/2026/11/05/multimedia/05-met-tax-appeal-PRINT/00met-tax-appeal-bwcj-mediumSquareAt3X.jpg",
+      "author": "Mihir Zaveri",
+      "excerpt": "The court reversed a judge’s order that had said New York erred in its rollout of the tax, granting Mayor Zohran Mamdani a victory over a key piece of his agenda.",
       "source": "NYT"
     },
     {
@@ -950,24 +977,6 @@
       "source": "NYT"
     },
     {
-      "title": "Five Things to Know About Hakeem Jeffries",
-      "link": "https://www.nytimes.com/2026/11/04/us/politics/hakeem-jeffries-what-to-know.html",
-      "pubDate": "2026-11-04T15:06:03.000Z",
-      "image": "https://static01.nyt.com/images/2026/11/03/multimedia/00dc-hfo-jeffries-fivethings-fpwb/00dc-hfo-jeffries-fivethings-fpwb-mediumSquareAt3X.jpg",
-      "author": "Annie Karni",
-      "excerpt": "The New York Democrat who is in line to be the first Black speaker was raised in Brooklyn, is a moderate who is cautious by nature and loves a hip-hop reference.",
-      "source": "NYT"
-    },
-    {
-      "title": "Israel’s President Could Play Key Role in Breaking Post-Election Deadlock",
-      "link": "https://www.nytimes.com/2026/11/04/world/middleeast/israel-president-herzog-election-government.html",
-      "pubDate": "2026-11-04T13:18:58.000Z",
-      "image": "https://static01.nyt.com/images/2026/11/04/multimedia/04int-israel-herzog-gbcw/04int-israel-herzog-gbcw-mediumSquareAt3X-v2.jpg",
-      "author": "Isabel Kershner",
-      "excerpt": "President Isaac Herzog has tried to avoid controversy and heal rifts in his largely ceremonial role. But his skills as a savvy mediator could be instrumental after an inconclusive election.",
-      "source": "NYT"
-    },
-    {
       "title": "For ‘Dune: Part Three,’ Timothée Chalamet, Zendaya and Friends Weigh in on the Trilogy",
       "link": "https://www.nytimes.com/2026/11/04/movies/dune-part-three-timothee-chalamet-zendaya-robert-pattinson.html",
       "pubDate": "2026-11-04T10:00:33.000Z",
@@ -977,12 +986,12 @@
       "source": "NYT"
     },
     {
-      "title": "Key Part of Jet in Deadly Florida Crash Found Far From Impact Site",
-      "link": "https://www.nytimes.com/2026/11/03/us/florida-plane-crash-wreckage-recovered.html",
-      "pubDate": "2026-11-03T23:46:52.000Z",
-      "image": "https://static01.nyt.com/images/2026/11/03/multimedia/03nat-crash-1-vbfz/03nat-crash-1-vbfz-mediumSquareAt3X.jpg",
-      "author": "Karoun Demirjian and Nicholas Bogel-Burroughs",
-      "excerpt": "The mechanism that controls the vertical angle of the plane was found in three pieces, including one nearly four miles away. All nine people aboard were killed.",
+      "title": "Inside the Golden State Valkyries, the Most Valuable Team in Women’s Sports",
+      "link": "https://www.nytimes.com/2025/09/14/us/valkyries-wnba-playoffs.html",
+      "pubDate": "2025-09-14T12:00:29.000Z",
+      "image": "https://static01.nyt.com/images/2025/09/14/multimedia/14nat-valkyries-players-promo/14nat-valkyries-players-grid-4-qthv-mediumSquareAt3X-v2.jpg",
+      "author": "Heather Knight and Gabriela Bhaskar",
+      "excerpt": "Expectations were low for the Golden State Valkyries, the W.N.B.A.’s first expansion team in 17 years, but they captivated Bay Area sports fans and surprised the league by securing a playoff spot in their first season.",
       "source": "NYT"
     }
   ]
