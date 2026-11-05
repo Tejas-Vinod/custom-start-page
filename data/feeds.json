@@ -1,6 +1,24 @@
 {
   "spaceNews": [
     {
+      "title": "APOD: 2026 November 5 – Enceladus in Silhouette",
+      "link": "https://science.nasa.gov/image-article/apod-2026-november-5-enceladus-in-silhouette/",
+      "pubDate": "2026-11-05T05:05:00.000Z",
+      "image": "https://assets.science.nasa.gov/dynamicimage/assets/science/cds/apod/apod/2026/november/PIA17144EnceladusPandora.png?w=982&#038;h=575&#038;fit=clip&#038;crop=faces%2Cfocalpoint",
+      "author": "",
+      "excerpt": "APOD Science APOD APOD: 2026 November 5 –… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional ",
+      "source": "NASA"
+    },
+    {
+      "title": "Cyprus: Island of Snakes, Cats, and Ophiolites",
+      "link": "https://science.nasa.gov/earth/earth-observatory/cyprus-island-of-snakes-cats-and-ophiolites/",
+      "pubDate": "2026-11-05T05:01:00.000Z",
+      "image": "https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2026/island-of-snakes,-cats,-and-ophiolites/akrotirisaltlake_oli_20261010.jpg?w=1880&#038;h=1253&#038;fit=clip&#038;crop=faces%2Cfocalpoint",
+      "author": "",
+      "excerpt": "The third-largest island in the Mediterranean Sea exposes an ancient piece of the ocean floor and hosts a clowder of cats.",
+      "source": "NASA"
+    },
+    {
       "title": "NASA Announces X-70 Experimental Aircraft to Advance Flight Research ",
       "link": "https://www.nasa.gov/news-release/nasa-announces-x-70-experimental-aircraft-to-advance-flight-research/",
       "pubDate": "2026-11-05T01:43:21.000Z",
@@ -145,15 +163,6 @@
       "source": "SpaceNews"
     },
     {
-      "title": "Astronaut and Earth",
-      "link": "https://www.nasa.gov/image-article/astronaut-and-earth/",
-      "pubDate": "2026-11-03T16:37:42.000Z",
-      "image": "https://www.nasa.gov/wp-content/uploads/2026/11/iss075e0253663orig.jpg?w=2048",
-      "author": "HQ Web Team",
-      "excerpt": "CSA (Canadian Space Agency) astronaut Joshua Kutryk is pictured during the Oct. 29, 2026, spacewalk. The International Space Station was soaring 267 miles above the South Atlantic Ocean at the time of this photograph. Kutryk and NASA astronaut Anil Menon installed a new roll-out solar array on the space station and per",
-      "source": "NASA"
-    },
-    {
       "title": "What to Watch on Election Night",
       "link": "https://payloadspace.com/what-to-watch-on-election-night/",
       "pubDate": "2026-11-03T15:51:20.000Z",
@@ -161,15 +170,6 @@
       "author": "Jacqueline Feldscher",
       "excerpt": "Here are the top things I’ll be paying attention to over my election-night pizza—a cheat sheet of what to watch as it relates to space. The post What to Watch on Election Night appeared first on Payload.",
       "source": "Payload"
-    },
-    {
-      "title": "TB 26-10 Printed Circuit Board Assembly Chip Resistor Body Cracking",
-      "link": "https://www.nasa.gov/centers-and-facilities/nesc/tb-26-10-printed-circuit-board-assembly-chip-resistor-body-cracking/",
-      "pubDate": "2026-11-03T15:35:14.000Z",
-      "image": "https://www.nasa.gov/wp-content/uploads/2015/04/tb-26-10-fig-1.png?w=770",
-      "author": "Meagan Chappell",
-      "excerpt": "For more information, contact Joel W. Sills, Langley Research Center, joel.w.sills@nasa.gov. Download PDF here Chip resistors are widely used in NASA projects, yet cases of alumina substrate cracking during environmental testing are rare. Two instances of thick-film chip resistor cracking were observed during thermal c",
-      "source": "NASA"
     },
     {
       "title": "Exclusive: Sceye Signs Deal to Fly HAPS Fleet for SoftBank",
@@ -860,6 +860,78 @@
   ],
   "nytNews": [
     {
+      "title": "First, France Had Riots and Protests. Now It’s Bracing for a General Strike.",
+      "link": "https://www.nytimes.com/2026/11/05/world/europe/france-protests-general-strike.html",
+      "pubDate": "2026-11-05T10:06:44.000Z",
+      "image": "https://static01.nyt.com/images/2026/11/05/multimedia/05int-france-protests-vjhc/05int-france-protests-vjhc-mediumSquareAt3X.jpg",
+      "author": "Mark Landler and Ségolène Le Stradic",
+      "excerpt": "More than 220 demonstrations are expected to take place across the country on Thursday, escalating weeks of protests against the rising cost of living.",
+      "source": "NYT"
+    },
+    {
+      "title": "$400 Million Lost. SpaceX Stock Tanking. Elon Musk Had a Tough Election Night.",
+      "link": "https://www.nytimes.com/2026/11/05/opinion/elon-musk-midterms-trump-results.html",
+      "pubDate": "2026-11-05T10:05:02.000Z",
+      "image": "https://static01.nyt.com/images/2026/11/05/multimedia/05goldberg-fjvq/05goldberg-fjvq-mediumSquareAt3X.jpg",
+      "author": "Michelle Goldberg",
+      "excerpt": "The vote was an epic rebuke of Silicon Valley.",
+      "source": "NYT"
+    },
+    {
+      "title": "Vance, in Break With Trump, Blames Iran War for Republicans’ 2026 Midterm Losses",
+      "link": "https://www.nytimes.com/2026/11/04/us/politics/vance-iran-war-midterms-trump.html",
+      "pubDate": "2026-11-05T09:27:04.000Z",
+      "image": "https://static01.nyt.com/images/2026/11/04/multimedia/04dc-vance-tkpf/04dc-vance-tkpf-mediumSquareAt3X.jpg",
+      "author": "Tyler Pager",
+      "excerpt": "The vice president offered his striking critique of the administration’s agenda and messaging with Mr. Trump’s apparent approval.",
+      "source": "NYT"
+    },
+    {
+      "title": "Late Night Gets Carried Away by the Blue Wave",
+      "link": "https://www.nytimes.com/2026/11/05/arts/television/latenight-midterms-blue-wave.html",
+      "pubDate": "2026-11-05T07:57:32.000Z",
+      "image": null,
+      "author": "Trish Bendix",
+      "excerpt": "“There’s going to be so many Republicans leaving the Capitol it will look like a reverse January 6,” Jimmy Fallon said after Democrats swept the midterm elections.",
+      "source": "NYT"
+    },
+    {
+      "title": "Joshua Wong, Hong Kong Democracy Activist, Is Sentenced to 10 Years in Prison",
+      "link": "https://www.nytimes.com/2026/11/04/world/asia/joshua-wong-hong-kong-sentenced.html",
+      "pubDate": "2026-11-05T06:56:25.000Z",
+      "image": "https://static01.nyt.com/images/2026/10/02/multimedia/00int-hongkong-joshua-hlwt/00int-hongkong-joshua-hlwt-mediumSquareAt3X.jpg",
+      "author": "Tiffany May",
+      "excerpt": "Mr. Wong, one of the most high-profile members of a movement that was quashed in 2020, was accused of conspiracy to collude with foreign forces, a national security offense.",
+      "source": "NYT"
+    },
+    {
+      "title": "Inside Team Trump’s Historic Collapse in the 2026 Midterm Elections",
+      "link": "https://www.nytimes.com/2026/11/04/us/politics/trump-midterms-losses-republicans.html",
+      "pubDate": "2026-11-05T04:11:05.000Z",
+      "image": "https://static01.nyt.com/images/2026/11/04/multimedia/04pol-midterms-ticktok-top-01-kcwp/04pol-midterms-ticktok-top-01-kcwp-mediumSquareAt3X.jpg",
+      "author": "Shane Goldmacher, Jonathan Swan and Maggie Haberman",
+      "excerpt": "How an unpopular president and an unpopular war provided an opening for Democrats to make sweeping gains in the midterms.",
+      "source": "NYT"
+    },
+    {
+      "title": "Trump Administration Moves to Oust Arbitrators as Doctor Payouts Soar",
+      "link": "https://www.nytimes.com/2026/11/04/health/arbitrators-medical-bills.html",
+      "pubDate": "2026-11-05T03:51:21.000Z",
+      "image": "https://static01.nyt.com/images/2026/11/04/multimedia/04dc-arbitators-jwgf/04dc-arbitators-jwgf-mediumSquareAt3X.jpg",
+      "author": "Margot Sanger-Katz and Sarah Kliff",
+      "excerpt": "The two companies settled billing disputes between doctors and insurers, keeping patients out of the middle. One let doctors win 96 percent of the time.",
+      "source": "NYT"
+    },
+    {
+      "title": "The Bell Tolls for Trumpism",
+      "link": "https://www.nytimes.com/2026/11/04/opinion/ezra-klein-podcast-aaron-retica-midterm-2026.html",
+      "pubDate": "2026-11-05T03:08:10.000Z",
+      "image": "https://static01.nyt.com/images/2026/11/04/opinion/04eks-midterm-image/04eks-midterm-image-mediumSquareAt3X.jpg",
+      "author": "Ezra Klein, Rollin Hu and Jack McCordick",
+      "excerpt": "Ezra Klein and Aaron Retica react to the Democratic Party’s major midterm victory.",
+      "source": "NYT"
+    },
+    {
       "title": "Golden State Valkyries Reign Supreme in San Francisco, a City of Start-Ups",
       "link": "https://www.nytimes.com/2026/11/04/us/golden-state-valkyries-san-francisco-parade.html",
       "pubDate": "2026-11-05T02:09:24.000Z",
@@ -869,39 +941,12 @@
       "source": "NYT"
     },
     {
-      "title": "Inside Team Trump’s Historic Collapse in the 2026 Midterm Elections",
-      "link": "https://www.nytimes.com/2026/11/04/us/politics/trump-midterms-losses-republicans.html",
-      "pubDate": "2026-11-05T02:02:47.000Z",
-      "image": "https://static01.nyt.com/images/2026/11/04/multimedia/04pol-midterms-ticktok-top-01-kcwp/04pol-midterms-ticktok-top-01-kcwp-mediumSquareAt3X.jpg",
-      "author": "Shane Goldmacher, Jonathan Swan and Maggie Haberman",
-      "excerpt": "How an unpopular president and an unpopular war provided an opening for Democrats to make sweeping gains in the midterms.",
-      "source": "NYT"
-    },
-    {
-      "title": "The Bell Tolls for Trumpism",
-      "link": "https://www.nytimes.com/2026/11/04/opinion/ezra-klein-podcast-aaron-retica-midterm-2026.html",
-      "pubDate": "2026-11-05T01:44:22.000Z",
-      "image": "https://static01.nyt.com/images/2026/11/04/opinion/04eks-midterm-image/04eks-midterm-image-mediumSquareAt3X.jpg",
-      "author": "Ezra Klein, Rollin Hu and Jack McCordick",
-      "excerpt": "Ezra Klein and Aaron Retica react to the Democratic Party’s major midterm victory.",
-      "source": "NYT"
-    },
-    {
       "title": "Trump Wrestles With New Reality: A Lame Duck With Two Years Left to Fight",
       "link": "https://www.nytimes.com/2026/11/04/us/politics/trump-new-role-lame-duck.html",
       "pubDate": "2026-11-05T01:08:24.000Z",
       "image": "https://static01.nyt.com/images/2026/11/04/multimedia/04dc-trump-future-wplz/04dc-trump-future-wplz-mediumSquareAt3X.jpg",
       "author": "Katie Rogers",
       "excerpt": "After a decade at the center of American politics, President Trump is politically wounded, with diminished power. Those who know him say the next two years will be unpredictable.",
-      "source": "NYT"
-    },
-    {
-      "title": "Trump Administration Moves to Oust Arbitrators as Doctor Payouts Soar",
-      "link": "https://www.nytimes.com/2026/11/04/health/arbitrators-medical-bills.html",
-      "pubDate": "2026-11-05T00:01:15.000Z",
-      "image": "https://static01.nyt.com/images/2026/11/04/multimedia/04dc-arbitators-jwgf/04dc-arbitators-jwgf-mediumSquareAt3X.jpg",
-      "author": "Margot Sanger-Katz and Sarah Kliff",
-      "excerpt": "The two companies settled billing disputes between doctors and insurers, keeping patients out of the middle. One let doctors win 96 percent of the time.",
       "source": "NYT"
     },
     {
@@ -923,15 +968,6 @@
       "source": "NYT"
     },
     {
-      "title": "The Blame Game Begins",
-      "link": "https://www.nytimes.com/2026/11/04/briefing/midterm-election-results-congress-power.html",
-      "pubDate": "2026-11-04T22:43:58.000Z",
-      "image": "https://static01.nyt.com/images/2026/11/04/multimedia/04evening-nl-blame-game-wczp/04evening-nl-blame-game-wczp-mediumSquareAt3X.jpg",
-      "author": "Matthew Cullen",
-      "excerpt": "Also, Democrats will have a huge majority in the House. Here’s the latest at the end of Wednesday.",
-      "source": "NYT"
-    },
-    {
       "title": "Trump Emerges After the Midterms: ‘Did You Guys See the Helipad?’",
       "link": "https://www.nytimes.com/2026/11/04/us/trump-midterms-ballroom.html",
       "pubDate": "2026-11-04T22:43:44.000Z",
@@ -941,39 +977,12 @@
       "source": "NYT"
     },
     {
-      "title": "Trump Wanted Democrats to Win",
-      "link": "https://www.nytimes.com/2026/11/04/opinion/trump-democrats-midterms.html",
-      "pubDate": "2026-11-04T22:32:07.000Z",
-      "image": "https://static01.nyt.com/images/2026/11/03/04cottle-cfbj-cover/04cottle-cfbj-cover-mediumSquareAt3X-v2.jpg",
-      "author": "Michelle Cottle",
-      "excerpt": "The president loves combat and chaos. He’s about to get more of it.",
-      "source": "NYT"
-    },
-    {
       "title": "Retracing the Night Katie Suarez Was Attacked During Her Jog in Brooklyn",
       "link": "https://www.nytimes.com/2026/11/04/nyregion/katie-suarez-stabbing-brooklyn-jogger-nyc.html",
       "pubDate": "2026-11-04T22:03:02.000Z",
       "image": "https://static01.nyt.com/images/2026/12/03/multimedia/03met-brooklyn-stabbing-promo/03met-brooklyn-stabbing-hzfp-mediumSquareAt3X.jpg",
       "author": "Chelsia Rose Marcius, Nate Schweber and Dave Sanders",
       "excerpt": "Katie Suarez was a regular runner on a desolate stretch of the Brooklyn waterfront. On Friday, her parents went looking for her after she stopped returning phone calls.",
-      "source": "NYT"
-    },
-    {
-      "title": "Appeals Court Allows Mamdani to Move Forward with Pied-à-Terre Tax",
-      "link": "https://www.nytimes.com/2026/11/04/nyregion/pied-a-terre-mamdani-appeal-win-home-tax.html",
-      "pubDate": "2026-11-04T21:30:52.000Z",
-      "image": "https://static01.nyt.com/images/2026/11/05/multimedia/05-met-tax-appeal-PRINT/00met-tax-appeal-bwcj-mediumSquareAt3X.jpg",
-      "author": "Mihir Zaveri",
-      "excerpt": "The court reversed a judge’s order that had said New York erred in its rollout of the tax, granting Mayor Zohran Mamdani a victory over a key piece of his agenda.",
-      "source": "NYT"
-    },
-    {
-      "title": "Could a Viral Video Save Her Mom’s Chinese Restaurant?",
-      "link": "https://www.nytimes.com/2026/11/04/world/europe/chinese-restaurant-edinburgh-viral-social-media.html",
-      "pubDate": "2026-11-04T15:15:05.000Z",
-      "image": "https://static01.nyt.com/images/2026/10/20/multimedia/20xp-restaurant-promo-wpgl/20xp-restaurant-promo-wpgl-mediumSquareAt3X.jpg",
-      "author": "Isabella Kwai",
-      "excerpt": "Millions viewed Lisa He’s post about her mother’s struggling business in Edinburgh. But internet fame created its own complications — and obscured bigger questions.",
       "source": "NYT"
     },
     {
