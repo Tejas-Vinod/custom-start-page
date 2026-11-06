@@ -1,6 +1,42 @@
 {
   "spaceNews": [
     {
+      "title": "The Sky This Week from November 6 to 13: Venus in the spotlight",
+      "link": "https://www.astronomy.com/the-sky-this-week/the-sky-this-week-from-november-6-to-13-2026/",
+      "pubDate": "2026-11-06T06:00:00.000Z",
+      "image": null,
+      "author": "Alison Klesman",
+      "excerpt": "Friday, November 6The waning Moon leaves us with perfect skies for deep-sky observing. Let’s kick off the week with a bright planetary nebula in Aquarius: NGC 7293, commonly known as the Helix Nebula. Despite its impressive magnitude of 7.3, the Helix presents a challenge: It is a broad 13’ across, which spreads its li",
+      "source": "Astronomy Magazine"
+    },
+    {
+      "title": "APOD: 2026 November 6 – A Farewell to Swift",
+      "link": "https://science.nasa.gov/image-article/apod-2026-november-6-a-farewell-to-swift/",
+      "pubDate": "2026-11-06T05:05:00.000Z",
+      "image": "https://assets.science.nasa.gov/dynamicimage/assets/science/cds/apod/apod/2026/november/Swift_Millionth_Image_Mosaic.jpg?w=2048&#038;h=1460&#038;fit=clip&#038;crop=faces%2Cfocalpoint",
+      "author": "",
+      "excerpt": "APOD Science APOD APOD: 2026 November 6 – A… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professiona",
+      "source": "NASA"
+    },
+    {
+      "title": "Taking a Gander at Utah’s Goosenecks",
+      "link": "https://science.nasa.gov/earth/earth-observatory/taking-a-gander-at-utahs-goosenecks/",
+      "pubDate": "2026-11-06T05:01:00.000Z",
+      "image": "https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2026/taking-a-gander-at-utah’s-goosenecks/ISS075-E-188830.jpg?w=2048&#038;h=1365&#038;fit=clip&#038;crop=faces%2Cfocalpoint",
+      "author": "",
+      "excerpt": "The San Juan River has carved deep, improbably curvy meanders into the desert landscape.",
+      "source": "NASA"
+    },
+    {
+      "title": "CesiumAstro Raises $730M, Reaches Valuation Above $4.5B",
+      "link": "https://payloadspace.com/cesiumastro-raises-730m-reaches-valuation-above-4-5b/",
+      "pubDate": "2026-11-06T01:43:16.000Z",
+      "image": "https://payloadspace.com/wp-content/uploads/2026/11/IMG_5633-200x200.jpg",
+      "author": "Douglas Gorman and Victoria Woodburn",
+      "excerpt": "CesiumAstro plans to build and deploy a new constellation—called Synchronicity—consisting of 737 satellites, deployed with the help of a recently closed $730M financing round. The post CesiumAstro Raises $730M, Reaches Valuation Above $4.5B appeared first on Payload.",
+      "source": "Payload"
+    },
+    {
       "title": "Blue Origin reveals new kick stage, engines for its New Glenn rockets",
       "link": "https://spaceflightnow.com/2026/11/05/blue-origin-reveals-new-kick-stage-engines-for-its-new-glenn-rockets/",
       "pubDate": "2026-11-05T22:34:58.000Z",
@@ -217,24 +253,6 @@
       "source": "New Scientist"
     },
     {
-      "title": "NASA Navigation Experiment Shows Promise for Planetary Landings",
-      "link": "https://www.nasa.gov/centers-and-facilities/armstrong/nasa-navigation-experiment-shows-promise-for-planetary-landings/",
-      "pubDate": "2026-11-04T16:52:43.000Z",
-      "image": "https://images-assets.nasa.gov/image/AFRC2026-0152-30/AFRC2026-0152-30~large.jpg?w=1920&amp;h=1280&amp;fit=clip&amp;crop=faces%2Cfocalpoint",
-      "author": "Dede Dinius",
-      "excerpt": "NASA successfully demonstrated technology designed to help spacecraft autonomously navigate to safe landing sites on the Moon and on other planets. An Alta-X drone equipped with the agency’s Safe and Precise Landing – Integrated Capabilities Evolution (SPLICE) guidance, navigation, and control payload completed simulat",
-      "source": "NASA"
-    },
-    {
-      "title": "NASA Space Grant Students Fuel Agency’s Inspiration Tour",
-      "link": "https://www.nasa.gov/learning-resources/nasa-space-grant-students-fuel-agencys-inspiration-tour/",
-      "pubDate": "2026-11-04T16:16:41.000Z",
-      "image": "https://www.nasa.gov/wp-content/uploads/2026/11/2097409090238472611.png?w=962",
-      "author": "Sandra May",
-      "excerpt": "NASA’s Inspiration Tour spread the excitement of space exploration and aeronautical innovation by connecting the public, industry, and academia with the people, technologies, and organizations that drive American leadership in space. At nearly every stop across the country, NASA Space Grant has brought students into th",
-      "source": "NASA"
-    },
-    {
       "title": "Orbital Matter, EnduroSat Announce an In-Space Manufacturing Mission in 2028",
       "link": "https://payloadspace.com/orbital-matter-endurosat-announce-an-in-space-manufacturing-mission-in-2028/",
       "pubDate": "2026-11-04T14:00:00.000Z",
@@ -415,15 +433,6 @@
       "source": "New Scientist"
     },
     {
-      "title": "Telesat Stays Quiet on C$2.4B GEO Debt Due in December",
-      "link": "https://payloadspace.com/telesat-stays-quiet-on-c2-4b-geo-debt-due-in-december/",
-      "pubDate": "2026-10-30T12:00:00.000Z",
-      "image": "https://payloadspace.com/wp-content/uploads/2026/10/inset-image-telstar18-vantage-200x200.jpg",
-      "author": "Victoria Woodburn",
-      "excerpt": "Telesat CEO Dan Goldberg told analysts the company was “pretty constrained” in what it could say about refinancing its legacy GEO debt. The post Telesat Stays Quiet on C$2.4B GEO Debt Due in December appeared first on Payload.",
-      "source": "Payload"
-    },
-    {
       "title": "Read an extract from Dark Eden by Chris Beckett",
       "link": "https://www.newscientist.com/article/2596432-read-an-extract-from-dark-eden-by-chris-beckett/?utm_campaign=RSS|NSNS&utm_content=space&utm_medium=RSS&utm_source=NSNS",
       "pubDate": "2026-10-30T09:30:00.000Z",
@@ -574,15 +583,6 @@
       "image": null,
       "author": "Brooks Mendenhall",
       "excerpt": "Just as we use latitude and longitude to know the precise position of something on Earth’s surface, it’s useful to have a system for knowing the position of objects in the heavens. The widely used system of right ascension and declination does the job — and dates back at least to the time of HipparchusContinue reading ",
-      "source": "Astronomy Magazine"
-    },
-    {
-      "title": "JWST tours Orion’s hidden stellar nursery",
-      "link": "https://www.astronomy.com/science/jwst-tours-orions-hidden-stellar-nursery/",
-      "pubDate": "2026-10-20T16:36:55.000Z",
-      "image": null,
-      "author": "Richard Talcott",
-      "excerpt": "Few sights thrill backyard observers as much as the Orion Nebula (M42). The brightest stellar nursery visible from mid-northern latitudes resolves into a complex web of luminous gas and dusty tendrils even through modest telescopes. And at its core, you’ll see the brilliant young stars of the Trapezium Cluster that pro",
       "source": "Astronomy Magazine"
     },
     {
@@ -878,30 +878,156 @@
   ],
   "nytNews": [
     {
+      "title": "Trump’s Triumphal Arch Wins Commission Approval Despite Court Challenges",
+      "link": "https://www.nytimes.com/2026/11/05/us/politics/trump-triumphal-arch-planning-commission.html",
+      "pubDate": "2026-11-06T06:14:09.000Z",
+      "image": "https://static01.nyt.com/images/2026/09/24/multimedia/05dc-arch/24dc-trump-security-p1-gwmp-mediumSquareAt3X.jpg",
+      "author": "Luke Broadwater, Zach Montague and Emily Badger",
+      "excerpt": "The judge acted swiftly after a federal planning board led by the president’s allies approved Trump’s 250-foot arch project on Thursday.",
+      "source": "NYT"
+    },
+    {
+      "title": "12 Planes in 12 Days: Pope Begins Major Latin America Tour, Weeks After Surgery",
+      "link": "https://www.nytimes.com/2026/11/06/world/europe/12-planes-in-12-days-pope-begins-major-latin-america-tour-weeks-after-surgery.html",
+      "pubDate": "2026-11-06T05:01:24.000Z",
+      "image": "https://static01.nyt.com/images/2026/11/06/multimedia/06int-pope-latam-01-qlvc/06int-pope-latam-01-qlvc-mediumSquareAt3X.jpg",
+      "author": "Motoko Rich",
+      "excerpt": "Pope Leo XIV’s tour of Uruguay, Argentina and Peru is his first major trip since an operation on his lung last month.",
+      "source": "NYT"
+    },
+    {
+      "title": "Pope Leo’s Trip to Latin America: What to Know",
+      "link": "https://www.nytimes.com/2026/11/06/world/americas/pope-leo-uruguay-argentina-peru.html",
+      "pubDate": "2026-11-06T05:01:17.000Z",
+      "image": "https://static01.nyt.com/images/2026/11/06/multimedia/06int-pope-latam-wtk01-photo-cjbl/06int-pope-latam-wtk01-photo-cjbl-mediumSquareAt3X.jpg",
+      "author": "Motoko Rich, Emma Bubola and Julie Turkewitz",
+      "excerpt": "Less than a month after lung surgery, Pope Leo XIV is landing in Uruguay on Friday, the first stop of a 12-day voyage across South America.",
+      "source": "NYT"
+    },
+    {
+      "title": "In French City Hit by Terrorist Attack, Residents Blame Far-Right Rhetoric",
+      "link": "https://www.nytimes.com/2026/11/06/world/europe/france-shooting-trappes.html",
+      "pubDate": "2026-11-06T05:01:16.000Z",
+      "image": "https://static01.nyt.com/images/2026/11/05/multimedia/00int-france-shooting-01-hfwq/00int-france-shooting-01-hfwq-mediumSquareAt3X.jpg",
+      "author": "Ségolène Le Stradic",
+      "excerpt": "In Trappes, a suburb of Paris with a large immigrant population, residents believe that a shooting rampage was fueled by years of anti-immigrant sentiment.",
+      "source": "NYT"
+    },
+    {
+      "title": "A Summit in China With Trump and Putin? That Might be Awkward for Xi.",
+      "link": "https://www.nytimes.com/2026/11/06/world/asia/china-trump-putin-xi-summit.html",
+      "pubDate": "2026-11-06T05:01:11.000Z",
+      "image": "https://static01.nyt.com/images/2026/11/06/multimedia/06int-china-trilateral-01-tcfb/06int-china-trilateral-01-tcfb-mediumSquareAt3X.jpg",
+      "author": "David Pierson and Berry Wang",
+      "excerpt": "A summit could bolster Xi Jinping’s stature. But talks about Ukraine’s future and limits on nuclear weapons pose uncomfortable choices for China.",
+      "source": "NYT"
+    },
+    {
+      "title": "Nithya Raman Wins Los Angeles Mayoral Race, Defeating Karen Bass",
+      "link": "https://www.nytimes.com/2026/11/05/us/la-mayor-raman-bass.html",
+      "pubDate": "2026-11-06T03:35:27.000Z",
+      "image": "https://static01.nyt.com/images/2026/11/04/multimedia/04nat-lamayor-raman-zjvb/04nat-lamayor-raman-zjvb-mediumSquareAt3X.jpg",
+      "author": "Shawn Hubler, Jill Cowan and Orlando Mayorquín",
+      "excerpt": "The 45-year-old City Council member defeated the incumbent mayor, Karen Bass, 73, a sweeping success for a new generation of progressive leaders.",
+      "source": "NYT"
+    },
+    {
       "title": "Trump Tried to Undermine the Nation’s Elections. It Didn’t Work.",
       "link": "https://www.nytimes.com/2026/11/05/us/election-deniers-midterms-trump.html",
-      "pubDate": "2026-11-06T00:05:01.000Z",
+      "pubDate": "2026-11-06T02:47:36.000Z",
       "image": "https://static01.nyt.com/images/2026/11/05/multimedia/05pol-election-integrity-01-phqv/05pol-election-integrity-01-phqv-mediumSquareAt3X.jpg",
       "author": "Richard Fausset and Nick Corasaniti",
       "excerpt": "Millions of Americans cast their ballots on Tuesday in an election that showed the resiliency of democracy. The president said he would accept the results.",
       "source": "NYT"
     },
     {
-      "title": "Watch Live: What the Midterm Elections Are Telling Us About 2028",
-      "link": "https://www.nytimes.com/2026/11/05/opinion/midterm-election-trump-bouie-cottle-french.html",
-      "pubDate": "2026-11-05T23:55:45.000Z",
-      "image": "https://static01.nyt.com/images/2026/11/05/opinion/05opinions-bpl-live/05opinions-bpl-live-mediumSquareAt3X.png",
-      "author": "Jamelle Bouie, Michelle Cottle, David French and Derek Arthur",
-      "excerpt": "Live from the Brooklyn Public Library, Jamelle Bouie, Michelle Cottle and David French discuss the midterm election results and look ahead to 2028.",
+      "title": "The Many Meanings of James Talarico’s Winning Cowboy Boots",
+      "link": "https://www.nytimes.com/2026/11/05/style/james-talarico-cowboy-boots-texas-senate-race.html",
+      "pubDate": "2026-11-06T02:25:16.000Z",
+      "image": "https://static01.nyt.com/images/2026/10/29/multimedia/29TALARICO-LUCCHESE-btkz/29TALARICO-LUCCHESE-btkz-mediumSquareAt3X.jpg",
+      "author": "Vanessa Friedman",
+      "excerpt": "Obviously, the Texas election was about more than shoes. But the symbolism mattered.",
       "source": "NYT"
     },
     {
-      "title": "In Alaska, Ranked-Choice Ballots Are Unlikely to Be Enough for Dan Sullivan",
-      "link": "https://www.nytimes.com/2026/11/05/us/alaska-ranked-choice-data-sullivan-peltola.html",
-      "pubDate": "2026-11-05T23:16:42.000Z",
-      "image": "https://static01.nyt.com/images/2026/11/05/multimedia/05EA-ALASKA-RCV-ANALYSIS-SUB-kcjz/05EA-ALASKA-RCV-ANALYSIS-SUB-kcjz-mediumSquareAt3X-v2.jpg",
-      "author": "Christine Zhang and Luke Vrotsos",
-      "excerpt": "An analysis shows Mary Peltola is likely to keep her lead in the Senate race in part because of ballots she’d accumulate in ranked-choice tabulation from supporters of the other Dan Sullivan.",
+      "title": "6 Killed in Sunset Park Blaze: NYC’s Deadliest Fire This Year",
+      "link": "https://www.nytimes.com/2026/11/05/nyregion/brooklyn-fire-sunset-park.html",
+      "pubDate": "2026-11-06T02:18:11.000Z",
+      "image": "https://static01.nyt.com/images/2026/11/05/nyregion/05xp-fire1-promo/05xp-fire1-promo-mediumSquareAt3X.jpg",
+      "author": "Emma G. Fitzsimmons, Andrea Barnes, David Cheung and Christopher Maag",
+      "excerpt": "Six people died in a blaze at a home in Sunset Park, the deadliest fire in the city this year. The cause is not yet clear, but Mayor Zohran Mamdani raised concerns about electric bikes.",
+      "source": "NYT"
+    },
+    {
+      "title": "Harmeet Dhillon, Leader of Justice Department’s Civil Rights Unit, Resigns",
+      "link": "https://www.nytimes.com/2026/11/05/us/politics/harmeet-dhillon-resigns-doj-civil-rights-unit.html",
+      "pubDate": "2026-11-06T01:36:29.000Z",
+      "image": "https://static01.nyt.com/images/2026/11/05/multimedia/dc-dhillon-gbkh/dc-dhillon-gbkh-mediumSquareAt3X.jpg",
+      "author": "Glenn Thrush, Michael C. Bender and Alan Feuer",
+      "excerpt": "The move came after conflicts with Justice Department leaders, including disagreements over legal strategy in the midterm elections, people familiar with the matter said.",
+      "source": "NYT"
+    },
+    {
+      "title": "Trump Moves to Make Oval Office a National Monument",
+      "link": "https://www.nytimes.com/2026/11/05/us/politics/trump-oval-office-national-monument.html",
+      "pubDate": "2026-11-06T01:24:38.000Z",
+      "image": "https://static01.nyt.com/images/2026/11/05/multimedia/05dc-trump-tzcf/05dc-trump-tzcf-mediumSquareAt3X.jpg",
+      "author": "Erica L. Green",
+      "excerpt": "The president’s announcement reinforced his post-midterm elections preoccupation on White House renovation projects.",
+      "source": "NYT"
+    },
+    {
+      "title": "DOJ Steps Up Leak Investigation on Supreme Court Decision Overturning Roe v. Wade",
+      "link": "https://www.nytimes.com/2026/11/05/us/politics/supreme-court-trump-abortion-leak-dobbs.html",
+      "pubDate": "2026-11-06T01:10:29.000Z",
+      "image": "https://static01.nyt.com/images/2026/11/04/multimedia/00dc-scotus-investigation-top-pwtb/00dc-scotus-investigation-top-pwtb-mediumSquareAt3X.jpg",
+      "author": "Jodi Kantor and Michael S. Schmidt",
+      "excerpt": "Investigators, using subpoenas and other law enforcement powers, are accelerating an inquiry that takes the Trump administration into the inner workings of the court.",
+      "source": "NYT"
+    },
+    {
+      "title": "In Tight Mississippi Senate Race, Votes Are Carefully Scrutinized",
+      "link": "https://www.nytimes.com/2026/11/05/us/mississippi-senate-colom-hydesmith-votes.html",
+      "pubDate": "2026-11-06T01:03:27.000Z",
+      "image": "https://static01.nyt.com/images/2026/11/05/multimedia/05nat-mississippi-senate-01-fbjg/05nat-mississippi-senate-01-fbjg-mediumSquareAt3X.jpg",
+      "author": "Emily Cochrane and Campbell Robertson",
+      "excerpt": "A phalanx of lawyers, observers and campaign officials are watching the counting of votes in the race for Senate, where a Democratic challenger has a slim lead.",
+      "source": "NYT"
+    },
+    {
+      "title": "Stocks Erase Post-Midterm Elections Rally, Dragged Down by Tech",
+      "link": "https://www.nytimes.com/2026/11/05/business/stocks-midterms-artificial-intelligence.html",
+      "pubDate": "2026-11-06T00:48:29.000Z",
+      "image": null,
+      "author": "Joe Rennison",
+      "excerpt": "The S&P 500 slumped to its worst daily decline since April 2025 and the tech-heavy Nasdaq entered correction territory, as investors fretted about the durability of the A.I. build-out.",
+      "source": "NYT"
+    },
+    {
+      "title": "Newsom Commutes the Sentences of California’s 548 Death Row Inmates",
+      "link": "https://www.nytimes.com/2026/11/05/us/california-death-row-newsom-commutation.html",
+      "pubDate": "2026-11-06T00:44:34.000Z",
+      "image": "https://static01.nyt.com/images/2026/11/05/multimedia/05nat-newsom-deathpenalty-zjql/05nat-newsom-deathpenalty-zjql-mediumSquareAt3X.jpg",
+      "author": "Laurel Rosenhall",
+      "excerpt": "Gov. Gavin Newsom, who is considering a run for president, called capital punishment morally objectionable. Though California hasn’t executed anyone for 20 years, that represents about a quarter of death sentences nationwide.",
+      "source": "NYT"
+    },
+    {
+      "title": "Elon Musk’s Very Bad Night",
+      "link": "https://www.nytimes.com/2026/11/05/opinion/elon-musk-midterms-trump-results.html",
+      "pubDate": "2026-11-06T00:28:41.000Z",
+      "image": "https://static01.nyt.com/images/2026/11/05/multimedia/05goldberg-fjvq/05goldberg-fjvq-mediumSquareAt3X.jpg",
+      "author": "Michelle Goldberg",
+      "excerpt": "The midterms vote was an epic rebuke of Silicon Valley.",
+      "source": "NYT"
+    },
+    {
+      "title": "Hegseth Lashes Out at Critics Calling for His Firing",
+      "link": "https://www.nytimes.com/2026/11/05/us/politics/hegseth-video-midterms-trump.html",
+      "pubDate": "2026-11-05T23:30:30.000Z",
+      "image": "https://static01.nyt.com/images/2026/11/05/multimedia/05dc-hegseth-fcbw/05dc-hegseth-fcbw-mediumSquareAt3X.jpg",
+      "author": "Greg Jaffe",
+      "excerpt": "In a new video, the defense secretary vowed to “finish what we have started.” Some Republicans say the Iran war was a big factor in their party’s midterm losses.",
       "source": "NYT"
     },
     {
@@ -914,15 +1040,6 @@
       "source": "NYT"
     },
     {
-      "title": "Stocks Erase Post-Midterm Elections Rally, Dragged Down by Tech",
-      "link": "https://www.nytimes.com/2026/11/05/business/stocks-midterms-artificial-intelligence.html",
-      "pubDate": "2026-11-05T22:51:38.000Z",
-      "image": null,
-      "author": "Joe Rennison",
-      "excerpt": "The S&P 500 slumped to its worst daily decline since April 2025 and the tech-heavy Nasdaq entered correction territory, as investors fretted about the durability of the A.I. build-out.",
-      "source": "NYT"
-    },
-    {
       "title": "National Guard to Expand Patrols in Washington With Military Vehicles and Boats",
       "link": "https://www.nytimes.com/2026/11/05/us/politics/washington-dc-national-guard-troops-hegseth-trump.html",
       "pubDate": "2026-11-05T22:50:58.000Z",
@@ -932,21 +1049,12 @@
       "source": "NYT"
     },
     {
-      "title": "The Evening: The Blue Wave Swells",
-      "link": "https://www.nytimes.com/2026/11/05/briefing/elections-newsom-amodei.html",
-      "pubDate": "2026-11-05T22:48:30.000Z",
-      "image": "https://static01.nyt.com/images/2026/11/05/multimedia/05evening-nl-midterms-colom-zbwl/05evening-nl-midterms-colom-zbwl-mediumSquareAt3X.jpg",
-      "author": "Whet Moser",
-      "excerpt": "Plus, Gov. Gavin Newsom clears California’s death row. Here’s the latest at the end of Thursday.",
-      "source": "NYT"
-    },
-    {
-      "title": "U.S. Finds Subdued Foreign Meddling Operations in Midterm Elections",
-      "link": "https://www.nytimes.com/2026/11/05/us/politics/midterm-elections-foreign-meddling.html",
-      "pubDate": "2026-11-05T22:31:32.000Z",
-      "image": "https://static01.nyt.com/images/2026/11/05/multimedia/05dc-meddling-vptc/05dc-meddling-vptc-mediumSquareAt3X.jpg",
-      "author": "Dustin Volz and Julian E. Barnes",
-      "excerpt": "Russia was linked to influence campaigns targeting Democrats that gained little traction, but the Kremlin may be more focused on France’s elections in the spring.",
+      "title": "Rubio Dismisses Reports He Will Leave His Jobs to Run for President",
+      "link": "https://www.nytimes.com/2026/11/05/us/politics/marco-rubio-2028.html",
+      "pubDate": "2026-11-05T22:49:38.000Z",
+      "image": "https://static01.nyt.com/images/2026/11/05/multimedia/05dc-rubio-mfpc/05dc-rubio-mfpc-mediumSquareAt3X.jpg",
+      "author": "Tyler Pager and Anatoly Kurmanaev",
+      "excerpt": "President Trump’s secretary of state and national security adviser said he intended to stick with the administration to the end.",
       "source": "NYT"
     },
     {
@@ -956,78 +1064,6 @@
       "image": "https://static01.nyt.com/images/2026/11/05/multimedia/05thedocket-nl-kctm/05thedocket-nl-kctm-mediumSquareAt3X.jpg",
       "author": "Adam Liptak",
       "excerpt": "The justices took just hours to reject Trump’s bid to meddle in the election.",
-      "source": "NYT"
-    },
-    {
-      "title": "DOJ Steps Up Leak Investigation on Supreme Court Decision Overturning Roe v. Wade",
-      "link": "https://www.nytimes.com/2026/11/05/us/politics/supreme-court-trump-abortion-leak-dobbs.html",
-      "pubDate": "2026-11-05T21:42:17.000Z",
-      "image": "https://static01.nyt.com/images/2026/11/04/multimedia/00dc-scotus-investigation-top-pwtb/00dc-scotus-investigation-top-pwtb-mediumSquareAt3X.jpg",
-      "author": "Jodi Kantor and Michael S. Schmidt",
-      "excerpt": "Investigators, using subpoenas and other law enforcement powers, are accelerating an inquiry that takes the Trump administration into the inner workings of the court.",
-      "source": "NYT"
-    },
-    {
-      "title": "Newsom Commutes the Sentences of California’s 548 Death Row Inmates",
-      "link": "https://www.nytimes.com/2026/11/05/us/california-death-row-newsom-commutation.html",
-      "pubDate": "2026-11-05T21:36:07.000Z",
-      "image": "https://static01.nyt.com/images/2026/11/05/multimedia/05nat-newsom-deathpenalty-zjql/05nat-newsom-deathpenalty-zjql-mediumSquareAt3X.jpg",
-      "author": "Laurel Rosenhall",
-      "excerpt": "Gov. Gavin Newsom, who is considering a run for president, called capital punishment morally objectionable. Though California hasn’t executed anyone for 20 years, that represents about a quarter of death sentences nationwide.",
-      "source": "NYT"
-    },
-    {
-      "title": "Tech Billionaires Face Tricky Political Waters After Democratic Midterm Sweep",
-      "link": "https://www.nytimes.com/2026/11/05/technology/tech-billionaires-democrats-midterms.html",
-      "pubDate": "2026-11-05T21:14:24.000Z",
-      "image": "https://static01.nyt.com/images/2026/11/06/multimedia/05biz-tech-billionaires-gwfm/05biz-tech-billionaires-gwfm-mediumSquareAt3X.jpg",
-      "author": "Eli Tan, Theodore Schleifer and Erin Griffith",
-      "excerpt": "Many donated money to President Trump’s favored causes and became his allies. Now that political alignment may be a liability.",
-      "source": "NYT"
-    },
-    {
-      "title": "He Felt Stuck in New York. So He Started Walking to California.",
-      "link": "https://www.nytimes.com/2026/11/05/nyregion/chantz-rivera-walk-across-america-ny-california.html",
-      "pubDate": "2026-11-05T21:05:59.000Z",
-      "image": "https://static01.nyt.com/images/2026/11/05/multimedia/05met-walking-america-promo/05met-walking-america-hmlk-mediumSquareAt3X.jpg",
-      "author": "Dodai Stewart and Mark Abramson",
-      "excerpt": "A Bronx native who’d spent his whole life in the city left on foot in May.",
-      "source": "NYT"
-    },
-    {
-      "title": "Harmeet Dhillon, Leader of Justice Department’s Civil Rights Unit, Resigns",
-      "link": "https://www.nytimes.com/2026/11/05/us/politics/harmeet-dhillon-resigns-doj-civil-rights-unit.html",
-      "pubDate": "2026-11-05T21:05:11.000Z",
-      "image": "https://static01.nyt.com/images/2026/11/05/multimedia/dc-dhillon-gbkh/dc-dhillon-gbkh-mediumSquareAt3X.jpg",
-      "author": "Glenn Thrush, Michael C. Bender and Alan Feuer",
-      "excerpt": "The move came after conflicts with Justice Department leaders, including disagreements over legal strategy in the midterm elections, people familiar with the matter said.",
-      "source": "NYT"
-    },
-    {
-      "title": "Bolsonaro’s Escape From Brazil Was Aided by Milei Adviser at Argentine Airport",
-      "link": "https://www.nytimes.com/2026/11/05/world/americas/bolsonaro-escape-brazil-milei-adviser-argentina.html",
-      "pubDate": "2026-11-05T20:51:57.000Z",
-      "image": "https://static01.nyt.com/images/2026/11/04/multimedia/04int-argentina-bolsonaro01-photo-jtkl/04int-argentina-bolsonaro01-photo-jtkl-mediumSquareAt3X.jpg",
-      "author": "Emma Bubola, Diego Bogarin and Lucía Cholakian Herrera",
-      "excerpt": "A top adviser to President Javier Milei of Argentina met Flávio Bolsonaro, the defeated Brazilian presidential candidate, at an Argentine airport, three people involved in the operation said.",
-      "source": "NYT"
-    },
-    {
-      "title": "Lana Nusseibeh’s U.N. Bid Collides With U.A.E.’s Role in Sudan",
-      "link": "https://www.nytimes.com/2026/11/05/world/africa/lana-nusseibeh-united-nations-uae-sudan.html",
-      "pubDate": "2026-11-05T20:38:43.000Z",
-      "image": "https://static01.nyt.com/images/2026/11/05/multimedia/05int-sudan-lana-2-kgtq/05int-sudan-lana-2-kgtq-mediumSquareAt3X.jpg",
-      "author": "Declan Walsh",
-      "excerpt": "Lana Nusseibeh, one of the Gulf nation’s top diplomats, has led the effort to deny her country’s role in Sudan. Now it’s complicating her bid to become secretary general of the United Nations.",
-      "source": "NYT"
-    },
-    {
-      "title": "Across the South, Black Voters Help Propel Democratic Wins",
-      "link": "https://www.nytimes.com/2026/11/05/us/politics/black-voters-south-democratic-wins.html",
-      "pubDate": "2026-11-05T20:33:25.000Z",
-      "image": "https://static01.nyt.com/images/2026/11/04/multimedia/04nat-black-south-01-kmth/04nat-black-south-01-kmth-mediumSquareAt3X.jpg",
-      "author": "Emily Cochrane",
-      "excerpt": "Democrats in the South used anger over redistricting, cuts to key federal programs and attacks on Black history to help galvanize a crucial bloc of voters to the polls.",
       "source": "NYT"
     },
     {
@@ -1049,30 +1085,12 @@
       "source": "NYT"
     },
     {
-      "title": "RFK Jr.’s Appointees to Health Task Force Included Four Allowed to Keep Drug Stocks",
-      "link": "https://www.nytimes.com/2026/11/05/well/rfk-jr-uspstf-stocks.html",
-      "pubDate": "2026-11-05T19:47:17.000Z",
-      "image": "https://static01.nyt.com/images/2026/11/04/multimedia/WELL-USPSTF-CONFLICTS2-lckj/WELL-USPSTF-CONFLICTS2-lckj-mediumSquareAt3X.jpg",
-      "author": "Maggie Astor",
-      "excerpt": "New members of the influential U.S. Preventive Services Task Force were given waivers to serve with financial conflicts.",
-      "source": "NYT"
-    },
-    {
-      "title": "How Democrats Won Across the South",
-      "link": "https://www.nytimes.com/2026/11/05/us/politics/midterms-southern-democrats.html",
-      "pubDate": "2026-11-05T18:18:12.000Z",
-      "image": "https://static01.nyt.com/images/2026/12/04/multimedia/04midterms-southern-democrats-lkbq/04midterms-southern-democrats-lkbq-mediumSquareAt3X.jpg",
-      "author": "Patricia Mazzei",
-      "excerpt": "They won Senate races in North Carolina, South Carolina and Georgia, with a Mississippi race still too close to call. Their wins lifted down-ballot candidates too.",
-      "source": "NYT"
-    },
-    {
-      "title": "Infant Bleeding Surged as Parents Rejected Vitamin K Shots, Studies Find",
-      "link": "https://www.nytimes.com/2026/11/05/well/live/vitamin-k-shot-newborn-bleeding.html",
-      "pubDate": "2026-11-05T17:39:47.000Z",
-      "image": "https://static01.nyt.com/images/2026/11/05/well/05WELL-VITAMINK-swap/05WELL-VITAMINK-swap-mediumSquareAt3X.jpg",
-      "author": "Maggie Astor",
-      "excerpt": "One study found a 347 percent increase in cases as fewer babies received the shot, which helps blood clot.",
+      "title": "MAGA Finally Gets What It Deserves",
+      "link": "https://www.nytimes.com/2026/11/05/opinion/maga-trump-midterms.html",
+      "pubDate": "2026-11-05T17:54:36.000Z",
+      "image": null,
+      "author": "David French",
+      "excerpt": "The Ozymandias election.",
       "source": "NYT"
     },
     {
@@ -1082,42 +1100,6 @@
       "image": "https://static01.nyt.com/images/2026/10/08/multimedia/08pope-plane-01-wfpl/08pope-plane-01-wfpl-mediumSquareAt3X.jpg",
       "author": "Motoko Rich",
       "excerpt": "Unlike American presidents, Pope Leo XIV has no private jet, so he travels on commercial airlines, like the rest of us. Well, almost.",
-      "source": "NYT"
-    },
-    {
-      "title": "Kehinde Wiley Will Debut New Art Series",
-      "link": "https://www.nytimes.com/2026/11/05/arts/design/kehinde-wiley-what-the-light-becomes.html",
-      "pubDate": "2026-11-05T16:44:18.000Z",
-      "image": "https://static01.nyt.com/images/2026/11/05/multimedia/05cul-kehinde-wiley-pbzq/05cul-kehinde-wiley-pbzq-mediumSquareAt3X-v2.jpg",
-      "author": "Zachary Small",
-      "excerpt": "The artist, who has been facing sexual misconduct allegations, became a single father in May and returns to the gallery world this week with a new show, “What the Light Becomes.”",
-      "source": "NYT"
-    },
-    {
-      "title": "Justice Alito Will Not Retire From Supreme Court Immediately, Despite Election Outcome",
-      "link": "https://www.nytimes.com/2026/11/04/us/politics/alito-trump-supreme-court-not-retiring.html",
-      "pubDate": "2026-11-05T16:39:58.000Z",
-      "image": "https://static01.nyt.com/images/2026/11/05/multimedia/05dc-scotus-alito-wqvp/05dc-scotus-alito-wqvp-mediumSquareAt3X.jpg",
-      "author": "Ann E. Marimow",
-      "excerpt": "The conservative justice has told friends he does not plan to step down before the end of the court’s term, even as Democrats are set to seize the Senate in January.",
-      "source": "NYT"
-    },
-    {
-      "title": "The Machine, and the Messaging, That Won Texas for Democrats",
-      "link": "https://www.nytimes.com/2026/11/05/us/texas-democrats-statewide-sweep.html",
-      "pubDate": "2026-11-05T16:18:16.000Z",
-      "image": "https://static01.nyt.com/images/2026/11/05/us/05nat-texas-dem-tick-tock-1/05nat-texas-dem-tick-tock-1-mediumSquareAt3X.jpg",
-      "author": "J. David Goodman",
-      "excerpt": "Years of organizing met a moment of voter discontent, as James Talarico and Gina Hinojosa offered Texans a vision of economic relief and political change.",
-      "source": "NYT"
-    },
-    {
-      "title": "Elon Musk’s Very Bad Night",
-      "link": "https://www.nytimes.com/2026/11/05/opinion/elon-musk-midterms-trump-results.html",
-      "pubDate": "2026-11-05T12:19:50.000Z",
-      "image": "https://static01.nyt.com/images/2026/11/05/multimedia/05goldberg-fjvq/05goldberg-fjvq-mediumSquareAt3X.jpg",
-      "author": "Michelle Goldberg",
-      "excerpt": "The midterms vote was an epic rebuke of Silicon Valley.",
       "source": "NYT"
     }
   ]
