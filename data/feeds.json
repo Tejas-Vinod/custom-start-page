@@ -1,6 +1,60 @@
 {
   "spaceNews": [
     {
+      "title": "Blue Origin reveals new kick stage, engines for its New Glenn rockets",
+      "link": "https://spaceflightnow.com/2026/11/05/blue-origin-reveals-new-kick-stage-engines-for-its-new-glenn-rockets/",
+      "pubDate": "2026-11-05T22:34:58.000Z",
+      "image": "https://spaceflightnow.com/wp-content/uploads/2026/11/GS3.png",
+      "author": "Will Robinson-Smith",
+      "excerpt": "The announcement was made during an invite-only event ahead of the weekend’s, NASA-backed Max Power airshow at the Kennedy Space Center.",
+      "source": "Spaceflight Now"
+    },
+    {
+      "title": "As it happened: spacewalkers install space station’s eighth and final upgraded solar array",
+      "link": "https://spaceflightnow.com/2026/11/05/as-it-happened-spacewalkers-install-space-stations-eighth-and-final-upgraded-solar-array/",
+      "pubDate": "2026-11-05T22:30:36.000Z",
+      "image": "https://spaceflightnow.com/wp-content/uploads/2026/11/Kutryk-1024x726.jpg",
+      "author": "Spaceflight Now",
+      "excerpt": "During Thursday’s spacewalk, the astronauts will install the eighth and final International Space Station Roll-Out Solar Array, or IROSA.",
+      "source": "Spaceflight Now"
+    },
+    {
+      "title": "Spacewalkers complete five-year effort to upgrade space station power supply",
+      "link": "https://spaceflightnow.com/2026/11/05/spacewalkers-complete-five-year-effort-to-upgrade-space-station-power-supply/",
+      "pubDate": "2026-11-05T22:28:40.000Z",
+      "image": "https://spaceflightnow.com/wp-content/uploads/2026/11/irosa-wings-3-4-delivery.jpg",
+      "author": "Houston Harwood",
+      "excerpt": "Spacewalking astronauts Joshua Kutryk and Anil Menon unfurled the last of eight new solar arrays outside the International Space Station Thursday, working through an unexpected power snag to complete a five-year upgrade designed to keep the orbiting laboratory running through its retirement in 2030.",
+      "source": "Spaceflight Now"
+    },
+    {
+      "title": "CesiumAstro Secures $730 Million in Janus Henderson-Led Series D at a Valuation Above $4.5 Billion; Unveils Synchronicity Satellite Constellation Following Fully Successful Element-1 Mission",
+      "link": "https://spacenews.com/cesiumastro-secures-730-million-in-janus-henderson-led-series-d-at-a-valuation-above-4-5-billion-unveils-synchronicity-satellite-constellation-following-fully-successful-element-1-mission/",
+      "pubDate": "2026-11-05T21:45:00.000Z",
+      "image": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/11/cesiumastro-logo-square.png?fit=1024%2C976&amp;ssl=1",
+      "author": "CesiumAstro",
+      "excerpt": "CesiumAstro Inc., a global leader in space and defense communications systems and satellites, today announced the closing of $730 million in Series D financing, valuing the company at more than […] The post CesiumAstro Secures $730 Million in Janus Henderson-Led Series D at a Valuation Above $4.5 Billion; Unveils Synch",
+      "source": "SpaceNews"
+    },
+    {
+      "title": "Make the most of long nights with this month’s new astronomy products",
+      "link": "https://www.astronomy.com/observing/make-the-most-of-long-nights-with-this-months-new-astronomy-products/",
+      "pubDate": "2026-11-05T19:42:26.000Z",
+      "image": null,
+      "author": "Astronomy Staff",
+      "excerpt": "GS-100AR/AC High-Precision Guide Scope ToupTekHangzhou, China The GS-100AR/AC High-Precision Guide Scope is a guide scope, a wide-field imaging system, and a visual instrument. Its apochromatic design produces a flat 1-inch image circle and reduces purple fringing seen in earlier models. With a choice of rack-and-pinio",
+      "source": "Astronomy Magazine"
+    },
+    {
+      "title": "DAF unveils enterprise blueprint to field operational SI across 15 mission domains",
+      "link": "https://www.spaceforce.mil/News/Article-Display/Article/4642457/daf-unveils-enterprise-blueprint-to-field-operational-si-across-15-mission-doma/",
+      "pubDate": "2026-11-05T17:16:00.000Z",
+      "image": "https://media.defense.gov/2026/Jan/29/2003911364/700/700/0/260128-D-HR740-1002.JPG",
+      "author": "Capt. Tyler Whiting",
+      "excerpt": "Department of the Air Force leaders outlined a new modernization strategy during the Military Flight Training USA Summit to transition super intelligence from experimental testing into operational use across 15 mission domains.",
+      "source": "Space Force"
+    },
+    {
       "title": "Cork Takes the Heat So DRACO’s Data Can Survive",
       "link": "https://spacenews.com/cork-takes-the-heat-so-dracos-data-can-survive/",
       "pubDate": "2026-11-05T17:05:59.000Z",
@@ -71,6 +125,15 @@
       "author": "",
       "excerpt": "This Hubble image features the sparkling collection of stars named Messier 30 (M30), also called NGC 7099.",
       "source": "NASA"
+    },
+    {
+      "title": "Why We Are Seeing a Growing Disconnect Between Public and Private Space Markets",
+      "link": "https://payloadspace.com/why-we-are-seeing-a-growing-disconnect-between-public-and-private-space-markets/",
+      "pubDate": "2026-11-05T09:09:00.000Z",
+      "image": "https://payloadspace.com/wp-content/uploads/2026/10/image-14-1024x541-y8nOqs-200x200.png",
+      "author": "Max Puhalevich",
+      "excerpt": "Private space markets are hotter than ever. Not a whiff of deceleration. The opposite is happening in public space markets. The post Why We Are Seeing a Growing Disconnect Between Public and Private Space Markets appeared first on Payload.",
+      "source": "Payload"
     },
     {
       "title": "APOD: 2026 November 5 – Enceladus in Silhouette",
@@ -370,15 +433,6 @@
       "source": "New Scientist"
     },
     {
-      "title": "Europe Begins Funding Offensive In-Space Capabilities",
-      "link": "https://payloadspace.com/europe-begins-funding-offensive-in-space-capabilities/",
-      "pubDate": "2026-10-30T06:29:00.000Z",
-      "image": "https://payloadspace.com/wp-content/uploads/2026/10/CG-Image-of-ADRAS-J-Approaching-Debris-2-1-200x200.jpg",
-      "author": "Douglas Gorman",
-      "excerpt": "If the best defense is a good offense, then announcements in the European space sector this week are signaling that the region is preparing to move the ball upfield. The post Europe Begins Funding Offensive In-Space Capabilities appeared first on Payload.",
-      "source": "Payload"
-    },
-    {
       "title": "The Sky This Week from October 30 to November 6: The Moon jockeys with Jupiter and Mars",
       "link": "https://www.astronomy.com/the-sky-this-week/the-sky-this-week-from-october-30-to-november-6-2026/",
       "pubDate": "2026-10-30T05:00:00.000Z",
@@ -424,15 +478,6 @@
       "source": "Spaceflight Now"
     },
     {
-      "title": "NASA nears end of space station solar array upgrade with Oct. 29 and Nov. 5 spacewalks",
-      "link": "https://spaceflightnow.com/2026/10/28/nasa-nears-end-of-space-station-solar-array-upgrade-with-oct-29-and-nov-5-spacewalks/",
-      "pubDate": "2026-10-28T21:03:33.000Z",
-      "image": "https://spaceflightnow.com/wp-content/uploads/2026/10/20261028-IROSA-Install-3.jpg",
-      "author": "Houston Harwood",
-      "excerpt": "NASA is two spacewalks away from completing a major, years-long upgrade to the International Space Station that will power the orbiting lab through to its planned decommissioning in 2030.",
-      "source": "Spaceflight Now"
-    },
-    {
       "title": "There may be a new dwarf planet just beyond Pluto",
       "link": "https://www.newscientist.com/article/2596282-there-may-be-a-new-dwarf-planet-just-beyond-pluto/?utm_campaign=RSS|NSNS&utm_content=space&utm_medium=RSS&utm_source=NSNS",
       "pubDate": "2026-10-28T16:51:28.000Z",
@@ -469,15 +514,6 @@
       "source": "SpaceNews"
     },
     {
-      "title": "West Coast Falcon 9 rocket launches 27 Starlink satellites",
-      "link": "https://spaceflightnow.com/2026/10/27/west-coast-falcon-9-rocket-to-launch-27-starlink-satellites/",
-      "pubDate": "2026-10-27T00:50:37.000Z",
-      "image": "https://spaceflightnow.com/wp-content/uploads/2026/10/20261027_Starlink_15-16_liftoff.jpeg",
-      "author": "Steven Young",
-      "excerpt": "Liftoff of the Starlink 15-16 mission from Space Launch Complex 4E happened Tuesday, October 27, 2026, at 12:25 a.m. PDT (3:25 a.m. EDT / 0825 UTC).",
-      "source": "Spaceflight Now"
-    },
-    {
       "title": "Flexell Space Establishes French Subsidiary to Strengthen European Presence",
       "link": "https://spacenews.com/flexell-space-establishes-french-subsidiary-to-strengthen-european-presence/",
       "pubDate": "2026-10-26T20:00:00.000Z",
@@ -505,12 +541,12 @@
       "source": "Astronomy Magazine"
     },
     {
-      "title": "Satellite Mission Management at the Edge",
+      "title": "Replay: Satellite Mission Management at the Edge",
       "link": "https://spacenews.com/satellite-mission-management-at-the-edge-event/",
       "pubDate": "2026-10-23T19:53:25.000Z",
       "image": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/10/2026-11-05-RTX-SpaceNews-2000-1500-update-scaled.jpg?fit=1024%2C768&amp;ssl=1",
       "author": "SpaceNews Editor",
-      "excerpt": "Explore how emerging technologies and commercial capabilities are transforming satellite operations The post Satellite Mission Management at the Edge appeared first on SpaceNews.",
+      "excerpt": "Explore how emerging technologies and commercial capabilities are transforming satellite operations The post Replay: Satellite Mission Management at the Edge appeared first on SpaceNews.",
       "source": "SpaceNews"
     },
     {
@@ -530,15 +566,6 @@
       "author": "Karmela Padavic-Callaghan",
       "excerpt": "An experiment has produced nanoflares similar to those seen on the sun, and shown that they can help explain why the outer layers of the solar atmosphere are so hot",
       "source": "New Scientist"
-    },
-    {
-      "title": "SpaceX launches Starlink 15-15 mission following a trio of scrubs",
-      "link": "https://spaceflightnow.com/2026/10/20/live-coverage-spacex-to-launch-27-starlink-satellites-on-falcon-9-rocket-from-vandenberg-sfb-5/",
-      "pubDate": "2026-10-20T21:18:11.000Z",
-      "image": "https://spaceflightnow.com/wp-content/uploads/2026/10/20261022-Starlink-15-15-scrub.jpg",
-      "author": "Will Robinson-Smith",
-      "excerpt": "SpaceX succeeded in its fourth attempt to launch a Falcon 9 rocket from Vandenberg Space Force Base. Liftoff happened at 3:48 p.m. PDT (6:48 p.m. EDT / 2248 UTC) on Friday, Oct. 23.",
-      "source": "Spaceflight Now"
     },
     {
       "title": "Understanding celestial coordinates",
@@ -566,15 +593,6 @@
       "author": "Leah Crane",
       "excerpt": "The Drake equation provides a way to guess how many aliens we might be able to communicate with, but it’s also a prime example of the importance of scientific guessing, says columnist Leah Crane",
       "source": "New Scientist"
-    },
-    {
-      "title": "Japan launches sample return mission to Phobos",
-      "link": "https://www.astronomy.com/space-exploration/japan-prepares-to-launch-sample-return-mission-to-phobos/",
-      "pubDate": "2026-10-16T19:05:00.000Z",
-      "image": null,
-      "author": "Brooks Mendenhall",
-      "excerpt": "Editor’s note: MMX is on its way to Mars. An H3 rocket lifted off from Tanegashima Space Center at 3:41 P.M. EDT on Oct. 19 (4:41 A.M. Oct. 20 local time). About 71 minutes later, JAXA confirmed the spacecraft had separated from the rocket and was on its planned trajectory. The probe should reach MarsContinue reading \"",
-      "source": "Astronomy Magazine"
     },
     {
       "title": "Japan is launching a mission to Mars’s largest moon Phobos",
@@ -764,15 +782,6 @@
       "author": "Pentagon News",
       "excerpt": "The Assistant Secretary of the Air Force for Space Acquisition and Integration announced the establishment of the Space Technology Portfolio Executive, anew leadership position designed to accelerate the delivery of critical emerging space capabilities to the warfighter.",
       "source": "Space Force"
-    },
-    {
-      "title": "Space Force announces interservice transfer opportunities",
-      "link": "https://www.spaceforce.mil/News/Article-Display/Article/4601150/space-force-announces-interservice-transfer-opportunities/",
-      "pubDate": "2026-09-15T13:30:00.000Z",
-      "image": null,
-      "author": "Pentagon News",
-      "excerpt": "The U.S. Space Force will open its FY27 Interservice Transfer application window Sept. 15 through Oct. 2, 2026, seeking experienced active-duty service members from across the joint force, particularly those with space-related expertise.",
-      "source": "Space Force"
     }
   ],
   "industryNews": [
@@ -869,66 +878,192 @@
   ],
   "nytNews": [
     {
-      "title": "Iran is Reviewing ‘Concrete Proposals’ on Nuclear Program, Officials Say",
-      "link": "https://www.nytimes.com/2026/11/05/world/middleeast/peace-talks-iran-united-states-qatar-nuclear-program.html",
-      "pubDate": "2026-11-05T18:27:59.000Z",
-      "image": "https://static01.nyt.com/images/2026/11/05/multimedia/05int-iran-negotiations-vmfc/05int-iran-negotiations-vmfc-mediumSquareAt3X.jpg",
-      "author": "Adam Rasgon, Vivian Nereim, Tyler Pager and Farnaz Fassihi",
-      "excerpt": "Iran’s willingness to re-engage on the issue suggests that Qatar-led diplomatic efforts to avert full-blown war between the U.S. and Iran have had some success.",
+      "title": "Trump Tried to Undermine the Nation’s Elections. It Didn’t Work.",
+      "link": "https://www.nytimes.com/2026/11/05/us/election-deniers-midterms-trump.html",
+      "pubDate": "2026-11-06T00:05:01.000Z",
+      "image": "https://static01.nyt.com/images/2026/11/05/multimedia/05pol-election-integrity-01-phqv/05pol-election-integrity-01-phqv-mediumSquareAt3X.jpg",
+      "author": "Richard Fausset and Nick Corasaniti",
+      "excerpt": "Millions of Americans cast their ballots on Tuesday in an election that showed the resiliency of democracy. The president said he would accept the results.",
       "source": "NYT"
     },
     {
-      "title": "6 Killed in Sunset Park Blaze: NYC’s Deadliest Fire This Year",
-      "link": "https://www.nytimes.com/2026/11/05/nyregion/brooklyn-fire-sunset-park.html",
-      "pubDate": "2026-11-05T18:22:37.000Z",
-      "image": "https://static01.nyt.com/images/2026/11/05/nyregion/05xp-fire1-promo/05xp-fire1-promo-mediumSquareAt3X.jpg",
-      "author": "Emma G. Fitzsimmons, Andrea Barnes and Ali Watkins",
-      "excerpt": "Nine people were also injured in the blaze, which engulfed a two-story building in Sunset Park, Brooklyn.",
+      "title": "Watch Live: What the Midterm Elections Are Telling Us About 2028",
+      "link": "https://www.nytimes.com/2026/11/05/opinion/midterm-election-trump-bouie-cottle-french.html",
+      "pubDate": "2026-11-05T23:55:45.000Z",
+      "image": "https://static01.nyt.com/images/2026/11/05/opinion/05opinions-bpl-live/05opinions-bpl-live-mediumSquareAt3X.png",
+      "author": "Jamelle Bouie, Michelle Cottle, David French and Derek Arthur",
+      "excerpt": "Live from the Brooklyn Public Library, Jamelle Bouie, Michelle Cottle and David French discuss the midterm election results and look ahead to 2028.",
       "source": "NYT"
     },
     {
-      "title": "How Did Flávio Bolsonaro Flee Brazil? ‘I’ll Take That to the Grave,’ He Says",
-      "link": "https://www.nytimes.com/2026/11/05/world/americas/flavio-bolsonaro-florida-brazil.html",
-      "pubDate": "2026-11-05T18:03:02.000Z",
-      "image": "https://static01.nyt.com/images/2026/11/05/multimedia/05int-bolsonaro-interview01a-photo-flzk/05int-bolsonaro-interview01a-photo-flzk-mediumSquareAt3X.jpg",
-      "author": "Ana Ionova",
-      "excerpt": "From Miami, Flávio Bolsonaro is doubling down on unfounded claims of a stolen election and plotting to sway his nation’s politics from afar, even though his party is not challenging the results.",
+      "title": "In Alaska, Ranked-Choice Ballots Are Unlikely to Be Enough for Dan Sullivan",
+      "link": "https://www.nytimes.com/2026/11/05/us/alaska-ranked-choice-data-sullivan-peltola.html",
+      "pubDate": "2026-11-05T23:16:42.000Z",
+      "image": "https://static01.nyt.com/images/2026/11/05/multimedia/05EA-ALASKA-RCV-ANALYSIS-SUB-kcjz/05EA-ALASKA-RCV-ANALYSIS-SUB-kcjz-mediumSquareAt3X-v2.jpg",
+      "author": "Christine Zhang and Luke Vrotsos",
+      "excerpt": "An analysis shows Mary Peltola is likely to keep her lead in the Senate race in part because of ballots she’d accumulate in ranked-choice tabulation from supporters of the other Dan Sullivan.",
       "source": "NYT"
     },
     {
-      "title": "MAGA Finally Gets What It Deserves",
-      "link": "https://www.nytimes.com/2026/11/05/opinion/maga-trump-midterms.html",
-      "pubDate": "2026-11-05T17:54:36.000Z",
+      "title": "How British Law Informed Russell Brand Trial Coverage",
+      "link": "https://www.nytimes.com/2026/11/05/insider/russell-brand-trial-british-law.html",
+      "pubDate": "2026-11-05T22:56:32.000Z",
+      "image": "https://static01.nyt.com/images/2026/11/05/multimedia/05insider-brand1/05insider-brand-bkjt-mediumSquareAt3X.jpg",
+      "author": "Alex Marshall",
+      "excerpt": "British criminal trials like Russell Brand’s have rules around what can be reported.",
+      "source": "NYT"
+    },
+    {
+      "title": "Stocks Erase Post-Midterm Elections Rally, Dragged Down by Tech",
+      "link": "https://www.nytimes.com/2026/11/05/business/stocks-midterms-artificial-intelligence.html",
+      "pubDate": "2026-11-05T22:51:38.000Z",
       "image": null,
-      "author": "David French",
-      "excerpt": "The Ozymandias election.",
+      "author": "Joe Rennison",
+      "excerpt": "The S&P 500 slumped to its worst daily decline since April 2025 and the tech-heavy Nasdaq entered correction territory, as investors fretted about the durability of the A.I. build-out.",
+      "source": "NYT"
+    },
+    {
+      "title": "National Guard to Expand Patrols in Washington With Military Vehicles and Boats",
+      "link": "https://www.nytimes.com/2026/11/05/us/politics/washington-dc-national-guard-troops-hegseth-trump.html",
+      "pubDate": "2026-11-05T22:50:58.000Z",
+      "image": "https://static01.nyt.com/images/2026/11/05/multimedia/05dc-guard-jbwm/05dc-guard-jbwm-mediumSquareAt3X.jpg",
+      "author": "John Ismay and Chris Cameron",
+      "excerpt": "The Pentagon said that the decision by Pete Hegseth to widen the patrols was made on Oct. 29, just before a landslide defeat for Republicans in the midterm elections.",
+      "source": "NYT"
+    },
+    {
+      "title": "The Evening: The Blue Wave Swells",
+      "link": "https://www.nytimes.com/2026/11/05/briefing/elections-newsom-amodei.html",
+      "pubDate": "2026-11-05T22:48:30.000Z",
+      "image": "https://static01.nyt.com/images/2026/11/05/multimedia/05evening-nl-midterms-colom-zbwl/05evening-nl-midterms-colom-zbwl-mediumSquareAt3X.jpg",
+      "author": "Whet Moser",
+      "excerpt": "Plus, Gov. Gavin Newsom clears California’s death row. Here’s the latest at the end of Thursday.",
+      "source": "NYT"
+    },
+    {
+      "title": "U.S. Finds Subdued Foreign Meddling Operations in Midterm Elections",
+      "link": "https://www.nytimes.com/2026/11/05/us/politics/midterm-elections-foreign-meddling.html",
+      "pubDate": "2026-11-05T22:31:32.000Z",
+      "image": "https://static01.nyt.com/images/2026/11/05/multimedia/05dc-meddling-vptc/05dc-meddling-vptc-mediumSquareAt3X.jpg",
+      "author": "Dustin Volz and Julian E. Barnes",
+      "excerpt": "Russia was linked to influence campaigns targeting Democrats that gained little traction, but the Kremlin may be more focused on France’s elections in the spring.",
+      "source": "NYT"
+    },
+    {
+      "title": "Why a Merciless Supreme Court Rebuke on Election Eve Matters",
+      "link": "https://www.nytimes.com/2026/11/05/us/politics/the-docket-supreme-court-election-eve.html",
+      "pubDate": "2026-11-05T22:21:55.000Z",
+      "image": "https://static01.nyt.com/images/2026/11/05/multimedia/05thedocket-nl-kctm/05thedocket-nl-kctm-mediumSquareAt3X.jpg",
+      "author": "Adam Liptak",
+      "excerpt": "The justices took just hours to reject Trump’s bid to meddle in the election.",
+      "source": "NYT"
+    },
+    {
+      "title": "DOJ Steps Up Leak Investigation on Supreme Court Decision Overturning Roe v. Wade",
+      "link": "https://www.nytimes.com/2026/11/05/us/politics/supreme-court-trump-abortion-leak-dobbs.html",
+      "pubDate": "2026-11-05T21:42:17.000Z",
+      "image": "https://static01.nyt.com/images/2026/11/04/multimedia/00dc-scotus-investigation-top-pwtb/00dc-scotus-investigation-top-pwtb-mediumSquareAt3X.jpg",
+      "author": "Jodi Kantor and Michael S. Schmidt",
+      "excerpt": "Investigators, using subpoenas and other law enforcement powers, are accelerating an inquiry that takes the Trump administration into the inner workings of the court.",
+      "source": "NYT"
+    },
+    {
+      "title": "Newsom Commutes the Sentences of California’s 548 Death Row Inmates",
+      "link": "https://www.nytimes.com/2026/11/05/us/california-death-row-newsom-commutation.html",
+      "pubDate": "2026-11-05T21:36:07.000Z",
+      "image": "https://static01.nyt.com/images/2026/11/05/multimedia/05nat-newsom-deathpenalty-zjql/05nat-newsom-deathpenalty-zjql-mediumSquareAt3X.jpg",
+      "author": "Laurel Rosenhall",
+      "excerpt": "Gov. Gavin Newsom, who is considering a run for president, called capital punishment morally objectionable. Though California hasn’t executed anyone for 20 years, that represents about a quarter of death sentences nationwide.",
+      "source": "NYT"
+    },
+    {
+      "title": "Tech Billionaires Face Tricky Political Waters After Democratic Midterm Sweep",
+      "link": "https://www.nytimes.com/2026/11/05/technology/tech-billionaires-democrats-midterms.html",
+      "pubDate": "2026-11-05T21:14:24.000Z",
+      "image": "https://static01.nyt.com/images/2026/11/06/multimedia/05biz-tech-billionaires-gwfm/05biz-tech-billionaires-gwfm-mediumSquareAt3X.jpg",
+      "author": "Eli Tan, Theodore Schleifer and Erin Griffith",
+      "excerpt": "Many donated money to President Trump’s favored causes and became his allies. Now that political alignment may be a liability.",
+      "source": "NYT"
+    },
+    {
+      "title": "He Felt Stuck in New York. So He Started Walking to California.",
+      "link": "https://www.nytimes.com/2026/11/05/nyregion/chantz-rivera-walk-across-america-ny-california.html",
+      "pubDate": "2026-11-05T21:05:59.000Z",
+      "image": "https://static01.nyt.com/images/2026/11/05/multimedia/05met-walking-america-promo/05met-walking-america-hmlk-mediumSquareAt3X.jpg",
+      "author": "Dodai Stewart and Mark Abramson",
+      "excerpt": "A Bronx native who’d spent his whole life in the city left on foot in May.",
+      "source": "NYT"
+    },
+    {
+      "title": "Harmeet Dhillon, Leader of Justice Department’s Civil Rights Unit, Resigns",
+      "link": "https://www.nytimes.com/2026/11/05/us/politics/harmeet-dhillon-resigns-doj-civil-rights-unit.html",
+      "pubDate": "2026-11-05T21:05:11.000Z",
+      "image": "https://static01.nyt.com/images/2026/11/05/multimedia/dc-dhillon-gbkh/dc-dhillon-gbkh-mediumSquareAt3X.jpg",
+      "author": "Glenn Thrush, Michael C. Bender and Alan Feuer",
+      "excerpt": "The move came after conflicts with Justice Department leaders, including disagreements over legal strategy in the midterm elections, people familiar with the matter said.",
+      "source": "NYT"
+    },
+    {
+      "title": "Bolsonaro’s Escape From Brazil Was Aided by Milei Adviser at Argentine Airport",
+      "link": "https://www.nytimes.com/2026/11/05/world/americas/bolsonaro-escape-brazil-milei-adviser-argentina.html",
+      "pubDate": "2026-11-05T20:51:57.000Z",
+      "image": "https://static01.nyt.com/images/2026/11/04/multimedia/04int-argentina-bolsonaro01-photo-jtkl/04int-argentina-bolsonaro01-photo-jtkl-mediumSquareAt3X.jpg",
+      "author": "Emma Bubola, Diego Bogarin and Lucía Cholakian Herrera",
+      "excerpt": "A top adviser to President Javier Milei of Argentina met Flávio Bolsonaro, the defeated Brazilian presidential candidate, at an Argentine airport, three people involved in the operation said.",
       "source": "NYT"
     },
     {
       "title": "Lana Nusseibeh’s U.N. Bid Collides With U.A.E.’s Role in Sudan",
       "link": "https://www.nytimes.com/2026/11/05/world/africa/lana-nusseibeh-united-nations-uae-sudan.html",
-      "pubDate": "2026-11-05T17:53:39.000Z",
+      "pubDate": "2026-11-05T20:38:43.000Z",
       "image": "https://static01.nyt.com/images/2026/11/05/multimedia/05int-sudan-lana-2-kgtq/05int-sudan-lana-2-kgtq-mediumSquareAt3X.jpg",
       "author": "Declan Walsh",
       "excerpt": "Lana Nusseibeh, one of the Gulf nation’s top diplomats, has led the effort to deny her country’s role in Sudan. Now it’s complicating her bid to become secretary general of the United Nations.",
       "source": "NYT"
     },
     {
-      "title": "‘Florida Is the Last Main Anchor Standing’ for Republicans",
-      "link": "https://www.nytimes.com/2026/11/05/us/florida-republicans-midterms.html",
-      "pubDate": "2026-11-05T17:49:05.000Z",
-      "image": "https://static01.nyt.com/images/2026/11/05/multimedia/05nat-florida-redoubt-hvwj/05nat-florida-redoubt-hvwj-mediumSquareAt3X.jpg",
-      "author": "Patricia Mazzei and David Ovalle",
-      "excerpt": "The third most-populous state withstood a national Democratic surge on Tuesday, even as Republicans confronted deep losses in Texas and across the electoral map.",
+      "title": "Across the South, Black Voters Help Propel Democratic Wins",
+      "link": "https://www.nytimes.com/2026/11/05/us/politics/black-voters-south-democratic-wins.html",
+      "pubDate": "2026-11-05T20:33:25.000Z",
+      "image": "https://static01.nyt.com/images/2026/11/04/multimedia/04nat-black-south-01-kmth/04nat-black-south-01-kmth-mediumSquareAt3X.jpg",
+      "author": "Emily Cochrane",
+      "excerpt": "Democrats in the South used anger over redistricting, cuts to key federal programs and attacks on Black history to help galvanize a crucial bloc of voters to the polls.",
       "source": "NYT"
     },
     {
-      "title": "Bolsonaro’s Escape From Brazil Was Aided by Milei Adviser at Argentine Airport",
-      "link": "https://www.nytimes.com/2026/11/05/world/americas/bolsonaro-escape-brazil-milei-adviser-argentina.html",
-      "pubDate": "2026-11-05T17:43:40.000Z",
-      "image": "https://static01.nyt.com/images/2026/11/04/multimedia/04int-argentina-bolsonaro01-photo-jtkl/04int-argentina-bolsonaro01-photo-jtkl-mediumSquareAt3X.jpg",
-      "author": "Emma Bubola, Diego Bogarin and Lucía Cholakian Herrera",
-      "excerpt": "A top adviser to President Javier Milei of Argentina met Flávio Bolsonaro, the defeated Brazilian presidential candidate, at an Argentine airport, three people involved in the operation said.",
+      "title": "Russell Brand Is Found Guilty of Rape and Sexual Assault",
+      "link": "https://www.nytimes.com/2026/11/05/arts/russell-brand-rape-sexual-assault-trial-verdict.html",
+      "pubDate": "2026-11-05T20:08:30.000Z",
+      "image": "https://static01.nyt.com/images/2026/11/04/multimedia/cul-russell-brown-verdict-hfo-qkpw/cul-russell-brown-verdict-hfo-qkpw-mediumSquareAt3X.jpg",
+      "author": "Alex Marshall",
+      "excerpt": "The judge in London said the popular conspiratorial YouTuber and former movie star would be sentenced to “significant custodial time.”",
+      "source": "NYT"
+    },
+    {
+      "title": "How Did Flávio Bolsonaro Flee Brazil? ‘I’ll Take That to the Grave,’ He Says",
+      "link": "https://www.nytimes.com/2026/11/05/world/americas/flavio-bolsonaro-florida-brazil.html",
+      "pubDate": "2026-11-05T19:56:52.000Z",
+      "image": "https://static01.nyt.com/images/2026/11/05/multimedia/05int-bolsonaro-interview01a-photo-flzk/05int-bolsonaro-interview01a-photo-flzk-mediumSquareAt3X.jpg",
+      "author": "Ana Ionova",
+      "excerpt": "From Miami, Flávio Bolsonaro is making unfounded claims of a stolen election and plotting to sway his nation’s politics from afar, even though his party is not challenging the results.",
+      "source": "NYT"
+    },
+    {
+      "title": "RFK Jr.’s Appointees to Health Task Force Included Four Allowed to Keep Drug Stocks",
+      "link": "https://www.nytimes.com/2026/11/05/well/rfk-jr-uspstf-stocks.html",
+      "pubDate": "2026-11-05T19:47:17.000Z",
+      "image": "https://static01.nyt.com/images/2026/11/04/multimedia/WELL-USPSTF-CONFLICTS2-lckj/WELL-USPSTF-CONFLICTS2-lckj-mediumSquareAt3X.jpg",
+      "author": "Maggie Astor",
+      "excerpt": "New members of the influential U.S. Preventive Services Task Force were given waivers to serve with financial conflicts.",
+      "source": "NYT"
+    },
+    {
+      "title": "How Democrats Won Across the South",
+      "link": "https://www.nytimes.com/2026/11/05/us/politics/midterms-southern-democrats.html",
+      "pubDate": "2026-11-05T18:18:12.000Z",
+      "image": "https://static01.nyt.com/images/2026/12/04/multimedia/04midterms-southern-democrats-lkbq/04midterms-southern-democrats-lkbq-mediumSquareAt3X.jpg",
+      "author": "Patricia Mazzei",
+      "excerpt": "They won Senate races in North Carolina, South Carolina and Georgia, with a Mississippi race still too close to call. Their wins lifted down-ballot candidates too.",
       "source": "NYT"
     },
     {
@@ -941,24 +1076,6 @@
       "source": "NYT"
     },
     {
-      "title": "How Melania Trump Became a Dark Horse Diplomat on Ukraine",
-      "link": "https://www.nytimes.com/2026/11/05/world/europe/melania-trump-oleshky-ukraine-ceasefire.html",
-      "pubDate": "2026-11-05T17:39:24.000Z",
-      "image": "https://static01.nyt.com/images/2026/11/05/multimedia/05Ukraine-Oleshky-01-mgbz/05Ukraine-Oleshky-01-mgbz-mediumSquareAt3X.jpg",
-      "author": "Siobhán O’Grady",
-      "excerpt": "Both Moscow and Kyiv say Mrs. Trump’s team was the driving force behind an evacuation of a besieged city. It was also in their interest to deliver her a humanitarian win.",
-      "source": "NYT"
-    },
-    {
-      "title": "Stocks Erase Post-Midterm Elections Rally, Dragged Down by Tech",
-      "link": "https://www.nytimes.com/2026/11/05/business/stocks-midterms-artificial-intelligence.html",
-      "pubDate": "2026-11-05T17:21:37.000Z",
-      "image": null,
-      "author": "Joe Rennison",
-      "excerpt": "The S&P 500 slumped to its worst daily decline in more than a year, dragged down by the technology sector as investors fretted about the durability of the A.I. build-out.",
-      "source": "NYT"
-    },
-    {
       "title": "Up in the Clouds With the Pope, It’s Still Commercial",
       "link": "https://www.nytimes.com/2026/11/02/world/europe/pope-plane-shepherd-one-flights.html",
       "pubDate": "2026-11-05T17:19:41.000Z",
@@ -968,75 +1085,30 @@
       "source": "NYT"
     },
     {
-      "title": "Russell Brand Is Found Guilty of Rape and Sexual Assault",
-      "link": "https://www.nytimes.com/2026/11/05/arts/russell-brand-rape-sexual-assault-trial-verdict.html",
-      "pubDate": "2026-11-05T17:13:04.000Z",
-      "image": "https://static01.nyt.com/images/2026/11/04/multimedia/cul-russell-brown-verdict-hfo-qkpw/cul-russell-brown-verdict-hfo-qkpw-mediumSquareAt3X.jpg",
-      "author": "Alex Marshall",
-      "excerpt": "The judge in London said the popular conspiratorial YouTuber and former movie star would be sentenced to “significant custodial time.”",
+      "title": "Kehinde Wiley Will Debut New Art Series",
+      "link": "https://www.nytimes.com/2026/11/05/arts/design/kehinde-wiley-what-the-light-becomes.html",
+      "pubDate": "2026-11-05T16:44:18.000Z",
+      "image": "https://static01.nyt.com/images/2026/11/05/multimedia/05cul-kehinde-wiley-pbzq/05cul-kehinde-wiley-pbzq-mediumSquareAt3X-v2.jpg",
+      "author": "Zachary Small",
+      "excerpt": "The artist, who has been facing sexual misconduct allegations, became a single father in May and returns to the gallery world this week with a new show, “What the Light Becomes.”",
       "source": "NYT"
     },
     {
-      "title": "Tech Billionaires Face Tricky Political Waters After Democratic Midterm Sweep",
-      "link": "https://www.nytimes.com/2026/11/05/technology/tech-billionaires-democrats-midterms.html",
-      "pubDate": "2026-11-05T17:02:32.000Z",
-      "image": "https://static01.nyt.com/images/2026/11/06/multimedia/05biz-tech-billionaires-gwfm/05biz-tech-billionaires-gwfm-mediumSquareAt3X.jpg",
-      "author": "Eli Tan, Theodore Schleifer and Erin Griffith",
-      "excerpt": "Many donated money to President Trump’s favored causes and became his allies. Now that political alignment may be a liability.",
+      "title": "Justice Alito Will Not Retire From Supreme Court Immediately, Despite Election Outcome",
+      "link": "https://www.nytimes.com/2026/11/04/us/politics/alito-trump-supreme-court-not-retiring.html",
+      "pubDate": "2026-11-05T16:39:58.000Z",
+      "image": "https://static01.nyt.com/images/2026/11/05/multimedia/05dc-scotus-alito-wqvp/05dc-scotus-alito-wqvp-mediumSquareAt3X.jpg",
+      "author": "Ann E. Marimow",
+      "excerpt": "The conservative justice has told friends he does not plan to step down before the end of the court’s term, even as Democrats are set to seize the Senate in January.",
       "source": "NYT"
     },
     {
-      "title": "The Met Costume Institute Has a New Gala Theme, ‘extraOrdinary,’ After Calling Off Galliano Show",
-      "link": "https://www.nytimes.com/2026/11/05/style/met-gala-theme-extraordinary.html",
-      "pubDate": "2026-11-05T16:05:15.000Z",
-      "image": null,
-      "author": "Vanessa Friedman and Jacob Bernstein",
-      "excerpt": "Two months after scrapping plans for an exhibition dedicated to the controversial designer, the museum’s Costume Institute is pivoting to the everyday.",
-      "source": "NYT"
-    },
-    {
-      "title": "They Made History as ‘Firsts.’ That’s Not What They Ran On.",
-      "link": "https://www.nytimes.com/2026/11/05/us/politics/midterms-identity-politics.html",
-      "pubDate": "2026-11-05T15:57:45.000Z",
-      "image": "https://static01.nyt.com/images/2026/11/05/multimedia/05pol-identitypolitics/05pol-identitypolitics-mediumSquareAt3X.png",
-      "author": "Jia Lynn Yang",
-      "excerpt": "Several midterm winners broke barriers, but with campaigns that focused on delivering material change to the lives of Americans.",
-      "source": "NYT"
-    },
-    {
-      "title": "Inside Team Trump’s Historic Collapse in the 2026 Midterm Elections",
-      "link": "https://www.nytimes.com/2026/11/04/us/politics/trump-midterms-losses-republicans.html",
-      "pubDate": "2026-11-05T15:20:18.000Z",
-      "image": "https://static01.nyt.com/images/2026/11/04/multimedia/04pol-midterms-ticktok-top-01-kcwp/04pol-midterms-ticktok-top-01-kcwp-mediumSquareAt3X.jpg",
-      "author": "Shane Goldmacher, Jonathan Swan and Maggie Haberman",
-      "excerpt": "How an unpopular president and an unpopular war provided an opening for Democrats to make sweeping gains in the midterms.",
-      "source": "NYT"
-    },
-    {
-      "title": "Timeline: How Russell Brand Went From Comedy Star to Convicted Rapist",
-      "link": "https://www.nytimes.com/2026/11/05/arts/russell-brand-career-timeline.html",
-      "pubDate": "2026-11-05T15:02:13.000Z",
-      "image": "https://static01.nyt.com/images/2026/11/02/multimedia/00cul-russell-brand-timeline-HFO1-mcbz/00cul-russell-brand-timeline-HFO1-mcbz-mediumSquareAt3X.jpg",
-      "author": "Alex Marshall",
-      "excerpt": "The comedian, actor and YouTuber has had ups and downs throughout a tumultuous career. A conviction on charges of rape and sexual assault was a new low.",
-      "source": "NYT"
-    },
-    {
-      "title": "He Felt Stuck in New York. So He Started Walking to California.",
-      "link": "https://www.nytimes.com/2026/11/05/nyregion/chantz-rivera-walk-across-america-ny-california.html",
-      "pubDate": "2026-11-05T14:55:58.000Z",
-      "image": "https://static01.nyt.com/images/2026/11/05/multimedia/05met-walking-america-promo/05met-walking-america-hmlk-mediumSquareAt3X.jpg",
-      "author": "Dodai Stewart and Mark Abramson",
-      "excerpt": "A Bronx native who’d spent his whole life in the city left on foot in May.",
-      "source": "NYT"
-    },
-    {
-      "title": "How Trump Is Reacting to the Midterm Results",
-      "link": "https://www.nytimes.com/video/us/politics/100000011262332/how-trump-is-reacting-to-the-midterm-results.html",
-      "pubDate": "2026-11-05T14:06:13.000Z",
-      "image": null,
-      "author": "Maggie Haberman, John Pappas, Nour Idriss, Léo Hamelin and Nikolay Nikolov",
-      "excerpt": "In the days after Republicans suffered massive midterm election defeats, President Trump appeared unmoved. The New York Times’s White House correspondent Maggie Haberman explains how Trump’s public demeanor compares with what he has shared behind closed doors about voters’ frustration with some of his policies.",
+      "title": "The Machine, and the Messaging, That Won Texas for Democrats",
+      "link": "https://www.nytimes.com/2026/11/05/us/texas-democrats-statewide-sweep.html",
+      "pubDate": "2026-11-05T16:18:16.000Z",
+      "image": "https://static01.nyt.com/images/2026/11/05/us/05nat-texas-dem-tick-tock-1/05nat-texas-dem-tick-tock-1-mediumSquareAt3X.jpg",
+      "author": "J. David Goodman",
+      "excerpt": "Years of organizing met a moment of voter discontent, as James Talarico and Gina Hinojosa offered Texans a vision of economic relief and political change.",
       "source": "NYT"
     },
     {
@@ -1046,33 +1118,6 @@
       "image": "https://static01.nyt.com/images/2026/11/05/multimedia/05goldberg-fjvq/05goldberg-fjvq-mediumSquareAt3X.jpg",
       "author": "Michelle Goldberg",
       "excerpt": "The midterms vote was an epic rebuke of Silicon Valley.",
-      "source": "NYT"
-    },
-    {
-      "title": "Change Is Coming",
-      "link": "https://www.nytimes.com/2026/11/05/briefing/change-is-coming.html",
-      "pubDate": "2026-11-05T11:54:25.000Z",
-      "image": "https://static01.nyt.com/images/2026/11/05/multimedia/05themorning-nl-LEAD-02-hbkz/05themorning-nl-LEAD-02-hbkz-mediumSquareAt3X.jpg",
-      "author": "Adam B. Kushner and Evan Gorelick",
-      "excerpt": "The midterms were a historic collapse for the Republicans, who were unable to overcome an unpopular president and an unpopular war.",
-      "source": "NYT"
-    },
-    {
-      "title": "At the Root of K-Pop’s Controversies, a Restrictive Business Model",
-      "link": "https://www.nytimes.com/2026/11/05/world/asia/how-kpop-works-contracts.html",
-      "pubDate": "2026-11-05T10:23:51.000Z",
-      "image": "https://static01.nyt.com/images/2026/11/04/multimedia/00int-kpop-takeaways-fmhk/00int-kpop-takeaways-fmhk-mediumSquareAt3X.jpg",
-      "author": "Jin Yu Young and Sarah Hurtes",
-      "excerpt": "Labels exert extraordinary control over performers because only a few acts turn a profit.",
-      "source": "NYT"
-    },
-    {
-      "title": "Midterm Election Losses Complicate Trump’s Options on Iran War",
-      "link": "https://www.nytimes.com/2026/11/05/us/politics/trump-iran-war-midterm-elections.html",
-      "pubDate": "2026-11-05T10:04:44.000Z",
-      "image": "https://static01.nyt.com/images/2026/11/04/multimedia/04dc-prexy-wmkf/04dc-prexy-wmkf-mediumSquareAt3X.jpg",
-      "author": "David E. Sanger",
-      "excerpt": "The midterm results laid bare the deep unpopularity of the war of choice that President Trump started and is now struggling to end.",
       "source": "NYT"
     }
   ]
