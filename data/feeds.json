@@ -1,12 +1,30 @@
 {
   "spaceNews": [
     {
-      "title": "Falcon 9 to launch from California on classified mission for U.S. Space Force",
+      "title": "APOD: 2026 November 7 – De Gerlache-Kocher Massif",
+      "link": "https://science.nasa.gov/image-article/apod-2026-november-7-de-gerlache-kocher-massif/",
+      "pubDate": "2026-11-07T05:05:00.000Z",
+      "image": "https://assets.science.nasa.gov/dynamicimage/assets/science/cds/apod/apod/2026/november/GerlacheKocherMassif_Sans.jpg?w=1500&#038;h=1022&#038;fit=clip&#038;crop=faces%2Cfocalpoint",
+      "author": "",
+      "excerpt": "APOD Science APOD APOD: 2026 November 7 –… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional ",
+      "source": "NASA"
+    },
+    {
+      "title": "AST SpaceMobile unveils $1.3 billion engine deal with Firefly Aerospace to power new heavy-lift rocket",
+      "link": "https://spaceflightnow.com/2026/11/07/ast-spacemobile-unveils-1-3-billion-engine-deal-with-firefly-aerospace-to-power-new-heavy-lift-rocket/",
+      "pubDate": "2026-11-07T02:18:04.000Z",
+      "image": "https://spaceflightnow.com/wp-content/uploads/2026/11/20261106_AST_rocket_rendering.jpg",
+      "author": "Will Robinson-Smith",
+      "excerpt": "The company behind the Bluebird direct-to-cell satellite constellation said the addition of its own heavy-lift rocket is the final piece of its plans for vertical integration.",
+      "source": "Spaceflight Now"
+    },
+    {
+      "title": "Falcon 9 launches from California on classified mission for U.S. Space Force",
       "link": "https://spaceflightnow.com/2026/11/06/falcon-9-to-launch-from-california-on-classified-mission-for-u-s-space-force/",
       "pubDate": "2026-11-06T22:00:39.000Z",
-      "image": "https://spaceflightnow.com/wp-content/uploads/2026/11/20261106-F9-File-Feature-Image.jpg",
+      "image": "https://spaceflightnow.com/wp-content/uploads/2026/11/20261106-USSF-432-Launch-Image.jpg",
       "author": "Steven Young",
-      "excerpt": "Liftoff from pad 4E at Vandenberg Space Force Base is scheduled for 4:48 p.m. PST (7:48 p.m. EST / 0048 UTC). The mission is thought to be carrying satellites based on SpaceX’s Starshield platform.",
+      "excerpt": "Liftoff from pad 4E at Vandenberg Space Force Base occurred at 4:48 p.m. PST (7:48 p.m. EST / 0048 UTC). The mission is thought to be carrying satellites based on SpaceX’s Starshield platform.",
       "source": "Spaceflight Now"
     },
     {
@@ -253,15 +271,6 @@
       "source": "NASA"
     },
     {
-      "title": "NASA Announces X-70 Experimental Aircraft to Advance Flight Research ",
-      "link": "https://www.nasa.gov/news-release/nasa-announces-x-70-experimental-aircraft-to-advance-flight-research/",
-      "pubDate": "2026-11-05T01:43:21.000Z",
-      "image": "https://www.nasa.gov/wp-content/uploads/2026/11/nasa-x-70-image.png?w=1672",
-      "author": "Cheryl Warner",
-      "excerpt": "On Wednesday, NASA unveiled its newest experimental aircraft, the X-70 Fractal, during the UP.Summit at the agency’s Kennedy Space Center in Florida. This high-performance, highly adaptable research platform is designed to accelerate the development and testing of advanced aviation technologies. The crewed X-70 feature",
-      "source": "NASA"
-    },
-    {
       "title": "Redwire Wins $20M DARPA Contract for Second VLEO Demo",
       "link": "https://payloadspace.com/redwire-wins-20m-darpa-contract-for-second-vleo-demo/",
       "pubDate": "2026-11-05T00:34:48.000Z",
@@ -475,15 +484,6 @@
       "image": "https://spaceflightnow.com/wp-content/uploads/2026/10/20261029-IROSA-unfurls.jpg",
       "author": "Houston Harwood",
       "excerpt": "NASA astronaut Anil Menon and Canadian Space Agency astronaut Joshua Kutryk successfully installed and unfurled the seventh of eight new solar panels designed to power the outpost through its retirement in 2030.",
-      "source": "Spaceflight Now"
-    },
-    {
-      "title": "As it happened: spacewalkers install new solar array",
-      "link": "https://spaceflightnow.com/2026/10/29/as-it-happened-spacewalkers-install-new-solar-array/",
-      "pubDate": "2026-10-29T18:45:33.000Z",
-      "image": "https://spaceflightnow.com/wp-content/uploads/2026/10/20261029_US_EVA_100-2.jpg",
-      "author": "Spaceflight Now",
-      "excerpt": "NASA astronaut Anil Menon and Canadian Space Agency astronaut Joshua Kutryk are performing a spacewalk to install the 7th of 8 ISS Roll-Out Solar Arrays (iROSA) to upgrade the orbiting outpost's power system.",
       "source": "Spaceflight Now"
     },
     {
@@ -869,12 +869,57 @@
   ],
   "nytNews": [
     {
+      "title": "Southern Democrats Now Have a Chance to Lead. What Will They Do With It?",
+      "link": "https://www.nytimes.com/2026/11/06/us/southern-democrats-georgia-north-carolina.html",
+      "pubDate": "2026-11-07T06:16:33.000Z",
+      "image": "https://static01.nyt.com/images/2026/11/06/multimedia/06nat-south-democrats-klqj/06nat-south-democrats-klqj-mediumSquareAt3X.jpg",
+      "author": "Rick Rojas and Eduardo Medina",
+      "excerpt": "Sweeping midterm successes in Georgia and North Carolina have given the party an opportunity, and a test, to lay out a vision for governing in the South.",
+      "source": "NYT"
+    },
+    {
+      "title": "U.S. Homeless Population Had Record Drop in 2025",
+      "link": "https://www.nytimes.com/2026/11/06/us/politics/homeless-population-drop.html",
+      "pubDate": "2026-11-07T03:09:53.000Z",
+      "image": "https://static01.nyt.com/images/2026/11/06/multimedia/06dc-homeless-drop-02-gzwf/06dc-homeless-drop-02-gzwf-mediumSquareAt3X.jpg",
+      "author": "Jason DeParle",
+      "excerpt": "The Department of Housing and Urban Development credited President Trump, while homeless advocacy groups said that so-called Housing First policies of his predecessors played a part.",
+      "source": "NYT"
+    },
+    {
+      "title": "Zoo Atlanta Unveils Its New Pandas: Fu Shuang and Ping Ping",
+      "link": "https://www.nytimes.com/2026/11/06/us/atlanta-pandas.html",
+      "pubDate": "2026-11-07T03:02:09.000Z",
+      "image": null,
+      "author": "Emily Cochrane",
+      "excerpt": "Two years after two other pandas were returned to China, giant pandas were back on display in Atlanta.",
+      "source": "NYT"
+    },
+    {
       "title": "China’s Top Spy Agency Recruited Woman Who Targeted Jensen Huang",
       "link": "https://www.nytimes.com/2026/11/06/us/politics/chinese-spy-agency-nvidia-jensen-huang.html",
-      "pubDate": "2026-11-07T00:25:19.000Z",
+      "pubDate": "2026-11-07T02:18:42.000Z",
       "image": "https://static01.nyt.com/images/2026/11/06/multimedia/06dc-Spy-Chip-qtkm/06dc-Spy-Chip-qtkm-mediumSquareAt3X.jpg",
       "author": "Julian E. Barnes, Tripp Mickle, Paul Mozur and Maggie Haberman",
       "excerpt": "A memo that circulated among U.S. policymakers cited intelligence that Alice Huang, a Chinese executive who developed a relationship with Nvidia’s leader, was an asset of Beijing’s Ministry of State Security.",
+      "source": "NYT"
+    },
+    {
+      "title": "Prosecutors Vow to Keep Pursuing Death Penalty in California",
+      "link": "https://www.nytimes.com/2026/11/06/us/california-prosecutors-death-penalty.html",
+      "pubDate": "2026-11-07T00:57:32.000Z",
+      "image": "https://static01.nyt.com/images/2026/11/06/multimedia/06nat-ca-deathpenalty-phmv/06nat-ca-deathpenalty-phmv-mediumSquareAt3X.jpg",
+      "author": "Tim Arango and Laurel Rosenhall",
+      "excerpt": "Unless the next governor, Xavier Becerra, keeps commuting sentences, California’s death row is likely to slowly repopulate in the coming years.",
+      "source": "NYT"
+    },
+    {
+      "title": "In Elevating Stephen Miller, Trump Doubles Down on Hard-Line Agenda",
+      "link": "https://www.nytimes.com/2026/11/06/us/politics/susie-wiles-chief-of-staff-trump.html",
+      "pubDate": "2026-11-07T00:39:51.000Z",
+      "image": "https://static01.nyt.com/images/2026/11/06/multimedia/06dc-wiles-pkbj/06dc-wiles-pkbj-mediumSquareAt3X.jpg",
+      "author": "Maggie Haberman, Jonathan Swan and Tyler Pager",
+      "excerpt": "The new White House chief of staff is responsible for some of the most provocative policies of President Trump’s second term, as well as an aggressive approach to executive power.",
       "source": "NYT"
     },
     {
@@ -905,42 +950,6 @@
       "source": "NYT"
     },
     {
-      "title": "Prosecutors Vow to Keep Pursuing Death Penalty in California",
-      "link": "https://www.nytimes.com/2026/11/06/us/california-prosecutors-death-penalty.html",
-      "pubDate": "2026-11-06T23:39:58.000Z",
-      "image": "https://static01.nyt.com/images/2026/11/06/multimedia/06nat-ca-deathpenalty-phmv/06nat-ca-deathpenalty-phmv-mediumSquareAt3X.jpg",
-      "author": "Tim Arango",
-      "excerpt": "Unless the next governor, Xavier Becerra, keeps commuting sentences, California’s death row is likely to slowly repopulate in the coming years.",
-      "source": "NYT"
-    },
-    {
-      "title": "The Evening: Trump Replaces Chief of Staff",
-      "link": "https://www.nytimes.com/2026/11/06/briefing/stephen-miller-trump.html",
-      "pubDate": "2026-11-06T22:47:21.000Z",
-      "image": "https://static01.nyt.com/images/2026/11/06/multimedia/06evening-nl-trump-miller/06evening-nl-trump-miller-mediumSquareAt3X.jpg",
-      "author": "Whet Moser",
-      "excerpt": "Plus, a surprisingly good jobs report. Here’s the latest at the end of Friday.",
-      "source": "NYT"
-    },
-    {
-      "title": "Zoo Atlanta Unveils Its New Pandas: Fu Shuang and Ping Ping",
-      "link": "https://www.nytimes.com/2026/11/06/us/atlanta-pandas.html",
-      "pubDate": "2026-11-06T22:22:06.000Z",
-      "image": null,
-      "author": "Emily Cochrane",
-      "excerpt": "Two years after two other pandas were returned to China, giant pandas were back on display in Atlanta.",
-      "source": "NYT"
-    },
-    {
-      "title": "Southern Democrats Now Have a Chance to Lead. What Will They Do With It?",
-      "link": "https://www.nytimes.com/2026/11/06/us/southern-democrats-georgia-north-carolina.html",
-      "pubDate": "2026-11-06T21:57:57.000Z",
-      "image": "https://static01.nyt.com/images/2026/11/06/multimedia/06nat-south-democrats-klqj/06nat-south-democrats-klqj-mediumSquareAt3X.jpg",
-      "author": "Rick Rojas and Eduardo Medina",
-      "excerpt": "Sweeping midterm successes in Georgia and North Carolina have given the party an opportunity, and a test, to lay out a vision for governing in the South.",
-      "source": "NYT"
-    },
-    {
       "title": "Hegseth Faces Impeachment Effort and Bipartisan Scrutiny After Midterm Elections",
       "link": "https://www.nytimes.com/2026/11/06/us/politics/hegseth-trump-iran-war.html",
       "pubDate": "2026-11-06T21:27:47.000Z",
@@ -950,30 +959,12 @@
       "source": "NYT"
     },
     {
-      "title": "Global Stocks Follow U.S. Sell-Off as A.I. Spending Fears Spread",
-      "link": "https://www.nytimes.com/2026/11/06/business/global-stocks-markets-tech-ai.html",
-      "pubDate": "2026-11-06T21:11:05.000Z",
-      "image": null,
-      "author": "Joe Rennison",
-      "excerpt": "With a lot of information to process in a short time, many market watchers said that the moves were extreme — in both directions.",
-      "source": "NYT"
-    },
-    {
       "title": "How Elon Musk Frittered Away Nearly $500 Million on the Midterm Elections",
       "link": "https://www.nytimes.com/2026/11/06/us/politics/musk-trump-midterm-election-spending.html",
       "pubDate": "2026-11-06T21:05:42.000Z",
       "image": "https://static01.nyt.com/images/2026/11/05/multimedia/05pol-musk-midterms-kmfc-copy/05pol-musk-midterms-kmfc-mediumSquareAt3X.jpg",
       "author": "Theodore Schleifer",
       "excerpt": "Behind the scenes, the world’s richest person spent a record amount over two years to bend the country’s politics to his will. He couldn’t.",
-      "source": "NYT"
-    },
-    {
-      "title": "The Stock Market Can Be Volatile. Here’s How to Stay Calm.",
-      "link": "https://www.nytimes.com/2026/11/06/your-money/stock-market-volatility-investments.html",
-      "pubDate": "2026-11-06T19:20:40.000Z",
-      "image": "https://static01.nyt.com/images/2026/11/06/multimedia/06biz-money-tfcw/06biz-money-tfcw-mediumSquareAt3X.jpg",
-      "author": "Ron Lieber",
-      "excerpt": "Feeling a bit wobbly? Here are four things to consider that might provide some peace of mind.",
       "source": "NYT"
     },
     {
@@ -997,7 +988,7 @@
     {
       "title": "U.S. Attorney Who Oversaw Centerpiece of Trump’s Revenge Campaign Resigns",
       "link": "https://www.nytimes.com/2026/11/06/us/politics/jason-reding-quinones-resigns.html",
-      "pubDate": "2026-11-06T18:38:11.000Z",
+      "pubDate": "2026-11-06T18:38:12.000Z",
       "image": "https://static01.nyt.com/images/2026/11/06/multimedia/dc-quinones-vzfc/dc-quinones-vzfc-mediumSquareAt3X.jpg",
       "author": "Devlin Barrett, Glenn Thrush and Alan Feuer",
       "excerpt": "Jason Reding Quiñones joins what is expected to be a succession of departures at the Justice Department after the midterm elections, including that of the leader of the national security division.",
@@ -1006,19 +997,10 @@
     {
       "title": "After These Midterms, JD Vance Is in a Bind",
       "link": "https://www.nytimes.com/2026/11/06/opinion/jd-vance-midterms.html",
-      "pubDate": "2026-11-06T17:04:21.000Z",
-      "image": "https://static01.nyt.com/images/2026/11/06/multimedia/06schmitz-bwqz/06schmitz-bwqz-mediumSquareAt3X.jpg",
+      "pubDate": "2026-11-06T17:04:22.000Z",
+      "image": "https://static01.nyt.com/images/2026/11/08/multimedia/06schmitz-bwqz/06schmitz-bwqz-mediumSquareAt3X.jpg",
       "author": "Matthew Schmitz",
       "excerpt": "He will need to sell voters on a tarnished Trump brand.",
-      "source": "NYT"
-    },
-    {
-      "title": "She Commands the Sunken Titanic, From 1,000 Miles Away",
-      "link": "https://www.nytimes.com/2026/11/06/arts/design/titanic-artifacts-federal-judge-maritime-law.html",
-      "pubDate": "2026-11-06T14:05:20.000Z",
-      "image": "https://static01.nyt.com/images/2026/10/29/multimedia/00cul-titanic-judge-02-wjvq/00cul-titanic-judge-02-wjvq-mediumSquareAt3X.jpg",
-      "author": "Marc Davis",
-      "excerpt": "A Virginia judge, empowered by quirks in maritime law, has overseen the salvage of the remote shipwreck for decades. Now her rule is being challenged.",
       "source": "NYT"
     },
     {
