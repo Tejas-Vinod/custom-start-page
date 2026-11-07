@@ -1,6 +1,15 @@
 {
   "spaceNews": [
     {
+      "title": "NASA Seeks Next Generation of Explorers to Join Astronaut Corps",
+      "link": "https://www.nasa.gov/news-release/nasa-seeks-next-generation-of-explorers-to-join-astronaut-corps/",
+      "pubDate": "2026-11-07T18:11:57.000Z",
+      "image": "https://www.nasa.gov/wp-content/uploads/2026/11/jsc2025e076292large.jpg?w=1920",
+      "author": "Jessica Taveau",
+      "excerpt": "NASA is looking for the explorers who will help write the next chapter of human spaceflight. Applications are now open for the agency’s next class of astronauts, who will join NASA as America returns to the Moon, builds the Moon Base, and lays the groundwork for the first crewed missions to Mars. The next generation […",
+      "source": "NASA"
+    },
+    {
       "title": "APOD: 2026 November 7 – De Gerlache-Kocher Massif",
       "link": "https://science.nasa.gov/image-article/apod-2026-november-7-de-gerlache-kocher-massif/",
       "pubDate": "2026-11-07T05:05:00.000Z",
@@ -259,15 +268,6 @@
       "image": "https://assets.science.nasa.gov/dynamicimage/assets/science/cds/apod/apod/2026/november/PIA17144EnceladusPandora.png?w=982&#038;h=575&#038;fit=clip&#038;crop=faces%2Cfocalpoint",
       "author": "",
       "excerpt": "APOD Science APOD APOD: 2026 November 5 –… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional ",
-      "source": "NASA"
-    },
-    {
-      "title": "Cyprus: Island of Snakes, Cats, and Ophiolites",
-      "link": "https://science.nasa.gov/earth/earth-observatory/cyprus-island-of-snakes-cats-and-ophiolites/",
-      "pubDate": "2026-11-05T05:01:00.000Z",
-      "image": "https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2026/island-of-snakes,-cats,-and-ophiolites/akrotirisaltlake_oli_20261010.jpg?w=1880&#038;h=1253&#038;fit=clip&#038;crop=faces%2Cfocalpoint",
-      "author": "",
-      "excerpt": "The third-largest island in the Mediterranean Sea exposes an ancient piece of the ocean floor and hosts a clowder of cats.",
       "source": "NASA"
     },
     {
@@ -869,30 +869,48 @@
   ],
   "nytNews": [
     {
-      "title": "Democrats Need a Bold Governing Agenda",
-      "link": "https://www.nytimes.com/2026/11/07/opinion/midterms-democrats-won-agenda.html",
-      "pubDate": "2026-11-07T13:45:35.000Z",
-      "image": "https://static01.nyt.com/images/2026/11/08/multimedia/07agenda-editorial-kpvc-sub/07agenda-editorial-kpvc-mediumSquareAt3X.jpg",
-      "author": "The Editorial Board",
-      "excerpt": "If Democrats rise to this moment, they can turn a single night’s victory into a new American promise.",
+      "title": "For Stephen Miller, Election Defeat Is No Reason to Back Down on Immigration Crackdown",
+      "link": "https://www.nytimes.com/2026/11/07/us/politics/stephen-miller-midterm-elections.html",
+      "pubDate": "2026-11-07T18:29:56.000Z",
+      "image": "https://static01.nyt.com/images/2026/11/07/multimedia/dc-miller-01-qwcf/dc-miller-01-qwcf-mediumSquareAt3X.jpg",
+      "author": "Zolan Kanno-Youngs and Hamed Aleaziz",
+      "excerpt": "The president’s new chief of staff has already demonstrated his intention to forge ahead with an agenda that many voters rejected.",
       "source": "NYT"
     },
     {
-      "title": "Democrats, Newly Ascendant, Begin a Fight to Shape the Party’s Future",
-      "link": "https://www.nytimes.com/2026/11/07/us/politics/democrats-midterms-2028-presidential-race.html",
-      "pubDate": "2026-11-07T13:11:20.000Z",
-      "image": "https://static01.nyt.com/images/2026/11/07/us/07pol-democrats/07pol-democrats-mediumSquareAt3X.jpg",
-      "author": "Lisa Lerer and Reid J. Epstein",
-      "excerpt": "At a moment of opportunity for the party, its long-feuding factions are seizing on the midterm results to make their case for tacking to the center or to the left.",
+      "title": "Inside the Operation That Helped Ukraine Reverse Some Russian War Gains",
+      "link": "https://www.nytimes.com/2026/11/07/world/europe/ukraine-russia-war-operation-vivaldi.html",
+      "pubDate": "2026-11-07T18:17:34.000Z",
+      "image": "https://static01.nyt.com/images/2026/11/05/multimedia/05int-ukraine-battlefield-01-tkvw-promo/05int-ukraine-battlefield-01-tkvw-mediumSquareAt3X.jpg",
+      "author": "Carlotta Gall, Kamila Hrabchuk and Mauricio Lima",
+      "excerpt": "After months of secrecy, Ukrainian commanders let New York Times journalists join them in bunkers and training grounds used to reverse some Russian territorial gains.",
       "source": "NYT"
     },
     {
-      "title": "What Michelle Goldberg Learned From the Most Exciting Democrats",
-      "link": "https://www.nytimes.com/2026/11/07/opinion/ezra-klein-podcast-michelle-goldberg.html",
-      "pubDate": "2026-11-07T12:56:13.000Z",
-      "image": "https://static01.nyt.com/images/2026/11/07/opinion/07eks-goldberg-image01/07eks-goldberg-image01-mediumSquareAt3X.png",
-      "author": "Ezra Klein and Annie Galvin",
-      "excerpt": "Michelle Goldberg reported on the Democrats’ most exciting campaigns. Here’s what she saw.",
+      "title": "We the People Finally Turn on Trump",
+      "link": "https://www.nytimes.com/2026/11/07/opinion/trump-midterms-maga-base.html",
+      "pubDate": "2026-11-07T16:47:07.000Z",
+      "image": "https://static01.nyt.com/images/2026/11/08/multimedia/07dowd-hlqm/07dowd-hlqm-mediumSquareAt3X-v2.jpg",
+      "author": "Maureen Dowd",
+      "excerpt": "A Norma Desmond crash-out to end all crash-outs.",
+      "source": "NYT"
+    },
+    {
+      "title": "Schumer Is on Track to Remain Democratic Leader in Senate After Election Blowout, Aides Say",
+      "link": "https://www.nytimes.com/2026/11/07/us/politics/schumer-election-democrats-senate.html",
+      "pubDate": "2026-11-07T16:22:29.000Z",
+      "image": "https://static01.nyt.com/images/2026/11/07/multimedia/07dc-schumer-wgpk/07dc-schumer-wgpk-mediumSquareAt3X.jpg",
+      "author": "Carl Hulse",
+      "excerpt": "The Democratic leader still faces skeptics in his ranks and hostility from some activists, but aides say he has enough commitments of support to be elected majority leader.",
+      "source": "NYT"
+    },
+    {
+      "title": "Illeana Douglas Looks Back on Hollywood’s Biggest ‘Cat Fight’",
+      "link": "https://www.nytimes.com/2026/11/07/style/illeana-douglas-the-women-cat-fight.html",
+      "pubDate": "2026-11-07T13:55:57.000Z",
+      "image": "https://static01.nyt.com/images/2026/11/07/multimedia/07ST-ILLEANA-DOUGLAS-4-bjvh-grid-hp/07ST-ILLEANA-DOUGLAS-4-bjvh-mediumSquareAt3X.jpg",
+      "author": "Maureen Dowd",
+      "excerpt": "After publishing a book about the 1939 classic “The Women,” the actress and writer talks about her film career and her role in #MeToo.",
       "source": "NYT"
     },
     {
@@ -932,30 +950,12 @@
       "source": "NYT"
     },
     {
-      "title": "Inside the Operation That Helped Ukraine Reverse Some Russian War Gains",
-      "link": "https://www.nytimes.com/2026/11/07/world/europe/ukraine-russia-war-operation-vivaldi.html",
-      "pubDate": "2026-11-07T10:01:41.000Z",
-      "image": "https://static01.nyt.com/images/2026/11/05/multimedia/05int-ukraine-battlefield-01-tkvw-promo/05int-ukraine-battlefield-01-tkvw-mediumSquareAt3X.jpg",
-      "author": "Carlotta Gall, Kamila Hrabchuk and Mauricio Lima",
-      "excerpt": "After months of secrecy, Ukrainian commanders let New York Times journalists join them in bunkers and training grounds used to reverse some Russian territorial gains.",
-      "source": "NYT"
-    },
-    {
       "title": "U.S. Cleared Nvidia Chips to Chinese Firms With Empty Offices and Troubling Ties",
       "link": "https://www.nytimes.com/2026/11/07/business/economy/nvidia-chips-chinese-firms.html",
-      "pubDate": "2026-11-07T10:00:40.000Z",
+      "pubDate": "2026-11-07T10:00:41.000Z",
       "image": "https://static01.nyt.com/images/2026/11/07/multimedia/07dc-china-chips-01-fjhg/07dc-china-chips-01-fjhg-mediumSquareAt3X.jpg",
       "author": "Ana Swanson, Kalley Huang and Keith Bradsher",
       "excerpt": "The Commerce Department has approved dozens of Chinese companies to handle Nvidia’s H200 chips, some of which have ties to firms under sanctions over national security.",
-      "source": "NYT"
-    },
-    {
-      "title": "Illeana Douglas Looks Back on Hollywood’s Biggest ‘Cat Fight’",
-      "link": "https://www.nytimes.com/2026/11/07/style/illeana-douglas-the-women-cat-fight.html",
-      "pubDate": "2026-11-07T10:00:31.000Z",
-      "image": "https://static01.nyt.com/images/2026/11/07/multimedia/07ST-ILLEANA-DOUGLAS-4-bjvh-grid-hp/07ST-ILLEANA-DOUGLAS-4-bjvh-mediumSquareAt3X.jpg",
-      "author": "Maureen Dowd",
-      "excerpt": "After publishing a book about the 1939 classic “The Women,” the actress and writer talks about her film career and her role in #MeToo.",
       "source": "NYT"
     },
     {
@@ -970,25 +970,16 @@
     {
       "title": "China’s Top Spy Agency Recruited Woman Who Targeted Jensen Huang",
       "link": "https://www.nytimes.com/2026/11/06/us/politics/chinese-spy-agency-nvidia-jensen-huang.html",
-      "pubDate": "2026-11-07T02:18:42.000Z",
+      "pubDate": "2026-11-07T02:18:43.000Z",
       "image": "https://static01.nyt.com/images/2026/11/06/multimedia/06dc-Spy-Chip-qtkm/06dc-Spy-Chip-qtkm-mediumSquareAt3X.jpg",
       "author": "Julian E. Barnes, Tripp Mickle, Paul Mozur and Maggie Haberman",
       "excerpt": "A memo that circulated among U.S. policymakers cited intelligence that Alice Huang, a Chinese executive who developed a relationship with Nvidia’s leader, was an asset of Beijing’s Ministry of State Security.",
       "source": "NYT"
     },
     {
-      "title": "In Elevating Stephen Miller, Trump Doubles Down on Hard-Line Agenda",
-      "link": "https://www.nytimes.com/2026/11/06/us/politics/susie-wiles-chief-of-staff-trump.html",
-      "pubDate": "2026-11-07T00:39:51.000Z",
-      "image": "https://static01.nyt.com/images/2026/11/06/multimedia/06dc-wiles-pkbj/06dc-wiles-pkbj-mediumSquareAt3X.jpg",
-      "author": "Maggie Haberman, Jonathan Swan and Tyler Pager",
-      "excerpt": "The new White House chief of staff is responsible for some of the most provocative policies of President Trump’s second term, as well as an aggressive approach to executive power.",
-      "source": "NYT"
-    },
-    {
       "title": "Susie Wiles Is the Latest Powerful Woman to Exit the Trump Administration",
       "link": "https://www.nytimes.com/2026/11/06/us/politics/susie-wiles-trump-women.html",
-      "pubDate": "2026-11-06T23:53:13.000Z",
+      "pubDate": "2026-11-06T23:53:14.000Z",
       "image": "https://static01.nyt.com/images/2026/11/06/multimedia/06trump-wiles-women1-tbkh/06trump-wiles-women1-tbkh-mediumSquareAt3X.jpg",
       "author": "Chris Cameron",
       "excerpt": "A wave of high-ranking women have left the Trump administration in the past year. Many were replaced by men.",
@@ -997,7 +988,7 @@
     {
       "title": "How Elon Musk Frittered Away Nearly $500 Million on the Midterm Elections",
       "link": "https://www.nytimes.com/2026/11/06/us/politics/musk-trump-midterm-election-spending.html",
-      "pubDate": "2026-11-06T21:05:42.000Z",
+      "pubDate": "2026-11-06T21:05:43.000Z",
       "image": "https://static01.nyt.com/images/2026/11/05/multimedia/05pol-musk-midterms-kmfc-copy/05pol-musk-midterms-kmfc-mediumSquareAt3X.jpg",
       "author": "Theodore Schleifer",
       "excerpt": "Behind the scenes, the world’s richest person spent a record amount over two years to bend the country’s politics to his will. He couldn’t.",
