@@ -869,30 +869,102 @@
   ],
   "nytNews": [
     {
-      "title": "Southern Democrats Now Have a Chance to Lead. What Will They Do With It?",
-      "link": "https://www.nytimes.com/2026/11/06/us/southern-democrats-georgia-north-carolina.html",
-      "pubDate": "2026-11-07T06:16:33.000Z",
-      "image": "https://static01.nyt.com/images/2026/11/06/multimedia/06nat-south-democrats-klqj/06nat-south-democrats-klqj-mediumSquareAt3X.jpg",
-      "author": "Rick Rojas and Eduardo Medina",
-      "excerpt": "Sweeping midterm successes in Georgia and North Carolina have given the party an opportunity, and a test, to lay out a vision for governing in the South.",
+      "title": "Democrats Need a Bold Governing Agenda",
+      "link": "https://www.nytimes.com/2026/11/07/opinion/midterms-democrats-won-agenda.html",
+      "pubDate": "2026-11-07T13:45:35.000Z",
+      "image": "https://static01.nyt.com/images/2026/11/08/multimedia/07agenda-editorial-kpvc-sub/07agenda-editorial-kpvc-mediumSquareAt3X.jpg",
+      "author": "The Editorial Board",
+      "excerpt": "If Democrats rise to this moment, they can turn a single night’s victory into a new American promise.",
       "source": "NYT"
     },
     {
-      "title": "U.S. Homeless Population Had Record Drop in 2025",
-      "link": "https://www.nytimes.com/2026/11/06/us/politics/homeless-population-drop.html",
-      "pubDate": "2026-11-07T03:09:53.000Z",
-      "image": "https://static01.nyt.com/images/2026/11/06/multimedia/06dc-homeless-drop-02-gzwf/06dc-homeless-drop-02-gzwf-mediumSquareAt3X.jpg",
-      "author": "Jason DeParle",
-      "excerpt": "The Department of Housing and Urban Development credited President Trump, while homeless advocacy groups said that so-called Housing First policies of his predecessors played a part.",
+      "title": "Democrats, Newly Ascendant, Begin a Fight to Shape the Party’s Future",
+      "link": "https://www.nytimes.com/2026/11/07/us/politics/democrats-midterms-2028-presidential-race.html",
+      "pubDate": "2026-11-07T13:11:20.000Z",
+      "image": "https://static01.nyt.com/images/2026/11/07/us/07pol-democrats/07pol-democrats-mediumSquareAt3X.jpg",
+      "author": "Lisa Lerer and Reid J. Epstein",
+      "excerpt": "At a moment of opportunity for the party, its long-feuding factions are seizing on the midterm results to make their case for tacking to the center or to the left.",
       "source": "NYT"
     },
     {
-      "title": "Zoo Atlanta Unveils Its New Pandas: Fu Shuang and Ping Ping",
-      "link": "https://www.nytimes.com/2026/11/06/us/atlanta-pandas.html",
-      "pubDate": "2026-11-07T03:02:09.000Z",
+      "title": "What Michelle Goldberg Learned From the Most Exciting Democrats",
+      "link": "https://www.nytimes.com/2026/11/07/opinion/ezra-klein-podcast-michelle-goldberg.html",
+      "pubDate": "2026-11-07T12:56:13.000Z",
+      "image": "https://static01.nyt.com/images/2026/11/07/opinion/07eks-goldberg-image01/07eks-goldberg-image01-mediumSquareAt3X.png",
+      "author": "Ezra Klein and Annie Galvin",
+      "excerpt": "Michelle Goldberg reported on the Democrats’ most exciting campaigns. Here’s what she saw.",
+      "source": "NYT"
+    },
+    {
+      "title": "This Israeli Vows to Oust Netanyahu. Here’s How.",
+      "link": "https://www.nytimes.com/2026/11/07/world/middleeast/eisenkot-israel-new-government.html",
+      "pubDate": "2026-11-07T12:42:56.000Z",
+      "image": "https://static01.nyt.com/images/2026/11/06/multimedia/06int-israel-eisenkot-01-tjwp/06int-israel-eisenkot-01-tjwp-mediumSquareAt3X-v2.jpg",
+      "author": "David M. Halbfinger",
+      "excerpt": "Gadi Eisenkot is poised to get a chance to form a new government, replacing Benjamin Netanyahu as prime minister. But the obstacles are formidable.",
+      "source": "NYT"
+    },
+    {
+      "title": "Hunkering Down",
+      "link": "https://www.nytimes.com/2026/11/07/briefing/hunkering-down.html",
+      "pubDate": "2026-11-07T11:24:46.000Z",
       "image": null,
-      "author": "Emily Cochrane",
-      "excerpt": "Two years after two other pandas were returned to China, giant pandas were back on display in Atlanta.",
+      "author": "Melissa Kirsch",
+      "excerpt": "The urge to hibernate comes on strong as the days get shorter. But there are good reasons to resist, at least a little.",
+      "source": "NYT"
+    },
+    {
+      "title": "The Good, the Bad and the Cringe: 10 Ads That Defined the Midterms",
+      "link": "https://www.nytimes.com/2026/11/07/us/politics/midterm-ads-republicans-democrats.html",
+      "pubDate": "2026-11-07T10:03:35.000Z",
+      "image": null,
+      "author": "Shane Goldmacher and Tim Balk",
+      "excerpt": "In a Democratic landslide election, here are the ads that stood out. Some were effective, while others backfired.",
+      "source": "NYT"
+    },
+    {
+      "title": "Turning Point Bet on the Midterms and Lost. Some Republicans Are Furious.",
+      "link": "https://www.nytimes.com/2026/11/07/us/turning-point-arizona-midterms.html",
+      "pubDate": "2026-11-07T10:02:07.000Z",
+      "image": "https://static01.nyt.com/images/2026/11/07/multimedia/07nat-turningpoint-midterms-01-thwk/07nat-turningpoint-midterms-01-thwk-mediumSquareAt3X-v2.jpg",
+      "author": "Reis Thebault and Sejal Govindarao",
+      "excerpt": "Candidates backed by the right-wing activist group did not fare well, and the results set off recriminations from establishment Republicans.",
+      "source": "NYT"
+    },
+    {
+      "title": "Inside the Operation That Helped Ukraine Reverse Some Russian War Gains",
+      "link": "https://www.nytimes.com/2026/11/07/world/europe/ukraine-russia-war-operation-vivaldi.html",
+      "pubDate": "2026-11-07T10:01:41.000Z",
+      "image": "https://static01.nyt.com/images/2026/11/05/multimedia/05int-ukraine-battlefield-01-tkvw-promo/05int-ukraine-battlefield-01-tkvw-mediumSquareAt3X.jpg",
+      "author": "Carlotta Gall, Kamila Hrabchuk and Mauricio Lima",
+      "excerpt": "After months of secrecy, Ukrainian commanders let New York Times journalists join them in bunkers and training grounds used to reverse some Russian territorial gains.",
+      "source": "NYT"
+    },
+    {
+      "title": "U.S. Cleared Nvidia Chips to Chinese Firms With Empty Offices and Troubling Ties",
+      "link": "https://www.nytimes.com/2026/11/07/business/economy/nvidia-chips-chinese-firms.html",
+      "pubDate": "2026-11-07T10:00:40.000Z",
+      "image": "https://static01.nyt.com/images/2026/11/07/multimedia/07dc-china-chips-01-fjhg/07dc-china-chips-01-fjhg-mediumSquareAt3X.jpg",
+      "author": "Ana Swanson, Kalley Huang and Keith Bradsher",
+      "excerpt": "The Commerce Department has approved dozens of Chinese companies to handle Nvidia’s H200 chips, some of which have ties to firms under sanctions over national security.",
+      "source": "NYT"
+    },
+    {
+      "title": "Illeana Douglas Looks Back on Hollywood’s Biggest ‘Cat Fight’",
+      "link": "https://www.nytimes.com/2026/11/07/style/illeana-douglas-the-women-cat-fight.html",
+      "pubDate": "2026-11-07T10:00:31.000Z",
+      "image": "https://static01.nyt.com/images/2026/11/07/multimedia/07ST-ILLEANA-DOUGLAS-4-bjvh-grid-hp/07ST-ILLEANA-DOUGLAS-4-bjvh-mediumSquareAt3X.jpg",
+      "author": "Maureen Dowd",
+      "excerpt": "After publishing a book about the 1939 classic “The Women,” the actress and writer talks about her film career and her role in #MeToo.",
+      "source": "NYT"
+    },
+    {
+      "title": "What to Know About Stephen Miller, Trump’s New Chief of Staff",
+      "link": "https://www.nytimes.com/2026/11/06/us/politics/stephen-miller-white-house-chief-staff.html",
+      "pubDate": "2026-11-07T02:56:14.000Z",
+      "image": "https://static01.nyt.com/images/2026/08/07/multimedia/06trump-wiles-stephen-miller1/06trump-wiles-stephen-miller1-mediumSquareAt3X.jpg",
+      "author": "Chris Cameron",
+      "excerpt": "The architect of President Trump’s mass deportation campaign, Mr. Miller has been the public face of many of Mr. Trump’s immigration policies.",
       "source": "NYT"
     },
     {
@@ -905,39 +977,12 @@
       "source": "NYT"
     },
     {
-      "title": "Prosecutors Vow to Keep Pursuing Death Penalty in California",
-      "link": "https://www.nytimes.com/2026/11/06/us/california-prosecutors-death-penalty.html",
-      "pubDate": "2026-11-07T00:57:32.000Z",
-      "image": "https://static01.nyt.com/images/2026/11/06/multimedia/06nat-ca-deathpenalty-phmv/06nat-ca-deathpenalty-phmv-mediumSquareAt3X.jpg",
-      "author": "Tim Arango and Laurel Rosenhall",
-      "excerpt": "Unless the next governor, Xavier Becerra, keeps commuting sentences, California’s death row is likely to slowly repopulate in the coming years.",
-      "source": "NYT"
-    },
-    {
       "title": "In Elevating Stephen Miller, Trump Doubles Down on Hard-Line Agenda",
       "link": "https://www.nytimes.com/2026/11/06/us/politics/susie-wiles-chief-of-staff-trump.html",
       "pubDate": "2026-11-07T00:39:51.000Z",
       "image": "https://static01.nyt.com/images/2026/11/06/multimedia/06dc-wiles-pkbj/06dc-wiles-pkbj-mediumSquareAt3X.jpg",
       "author": "Maggie Haberman, Jonathan Swan and Tyler Pager",
       "excerpt": "The new White House chief of staff is responsible for some of the most provocative policies of President Trump’s second term, as well as an aggressive approach to executive power.",
-      "source": "NYT"
-    },
-    {
-      "title": "Cornell Faculty Passes Vote of No Confidence Over Handling of Sexual Assault Case",
-      "link": "https://www.nytimes.com/2026/11/06/nyregion/cornell-no-confidence-vote.html",
-      "pubDate": "2026-11-07T00:06:37.000Z",
-      "image": "https://static01.nyt.com/images/2026/11/06/multimedia/met-cornell-senate1-mplw/met-cornell-senate1-mplw-mediumSquareAt3X.jpg",
-      "author": "Sharon Otterman and Alan Blinder",
-      "excerpt": "The largely symbolic vote serves as a sharp rebuke of campus leadership’s handling of an explosive rape allegation that put the university in the national spotlight.",
-      "source": "NYT"
-    },
-    {
-      "title": "86 Deaths and Counting: N.Y.C. Fire Fatalities Have Nearly Doubled This Year",
-      "link": "https://www.nytimes.com/2026/11/06/nyregion/nyc-fire-deaths.html",
-      "pubDate": "2026-11-07T00:01:39.000Z",
-      "image": "https://static01.nyt.com/images/2026/11/06/multimedia/00met-sunsetfire-tbd-promo-fqvc/00met-sunsetfire-tbd-promo-fqvc-mediumSquareAt3X.jpg",
-      "author": "Claire Fahy",
-      "excerpt": "The Brooklyn blaze that killed six people this week renewed focus on the soaring death toll and raised questions about whether e-bike batteries have played a role.",
       "source": "NYT"
     },
     {
@@ -950,66 +995,12 @@
       "source": "NYT"
     },
     {
-      "title": "Hegseth Faces Impeachment Effort and Bipartisan Scrutiny After Midterm Elections",
-      "link": "https://www.nytimes.com/2026/11/06/us/politics/hegseth-trump-iran-war.html",
-      "pubDate": "2026-11-06T21:27:47.000Z",
-      "image": "https://static01.nyt.com/images/2026/11/06/multimedia/06dc-hegseth-fqbt/06dc-hegseth-fqbt-mediumSquareAt3X.jpg",
-      "author": "Helene Cooper, Greg Jaffe and Eric Schmitt",
-      "excerpt": "A looming impeachment push could put President Trump’s polarizing defense secretary in a standoff with Democrats and Republicans.",
-      "source": "NYT"
-    },
-    {
       "title": "How Elon Musk Frittered Away Nearly $500 Million on the Midterm Elections",
       "link": "https://www.nytimes.com/2026/11/06/us/politics/musk-trump-midterm-election-spending.html",
       "pubDate": "2026-11-06T21:05:42.000Z",
       "image": "https://static01.nyt.com/images/2026/11/05/multimedia/05pol-musk-midterms-kmfc-copy/05pol-musk-midterms-kmfc-mediumSquareAt3X.jpg",
       "author": "Theodore Schleifer",
       "excerpt": "Behind the scenes, the world’s richest person spent a record amount over two years to bend the country’s politics to his will. He couldn’t.",
-      "source": "NYT"
-    },
-    {
-      "title": "They Spent Millions to Keep Their Dream Cruise Afloat. It Died Anyway.",
-      "link": "https://www.nytimes.com/2026/11/06/travel/villa-vie-residences-odyssey-cruise.html",
-      "pubDate": "2026-11-06T18:58:23.000Z",
-      "image": "https://static01.nyt.com/images/2026/11/05/multimedia/05trav-cruise-lkwz/05trav-cruise-lkwz-mediumSquareAt3X.jpg",
-      "author": "Ceylan Yeğinsu",
-      "excerpt": "Secrecy, debt and soaring fuel costs all contributed to the Odyssey’s downfall. Here’s an inside look at how the “endless cruise” unraveled.",
-      "source": "NYT"
-    },
-    {
-      "title": "Republicans’ Losses in New York’s Midterms Were Bad. Then Came Their Post-Election Freakout.",
-      "link": "https://www.nytimes.com/2026/11/06/nyregion/new-york-election-midterms-republicans-blakeman-stefanik.html",
-      "pubDate": "2026-11-06T18:45:49.000Z",
-      "image": "https://static01.nyt.com/images/2026/11/06/multimedia/06met-ny-gop-whtj/06met-ny-gop-whtj-mediumSquareAt3X.jpg",
-      "author": "Dana Rubinstein",
-      "excerpt": "The party’s losses in New York mirrored those across the nation, but leading Republicans in the state quickly blamed each other for the results.",
-      "source": "NYT"
-    },
-    {
-      "title": "U.S. Attorney Who Oversaw Centerpiece of Trump’s Revenge Campaign Resigns",
-      "link": "https://www.nytimes.com/2026/11/06/us/politics/jason-reding-quinones-resigns.html",
-      "pubDate": "2026-11-06T18:38:12.000Z",
-      "image": "https://static01.nyt.com/images/2026/11/06/multimedia/dc-quinones-vzfc/dc-quinones-vzfc-mediumSquareAt3X.jpg",
-      "author": "Devlin Barrett, Glenn Thrush and Alan Feuer",
-      "excerpt": "Jason Reding Quiñones joins what is expected to be a succession of departures at the Justice Department after the midterm elections, including that of the leader of the national security division.",
-      "source": "NYT"
-    },
-    {
-      "title": "After These Midterms, JD Vance Is in a Bind",
-      "link": "https://www.nytimes.com/2026/11/06/opinion/jd-vance-midterms.html",
-      "pubDate": "2026-11-06T17:04:22.000Z",
-      "image": "https://static01.nyt.com/images/2026/11/08/multimedia/06schmitz-bwqz/06schmitz-bwqz-mediumSquareAt3X.jpg",
-      "author": "Matthew Schmitz",
-      "excerpt": "He will need to sell voters on a tarnished Trump brand.",
-      "source": "NYT"
-    },
-    {
-      "title": "What to Expect From Lame-Duck Trump",
-      "link": "https://www.nytimes.com/video/opinion/100000011257733/what-to-expect-from-lame-duck-trump.html",
-      "pubDate": "2026-11-06T10:02:31.000Z",
-      "image": null,
-      "author": "",
-      "excerpt": "“When he feels cornered, when he feels attacked, he fights back,” the columnist Carlos Lozada says of Donald Trump, who is now entering the lame-duck phase of his presidency. Columnists from across Times Opinion share their predictions for what the final two years of Trump’s term might look like — and they’re not prett",
       "source": "NYT"
     }
   ]
