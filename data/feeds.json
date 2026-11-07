@@ -1,6 +1,15 @@
 {
   "spaceNews": [
     {
+      "title": "Falcon 9 to launch from California on classified mission for U.S. Space Force",
+      "link": "https://spaceflightnow.com/2026/11/06/falcon-9-to-launch-from-california-on-classified-mission-for-u-s-space-force/",
+      "pubDate": "2026-11-06T22:00:39.000Z",
+      "image": "https://spaceflightnow.com/wp-content/uploads/2026/11/20261106-F9-File-Feature-Image.jpg",
+      "author": "Steven Young",
+      "excerpt": "Liftoff from pad 4E at Vandenberg Space Force Base is scheduled for 4:48 p.m. PST (7:48 p.m. EST / 0048 UTC). The mission is thought to be carrying satellites based on SpaceX’s Starshield platform.",
+      "source": "Spaceflight Now"
+    },
+    {
       "title": "AFAS offers financial assistance for counseling, therapy ",
       "link": "https://www.spaceforce.mil/News/Article-Display/Article/4643542/afas-offers-financial-assistance-for-counseling-therapy/",
       "pubDate": "2026-11-06T16:31:00.000Z",
@@ -487,15 +496,6 @@
       "source": "SpaceNews"
     },
     {
-      "title": "United Launch Alliance announces mid-November return to flight for Vulcan rocket",
-      "link": "https://spaceflightnow.com/2026/10/28/united-launch-alliance-announces-mid-november-return-to-flight-for-vulcan-rocket/",
-      "pubDate": "2026-10-28T22:46:41.000Z",
-      "image": "https://spaceflightnow.com/wp-content/uploads/2026/10/20261028-Vulcan-Leo-1-Fairing.jpg",
-      "author": "Will Robinson-Smith",
-      "excerpt": "The anticipated launch will be the first for the heavy-lift rocket since a mid-flight nozzle failure on a solid rocket booster. The rocket will carry 40 Amazon Leo satellites to orbit.",
-      "source": "Spaceflight Now"
-    },
-    {
       "title": "There may be a new dwarf planet just beyond Pluto",
       "link": "https://www.newscientist.com/article/2596282-there-may-be-a-new-dwarf-planet-just-beyond-pluto/?utm_campaign=RSS|NSNS&utm_content=space&utm_medium=RSS&utm_source=NSNS",
       "pubDate": "2026-10-28T16:51:28.000Z",
@@ -869,39 +869,102 @@
   ],
   "nytNews": [
     {
+      "title": "China’s Top Spy Agency Recruited Woman Who Targeted Jensen Huang",
+      "link": "https://www.nytimes.com/2026/11/06/us/politics/chinese-spy-agency-nvidia-jensen-huang.html",
+      "pubDate": "2026-11-07T00:25:19.000Z",
+      "image": "https://static01.nyt.com/images/2026/11/06/multimedia/06dc-Spy-Chip-qtkm/06dc-Spy-Chip-qtkm-mediumSquareAt3X.jpg",
+      "author": "Julian E. Barnes, Tripp Mickle, Paul Mozur and Maggie Haberman",
+      "excerpt": "A memo that circulated among U.S. policymakers cited intelligence that Alice Huang, a Chinese executive who developed a relationship with Nvidia’s leader, was an asset of Beijing’s Ministry of State Security.",
+      "source": "NYT"
+    },
+    {
+      "title": "Cornell Faculty Passes Vote of No Confidence Over Handling of Sexual Assault Case",
+      "link": "https://www.nytimes.com/2026/11/06/nyregion/cornell-no-confidence-vote.html",
+      "pubDate": "2026-11-07T00:06:37.000Z",
+      "image": "https://static01.nyt.com/images/2026/11/06/multimedia/met-cornell-senate1-mplw/met-cornell-senate1-mplw-mediumSquareAt3X.jpg",
+      "author": "Sharon Otterman and Alan Blinder",
+      "excerpt": "The largely symbolic vote serves as a sharp rebuke of campus leadership’s handling of an explosive rape allegation that put the university in the national spotlight.",
+      "source": "NYT"
+    },
+    {
+      "title": "86 Deaths and Counting: N.Y.C. Fire Fatalities Have Nearly Doubled This Year",
+      "link": "https://www.nytimes.com/2026/11/06/nyregion/nyc-fire-deaths.html",
+      "pubDate": "2026-11-07T00:01:39.000Z",
+      "image": "https://static01.nyt.com/images/2026/11/06/multimedia/00met-sunsetfire-tbd-promo-fqvc/00met-sunsetfire-tbd-promo-fqvc-mediumSquareAt3X.jpg",
+      "author": "Claire Fahy",
+      "excerpt": "The Brooklyn blaze that killed six people this week renewed focus on the soaring death toll and raised questions about whether e-bike batteries have played a role.",
+      "source": "NYT"
+    },
+    {
+      "title": "Susie Wiles Is the Latest Powerful Woman to Exit the Trump Administration",
+      "link": "https://www.nytimes.com/2026/11/06/us/politics/susie-wiles-trump-women.html",
+      "pubDate": "2026-11-06T23:53:13.000Z",
+      "image": "https://static01.nyt.com/images/2026/11/06/multimedia/06trump-wiles-women1-tbkh/06trump-wiles-women1-tbkh-mediumSquareAt3X.jpg",
+      "author": "Chris Cameron",
+      "excerpt": "A wave of high-ranking women have left the Trump administration in the past year. Many were replaced by men.",
+      "source": "NYT"
+    },
+    {
+      "title": "Prosecutors Vow to Keep Pursuing Death Penalty in California",
+      "link": "https://www.nytimes.com/2026/11/06/us/california-prosecutors-death-penalty.html",
+      "pubDate": "2026-11-06T23:39:58.000Z",
+      "image": "https://static01.nyt.com/images/2026/11/06/multimedia/06nat-ca-deathpenalty-phmv/06nat-ca-deathpenalty-phmv-mediumSquareAt3X.jpg",
+      "author": "Tim Arango",
+      "excerpt": "Unless the next governor, Xavier Becerra, keeps commuting sentences, California’s death row is likely to slowly repopulate in the coming years.",
+      "source": "NYT"
+    },
+    {
+      "title": "The Evening: Trump Replaces Chief of Staff",
+      "link": "https://www.nytimes.com/2026/11/06/briefing/stephen-miller-trump.html",
+      "pubDate": "2026-11-06T22:47:21.000Z",
+      "image": "https://static01.nyt.com/images/2026/11/06/multimedia/06evening-nl-trump-miller/06evening-nl-trump-miller-mediumSquareAt3X.jpg",
+      "author": "Whet Moser",
+      "excerpt": "Plus, a surprisingly good jobs report. Here’s the latest at the end of Friday.",
+      "source": "NYT"
+    },
+    {
+      "title": "Zoo Atlanta Unveils Its New Pandas: Fu Shuang and Ping Ping",
+      "link": "https://www.nytimes.com/2026/11/06/us/atlanta-pandas.html",
+      "pubDate": "2026-11-06T22:22:06.000Z",
+      "image": null,
+      "author": "Emily Cochrane",
+      "excerpt": "Two years after two other pandas were returned to China, giant pandas were back on display in Atlanta.",
+      "source": "NYT"
+    },
+    {
+      "title": "Southern Democrats Now Have a Chance to Lead. What Will They Do With It?",
+      "link": "https://www.nytimes.com/2026/11/06/us/southern-democrats-georgia-north-carolina.html",
+      "pubDate": "2026-11-06T21:57:57.000Z",
+      "image": "https://static01.nyt.com/images/2026/11/06/multimedia/06nat-south-democrats-klqj/06nat-south-democrats-klqj-mediumSquareAt3X.jpg",
+      "author": "Rick Rojas and Eduardo Medina",
+      "excerpt": "Sweeping midterm successes in Georgia and North Carolina have given the party an opportunity, and a test, to lay out a vision for governing in the South.",
+      "source": "NYT"
+    },
+    {
+      "title": "Hegseth Faces Impeachment Effort and Bipartisan Scrutiny After Midterm Elections",
+      "link": "https://www.nytimes.com/2026/11/06/us/politics/hegseth-trump-iran-war.html",
+      "pubDate": "2026-11-06T21:27:47.000Z",
+      "image": "https://static01.nyt.com/images/2026/11/06/multimedia/06dc-hegseth-fqbt/06dc-hegseth-fqbt-mediumSquareAt3X.jpg",
+      "author": "Helene Cooper, Greg Jaffe and Eric Schmitt",
+      "excerpt": "A looming impeachment push could put President Trump’s polarizing defense secretary in a standoff with Democrats and Republicans.",
+      "source": "NYT"
+    },
+    {
       "title": "Global Stocks Follow U.S. Sell-Off as A.I. Spending Fears Spread",
       "link": "https://www.nytimes.com/2026/11/06/business/global-stocks-markets-tech-ai.html",
-      "pubDate": "2026-11-06T20:14:18.000Z",
+      "pubDate": "2026-11-06T21:11:05.000Z",
       "image": null,
       "author": "Joe Rennison",
-      "excerpt": "With a lot of information to process in a short time, many market watchers said the moves were extreme — in both directions.",
+      "excerpt": "With a lot of information to process in a short time, many market watchers said that the moves were extreme — in both directions.",
       "source": "NYT"
     },
     {
-      "title": "Strong Hiring Reinforces a Sturdy Job Market",
-      "link": "https://www.nytimes.com/2026/11/06/business/economy/economy-jobs-unemployment.html",
-      "pubDate": "2026-11-06T20:06:29.000Z",
-      "image": "https://static01.nyt.com/images/2026/11/06/multimedia/2026-11-06-jobs-promo-index/2026-11-06-jobs-promo-index-mediumSquareAt3X.png",
-      "author": "Sydney Ember",
-      "excerpt": "Unemployment fell in October, extending years of stability for a U.S. work force threatened by inflation and artificial intelligence.",
-      "source": "NYT"
-    },
-    {
-      "title": "How Farmers’ Frustration With Trump’s Policies Helped Democrats",
-      "link": "https://www.nytimes.com/2026/11/06/business/farmers-election-trump-democrats.html",
-      "pubDate": "2026-11-06T20:03:40.000Z",
-      "image": "https://static01.nyt.com/images/2026/11/06/multimedia/06biz-farm-vote-01-hlmz/06biz-farm-vote-01-hlmz-mediumSquareAt3X.jpg",
-      "author": "Kevin Draper",
-      "excerpt": "Anger over tariffs and higher costs because of the war in Iran led many Republican farmers and ranchers to vote blue — or stay home.",
-      "source": "NYT"
-    },
-    {
-      "title": "The Ruthless Ambition of Stephen Miller",
-      "link": "https://www.nytimes.com/2025/07/07/opinion/stephen-miller.html",
-      "pubDate": "2026-11-06T19:35:37.000Z",
-      "image": null,
-      "author": "Jason Zengerle",
-      "excerpt": "The most powerful man in the West Wing is getting what he wants. Is Trump?",
+      "title": "How Elon Musk Frittered Away Nearly $500 Million on the Midterm Elections",
+      "link": "https://www.nytimes.com/2026/11/06/us/politics/musk-trump-midterm-election-spending.html",
+      "pubDate": "2026-11-06T21:05:42.000Z",
+      "image": "https://static01.nyt.com/images/2026/11/05/multimedia/05pol-musk-midterms-kmfc-copy/05pol-musk-midterms-kmfc-mediumSquareAt3X.jpg",
+      "author": "Theodore Schleifer",
+      "excerpt": "Behind the scenes, the world’s richest person spent a record amount over two years to bend the country’s politics to his will. He couldn’t.",
       "source": "NYT"
     },
     {
@@ -911,24 +974,6 @@
       "image": "https://static01.nyt.com/images/2026/11/06/multimedia/06biz-money-tfcw/06biz-money-tfcw-mediumSquareAt3X.jpg",
       "author": "Ron Lieber",
       "excerpt": "Feeling a bit wobbly? Here are four things to consider that might provide some peace of mind.",
-      "source": "NYT"
-    },
-    {
-      "title": "Susie Wiles, Trump’s Chief of Staff, Is Accused of Blocking Health Policies to Attract Donations",
-      "link": "https://www.nytimes.com/2026/11/06/us/politics/susie-wiles-calley-means-joe-rogan.html",
-      "pubDate": "2026-11-06T19:15:55.000Z",
-      "image": "https://static01.nyt.com/images/2026/11/06/us/0dc-wiles-means-promo/0dc-wiles-means-promo-mediumSquareAt3X.jpg",
-      "author": "Christina Jewett and Sheryl Gay Stolberg",
-      "excerpt": "In a no-holds-barred interview with Joe Rogan, Calley Means, a former top health adviser, accused Susie Wiles of repeatedly bowing to lobbying pressures and fixating on campaign contributions.",
-      "source": "NYT"
-    },
-    {
-      "title": "Hegseth Faces Impeachment Effort and Bipartisan Scrutiny After Midterm Elections",
-      "link": "https://www.nytimes.com/2026/11/06/us/politics/hegseth-trump-iran-war.html",
-      "pubDate": "2026-11-06T19:00:02.000Z",
-      "image": "https://static01.nyt.com/images/2026/11/06/multimedia/06dc-hegseth-fqbt/06dc-hegseth-fqbt-mediumSquareAt3X.jpg",
-      "author": "Helene Cooper, Greg Jaffe and Eric Schmitt",
-      "excerpt": "A looming impeachment push could put President Trump’s polarizing defense secretary in a standoff with Democrats and Republicans.",
       "source": "NYT"
     },
     {
@@ -959,66 +1004,12 @@
       "source": "NYT"
     },
     {
-      "title": "Houston Police to Stop Alerting ICE During Traffic Stops",
-      "link": "https://www.nytimes.com/2026/11/06/us/houston-mayor-john-whitmire-immigration-ice-cooperation.html",
-      "pubDate": "2026-11-06T18:34:20.000Z",
-      "image": "https://static01.nyt.com/images/2026/11/06/multimedia/06nat-TXhoustonICE-1-hwqt/06nat-TXhoustonICE-1-hwqt-mediumSquareAt3X.jpg",
-      "author": "J. David Goodman",
-      "excerpt": "Mayor John Whitmire has instructed Houston police to stop notifying immigration agents when they encounter someone without legal status during routine street stops.",
-      "source": "NYT"
-    },
-    {
-      "title": "New York Is Set to Take On Amazon Over Drivers, if Its Leaders Can Agree",
-      "link": "https://www.nytimes.com/2026/11/06/nyregion/amazon-regulation-mamdani.html",
-      "pubDate": "2026-11-06T18:28:40.000Z",
-      "image": "https://static01.nyt.com/images/2026/11/05/multimedia/05met-amazon-01-jwbp/05met-amazon-01-jwbp-mediumSquareAt3X.jpg",
-      "author": "Sally Goldenberg and Emma G. Fitzsimmons",
-      "excerpt": "Mayor Zohran Mamdani backs a bill to stop Amazon from outsourcing its deliveries, which would be a blow to the company. The City Council speaker, Julie Menin, and business leaders have concerns.",
-      "source": "NYT"
-    },
-    {
-      "title": "Tesla Is Ending Production of Its Cybertruck and Refocusing on the Cybercab",
-      "link": "https://www.nytimes.com/2026/11/06/business/tesla-cybertruck-production.html",
-      "pubDate": "2026-11-06T17:38:29.000Z",
-      "image": "https://static01.nyt.com/images/2026/11/06/multimedia/06biz-tesla-cybertruck-1-ltfz/06biz-tesla-cybertruck-1-ltfz-mediumSquareAt3X.jpg",
-      "author": "Lauren McCarthy",
-      "excerpt": "Production of the electric trucks will stop in the middle of 2027 to make room for increased production of its autonomous ride-share vehicle, Elon Musk said.",
-      "source": "NYT"
-    },
-    {
-      "title": "U.S. Global Health Strategy Jeopardizes Prevention of Pandemics, Experts Warn",
-      "link": "https://www.nytimes.com/2026/11/06/us/politics/pandemic-prevention-african-countries.html",
-      "pubDate": "2026-11-06T17:17:40.000Z",
-      "image": "https://static01.nyt.com/images/2026/11/05/multimedia/00dc-pandemic-prep1-vzcq/00dc-pandemic-prep1-vzcq-mediumSquareAt3X.jpg",
-      "author": "Apoorva Mandavilli",
-      "excerpt": "The Trump administration has been negotiating agreements with dozens of individual countries. Public health experts say a global agreement would be far more effective.",
-      "source": "NYT"
-    },
-    {
-      "title": "Saudi-Led Forces Bombed Yemeni Home, Killing Nine Family Members, Relatives Say",
-      "link": "https://www.nytimes.com/2026/11/06/world/middleeast/saudi-arabia-bombing-yemen-civilians-houthi-war.html",
-      "pubDate": "2026-11-06T16:59:43.000Z",
-      "image": "https://static01.nyt.com/images/2026/10/20/world/middleeast/Screenshot-2026-10-29-at-15/Screenshot-2026-10-29-at-15-mediumSquareAt3X.png",
-      "author": "Sanjana Varghese, Vivian Nereim and Shuaib Almosawa",
-      "excerpt": "A 500-pound bomb supplied by the United States appears to have been used in the Oct. 18 strike, according to video footage examined by The New York Times.",
-      "source": "NYT"
-    },
-    {
-      "title": "The Voters Who Powered the Blue Tsunami",
-      "link": "https://www.nytimes.com/video/us/elections/100000011265557/the-voters-who-powered-the-blue-tsunami.html",
-      "pubDate": "2026-11-06T16:41:05.000Z",
-      "image": null,
-      "author": "Nate Cohn, Laura Bult, Nikolay Nikolov, Rafaela Balster, Stephanie Swart, Brian Oh and Luke Piotrowski",
-      "excerpt": "A younger, more diverse electorate than is typical in midterm elections helped drive Democrats’ decisive victory, along with gains among swing voters and support from some Republican voters. Nate Cohn, The New York Times’s chief political analyst, explains.",
-      "source": "NYT"
-    },
-    {
-      "title": "John D. Rockefeller IV, West Virginia Governor and Senator, Dies at 89",
-      "link": "https://www.nytimes.com/2026/11/06/us/politics/jay-rockefeller-dead.html",
-      "pubDate": "2026-11-06T14:10:45.000Z",
-      "image": "https://static01.nyt.com/images/2026/11/06/multimedia/06rockefeller_jay-nyt-top/06rockefeller_jay-nyt-mediumSquareAt3X.jpg",
-      "author": "Robert D. McFadden",
-      "excerpt": "The rare Democrat in a fabled family of wealthy Republicans, he served 30 years as senator and helped bring health insurance to millions of low-income children.",
+      "title": "After These Midterms, JD Vance Is in a Bind",
+      "link": "https://www.nytimes.com/2026/11/06/opinion/jd-vance-midterms.html",
+      "pubDate": "2026-11-06T17:04:21.000Z",
+      "image": "https://static01.nyt.com/images/2026/11/06/multimedia/06schmitz-bwqz/06schmitz-bwqz-mediumSquareAt3X.jpg",
+      "author": "Matthew Schmitz",
+      "excerpt": "He will need to sell voters on a tarnished Trump brand.",
       "source": "NYT"
     },
     {
@@ -1031,48 +1022,12 @@
       "source": "NYT"
     },
     {
-      "title": "Texas Led the Conservative Overhaul of Education. What Now?",
-      "link": "https://www.nytimes.com/2026/11/06/us/texas-conservative-education-reform-hinojosa.html",
-      "pubDate": "2026-11-06T13:06:20.000Z",
-      "image": "https://static01.nyt.com/images/2026/11/06/multimedia/06nat-texas-education-01-mvpf/06nat-texas-education-01-mvpf-mediumSquareAt3X.jpg",
-      "author": "Vimal Patel and Dana Goldstein",
-      "excerpt": "In Texas, teaching on race and gender was restricted, Christianity was encouraged and private school vouchers expanded. It may be hard for Democrats to reverse those policies.",
-      "source": "NYT"
-    },
-    {
-      "title": "Microsoft’s Buyout Offer Sets Its Workforce on Edge",
-      "link": "https://www.nytimes.com/2026/11/06/technology/microsoft-buyouts.html",
-      "pubDate": "2026-11-06T12:23:09.000Z",
-      "image": "https://static01.nyt.com/images/2026/11/07/business/06biz-microsoft-employees-SUB/06biz-microsoft-employees-SUB-mediumSquareAt3X.jpg",
-      "author": "Emmy Martin",
-      "excerpt": "As Microsoft pours billions into artificial intelligence, the company has offered buyouts to about 60,000 employees. The work force was already on edge.",
-      "source": "NYT"
-    },
-    {
-      "title": "Gina Hinojosa Will Be Texas’s First Democratic Governor in Decades. Republicans Won’t Make It Easy.",
-      "link": "https://www.nytimes.com/2026/11/06/us/texas-governor-democrat-gina-hinojosa.html",
-      "pubDate": "2026-11-06T10:03:37.000Z",
-      "image": "https://static01.nyt.com/images/2026/11/05/multimedia/05nat-TXgovernance-1b-pfmb/05nat-TXgovernance-1b-pfmb-mediumSquareAt3X.jpg",
-      "author": "Lauren McGaughy",
-      "excerpt": "After a sweeping Democratic victory, Governor-elect Gina Hinojosa will try to reshape a state molded by decades of conservative policymaking, with Republicans still in control of the State Senate.",
-      "source": "NYT"
-    },
-    {
       "title": "What to Expect From Lame-Duck Trump",
       "link": "https://www.nytimes.com/video/opinion/100000011257733/what-to-expect-from-lame-duck-trump.html",
       "pubDate": "2026-11-06T10:02:31.000Z",
       "image": null,
       "author": "",
       "excerpt": "“When he feels cornered, when he feels attacked, he fights back,” the columnist Carlos Lozada says of Donald Trump, who is now entering the lame-duck phase of his presidency. Columnists from across Times Opinion share their predictions for what the final two years of Trump’s term might look like — and they’re not prett",
-      "source": "NYT"
-    },
-    {
-      "title": "How A.I. Just Blew Up a Key Tenet of Computer Science",
-      "link": "https://www.nytimes.com/2026/11/06/science/ai-exponential-time-hypothesis.html",
-      "pubDate": "2026-11-06T10:02:06.000Z",
-      "image": null,
-      "author": "Cade Metz",
-      "excerpt": "A longstanding hypothesis held that some problems would always be hard for computers to solve quickly. But OpenAI disproved it — raising the possibility of radical new efficiencies.",
       "source": "NYT"
     }
   ]
