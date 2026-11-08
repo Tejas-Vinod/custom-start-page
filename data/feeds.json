@@ -1,6 +1,15 @@
 {
   "spaceNews": [
     {
+      "title": "Gemini North reveals Twin Spirits in Pegasus",
+      "link": "https://www.astronomy.com/science/gemini-north-reveals-twin-spirits-in-pegasus/",
+      "pubDate": "2026-11-08T17:00:00.000Z",
+      "image": null,
+      "author": "Alison Klesman",
+      "excerpt": "Three high school students in the Project Hōkūlani internship at Gemini North on Maunakea, Hawaii, chose this pair of clashing spirals, cataloged collectively as NGC 7253 or Arp 278, for imaging with the 8.1-meter telescope. It captured this photo — the most detailed ever taken of these galaxies — in October 2025. The ",
+      "source": "Astronomy Magazine"
+    },
+    {
       "title": "NASA Unveils Moon Base Awards at MAX POWER",
       "link": "https://payloadspace.com/nasa-unveils-moon-base-awards-at-max-power/",
       "pubDate": "2026-11-08T16:13:33.000Z",
@@ -595,15 +604,6 @@
       "source": "Astronomy Magazine"
     },
     {
-      "title": "Understanding celestial coordinates",
-      "link": "https://www.astronomy.com/observing/understanding-celestial-coordinates/",
-      "pubDate": "2026-10-20T16:55:18.000Z",
-      "image": null,
-      "author": "Brooks Mendenhall",
-      "excerpt": "Just as we use latitude and longitude to know the precise position of something on Earth’s surface, it’s useful to have a system for knowing the position of objects in the heavens. The widely used system of right ascension and declination does the job — and dates back at least to the time of HipparchusContinue reading ",
-      "source": "Astronomy Magazine"
-    },
-    {
       "title": "Why the Drake equation is still important 65 years after its creation",
       "link": "https://www.newscientist.com/article/2594385-why-the-drake-equation-is-still-important-65-years-after-its-creation/?utm_campaign=RSS|NSNS&utm_content=space&utm_medium=RSS&utm_source=NSNS",
       "pubDate": "2026-10-19T08:00:00.000Z",
@@ -869,6 +869,42 @@
   ],
   "nytNews": [
     {
+      "title": "Rubio Warned Officials About Nvidia Chief’s Entanglement With Chinese Spy",
+      "link": "https://www.nytimes.com/2026/11/08/us/politics/rubio-nvidia-ceo-chinese-spy.html",
+      "pubDate": "2026-11-08T21:01:45.000Z",
+      "image": "https://static01.nyt.com/images/2026/11/08/multimedia/08dc-spy-chip-lkzp/08dc-spy-chip-lkzp-mediumSquareAt3X.jpg",
+      "author": "Maggie Haberman, Jonathan Swan, Julian E. Barnes and Tripp Mickle",
+      "excerpt": "The secretary of state’s role in drafting a secret memo highlights how top officials were concerned by this past spring about Jensen Huang’s relationship with a woman tied to Chinese intelligence.",
+      "source": "NYT"
+    },
+    {
+      "title": "Nvidia Opens Investigation Into Jensen Huang’s Relationship With Chinese Spy",
+      "link": "https://www.nytimes.com/2026/11/08/technology/nvidia-investigation-jensen-huang-china.html",
+      "pubDate": "2026-11-08T20:18:39.000Z",
+      "image": "https://static01.nyt.com/images/2026/11/08/multimedia/08biz-jensen-bqpz/08biz-jensen-bqpz-mediumSquareAt3X.jpg",
+      "author": "Tripp Mickle",
+      "excerpt": "Mr. Huang, the company’s chief executive, acknowledged on Sunday that he was intimate with a business executive who U.S. officials had determined was working for Chinese intelligence.",
+      "source": "NYT"
+    },
+    {
+      "title": "What Talarico’s Win Reveals About Christianity in Texas ",
+      "link": "https://www.nytimes.com/2026/11/08/us/james-talarico-christianity-texas.html",
+      "pubDate": "2026-11-08T19:44:26.000Z",
+      "image": "https://static01.nyt.com/images/2026/11/06/multimedia/06nat-texas-christianity-tflh/06nat-texas-christianity-tflh-mediumSquareAt3X-v2.jpg",
+      "author": "Ruth Graham",
+      "excerpt": "Senator-elect James Talarico’s progressive Christianity seemed to resonate for many in a state whose politics and culture have been dominated by conservative evangelicalism.",
+      "source": "NYT"
+    },
+    {
+      "title": "Jeffries Backs Impeaching Hegseth as Democrats Push for Accountability",
+      "link": "https://www.nytimes.com/2026/11/08/us/politics/pete-hegseth-impeachment-hakeem-jeffries.html",
+      "pubDate": "2026-11-08T19:22:52.000Z",
+      "image": "https://static01.nyt.com/images/2026/11/08/multimedia/08dc-hegseth-cong-pvzl/08dc-hegseth-cong-pvzl-mediumSquareAt3X.jpg",
+      "author": "Robert Jimison",
+      "excerpt": "Democrats have begun laying the groundwork for an aggressive oversight agenda aimed at the Trump administration. But a political reckoning could come before the new Congress begins.",
+      "source": "NYT"
+    },
+    {
       "title": "For Trump and America, a Clear Election Verdict but a Murky Future",
       "link": "https://www.nytimes.com/2026/11/08/us/politics/trump-midterm-election-america-future.html",
       "pubDate": "2026-11-08T16:25:45.000Z",
@@ -878,48 +914,12 @@
       "source": "NYT"
     },
     {
-      "title": "Hakeem Jeffries, in Line to Become House Speaker, Promises Bold Agenda",
-      "link": "https://www.nytimes.com/2026/11/08/us/politics/hakeem-jeffries-house-democrats-speaker.html",
-      "pubDate": "2026-11-08T16:12:12.000Z",
-      "image": "https://static01.nyt.com/images/2026/11/06/multimedia/00dc-jeffries-flqb/00dc-jeffries-flqb-mediumSquareAt3X-v2.jpg",
-      "author": "Annie Karni",
-      "excerpt": "The man in line to be the first Black speaker is a reserved moderate seen by activists on the left as too timid to take on President Trump. He says he’s “strongly positioned” to get things done.",
-      "source": "NYT"
-    },
-    {
       "title": "Justice Dept. Mulled Naming The Times as Conspirator in Comey Leak Case",
       "link": "https://www.nytimes.com/2026/11/08/us/politics/justice-dept-new-york-times-comey-leak.html",
       "pubDate": "2026-11-08T16:10:06.000Z",
       "image": "https://static01.nyt.com/images/2026/11/07/multimedia/Justice-New-York-Times-bfgk/Justice-New-York-Times-bfgk-mediumSquareAt3X.jpg",
       "author": "Alan Feuer",
       "excerpt": "It remains unclear how the Justice Department might proceed. The move would be a major escalation of the Trump administration’s recent attacks against the news media.",
-      "source": "NYT"
-    },
-    {
-      "title": "Keisha Lance Bottoms on What Democrats Have to Do to Not Squander the Win",
-      "link": "https://www.nytimes.com/2026/11/08/magazine/keisha-lance-bottoms-interview.html",
-      "pubDate": "2026-11-08T14:31:32.000Z",
-      "image": "https://static01.nyt.com/images/2026/11/08/magazine/08mag-interview-bottoms/08mag-interview-bottoms-mediumSquareAt3X.jpg",
-      "author": "Lulu Garcia-Navarro",
-      "excerpt": "The governor-elect of Georgia is elated about her party’s victories in the South, but knows realignment is far from secure.",
-      "source": "NYT"
-    },
-    {
-      "title": "The Price of Child Stardom",
-      "link": "https://www.nytimes.com/2026/11/08/briefing/the-price-of-child-stardom.html",
-      "pubDate": "2026-11-08T12:43:04.000Z",
-      "image": "https://static01.nyt.com/images/2026/11/06/multimedia/08themorning-nl-kpop/08themorning-nl-kpop-mediumSquareAt3X.gif",
-      "author": "Sarah Hurtes and Jin Yu Young",
-      "excerpt": "We look at the dark side of K-pop.",
-      "source": "NYT"
-    },
-    {
-      "title": "Who Is Gadi Eisenkot, Israel’s Opposition Leader?",
-      "link": "https://www.nytimes.com/2026/11/08/world/middleeast/israel-eisenkot-netanyahu-what-to-know.html",
-      "pubDate": "2026-11-08T12:33:40.000Z",
-      "image": "https://static01.nyt.com/images/2026/11/08/multimedia/08int-israel-eisenkot-wtk-ckmj/08int-israel-eisenkot-wtk-ckmj-mediumSquareAt3X.jpg",
-      "author": "Aaron Boxerman, Johnatan Reiss and David M. Halbfinger",
-      "excerpt": "Mr. Eisenkot, a career general and the leading rival of Prime Minister Benjamin Netanyahu of Israel, will now have up to six weeks to form a coalition.",
       "source": "NYT"
     },
     {
@@ -941,12 +941,39 @@
       "source": "NYT"
     },
     {
-      "title": "How Mississippi Reached the Verge of Electing a Black Senator",
-      "link": "https://www.nytimes.com/2026/11/08/us/elections/mississippi-black-senator.html",
-      "pubDate": "2026-11-08T10:02:04.000Z",
-      "image": "https://static01.nyt.com/images/2026/11/08/multimedia/08nat-mississippi-senate-plhv/08nat-mississippi-senate-plhv-mediumSquareAt3X.jpg",
-      "author": "Campbell Robertson and Emily Cochrane",
-      "excerpt": "The echoes of history surround Scott Colom’s final push toward victory, but assembling the coalition that propelled him took hard work after many Democratic misses.",
+      "title": "A Stake Through the Heart of Trump’s Red Map",
+      "link": "https://www.nytimes.com/2026/11/08/opinion/midterms-democrats-schumer.html",
+      "pubDate": "2026-11-08T11:00:21.000Z",
+      "image": "https://static01.nyt.com/images/2026/11/08/multimedia/08klein-qphw/08klein-qphw-mediumSquareAt3X.jpg",
+      "author": "Ezra Klein",
+      "excerpt": "Realignment is so 2024.",
+      "source": "NYT"
+    },
+    {
+      "title": "Democrats Now Have a Path to Sidestep the Electoral College. Would It Work?",
+      "link": "https://www.nytimes.com/2026/11/08/upshot/democrats-electoral-college.html",
+      "pubDate": "2026-11-08T10:14:43.000Z",
+      "image": "https://static01.nyt.com/images/2026/11/06/multimedia/2026-11-04-compact-index/2026-11-04-compact-index-mediumSquareAt3X-v18.png",
+      "author": "Ben Blatt",
+      "excerpt": "Midterm victories have given states the opportunity to elevate the national popular vote, but obstacles like legal challenges would loom.",
+      "source": "NYT"
+    },
+    {
+      "title": "Gina Hinojosa Takes on the Texas Government Republicans Built",
+      "link": "https://www.nytimes.com/2026/11/08/us/gina-hinojosa-texas-priorities.html",
+      "pubDate": "2026-11-08T10:02:00.000Z",
+      "image": "https://static01.nyt.com/images/2026/11/08/multimedia/08nat-Hinojosa-interview-fbql/08nat-Hinojosa-interview-fbql-mediumSquareAt3X.jpg",
+      "author": "J. David Goodman and Edgar Sandoval",
+      "excerpt": "In her first interview with The New York Times since her victory, the governor-elect talked about tackling data centers, abortion restrictions and Elon Musk.",
+      "source": "NYT"
+    },
+    {
+      "title": "Phil Collins Knew He Was ‘Lucky,’ if Not Cool",
+      "link": "https://www.nytimes.com/2026/11/08/arts/music/phil-collins-knew-he-was-lucky-if-not-cool.html",
+      "pubDate": "2026-11-08T10:00:37.000Z",
+      "image": "https://static01.nyt.com/images/2026/11/08/multimedia/08cul-phil-collins-promo-cfmt/08cul-phil-collins-promo-cfmt-mediumSquareAt3X.jpg",
+      "author": "Jon Pareles and Dana Scruggs",
+      "excerpt": "When the Rock & Roll Hall of Fame inducts Collins as a solo artist this month, it will recognize a hitmaker whose popularity often overshadowed his intensity.",
       "source": "NYT"
     },
     {
@@ -956,24 +983,6 @@
       "image": "https://static01.nyt.com/images/2026/10/29/us/dc-trumpscience-promo/dc-trumpscience-promo-mediumSquareAt3X.jpg",
       "author": "Christopher Flavelle, Irena Hwang, Adam Sella, Alan Blinder, Sheryl Gay Stolberg, Benjamin Mueller and Michael C. Bender",
       "excerpt": "The system that has driven life-altering discoveries and helped make the United States a superpower is now under intense strain.",
-      "source": "NYT"
-    },
-    {
-      "title": "For Stephen Miller, Election Defeat Is No Reason to Back Down on Immigration Crackdown",
-      "link": "https://www.nytimes.com/2026/11/07/us/politics/stephen-miller-midterm-elections.html",
-      "pubDate": "2026-11-07T18:29:56.000Z",
-      "image": "https://static01.nyt.com/images/2026/11/07/multimedia/dc-miller-01-qwcf/dc-miller-01-qwcf-mediumSquareAt3X.jpg",
-      "author": "Zolan Kanno-Youngs and Hamed Aleaziz",
-      "excerpt": "The president’s new chief of staff has already demonstrated his intention to forge ahead with an agenda that many voters rejected.",
-      "source": "NYT"
-    },
-    {
-      "title": "After ‘Babydoll’, Dominic Fike Embraces the Mess",
-      "link": "https://www.nytimes.com/2026/11/06/arts/music/dominic-fike-popcast-interview.html",
-      "pubDate": "2026-11-06T10:01:46.000Z",
-      "image": "https://static01.nyt.com/images/2026/11/06/multimedia/06cul-popcast-fike-02-gcfw/06cul-popcast-fike-02-gcfw-mediumSquareAt3X.jpg",
-      "author": "Joe Coscarelli, Jon Caramanica and Jason Nocito",
-      "excerpt": "In the wake of a viral hit, new sobriety and fatherhood, the rocker scrapped the album he had been working on to make a less-polished LP.",
       "source": "NYT"
     }
   ]
