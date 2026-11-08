@@ -1,6 +1,15 @@
 {
   "spaceNews": [
     {
+      "title": "NASA Awards Moon Base Transportation, Technology, Science Projects",
+      "link": "https://www.nasa.gov/news-release/nasa-awards-moon-base-transportation-technology-science-projects/",
+      "pubDate": "2026-11-07T22:47:03.000Z",
+      "image": "https://www.nasa.gov/wp-content/uploads/2026/11/moon-base-artists-concept.jpg?w=1936",
+      "author": "Jessica Taveau",
+      "excerpt": "NASA announced a suite of awards and mission updates on Saturday to expand the agency’s Moon Base exploration, science, and infrastructure capabilities. The investments will advance commercial robotic deliveries, a nuclear-powered rover named PROMISE, launch and orbital transfer services, and surface infrastructure as ",
+      "source": "NASA"
+    },
+    {
       "title": "NASA Seeks Next Generation of Explorers to Join Astronaut Corps",
       "link": "https://www.nasa.gov/news-release/nasa-seeks-next-generation-of-explorers-to-join-astronaut-corps/",
       "pubDate": "2026-11-07T18:11:57.000Z",
@@ -260,15 +269,6 @@
       "author": "Max Puhalevich",
       "excerpt": "Private space markets are hotter than ever. Not a whiff of deceleration. The opposite is happening in public space markets. The post Why We Are Seeing a Growing Disconnect Between Public and Private Space Markets appeared first on Payload.",
       "source": "Payload"
-    },
-    {
-      "title": "APOD: 2026 November 5 – Enceladus in Silhouette",
-      "link": "https://science.nasa.gov/image-article/apod-2026-november-5-enceladus-in-silhouette/",
-      "pubDate": "2026-11-05T05:05:00.000Z",
-      "image": "https://assets.science.nasa.gov/dynamicimage/assets/science/cds/apod/apod/2026/november/PIA17144EnceladusPandora.png?w=982&#038;h=575&#038;fit=clip&#038;crop=faces%2Cfocalpoint",
-      "author": "",
-      "excerpt": "APOD Science APOD APOD: 2026 November 5 –… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional ",
-      "source": "NASA"
     },
     {
       "title": "Redwire Wins $20M DARPA Contract for Second VLEO Demo",
@@ -869,6 +869,15 @@
   ],
   "nytNews": [
     {
+      "title": "Eisenkot, Netanyahu Rival and Opposition Leader, Tapped to Try to Form Government",
+      "link": "https://www.nytimes.com/2026/11/07/world/middleeast/israel-eisenkot-government.html",
+      "pubDate": "2026-11-07T23:03:29.000Z",
+      "image": "https://static01.nyt.com/images/2026/11/08/multimedia/08int-israel-politics-eisenkot-HFO-vbtf/08int-israel-politics-eisenkot-HFO-vbtf-mediumSquareAt3X.jpg",
+      "author": "Ephrat Livni and Aaron Boxerman",
+      "excerpt": "Gadi Eisenkot, a former military chief, hopes to succeed Benjamin Netanyahu as prime minister by cobbling together a coalition after an inconclusive election.",
+      "source": "NYT"
+    },
+    {
       "title": "Eisenkot Seeks to Oust Netanyahu as Prime Minister. Here’s How.",
       "link": "https://www.nytimes.com/2026/11/07/world/middleeast/eisenkot-israel-new-government.html",
       "pubDate": "2026-11-07T21:52:03.000Z",
@@ -884,15 +893,6 @@
       "image": "https://static01.nyt.com/images/2026/11/06/multimedia/2026-11-06-new-senate-ages-index/2026-11-06-new-senate-ages-index-mediumSquareAt3X-v3.png",
       "author": "Francesca Paris and C.J. Robinson",
       "excerpt": "Incoming senators are nearly 15 years younger than departing ones, on average. But the chamber’s overall age isn’t shifting much.",
-      "source": "NYT"
-    },
-    {
-      "title": "Eisenkot, Netanyahu Rival and Opposition Leader, Tapped to Try to Form Government",
-      "link": "https://www.nytimes.com/2026/11/07/world/middleeast/israel-eisenkot-government.html",
-      "pubDate": "2026-11-07T19:50:21.000Z",
-      "image": "https://static01.nyt.com/images/2026/11/08/multimedia/08int-israel-politics-eisenkot-HFO-vbtf/08int-israel-politics-eisenkot-HFO-vbtf-mediumSquareAt3X.jpg",
-      "author": "Ephrat Livni and Aaron Boxerman",
-      "excerpt": "Gadi Eisenkot, a former military chief, hopes to succeed Benjamin Netanyahu as prime minister by cobbling together a coalition after an inconclusive election.",
       "source": "NYT"
     },
     {
@@ -950,30 +950,30 @@
       "source": "NYT"
     },
     {
+      "title": "What Michelle Goldberg Learned From the Most Exciting Democrats",
+      "link": "https://www.nytimes.com/2026/11/07/opinion/ezra-klein-podcast-michelle-goldberg.html",
+      "pubDate": "2026-11-07T14:45:02.000Z",
+      "image": "https://static01.nyt.com/images/2026/11/07/opinion/07eks-goldberg-image01/07eks-goldberg-image01-mediumSquareAt3X.png",
+      "author": "Ezra Klein and Annie Galvin",
+      "excerpt": "Michelle Goldberg reported on the Democrats’ most exciting campaigns. Here’s what she saw.",
+      "source": "NYT"
+    },
+    {
+      "title": "South Carolina Republicans Fracture Over Stunning Defeat of Darline Graham",
+      "link": "https://www.nytimes.com/2026/11/07/us/politics/darline-graham-loss-blame.html",
+      "pubDate": "2026-11-07T14:30:09.000Z",
+      "image": "https://static01.nyt.com/images/2026/12/05/multimedia/05pol-darline-blame-jcwg/05pol-darline-blame-jcwg-mediumSquareAt3X.jpg",
+      "author": "Emily Davies",
+      "excerpt": "Some blamed President Trump for backing the novice candidate after the death of her brother, Lindsey Graham. Others accused Mr. Graham’s team of pushing her to run despite her lack of experience.",
+      "source": "NYT"
+    },
+    {
       "title": "Illeana Douglas Looks Back on Hollywood’s Biggest ‘Cat Fight’",
       "link": "https://www.nytimes.com/2026/11/07/style/illeana-douglas-the-women-cat-fight.html",
       "pubDate": "2026-11-07T13:55:57.000Z",
       "image": "https://static01.nyt.com/images/2026/11/07/multimedia/07ST-ILLEANA-DOUGLAS-4-bjvh-grid-hp/07ST-ILLEANA-DOUGLAS-4-bjvh-mediumSquareAt3X.jpg",
       "author": "Maureen Dowd",
       "excerpt": "After publishing a book about the 1939 classic “The Women,” the actress and writer talks about her film career and her role in #MeToo.",
-      "source": "NYT"
-    },
-    {
-      "title": "Democrats Need a Bold Governing Agenda",
-      "link": "https://www.nytimes.com/2026/11/07/opinion/midterms-democrats-won-agenda.html",
-      "pubDate": "2026-11-07T13:45:36.000Z",
-      "image": "https://static01.nyt.com/images/2026/11/08/multimedia/07agenda-editorial-kpvc-sub/07agenda-editorial-kpvc-mediumSquareAt3X.jpg",
-      "author": "The Editorial Board",
-      "excerpt": "If Democrats rise to this moment, they can turn a single night’s victory into a new American promise.",
-      "source": "NYT"
-    },
-    {
-      "title": "Turning Point Bet on the Midterms and Lost. Some Republicans Are Furious.",
-      "link": "https://www.nytimes.com/2026/11/07/us/turning-point-arizona-midterms.html",
-      "pubDate": "2026-11-07T10:02:07.000Z",
-      "image": "https://static01.nyt.com/images/2026/11/07/multimedia/07nat-turningpoint-midterms-01-thwk/07nat-turningpoint-midterms-01-thwk-mediumSquareAt3X-v2.jpg",
-      "author": "Reis Thebault and Sejal Govindarao",
-      "excerpt": "Candidates backed by the right-wing activist group did not fare well, and the results set off recriminations from establishment Republicans.",
       "source": "NYT"
     },
     {
