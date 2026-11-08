@@ -1,6 +1,15 @@
 {
   "spaceNews": [
     {
+      "title": "APOD: 2026 November 8 – Major Fireball Meteor",
+      "link": "https://science.nasa.gov/image-article/apod-2026-november-8-major-fireball-meteor/",
+      "pubDate": "2026-11-08T05:05:00.000Z",
+      "image": "https://assets.science.nasa.gov/dynamicimage/assets/science/cds/apod/apod/2026/november/meteor2017_Taylor_1200.jpg?w=0&#038;h=0&#038;fit=clip&#038;crop=faces%2Cfocalpoint",
+      "author": "",
+      "excerpt": "APOD Science APOD APOD: 2026 November 8 –… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional ",
+      "source": "NASA"
+    },
+    {
       "title": "NASA Awards Moon Base Transportation, Technology, Science Projects",
       "link": "https://www.nasa.gov/news-release/nasa-awards-moon-base-transportation-technology-science-projects/",
       "pubDate": "2026-11-07T22:47:03.000Z",
@@ -251,15 +260,6 @@
       "author": "Victoria Woodburn",
       "excerpt": "Satellite autonomy startup Orca Aerospace announced a deal worth up to $20M with LA-based Orbital to put its software on Orbital’s planned data-center fleet. The post Exclusive: Orbital Taps Orca Aerospace for Onboard Autonomy Software appeared first on Payload.",
       "source": "Payload"
-    },
-    {
-      "title": "Hubble Learns Galactic History From Stars",
-      "link": "https://science.nasa.gov/missions/hubble/hubble-learns-galactic-history-from-stars/",
-      "pubDate": "2026-11-05T12:56:21.000Z",
-      "image": "https://assets.science.nasa.gov/dynamicimage/assets/science/missions/hubble/stars/globular-clusters/Hubble_M30_potm2610a.jpg?w=2048&#038;h=1806&#038;fit=clip&#038;crop=faces%2Cfocalpoint",
-      "author": "",
-      "excerpt": "This Hubble image features the sparkling collection of stars named Messier 30 (M30), also called NGC 7099.",
-      "source": "NASA"
     },
     {
       "title": "Why We Are Seeing a Growing Disconnect Between Public and Private Space Markets",
@@ -871,16 +871,43 @@
     {
       "title": "Eisenkot, Netanyahu Rival and Opposition Leader, Tapped to Try to Form Government",
       "link": "https://www.nytimes.com/2026/11/07/world/middleeast/israel-eisenkot-government.html",
-      "pubDate": "2026-11-07T23:03:29.000Z",
+      "pubDate": "2026-11-08T09:41:55.000Z",
       "image": "https://static01.nyt.com/images/2026/11/08/multimedia/08int-israel-politics-eisenkot-HFO-vbtf/08int-israel-politics-eisenkot-HFO-vbtf-mediumSquareAt3X.jpg",
       "author": "Ephrat Livni and Aaron Boxerman",
       "excerpt": "Gadi Eisenkot, a former military chief, hopes to succeed Benjamin Netanyahu as prime minister by cobbling together a coalition after an inconclusive election.",
       "source": "NYT"
     },
     {
+      "title": "Putin Just Killed Russia’s Last Independent Newspaper",
+      "link": "https://www.nytimes.com/2026/11/08/opinion/novaya-gazeta-russia-putin-newspaper.html",
+      "pubDate": "2026-11-08T08:05:25.000Z",
+      "image": null,
+      "author": "Tom Masters",
+      "excerpt": "Novaya Gazeta’s closure offers a valuable lesson for any publication working in a climate of tyranny.",
+      "source": "NYT"
+    },
+    {
+      "title": "America Called. It Wants Its Government Back.",
+      "link": "https://www.nytimes.com/2026/11/08/opinion/midterms-america-government.html",
+      "pubDate": "2026-11-08T06:00:05.000Z",
+      "image": null,
+      "author": "Jacob Weisberg",
+      "excerpt": "The midterm election can be understood as a plea for a government that actually cares about people.",
+      "source": "NYT"
+    },
+    {
+      "title": "Polluted Delhi Tries ‘Green’ Fireworks to Clear the Air at Diwali",
+      "link": "https://www.nytimes.com/2026/11/08/world/asia/delhi-pollution-green-fireworks-diwali.html",
+      "pubDate": "2026-11-08T05:01:18.000Z",
+      "image": "https://static01.nyt.com/images/2026/11/08/multimedia/08int-diwali-pollution-01-qwjm/08int-diwali-pollution-01-qwjm-mediumSquareAt3X.jpg",
+      "author": "Jeremy W. Peters and Suhasini Raj",
+      "excerpt": "India’s top court decreed that only more environmentally friendly fireworks could be set off this weekend, citing air quality concerns. But environmental activists call it a “green wash.”",
+      "source": "NYT"
+    },
+    {
       "title": "Eisenkot Seeks to Oust Netanyahu as Prime Minister. Here’s How.",
       "link": "https://www.nytimes.com/2026/11/07/world/middleeast/eisenkot-israel-new-government.html",
-      "pubDate": "2026-11-07T21:52:03.000Z",
+      "pubDate": "2026-11-07T21:52:04.000Z",
       "image": "https://static01.nyt.com/images/2026/11/06/multimedia/06int-israel-eisenkot-01-tjwp/06int-israel-eisenkot-01-tjwp-mediumSquareAt3X-v2.jpg",
       "author": "David M. Halbfinger",
       "excerpt": "Gadi Eisenkot gets the chance to form a new government, replacing Benjamin Netanyahu as prime minister. But the obstacles are formidable.",
@@ -914,21 +941,12 @@
       "source": "NYT"
     },
     {
-      "title": "We the People Finally Turn on Trump",
-      "link": "https://www.nytimes.com/2026/11/07/opinion/trump-midterms-maga-base.html",
-      "pubDate": "2026-11-07T16:47:07.000Z",
-      "image": "https://static01.nyt.com/images/2026/11/08/multimedia/07dowd-hlqm/07dowd-hlqm-mediumSquareAt3X-v2.jpg",
-      "author": "Maureen Dowd",
-      "excerpt": "A Norma Desmond crash-out to end all crash-outs.",
-      "source": "NYT"
-    },
-    {
-      "title": "More Than 50 Killed in Yemen in One of the Deadliest 24 Hours of the War",
-      "link": "https://www.nytimes.com/2026/11/07/world/middleeast/more-than-50-killed-in-yemen.html",
-      "pubDate": "2026-11-07T16:39:31.000Z",
-      "image": "https://static01.nyt.com/images/2026/11/07/multimedia/07int-YEMEN-DEATHS-mgcp/07int-YEMEN-DEATHS-mgcp-mediumSquareAt3X.jpg",
-      "author": "Shuaib Almosawa and Ismaeel Naar",
-      "excerpt": "Strikes show the heavy toll since fighting between the Houthis and the Saudi-backed government reignited in August, with civilians paying a heavy price.",
+      "title": "A ‘Chaotic Race’ for the World’s Top Diplomat",
+      "link": "https://www.nytimes.com/2026/11/07/world/americas/un-secretary-general-pick.html",
+      "pubDate": "2026-11-07T17:26:52.000Z",
+      "image": "https://static01.nyt.com/images/2026/11/06/multimedia/00INT-UNBoss-zfpq/00INT-UNBoss-zfpq-mediumSquareAt3X.jpg",
+      "author": "Somini Sengupta",
+      "excerpt": "The contest to replace António Guterres as U.N. secretary general has been jolted by last-minute entrants and deep divisions among members of the Security Council.",
       "source": "NYT"
     },
     {
@@ -950,15 +968,6 @@
       "source": "NYT"
     },
     {
-      "title": "What Michelle Goldberg Learned From the Most Exciting Democrats",
-      "link": "https://www.nytimes.com/2026/11/07/opinion/ezra-klein-podcast-michelle-goldberg.html",
-      "pubDate": "2026-11-07T14:45:02.000Z",
-      "image": "https://static01.nyt.com/images/2026/11/07/opinion/07eks-goldberg-image01/07eks-goldberg-image01-mediumSquareAt3X.png",
-      "author": "Ezra Klein and Annie Galvin",
-      "excerpt": "Michelle Goldberg reported on the Democrats’ most exciting campaigns. Here’s what she saw.",
-      "source": "NYT"
-    },
-    {
       "title": "South Carolina Republicans Fracture Over Stunning Defeat of Darline Graham",
       "link": "https://www.nytimes.com/2026/11/07/us/politics/darline-graham-loss-blame.html",
       "pubDate": "2026-11-07T14:30:09.000Z",
@@ -968,21 +977,30 @@
       "source": "NYT"
     },
     {
-      "title": "Illeana Douglas Looks Back on Hollywood’s Biggest ‘Cat Fight’",
-      "link": "https://www.nytimes.com/2026/11/07/style/illeana-douglas-the-women-cat-fight.html",
-      "pubDate": "2026-11-07T13:55:57.000Z",
-      "image": "https://static01.nyt.com/images/2026/11/07/multimedia/07ST-ILLEANA-DOUGLAS-4-bjvh-grid-hp/07ST-ILLEANA-DOUGLAS-4-bjvh-mediumSquareAt3X.jpg",
-      "author": "Maureen Dowd",
-      "excerpt": "After publishing a book about the 1939 classic “The Women,” the actress and writer talks about her film career and her role in #MeToo.",
-      "source": "NYT"
-    },
-    {
       "title": "Trump’s D.C. Construction Blitz May Be About to Get Tougher",
       "link": "https://www.nytimes.com/2026/11/06/us/politics/trump-construction-projects-washington.html",
       "pubDate": "2026-11-07T03:08:58.000Z",
       "image": "https://static01.nyt.com/images/2026/11/07/multimedia/07dc-trump-makeover-top2-fpwz/07dc-trump-makeover-top2-fpwz-mediumSquareAt3X.jpg",
       "author": "Luke Broadwater and Emily Badger",
       "excerpt": "The president has bulldozed through obstacles as he has sought to remake the face of Washington. But newly empowered Democrats and angry judges are setting up a high-stakes showdown.",
+      "source": "NYT"
+    },
+    {
+      "title": "After ‘Babydoll’, Dominic Fike Embraces the Mess",
+      "link": "https://www.nytimes.com/2026/11/06/arts/music/dominic-fike-popcast-interview.html",
+      "pubDate": "2026-11-06T10:01:46.000Z",
+      "image": "https://static01.nyt.com/images/2026/11/06/multimedia/06cul-popcast-fike-02-gcfw/06cul-popcast-fike-02-gcfw-mediumSquareAt3X.jpg",
+      "author": "Joe Coscarelli, Jon Caramanica and Jason Nocito",
+      "excerpt": "In the wake of a viral hit, new sobriety and fatherhood, the rocker scrapped the album he had been working on to make a less-polished LP.",
+      "source": "NYT"
+    },
+    {
+      "title": "What to Know About Diwali, the Hindu Festival of Lights",
+      "link": "https://www.nytimes.com/article/diwali-india-festival-lights.html",
+      "pubDate": "2026-11-06T07:31:50.000Z",
+      "image": "https://static01.nyt.com/images/2026/11/07/multimedia/07xp-diwali-hvcj/07xp-diwali-hvcj-mediumSquareAt3X.jpg",
+      "author": "Mike Ives",
+      "excerpt": "The biggest public holiday in India features prayers for prosperity and good fortune — and lots of sweets.",
       "source": "NYT"
     }
   ]
