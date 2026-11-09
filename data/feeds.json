@@ -1,6 +1,24 @@
 {
   "spaceNews": [
     {
+      "title": "APOD: 2026 November 9 – Rigel and the Witch Head Nebula",
+      "link": "https://science.nasa.gov/image-article/apod-2026-november-9-rigel-and-the-witch-head-nebula/",
+      "pubDate": "2026-11-09T05:05:00.000Z",
+      "image": "https://assets.science.nasa.gov/dynamicimage/assets/science/cds/apod/apod/2026/november/WitchHead_Czerski_3000.jpg?w=2048&#038;h=1359&#038;fit=clip&#038;crop=faces%2Cfocalpoint",
+      "author": "",
+      "excerpt": "APOD Science APOD APOD: 2026 November 9 –… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional ",
+      "source": "NASA"
+    },
+    {
+      "title": "Ozone Hole Reaches Its 2026 Maximum",
+      "link": "https://science.nasa.gov/earth/earth-observatory/ozone-hole-reaches-its-2026-maximum/",
+      "pubDate": "2026-11-09T05:00:00.000Z",
+      "image": "https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2026/ozone-hole-reaches-its-2026-maximum/ozone_geos5_20260918_hires.jpg?w=1440&#038;h=1480&#038;fit=clip&#038;crop=faces%2Cfocalpoint",
+      "author": "",
+      "excerpt": "The ozone hole ranked seventh largest by area in 48 years of monitoring, but it was not as deep as other large holes on record.",
+      "source": "NASA"
+    },
+    {
       "title": "Gemini North reveals Twin Spirits in Pegasus",
       "link": "https://www.astronomy.com/science/gemini-north-reveals-twin-spirits-in-pegasus/",
       "pubDate": "2026-11-08T17:00:00.000Z",
@@ -172,15 +190,6 @@
       "source": "NASA"
     },
     {
-      "title": "Taking a Gander at Utah’s Goosenecks",
-      "link": "https://science.nasa.gov/earth/earth-observatory/taking-a-gander-at-utahs-goosenecks/",
-      "pubDate": "2026-11-06T05:01:00.000Z",
-      "image": "https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2026/taking-a-gander-at-utah’s-goosenecks/ISS075-E-188830.jpg?w=2048&#038;h=1365&#038;fit=clip&#038;crop=faces%2Cfocalpoint",
-      "author": "",
-      "excerpt": "The San Juan River has carved deep, improbably curvy meanders into the desert landscape.",
-      "source": "NASA"
-    },
-    {
       "title": "CesiumAstro Raises $730M, Reaches Valuation Above $4.5B",
       "link": "https://payloadspace.com/cesiumastro-raises-730m-reaches-valuation-above-4-5b/",
       "pubDate": "2026-11-06T01:43:16.000Z",
@@ -251,15 +260,6 @@
       "author": "Matthew Sparkes",
       "excerpt": "Recent fractures on the surface of Mars and gases detected by an orbiter probe provide some of the strongest evidence yet that the planet is volcanically active",
       "source": "New Scientist"
-    },
-    {
-      "title": "Midwestern City Lights",
-      "link": "https://www.nasa.gov/image-article/midwestern-city-lights/",
-      "pubDate": "2026-11-05T15:17:19.000Z",
-      "image": "https://www.nasa.gov/wp-content/uploads/2026/11/iss075e0227352orig.jpg?w=2048",
-      "author": "HQ Web Team",
-      "excerpt": "City lights from the Midwestern United States to the East Coast sparkle across the landscape a couple of hours before sunrise on Oct. 18, 2026. Major urban areas visible in the photograph include Chicago, Illinois; Detroit, Michigan; and the New York metropolitan region. The International Space Station was orbiting 259",
-      "source": "NASA"
     },
     {
       "title": "Building a ‘highway to the moon and back’ with Winnie Lai",
@@ -869,6 +869,69 @@
   ],
   "nytNews": [
     {
+      "title": "How an Intern and a Biologist Rescued an Orphaned Walrus in Alaska",
+      "link": "https://www.nytimes.com/2026/11/08/us/walrus-alaska-rescue.html",
+      "pubDate": "2026-11-09T06:21:37.000Z",
+      "image": null,
+      "author": "Ishani Desai",
+      "excerpt": "An injured five-month-old walrus was found huddled next to carcasses in remote Alaska after it became separated from its mother. Its rescue took days and lots of patience.",
+      "source": "NYT"
+    },
+    {
+      "title": "What if Europe Rearms at Exactly the Wrong Time?",
+      "link": "https://www.nytimes.com/2026/11/09/opinion/europe-defense-far-right.html",
+      "pubDate": "2026-11-09T06:00:05.000Z",
+      "image": null,
+      "author": "Liana Fix",
+      "excerpt": "If a far-right party in Paris or Berlin were determined to burn bridges with its neighbors, it could.",
+      "source": "NYT"
+    },
+    {
+      "title": "Germans Miss Merkel, Their Old Chancellor, Though They Dislike Her Policies",
+      "link": "https://www.nytimes.com/2026/11/09/world/europe/germans-angela-merkel-portrait.html",
+      "pubDate": "2026-11-09T05:01:06.000Z",
+      "image": "https://static01.nyt.com/images/2026/11/03/multimedia/00int-Germany-Merkel-qthv/00int-Germany-Merkel-qthv-mediumSquareAt3X.jpg",
+      "author": "Aaron Wiener and Jim Tankersley",
+      "excerpt": "Crowds have flocked to the stern, but reassuring, face of Angela Merkel in her official portrait, even as a backlash to her legacy roils German politics.",
+      "source": "NYT"
+    },
+    {
+      "title": "Book Review: ‘Secrets,’ by Bob Woodward",
+      "link": "https://www.nytimes.com/2026/11/09/books/review/secrets-bob-woodward.html",
+      "pubDate": "2026-11-09T05:01:04.000Z",
+      "image": null,
+      "author": "Jennifer Szalai",
+      "excerpt": "In a new memoir, the veteran investigative reporter gets personal, tallying scoops he missed along with those he ferreted out of politicians and officials.",
+      "source": "NYT"
+    },
+    {
+      "title": "Tesla Announces It Will Discontinue the Cybertruck, a Culture War on Wheels",
+      "link": "https://www.nytimes.com/2026/11/08/us/tesla-cybertruck-culture-war.html",
+      "pubDate": "2026-11-09T03:51:50.000Z",
+      "image": "https://static01.nyt.com/images/2026/11/08/multimedia/08nat-cybertruck-over-vpmb/08nat-cybertruck-over-vpmb-mediumSquareAt3X.jpg",
+      "author": "Dave Philipps",
+      "excerpt": "Feelings about the angular, stainless steel pickup run deep.",
+      "source": "NYT"
+    },
+    {
+      "title": "Trump Says Immigration Crackdown May Have ‘Hurt’ Republicans in Midterms",
+      "link": "https://www.nytimes.com/2026/11/08/us/politics/trump-immigration-crackdown-republicans-midterms.html",
+      "pubDate": "2026-11-09T03:16:26.000Z",
+      "image": "https://static01.nyt.com/images/2026/11/08/us/08dc-trump-60Minutes/08dc-trump-60Minutes-mediumSquareAt3X.jpg",
+      "author": "Erica L. Green",
+      "excerpt": "The president was asked in a “60 Minutes” interview that aired on Sunday whether his deportation policies went too far. “I think it might be too tough,” he said.",
+      "source": "NYT"
+    },
+    {
+      "title": "Trump Was ‘Only Kidding’ in Asking Dana White to Be His Press Secretary",
+      "link": "https://www.nytimes.com/2026/11/08/us/politics/trump-joke-dana-white-press-secretary.html",
+      "pubDate": "2026-11-09T00:43:21.000Z",
+      "image": "https://static01.nyt.com/images/2026/11/08/multimedia/08dc-trump-klhj/08dc-trump-klhj-mediumSquareAt3X.jpg",
+      "author": "Erica L. Green",
+      "excerpt": "The president said on Sunday that the U.F.C. chief executive “loves the idea” of being the White House spokesman but that his public offer of the job was “just a little fun.”",
+      "source": "NYT"
+    },
+    {
       "title": "Nvidia Opens Investigation Into Jensen Huang’s Relationship With Chinese Spy",
       "link": "https://www.nytimes.com/2026/11/08/technology/nvidia-investigation-jensen-huang-china.html",
       "pubDate": "2026-11-09T00:33:59.000Z",
@@ -905,51 +968,6 @@
       "source": "NYT"
     },
     {
-      "title": "Justice Dept. Mulled Naming The Times as Conspirator in Comey Leak Case",
-      "link": "https://www.nytimes.com/2026/11/08/us/politics/justice-dept-new-york-times-comey-leak.html",
-      "pubDate": "2026-11-08T22:59:31.000Z",
-      "image": "https://static01.nyt.com/images/2026/11/07/multimedia/Justice-New-York-Times-bfgk/Justice-New-York-Times-bfgk-mediumSquareAt3X.jpg",
-      "author": "Alan Feuer",
-      "excerpt": "It remains unclear how the Justice Department might proceed. The move would be a major escalation of the Trump administration’s recent attacks against the news media.",
-      "source": "NYT"
-    },
-    {
-      "title": "How an Intern and a Biologist Rescued an Orphaned Walrus in Alaska",
-      "link": "https://www.nytimes.com/2026/11/08/us/walrus-alaska-rescue.html",
-      "pubDate": "2026-11-08T22:54:56.000Z",
-      "image": null,
-      "author": "Ishani Desai",
-      "excerpt": "An injured five-month-old walrus was found huddled next to carcasses in remote Alaska after it became separated from its mother. Its rescue took days and lots of patience.",
-      "source": "NYT"
-    },
-    {
-      "title": "Reeling From Rare Mass Shooting, Poles Ask What Set Off Young Suspect",
-      "link": "https://www.nytimes.com/2026/11/08/world/europe/poland-shooting-suspect-family.html",
-      "pubDate": "2026-11-08T22:48:25.000Z",
-      "image": "https://static01.nyt.com/images/2026/11/08/multimedia/08int-poland-shooting-family-pjtb/08int-poland-shooting-family-pjtb-mediumSquareAt3X.jpg",
-      "author": "Andrew Higgins",
-      "excerpt": "Officials say that a 24-year-old killed his family and then six people during a rampage in Krakow. Now they are trying to determine the motive.",
-      "source": "NYT"
-    },
-    {
-      "title": "Tesla Announces It Will Discontinue the Cybertruck, a Culture War on Wheels",
-      "link": "https://www.nytimes.com/2026/11/08/us/tesla-cybertruck-culture-war.html",
-      "pubDate": "2026-11-08T22:45:34.000Z",
-      "image": "https://static01.nyt.com/images/2026/11/08/multimedia/08nat-cybertruck-over-vpmb/08nat-cybertruck-over-vpmb-mediumSquareAt3X.jpg",
-      "author": "Dave Philipps",
-      "excerpt": "Feelings about the angular, stainless steel pickup run deep.",
-      "source": "NYT"
-    },
-    {
-      "title": "Top Astrophysicist Leaves U.S. After Trump Policies Affect Her Work ",
-      "link": "https://www.nytimes.com/2026/11/07/science/space/holley-bockelmann-astrophysicist-space-trump.html",
-      "pubDate": "2026-11-08T22:27:55.000Z",
-      "image": "https://static01.nyt.com/images/2026/09/29/multimedia/sus-astronomer-promo-pkhq/sus-astronomer-promo-pkhq-mediumSquareAt3X.jpg",
-      "author": "Eli Saslow and Hilary Swift",
-      "excerpt": "Kelly Holley-Bockelmann was one of the top astrophysicists in the country until President Trump’s policies affected every part of her work.",
-      "source": "NYT"
-    },
-    {
       "title": "Jeffries Backs Impeaching Hegseth as Democrats Push for Accountability",
       "link": "https://www.nytimes.com/2026/11/08/us/politics/pete-hegseth-impeachment-hakeem-jeffries.html",
       "pubDate": "2026-11-08T19:22:53.000Z",
@@ -968,15 +986,6 @@
       "source": "NYT"
     },
     {
-      "title": "Republicans Don’t Understand Men, Either",
-      "link": "https://www.nytimes.com/2026/11/08/opinion/russell-brand-men-republicans.html",
-      "pubDate": "2026-11-08T11:02:28.000Z",
-      "image": "https://static01.nyt.com/images/2026/11/08/multimedia/08french-lbvt/08french-lbvt-mediumSquareAt3X.jpg",
-      "author": "David French",
-      "excerpt": "For the most part, young men want to be good men.",
-      "source": "NYT"
-    },
-    {
       "title": "A Stake Through the Heart of Trump’s Red Map",
       "link": "https://www.nytimes.com/2026/11/08/opinion/midterms-democrats-schumer.html",
       "pubDate": "2026-11-08T11:00:21.000Z",
@@ -992,15 +1001,6 @@
       "image": "https://static01.nyt.com/images/2026/11/08/multimedia/08nat-Hinojosa-interview-fbql/08nat-Hinojosa-interview-fbql-mediumSquareAt3X.jpg",
       "author": "J. David Goodman and Edgar Sandoval",
       "excerpt": "In her first interview with The New York Times since her victory, the governor-elect talked about tackling data centers, abortion restrictions and Elon Musk.",
-      "source": "NYT"
-    },
-    {
-      "title": "How Trump Is Dismantling America’s Scientific Research Machine",
-      "link": "https://www.nytimes.com/2026/10/31/science/how-trump-is-dismantling-americas-scientific-research-machine.html",
-      "pubDate": "2026-11-08T02:09:25.000Z",
-      "image": "https://static01.nyt.com/images/2026/10/29/us/dc-trumpscience-promo/dc-trumpscience-promo-mediumSquareAt3X.jpg",
-      "author": "Christopher Flavelle, Irena Hwang, Adam Sella, Alan Blinder, Sheryl Gay Stolberg, Benjamin Mueller and Michael C. Bender",
-      "excerpt": "The system that has driven life-altering discoveries and helped make the United States a superpower is now under intense strain.",
       "source": "NYT"
     }
   ]
