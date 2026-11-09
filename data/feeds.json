@@ -1,12 +1,111 @@
 {
   "spaceNews": [
     {
+      "title": "NASA Advanced Mid-Power Electric Rocket Challenge",
+      "link": "https://www.nasa.gov/directorates/stmd/prizes-challenges-crowdsourcing-program/center-of-excellence-for-collaborative-innovation-coeci/nasa-advanced-mid-power-electric-rocket-challenge/",
+      "pubDate": "2026-11-09T17:42:42.000Z",
+      "image": "https://www.nasa.gov/wp-content/uploads/2024/05/image-1ee21e.jpeg?w=1200",
+      "author": "Bailey Light",
+      "excerpt": "Mid-power (3-7 kW) Hall effect thruster systems have been identified by government and industry stakeholders as critical capabilities for satellite, defense, and exploration missions. Given the need for this capability, NASA is launching the Advanced Mid-Power Electric Rocket (AMPERE) Challenge. The NASA AMPERE Challen",
+      "source": "NASA"
+    },
+    {
+      "title": "La NASA destina un millón de dólares al reto estudiantil Base Lunar",
+      "link": "https://www.nasa.gov/news-release/la-nasa-destina-un-millon-de-dolares-al-reto-estudiantil-base-lunar/",
+      "pubDate": "2026-11-09T17:36:33.000Z",
+      "image": "https://www.nasa.gov/wp-content/uploads/2026/11/cpc-logistics-actionshot-1.png?w=2048",
+      "author": "María José Viñas",
+      "excerpt": "Read this release in English here.El domingo 8 de noviembre de 2026, la NASA anunció la convocatoria del reto estudiantil Base Lunar, dotado con un millón de dólares, durante un acto de MAX POWER celebrado en el Complejo de Visitantes del Centro Espacial Kennedy, en Florida. En el marco de una edad de oro de […]",
+      "source": "NASA"
+    },
+    {
+      "title": "Astronauts Across Generations Share the Stage",
+      "link": "https://www.nasa.gov/image-article/astronauts-across-generations-share-the-stage/",
+      "pubDate": "2026-11-09T16:56:29.000Z",
+      "image": "https://www.nasa.gov/wp-content/uploads/2026/11/20261106-artemiscelebrationgala-sl1-4202.jpg?w=2048",
+      "author": "Gary Daines",
+      "excerpt": "On Nov. 6, 2026, Purpose Entertainment hosted the Artemis Celebration Gala at NASA’s Kennedy Space Center Visitor Complex in Merritt Island, Florida. Held on the eve of NASA’s MAX POWER event, the gala celebrated the explorers, innovators, and visionaries advancing the next era of human spaceflight. The event honored t",
+      "source": "NASA"
+    },
+    {
+      "title": "MAX POWER: NASA’s Inaugural Aerospace Expo Ignites America’s Future",
+      "link": "https://www.nasa.gov/general/max-power-nasas-inaugural-aerospace-expo-ignites-americas-future/",
+      "pubDate": "2026-11-09T16:07:10.000Z",
+      "image": "https://www.nasa.gov/wp-content/uploads/2026/11/ksc-20261107-ph-jls01-0269.jpg?w=2048",
+      "author": "Jessica Taveau",
+      "excerpt": "Thousands gathered over several days in early November to experience MAX POWER – NASA’s first exhibition of America’s superiority in space, aeronautics, and technology on and around the agency’s Kennedy Space Center in Florida. The multi-day, family-friendly event honored the nation’s 250th anniversary and served as a ",
+      "source": "NASA"
+    },
+    {
+      "title": "NASA’s ESCAPADE Completes Powered Earth Flybys, Now En Route to Mars",
+      "link": "https://science.nasa.gov/science-research/heliophysics/nasas-escapade-completes-powered-earth-flybys-now-en-route-to-mars/",
+      "pubDate": "2026-11-09T16:01:47.000Z",
+      "image": "https://assets.science.nasa.gov/dynamicimage/assets/science/missions/escapade/ESCAPADE-B_TMI_07.jpg?w=2048&#038;h=1365&#038;fit=clip&#038;crop=faces%2Cfocalpoint",
+      "author": "",
+      "excerpt": "NASA’s two ESCAPADE (Escape and Plasma Acceleration and Dynamics Explorers) spacecraft have each successfully completed a powered Earth flyby, using Earth’s gravity in combination with a sustained engine burn to slingshot themselves toward Mars. With these successful maneuvers complete, the twin spacecraft are on targe",
+      "source": "NASA"
+    },
+    {
+      "title": "Space Force leaders advance shared commitments for allied space power at Global MILSATCOM ",
+      "link": "https://www.spaceforce.mil/News/Article-Display/Article/4644592/space-force-leaders-advance-shared-commitments-for-allied-space-power-at-global/",
+      "pubDate": "2026-11-09T15:25:00.000Z",
+      "image": "https://media.defense.gov/2026/Nov/09/2004025108/700/700/0/261104-X-F3250-1100.JPG",
+      "author": "Pentagon News",
+      "excerpt": "Conference discussions centered on expanding partnerships, co-investing in resilient satellite communications architectures and establishing pre-crisis agreements to strengthen deterrence and spectrum dominance.",
+      "source": "Space Force"
+    },
+    {
+      "title": "Mysterious gas on Mars suggests magma below",
+      "link": "https://www.astronomy.com/science/mysterious-gas-on-mars-suggests-magma-below/",
+      "pubDate": "2026-11-09T15:15:08.000Z",
+      "image": null,
+      "author": "Brooks Mendenhall",
+      "excerpt": "Something is leaking from the ground near one of Mars’ largest volcanoes, and scientists think it’s a sign that active magma is buried below. In a study published Nov. 4 in Science Advances, researchers report detections of hydrogen chloride (HCl) gas within 6 miles (10 kilometers) of the planet’s surface near the volc",
+      "source": "Astronomy Magazine"
+    },
+    {
+      "title": "CCIA Report Highlights Satellite Connectivity’s Potential to Expand Internet Access and Drive Economic Growth",
+      "link": "https://spacenews.com/ccia-report-highlights-satellite-connectivitys-potential-to-expand-internet-access-and-drive-economic-growth/",
+      "pubDate": "2026-11-09T14:00:00.000Z",
+      "image": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/11/ccia-logo-square.png?fit=929%2C927&amp;ssl=1",
+      "author": "CCIA",
+      "excerpt": "Washington — The Computer & Communications Industry Association today released Connecting the World: Unlocking the Potential of Satellite Connectivity, a new report examining how satellite technology can expand internet access, […] The post CCIA Report Highlights Satellite Connectivity’s Potential to Expand Internet Ac",
+      "source": "SpaceNews"
+    },
+    {
+      "title": "Apollo and Artemis Astronauts Share the Stage at Gala",
+      "link": "https://payloadspace.com/apollo-and-artemis-astronauts-share-the-stage-at-gala/",
+      "pubDate": "2026-11-09T13:45:00.000Z",
+      "image": "https://payloadspace.com/wp-content/uploads/2026/11/20261106_ArtemisCelebrationGala_SL2_4350-1-200x200.jpg",
+      "author": "Victoria Woodburn",
+      "excerpt": "Twenty-eight astronauts—including two Apollo veterans—and one very large Saturn V shared a room at Kennedy Space Center for the Artemis Celebration Gala. The post Apollo and Artemis Astronauts Share the Stage at Gala appeared first on Payload.",
+      "source": "Payload"
+    },
+    {
+      "title": "Canada’s Medium-Lift Rocket Ambitions Confirmed In Budget",
+      "link": "https://payloadspace.com/canadas-medium-lift-rocket-ambitions-confirmed-in-budget/",
+      "pubDate": "2026-11-09T13:30:00.000Z",
+      "image": "https://payloadspace.com/wp-content/uploads/2026/07/68dc133e3256228fbfe5478c_BAC359FB-8F72-4E07-ABD0-F40DEE0B788C-200x200.jpg",
+      "author": "Elizabeth Howell",
+      "excerpt": "Canada will upgrade its rockets as part of its Launch the North initiative, which is aiming to support sovereign rockets flying from at least two new spaceports. The post Canada’s Medium-Lift Rocket Ambitions Confirmed In Budget appeared first on Payload.",
+      "source": "Payload"
+    },
+    {
+      "title": "CHAPEA Mission 2 Crew Reflects After 378 Days on Simulated Mars ",
+      "link": "https://www.nasa.gov/centers-and-facilities/johnson/chapea-mission-2-crew-reflects-after-378-days-on-simulated-mars/",
+      "pubDate": "2026-11-09T11:00:00.000Z",
+      "image": "https://www.nasa.gov/wp-content/uploads/2026/11/jsc2026e424286.jpg?w=1536",
+      "author": "Sumer Loggins",
+      "excerpt": "After 378 days without windows, the sounds of the outside world, or real-time calls with family and friends, four research volunteers stepped out of NASA’s Mars Dune Alpha habitat on Oct. 31, completing the agency’s second yearlong Mars surface simulation. Ross Elder, Ellen Ellis, James Spicer, and Matthew Montgomery e",
+      "source": "NASA"
+    },
+    {
       "title": "APOD: 2026 November 9 – Rigel and the Witch Head Nebula",
       "link": "https://science.nasa.gov/image-article/apod-2026-november-9-rigel-and-the-witch-head-nebula/",
       "pubDate": "2026-11-09T05:05:00.000Z",
       "image": "https://assets.science.nasa.gov/dynamicimage/assets/science/cds/apod/apod/2026/november/WitchHead_Czerski_3000.jpg?w=2048&#038;h=1359&#038;fit=clip&#038;crop=faces%2Cfocalpoint",
       "author": "",
-      "excerpt": "APOD Science APOD APOD: 2026 November 9 –… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional ",
+      "excerpt": "APODScienceAPODAPOD: 2026 November 9 –…Today’s APODArchiveSubmissionsIndexSearchCalendarRSSEducationAboutDiscuss APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer. R",
       "source": "NASA"
     },
     {
@@ -17,15 +116,6 @@
       "author": "",
       "excerpt": "The ozone hole ranked seventh largest by area in 48 years of monitoring, but it was not as deep as other large holes on record.",
       "source": "NASA"
-    },
-    {
-      "title": "Gemini North reveals Twin Spirits in Pegasus",
-      "link": "https://www.astronomy.com/science/gemini-north-reveals-twin-spirits-in-pegasus/",
-      "pubDate": "2026-11-08T17:00:00.000Z",
-      "image": null,
-      "author": "Alison Klesman",
-      "excerpt": "Three high school students in the Project Hōkūlani internship at Gemini North on Maunakea, Hawaii, chose this pair of clashing spirals, cataloged collectively as NGC 7253 or Arp 278, for imaging with the 8.1-meter telescope. It captured this photo — the most detailed ever taken of these galaxies — in October 2025. The ",
-      "source": "Astronomy Magazine"
     },
     {
       "title": "NASA Unveils Moon Base Awards at MAX POWER",
@@ -51,34 +141,7 @@
       "pubDate": "2026-11-08T05:05:00.000Z",
       "image": "https://assets.science.nasa.gov/dynamicimage/assets/science/cds/apod/apod/2026/november/meteor2017_Taylor_1200.jpg?w=0&#038;h=0&#038;fit=clip&#038;crop=faces%2Cfocalpoint",
       "author": "",
-      "excerpt": "APOD Science APOD APOD: 2026 November 8 –… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional ",
-      "source": "NASA"
-    },
-    {
-      "title": "NASA Awards Moon Base Transportation, Technology, Science Projects",
-      "link": "https://www.nasa.gov/news-release/nasa-awards-moon-base-transportation-technology-science-projects/",
-      "pubDate": "2026-11-07T22:47:03.000Z",
-      "image": "https://www.nasa.gov/wp-content/uploads/2026/11/moon-base-artists-concept.jpg?w=1936",
-      "author": "Jessica Taveau",
-      "excerpt": "NASA announced a suite of awards and mission updates on Saturday to expand the agency’s Moon Base exploration, science, and infrastructure capabilities. The investments will advance commercial robotic deliveries, a nuclear-powered rover named PROMISE, launch and orbital transfer services, and surface infrastructure as ",
-      "source": "NASA"
-    },
-    {
-      "title": "NASA Seeks Next Generation of Explorers to Join Astronaut Corps",
-      "link": "https://www.nasa.gov/news-release/nasa-seeks-next-generation-of-explorers-to-join-astronaut-corps/",
-      "pubDate": "2026-11-07T18:11:57.000Z",
-      "image": "https://www.nasa.gov/wp-content/uploads/2026/11/jsc2025e076292large.jpg?w=1920",
-      "author": "Jessica Taveau",
-      "excerpt": "NASA is looking for the explorers who will help write the next chapter of human spaceflight. Applications are now open for the agency’s next class of astronauts, who will join NASA as America returns to the Moon, builds the Moon Base, and lays the groundwork for the first crewed missions to Mars. The next generation […",
-      "source": "NASA"
-    },
-    {
-      "title": "APOD: 2026 November 7 – De Gerlache-Kocher Massif",
-      "link": "https://science.nasa.gov/image-article/apod-2026-november-7-de-gerlache-kocher-massif/",
-      "pubDate": "2026-11-07T05:05:00.000Z",
-      "image": "https://assets.science.nasa.gov/dynamicimage/assets/science/cds/apod/apod/2026/november/GerlacheKocherMassif_Sans.jpg?w=1500&#038;h=1022&#038;fit=clip&#038;crop=faces%2Cfocalpoint",
-      "author": "",
-      "excerpt": "APOD Science APOD APOD: 2026 November 7 –… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional ",
+      "excerpt": "APODScienceAPODAPOD: 2026 November 8 –…Today’s APODArchiveSubmissionsIndexSearchCalendarRSSEducationAboutDiscuss APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer. M",
       "source": "NASA"
     },
     {
@@ -107,24 +170,6 @@
       "author": "Pentagon News",
       "excerpt": "Eligible Airmen and Guardians can receive up to $600 for counseling or therapy, with the same amount available to each eligible family member, up to $2,400 per family per calendar year.",
       "source": "Space Force"
-    },
-    {
-      "title": "M30’s Sparkling Stars",
-      "link": "https://www.nasa.gov/image-article/m30s-sparkling-stars/",
-      "pubDate": "2026-11-06T16:23:41.000Z",
-      "image": "https://www.nasa.gov/wp-content/uploads/2026/11/hubble-m30-potm2610a.jpg?w=2048",
-      "author": "HQ Web Team",
-      "excerpt": "This NASA/ESA Hubble Space Telescope image released Nov. 5, 2026, provides a lesson in galactic history. The sparkling collection of stars is named Messier 30 (M30) after the French astronomer, Charles Messier, who cataloged M30 and other diffuse objects that might be mistaken for comets in the early telescopes of Mess",
-      "source": "NASA"
-    },
-    {
-      "title": "Supercomputing Tech Demo Schedule",
-      "link": "https://science.nasa.gov/earth/supercomputing-tech-demo-schedule/",
-      "pubDate": "2026-11-06T16:03:52.000Z",
-      "image": null,
-      "author": "",
-      "excerpt": "Supercomputing 2026 Join NASA in the Exhibit Hall (Booth #4038) for presentations by NASA experts. Full Tech Demo schedule below. TUESDAY, NOVEMBER 17 10:00 AMType-safe Templates in Fortran 2028Tom Clune10:30 AMType-safe Templates in Fortran 2028Tom Clune11:00 AM Type-safe Templates in Fortran 2028Tom Clune1:00PM Mixin",
-      "source": "NASA"
     },
     {
       "title": "AST SpaceMobile To Build New Blacklift Rocket",
@@ -181,15 +226,6 @@
       "source": "Astronomy Magazine"
     },
     {
-      "title": "APOD: 2026 November 6 – A Farewell to Swift",
-      "link": "https://science.nasa.gov/image-article/apod-2026-november-6-a-farewell-to-swift/",
-      "pubDate": "2026-11-06T05:05:00.000Z",
-      "image": "https://assets.science.nasa.gov/dynamicimage/assets/science/cds/apod/apod/2026/november/Swift_Millionth_Image_Mosaic.jpg?w=2048&#038;h=1460&#038;fit=clip&#038;crop=faces%2Cfocalpoint",
-      "author": "",
-      "excerpt": "APOD Science APOD APOD: 2026 November 6 – A… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professiona",
-      "source": "NASA"
-    },
-    {
       "title": "CesiumAstro Raises $730M, Reaches Valuation Above $4.5B",
       "link": "https://payloadspace.com/cesiumastro-raises-730m-reaches-valuation-above-4-5b/",
       "pubDate": "2026-11-06T01:43:16.000Z",
@@ -235,6 +271,15 @@
       "source": "SpaceNews"
     },
     {
+      "title": "Make the most of long nights with this month’s new astronomy products",
+      "link": "https://www.astronomy.com/observing/make-the-most-of-long-nights-with-this-months-new-astronomy-products/",
+      "pubDate": "2026-11-05T19:42:26.000Z",
+      "image": null,
+      "author": "Astronomy Staff",
+      "excerpt": "GS-100AR/AC High-Precision Guide Scope ToupTekHangzhou, China The GS-100AR/AC High-Precision Guide Scope is a guide scope, a wide-field imaging system, and a visual instrument. Its apochromatic design produces a flat 1-inch image circle and reduces purple fringing seen in earlier models. With a choice of rack-and-pinio",
+      "source": "Astronomy Magazine"
+    },
+    {
       "title": "DAF unveils enterprise blueprint to field operational SI across 15 mission domains",
       "link": "https://www.spaceforce.mil/News/Article-Display/Article/4642457/daf-unveils-enterprise-blueprint-to-field-operational-si-across-15-mission-doma/",
       "pubDate": "2026-11-05T17:16:00.000Z",
@@ -260,6 +305,15 @@
       "author": "Matthew Sparkes",
       "excerpt": "Recent fractures on the surface of Mars and gases detected by an orbiter probe provide some of the strongest evidence yet that the planet is volcanically active",
       "source": "New Scientist"
+    },
+    {
+      "title": "Curiosity captures a martian dawn",
+      "link": "https://www.astronomy.com/science/curiosity-captures-a-martian-dawn/",
+      "pubDate": "2026-11-05T15:09:27.000Z",
+      "image": null,
+      "author": "Brooks Mendenhall",
+      "excerpt": "The morning Sun casts a hazy glow over Mars’ Mount Sharp, lighting up distant wind-carved rock formations known as yardangs. This scene is cropped from a six-image panorama captured by the Mastcam on NASA’s Curiosity rover at 8:30 a.m. local time on Aug. 11, 2026, the mission’s 4,982nd sol (martian day). Mount Sharp, f",
+      "source": "Astronomy Magazine"
     },
     {
       "title": "Building a ‘highway to the moon and back’ with Winnie Lai",
@@ -307,15 +361,6 @@
       "source": "Spaceflight Now"
     },
     {
-      "title": "Van Gogh’s Starry Night shows a real night sky, study suggests",
-      "link": "https://www.astronomy.com/science/van-goghs-starry-night-shows-a-real-night-sky-study-suggests/",
-      "pubDate": "2026-11-04T19:01:39.000Z",
-      "image": null,
-      "author": "Brooks Mendenhall",
-      "excerpt": "For decades, art historians and astronomers have wondered whether the sky of Vincent van Gogh’s The Starry Night shows real stars or imagined ones. A new study argues the stars are real — and that Van Gogh likely saw them a month later than most scholars thought. The study, published Oct. 22 in Scientific Reports,Conti",
-      "source": "Astronomy Magazine"
-    },
-    {
       "title": "Could primordial black holes hold the key to dark matter?",
       "link": "https://www.newscientist.com/video/2597265-could-primordial-black-holes-hold-the-key-to-dark-matter/?utm_campaign=RSS|NSNS&utm_content=space&utm_medium=RSS&utm_source=NSNS",
       "pubDate": "2026-11-04T18:00:00.000Z",
@@ -359,24 +404,6 @@
       "author": "Spacemanic",
       "excerpt": "Czech company Spacemanic and Belgian optical leader Simera Sense are teaming up to deliver a new dual-use satellite solution that can compete with bigger and heavier satellites. Simera Sense xScape200 […] The post Simera Sense and Spacemanic to Collaborate on a New Complete Dual-Use Mission Solution appeared first on S",
       "source": "SpaceNews"
-    },
-    {
-      "title": "What to Watch on Election Night",
-      "link": "https://payloadspace.com/what-to-watch-on-election-night/",
-      "pubDate": "2026-11-03T15:51:20.000Z",
-      "image": "https://payloadspace.com/wp-content/uploads/2026/11/iss064e000163-200x200.jpg",
-      "author": "Jacqueline Feldscher",
-      "excerpt": "Here are the top things I’ll be paying attention to over my election-night pizza—a cheat sheet of what to watch as it relates to space. The post What to Watch on Election Night appeared first on Payload.",
-      "source": "Payload"
-    },
-    {
-      "title": "Exclusive: Sceye Signs Deal to Fly HAPS Fleet for SoftBank",
-      "link": "https://payloadspace.com/exclusive-sceye-signs-five-year-deal-to-fly-haps-fleet-for-softbank/",
-      "pubDate": "2026-11-03T14:00:00.000Z",
-      "image": "https://payloadspace.com/wp-content/uploads/2026/11/Sceye-ST1-Launch-4-200x200.png",
-      "author": "Victoria Woodburn",
-      "excerpt": "Sceye signed a five-year, master-services agreement with SoftBank to manufacture, launch, and operate a fleet of Sceye’s high-altitude platform systems (HAPS) over Japan. The post Exclusive: Sceye Signs Deal to Fly HAPS Fleet for SoftBank appeared first on Payload.",
-      "source": "Payload"
     },
     {
       "title": "NASA’s Neil Gehrels Swift Observatory to burn up this week after more than two decades in space",
@@ -469,6 +496,15 @@
       "source": "New Scientist"
     },
     {
+      "title": "Rubin spots possible dwarf planet",
+      "link": "https://www.astronomy.com/science/rubin-spots-possible-dwarf-planet/",
+      "pubDate": "2026-10-30T14:28:22.000Z",
+      "image": null,
+      "author": "Brooks Mendenhall",
+      "excerpt": "The Vera C. Rubin Observatory may have found its first dwarf planet. Orbiting beyond Pluto, the object may also be one of the brightest and biggest in that stretch of the solar system. Matthew Holman, a Rubin operations team member and senior astrophysicist at the Center for Astrophysics | Harvard & Smithsonian, discov",
+      "source": "Astronomy Magazine"
+    },
+    {
       "title": "Read an extract from Dark Eden by Chris Beckett",
       "link": "https://www.newscientist.com/article/2596432-read-an-extract-from-dark-eden-by-chris-beckett/?utm_campaign=RSS|NSNS&utm_content=space&utm_medium=RSS&utm_source=NSNS",
       "pubDate": "2026-10-30T09:30:00.000Z",
@@ -559,30 +595,12 @@
       "source": "SpaceNews"
     },
     {
-      "title": "Astranis Upgrades Falcon 9 Launch Contract to Dedicated Mission for Entire Block 4 Production Run of Satellites",
-      "link": "https://spacenews.com/astranis-upgrades-falcon-9-launch-contract-to-dedicated-mission-for-entire-block-4-production-run-of-satellites/",
-      "pubDate": "2026-10-26T13:00:00.000Z",
-      "image": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/10/astranis-square.png?fit=1024%2C1014&amp;ssl=1",
-      "author": "Astranis",
-      "excerpt": "SAN FRANCISCO —October 26, 2026—Today, Astranis announced it has upgraded its 4th launch to a dedicated mission aboard a SpaceX Falcon 9 rocket set to launch in 2028, allowing it […] The post Astranis Upgrades Falcon 9 Launch Contract to Dedicated Mission for Entire Block 4 Production Run of Satellites appeared first o",
-      "source": "SpaceNews"
-    },
-    {
       "title": "Announcing the winners of Astronomy Magazine’s 2026 Astrophotography Contest",
       "link": "https://www.astronomy.com/observing/announcing-the-winners-of-astronomy-magazines-2026-astrophotography-contest/",
       "pubDate": "2026-10-23T20:21:06.000Z",
       "image": null,
       "author": "Astronomy Staff",
       "excerpt": "Astronomy magazine is proud to announce the winners of its 2026 Astrophotography Contest, presented by Celestron — the magazine’s first photo contest in 13 years. More than 1,400 entries poured in from photographers around the world, with images ranging from faint nebulae and stunning planetary close-ups to dramatic so",
-      "source": "Astronomy Magazine"
-    },
-    {
-      "title": "The Sky This Week from October 23 to 30: Gaze at the Full Hunter’s Moon ",
-      "link": "https://www.astronomy.com/the-sky-this-week/the-sky-this-week-from-october-23-to-30-2026/",
-      "pubDate": "2026-10-23T05:00:00.000Z",
-      "image": null,
-      "author": "Alison Klesman",
-      "excerpt": "Friday, October 23The Moon passes 5° north of Neptune at 11 P.M. EDT; you can catch the pair in the south around that time, along with Saturn in the southwest, just to the Moon’s lower left. Saturn is visible to the naked eye, but Neptune is not. The distant ice giant will require binoculars orContinue reading \"The Sky",
       "source": "Astronomy Magazine"
     },
     {
@@ -593,15 +611,6 @@
       "author": "Karmela Padavic-Callaghan",
       "excerpt": "An experiment has produced nanoflares similar to those seen on the sun, and shown that they can help explain why the outer layers of the solar atmosphere are so hot",
       "source": "New Scientist"
-    },
-    {
-      "title": "Mars’ moon Phobos is destined to become a ring",
-      "link": "https://www.astronomy.com/science/mars-moon-phobos-is-destined-to-become-a-ring/",
-      "pubDate": "2026-10-22T13:50:18.000Z",
-      "image": null,
-      "author": "Joel Davis",
-      "excerpt": "Phobos, it seems, is not long for this universe — at least on the large cosmic timescale. Astronomers have long known that Phobos, the larger and nearer of the two martian moons, is slowly spiraling inward to eventual destruction. The end result won’t be pretty: Phobos will slip closer and closer toward Mars, then stri",
-      "source": "Astronomy Magazine"
     },
     {
       "title": "Why the Drake equation is still important 65 years after its creation",
@@ -764,15 +773,6 @@
       "author": "Pentagon News",
       "excerpt": "In a keynote address at the Air and Space Forces Association’s Air, Space and Cyber Conference, CSO Schiess outlined core priorities to accelerate U.S. Space Force growth.",
       "source": "Space Force"
-    },
-    {
-      "title": "Acquisition leaders emphasize mission, speed, risk in changing acquisition culture",
-      "link": "https://www.spaceforce.mil/News/Article-Display/Article/4602069/acquisition-leaders-emphasize-mission-speed-risk-in-changing-acquisition-culture/",
-      "pubDate": "2026-09-15T20:26:00.000Z",
-      "image": "https://media.defense.gov/2026/Sep/17/2004001402/700/700/0/260915-F-GA295-8064.JPG",
-      "author": "Pentagon News",
-      "excerpt": "Senior acquisition and DAF leaders discussed ongoing acquisition transformation and the need to put operational outcomes at the center of decision-making during the “Sustaining Forces Through Acquisition and Innovation” panel at the 2026 AFA Air, Space and Cyber Conference.",
-      "source": "Space Force"
     }
   ],
   "industryNews": [
@@ -869,53 +869,215 @@
   ],
   "nytNews": [
     {
-      "title": "How an Intern and a Biologist Rescued an Orphaned Walrus in Alaska",
-      "link": "https://www.nytimes.com/2026/11/08/us/walrus-alaska-rescue.html",
-      "pubDate": "2026-11-09T06:21:37.000Z",
+      "title": "U.S. Commerce Dept. Inquiry Into Megaspeed Was Halted After Nvidia Intervention",
+      "link": "https://www.nytimes.com/2026/11/09/business/economy/nvidia-megaspeed-investigation-huang.html",
+      "pubDate": "2026-11-09T18:38:40.000Z",
+      "image": "https://static01.nyt.com/images/2026/11/09/multimedia/09dc-commerce-megaspeed-qmlg/09dc-commerce-megaspeed-qmlg-mediumSquareAt3X.jpg",
+      "author": "Ana Swanson and Devlin Barrett",
+      "excerpt": "An investigation into Megaspeed, a Singapore company that was buying advanced Nvidia A.I. chips, was transferred to the Justice Department after a top Nvidia executive reached out to Commerce Department officials.",
+      "source": "NYT"
+    },
+    {
+      "title": "Trump Veers Back Into Claims of Rigged Election, Questioning Midterm Results",
+      "link": "https://www.nytimes.com/2026/11/09/us/politics/trump-election-fraud-rigging-midterms.html",
+      "pubDate": "2026-11-09T18:37:11.000Z",
+      "image": "https://static01.nyt.com/images/2026/11/09/multimedia/09DC-TRUMP-ELECITON-fqzt/09DC-TRUMP-ELECITON-fqzt-mediumSquareAt3X.jpg",
+      "author": "Luke Broadwater and Zolan Kanno-Youngs",
+      "excerpt": "President Trump, who initially said he would accept the midterm results, renewed his unsubstantiated claims that voting was manipulated.",
+      "source": "NYT"
+    },
+    {
+      "title": "Trump Has Found His New Roy Cohn in Stephen Miller",
+      "link": "https://www.nytimes.com/2026/11/09/opinion/stephen-miller-roy-cohn-trump.html",
+      "pubDate": "2026-11-09T18:31:41.000Z",
+      "image": "https://static01.nyt.com/images/2026/11/10/multimedia/09bird-vzfb/09bird-vzfb-mediumSquareAt3X.jpg",
+      "author": "Kai Bird and Susan Goldmark",
+      "excerpt": "Stephen Miller is the wartime consigliere Trump always wanted.",
+      "source": "NYT"
+    },
+    {
+      "title": "A.I. Fueled Nvidia CEO Jensen Huang’s Elite Status, but Scandal Followed",
+      "link": "https://www.nytimes.com/2026/11/09/technology/jensen-huang-nvidia-ai-chips-scandal.html",
+      "pubDate": "2026-11-09T17:58:28.000Z",
+      "image": "https://static01.nyt.com/images/2026/11/09/multimedia/09biz-chips-ai-hcpj/09biz-chips-ai-hcpj-mediumSquareAt3X.jpg",
+      "author": "Don Clark",
+      "excerpt": "As chips became essential components for A.I., executives like Nvidia’s Jensen Huang saw their personal wealth and profiles soar in a way the industry has not experienced before.",
+      "source": "NYT"
+    },
+    {
+      "title": "Florida Woman’s Death From This Mosquito-Borne Disease Raises Alarms",
+      "link": "https://www.nytimes.com/2026/11/09/us/dengue-united-states-florida-mosquitos.html",
+      "pubDate": "2026-11-09T17:44:22.000Z",
+      "image": "https://static01.nyt.com/images/2026/11/09/us/09nat-dengue1/09nat-dengue1-mediumSquareAt3X.jpg",
+      "author": "Anemona Hartocollis",
+      "excerpt": "In the past, Americans were infected with dengue after being bitten by mosquitoes while traveling. But now, most of the current transmission is from local mosquitoes.",
+      "source": "NYT"
+    },
+    {
+      "title": "What Is Congress’s Plan to Speed Up Energy Permits?",
+      "link": "https://www.nytimes.com/2026/11/09/climate/congress-energy-permitting-reform-vote.html",
+      "pubDate": "2026-11-09T17:14:23.000Z",
+      "image": "https://static01.nyt.com/images/2026/11/09/climate/09cli-permitting-bill/09cli-permitting-bill-mediumSquareAt3X.jpg",
+      "author": "Brad Plumer",
+      "excerpt": "The sprawling bill, which has divided Democrats, would overhaul major environmental laws to streamline the permitting process.",
+      "source": "NYT"
+    },
+    {
+      "title": "Would a Democratic Crackdown on A.I. Hurt the Economy or Save It?",
+      "link": "https://www.nytimes.com/2026/11/09/business/economy/ai-bubble-democrats-midterms-economy.html",
+      "pubDate": "2026-11-09T16:59:16.000Z",
+      "image": "https://static01.nyt.com/images/2026/11/09/multimedia/00biz-ai-econ-01-lwvk/00biz-ai-econ-01-lwvk-mediumSquareAt3X.jpg",
+      "author": "Ben Casselman, Tony Romm and Colby Smith",
+      "excerpt": "Voter backlash could threaten the data center boom. Some economists think that could be a good thing.",
+      "source": "NYT"
+    },
+    {
+      "title": "How Did Greek Fire Work? And 6 Other Lost Inventions.",
+      "link": "https://www.nytimes.com/2026/11/09/science/lost-inventions-to-time-greek-fire-antikythera.html",
+      "pubDate": "2026-11-09T16:51:28.000Z",
+      "image": "https://static01.nyt.com/images/2026/11/09/science/09SCI-UNKNOWNS-LOST-top2/09SCI-UNKNOWNS-LOST-top2-mediumSquareAt3X.jpg",
+      "author": "K. R. Callaway, William J. Broad and Franz Lidz",
+      "excerpt": "Even once-widespread innovations have been forgotten, leaving scholars puzzling over the details.",
+      "source": "NYT"
+    },
+    {
+      "title": "An Anti-Trump Protest. Police Threats. Inside a Rift in Diabetes Research.",
+      "link": "https://www.nytimes.com/2026/11/09/science/american-diabetes-association-turmoil.html",
+      "pubDate": "2026-11-09T16:41:41.000Z",
+      "image": "https://static01.nyt.com/images/2026/10/27/multimedia/00SCI-ADA-CONTROVERSY-01-stillpromo/00SCI-ADA-CONTROVERSY-01-stillpromo-mediumSquareAt3X.jpg",
+      "author": "Eric Boodman",
+      "excerpt": "It began with a protest at an American Diabetes Association conference. Now a resulting boycott has caused a scientific slowdown, with no end in sight.",
+      "source": "NYT"
+    },
+    {
+      "title": "Nvidia’s Stock Price Drops After Investigation Into CEO Jensen Huang",
+      "link": "https://www.nytimes.com/2026/11/09/business/nvidia-stock-price-jensen-huang-ceo.html",
+      "pubDate": "2026-11-09T16:24:05.000Z",
+      "image": "https://static01.nyt.com/images/2026/11/09/multimedia/nvidia-stock-promo-bgjq/nvidia-stock-promo-bgjq-mediumSquareAt3X.jpg",
+      "author": "Joe Rennison and Jason Karaian",
+      "excerpt": "The chipmaker’s size and significance to the A.I. trade means that Jensen Huang’s admission of a relationship with a businesswoman suspected of spying for China could reverberate across Wall Street.",
+      "source": "NYT"
+    },
+    {
+      "title": "Russell Brand Sentenced to 10 and a Half Years in Prison for Rape",
+      "link": "https://www.nytimes.com/2026/11/09/arts/russell-brand-prison-sentence-rape.html",
+      "pubDate": "2026-11-09T15:37:07.000Z",
+      "image": "https://static01.nyt.com/images/2026/11/10/multimedia/09cul-russell-brand-sentencing-ktbl/09cul-russell-brand-sentencing-ktbl-mediumSquareAt3X.jpg",
+      "author": "Alex Marshall",
+      "excerpt": "A London judge said the former comedy star, who was convicted of rape and sexual assault last week, had shown a “casual, arrogant disregard” for women’s wishes.",
+      "source": "NYT"
+    },
+    {
+      "title": "Megyn Kelly, Elon Musk and Others Defend Russell Brand After Rape Conviction",
+      "link": "https://www.nytimes.com/2026/11/09/arts/russell-brand-megyn-kelly-elon-musk.html",
+      "pubDate": "2026-11-09T14:35:46.000Z",
+      "image": "https://static01.nyt.com/images/2026/11/09/multimedia/09cul-brand-supporters-hbgm/09cul-brand-supporters-hbgm-mediumSquareAt3X.jpg",
+      "author": "Alex Marshall",
+      "excerpt": "The former star, whom a British judge sentenced to 10 and a half years in prison on Monday, became an anti-establishment flag-bearer through conspiracy-minded commentary.",
+      "source": "NYT"
+    },
+    {
+      "title": "Is Jensen Huang Too Powerful to Be Punished by Nvidia?",
+      "link": "https://www.nytimes.com/2026/11/09/technology/jensen-huang-affair-nvidia.html",
+      "pubDate": "2026-11-09T13:54:04.000Z",
+      "image": "https://static01.nyt.com/images/2026/11/09/multimedia/09biz-jensen-influence-qbhw/09biz-jensen-influence-qbhw-mediumSquareAt3X.jpg",
+      "author": "Kalley Huang and Tripp Mickle",
+      "excerpt": "The chief executive has a tight grip on his company, presenting a challenge for Nvidia’s board, which is investigating his affair with a woman believed to be a Chinese spy.",
+      "source": "NYT"
+    },
+    {
+      "title": "Bipartisan Support for Israel Erodes as Both Sides Push for New Limits",
+      "link": "https://www.nytimes.com/2026/11/09/us/politics/us-israel-midterm-elections.html",
+      "pubDate": "2026-11-09T13:48:04.000Z",
+      "image": "https://static01.nyt.com/images/2026/11/08/multimedia/00dc-israel1-zghp/00dc-israel1-zghp-mediumSquareAt3X.jpg",
+      "author": "Edward Wong and Michael Crowley",
+      "excerpt": "Vice President JD Vance is among Republicans calling for change. Many Democratic lawmakers have been driving a campaign to restrict military aid to Israel.",
+      "source": "NYT"
+    },
+    {
+      "title": "A Decade After Henry Worsley Died in Antarctica, His Son Tries to Reach the South Pole",
+      "link": "https://www.nytimes.com/2026/11/09/climate/max-worsley-antarctic-expedition.html",
+      "pubDate": "2026-11-09T12:06:09.000Z",
+      "image": "https://static01.nyt.com/images/2026/11/04/multimedia/00cli-onwards-01-lqkc/00cli-onwards-01-lqkc-mediumSquareAt3X.jpg",
+      "author": "Raymond Zhong and Nicholas J. R. White",
+      "excerpt": "A decade after Max Worsley’s father died crossing the continent, he embarks this month on his own journey into the lonely land his father loved.",
+      "source": "NYT"
+    },
+    {
+      "title": "Immigrants Are Being Systematically Returned Home Despite Court Orders",
+      "link": "https://www.nytimes.com/2026/11/09/world/africa/trump-deportations-court-orders-refoulement.html",
+      "pubDate": "2026-11-09T12:04:29.000Z",
+      "image": "https://static01.nyt.com/images/2026/10/28/multimedia/00int-deportations-2-plzm/00int-deportations-2-plzm-mediumSquareAt3X-v2.jpg",
+      "author": "Megha Rajagopalan, Edward Wong, Ruth Maclean and Hamed Aleaziz",
+      "excerpt": "Working with the Trump administration, foreign partners accept deportees, then ship them to nations where the U.S. itself would be prohibited from sending them.",
+      "source": "NYT"
+    },
+    {
+      "title": "The Clergy in Congress",
+      "link": "https://www.nytimes.com/2026/11/09/briefing/religious-democrats.html",
+      "pubDate": "2026-11-09T12:01:53.000Z",
+      "image": "https://static01.nyt.com/images/2026/11/09/multimedia/09themorning-nl-Clergy-hjgk/09themorning-nl-Clergy-hjgk-mediumSquareAt3X.jpg",
+      "author": "Lauren Jackson",
+      "excerpt": "Some religious Democrats campaigned on an old commandment — to love thy neighbor. Is that a new road map for the party?",
+      "source": "NYT"
+    },
+    {
+      "title": "What Democrats Plan to Investigate After Election Victory",
+      "link": "https://www.nytimes.com/video/us/politics/100000011266496/democrats-plan-corruption-investigations-after-election-victory.html",
+      "pubDate": "2026-11-09T10:48:01.000Z",
       "image": null,
-      "author": "Ishani Desai",
-      "excerpt": "An injured five-month-old walrus was found huddled next to carcasses in remote Alaska after it became separated from its mother. Its rescue took days and lots of patience.",
+      "author": "Michael Gold, Joy Sung, Whitney Shefte and Pierre Kattar",
+      "excerpt": "Following their midterm victories, Democrats are preparing to open wide-ranging investigations into President Trump, his family and his administration. Michael Gold, a Times congressional reporter, identifies the Democrats’ biggest targets.",
       "source": "NYT"
     },
     {
-      "title": "What if Europe Rearms at Exactly the Wrong Time?",
-      "link": "https://www.nytimes.com/2026/11/09/opinion/europe-defense-far-right.html",
-      "pubDate": "2026-11-09T06:00:05.000Z",
+      "title": "‘You Can See Everything’: Amanda Seyfried Faces ‘The Dropout’",
+      "link": "https://www.nytimes.com/2026/11/09/arts/you-can-see-everything-amanda-seyfried.html",
+      "pubDate": "2026-11-09T10:03:48.000Z",
       "image": null,
-      "author": "Liana Fix",
-      "excerpt": "If a far-right party in Paris or Berlin were determined to burn bridges with its neighbors, it could.",
+      "author": "Caroline Darya Framke",
+      "excerpt": "As they dissect Elizabeth Holmes’s persona, Nathan Fielder and Amanda Seyfried confront the nature of truth.",
       "source": "NYT"
     },
     {
-      "title": "Germans Miss Merkel, Their Old Chancellor, Though They Dislike Her Policies",
-      "link": "https://www.nytimes.com/2026/11/09/world/europe/germans-angela-merkel-portrait.html",
-      "pubDate": "2026-11-09T05:01:06.000Z",
-      "image": "https://static01.nyt.com/images/2026/11/03/multimedia/00int-Germany-Merkel-qthv/00int-Germany-Merkel-qthv-mediumSquareAt3X.jpg",
-      "author": "Aaron Wiener and Jim Tankersley",
-      "excerpt": "Crowds have flocked to the stern, but reassuring, face of Angela Merkel in her official portrait, even as a backlash to her legacy roils German politics.",
+      "title": "What to Know About Stephen Miller, Trump’s New Chief of Staff",
+      "link": "https://www.nytimes.com/2026/11/09/us/politics/stephen-miller-white-house-chief-staff.html",
+      "pubDate": "2026-11-09T10:03:44.000Z",
+      "image": "https://static01.nyt.com/images/2026/08/07/multimedia/06trump-wiles-stephen-miller1/06trump-wiles-stephen-miller1-mediumSquareAt3X.jpg",
+      "author": "Chris Cameron",
+      "excerpt": "The architect of President Trump’s mass deportation campaign, Mr. Miller has been the public face of many of Mr. Trump’s immigration policies.",
       "source": "NYT"
     },
     {
-      "title": "Book Review: ‘Secrets,’ by Bob Woodward",
-      "link": "https://www.nytimes.com/2026/11/09/books/review/secrets-bob-woodward.html",
-      "pubDate": "2026-11-09T05:01:04.000Z",
-      "image": null,
-      "author": "Jennifer Szalai",
-      "excerpt": "In a new memoir, the veteran investigative reporter gets personal, tallying scoops he missed along with those he ferreted out of politicians and officials.",
+      "title": "This Is How Democrats Won the Midterms",
+      "link": "https://www.nytimes.com/2026/11/09/opinion/democrats-midterms-populism.html",
+      "pubDate": "2026-11-09T10:03:38.000Z",
+      "image": "https://static01.nyt.com/images/2026/11/09/multimedia/09politics-editorial-vtbj/09politics-editorial-vtbj-mediumSquareAt3X.jpg",
+      "author": "The Editorial Board",
+      "excerpt": "The Democrats still have a long way to go before they can govern the country productively. But the victors of 2026 have started to point the way.",
       "source": "NYT"
     },
     {
-      "title": "Tesla Announces It Will Discontinue the Cybertruck, a Culture War on Wheels",
-      "link": "https://www.nytimes.com/2026/11/08/us/tesla-cybertruck-culture-war.html",
-      "pubDate": "2026-11-09T03:51:50.000Z",
-      "image": "https://static01.nyt.com/images/2026/11/08/multimedia/08nat-cybertruck-over-vpmb/08nat-cybertruck-over-vpmb-mediumSquareAt3X.jpg",
-      "author": "Dave Philipps",
-      "excerpt": "Feelings about the angular, stainless steel pickup run deep.",
+      "title": "Martin Luther King’s Lost Draft of ‘I Have a Dream’ Speech Surfaces",
+      "link": "https://www.nytimes.com/2026/11/09/arts/martin-luther-king-i-have-a-dream-speech-draft.html",
+      "pubDate": "2026-11-09T10:01:49.000Z",
+      "image": "https://static01.nyt.com/images/2026/11/09/multimedia/09cul-mlk-dreamspeech-01-lhmq/09cul-mlk-dreamspeech-01-lhmq-mediumSquareAt3X.jpg",
+      "author": "Jennifer Schuessler",
+      "excerpt": "The document, hand written by Martin Luther King Jr., will be auctioned in January at Christie’s, which expects it to fetch more than $10 million.",
       "source": "NYT"
     },
     {
-      "title": "Trump Says Immigration Crackdown May Have ‘Hurt’ Republicans in Midterms",
-      "link": "https://www.nytimes.com/2026/11/08/us/politics/trump-immigration-crackdown-republicans-midterms.html",
+      "title": "Why Colorado Is at the Epicenter of So Many Supreme Court Clashes",
+      "link": "https://www.nytimes.com/2026/11/09/us/politics/supreme-court-colorado.html",
+      "pubDate": "2026-11-09T10:01:38.000Z",
+      "image": "https://static01.nyt.com/images/2026/11/03/multimedia/00dc-scotus-colorado-mflj/00dc-scotus-colorado-mflj-mediumSquareAt3X.jpg",
+      "author": "Ann E. Marimow",
+      "excerpt": "In three recent cases, the conservative-dominated bench has ruled against the state and in favor of the rights of Christian business owners.",
+      "source": "NYT"
+    },
+    {
+      "title": "On ‘60 Minutes,’ Trump Says Immigration Crackdown May Have ‘Hurt’ Republicans in Elections",
+      "link": "https://www.nytimes.com/2026/11/08/us/politics/trump-60-minutes-republicans-election-immigration.html",
       "pubDate": "2026-11-09T03:16:26.000Z",
       "image": "https://static01.nyt.com/images/2026/11/08/us/08dc-trump-60Minutes/08dc-trump-60Minutes-mediumSquareAt3X.jpg",
       "author": "Erica L. Green",
@@ -929,78 +1091,6 @@
       "image": "https://static01.nyt.com/images/2026/11/08/multimedia/08dc-trump-klhj/08dc-trump-klhj-mediumSquareAt3X.jpg",
       "author": "Erica L. Green",
       "excerpt": "The president said on Sunday that the U.F.C. chief executive “loves the idea” of being the White House spokesman but that his public offer of the job was “just a little fun.”",
-      "source": "NYT"
-    },
-    {
-      "title": "Nvidia Opens Investigation Into Jensen Huang’s Relationship With Chinese Spy",
-      "link": "https://www.nytimes.com/2026/11/08/technology/nvidia-investigation-jensen-huang-china.html",
-      "pubDate": "2026-11-09T00:33:59.000Z",
-      "image": "https://static01.nyt.com/images/2026/11/08/multimedia/08biz-jensen-bqpz/08biz-jensen-bqpz-mediumSquareAt3X.jpg",
-      "author": "Tripp Mickle, Maggie Haberman, Jonathan Swan, Julian E. Barnes and Ana Swanson",
-      "excerpt": "Mr. Huang, the company’s chief executive, acknowledged on Sunday that he was intimate with a business executive who U.S. officials had determined was working for Chinese intelligence.",
-      "source": "NYT"
-    },
-    {
-      "title": "Rubio Warned Officials About Nvidia Chief’s Entanglement With Chinese Spy",
-      "link": "https://www.nytimes.com/2026/11/08/us/politics/rubio-nvidia-ceo-chinese-spy.html",
-      "pubDate": "2026-11-09T00:27:00.000Z",
-      "image": "https://static01.nyt.com/images/2026/11/08/multimedia/08dc-spy-chip-lkzp/08dc-spy-chip-lkzp-mediumSquareAt3X.jpg",
-      "author": "Maggie Haberman, Jonathan Swan, Julian E. Barnes and Tripp Mickle",
-      "excerpt": "The secretary of state’s role in drafting a secret memo highlights how top officials were concerned by this past spring about Jensen Huang’s relationship with a woman tied to Chinese intelligence.",
-      "source": "NYT"
-    },
-    {
-      "title": "Here Are the Difficult Options Trump Is Weighing to Resolve the War in Iran",
-      "link": "https://www.nytimes.com/2026/11/08/us/politics/trump-iran-options.html",
-      "pubDate": "2026-11-08T23:49:53.000Z",
-      "image": "https://static01.nyt.com/images/2026/11/08/multimedia/08dc-iran-options2-qtwp/08dc-iran-options2-qtwp-mediumSquareAt3X.jpg",
-      "author": "David E. Sanger and Eric Schmitt",
-      "excerpt": "There are no good choices facing President Trump as he tries to find a way out of the deeply unpopular conflict. But there are choices.",
-      "source": "NYT"
-    },
-    {
-      "title": "When the Boss on the Phone Isn’t Real: How More Than $129 Million Was Stolen Using A.I.",
-      "link": "https://www.nytimes.com/2026/11/08/business/ai-ceo-impersonation-theft.html",
-      "pubDate": "2026-11-08T23:34:09.000Z",
-      "image": "https://static01.nyt.com/images/2026/11/08/multimedia/08xp-ai1-tmjk/08xp-ai1-tmjk-mediumSquareAt3X.jpg",
-      "author": "Adeel Hassan",
-      "excerpt": "A federal indictment alleges that three men used generative A.I. to impersonate voices of chief executives and lawyers to defraud companies of millions of dollars.",
-      "source": "NYT"
-    },
-    {
-      "title": "Jeffries Backs Impeaching Hegseth as Democrats Push for Accountability",
-      "link": "https://www.nytimes.com/2026/11/08/us/politics/pete-hegseth-impeachment-hakeem-jeffries.html",
-      "pubDate": "2026-11-08T19:22:53.000Z",
-      "image": "https://static01.nyt.com/images/2026/11/08/multimedia/08dc-hegseth-cong-pvzl/08dc-hegseth-cong-pvzl-mediumSquareAt3X.jpg",
-      "author": "Robert Jimison",
-      "excerpt": "Democrats have begun laying the groundwork for an aggressive oversight agenda aimed at the Trump administration. But a political reckoning could come before the new Congress begins.",
-      "source": "NYT"
-    },
-    {
-      "title": "The Memory Card That Could Upend a State House Race in Georgia",
-      "link": "https://www.nytimes.com/2026/11/08/us/georgia-state-house-race-memory-card.html",
-      "pubDate": "2026-11-08T19:12:49.000Z",
-      "image": "https://static01.nyt.com/images/2026/11/08/us/08nat-georgia-memorycard2/08nat-georgia-memorycard2-mediumSquareAt3X.jpg",
-      "author": "Sejal Govindarao",
-      "excerpt": "The Democrat was leading the race for a district when officials realized there were missing votes from a single memory card. Now the Republican has the edge.",
-      "source": "NYT"
-    },
-    {
-      "title": "A Stake Through the Heart of Trump’s Red Map",
-      "link": "https://www.nytimes.com/2026/11/08/opinion/midterms-democrats-schumer.html",
-      "pubDate": "2026-11-08T11:00:21.000Z",
-      "image": "https://static01.nyt.com/images/2026/11/08/multimedia/08klein-qphw/08klein-qphw-mediumSquareAt3X.jpg",
-      "author": "Ezra Klein",
-      "excerpt": "Realignment is so 2024.",
-      "source": "NYT"
-    },
-    {
-      "title": "Gina Hinojosa Takes on the Texas Government Republicans Built",
-      "link": "https://www.nytimes.com/2026/11/08/us/gina-hinojosa-texas-priorities.html",
-      "pubDate": "2026-11-08T10:02:00.000Z",
-      "image": "https://static01.nyt.com/images/2026/11/08/multimedia/08nat-Hinojosa-interview-fbql/08nat-Hinojosa-interview-fbql-mediumSquareAt3X.jpg",
-      "author": "J. David Goodman and Edgar Sandoval",
-      "excerpt": "In her first interview with The New York Times since her victory, the governor-elect talked about tackling data centers, abortion restrictions and Elon Musk.",
       "source": "NYT"
     }
   ]
