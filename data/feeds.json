@@ -1,6 +1,51 @@
 {
   "spaceNews": [
     {
+      "title": "ESCAPADE on its way to Mars after Earth flybys",
+      "link": "https://spacenews.com/escapade-on-its-way-to-mars-after-earth-flybys/",
+      "pubDate": "2026-11-10T08:01:39.000Z",
+      "image": "https://i0.wp.com/spacenews.com/wp-content/uploads/2025/11/escapade_twins_Mars.jpg?fit=1024%2C482&amp;ssl=1",
+      "author": "Jeff Foust",
+      "excerpt": "Two NASA smallsats are headed toward Mars after completing flybys of Earth nearly a year after their launch. The post ESCAPADE on its way to Mars after Earth flybys appeared first on SpaceNews.",
+      "source": "SpaceNews"
+    },
+    {
+      "title": "APOD: 2026 November 10 – Saturn Behind the Moon",
+      "link": "https://science.nasa.gov/image-article/apod-2026-november-10-saturn-behind-the-moon/",
+      "pubDate": "2026-11-10T05:05:00.000Z",
+      "image": "https://assets.science.nasa.gov/dynamicimage/assets/science/cds/apod/apod/2026/november/Moonsaturn6_Ortu_2124.jpg?w=2048&#038;h=1525&#038;fit=clip&#038;crop=faces%2Cfocalpoint",
+      "author": "",
+      "excerpt": "APOD Science APOD APOD: 2026 November 10 –… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional",
+      "source": "NASA"
+    },
+    {
+      "title": "Autumn Mornings Bring Valley Fog",
+      "link": "https://science.nasa.gov/earth/earth-observatory/autumn-mornings-bring-valley-fog/",
+      "pubDate": "2026-11-10T05:00:00.000Z",
+      "image": "https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2026/autumn-mornings-bring-valley-fog/usvalleyfog_tmo_20261108.jpg",
+      "author": "",
+      "excerpt": "Low clouds trace the branching valleys of the Appalachian Plateau and the Cumberland River, then burn off by afternoon.",
+      "source": "NASA"
+    },
+    {
+      "title": "Curiosity Blog, Sols 5056-5062: Charging Back Up!",
+      "link": "https://science.nasa.gov/blog/curiosity-blog-sols-5056-5062-charging-back-up/",
+      "pubDate": "2026-11-10T01:07:45.000Z",
+      "image": "https://assets.science.nasa.gov/dynamicimage/assets/science/missions/msl/2026/curiosity-rover-updates/october/https___mars.nasa.gov_msl-raw-images_proj_msl_redops_ods_surface_sol_05062_opgs_edr_ncam_NRB_846865643EDR_S1251326NCAM00592M_.JPG?w=1024&#038;h=512&#038;fit=clip&#038;crop=faces%2Cfocalpoint",
+      "author": "",
+      "excerpt": "By Remington Free, Operations Systems Engineer, NASA-JPL Earth planning date: Friday, Oct. 30, 2026 Today’s plan covered 3 sols, 5060, 5061, and 5062, as we take a few recharging sols before getting back to our normal drilling activities. As you may know if you have been following the blog closely, we are in the middle",
+      "source": "NASA"
+    },
+    {
+      "title": "Curiosity Blog, Sols 5050-5055: It’s Nazca, Our 49th Drill Hole",
+      "link": "https://science.nasa.gov/blog/curiosity-blog-sols-5050-5055-its-nazca-our-49th-drill-hole/",
+      "pubDate": "2026-11-10T01:05:48.000Z",
+      "image": "https://assets.science.nasa.gov/dynamicimage/assets/science/missions/msl/2026/curiosity-rover-updates/october/https___mars.nasa.gov_msl-raw-images_msss_05050_mcam_5050MR1101700012601677E01_DXXX.jpg?w=1328&#038;h=1184&#038;fit=clip&#038;crop=faces%2Cfocalpoint",
+      "author": "",
+      "excerpt": "Written by Susanne P. Schwenzer, Professor of Planetary Mineralogy at The Open University, UK Earth planning date: Friday, Oct. 23, 2026 As regular readers of this blog will know, we returned to the area where we found disc shaped inclusions in the rocks, which we interpreted as potential crystals. If they are indeed c",
+      "source": "NASA"
+    },
+    {
       "title": "Rubies on Mars?",
       "link": "https://science.nasa.gov/blog/rubies-on-mars/",
       "pubDate": "2026-11-09T22:27:12.000Z",
@@ -64,33 +109,6 @@
       "source": "NASA"
     },
     {
-      "title": "Astronauts Across Generations Share the Stage",
-      "link": "https://www.nasa.gov/image-article/astronauts-across-generations-share-the-stage/",
-      "pubDate": "2026-11-09T16:56:29.000Z",
-      "image": "https://www.nasa.gov/wp-content/uploads/2026/11/20261106-artemiscelebrationgala-sl1-4202.jpg?w=2048",
-      "author": "Gary Daines",
-      "excerpt": "On Nov. 6, 2026, Purpose Entertainment hosted the Artemis Celebration Gala at NASA’s Kennedy Space Center Visitor Complex in Merritt Island, Florida. Held on the eve of NASA’s MAX POWER event, the gala celebrated the explorers, innovators, and visionaries advancing the next era of human spaceflight. The event honored t",
-      "source": "NASA"
-    },
-    {
-      "title": "MAX POWER: NASA’s Inaugural Aerospace Expo Ignites America’s Future",
-      "link": "https://www.nasa.gov/general/max-power-nasas-inaugural-aerospace-expo-ignites-americas-future/",
-      "pubDate": "2026-11-09T16:07:10.000Z",
-      "image": "https://www.nasa.gov/wp-content/uploads/2026/11/ksc-20261107-ph-jls01-0269.jpg?w=2048",
-      "author": "Jessica Taveau",
-      "excerpt": "Thousands gathered over several days in early November to experience MAX POWER – NASA’s first exhibition of America’s superiority in space, aeronautics, and technology on and around the agency’s Kennedy Space Center in Florida. The multi-day, family-friendly event honored the nation’s 250th anniversary and served as a ",
-      "source": "NASA"
-    },
-    {
-      "title": "NASA’s ESCAPADE Completes Powered Earth Flybys, Now En Route to Mars",
-      "link": "https://science.nasa.gov/science-research/heliophysics/nasas-escapade-completes-powered-earth-flybys-now-en-route-to-mars/",
-      "pubDate": "2026-11-09T16:01:47.000Z",
-      "image": "https://assets.science.nasa.gov/dynamicimage/assets/science/missions/escapade/ESCAPADE-B_TMI_07.jpg?w=2048&#038;h=1365&#038;fit=clip&#038;crop=faces%2Cfocalpoint",
-      "author": "",
-      "excerpt": "NASA’s two ESCAPADE (Escape and Plasma Acceleration and Dynamics Explorers) spacecraft have each successfully completed a powered Earth flyby, using Earth’s gravity in combination with a sustained engine burn to slingshot themselves toward Mars. With these successful maneuvers complete, the twin spacecraft are on targe",
-      "source": "NASA"
-    },
-    {
       "title": "Space Force leaders advance shared commitments for allied space power at Global MILSATCOM ",
       "link": "https://www.spaceforce.mil/News/Article-Display/Article/4644592/space-force-leaders-advance-shared-commitments-for-allied-space-power-at-global/",
       "pubDate": "2026-11-09T15:25:00.000Z",
@@ -134,15 +152,6 @@
       "author": "Elizabeth Howell",
       "excerpt": "Canada will upgrade its rockets as part of its Launch the North initiative, which is aiming to support sovereign rockets flying from at least two new spaceports. The post Canada’s Medium-Lift Rocket Ambitions Confirmed In Budget appeared first on Payload.",
       "source": "Payload"
-    },
-    {
-      "title": "CHAPEA Mission 2 Crew Reflects After 378 Days on Simulated Mars ",
-      "link": "https://www.nasa.gov/centers-and-facilities/johnson/chapea-mission-2-crew-reflects-after-378-days-on-simulated-mars/",
-      "pubDate": "2026-11-09T11:00:00.000Z",
-      "image": "https://www.nasa.gov/wp-content/uploads/2026/11/jsc2026e424286.jpg?w=1536",
-      "author": "Sumer Loggins",
-      "excerpt": "After 378 days without windows, the sounds of the outside world, or real-time calls with family and friends, four research volunteers stepped out of NASA’s Mars Dune Alpha habitat on Oct. 31, completing the agency’s second yearlong Mars surface simulation. Ross Elder, Ellen Ellis, James Spicer, and Matthew Montgomery e",
-      "source": "NASA"
     },
     {
       "title": "NASA Unveils Moon Base Awards at MAX POWER",
@@ -860,12 +869,57 @@
   ],
   "nytNews": [
     {
-      "title": "Supreme Court Allows Construction of Trump’s Border Wall in Big Bend",
-      "link": "https://www.nytimes.com/2026/11/09/us/politics/supreme-court-border-wall-trump.html",
-      "pubDate": "2026-11-10T01:34:09.000Z",
-      "image": "https://static01.nyt.com/images/2026/10/30/multimedia/00dc-scotus-bigbend-mtfb/00dc-scotus-bigbend-mtfb-mediumSquareAt3X.jpg",
-      "author": "Abbie VanSickle",
-      "excerpt": "Despite its win, the administration signaled it had adjusted construction plans in the national park with an aim to “preserving the unique landscape and public access.”",
+      "title": "China’s Trade Surplus Passes $1 Trillion at Record Pace",
+      "link": "https://www.nytimes.com/2026/11/09/business/china-trade-surplus-trillion.html",
+      "pubDate": "2026-11-10T09:00:49.000Z",
+      "image": "https://static01.nyt.com/images/2026/11/10/multimedia/10biz-China-trade-wmht/10biz-China-trade-wmht-mediumSquareAt3X.jpg",
+      "author": "Keith Bradsher",
+      "excerpt": "China’s factories are finding eager buyers worldwide, but the export boom is raising concerns about its impact on trading partner nations.",
+      "source": "NYT"
+    },
+    {
+      "title": "Late Night Weighs In on Trump’s Hopes for the Afterlife",
+      "link": "https://www.nytimes.com/2026/11/10/arts/television/late-night-trump-midterms.html",
+      "pubDate": "2026-11-10T08:01:20.000Z",
+      "image": null,
+      "author": "Trish Bendix",
+      "excerpt": "The president told “60 Minutes” that he doesn’t want to go to hell. “America was like, ‘Then where have we been living the past three years?’” Jimmy Fallon said.",
+      "source": "NYT"
+    },
+    {
+      "title": "California Voters Reject Prop. 40 Billionaire Tax Measure",
+      "link": "https://www.nytimes.com/2026/11/09/us/california-billionaire-tax-prop-40.html",
+      "pubDate": "2026-11-10T05:47:58.000Z",
+      "image": "https://static01.nyt.com/images/2026/12/09/multimedia/09nat-billionairetax-ca-hfo-fcmv/09nat-billionairetax-ca-hfo-fcmv-mediumSquareAt3X.jpg",
+      "author": "Laurel Rosenhall",
+      "excerpt": "The outcome could hinder the wealth tax movement in California and across the country in future years.",
+      "source": "NYT"
+    },
+    {
+      "title": "‘We Used to Be a Wealthy City’: Auto Woes Slam German Towns",
+      "link": "https://www.nytimes.com/2026/11/10/business/germany-auto-industry-cities.html",
+      "pubDate": "2026-11-10T05:00:10.000Z",
+      "image": "https://static01.nyt.com/images/2026/11/09/multimedia/09biz-german-auto-town-01-jbpg/09biz-german-auto-town-01-jbpg-mediumSquareAt3X.jpg",
+      "author": "Theresa Rauffmann, Jack Ewing and Lena Mucha",
+      "excerpt": "The downturn in the automotive industry has done away with services and benefits that residents of Friedrichshafen, a lakeside city, once enjoyed.",
+      "source": "NYT"
+    },
+    {
+      "title": "Gary Fisketjon Has Died. He Edited Ellis, Tartt, McInerney and McCarthy.",
+      "link": "https://www.nytimes.com/2026/11/09/obituaries/gary-fisketjon-dead.html",
+      "pubDate": "2026-11-10T03:36:28.000Z",
+      "image": null,
+      "author": "Clay Risen",
+      "excerpt": "A champion of slow, methodical editing and long working relationships with writers, he was regarded as one of the best of his generation. He was 72.",
+      "source": "NYT"
+    },
+    {
+      "title": "Nvidia CEO Jensen Huang Told Trump He Did Not Know Chinese Woman Was Suspected Spy",
+      "link": "https://www.nytimes.com/2026/11/09/us/politics/trump-jensen-huang-spy.html",
+      "pubDate": "2026-11-10T02:13:11.000Z",
+      "image": "https://static01.nyt.com/images/2026/11/09/multimedia/09dc-trump-jensen-tvfw/09dc-trump-jensen-tvfw-mediumSquareAt3X.jpg",
+      "author": "Luke Broadwater and Maggie Haberman",
+      "excerpt": "President Trump told reporters Monday that he believed Jensen Huang’s account and said he did not recall receiving a briefing warning him about Mr. Huang’s liaison.",
       "source": "NYT"
     },
     {
@@ -905,15 +959,6 @@
       "source": "NYT"
     },
     {
-      "title": "Nvidia CEO Jensen Huang Told Trump He Did Not Know Chinese Woman Was Suspected Spy",
-      "link": "https://www.nytimes.com/2026/11/09/us/politics/trump-jensen-huang-spy.html",
-      "pubDate": "2026-11-10T00:08:43.000Z",
-      "image": "https://static01.nyt.com/images/2026/11/09/multimedia/09dc-trump-jensen-tvfw/09dc-trump-jensen-tvfw-mediumSquareAt3X.jpg",
-      "author": "Luke Broadwater and Maggie Haberman",
-      "excerpt": "President Trump told reporters Monday that he believed Jensen Huang’s account and said he did not recall receiving a briefing warning him about Mr. Huang’s liaison.",
-      "source": "NYT"
-    },
-    {
       "title": "Democrats Demand Answers on Trump’s A.I. Policy Amid Spy Plot",
       "link": "https://www.nytimes.com/2026/11/09/us/politics/democrats-trump-ai-nvidia.html",
       "pubDate": "2026-11-09T23:48:34.000Z",
@@ -934,7 +979,7 @@
     {
       "title": "U.S. Commerce Dept. Inquiry Into Megaspeed Was Halted After Nvidia Intervention",
       "link": "https://www.nytimes.com/2026/11/09/business/economy/nvidia-megaspeed-investigation-huang.html",
-      "pubDate": "2026-11-09T23:27:04.000Z",
+      "pubDate": "2026-11-09T23:27:05.000Z",
       "image": "https://static01.nyt.com/images/2026/11/09/multimedia/09dc-commerce-megaspeed-qmlg/09dc-commerce-megaspeed-qmlg-mediumSquareAt3X.jpg",
       "author": "Ana Swanson and Devlin Barrett",
       "excerpt": "An investigation into Megaspeed, a Singapore company that was buying advanced Nvidia A.I. chips, was transferred to the Justice Department after a top Nvidia executive reached out to Commerce Department officials.",
@@ -947,24 +992,6 @@
       "image": null,
       "author": "Dave Kim",
       "excerpt": "Very little is clear in M. John Harrison’s Booker-nominated novel “The End of Everything,” except that nothing is as it seems.",
-      "source": "NYT"
-    },
-    {
-      "title": "The Evening: Fallout From Nvidia Revelations Continues",
-      "link": "https://www.nytimes.com/2026/11/09/briefing/nvidia-huang-hegseth.html",
-      "pubDate": "2026-11-09T22:35:34.000Z",
-      "image": "https://static01.nyt.com/images/2026/11/09/multimedia/09evening-nl-nvidia-pqtg/09evening-nl-nvidia-pqtg-mediumSquareAt3X.jpg",
-      "author": "Whet Moser",
-      "excerpt": "Plus, the best writer you’ve never heard of. Here’s the latest at the end of Monday.",
-      "source": "NYT"
-    },
-    {
-      "title": "Judge Denies Request to Throw Out Lindsay Clancy’s Murder Charges",
-      "link": "https://www.nytimes.com/2026/11/09/us/lindsay-clancy-trial-motions-denied.html",
-      "pubDate": "2026-11-09T22:35:24.000Z",
-      "image": "https://static01.nyt.com/images/2026/11/09/multimedia/09nat-clancy-rulings-pkql/09nat-clancy-rulings-pkql-mediumSquareAt3X.jpg",
-      "author": "Maia Spoto and Jenna Russell",
-      "excerpt": "The judge also declined to investigate the lone juror who wanted to convict Ms. Clancy, saying it would invade his privacy and deter others from serving on juries.",
       "source": "NYT"
     },
     {
@@ -986,21 +1013,12 @@
       "source": "NYT"
     },
     {
-      "title": "Her Death From Dengue May Signal That the Disease Is Here to Stay",
-      "link": "https://www.nytimes.com/2026/11/09/us/dengue-united-states-florida-mosquitos.html",
-      "pubDate": "2026-11-09T20:06:05.000Z",
-      "image": "https://static01.nyt.com/images/2026/11/09/us/09nat-dengue1/09nat-dengue1-mediumSquareAt3X.jpg",
-      "author": "Anemona Hartocollis",
-      "excerpt": "In the past, Americans were infected with dengue after being bitten by mosquitoes while traveling. But now, most of the current transmission is from local mosquitoes.",
-      "source": "NYT"
-    },
-    {
-      "title": "Progressives Defied Their Party and Won Big. They Still Feel Ignored.",
-      "link": "https://www.nytimes.com/2026/11/09/us/politics/progressive-wins-midterms.html",
-      "pubDate": "2026-11-09T19:34:11.000Z",
-      "image": "https://static01.nyt.com/images/2026/11/09/multimedia/09pol-progressive-wins-01-gqth/09pol-progressive-wins-01-gqth-mediumSquareAt3X.jpg",
-      "author": "Kellen Browning and Patricia Mazzei",
-      "excerpt": "As Democrats prepare to take power in Congress, some centrists are brushing off the victories of left-wing candidates. The left is pushing back.",
+      "title": "Paulina Porizkova: Why I Now Call Myself a Feminist",
+      "link": "https://www.nytimes.com/2026/11/09/opinion/paulina-porizkova-nyt-175.html",
+      "pubDate": "2026-11-09T19:46:55.000Z",
+      "image": null,
+      "author": "Paulina Porizkova",
+      "excerpt": "The former model looks back at what she wrote in The Times about feminism nine years ago.",
       "source": "NYT"
     },
     {
@@ -1010,15 +1028,6 @@
       "image": "https://static01.nyt.com/images/2026/11/09/multimedia/09DC-TRUMP-ELECITON-fqzt/09DC-TRUMP-ELECITON-fqzt-mediumSquareAt3X.jpg",
       "author": "Luke Broadwater and Zolan Kanno-Youngs",
       "excerpt": "President Trump, who initially said he would accept the midterm results, renewed his unsubstantiated claims that voting was manipulated.",
-      "source": "NYT"
-    },
-    {
-      "title": "Trump Has Found His New Roy Cohn in Stephen Miller",
-      "link": "https://www.nytimes.com/2026/11/09/opinion/stephen-miller-roy-cohn-trump.html",
-      "pubDate": "2026-11-09T18:31:41.000Z",
-      "image": "https://static01.nyt.com/images/2026/11/10/multimedia/09bird-vzfb/09bird-vzfb-mediumSquareAt3X.jpg",
-      "author": "Kai Bird and Susan Goldmark",
-      "excerpt": "Stephen Miller is the wartime consigliere Trump always wanted.",
       "source": "NYT"
     },
     {
@@ -1034,18 +1043,9 @@
       "title": "For Years, She Felt Awful. Her Flexible Joints Held a Clue.",
       "link": "https://www.nytimes.com/2026/11/09/well/heds-eds-hypermobile.html",
       "pubDate": "2026-11-09T14:22:23.000Z",
-      "image": "https://static01.nyt.com/images/2026/10/21/multimedia/21WELL-EDS-TIK-TOK5-fktw/21WELL-EDS-TIK-TOK5-fktw-mediumSquareAt3X.jpg",
+      "image": "https://static01.nyt.com/images/2026/10/21/multimedia/21WELL-EDS-TIK-TOK5-fktw/21WELL-EDS-TIK-TOK5-fktw-mediumSquareAt3X-v2.jpg",
       "author": "Elizabeth Anne Brown",
       "excerpt": "Many people with hypermobility disorders spend years trying to figure out what’s wrong. Online communities are helping them connect the dots.",
-      "source": "NYT"
-    },
-    {
-      "title": "A Decade After Henry Worsley Died in Antarctica, His Son Tries to Reach the South Pole",
-      "link": "https://www.nytimes.com/2026/11/09/climate/max-worsley-antarctic-expedition.html",
-      "pubDate": "2026-11-09T12:06:09.000Z",
-      "image": "https://static01.nyt.com/images/2026/11/04/multimedia/00cli-onwards-01-lqkc/00cli-onwards-01-lqkc-mediumSquareAt3X.jpg",
-      "author": "Raymond Zhong and Nicholas J. R. White",
-      "excerpt": "A decade after Max Worsley’s father died crossing the continent, he embarks this month on his own journey into the lonely land his father loved.",
       "source": "NYT"
     }
   ]
