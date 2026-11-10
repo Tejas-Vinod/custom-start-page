@@ -1,6 +1,33 @@
 {
   "spaceNews": [
     {
+      "title": "NASA Invites Media, Public to Join Voyager 1 One-Light Day Activities",
+      "link": "https://www.nasa.gov/news-release/nasa-invites-media-public-to-join-voyager-1-one-light-day-activities/",
+      "pubDate": "2026-11-10T19:22:45.000Z",
+      "image": "https://www.nasa.gov/wp-content/uploads/2026/11/voyager-1-advisory-image-2-nov-10.jpg?w=2048",
+      "author": "Gerelle Q. Dodson",
+      "excerpt": "Launched nearly 50 years ago in 1977, NASA’s Voyager 1 on Wednesday, Nov. 18 will have traveled one light-day from Earth, which is more than 16 billion miles (25.9 billion kilometers). Voyager 1 is the most distant human-made object, and any light from Earth would take 24 hours to reach the spacecraft. NASA will highli",
+      "source": "NASA"
+    },
+    {
+      "title": "Rep. Mike Haridopolos on NASA’s Future After the Blue Wave",
+      "link": "https://payloadspace.com/rep-mike-haridopolos-on-nasas-future-after-the-blue-wave/",
+      "pubDate": "2026-11-10T18:45:00.000Z",
+      "image": "https://payloadspace.com/wp-content/uploads/2026/11/IMG_5652-200x200.jpg",
+      "author": "Victoria Woodburn",
+      "excerpt": "Rep. Mike Haridopolos survived the Blue Wave—and he’s optimistic bipartisan support for NASA’s Artemis program means the program will survive the political upheaval on Capitol Hill as well. The post Rep. Mike Haridopolos on NASA’s Future After the Blue Wave appeared first on Payload.",
+      "source": "Payload"
+    },
+    {
+      "title": "NASA to Welcome Expedition 74 Astronauts Home at Space Center Houston",
+      "link": "https://www.nasa.gov/news-release/nasa-to-welcome-expedition-74-astronauts-home-at-space-center-houston/",
+      "pubDate": "2026-11-10T18:06:33.000Z",
+      "image": "https://www.nasa.gov/wp-content/uploads/2026/11/expedition-74-picture.jpg?w=2048",
+      "author": "Wendy K. Avedisian",
+      "excerpt": "NASA will welcome home the Expedition 74 crew during a public event at Space Center Houston following their return from a long-duration mission aboard the International Space Station. NASA astronauts Jessica Meir, Jack Hathaway, and Chris Williams; ESA (European Space Agency) astronaut Sophie Adenot; and Roscosmos cosm",
+      "source": "NASA"
+    },
+    {
       "title": "NASA Scientists Show How Gravitational Waves Can Reveal New Worlds",
       "link": "https://science.nasa.gov/missions/lisa/gravitational-waves-can-reveal-new-worlds/",
       "pubDate": "2026-11-10T16:00:26.000Z",
@@ -109,15 +136,6 @@
       "source": "NASA"
     },
     {
-      "title": "La NASA busca a la próxima generación de astronautas",
-      "link": "https://www.nasa.gov/news-release/la-nasa-busca-a-la-proxima-generacion-de-astronautas/",
-      "pubDate": "2026-11-09T19:27:20.000Z",
-      "image": "https://www.nasa.gov/wp-content/uploads/2026/11/jsc2025e076292large.jpg?w=1920",
-      "author": "María José Viñas",
-      "excerpt": "Read this release in English here.La NASA busca a los exploradores que ayudarán a escribir el próximo capítulo de los vuelos espaciales tripulados. Ya está abierto el plazo de inscripción para la próxima promoción de astronautas de la agencia, que se incorporarán a la NASA en un momento en el que Estados Unidos regresa",
-      "source": "NASA"
-    },
-    {
       "title": "After LINK mission failure, Swift reenters atmosphere",
       "link": "https://www.astronomy.com/science/link-to-meet-with-swift-but-wont-boost/",
       "pubDate": "2026-11-09T18:58:46.000Z",
@@ -125,15 +143,6 @@
       "author": "Brooks Mendenhall",
       "excerpt": "Editor’s note: This story was originally published Aug. 24, 2026. Swift reentered Earth’s atmosphere Nov. 4, 2026, ending its nearly 22-year mission. See the most recent updates at the end of this story. NASA announced Aug. 19 that the Katalyst Space LINK spacecraft built to boost the aging Neil Gehrels Swift Observato",
       "source": "Astronomy Magazine"
-    },
-    {
-      "title": "NASA’s Chandra Finds Source of Star’s Mysterious Outbursts",
-      "link": "https://science.nasa.gov/missions/chandra/nasas-chandra-finds-source-of-stars-mysterious-outbursts/",
-      "pubDate": "2026-11-09T18:55:50.000Z",
-      "image": "https://assets.science.nasa.gov/dynamicimage/assets/science/missions/chandra/2026/at2016blu.jpg?w=2048&#038;h=2048&#038;fit=clip&#038;crop=faces%2Cfocalpoint",
-      "author": "",
-      "excerpt": "Using NASA’s Chandra X-ray Observatory, astronomers have discovered what is triggering repeated outbursts from a giant, unstable star. A new study, published Monday in the latest issue of The Astrophysical Journal, details the discovery of a previously hidden companion object that keeps pulling material away from the m",
-      "source": "NASA"
     },
     {
       "title": "Space Force leaders advance shared commitments for allied space power at Global MILSATCOM ",
@@ -422,15 +431,6 @@
       "author": "Emily Bates",
       "excerpt": "Some black holes may be older than the stars themselves. And their existence could help solve one of the biggest mysteries in physics: dark matter",
       "source": "New Scientist"
-    },
-    {
-      "title": "Orbital Matter, EnduroSat Announce an In-Space Manufacturing Mission in 2028",
-      "link": "https://payloadspace.com/orbital-matter-endurosat-announce-an-in-space-manufacturing-mission-in-2028/",
-      "pubDate": "2026-11-04T14:00:00.000Z",
-      "image": "https://payloadspace.com/wp-content/uploads/2026/11/OM_news-first-print-camera-200x200.jpg",
-      "author": "Douglas Gorman",
-      "excerpt": "Orbital Matter announced it would partner with EnduroSat for mission in 2028 to deploy a 5 kW solar array with its 3D printing capabilities. The post Orbital Matter, EnduroSat Announce an In-Space Manufacturing Mission in 2028 appeared first on Payload.",
-      "source": "Payload"
     },
     {
       "title": "Simera Sense and Spacemanic to Collaborate on a New Complete Dual-Use Mission Solution",
@@ -860,120 +860,183 @@
   ],
   "nytNews": [
     {
-      "title": "Every Wedding Has a Budget. What’s the Story Behind Yours?",
-      "link": "https://www.nytimes.com/2026/11/09/style/wedding-cost-budget.html",
-      "pubDate": "2026-11-10T17:44:56.000Z",
-      "image": "https://static01.nyt.com/images/2026/11/09/multimedia/09ST-WEDDING-BUDGET-CALLOUT-zjwm/09ST-WEDDING-BUDGET-CALLOUT-zjwm-mediumSquareAt3X.jpg",
-      "author": "Sadiba Hasan",
-      "excerpt": "We want to hear from couples who married in the last five years about how they approached their wedding budget: where they splurged and saved and how they brought their vision to life.",
-      "source": "NYT"
-    },
-    {
-      "title": "JD Vance Trots Out an Old Scapegoat",
-      "link": "https://www.nytimes.com/2026/11/10/opinion/vance-trump-midterms-israel.html",
-      "pubDate": "2026-11-10T17:39:17.000Z",
-      "image": "https://static01.nyt.com/images/2026/11/11/multimedia/10stephens-vftw/10stephens-vftw-mediumSquareAt3X.jpg",
-      "author": "Bret Stephens",
-      "excerpt": "Contra the vice president, the cause of last week’s G.O.P. debacle is a conservatism of fools.",
-      "source": "NYT"
-    },
-    {
-      "title": "Anthropic Targets Valuation of Up to $1.4 Trillion for Blockbuster I.P.O.",
-      "link": "https://www.nytimes.com/2026/11/10/technology/anthropic-ipo-valuation-share-price.html",
-      "pubDate": "2026-11-10T17:32:09.000Z",
-      "image": "https://static01.nyt.com/images/2026/08/24/multimedia/00biz-anthropic-price-range-hfo-zmfq/00biz-anthropic-price-range-hfo-zmfq-mediumSquareAt3X.jpg",
-      "author": "Erin Griffith, Mike Isaac and Lauren Hirsch",
-      "excerpt": "The A.I. company’s pricing would make it one of the biggest ever public listings. It comes at a volatile moment in markets, with investors questioning the sustainability of the A.I. boom.",
-      "source": "NYT"
-    },
-    {
-      "title": "Data Show Households Still Managing to Meet Their Monthly Debts",
-      "link": "https://www.nytimes.com/2026/11/10/business/economy/household-debt-real-estate-home-equity.html",
-      "pubDate": "2026-11-10T17:25:51.000Z",
-      "image": "https://static01.nyt.com/images/2026/11/10/multimedia/10biz-household-debt-pvkl/10biz-household-debt-pvkl-mediumSquareAt3X.jpg",
-      "author": "Talmon Joseph Smith",
-      "excerpt": "The New York Fed detailed general steadiness in debt payments for autos, student loans and mortgages.",
+      "title": "Inside NYC’s First Hip-Hop High School Where Students Freestyle Every Friday",
+      "link": "https://www.nytimes.com/2026/11/10/nyregion/bronx-school-hip-hop.html",
+      "pubDate": "2026-11-10T23:05:27.000Z",
+      "image": "https://static01.nyt.com/images/2026/11/03/multimedia/00met-hiphophighschool-intro-01-jgwl/00met-hiphophighschool-intro-01-jgwl-mediumSquareAt3X.jpg",
+      "author": "John Leland and Anna Connors",
+      "excerpt": "In the South Bronx, the first program of its kind offers the same classes as any high school. Only these classes are infused with hip-hop.",
       "source": "NYT"
     },
     {
       "title": "The U.S. Has Lost Its Measles-Elimination Status, Data Suggests",
       "link": "https://www.nytimes.com/2026/11/10/health/measles-united-states-elimination-rfk.html",
-      "pubDate": "2026-11-10T17:19:44.000Z",
+      "pubDate": "2026-11-10T23:00:41.000Z",
       "image": "https://static01.nyt.com/images/2026/11/10/multimedia/10dc-measles-whjg/10dc-measles-whjg-mediumSquareAt3X.jpg",
       "author": "Apoorva Mandavilli",
-      "excerpt": "An international panel of scientific experts will convene on Tuesday to evaluate the status, but genetic data already shows the virus is once again endemic in the United States.",
+      "excerpt": "An international panel of scientific experts will convene on Tuesday to evaluate the status, but genetic data already shows the virus is once again entrenched in the United States.",
       "source": "NYT"
     },
     {
-      "title": "Elevated Inflation Keeps Pressure on Fed to Raise Rates",
-      "link": "https://www.nytimes.com/2026/11/10/business/economy/inflation-economy-cpi.html",
-      "pubDate": "2026-11-10T17:18:01.000Z",
+      "title": "Will N.Y. Democrats Use Their Supermajority to Push Hochul to the Left?",
+      "link": "https://www.nytimes.com/2026/11/10/nyregion/supermajority-new-york.html",
+      "pubDate": "2026-11-10T22:58:57.000Z",
+      "image": "https://static01.nyt.com/images/2026/11/10/multimedia/10met-supermajority-bgkt/10met-supermajority-bgkt-mediumSquareAt3X.jpg",
+      "author": "Benjamin Oreskes",
+      "excerpt": "Democratic socialists have expanded their political influence in New York, potentially setting up a showdown with the state’s moderate governor over raising taxes.",
+      "source": "NYT"
+    },
+    {
+      "title": "Stanley Zabar Has Died. He Managed the Books, and the Slaw, at an N.Y.C. Landmark.",
+      "link": "https://www.nytimes.com/2026/11/10/obituaries/stanley-zabar-dead.html",
+      "pubDate": "2026-11-10T22:55:47.000Z",
       "image": null,
-      "author": "Colby Smith and Ben Casselman",
-      "excerpt": "October’s Consumer Price Index report showed a broadening of price pressures that has stoked concerns about the Federal Reserve’s grip on inflation.",
+      "author": "Richard Sandomir",
+      "excerpt": "Zabar’s, a family business, became a renowned food emporium, which he ran with his brother Saul and another partner. He was 94.",
       "source": "NYT"
     },
     {
-      "title": "What Trump Said in His Letter to Biden in 2021",
-      "link": "https://www.nytimes.com/2026/11/10/us/politics/biden-trump-letter.html",
-      "pubDate": "2026-11-10T17:00:05.000Z",
-      "image": "https://static01.nyt.com/images/2026/11/10/multimedia/10dc-biden-pbcg/10dc-biden-pbcg-mediumSquareAt3X.jpg",
+      "title": "Trump Officials Drop Threat to Colorado School District Over Transgender Issues",
+      "link": "https://www.nytimes.com/2026/11/10/us/politics/trump-colorado-transgender.html",
+      "pubDate": "2026-11-10T22:48:42.000Z",
+      "image": "https://static01.nyt.com/images/2026/11/10/multimedia/10dc-colorado-trans-suit-qmpz/10dc-colorado-trans-suit-qmpz-mediumSquareAt3X.jpg",
+      "author": "Michael C. Bender",
+      "excerpt": "Trump administration officials had accused the district of allowing boys on girls’ teams, which they said violated a ban on sex discrimination in schools.",
+      "source": "NYT"
+    },
+    {
+      "title": "Kennedys Move to Block Trump’s Arch, Saying It Would Disturb J.F.K. Gravesite",
+      "link": "https://www.nytimes.com/2026/11/10/us/politics/kennedy-trump-arch-lawsuit.html",
+      "pubDate": "2026-11-10T22:46:12.000Z",
+      "image": "https://static01.nyt.com/images/2026/11/10/multimedia/dc-arch-wlgb/dc-arch-wlgb-mediumSquareAt3X.jpg",
+      "author": "Luke Broadwater",
+      "excerpt": "The legal filing argues that the arch would cast a shadow on Kennedy family graves and disrupt the sightline from the eternal flame memorializing the former president.",
+      "source": "NYT"
+    },
+    {
+      "title": "Stung by Losses, G.O.P. Chooses Jordan and Thune as Leaders",
+      "link": "https://www.nytimes.com/2026/11/10/us/politics/republican-house-leader-scalise-jordan.html",
+      "pubDate": "2026-11-10T22:32:21.000Z",
+      "image": "https://static01.nyt.com/images/2026/11/10/multimedia/10DC-REPUBLICANS-JORDAN-zgvb/10DC-REPUBLICANS-JORDAN-zgvb-mediumSquareAt3X.jpg",
+      "author": "Michael Gold",
+      "excerpt": "In the House, Republicans signaled a desire for fresh leadership after their biggest election defeat in decades. In the Senate, they re-elected their current leader.",
+      "source": "NYT"
+    },
+    {
+      "title": "US Soldier Is Arrested in UK on Suspicion of Spying for Russia",
+      "link": "https://www.nytimes.com/2026/11/10/world/europe/uk-us-army-arrest-espionage-russia.html",
+      "pubDate": "2026-11-10T22:24:05.000Z",
+      "image": "https://static01.nyt.com/images/2026/11/10/multimedia/10int-uk-soldier-1-qlpj/10int-uk-soldier-1-qlpj-mediumSquareAt3X.jpg",
+      "author": "Michael D. Shear",
+      "excerpt": "The 41-year-old man, who was not named, was in custody pending possible charges after a joint investigation with the F.B.I. and U.S. military intelligence.",
+      "source": "NYT"
+    },
+    {
+      "title": "Anthropic’s Giant IPO Will Tie It Closer to Nvidia",
+      "link": "https://www.nytimes.com/2026/11/10/business/anthropic-ipo-nvidia.html",
+      "pubDate": "2026-11-10T22:03:38.000Z",
+      "image": "https://static01.nyt.com/images/2026/11/10/multimedia/10biz-anthropic-nvidia-grid-2-01-clmb/10biz-anthropic-nvidia-grid-2-01-clmb-mediumSquareAt3X-v2.jpg",
+      "author": "Cory Weinberg",
+      "excerpt": "Nvidia planned to invest $10 billion in Anthropic alongside its initial public offering, the largest of the new financial commitments from several giants to the A.I. company.",
+      "source": "NYT"
+    },
+    {
+      "title": "It’s Time for Israelis to Throw Out Their Trump",
+      "link": "https://www.nytimes.com/2026/11/10/opinion/israel-elections-netanyahu-eisenkot-trump.html",
+      "pubDate": "2026-11-10T22:00:05.000Z",
+      "image": "https://static01.nyt.com/images/2026/11/04/multimedia/00friedman-qckv/00friedman-qckv-mediumSquareAt3X.jpg",
+      "author": "Thomas L. Friedman",
+      "excerpt": "The U.S. midterm election results should be a lesson to the Israeli opposition in rallying against Netanyahu.",
+      "source": "NYT"
+    },
+    {
+      "title": "Amazon and Google Will See Big Paydays from Anthropic IPO",
+      "link": "https://www.nytimes.com/2026/11/10/technology/anthropic-ipo-google-amazon.html",
+      "pubDate": "2026-11-10T21:54:37.000Z",
+      "image": "https://static01.nyt.com/images/2026/10/08/multimedia/00biz-anthropic-amazon-tfkl/00biz-anthropic-amazon-tfkl-mediumSquareAt3X.jpg",
+      "author": "Karen Weise",
+      "excerpt": "Amazon and Google are the largest investors in the A.I. start-up, and their shares could gain hundreds of billions of dollars in value.",
+      "source": "NYT"
+    },
+    {
+      "title": "Who Is Alice Huang, the Woman in the Middle of Nvidia’s Spy Scandal?",
+      "link": "https://www.nytimes.com/2026/11/10/technology/alice-huang-megaspeed-nvidia-jensen-huang.html",
+      "pubDate": "2026-11-10T21:12:39.000Z",
+      "image": "https://static01.nyt.com/images/2026/11/09/business/00biz-alice-huang-nanjing/00biz-alice-huang-nanjing-mediumSquareAt3X.jpg",
+      "author": "Paul Mozur, Ana Swanson, Tripp Mickle and Michael Forsythe",
+      "excerpt": "Alice Huang, who U.S. intelligence determined is a Chinese asset, emerged from the high-flying world of Shanghai finance to work with tech titans and obtain essential A.I. chips.",
+      "source": "NYT"
+    },
+    {
+      "title": "Alina Habba Mildon Loses $50 Million Contract That Enraged Trump",
+      "link": "https://www.nytimes.com/2026/11/10/us/politics/alina-habba-fired-pardon.html",
+      "pubDate": "2026-11-10T20:51:05.000Z",
+      "image": "https://static01.nyt.com/images/2026/11/10/multimedia/10dc-habba-jvqt/10dc-habba-jvqt-mediumSquareAt3X.jpg",
       "author": "Tyler Pager",
-      "excerpt": "The letter, which former President Joseph R. Biden Jr. details in a new book, is remarkable for a warm tone starkly at odds with his predecessor’s public comments.",
+      "excerpt": "The former Trump lawyer had signed the contract with a family company weeks before the president gave the family’s patriarch a pardon.",
       "source": "NYT"
     },
     {
-      "title": "Old School, New School, Hip-Hop High School",
-      "link": "https://www.nytimes.com/2026/11/10/nyregion/bronx-school-hip-hop.html",
-      "pubDate": "2026-11-10T16:29:56.000Z",
-      "image": "https://static01.nyt.com/images/2026/11/03/multimedia/00met-hiphophighschool-intro-01-jgwl/00met-hiphophighschool-intro-01-jgwl-mediumSquareAt3X.jpg",
-      "author": "John Leland and Anna Connors",
-      "excerpt": "In the South Bronx, the first program of its kind offers the same classes as any high school. Only these classes are dope.",
+      "title": "On the Defense: Takeaways From Hegseth’s Remarks on Articles of Impeachment",
+      "link": "https://www.nytimes.com/2026/11/10/us/politics/hegseth-speech-impeachment-takeaways.html",
+      "pubDate": "2026-11-10T20:37:47.000Z",
+      "image": "https://static01.nyt.com/images/2026/11/10/multimedia/10DC-HEGSETH-TAKEAWAYS-mhkt/10DC-HEGSETH-TAKEAWAYS-mhkt-mediumSquareAt3X.jpg",
+      "author": "John Ismay",
+      "excerpt": "Defense Secretary Pete Hegseth broke a monthslong drought of press briefings to defend his record in office.",
+      "source": "NYT"
+    },
+    {
+      "title": "Nvidia Hires Wachtell Lipton to Investigate CEO Jensen Huang’s Affair With Chinese Executive",
+      "link": "https://www.nytimes.com/2026/11/10/business/nvidia-wachtell-lipton-jensen-huang.html",
+      "pubDate": "2026-11-10T19:33:36.000Z",
+      "image": "https://static01.nyt.com/images/2026/11/10/multimedia/10biz-Nvidia-Wachtell-01-tpgl/10biz-Nvidia-Wachtell-01-tpgl-mediumSquareAt3X.jpg",
+      "author": "Lauren Hirsch and Kalley Huang",
+      "excerpt": "Wachtell partner Joon H. Kim, a former acting U.S. attorney, is leading the inquiry into the chip maker’s chief executive.",
+      "source": "NYT"
+    },
+    {
+      "title": "Despite Denial, Trump Was Told on Trip to China About Spying on Nvidia’s Jensen Huang",
+      "link": "https://www.nytimes.com/2026/11/10/us/politics/trump-china-trip-nvidia.html",
+      "pubDate": "2026-11-10T19:27:59.000Z",
+      "image": "https://static01.nyt.com/images/2026/11/10/multimedia/10dc-trump-huang-top-fthz/10dc-trump-huang-top-fthz-mediumSquareAt3X.jpg",
+      "author": "Maggie Haberman, Jonathan Swan, Julian E. Barnes, Ana Swanson and Tripp Mickle",
+      "excerpt": "Before Jensen Huang boarded Air Force One en route to Beijing, the president was reminded of intelligence showing that he was in a relationship with a woman believed to be a Chinese spy.",
+      "source": "NYT"
+    },
+    {
+      "title": "Why Nearly 2,000 Dead Seabirds Have Washed Up on the California Coast",
+      "link": "https://www.nytimes.com/2026/11/10/us/california-sea-birds-dead-el-nino.html",
+      "pubDate": "2026-11-10T19:09:25.000Z",
+      "image": "https://static01.nyt.com/images/2026/11/10/us/10nat-seabird-PROMO/10nat-seabird-deathTOPPER-mediumSquareAt3X.jpg",
+      "author": "Soumya Karlamangla and Loren Elliott For The New York Times",
+      "excerpt": "Scientists say El Niño is exacerbating conditions by causing Pacific Ocean temperatures to rise.",
+      "source": "NYT"
+    },
+    {
+      "title": "ICE Hides Detainee Locations From Lawyers and Family Under New Policy",
+      "link": "https://www.nytimes.com/2026/11/10/us/ice-detainees-hidden-location-deportation.html",
+      "pubDate": "2026-11-10T18:58:02.000Z",
+      "image": "https://static01.nyt.com/images/2026/11/09/multimedia/09nat-immig-detainee-locator-cbkh/09nat-immig-detainee-locator-cbkh-mediumSquareAt3X.jpg",
+      "author": "Miriam Jordan",
+      "excerpt": "A nursing professor in California is among thousands of immigrants excluded from a public detainee database under a new policy to expedite their deportation.",
+      "source": "NYT"
+    },
+    {
+      "title": "The Path to a Democratic Supermajority",
+      "link": "https://www.nytimes.com/2026/11/10/opinion/ezra-klein-podcast-adam-jentleson.html",
+      "pubDate": "2026-11-10T18:40:49.000Z",
+      "image": "https://static01.nyt.com/images/2026/11/10/opinion/10eks-jentleson-image01/10eks-jentleson-image01-mediumSquareAt3X.jpg",
+      "author": "Ezra Klein and Rollin Hu",
+      "excerpt": "Adam Jentleson, the president of Searchlight Institute, thinks that Democrats can win a whole lot more by embracing heterodoxy.",
       "source": "NYT"
     },
     {
       "title": "In Midterm Elections, Voters Backed Democrats but Broke Right on Many Ballot Measures",
       "link": "https://www.nytimes.com/2026/11/10/us/ballot-measures-democrats-republicans.html",
-      "pubDate": "2026-11-10T16:12:36.000Z",
+      "pubDate": "2026-11-10T18:28:54.000Z",
       "image": "https://static01.nyt.com/images/2026/11/10/multimedia/10nat-blue-referendums-1-hzgc/10nat-blue-referendums-1-hzgc-mediumSquareAt3X.jpg",
       "author": "Jack Healy and Maia Spoto",
-      "excerpt": "In some states that elected Democrats, voters also approved measures to restrict transgender athletes, require voter identification and toughen prison sentences.",
-      "source": "NYT"
-    },
-    {
-      "title": "Oil Prices Have Tumbled in November. Here’s Why.",
-      "link": "https://www.nytimes.com/2026/11/09/business/energy-environment/oil-price-iran-trump-war.html",
-      "pubDate": "2026-11-10T15:59:29.000Z",
-      "image": null,
-      "author": "Rebecca F. Elliott and Lisa Friedman",
-      "excerpt": "The global benchmark price is down more than $20 a barrel since late October, when it traded for around $113.",
-      "source": "NYT"
-    },
-    {
-      "title": "Nvidia CEO Jensen Huang Told Trump He Did Not Know Chinese Woman Was Suspected Spy",
-      "link": "https://www.nytimes.com/2026/11/09/us/politics/trump-jensen-huang-spy.html",
-      "pubDate": "2026-11-10T15:45:06.000Z",
-      "image": "https://static01.nyt.com/images/2026/11/09/multimedia/09dc-trump-jensen-tvfw/09dc-trump-jensen-tvfw-mediumSquareAt3X.jpg",
-      "author": "Luke Broadwater and Maggie Haberman",
-      "excerpt": "President Trump told reporters Monday that he believed Jensen Huang’s account and said he did not recall receiving a briefing warning him about Mr. Huang’s liaison.",
-      "source": "NYT"
-    },
-    {
-      "title": "They Were Married for Decades Before the Parkinson’s Began. Then Came the Visions.",
-      "link": "https://www.nytimes.com/2026/11/10/opinion/living-with-a-visionary-parkinsons-animation.html",
-      "pubDate": "2026-11-10T15:39:36.000Z",
-      "image": null,
-      "author": "Stephen P. Neary",
-      "excerpt": "After 50 years of marriage, John Matthias found himself caring for his wife, an art curator grappling with Parkinson’s.",
-      "source": "NYT"
-    },
-    {
-      "title": "What to Know About Thomas Massie, Leader of Drive to Impeach Hegseth",
-      "link": "https://www.nytimes.com/2026/11/10/us/thomas-massie-impeachment-hegseth.html",
-      "pubDate": "2026-11-10T15:30:06.000Z",
-      "image": "https://static01.nyt.com/images/2026/11/10/multimedia/10pol-massie-topart-pzkw/10pol-massie-topart-pzkw-mediumSquareAt3X.jpg",
-      "author": "Tim Balk",
-      "excerpt": "Representative Thomas Massie, Republican of Kentucky, is retiring at the end of his term after losing to a primary challenger backed by President Trump.",
+      "excerpt": "Many Republican and moderate voters who chose Democratic candidates did not do the same on transgender and other social issues.",
       "source": "NYT"
     },
     {
@@ -998,45 +1061,9 @@
       "title": "Mamdani Has Been a Fierce Opponent of ICE. A Judge Handed Him a Setback.",
       "link": "https://www.nytimes.com/2026/11/10/nyregion/ice-mamdani-migrants-court-ruling.html",
       "pubDate": "2026-11-10T13:40:19.000Z",
-      "image": "https://static01.nyt.com/images/2026/11/10/multimedia/10met-ice-subpoena-cpzt/10met-ice-subpoena-cpzt-mediumSquareAt3X.jpg",
+      "image": "https://static01.nyt.com/images/2026/11/10/multimedia/10met-ice-subpoena-promo-vpck/10met-ice-subpoena-promo-vpck-mediumSquareAt3X.jpg",
       "author": "Luis Ferré-Sadurní",
       "excerpt": "A federal judge ordered Mayor Zohran Mamdani to comply with a federal subpoena for information about some migrants with serious criminal records.",
-      "source": "NYT"
-    },
-    {
-      "title": "The A.I. Spy Thriller",
-      "link": "https://www.nytimes.com/2026/11/10/briefing/nvidia-spy-scandal.html",
-      "pubDate": "2026-11-10T13:28:00.000Z",
-      "image": "https://static01.nyt.com/images/2026/11/10/multimedia/10Daily-Nvidia-fpkb/10Daily-Nvidia-fpkb-mediumSquareAt3X-v2.jpg",
-      "author": "Sam Sifton",
-      "excerpt": "We look into what’s going on at Nvidia.",
-      "source": "NYT"
-    },
-    {
-      "title": "Nvidia’s Board Has a History of Letting Jensen Huang Get His Way",
-      "link": "https://www.nytimes.com/2026/11/10/technology/jensen-huang-nvidia-board.html",
-      "pubDate": "2026-11-10T13:07:03.000Z",
-      "image": "https://static01.nyt.com/images/2026/11/10/multimedia/10biz-nvidia-board-gpqw/10biz-nvidia-board-gpqw-mediumSquareAt3X.jpg",
-      "author": "Kalley Huang and Don Clark",
-      "excerpt": "Governance experts question whether the board, which is investigating Mr. Huang’s conduct, has been too deferential as he has turned Nvidia into a global giant.",
-      "source": "NYT"
-    },
-    {
-      "title": "Kenyan Domestic Worker Sentenced to 100 Lashes in Saudi Arabia",
-      "link": "https://www.nytimes.com/2026/11/10/world/middleeast/saudi-arabia-lashing-sentence-kenyan-woman.html",
-      "pubDate": "2026-11-10T12:57:00.000Z",
-      "image": "https://static01.nyt.com/images/2026/11/10/multimedia/10int-saudi-migrants-1-hcvz/10int-saudi-migrants-1-hcvz-mediumSquareAt3X-v2.jpg",
-      "author": "Abdi Latif Dahir and Vivian Nereim",
-      "excerpt": "The kingdom’s promised reforms don’t always match the realities of its justice system. Unmarried women, particularly foreign workers, face unique perils.",
-      "source": "NYT"
-    },
-    {
-      "title": "The Jensen Huang Affair",
-      "link": "https://www.nytimes.com/2026/11/10/podcasts/hardfork-jensen-huang-spy-affair.html",
-      "pubDate": "2026-11-10T11:00:17.000Z",
-      "image": "https://static01.nyt.com/images/2026/11/10/podcasts/10hardfork-jensen-huang-spy/10hardfork-jensen-huang-spy-mediumSquareAt3X.jpg",
-      "author": "Max Read, Whitney Jones, Vjeran Pavic, Chris Wood, Dan Powell, Marion Lozano and Rowan Niemisto",
-      "excerpt": "Nvidia’s C.E.O., Jensen Huang, admitted to having an affair with a suspected Chinese corporate spy. Everything that means for him and the A.I. industry, and what happens next.",
       "source": "NYT"
     },
     {
@@ -1049,30 +1076,12 @@
       "source": "NYT"
     },
     {
-      "title": "ICE Hides Detainee Locations From Lawyers and Family Under New Policy",
-      "link": "https://www.nytimes.com/2026/11/10/us/ice-detainees-hidden-location-deportation.html",
-      "pubDate": "2026-11-10T10:03:25.000Z",
-      "image": "https://static01.nyt.com/images/2026/11/09/multimedia/09nat-immig-detainee-locator-cbkh/09nat-immig-detainee-locator-cbkh-mediumSquareAt3X.jpg",
-      "author": "Miriam Jordan",
-      "excerpt": "A nursing professor in California is among thousands of immigrants excluded from a public detainee database under a new policy to expedite their deportation by keeping their location hidden.",
-      "source": "NYT"
-    },
-    {
-      "title": "You May All Go to Hell, and Tommy Lee Jones Will Go to Texas",
-      "link": "https://www.nytimes.com/2026/11/10/arts/television/tommy-lee-jones-the-lowdown-texas.html",
-      "pubDate": "2026-11-10T10:02:41.000Z",
-      "image": "https://static01.nyt.com/images/2026/11/22/multimedia/22cul-tommylee-jones-promo/22cul-tommylee-jones-promo-mediumSquareAt3X.jpg",
-      "author": "Sasha von Oldershausen and Christopher Lee",
-      "excerpt": "The private actor enjoys life with his horses in the Texas Hill Country, removed from the show-business fray. But he’s back on TV for the first time in decades, in “The Lowdown.”",
-      "source": "NYT"
-    },
-    {
-      "title": "In Trump’s Washington, Prosecutors Can’t Count on Grand Juries to Take Their Side",
-      "link": "https://www.nytimes.com/2026/11/09/us/politics/doj-trump-grand-jury-indictments.html",
-      "pubDate": "2026-11-10T03:00:13.000Z",
-      "image": "https://static01.nyt.com/images/2026/11/09/multimedia/dc-grandjuries-2-jhml/dc-grandjuries-2-jhml-mediumSquareAt3X.jpg",
-      "author": "Alan Feuer and Michael S. Schmidt",
-      "excerpt": "In the past two weeks, prosecutors in the capital have failed to secure indictments in at least three cases, an acceleration of the problems the Justice Department has had with grand juries.",
+      "title": "Who Is ‘Human Grade’ Dog Food Really For?",
+      "link": "https://www.nytimes.com/2026/11/10/magazine/human-grade-dog-food.html",
+      "pubDate": "2026-11-10T10:02:27.000Z",
+      "image": "https://static01.nyt.com/images/2026/11/15/magazine/15mag-ididit/15mag-ididit-mediumSquareAt3X-v2.jpg",
+      "author": "Amy X. Wang",
+      "excerpt": "What are you really getting when you spend a Chanel handbag’s worth every year on “human grade” dog food?",
       "source": "NYT"
     }
   ]
