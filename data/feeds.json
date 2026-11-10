@@ -1,6 +1,51 @@
 {
   "spaceNews": [
     {
+      "title": "Rubies on Mars?",
+      "link": "https://science.nasa.gov/blog/rubies-on-mars/",
+      "pubDate": "2026-11-09T22:27:12.000Z",
+      "image": "https://assets.science.nasa.gov/dynamicimage/assets/science/missions/mars2020/2026/perseverance-rover-updates/Mars_Perseverance_SIF_2023_0846549705_738EBY_N0930000SRLC02503_0000LMJ.jpg?w=1648&#038;h=1200&#038;fit=clip&#038;crop=faces%2Cfocalpoint",
+      "author": "",
+      "excerpt": "Written by Roger C. Wiens, SuperCam Principal Investigator for NASA’s Perseverance rover at Purdue University Nov. 4, 2026 Exploration on Mars turns up the unexpected. Perseverance is equipped with a fantastic set of instruments for studying the rock record of this ancient planet. Both PIXL and SuperCam have great capa",
+      "source": "NASA"
+    },
+    {
+      "title": "Newest Sample, Oldest Rock?",
+      "link": "https://science.nasa.gov/blog/newest-sample-oldest-rock/",
+      "pubDate": "2026-11-09T22:25:52.000Z",
+      "image": "https://assets.science.nasa.gov/dynamicimage/assets/science/missions/mars2020/2026/perseverance-rover-updates/Mars_Perseverance_ZL0_2018_0846089083_331EBY_N0920000ZCAM05068_1100LMJ.jpg?w=1648&#038;h=1200&#038;fit=clip&#038;crop=faces%2Cfocalpoint",
+      "author": "",
+      "excerpt": "Written by Tasha Coelho, Mastcam-Z Student Collaborator at Arizona State University Nov. 1, 2026 Perseverance’s most recent abrasion “Pumbe” bears a striking resemblance to an earlier abrasion, “Badger Peak.” That’s no coincidence. As previously reported, that rock had a hardness too high to core. However, the team fel",
+      "source": "NASA"
+    },
+    {
+      "title": "La NASA busca a la próxima generación de astronautas",
+      "link": "https://www.nasa.gov/news-release/la-nasa-busca-a-la-proxima-generacion-de-astronautas/",
+      "pubDate": "2026-11-09T19:27:20.000Z",
+      "image": "https://www.nasa.gov/wp-content/uploads/2026/11/jsc2025e076292large.jpg?w=1920",
+      "author": "María José Viñas",
+      "excerpt": "Read this release in English here.La NASA busca a los exploradores que ayudarán a escribir el próximo capítulo de los vuelos espaciales tripulados. Ya está abierto el plazo de inscripción para la próxima promoción de astronautas de la agencia, que se incorporarán a la NASA en un momento en el que Estados Unidos regresa",
+      "source": "NASA"
+    },
+    {
+      "title": "After LINK mission failure, Swift reenters atmosphere",
+      "link": "https://www.astronomy.com/science/link-to-meet-with-swift-but-wont-boost/",
+      "pubDate": "2026-11-09T18:58:46.000Z",
+      "image": null,
+      "author": "Brooks Mendenhall",
+      "excerpt": "Editor’s note: This story was originally published Aug. 24, 2026. Swift reentered Earth’s atmosphere Nov. 4, 2026, ending its nearly 22-year mission. See the most recent updates at the end of this story. NASA announced Aug. 19 that the Katalyst Space LINK spacecraft built to boost the aging Neil Gehrels Swift Observato",
+      "source": "Astronomy Magazine"
+    },
+    {
+      "title": "NASA’s Chandra Finds Source of Star’s Mysterious Outbursts",
+      "link": "https://science.nasa.gov/missions/chandra/nasas-chandra-finds-source-of-stars-mysterious-outbursts/",
+      "pubDate": "2026-11-09T18:55:50.000Z",
+      "image": "https://assets.science.nasa.gov/dynamicimage/assets/science/missions/chandra/2026/at2016blu.jpg?w=2048&#038;h=2048&#038;fit=clip&#038;crop=faces%2Cfocalpoint",
+      "author": "",
+      "excerpt": "Using NASA’s Chandra X-ray Observatory, astronomers have discovered what is triggering repeated outbursts from a giant, unstable star. A new study, published Monday in the latest issue of The Astrophysical Journal, details the discovery of a previously hidden companion object that keeps pulling material away from the m",
+      "source": "NASA"
+    },
+    {
       "title": "NASA Advanced Mid-Power Electric Rocket Challenge",
       "link": "https://www.nasa.gov/directorates/stmd/prizes-challenges-crowdsourcing-program/center-of-excellence-for-collaborative-innovation-coeci/nasa-advanced-mid-power-electric-rocket-challenge/",
       "pubDate": "2026-11-09T17:42:42.000Z",
@@ -100,24 +145,6 @@
       "source": "NASA"
     },
     {
-      "title": "APOD: 2026 November 9 – Rigel and the Witch Head Nebula",
-      "link": "https://science.nasa.gov/image-article/apod-2026-november-9-rigel-and-the-witch-head-nebula/",
-      "pubDate": "2026-11-09T05:05:00.000Z",
-      "image": "https://assets.science.nasa.gov/dynamicimage/assets/science/cds/apod/apod/2026/november/WitchHead_Czerski_3000.jpg?w=2048&#038;h=1359&#038;fit=clip&#038;crop=faces%2Cfocalpoint",
-      "author": "",
-      "excerpt": "APODScienceAPODAPOD: 2026 November 9 –…Today’s APODArchiveSubmissionsIndexSearchCalendarRSSEducationAboutDiscuss APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer. R",
-      "source": "NASA"
-    },
-    {
-      "title": "Ozone Hole Reaches Its 2026 Maximum",
-      "link": "https://science.nasa.gov/earth/earth-observatory/ozone-hole-reaches-its-2026-maximum/",
-      "pubDate": "2026-11-09T05:00:00.000Z",
-      "image": "https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2026/ozone-hole-reaches-its-2026-maximum/ozone_geos5_20260918_hires.jpg?w=1440&#038;h=1480&#038;fit=clip&#038;crop=faces%2Cfocalpoint",
-      "author": "",
-      "excerpt": "The ozone hole ranked seventh largest by area in 48 years of monitoring, but it was not as deep as other large holes on record.",
-      "source": "NASA"
-    },
-    {
       "title": "NASA Unveils Moon Base Awards at MAX POWER",
       "link": "https://payloadspace.com/nasa-unveils-moon-base-awards-at-max-power/",
       "pubDate": "2026-11-08T16:13:33.000Z",
@@ -125,24 +152,6 @@
       "author": "Victoria Woodburn",
       "excerpt": "NASA rolled out a stack of Moon Base awards Saturday during MAX POWER, ranging from new lander contracts to a recycled Mars rover. The post NASA Unveils Moon Base Awards at MAX POWER appeared first on Payload.",
       "source": "Payload"
-    },
-    {
-      "title": "NASA Announces $1 Million to Students for Moon Base Challenge",
-      "link": "https://www.nasa.gov/news-release/nasa-announces-1-million-to-students-for-moon-base-challenge/",
-      "pubDate": "2026-11-08T15:26:38.000Z",
-      "image": "https://www.nasa.gov/wp-content/uploads/2026/11/stmd-exteriorlunarbase-hdlandscapeversion-2026-0521.png?w=2048",
-      "author": "Jessica Taveau",
-      "excerpt": "On Sunday, NASA announced the opening of its $1 million Moon Base Student Challenge during a MAX POWER event at Kennedy Space Center Visitor Complex in Florida. As part of a Golden Age of Science, the competition invites student teams at U.S. high schools and post-secondary schools to contribute designs for the Moon Ba",
-      "source": "NASA"
-    },
-    {
-      "title": "APOD: 2026 November 8 – Major Fireball Meteor",
-      "link": "https://science.nasa.gov/image-article/apod-2026-november-8-major-fireball-meteor/",
-      "pubDate": "2026-11-08T05:05:00.000Z",
-      "image": "https://assets.science.nasa.gov/dynamicimage/assets/science/cds/apod/apod/2026/november/meteor2017_Taylor_1200.jpg?w=0&#038;h=0&#038;fit=clip&#038;crop=faces%2Cfocalpoint",
-      "author": "",
-      "excerpt": "APODScienceAPODAPOD: 2026 November 8 –…Today’s APODArchiveSubmissionsIndexSearchCalendarRSSEducationAboutDiscuss APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer. M",
-      "source": "NASA"
     },
     {
       "title": "AST SpaceMobile unveils $1.3 billion engine deal with Firefly Aerospace to power new heavy-lift rocket",
@@ -361,6 +370,15 @@
       "source": "Spaceflight Now"
     },
     {
+      "title": "Van Gogh’s Starry Night shows a real night sky, study suggests",
+      "link": "https://www.astronomy.com/science/van-goghs-starry-night-shows-a-real-night-sky-study-suggests/",
+      "pubDate": "2026-11-04T19:01:39.000Z",
+      "image": null,
+      "author": "Brooks Mendenhall",
+      "excerpt": "For decades, art historians and astronomers have wondered whether the sky of Vincent van Gogh’s The Starry Night shows real stars or imagined ones. A new study argues the stars are real — and that Van Gogh likely saw them a month later than most scholars thought. The study, published Oct. 22 in Scientific Reports,Conti",
+      "source": "Astronomy Magazine"
+    },
+    {
       "title": "Could primordial black holes hold the key to dark matter?",
       "link": "https://www.newscientist.com/video/2597265-could-primordial-black-holes-hold-the-key-to-dark-matter/?utm_campaign=RSS|NSNS&utm_content=space&utm_medium=RSS&utm_source=NSNS",
       "pubDate": "2026-11-04T18:00:00.000Z",
@@ -568,15 +586,6 @@
       "source": "SpaceNews"
     },
     {
-      "title": "The weird science behind Mars’ weirdest cloud",
-      "link": "https://www.astronomy.com/science/the-weird-science-behind-mars-weirdest-cloud/",
-      "pubDate": "2026-10-27T19:05:11.000Z",
-      "image": null,
-      "author": "Brooks Mendenhall",
-      "excerpt": "Scientists believe they may finally have an explanation for a bizarre cloud that appears and promptly disappears each day above a martian volcano during the dusty season. Just after sunrise during spring and summer on Mars, an elongated cloud forms near the 12-mile-high (20 kilometers) volcano Arsia Mons. Stretching ro",
-      "source": "Astronomy Magazine"
-    },
-    {
       "title": "Craft Prospect kicks off PERSEUS project to advance optical communications for space",
       "link": "https://spacenews.com/craft-prospect-kicks-off-perseus-project-to-advance-optical-communications-for-space/",
       "pubDate": "2026-10-27T12:00:00.000Z",
@@ -584,24 +593,6 @@
       "author": "Craft Prospect",
       "excerpt": "Craft Prospect is working with Fraunhofer Centre for Applied Photonics (Fraunhofer CAP) and Vector Photonics on a new project exploring the potential of next-generation laser technology for high-performance optical communications […] The post Craft Prospect kicks off PERSEUS project to advance optical communications fo",
       "source": "SpaceNews"
-    },
-    {
-      "title": "Flexell Space Establishes French Subsidiary to Strengthen European Presence",
-      "link": "https://spacenews.com/flexell-space-establishes-french-subsidiary-to-strengthen-european-presence/",
-      "pubDate": "2026-10-26T20:00:00.000Z",
-      "image": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/10/LOGO_FLEXELLBlack.png?fit=1024%2C1024&amp;ssl=1",
-      "author": "Flexell Space",
-      "excerpt": "– Paris-based FLEXELL SPACE FRANCE SAS creates a local business hub in Europe– New entity to support ongoing contract and volume-production discussions with European customers, from technical reviews to supply […] The post Flexell Space Establishes French Subsidiary to Strengthen European Presence appeared first on Spa",
-      "source": "SpaceNews"
-    },
-    {
-      "title": "Announcing the winners of Astronomy Magazine’s 2026 Astrophotography Contest",
-      "link": "https://www.astronomy.com/observing/announcing-the-winners-of-astronomy-magazines-2026-astrophotography-contest/",
-      "pubDate": "2026-10-23T20:21:06.000Z",
-      "image": null,
-      "author": "Astronomy Staff",
-      "excerpt": "Astronomy magazine is proud to announce the winners of its 2026 Astrophotography Contest, presented by Celestron — the magazine’s first photo contest in 13 years. More than 1,400 entries poured in from photographers around the world, with images ranging from faint nebulae and stunning planetary close-ups to dramatic so",
-      "source": "Astronomy Magazine"
     },
     {
       "title": "Tiny ‘solar flares’ recreated in the lab may explain corona mystery",
@@ -620,6 +611,15 @@
       "author": "Leah Crane",
       "excerpt": "The Drake equation provides a way to guess how many aliens we might be able to communicate with, but it’s also a prime example of the importance of scientific guessing, says columnist Leah Crane",
       "source": "New Scientist"
+    },
+    {
+      "title": "HQs DAF Services Industry Day strengthens partnerships, industry engagement",
+      "link": "https://www.spaceforce.mil/News/Article-Display/Article/4645426/hqs-daf-services-industry-day-strengthens-partnerships-industry-engagement/",
+      "pubDate": "2026-10-16T20:24:00.000Z",
+      "image": null,
+      "author": "Pentagon News",
+      "excerpt": "Defense-industry partners participated in the DAF’s quarterly Industry Day to discuss modernizing service acquisitions and expanding opportunities for small businesses. The initiative aims to strengthen the defense industrial base, improve acquisition efficiencies and enhance support for Airmen and Guardians.",
+      "source": "Space Force"
     },
     {
       "title": "Japan is launching a mission to Mars’s largest moon Phobos",
@@ -764,15 +764,6 @@
       "author": "TSgt. William O'Brien",
       "excerpt": "CSO Gen. Douglas Schiess outlined three priorities for his tenure: forging the Guardian ethos, arming and growing the force, and integrating Guardian power at scale. He emphasized strengthening combat power and delivering space power directly to the Joint Force.",
       "source": "Space Force"
-    },
-    {
-      "title": "Remarks by CSO Gen. Douglas Schiess at the Air and Space Forces Association’s 2026 Air, Space and Cyber Conference",
-      "link": "https://www.spaceforce.mil/News/Article-Display/Article/4602018/remarks-by-cso-gen-douglas-schiess-at-the-air-and-space-forces-associations-202/",
-      "pubDate": "2026-09-15T20:41:00.000Z",
-      "image": null,
-      "author": "Pentagon News",
-      "excerpt": "In a keynote address at the Air and Space Forces Association’s Air, Space and Cyber Conference, CSO Schiess outlined core priorities to accelerate U.S. Space Force growth.",
-      "source": "Space Force"
     }
   ],
   "industryNews": [
@@ -869,18 +860,153 @@
   ],
   "nytNews": [
     {
+      "title": "Supreme Court Allows Construction of Trump’s Border Wall in Big Bend",
+      "link": "https://www.nytimes.com/2026/11/09/us/politics/supreme-court-border-wall-trump.html",
+      "pubDate": "2026-11-10T01:34:09.000Z",
+      "image": "https://static01.nyt.com/images/2026/10/30/multimedia/00dc-scotus-bigbend-mtfb/00dc-scotus-bigbend-mtfb-mediumSquareAt3X.jpg",
+      "author": "Abbie VanSickle",
+      "excerpt": "Despite its win, the administration signaled it had adjusted construction plans in the national park with an aim to “preserving the unique landscape and public access.”",
+      "source": "NYT"
+    },
+    {
+      "title": "What Is Congress’s Plan to Speed Up Energy Permits?",
+      "link": "https://www.nytimes.com/2026/11/09/climate/congress-energy-permitting-reform-vote.html",
+      "pubDate": "2026-11-10T01:30:26.000Z",
+      "image": "https://static01.nyt.com/images/2026/11/09/climate/09cli-permitting-bill/09cli-permitting-bill-mediumSquareAt3X.jpg",
+      "author": "Brad Plumer",
+      "excerpt": "The sprawling bill, which has divided Democrats, would overhaul major environmental laws to streamline the permitting process.",
+      "source": "NYT"
+    },
+    {
+      "title": "Iran War Unexpectedly Drove Down Carbon Emissions This Year",
+      "link": "https://www.nytimes.com/2026/11/09/climate/global-emissions-iran-war.html",
+      "pubDate": "2026-11-10T01:01:05.000Z",
+      "image": "https://static01.nyt.com/images/2026/11/09/multimedia/09cli-global-emissions-01-jlbf/09cli-global-emissions-01-jlbf-mediumSquareAt3X.jpg",
+      "author": "Brad Plumer",
+      "excerpt": "It’s the first drop in planet-warming pollution since the pandemic in 2020. But researchers cautioned that the decline could be short-lived.",
+      "source": "NYT"
+    },
+    {
+      "title": "M. John Harrison’s ‘The End of Everything’ Wins Booker Prize",
+      "link": "https://www.nytimes.com/2026/11/09/books/booker-prize-winner-2026-science-fiction.html",
+      "pubDate": "2026-11-10T00:55:42.000Z",
+      "image": "https://static01.nyt.com/images/2026/11/09/multimedia/09tbr-booker-prize-flcv/09tbr-booker-prize-flcv-mediumSquareAt3X.jpg",
+      "author": "Alex Marshall",
+      "excerpt": "M. John Harrison’s dystopian tale “The End of Everything” beat out higher profile books by Marlon James, Elizabeth Strout and Douglas Stuart.",
+      "source": "NYT"
+    },
+    {
+      "title": "Exxon Strikes Preliminary Deal to Return to Venezuela",
+      "link": "https://www.nytimes.com/2026/11/09/business/energy-environment/exxon-mobil-venezuela-oil-deal.html",
+      "pubDate": "2026-11-10T00:51:53.000Z",
+      "image": "https://static01.nyt.com/images/2026/11/09/multimedia/00biz-exxon-venezuela-vbpj/00biz-exxon-venezuela-vbpj-mediumSquareAt3X.jpg",
+      "author": "Rebecca F. Elliott",
+      "excerpt": "The agreement brings the biggest U.S. oil company a step closer to pumping oil again in Venezuela, nearly two decades after it left the country.",
+      "source": "NYT"
+    },
+    {
+      "title": "Nvidia CEO Jensen Huang Told Trump He Did Not Know Chinese Woman Was Suspected Spy",
+      "link": "https://www.nytimes.com/2026/11/09/us/politics/trump-jensen-huang-spy.html",
+      "pubDate": "2026-11-10T00:08:43.000Z",
+      "image": "https://static01.nyt.com/images/2026/11/09/multimedia/09dc-trump-jensen-tvfw/09dc-trump-jensen-tvfw-mediumSquareAt3X.jpg",
+      "author": "Luke Broadwater and Maggie Haberman",
+      "excerpt": "President Trump told reporters Monday that he believed Jensen Huang’s account and said he did not recall receiving a briefing warning him about Mr. Huang’s liaison.",
+      "source": "NYT"
+    },
+    {
+      "title": "Democrats Demand Answers on Trump’s A.I. Policy Amid Spy Plot",
+      "link": "https://www.nytimes.com/2026/11/09/us/politics/democrats-trump-ai-nvidia.html",
+      "pubDate": "2026-11-09T23:48:34.000Z",
+      "image": "https://static01.nyt.com/images/2026/11/09/multimedia/09dc-spy-chip-01-hmzq/09dc-spy-chip-01-hmzq-mediumSquareAt3X.jpg",
+      "author": "Julian E. Barnes and Ana Swanson",
+      "excerpt": "Congressional leaders raise concerns in a letter as Nvidia investigates its chief executive’s affair with a suspected Chinese spy.",
+      "source": "NYT"
+    },
+    {
+      "title": "Congress Has Reined In the Presidency Before. Here’s How to Do It.",
+      "link": "https://www.nytimes.com/2026/11/09/magazine/congress-trump-oversight-investigations-presidency.html",
+      "pubDate": "2026-11-09T23:47:28.000Z",
+      "image": null,
+      "author": "Emily Bazelon",
+      "excerpt": "History tells us that constitutional oversight can be a powerful tool — if wielded correctly.",
+      "source": "NYT"
+    },
+    {
       "title": "U.S. Commerce Dept. Inquiry Into Megaspeed Was Halted After Nvidia Intervention",
       "link": "https://www.nytimes.com/2026/11/09/business/economy/nvidia-megaspeed-investigation-huang.html",
-      "pubDate": "2026-11-09T18:38:40.000Z",
+      "pubDate": "2026-11-09T23:27:04.000Z",
       "image": "https://static01.nyt.com/images/2026/11/09/multimedia/09dc-commerce-megaspeed-qmlg/09dc-commerce-megaspeed-qmlg-mediumSquareAt3X.jpg",
       "author": "Ana Swanson and Devlin Barrett",
       "excerpt": "An investigation into Megaspeed, a Singapore company that was buying advanced Nvidia A.I. chips, was transferred to the Justice Department after a top Nvidia executive reached out to Commerce Department officials.",
       "source": "NYT"
     },
     {
+      "title": "Book Review: ‘The End of Everything,’ by M. John Harrison",
+      "link": "https://www.nytimes.com/2026/10/13/books/review/m-john-harrison-end-of-everything.html",
+      "pubDate": "2026-11-09T23:20:05.000Z",
+      "image": null,
+      "author": "Dave Kim",
+      "excerpt": "Very little is clear in M. John Harrison’s Booker-nominated novel “The End of Everything,” except that nothing is as it seems.",
+      "source": "NYT"
+    },
+    {
+      "title": "The Evening: Fallout From Nvidia Revelations Continues",
+      "link": "https://www.nytimes.com/2026/11/09/briefing/nvidia-huang-hegseth.html",
+      "pubDate": "2026-11-09T22:35:34.000Z",
+      "image": "https://static01.nyt.com/images/2026/11/09/multimedia/09evening-nl-nvidia-pqtg/09evening-nl-nvidia-pqtg-mediumSquareAt3X.jpg",
+      "author": "Whet Moser",
+      "excerpt": "Plus, the best writer you’ve never heard of. Here’s the latest at the end of Monday.",
+      "source": "NYT"
+    },
+    {
+      "title": "Judge Denies Request to Throw Out Lindsay Clancy’s Murder Charges",
+      "link": "https://www.nytimes.com/2026/11/09/us/lindsay-clancy-trial-motions-denied.html",
+      "pubDate": "2026-11-09T22:35:24.000Z",
+      "image": "https://static01.nyt.com/images/2026/11/09/multimedia/09nat-clancy-rulings-pkql/09nat-clancy-rulings-pkql-mediumSquareAt3X.jpg",
+      "author": "Maia Spoto and Jenna Russell",
+      "excerpt": "The judge also declined to investigate the lone juror who wanted to convict Ms. Clancy, saying it would invade his privacy and deter others from serving on juries.",
+      "source": "NYT"
+    },
+    {
+      "title": "Thomas Massie Moves to Force Vote on Impeaching Pete Hegseth",
+      "link": "https://www.nytimes.com/2026/11/09/us/politics/hegseth-impeachment-massie.html",
+      "pubDate": "2026-11-09T22:35:06.000Z",
+      "image": "https://static01.nyt.com/images/2026/11/09/multimedia/09dc-hegseth-wtk-gjkp/09dc-hegseth-wtk-gjkp-mediumSquareAt3X.jpg",
+      "author": "Robert Jimison",
+      "excerpt": "Representative Thomas Massie, Republican of Kentucky, set in motion a vote that must occur by Wednesday. If the House approves the charges, it will prompt a Senate trial.",
+      "source": "NYT"
+    },
+    {
+      "title": "In a Democratic Wave, Even the Long Shots Defied the Odds",
+      "link": "https://www.nytimes.com/2026/11/09/us/politics/congress-democratic-long-shots.html",
+      "pubDate": "2026-11-09T22:11:58.000Z",
+      "image": "https://static01.nyt.com/images/2026/11/09/us/09dc-underdogs-promo/09dc-underdogs-promo-mediumSquareAt3X.jpg",
+      "author": "Olivia Diaz",
+      "excerpt": "A handful of Democrats scored improbable victories in races against Republican incumbents who were favored to win.",
+      "source": "NYT"
+    },
+    {
+      "title": "Her Death From Dengue May Signal That the Disease Is Here to Stay",
+      "link": "https://www.nytimes.com/2026/11/09/us/dengue-united-states-florida-mosquitos.html",
+      "pubDate": "2026-11-09T20:06:05.000Z",
+      "image": "https://static01.nyt.com/images/2026/11/09/us/09nat-dengue1/09nat-dengue1-mediumSquareAt3X.jpg",
+      "author": "Anemona Hartocollis",
+      "excerpt": "In the past, Americans were infected with dengue after being bitten by mosquitoes while traveling. But now, most of the current transmission is from local mosquitoes.",
+      "source": "NYT"
+    },
+    {
+      "title": "Progressives Defied Their Party and Won Big. They Still Feel Ignored.",
+      "link": "https://www.nytimes.com/2026/11/09/us/politics/progressive-wins-midterms.html",
+      "pubDate": "2026-11-09T19:34:11.000Z",
+      "image": "https://static01.nyt.com/images/2026/11/09/multimedia/09pol-progressive-wins-01-gqth/09pol-progressive-wins-01-gqth-mediumSquareAt3X.jpg",
+      "author": "Kellen Browning and Patricia Mazzei",
+      "excerpt": "As Democrats prepare to take power in Congress, some centrists are brushing off the victories of left-wing candidates. The left is pushing back.",
+      "source": "NYT"
+    },
+    {
       "title": "Trump Veers Back Into Claims of Rigged Election, Questioning Midterm Results",
       "link": "https://www.nytimes.com/2026/11/09/us/politics/trump-election-fraud-rigging-midterms.html",
-      "pubDate": "2026-11-09T18:37:11.000Z",
+      "pubDate": "2026-11-09T18:37:12.000Z",
       "image": "https://static01.nyt.com/images/2026/11/09/multimedia/09DC-TRUMP-ELECITON-fqzt/09DC-TRUMP-ELECITON-fqzt-mediumSquareAt3X.jpg",
       "author": "Luke Broadwater and Zolan Kanno-Youngs",
       "excerpt": "President Trump, who initially said he would accept the midterm results, renewed his unsubstantiated claims that voting was manipulated.",
@@ -896,102 +1022,21 @@
       "source": "NYT"
     },
     {
-      "title": "A.I. Fueled Nvidia CEO Jensen Huang’s Elite Status, but Scandal Followed",
-      "link": "https://www.nytimes.com/2026/11/09/technology/jensen-huang-nvidia-ai-chips-scandal.html",
-      "pubDate": "2026-11-09T17:58:28.000Z",
-      "image": "https://static01.nyt.com/images/2026/11/09/multimedia/09biz-chips-ai-hcpj/09biz-chips-ai-hcpj-mediumSquareAt3X.jpg",
-      "author": "Don Clark",
-      "excerpt": "As chips became essential components for A.I., executives like Nvidia’s Jensen Huang saw their personal wealth and profiles soar in a way the industry has not experienced before.",
+      "title": "JD Vance Needs to Stop Trying",
+      "link": "https://www.nytimes.com/2026/11/09/opinion/trump-republicans-maga-endgame.html",
+      "pubDate": "2026-11-09T16:10:32.000Z",
+      "image": "https://static01.nyt.com/images/2026/11/09/multimedia/09lozada-wpjv/09lozada-wpjv-mediumSquareAt3X.jpg",
+      "author": "Carlos Lozada",
+      "excerpt": "Republicans must determine what they stand for other than fealty to an aging, out-of-touch, lame duck.",
       "source": "NYT"
     },
     {
-      "title": "Florida Woman’s Death From This Mosquito-Borne Disease Raises Alarms",
-      "link": "https://www.nytimes.com/2026/11/09/us/dengue-united-states-florida-mosquitos.html",
-      "pubDate": "2026-11-09T17:44:22.000Z",
-      "image": "https://static01.nyt.com/images/2026/11/09/us/09nat-dengue1/09nat-dengue1-mediumSquareAt3X.jpg",
-      "author": "Anemona Hartocollis",
-      "excerpt": "In the past, Americans were infected with dengue after being bitten by mosquitoes while traveling. But now, most of the current transmission is from local mosquitoes.",
-      "source": "NYT"
-    },
-    {
-      "title": "What Is Congress’s Plan to Speed Up Energy Permits?",
-      "link": "https://www.nytimes.com/2026/11/09/climate/congress-energy-permitting-reform-vote.html",
-      "pubDate": "2026-11-09T17:14:23.000Z",
-      "image": "https://static01.nyt.com/images/2026/11/09/climate/09cli-permitting-bill/09cli-permitting-bill-mediumSquareAt3X.jpg",
-      "author": "Brad Plumer",
-      "excerpt": "The sprawling bill, which has divided Democrats, would overhaul major environmental laws to streamline the permitting process.",
-      "source": "NYT"
-    },
-    {
-      "title": "Would a Democratic Crackdown on A.I. Hurt the Economy or Save It?",
-      "link": "https://www.nytimes.com/2026/11/09/business/economy/ai-bubble-democrats-midterms-economy.html",
-      "pubDate": "2026-11-09T16:59:16.000Z",
-      "image": "https://static01.nyt.com/images/2026/11/09/multimedia/00biz-ai-econ-01-lwvk/00biz-ai-econ-01-lwvk-mediumSquareAt3X.jpg",
-      "author": "Ben Casselman, Tony Romm and Colby Smith",
-      "excerpt": "Voter backlash could threaten the data center boom. Some economists think that could be a good thing.",
-      "source": "NYT"
-    },
-    {
-      "title": "How Did Greek Fire Work? And 6 Other Lost Inventions.",
-      "link": "https://www.nytimes.com/2026/11/09/science/lost-inventions-to-time-greek-fire-antikythera.html",
-      "pubDate": "2026-11-09T16:51:28.000Z",
-      "image": "https://static01.nyt.com/images/2026/11/09/science/09SCI-UNKNOWNS-LOST-top2/09SCI-UNKNOWNS-LOST-top2-mediumSquareAt3X.jpg",
-      "author": "K. R. Callaway, William J. Broad and Franz Lidz",
-      "excerpt": "Even once-widespread innovations have been forgotten, leaving scholars puzzling over the details.",
-      "source": "NYT"
-    },
-    {
-      "title": "An Anti-Trump Protest. Police Threats. Inside a Rift in Diabetes Research.",
-      "link": "https://www.nytimes.com/2026/11/09/science/american-diabetes-association-turmoil.html",
-      "pubDate": "2026-11-09T16:41:41.000Z",
-      "image": "https://static01.nyt.com/images/2026/10/27/multimedia/00SCI-ADA-CONTROVERSY-01-stillpromo/00SCI-ADA-CONTROVERSY-01-stillpromo-mediumSquareAt3X.jpg",
-      "author": "Eric Boodman",
-      "excerpt": "It began with a protest at an American Diabetes Association conference. Now a resulting boycott has caused a scientific slowdown, with no end in sight.",
-      "source": "NYT"
-    },
-    {
-      "title": "Nvidia’s Stock Price Drops After Investigation Into CEO Jensen Huang",
-      "link": "https://www.nytimes.com/2026/11/09/business/nvidia-stock-price-jensen-huang-ceo.html",
-      "pubDate": "2026-11-09T16:24:05.000Z",
-      "image": "https://static01.nyt.com/images/2026/11/09/multimedia/nvidia-stock-promo-bgjq/nvidia-stock-promo-bgjq-mediumSquareAt3X.jpg",
-      "author": "Joe Rennison and Jason Karaian",
-      "excerpt": "The chipmaker’s size and significance to the A.I. trade means that Jensen Huang’s admission of a relationship with a businesswoman suspected of spying for China could reverberate across Wall Street.",
-      "source": "NYT"
-    },
-    {
-      "title": "Russell Brand Sentenced to 10 and a Half Years in Prison for Rape",
-      "link": "https://www.nytimes.com/2026/11/09/arts/russell-brand-prison-sentence-rape.html",
-      "pubDate": "2026-11-09T15:37:07.000Z",
-      "image": "https://static01.nyt.com/images/2026/11/10/multimedia/09cul-russell-brand-sentencing-ktbl/09cul-russell-brand-sentencing-ktbl-mediumSquareAt3X.jpg",
-      "author": "Alex Marshall",
-      "excerpt": "A London judge said the former comedy star, who was convicted of rape and sexual assault last week, had shown a “casual, arrogant disregard” for women’s wishes.",
-      "source": "NYT"
-    },
-    {
-      "title": "Megyn Kelly, Elon Musk and Others Defend Russell Brand After Rape Conviction",
-      "link": "https://www.nytimes.com/2026/11/09/arts/russell-brand-megyn-kelly-elon-musk.html",
-      "pubDate": "2026-11-09T14:35:46.000Z",
-      "image": "https://static01.nyt.com/images/2026/11/09/multimedia/09cul-brand-supporters-hbgm/09cul-brand-supporters-hbgm-mediumSquareAt3X.jpg",
-      "author": "Alex Marshall",
-      "excerpt": "The former star, whom a British judge sentenced to 10 and a half years in prison on Monday, became an anti-establishment flag-bearer through conspiracy-minded commentary.",
-      "source": "NYT"
-    },
-    {
-      "title": "Is Jensen Huang Too Powerful to Be Punished by Nvidia?",
-      "link": "https://www.nytimes.com/2026/11/09/technology/jensen-huang-affair-nvidia.html",
-      "pubDate": "2026-11-09T13:54:04.000Z",
-      "image": "https://static01.nyt.com/images/2026/11/09/multimedia/09biz-jensen-influence-qbhw/09biz-jensen-influence-qbhw-mediumSquareAt3X.jpg",
-      "author": "Kalley Huang and Tripp Mickle",
-      "excerpt": "The chief executive has a tight grip on his company, presenting a challenge for Nvidia’s board, which is investigating his affair with a woman believed to be a Chinese spy.",
-      "source": "NYT"
-    },
-    {
-      "title": "Bipartisan Support for Israel Erodes as Both Sides Push for New Limits",
-      "link": "https://www.nytimes.com/2026/11/09/us/politics/us-israel-midterm-elections.html",
-      "pubDate": "2026-11-09T13:48:04.000Z",
-      "image": "https://static01.nyt.com/images/2026/11/08/multimedia/00dc-israel1-zghp/00dc-israel1-zghp-mediumSquareAt3X.jpg",
-      "author": "Edward Wong and Michael Crowley",
-      "excerpt": "Vice President JD Vance is among Republicans calling for change. Many Democratic lawmakers have been driving a campaign to restrict military aid to Israel.",
+      "title": "For Years, She Felt Awful. Her Flexible Joints Held a Clue.",
+      "link": "https://www.nytimes.com/2026/11/09/well/heds-eds-hypermobile.html",
+      "pubDate": "2026-11-09T14:22:23.000Z",
+      "image": "https://static01.nyt.com/images/2026/10/21/multimedia/21WELL-EDS-TIK-TOK5-fktw/21WELL-EDS-TIK-TOK5-fktw-mediumSquareAt3X.jpg",
+      "author": "Elizabeth Anne Brown",
+      "excerpt": "Many people with hypermobility disorders spend years trying to figure out what’s wrong. Online communities are helping them connect the dots.",
       "source": "NYT"
     },
     {
@@ -1001,96 +1046,6 @@
       "image": "https://static01.nyt.com/images/2026/11/04/multimedia/00cli-onwards-01-lqkc/00cli-onwards-01-lqkc-mediumSquareAt3X.jpg",
       "author": "Raymond Zhong and Nicholas J. R. White",
       "excerpt": "A decade after Max Worsley’s father died crossing the continent, he embarks this month on his own journey into the lonely land his father loved.",
-      "source": "NYT"
-    },
-    {
-      "title": "Immigrants Are Being Systematically Returned Home Despite Court Orders",
-      "link": "https://www.nytimes.com/2026/11/09/world/africa/trump-deportations-court-orders-refoulement.html",
-      "pubDate": "2026-11-09T12:04:29.000Z",
-      "image": "https://static01.nyt.com/images/2026/10/28/multimedia/00int-deportations-2-plzm/00int-deportations-2-plzm-mediumSquareAt3X-v2.jpg",
-      "author": "Megha Rajagopalan, Edward Wong, Ruth Maclean and Hamed Aleaziz",
-      "excerpt": "Working with the Trump administration, foreign partners accept deportees, then ship them to nations where the U.S. itself would be prohibited from sending them.",
-      "source": "NYT"
-    },
-    {
-      "title": "The Clergy in Congress",
-      "link": "https://www.nytimes.com/2026/11/09/briefing/religious-democrats.html",
-      "pubDate": "2026-11-09T12:01:53.000Z",
-      "image": "https://static01.nyt.com/images/2026/11/09/multimedia/09themorning-nl-Clergy-hjgk/09themorning-nl-Clergy-hjgk-mediumSquareAt3X.jpg",
-      "author": "Lauren Jackson",
-      "excerpt": "Some religious Democrats campaigned on an old commandment — to love thy neighbor. Is that a new road map for the party?",
-      "source": "NYT"
-    },
-    {
-      "title": "What Democrats Plan to Investigate After Election Victory",
-      "link": "https://www.nytimes.com/video/us/politics/100000011266496/democrats-plan-corruption-investigations-after-election-victory.html",
-      "pubDate": "2026-11-09T10:48:01.000Z",
-      "image": null,
-      "author": "Michael Gold, Joy Sung, Whitney Shefte and Pierre Kattar",
-      "excerpt": "Following their midterm victories, Democrats are preparing to open wide-ranging investigations into President Trump, his family and his administration. Michael Gold, a Times congressional reporter, identifies the Democrats’ biggest targets.",
-      "source": "NYT"
-    },
-    {
-      "title": "‘You Can See Everything’: Amanda Seyfried Faces ‘The Dropout’",
-      "link": "https://www.nytimes.com/2026/11/09/arts/you-can-see-everything-amanda-seyfried.html",
-      "pubDate": "2026-11-09T10:03:48.000Z",
-      "image": null,
-      "author": "Caroline Darya Framke",
-      "excerpt": "As they dissect Elizabeth Holmes’s persona, Nathan Fielder and Amanda Seyfried confront the nature of truth.",
-      "source": "NYT"
-    },
-    {
-      "title": "What to Know About Stephen Miller, Trump’s New Chief of Staff",
-      "link": "https://www.nytimes.com/2026/11/09/us/politics/stephen-miller-white-house-chief-staff.html",
-      "pubDate": "2026-11-09T10:03:44.000Z",
-      "image": "https://static01.nyt.com/images/2026/08/07/multimedia/06trump-wiles-stephen-miller1/06trump-wiles-stephen-miller1-mediumSquareAt3X.jpg",
-      "author": "Chris Cameron",
-      "excerpt": "The architect of President Trump’s mass deportation campaign, Mr. Miller has been the public face of many of Mr. Trump’s immigration policies.",
-      "source": "NYT"
-    },
-    {
-      "title": "This Is How Democrats Won the Midterms",
-      "link": "https://www.nytimes.com/2026/11/09/opinion/democrats-midterms-populism.html",
-      "pubDate": "2026-11-09T10:03:38.000Z",
-      "image": "https://static01.nyt.com/images/2026/11/09/multimedia/09politics-editorial-vtbj/09politics-editorial-vtbj-mediumSquareAt3X.jpg",
-      "author": "The Editorial Board",
-      "excerpt": "The Democrats still have a long way to go before they can govern the country productively. But the victors of 2026 have started to point the way.",
-      "source": "NYT"
-    },
-    {
-      "title": "Martin Luther King’s Lost Draft of ‘I Have a Dream’ Speech Surfaces",
-      "link": "https://www.nytimes.com/2026/11/09/arts/martin-luther-king-i-have-a-dream-speech-draft.html",
-      "pubDate": "2026-11-09T10:01:49.000Z",
-      "image": "https://static01.nyt.com/images/2026/11/09/multimedia/09cul-mlk-dreamspeech-01-lhmq/09cul-mlk-dreamspeech-01-lhmq-mediumSquareAt3X.jpg",
-      "author": "Jennifer Schuessler",
-      "excerpt": "The document, hand written by Martin Luther King Jr., will be auctioned in January at Christie’s, which expects it to fetch more than $10 million.",
-      "source": "NYT"
-    },
-    {
-      "title": "Why Colorado Is at the Epicenter of So Many Supreme Court Clashes",
-      "link": "https://www.nytimes.com/2026/11/09/us/politics/supreme-court-colorado.html",
-      "pubDate": "2026-11-09T10:01:38.000Z",
-      "image": "https://static01.nyt.com/images/2026/11/03/multimedia/00dc-scotus-colorado-mflj/00dc-scotus-colorado-mflj-mediumSquareAt3X.jpg",
-      "author": "Ann E. Marimow",
-      "excerpt": "In three recent cases, the conservative-dominated bench has ruled against the state and in favor of the rights of Christian business owners.",
-      "source": "NYT"
-    },
-    {
-      "title": "On ‘60 Minutes,’ Trump Says Immigration Crackdown May Have ‘Hurt’ Republicans in Elections",
-      "link": "https://www.nytimes.com/2026/11/08/us/politics/trump-60-minutes-republicans-election-immigration.html",
-      "pubDate": "2026-11-09T03:16:26.000Z",
-      "image": "https://static01.nyt.com/images/2026/11/08/us/08dc-trump-60Minutes/08dc-trump-60Minutes-mediumSquareAt3X.jpg",
-      "author": "Erica L. Green",
-      "excerpt": "The president was asked in a “60 Minutes” interview that aired on Sunday whether his deportation policies went too far. “I think it might be too tough,” he said.",
-      "source": "NYT"
-    },
-    {
-      "title": "Trump Was ‘Only Kidding’ in Asking Dana White to Be His Press Secretary",
-      "link": "https://www.nytimes.com/2026/11/08/us/politics/trump-joke-dana-white-press-secretary.html",
-      "pubDate": "2026-11-09T00:43:21.000Z",
-      "image": "https://static01.nyt.com/images/2026/11/08/multimedia/08dc-trump-klhj/08dc-trump-klhj-mediumSquareAt3X.jpg",
-      "author": "Erica L. Green",
-      "excerpt": "The president said on Sunday that the U.F.C. chief executive “loves the idea” of being the White House spokesman but that his public offer of the job was “just a little fun.”",
       "source": "NYT"
     }
   ]
