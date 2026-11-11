@@ -1,6 +1,42 @@
 {
   "spaceNews": [
     {
+      "title": "SpaceX aims to safely land Starship and booster stage after orbital flight",
+      "link": "https://www.newscientist.com/article/2598233-spacex-aims-to-safely-land-starship-and-booster-stage-after-orbital-flight/?utm_campaign=RSS|NSNS&utm_content=space&utm_medium=RSS&utm_source=NSNS",
+      "pubDate": "2026-11-11T17:00:00.000Z",
+      "image": null,
+      "author": "Matthew Sparkes",
+      "excerpt": "The upcoming Starship test flight is the most ambitious to date and, if successful, will mark an important milestone in the company's mission to create a truly reusable launch vehicle that dramatically lowers the cost of space launches",
+      "source": "New Scientist"
+    },
+    {
+      "title": "Re-analysis of black hole data proves iconic ring shape really is there",
+      "link": "https://www.newscientist.com/article/2598415-re-analysis-of-black-hole-data-proves-iconic-ring-shape-really-is-there/?utm_campaign=RSS|NSNS&utm_content=space&utm_medium=RSS&utm_source=NSNS",
+      "pubDate": "2026-11-11T16:00:00.000Z",
+      "image": "https://www.newscientist.com/wp-content/uploads/2026/11/SEI_320279401.jpg",
+      "author": "Leah Crane",
+      "excerpt": "The doughnut shape of the Event Horizon Telescope’s first image of a black hole has come under fire, but an independent check showed that it – and general relativity – still stands",
+      "source": "New Scientist"
+    },
+    {
+      "title": "Moog Marks 25 Years Since ESPA Design Milestone: Innovating Space Rideshare",
+      "link": "https://spacenews.com/moog-marks-25-years-since-espa-design-milestone-innovating-space-rideshare/",
+      "pubDate": "2026-11-11T15:53:57.000Z",
+      "image": "https://i0.wp.com/spacenews.com/wp-content/uploads/2025/03/moog-square.png?fit=1024%2C1024&amp;ssl=1",
+      "author": "Moog Inc.",
+      "excerpt": "East Aurora, N.Y. — Moog Inc. (NYSE: MOG.A and MOG.B) marks 25 years since the Evolved Secondary Payload Adapter (ESPA) ring completed its Critical Design Review in 2001. The pioneering […] The post Moog Marks 25 Years Since ESPA Design Milestone: Innovating Space Rideshare appeared first on SpaceNews.",
+      "source": "SpaceNews"
+    },
+    {
+      "title": "Horizon Microtechnologies Targets Constellation-Scale Production As Esa Phi-Lab Selection Strengthens Industrialisation Push",
+      "link": "https://spacenews.com/horizon-microtechnologies-targets-constellation-scale-production-as-esa-phi-lab-selection-strengthens-industrialisation-push/",
+      "pubDate": "2026-11-11T13:00:00.000Z",
+      "image": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/11/horizon-microtechnologies.png?fit=1021%2C1024&amp;ssl=1",
+      "author": "Horizon Microtechnologies",
+      "excerpt": "(Karlsruhe, Germany, September 29th 2026) Horizon Microtechnologies is accelerating industrialisation of its metallised polymer micro-additive manufacturing platform through IP-MASS, a two-year scale-up project supported by €500,000 and reinforced by selection […] The post Horizon Microtechnologies Targets Constellatio",
+      "source": "SpaceNews"
+    },
+    {
       "title": "Voyager is one light day away from us. Here’s what it discovered on its epic journey",
       "link": "https://www.newscientist.com/article/2598369-voyager-is-one-light-day-away-from-us-heres-what-it-discovered-on-its-epic-journey/?utm_campaign=RSS|NSNS&utm_content=space&utm_medium=RSS&utm_source=NSNS",
       "pubDate": "2026-11-11T08:00:00.000Z",
@@ -595,33 +631,6 @@
       "source": "New Scientist"
     },
     {
-      "title": "Flexell Space and Satoro Agree to Collaborate on In-Orbit Demonstration of Next-Generation Space Solar Cells",
-      "link": "https://spacenews.com/flexell-space-and-satoro-agree-to-collaborate-on-in-orbit-demonstration-of-next-generation-space-solar-cells/",
-      "pubDate": "2026-10-28T14:43:08.000Z",
-      "image": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/10/LOGO_FLEXELLBlack.png?fit=1024%2C1024&amp;ssl=1",
-      "author": "Flexell Space",
-      "excerpt": "– Two demonstration missions planned aboard SpaceX Falcon 9, one each in 2027 and 2028 – Satoro to provide “Satellite-as-a-service” solution; Flexell Space to supply solar cells and test modules […] The post Flexell Space and Satoro Agree to Collaborate on In-Orbit Demonstration of Next-Generation Space Solar Cells app",
-      "source": "SpaceNews"
-    },
-    {
-      "title": "Tiny ‘solar flares’ recreated in the lab may explain corona mystery",
-      "link": "https://www.newscientist.com/article/2595244-tiny-solar-flares-recreated-in-the-lab-may-explain-corona-mystery/?utm_campaign=RSS|NSNS&utm_content=space&utm_medium=RSS&utm_source=NSNS",
-      "pubDate": "2026-10-22T19:00:00.000Z",
-      "image": null,
-      "author": "Karmela Padavic-Callaghan",
-      "excerpt": "An experiment has produced nanoflares similar to those seen on the sun, and shown that they can help explain why the outer layers of the solar atmosphere are so hot",
-      "source": "New Scientist"
-    },
-    {
-      "title": "Why the Drake equation is still important 65 years after its creation",
-      "link": "https://www.newscientist.com/article/2594385-why-the-drake-equation-is-still-important-65-years-after-its-creation/?utm_campaign=RSS|NSNS&utm_content=space&utm_medium=RSS&utm_source=NSNS",
-      "pubDate": "2026-10-19T08:00:00.000Z",
-      "image": "https://www.newscientist.com/wp-content/uploads/2026/10/SEI_316868490.jpg",
-      "author": "Leah Crane",
-      "excerpt": "The Drake equation provides a way to guess how many aliens we might be able to communicate with, but it’s also a prime example of the importance of scientific guessing, says columnist Leah Crane",
-      "source": "New Scientist"
-    },
-    {
       "title": "HQs DAF Services Industry Day strengthens partnerships, industry engagement",
       "link": "https://www.spaceforce.mil/News/Article-Display/Article/4645426/hqs-daf-services-industry-day-strengthens-partnerships-industry-engagement/",
       "pubDate": "2026-10-16T20:24:00.000Z",
@@ -860,183 +869,219 @@
   ],
   "nytNews": [
     {
-      "title": "The Post-Trump Battle Lines Are Drawn",
-      "link": "https://www.nytimes.com/2026/11/11/opinion/post-trump-republicans.html",
-      "pubDate": "2026-11-11T10:03:38.000Z",
-      "image": null,
-      "author": "Oren Cass",
-      "excerpt": "Not since the Civil War has the party had so much up for grabs.",
+      "title": "The S.S. United States, a Historic Supership, Heads to the Ocean Floor",
+      "link": "https://www.nytimes.com/2026/11/11/climate/ss-united-states-ship-sinking-artificial-reef-florida.html",
+      "pubDate": "2026-11-11T18:35:27.000Z",
+      "image": "https://static01.nyt.com/images/2026/11/11/multimedia/11cli-sinking-the-united-states-stillpromo-fhbq/11cli-sinking-the-united-states-stillpromo-fhbq-mediumSquareAt3X.jpg",
+      "author": "Jesse Pesta and Micah Green",
+      "excerpt": "The 20th-century ocean liner will become an artificial reef, ending efforts to save a ship that was fast, luxurious and (almost) indestructible. Watch the livestream.",
       "source": "NYT"
     },
     {
-      "title": "Satellite Imagery Is Being Restricted. The U.S. Government Is to Blame.",
+      "title": "Recalling the S.S. United States as It Becomes a Florida Reef",
+      "link": "https://www.nytimes.com/2026/11/11/insider/ss-united-states-destin-florida-memories.html",
+      "pubDate": "2026-11-11T18:14:57.000Z",
+      "image": "https://static01.nyt.com/images/2026/11/11/multimedia/11insider-sinking-ship-01-mwql/11insider-sinking-ship-01-mwql-mediumSquareAt3X.jpg",
+      "author": "Jesse Pesta",
+      "excerpt": "A New York Times editor has had a lifelong connection to the S.S. United States, which is becoming an artificial reef off the Florida coast.",
+      "source": "NYT"
+    },
+    {
+      "title": "White House Threatens Congress, Saying Aggressive Investigations Could Be Crime",
+      "link": "https://www.nytimes.com/2026/11/11/us/politics/trump-democrats-congress-oversight-committee.html",
+      "pubDate": "2026-11-11T18:08:28.000Z",
+      "image": "https://static01.nyt.com/images/2026/11/11/us/11DC-TRUMP-WARNING-PROMO/11DC-TRUMP-WARNING-PROMO-mediumSquareAt3X.jpg",
+      "author": "Charlie Savage, Jonathan Swan and Michael Gold",
+      "excerpt": "As Democrats prepared to begin oversight inquiries, it was not clear what legal basis could support the threat. The Constitution grants lawmakers immunity for legislative acts.",
+      "source": "NYT"
+    },
+    {
+      "title": "Raman and the D.S.A.: Wariness, Skepticism and Hope",
+      "link": "https://www.nytimes.com/2026/11/11/us/politics/raman-los-angeles-democratic-socialist.html",
+      "pubDate": "2026-11-11T18:04:46.000Z",
+      "image": "https://static01.nyt.com/images/2026/11/11/multimedia/11nat-raman-dsa-cwjz/11nat-raman-dsa-cwjz-mediumSquareAt3X.jpg",
+      "author": "Jill Cowan",
+      "excerpt": "Democratic socialists had another success with Ms. Raman’s ascent to the Los Angeles mayoralty. But she is no sure bet to align with all of the group’s priorities.",
+      "source": "NYT"
+    },
+    {
+      "title": "U.S. Efforts to Tighten Blockade of Iran Rely on Reluctant Neighbors",
+      "link": "https://www.nytimes.com/2026/11/11/world/middleeast/us-blockade-iran-taskforce-iron-gate.html",
+      "pubDate": "2026-11-11T18:02:52.000Z",
+      "image": "https://static01.nyt.com/images/2026/11/11/multimedia/00int-iran-blockade-01-fvqw/00int-iran-blockade-01-fvqw-mediumSquareAt3X.jpg",
+      "author": "Erika Solomon, Eric Schmitt and Tyler Pager",
+      "excerpt": "Washington wants to intensify its economic pressure campaign on Iran by closing its land borders. Neighboring states, fearing economic fallout, are pushing back.",
+      "source": "NYT"
+    },
+    {
+      "title": "My I.R.L. Adventures in the Land of the Eagle Cam",
+      "link": "https://www.nytimes.com/2026/11/11/magazine/eagle-cam-big-bear-lake.html",
+      "pubDate": "2026-11-11T17:33:13.000Z",
+      "image": "https://static01.nyt.com/images/2026/11/22/magazine/22mag-Eagle-05/22mag-Eagle-05-mediumSquareAt3X.jpg",
+      "author": "Sam Anderson",
+      "excerpt": "I traveled to Big Bear Lake, home of a viral live feed of an eagle’s nest, and found very human shenanigans.",
+      "source": "NYT"
+    },
+    {
+      "title": "Silicon Valley Tech Allies Support Jensen Huang",
+      "link": "https://www.nytimes.com/2026/11/11/technology/jensen-huang-affair-nvidia-support.html",
+      "pubDate": "2026-11-11T17:29:52.000Z",
+      "image": "https://static01.nyt.com/images/2026/11/10/multimedia/10biz-jensen-support-cmpv/10biz-jensen-support-cmpv-mediumSquareAt3X.jpg",
+      "author": "Emmy Martin",
+      "excerpt": "Elon Musk and other Silicon Valley figures cast the Nvidia chief’s relationship with a woman believed to be a Chinese spy as a personal lapse, not a security failure.",
+      "source": "NYT"
+    },
+    {
+      "title": "Heating Costs Will Rise 7% on Average This Winter",
+      "link": "https://www.nytimes.com/2026/11/11/business/energy-environment/winter-heating-oil-costs.html",
+      "pubDate": "2026-11-11T17:16:17.000Z",
+      "image": "https://static01.nyt.com/images/2026/11/11/multimedia/11biz-heating-oil-pwlv/11biz-heating-oil-pwlv-mediumSquareAt3X.jpg",
+      "author": "Ivan Penn",
+      "excerpt": "People who use heating oil will see increases of around 70 percent because the war in Iran has greatly reduced supply of that fuel.",
+      "source": "NYT"
+    },
+    {
+      "title": "Trump Visits Arlington Cemetery as His Proposed Arch Faces Growing Opposition",
+      "link": "https://www.nytimes.com/2026/11/11/us/politics/trump-arlington-cemetery-arch.html",
+      "pubDate": "2026-11-11T17:13:53.000Z",
+      "image": "https://static01.nyt.com/images/2026/09/03/multimedia/11dc-arch-arlington/03dc-arch-02-jgwz-mediumSquareAt3X.jpg",
+      "author": "Zach Montague",
+      "excerpt": "An expanding legal fight over the proposed site of President Trump’s 250-foot triumphal arch looms over his visit to Arlington National Cemetery on Veterans Day.",
+      "source": "NYT"
+    },
+    {
+      "title": "Trump. Miller. Blanche. Jordan. Things Could Get Worse, and They Probably Will.",
+      "link": "https://www.nytimes.com/2026/11/11/opinion/trump-miller-blanche-jordan.html",
+      "pubDate": "2026-11-11T17:09:18.000Z",
+      "image": "https://static01.nyt.com/images/2026/11/11/multimedia/11labash-gmpf/11labash-gmpf-mediumSquareAt3X.jpg",
+      "author": "Matt Labash",
+      "excerpt": "Yes, his party was routed in the midterms, but this president doesn’t do humility.",
+      "source": "NYT"
+    },
+    {
+      "title": "For Families of Those Who Died in the Iran War, a Veterans Day of Profound Loss",
+      "link": "https://www.nytimes.com/2026/11/11/us/iran-war-deaths-survivors-veterans-day.html",
+      "pubDate": "2026-11-11T16:09:40.000Z",
+      "image": "https://static01.nyt.com/images/2026/11/11/multimedia/11nat-iran-veterans-SWAP2-bqvw/11nat-iran-veterans-SWAP2-bqvw-mediumSquareAt3X.jpg",
+      "author": "Christina Morales",
+      "excerpt": "Military families are navigating feelings of grief, pride and anger, as well as seeking answers about the deaths of their loved ones.",
+      "source": "NYT"
+    },
+    {
+      "title": "The Moderates Who Chose Democrats. For Now.",
+      "link": "https://www.nytimes.com/2026/11/11/us/elections/trump-voters-democrats-priorities.html",
+      "pubDate": "2026-11-11T16:04:44.000Z",
+      "image": "https://static01.nyt.com/images/2026/11/10/multimedia/00nat-flippers-01-mzlc/00nat-flippers-01-mzlc-mediumSquareAt3X.jpg",
+      "author": "Sabrina Tavernise and Ann Hinga Klein",
+      "excerpt": "Does Democratic success with the political middle signal a broad realignment in the country? Or is it a temporary turn away from an unpopular president?",
+      "source": "NYT"
+    },
+    {
+      "title": "Incoming House Intelligence Chairman Vows Oversight of CIA’s Use of Covert Action",
+      "link": "https://www.nytimes.com/2026/11/11/us/politics/jim-himes-cia-house-intelligence-oversight.html",
+      "pubDate": "2026-11-11T15:27:51.000Z",
+      "image": "https://static01.nyt.com/images/2026/11/10/us/dc-intel/dc-intel-mediumSquareAt3X.jpg",
+      "author": "Dustin Volz and Julian E. Barnes",
+      "excerpt": "Representative Jim Himes, who will run the powerful intelligence committee in the new Congress, said he also planned to scrutinize contractor donations to President Trump’s construction projects.",
+      "source": "NYT"
+    },
+    {
+      "title": "ICE Officer Involved in Maine Shooting Expressed Hatred of Immigrants",
+      "link": "https://www.nytimes.com/2026/11/11/us/david-brouillette-ice-maine-shooting-anti-immigrant-hatred.html",
+      "pubDate": "2026-11-11T15:24:19.000Z",
+      "image": null,
+      "author": "Katie Benner and Alexandra Berzon",
+      "excerpt": "The agent talked of foreign bloodlines, denounced noncitizens and more, according to emails obtained by The Times. His fatal shooting of a Colombian-born motorist in July remains under investigation.",
+      "source": "NYT"
+    },
+    {
+      "title": "Nvidia Scandal Unveils a Fierce Spy War Raging Behind Trump and Xi’s Diplomacy",
+      "link": "https://www.nytimes.com/2026/11/11/world/asia/china-us-nvidia.html",
+      "pubDate": "2026-11-11T14:57:07.000Z",
+      "image": "https://static01.nyt.com/images/2026/11/11/multimedia/11int-china-spying-diplo-01-gzlf/11int-china-spying-diplo-01-gzlf-mediumSquareAt3X.jpg",
+      "author": "David Pierson",
+      "excerpt": "That the United States suspected Nvidia’s leader was a Chinese spy target underscores the deep distrust between the two powers, even as their leaders try to stabilize ties.",
+      "source": "NYT"
+    },
+    {
+      "title": "Nvidia Scandal Puts Lori Huang, Jensen Huang’s Wife, In the Spotlight",
+      "link": "https://www.nytimes.com/2026/11/11/technology/jensen-huang-affair-lori-huang.html",
+      "pubDate": "2026-11-11T14:46:43.000Z",
+      "image": "https://static01.nyt.com/images/2026/11/10/multimedia/jensen-wife-jwtz/jensen-wife-jwtz-mediumSquareAt3X.jpg",
+      "author": "Erin Griffith and Don Clark",
+      "excerpt": "Lori Huang, who has been married to the Nvidia chief executive for more than 40 years, stands out among tech titan spouses for how private she has been.",
+      "source": "NYT"
+    },
+    {
+      "title": "The View From Space the U.S. Government Doesn’t Want You to See",
       "link": "https://www.nytimes.com/2026/11/11/opinion/satellite-images-us-government.html",
-      "pubDate": "2026-11-11T10:01:45.000Z",
+      "pubDate": "2026-11-11T13:58:18.000Z",
       "image": "https://static01.nyt.com/images/2026/11/11/opinion/11opvid-satellite-image/11opvid-satellite-image-mediumSquareAt3X.png",
       "author": "Ollie Ballinger and Zach Toombs",
       "excerpt": "There are images from space that the U.S. government doesn’t want the public to see. Here’s why.",
       "source": "NYT"
     },
     {
-      "title": "In Interview, Sonia Gandhi Recalls Love and Loss in India",
-      "link": "https://www.nytimes.com/2026/11/10/world/asia/sonia-gandhi-india.html",
-      "pubDate": "2026-11-11T09:23:20.000Z",
-      "image": "https://static01.nyt.com/images/2026/11/10/multimedia/10int-sonia-gandhi-01-gkwb/10int-sonia-gandhi-01-gkwb-mediumSquareAt3X.jpg",
-      "author": "Elisabeth Bumiller",
-      "excerpt": "In a new memoir and interview, the Italian-born woman who married into the Nehru-Gandhi dynasty recalls her political battles and the assassinations of her husband and mother-in-law.",
+      "title": "How a Suspected Chinese Spy Gained Access to Nvidia Chips",
+      "link": "https://www.nytimes.com/video/business/100000011273241/alice-huang-nvidia-china-spy.html",
+      "pubDate": "2026-11-11T13:48:52.000Z",
+      "image": null,
+      "author": "Ana Swanson, Nour Idriss, Stephanie Swart, Whitney Shefte and Pierre Kattar",
+      "excerpt": "A woman whom U.S. intelligence identified as a Chinese spy had ties to Nvidia’s chief executive, Jensen Huang, dating to at least 2023. Ana Swanson, our reporter on trade and economics, explains what new photos show.",
       "source": "NYT"
     },
     {
-      "title": "The United States Is Skipping COP31 in Turkey",
-      "link": "https://www.nytimes.com/2026/11/11/climate/trump-cop31-climate-turkey.html",
-      "pubDate": "2026-11-11T08:21:07.000Z",
-      "image": "https://static01.nyt.com/images/2026/11/11/multimedia/11cli-cop-americans-01-lgqt/11cli-cop-americans-01-lgqt-mediumSquareAt3X.jpg",
-      "author": "David Gelles and Lisa Friedman",
-      "excerpt": "President Trump refused to send an American delegation to the United Nations climate summit in Turkey.",
+      "title": "The Fed Has to Raise Rates. How Fast to Go Has Officials Divided.",
+      "link": "https://www.nytimes.com/2026/11/11/business/fed-interest-rates-inflation.html",
+      "pubDate": "2026-11-11T13:40:22.000Z",
+      "image": "https://static01.nyt.com/images/2026/11/11/multimedia/11dc-fed-gbfm/11dc-fed-gbfm-mediumSquareAt3X.jpg",
+      "author": "Colby Smith",
+      "excerpt": "The Federal Reserve’s gradual approach to raising rates is being tested by intensifying price pressures.",
       "source": "NYT"
     },
     {
-      "title": "Car Crashes Into Crowd in Los Angeles, Killing at Least 3 Pedestrians",
-      "link": "https://www.nytimes.com/2026/11/10/us/la-car-crash-north-hollywood.html",
-      "pubDate": "2026-11-11T07:26:18.000Z",
-      "image": "https://static01.nyt.com/images/2026/12/10/multimedia/10xp-la-crash-vjqt/10xp-la-crash-vjqt-mediumSquareAt3X.jpg",
-      "author": "Ishani Desai",
-      "excerpt": "At least three others were critically injured after an S.U.V. jumped the curb near North Hollywood Metro station, the authorities said. The cause was not immediately clear.",
+      "title": "Red Flags",
+      "link": "https://www.nytimes.com/2026/11/11/briefing/maine-ice-shooting.html",
+      "pubDate": "2026-11-11T11:54:20.000Z",
+      "image": null,
+      "author": "Sam Sifton",
+      "excerpt": "We look into the history of the ICE officer who fatally shot a Colombian migrant in Maine.",
       "source": "NYT"
     },
     {
-      "title": "Trump Trots Out His Chaotic Greatest Hits to a Weary Public",
-      "link": "https://www.nytimes.com/2026/11/10/us/politics/trump-midterm-elections-chaos.html",
-      "pubDate": "2026-11-11T06:20:03.000Z",
-      "image": "https://static01.nyt.com/images/2026/11/10/multimedia/10DC-ASSESS-pwbk/10DC-ASSESS-pwbk-mediumSquareAt3X.jpg",
-      "author": "Katie Rogers",
-      "excerpt": "As he braces for Democrats to assume legislative control in Washington, President Trump has sought to take back center stage with some discordant maneuvers.",
+      "title": "A New Democratic-Tied Dark-Money Group Draws Scrutiny Over Midterm Spending",
+      "link": "https://www.nytimes.com/2026/11/11/us/democratic-dark-money-super-pac-complaint.html",
+      "pubDate": "2026-11-11T10:04:13.000Z",
+      "image": "https://static01.nyt.com/images/2026/11/11/multimedia/11pol-dem-dark-money-zmwp/11pol-dem-dark-money-zmwp-mediumSquareAt3X.jpg",
+      "author": "Theodore Schleifer",
+      "excerpt": "More money in the political system is coming from shadowy nonprofits that appear out of nowhere and start spending big with little disclosure.",
       "source": "NYT"
     },
     {
-      "title": "Stacy Keach, Actor Who Embodied Hamlet and Mike Hammer, Dies at 85",
-      "link": "https://www.nytimes.com/2026/11/10/arts/stacy-keach-dead.html",
-      "pubDate": "2026-11-11T03:57:21.000Z",
-      "image": "https://static01.nyt.com/images/2026/11/10/multimedia/00Keach-02/00Keach-02-mediumSquareAt3X-v2.jpg",
-      "author": "Barry Singer",
-      "excerpt": "He missed out on several major film roles, but found steady work in the theater, on TV and in movies.",
+      "title": "Blue Texas? Battleground Kansas? Both Parties Wonder if the Map Has Shifted.",
+      "link": "https://www.nytimes.com/2026/11/11/us/blue-texas-battleground-kansas-both-parties-wonder-if-the-map-has-shifted.html",
+      "pubDate": "2026-11-11T10:02:37.000Z",
+      "image": "https://static01.nyt.com/images/2026/11/10/multimedia/10pol-future-map-mtbw/10pol-future-map-mtbw-mediumSquareAt3X.jpg",
+      "author": "Jess Bidgood",
+      "excerpt": "The breadth of Democrats’ midterm victories has raised new questions about which states will be competitive going forward — particularly Texas, a crown jewel in the Electoral College.",
       "source": "NYT"
     },
     {
-      "title": "ICE Deportation Flight Carrying Iranians Turns Back and Lands in Arizona",
-      "link": "https://www.nytimes.com/2026/11/10/world/asia/ice-deportation-flight-iran-mesa.html",
-      "pubDate": "2026-11-11T03:57:10.000Z",
-      "image": "https://static01.nyt.com/images/2026/11/10/multimedia/10int-iran-1-bqkj/10int-iran-1-bqkj-mediumSquareAt3X.jpg",
-      "author": "Pranav Baskar, Hamed Aleaziz, Salman Masood and Zach Montague",
-      "excerpt": "The Iranian immigrants in the plane were scheduled to be flown to Pakistan and then transferred to Iran, lawyers for the group said.",
+      "title": "Subtle Changes in Speech May Help Predict Dementia Risk",
+      "link": "https://www.nytimes.com/2026/11/11/well/speech-changes-speed-test-alzheimers-dementia.html",
+      "pubDate": "2026-11-11T10:00:09.000Z",
+      "image": "https://static01.nyt.com/images/2026/11/11/multimedia/11WELL-SPEECH-DEMENTIA16-promo/11WELL-SPEECH-DEMENTIA16-zfcg-mediumSquareAt3X.jpg",
+      "author": "Pam Belluck and Cassandra Klos for The New York Times",
+      "excerpt": "Signals can be detected in the way people talk years before symptoms of cognitive decline emerge, researchers are finding.",
       "source": "NYT"
     },
     {
-      "title": "Alina Habba Mildon Faces Discipline Over Settlement at Trump Golf Club",
-      "link": "https://www.nytimes.com/2026/11/10/nyregion/alina-habba-ethics-new-jersey-trump.html",
-      "pubDate": "2026-11-11T03:30:30.000Z",
-      "image": "https://static01.nyt.com/images/2026/11/10/multimedia/10met-habba-discipline-wvlg/10met-habba-discipline-wvlg-mediumSquareAt3X.jpg",
-      "author": "Tracey Tully",
-      "excerpt": "The state’s Office of Attorney Ethics recommended discipline for her role in brokering a sexual harassment settlement involving a waitress at the president’s golf club in Bedminster, N.J.",
-      "source": "NYT"
-    },
-    {
-      "title": "Republicans Turn Back Effort to Impeach Hegseth",
-      "link": "https://www.nytimes.com/2026/11/10/us/politics/house-hegseth-impeachment-vote.html",
-      "pubDate": "2026-11-11T03:08:02.000Z",
-      "image": "https://static01.nyt.com/images/2026/11/10/multimedia/10dc-hfo-hegseth-impeach-pqlg/10dc-hfo-hegseth-impeach-pqlg-mediumSquareAt3X.jpg",
-      "author": "Robert Jimison",
-      "excerpt": "The G.O.P. banded together to shelve impeachment articles against the defense secretary, sparing him from a damaging rebuke and potential ouster.",
-      "source": "NYT"
-    },
-    {
-      "title": "Kennedys Join Suit to Block Trump’s Arch, Saying It Would Mar J.F.K. Gravesite",
-      "link": "https://www.nytimes.com/2026/11/10/us/politics/kennedy-trump-arch-lawsuit.html",
-      "pubDate": "2026-11-11T02:59:12.000Z",
-      "image": "https://static01.nyt.com/images/2026/11/10/multimedia/dc-arch-wlgb/dc-arch-wlgb-mediumSquareAt3X.jpg",
-      "author": "Luke Broadwater",
-      "excerpt": "The legal filing argues that the arch would cast a shadow on Kennedy family graves and disrupt the sightline from the eternal flame memorializing the former president.",
-      "source": "NYT"
-    },
-    {
-      "title": "Ballot Deadlines Pass in Mississippi Senate Race After Considerable Struggles",
-      "link": "https://www.nytimes.com/2026/11/10/us/elections/mississippi-ballots-election-laws.html",
-      "pubDate": "2026-11-11T02:48:57.000Z",
-      "image": "https://static01.nyt.com/images/2026/11/10/multimedia/10nat-mississippi-senate-02-qtbf/10nat-mississippi-senate-02-qtbf-mediumSquareAt3X.jpg",
-      "author": "Emily Cochrane and Michael Goldberg",
-      "excerpt": "The tight race between Senator Cindy Hyde-Smith and her Democratic challenger, Scott Colom, has highlighted the difficulties that stringent elections laws present to voters.",
-      "source": "NYT"
-    },
-    {
-      "title": "Bernie Sanders Opposes Schumer as Majority Leader",
-      "link": "https://www.nytimes.com/2026/11/10/us/politics/bernie-sanders-chuck-schumer-senate.html",
-      "pubDate": "2026-11-11T02:01:55.000Z",
-      "image": "https://static01.nyt.com/images/2026/11/10/multimedia/10dc-democrats-bflg/10dc-democrats-bflg-mediumSquareAt3X.jpg",
-      "author": "Carl Hulse",
-      "excerpt": "The progressive leader was among a few Democrats who signaled skepticism about Senator Chuck Schumer of New York, though his allies offered support and called for party unity.",
-      "source": "NYT"
-    },
-    {
-      "title": "On the Defense: Takeaways From Hegseth’s Remarks on Articles of Impeachment",
-      "link": "https://www.nytimes.com/2026/11/10/us/politics/hegseth-speech-impeachment-takeaways.html",
-      "pubDate": "2026-11-11T01:56:46.000Z",
-      "image": "https://static01.nyt.com/images/2026/11/10/multimedia/10DC-HEGSETH-TAKEAWAYS-mhkt/10DC-HEGSETH-TAKEAWAYS-mhkt-mediumSquareAt3X.jpg",
-      "author": "John Ismay",
-      "excerpt": "Defense Secretary Pete Hegseth broke a monthslong drought of news briefings to defend his record in office.",
-      "source": "NYT"
-    },
-    {
-      "title": "New Research Compares Long-Term Relief From 21 Antidepressants",
-      "link": "https://www.nytimes.com/2026/11/10/well/mind/antidepressants-efficacy-work.html",
-      "pubDate": "2026-11-10T23:30:23.000Z",
-      "image": "https://static01.nyt.com/images/2026/11/09/well/WELL-DEPRESSION-MEDS1/WELL-DEPRESSION-MEDS1-mediumSquareAt3X.jpg",
-      "author": "Christina Caron",
-      "excerpt": "In the meta-analysis, a few drugs stood out for offering greater effectiveness over time.",
-      "source": "NYT"
-    },
-    {
-      "title": "Representative María Elvira Salazar Wins Re-Election in Florida",
-      "link": "https://www.nytimes.com/2026/11/10/us/politics/florida-house-27-salazar-rodriguez.html",
-      "pubDate": "2026-11-10T23:24:36.000Z",
-      "image": "https://static01.nyt.com/images/2026/11/03/multimedia/03hfo-pol-fl27-topart-01-gmqc/03hfo-pol-fl27-topart-01-gmqc-mediumSquareAt3X.jpg",
-      "author": "Patricia Mazzei",
-      "excerpt": "Ms. Salazar, a Republican, had released an ad in which she said the White House had “gone too far” on immigration amid worries of Hispanic voter backlash within her party.",
-      "source": "NYT"
-    },
-    {
-      "title": "Who Is Alice Huang, the Woman in the Middle of Nvidia’s Spy Scandal?",
-      "link": "https://www.nytimes.com/2026/11/10/technology/alice-huang-megaspeed-nvidia-jensen-huang.html",
-      "pubDate": "2026-11-10T21:12:39.000Z",
-      "image": "https://static01.nyt.com/images/2026/11/09/business/00biz-alice-huang-nanjing/00biz-alice-huang-nanjing-mediumSquareAt3X.jpg",
-      "author": "Paul Mozur, Ana Swanson, Tripp Mickle and Michael Forsythe",
-      "excerpt": "Alice Huang, who U.S. intelligence determined is a Chinese asset, emerged from the high-flying world of Shanghai finance to work with tech titans and obtain essential A.I. chips.",
-      "source": "NYT"
-    },
-    {
-      "title": "Alina Habba Mildon Loses $50 Million Contract That Enraged Trump",
-      "link": "https://www.nytimes.com/2026/11/10/us/politics/alina-habba-fired-pardon.html",
-      "pubDate": "2026-11-10T20:51:05.000Z",
-      "image": "https://static01.nyt.com/images/2026/11/10/multimedia/10dc-habba-jvqt/10dc-habba-jvqt-mediumSquareAt3X.jpg",
-      "author": "Tyler Pager",
-      "excerpt": "The former Trump lawyer had signed the contract with a family company weeks before the president gave the family’s patriarch a pardon.",
-      "source": "NYT"
-    },
-    {
-      "title": "Despite Denial, Trump Was Told on Trip to China About Spying on Nvidia’s Jensen Huang",
-      "link": "https://www.nytimes.com/2026/11/10/us/politics/trump-china-trip-nvidia.html",
-      "pubDate": "2026-11-10T19:27:59.000Z",
-      "image": "https://static01.nyt.com/images/2026/11/10/multimedia/10dc-trump-huang-top-fthz/10dc-trump-huang-top-fthz-mediumSquareAt3X.jpg",
-      "author": "Maggie Haberman, Jonathan Swan, Julian E. Barnes, Ana Swanson and Tripp Mickle",
-      "excerpt": "Before Jensen Huang boarded Air Force One en route to Beijing, the president was reminded of intelligence showing that he was in a relationship with a woman believed to be a Chinese spy.",
-      "source": "NYT"
-    },
-    {
-      "title": "ICE Hides Detainee Locations From Lawyers and Family Under New Policy",
-      "link": "https://www.nytimes.com/2026/11/10/us/ice-detainees-hidden-location-deportation.html",
-      "pubDate": "2026-11-10T18:58:02.000Z",
-      "image": "https://static01.nyt.com/images/2026/11/09/multimedia/09nat-immig-detainee-locator-cbkh/09nat-immig-detainee-locator-cbkh-mediumSquareAt3X.jpg",
-      "author": "Miriam Jordan",
-      "excerpt": "A nursing professor in California is among thousands of immigrants excluded from a public detainee database under a new policy to expedite their deportation.",
+      "title": "When Measles Came to an Amish Community, Many Suffered and One Died",
+      "link": "https://www.nytimes.com/2026/11/11/nyregion/measles-new-york-lewis-county-amish.html",
+      "pubDate": "2026-11-11T08:00:07.000Z",
+      "image": null,
+      "author": "Joseph Goldstein and David Andreatta",
+      "excerpt": "In Lewis County, N.Y., the highly contagious virus has swept through Amish homes. Public health experts fear there’s no end in sight.",
       "source": "NYT"
     }
   ]
