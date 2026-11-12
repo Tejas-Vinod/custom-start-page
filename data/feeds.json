@@ -1,6 +1,42 @@
 {
   "spaceNews": [
     {
+      "title": "I Am Artemis Katie Spicer",
+      "link": "https://www.nasa.gov/missions/artemis/i-am-artemis-katie-spicer/",
+      "pubDate": "2026-11-12T20:10:02.000Z",
+      "image": "https://www.nasa.gov/wp-content/uploads/2026/11/jsc2026e402724-i-am-artemis-katie.jpeg?w=1536",
+      "author": "Lee Mohon",
+      "excerpt": "For Katie Spicer, embracing opportunity and challenge has led to giant leaps during her time at NASA. Now as the NASA lander integration lead for Blue Origin’s Blue Moon Mark 2 lander, one of the commercially provided human landing systems for NASA’s Artemis program, Spicer will have her handprint on history. Spicer wo",
+      "source": "NASA"
+    },
+    {
+      "title": "UARX Space Marks a Milestone for Spain’s Space Industry with the Maiden Flight of OSSIE-D, Featuring a Complete Power Subsystem Supplied by DHV Technology",
+      "link": "https://spacenews.com/uarx-space-marks-a-milestone-for-spains-space-industry-with-the-maiden-flight-of-ossie-d-featuring-a-complete-power-subsystem-supplied-by-dhv-technology/",
+      "pubDate": "2026-11-12T20:00:00.000Z",
+      "image": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/11/Logos.png?fit=1024%2C1024&amp;ssl=1",
+      "author": "UARX Space",
+      "excerpt": "Nigrán, Spain | November 12 2026 – UARX Space has achieved a major milestone for Spain’s space industry with the deployment of OSSIE-D, an Orbital Transfer Vehicle (OTV) designed and […] The post UARX Space Marks a Milestone for Spain’s Space Industry with the Maiden Flight of OSSIE-D, Featuring a Complete Power Subsys",
+      "source": "SpaceNews"
+    },
+    {
+      "title": "What role does industry play in Europe’s space sovereignty push?",
+      "link": "https://spacenews.com/what-role-does-industry-play-in-europes-space-sovereignty-push/",
+      "pubDate": "2026-11-12T19:40:35.000Z",
+      "image": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/11/space-minds-podcast-KNA-2000-1500-1.jpg?fit=1024%2C768&amp;ssl=1",
+      "author": "SpaceNews Editor",
+      "excerpt": "In this episode, SpaceNews’ Jason Rainbow interviews Atle Woello, the CEO and senior vice president of the space systems and surveillance business unit at Kongsberg NanoAvionics. They discuss the role […] The post What role does industry play in Europe’s space sovereignty push? appeared first on SpaceNews.",
+      "source": "SpaceNews"
+    },
+    {
+      "title": "Heart in the Sky at NASA Kennedy",
+      "link": "https://www.nasa.gov/image-article/heart-in-the-sky-at-nasa-kennedy/",
+      "pubDate": "2026-11-12T19:12:49.000Z",
+      "image": "https://www.nasa.gov/wp-content/uploads/2026/11/55640210122-dae9d5e6b9-o.jpg?w=2048",
+      "author": "HQ Web Team",
+      "excerpt": "The U.S. Air Force Thunderbirds create a heart-shaped smoke trail during a flight maneuver near NASA’s Vehicle Assembly Building during the agency’s MAX POWER expo and air show on Sunday, Nov. 8, 2026, at NASA’s Kennedy Space Center in Florida. NASA’s MAX POWER is an aerospace festival celebrating the past, present, an",
+      "source": "NASA"
+    },
+    {
       "title": "NASA Ames Stars of the Month: November 2026",
       "link": "https://www.nasa.gov/general/nasa-ames-stars-of-the-month-november-2026/",
       "pubDate": "2026-11-12T17:54:32.000Z",
@@ -190,15 +226,6 @@
       "source": "NASA"
     },
     {
-      "title": "NASA Invites Media, Public to Join Voyager 1 One-Light Day Activities",
-      "link": "https://www.nasa.gov/news-release/nasa-invites-media-public-to-join-voyager-1-one-light-day-activities/",
-      "pubDate": "2026-11-10T19:22:45.000Z",
-      "image": "https://www.nasa.gov/wp-content/uploads/2026/11/voyager-1-advisory-image-2-nov-10.jpg?w=2048",
-      "author": "Gerelle Q. Dodson",
-      "excerpt": "Launched nearly 50 years ago in 1977, NASA’s Voyager 1 on Wednesday, Nov. 18 will have traveled one light-day from Earth, which is more than 16 billion miles (25.9 billion kilometers). Voyager 1 is the most distant human-made object, and any light from Earth would take 24 hours to reach the spacecraft. NASA will highli",
-      "source": "NASA"
-    },
-    {
       "title": "Rep. Mike Haridopolos on NASA’s Future After the Blue Wave",
       "link": "https://payloadspace.com/rep-mike-haridopolos-on-nasas-future-after-the-blue-wave/",
       "pubDate": "2026-11-10T18:45:00.000Z",
@@ -206,15 +233,6 @@
       "author": "Victoria Woodburn",
       "excerpt": "Rep. Mike Haridopolos survived the Blue Wave—and he’s optimistic bipartisan support for NASA’s Artemis program means the program will survive the political upheaval on Capitol Hill as well. The post Rep. Mike Haridopolos on NASA’s Future After the Blue Wave appeared first on Payload.",
       "source": "Payload"
-    },
-    {
-      "title": "NASA to Welcome Expedition 74 Astronauts Home at Space Center Houston",
-      "link": "https://www.nasa.gov/news-release/nasa-to-welcome-expedition-74-astronauts-home-at-space-center-houston/",
-      "pubDate": "2026-11-10T18:06:33.000Z",
-      "image": "https://www.nasa.gov/wp-content/uploads/2026/11/expedition-74-picture.jpg?w=2048",
-      "author": "Wendy K. Avedisian",
-      "excerpt": "NASA will welcome home the Expedition 74 crew during a public event at Space Center Houston following their return from a long-duration mission aboard the International Space Station. NASA astronauts Jessica Meir, Jack Hathaway, and Chris Williams; ESA (European Space Agency) astronaut Sophie Adenot; and Roscosmos cosm",
-      "source": "NASA"
     },
     {
       "title": "Kratos and Seagate Space Partner to Advance Mobile Offshore Launch Capabilities for National Security Missions",
@@ -869,34 +887,187 @@
   ],
   "nytNews": [
     {
-      "title": "Nvidia Stock Plunges After Jensen Huang Resigns as CEO",
+      "title": "I Wrote Jensen Huang’s Biography. Here’s What Led to His Downfall.",
+      "link": "https://www.nytimes.com/2026/11/12/opinion/jensen-huang-nvidia.html",
+      "pubDate": "2026-11-12T23:26:55.000Z",
+      "image": "https://static01.nyt.com/images/2026/11/14/opinion/12Witt/12Witt-mediumSquareAt3X.jpg",
+      "author": "Stephen Witt",
+      "excerpt": "How to understand the former Nvidia chief’s stunning departure.",
+      "source": "NYT"
+    },
+    {
+      "title": "Holscher Wins Kansas Governor Race, Retaining Seat for Democrats",
+      "link": "https://www.nytimes.com/2026/11/12/us/kansas-governor-democrat-holscher-wins.html",
+      "pubDate": "2026-11-12T23:16:10.000Z",
+      "image": "https://static01.nyt.com/images/2026/11/03/multimedia/03midterms-hfo-kansas-governor-Holscher-pbjm/03midterms-hfo-kansas-governor-Holscher-pbjm-mediumSquareAt3X.jpg",
+      "author": "Mitch Smith",
+      "excerpt": "State Senator Cindy Holscher won the race. Though Kansas is reliably Republican in presidential elections, its voters often break for Democrats in midterms.",
+      "source": "NYT"
+    },
+    {
+      "title": "Eight Who Died in Building Collapse Reflected New York’s Diversity",
+      "link": "https://www.nytimes.com/2026/11/12/nyregion/brooklyn-building-collapse-victims.html",
+      "pubDate": "2026-11-12T23:06:46.000Z",
+      "image": "https://static01.nyt.com/images/2026/11/12/multimedia/12met-building-collapse-live-victims-vfjw/12met-building-collapse-live-victims-vfjw-mediumSquareAt3X.jpg",
+      "author": "Andy Newman and Ashley Southall",
+      "excerpt": "The victims included construction workers, a food deliveryman and two school-age children. Many had come to the city looking for a better life.",
+      "source": "NYT"
+    },
+    {
+      "title": "Rescue Ends in Brooklyn After 8 Die in Building Collapse",
+      "link": "https://www.nytimes.com/2026/11/12/us/brooklyn-building-collapse-deaths.html",
+      "pubDate": "2026-11-12T23:04:16.000Z",
+      "image": "https://static01.nyt.com/images/2026/11/12/multimedia/12met-collapse-print-01-plmq/12met-collapse-print-01-plmq-mediumSquareAt3X.jpg",
+      "author": "Troy Closson, Nate Schweber, Andrea Barnes and Michael Levenson",
+      "excerpt": "The Fire Department said the search for victims on Flatbush Avenue was over, while city investigators began looking into an excavation occurring next door.",
+      "source": "NYT"
+    },
+    {
+      "title": "7 People Nvidia Could Consider for Its Next C.E.O.",
+      "link": "https://www.nytimes.com/2026/11/12/technology/jensen-huang-nvidia-successor.html",
+      "pubDate": "2026-11-12T23:02:51.000Z",
+      "image": "https://static01.nyt.com/images/2026/11/12/multimedia/12biz-nvidia-successors-gcht/12biz-nvidia-successors-gcht-mediumSquareAt3X.jpg",
+      "author": "Don Clark",
+      "excerpt": "President Trump suggested Tim Cook, Apple’s former C.E.O., to replace Jensen Huang at Nvidia. Here are others with experience in chips or A.I.",
+      "source": "NYT"
+    },
+    {
+      "title": "Republican Setbacks Swell in the South With Stinging Loss in Mississippi",
+      "link": "https://www.nytimes.com/2026/11/12/us/politics/republican-defeats-south-mississippi-midterms.html",
+      "pubDate": "2026-11-12T22:55:52.000Z",
+      "image": "https://static01.nyt.com/images/2026/11/12/multimedia/12pol-republicans-south-04-cjpt/12pol-republicans-south-04-cjpt-mediumSquareAt3X.jpg",
+      "author": "Tim Balk and Emily Cochrane",
+      "excerpt": "The Democrat Scott Colom’s stunning Senate upset punctuated a dismal midterm showing for the G.O.P. in a region they had dominated for years.",
+      "source": "NYT"
+    },
+    {
+      "title": "An A.I. Titan Resigns",
+      "link": "https://www.nytimes.com/2026/11/12/briefing/nvidia-ceo-resigns-brooklyn-collapse.html",
+      "pubDate": "2026-11-12T22:42:57.000Z",
+      "image": "https://static01.nyt.com/images/2026/11/12/multimedia/12evening-nl-nvidia-huang-clwh/12evening-nl-nvidia-huang-clwh-mediumSquareAt3X.jpg",
+      "author": "Matthew Cullen",
+      "excerpt": "Also, a Brooklyn building collapse kills eight, including two children. Here’s the latest at the end of Thursday.",
+      "source": "NYT"
+    },
+    {
+      "title": "What to Know About the Deadly Building Collapse in Brooklyn",
+      "link": "https://www.nytimes.com/2026/11/12/nyregion/building-collapse-brooklyn-deaths-flatbush-nyc.html",
+      "pubDate": "2026-11-12T22:12:26.000Z",
+      "image": "https://static01.nyt.com/images/2026/12/11/multimedia/11met-building-wtk-pjgk/11met-building-wtk-pjgk-mediumSquareAt3X.jpg",
+      "author": "Maia Coleman",
+      "excerpt": "At least eight people were killed and more than a dozen others injured when a three-story building in Flatbush collapsed on Wednesday, officials said.",
+      "source": "NYT"
+    },
+    {
+      "title": "Mexican Prosecutor Who Helped C.I.A. Secretly Operate in His State Flees to the U.S.",
+      "link": "https://www.nytimes.com/2026/11/12/world/americas/mexico-prosecutor-cia-us.html",
+      "pubDate": "2026-11-12T22:00:29.000Z",
+      "image": "https://static01.nyt.com/images/2026/11/12/multimedia/12int-mexico-chihuahua-qckh/12int-mexico-chihuahua-qckh-mediumSquareAt3X.jpg",
+      "author": "Steve Fisher",
+      "excerpt": "The prosecutor, who faces arrest in Mexico after allowing C.I.A. officers into Chihuahua state, is under the protection of the U.S. government, according to U.S. and Mexican officials.",
+      "source": "NYT"
+    },
+    {
+      "title": "Farewell to Stanley Zabar, the ‘Mayor’ of the Upper West Side",
+      "link": "https://www.nytimes.com/2026/11/12/nyregion/stanley-zabar-upper-west-side.html",
+      "pubDate": "2026-11-12T21:36:55.000Z",
+      "image": "https://static01.nyt.com/images/2026/11/12/multimedia/12met-stanleyzabar-01-wmzb/12met-stanleyzabar-01-wmzb-mediumSquareAt3X.jpg",
+      "author": "Katherine Rosman",
+      "excerpt": "For decades he helped steer Zabar’s, a food institution. He lived for “the store,” his family and his Manhattan neighborhood.",
+      "source": "NYT"
+    },
+    {
+      "title": "Pete Hegseth, a Soldier’s Scolding and a Lesson at the Tomb of Unknowns",
+      "link": "https://www.nytimes.com/2026/11/12/us/politics/pete-hegseth-warrior-image.html",
+      "pubDate": "2026-11-12T21:31:33.000Z",
+      "image": "https://static01.nyt.com/images/2026/11/12/multimedia/12dc-tomb-jmqc/12dc-tomb-jmqc-mediumSquareAt3X.jpg",
+      "author": "Greg Jaffe",
+      "excerpt": "Defense Secretary Pete Hegseth’s highly cultivated brand took a hit during an encounter with an Army sentinel at Arlington Cemetery.",
+      "source": "NYT"
+    },
+    {
+      "title": "Nvidia Stock Tumbles After Jensen Huang Resigns as CEO",
       "link": "https://www.nytimes.com/2026/11/12/business/nvidia-stock-price-jensen-huang-ceo-affair.html",
-      "pubDate": "2026-11-12T18:09:11.000Z",
+      "pubDate": "2026-11-12T21:15:17.000Z",
       "image": "https://static01.nyt.com/images/2026/11/12/multimedia/12biz-nvidia-stock1-bqgj/12biz-nvidia-stock1-bqgj-mediumSquareAt3X.jpg",
       "author": "Aruni Soni, Eshe Nelson and Jason Karaian",
       "excerpt": "News that the chipmaker’s chief executive, Jensen Huang, resigned drove Nvidia’s stock down, though the broader market rose slightly.",
       "source": "NYT"
     },
     {
-      "title": "Democrats Put Targets on Notice as Trump Oversight Takes Shape",
-      "link": "https://www.nytimes.com/2026/11/12/climate/democrats-oversight-committees-letters.html",
-      "pubDate": "2026-11-12T18:07:23.000Z",
-      "image": "https://static01.nyt.com/images/2026/11/12/multimedia/12cli-letters-02b-bhpw/12cli-letters-02b-bhpw-mediumSquareAt3X.jpg",
-      "author": "Evan Halper",
-      "excerpt": "Letters sent by two key House committees tell companies and officials not to destroy documents.",
+      "title": "Jensen Huang, Nvidia’s Ousted CEO, Was the Face of the A.I. Boom Powering the U.S. Economy",
+      "link": "https://www.nytimes.com/2026/11/12/business/economy/jensen-huang-economy-nvidia-ai.html",
+      "pubDate": "2026-11-12T21:05:50.000Z",
+      "image": "https://static01.nyt.com/images/2026/11/12/multimedia/12biz-nvidia-live-economy-mktc/12biz-nvidia-live-economy-mktc-mediumSquareAt3X.jpg",
+      "author": "Ben Casselman",
+      "excerpt": "Nvidia’s ousted leader was a unique rhetorical and financial booster for investments that are driving economic growth.",
       "source": "NYT"
     },
     {
-      "title": "What to Know About the Deadly Building Collapse in Brooklyn",
-      "link": "https://www.nytimes.com/2026/11/12/nyregion/building-collapse-brooklyn-deaths-flatbush-nyc.html",
-      "pubDate": "2026-11-12T18:06:38.000Z",
-      "image": "https://static01.nyt.com/images/2026/12/11/multimedia/11met-building-wtk-pjgk/11met-building-wtk-pjgk-mediumSquareAt3X.jpg",
-      "author": "Maia Coleman, Caitlyn Freeman and Max Bearak",
-      "excerpt": "At least eight people were killed and more than a dozen others injured when a three-story building in Flatbush collapsed, officials said.",
+      "title": "Why 2026 Midterm Polls Underestimated Democratic Support",
+      "link": "https://www.nytimes.com/2026/11/12/us/politics/poll-error-democrats-midterms.html",
+      "pubDate": "2026-11-12T20:29:06.000Z",
+      "image": "https://static01.nyt.com/images/2026/11/06/multimedia/2026-11-05-poll-error-index/2026-11-05-poll-error-index-mediumSquareAt3X-v10.png",
+      "author": "Caroline Soler, Ruth Igielnik and Jillian Vordick",
+      "excerpt": "Democratic gains were expected, but surveys almost uniformly underestimated how well the left would do. Many pollsters seem to have made similar mistakes.",
       "source": "NYT"
     },
     {
-      "title": "One Shot Dead and Four Wounded Around Washington, D.C., Condo Building",
+      "title": "Will the Supreme Court Thwart Congressional Investigations?",
+      "link": "https://www.nytimes.com/2026/11/12/us/politics/the-docket-supreme-court-congressional-investigations.html",
+      "pubDate": "2026-11-12T20:27:03.000Z",
+      "image": "https://static01.nyt.com/images/2026/11/12/multimedia/12thedocket-nl-1-bpzt/12thedocket-nl-1-bpzt-mediumSquareAt3X.jpg",
+      "author": "Adam Liptak",
+      "excerpt": "Lawmakers must dodge rulings on immunity, standing and “valid legislative purpose.”",
+      "source": "NYT"
+    },
+    {
+      "title": "When Bernice Gottlieb Visited a Community of People With Leprosy",
+      "link": "https://www.nytimes.com/2026/11/12/obituaries/bernice-gottlieb-dead.html",
+      "pubDate": "2026-11-12T20:15:34.000Z",
+      "image": null,
+      "author": "Maggie Jones",
+      "excerpt": "By embracing Korean children stigmatized by the disease, she was a leader in the international adoption movement. She has died at 95.",
+      "source": "NYT"
+    },
+    {
+      "title": "Paul LePage, Ex-Governor of Maine, Flips House Seat to Republicans",
+      "link": "https://www.nytimes.com/2026/11/12/sports/paul-lepage-maine-house-race.html",
+      "pubDate": "2026-11-12T19:49:08.000Z",
+      "image": "https://static01.nyt.com/images/2026/11/09/multimedia/00hfo-lepage-01-vflq/00hfo-lepage-01-vflq-mediumSquareAt3X.jpg",
+      "author": "John Yoon",
+      "excerpt": "Paul LePage defeated a progressive Democrat, Matt Dunlap, in the state’s rural Second Congressional District.",
+      "source": "NYT"
+    },
+    {
+      "title": "A Frantic Search for Survivors in the Brooklyn Building Collapse",
+      "link": "https://www.nytimes.com/2026/11/12/nyregion/brooklyn-building-collapse-aftermath.html",
+      "pubDate": "2026-11-12T19:43:09.000Z",
+      "image": "https://static01.nyt.com/images/2026/11/12/lens/BUILDING-IN-ONE-IMAGE-promo/BUILDING-IN-ONE-IMAGE-promo-mediumSquareAt3X.png",
+      "author": "Ana Ley and Dave Sanders",
+      "excerpt": "At one moment, an apartment building was standing. At another, it had tumbled into a hole. Ruin, and death, followed.",
+      "source": "NYT"
+    },
+    {
+      "title": "Trump Says He’s Pulling Vance Off Iran Talks to Focus on Fraud Campaign",
+      "link": "https://www.nytimes.com/2026/11/12/us/politics/trump-vance-iran-fraud.html",
+      "pubDate": "2026-11-12T19:38:36.000Z",
+      "image": "https://static01.nyt.com/images/2026/11/12/multimedia/12dc-trump-vance-top-kgmw/12dc-trump-vance-top-kgmw-mediumSquareAt3X-v2.jpg",
+      "author": "Luke Broadwater",
+      "excerpt": "The announcement on social media deepened questions about what the president’s plan is to end the war. “We don’t need a deal with Iran,” he wrote.",
+      "source": "NYT"
+    },
+    {
+      "title": "Kennedy’s Future: Will Democrats Try to Impeach Him, or Actually Work With Him?",
+      "link": "https://www.nytimes.com/2026/11/12/us/politics/rfk-jr-democrats-impeach.html",
+      "pubDate": "2026-11-12T18:18:11.000Z",
+      "image": "https://static01.nyt.com/images/2026/12/07/multimedia/07DC-RFK-FUTURE-top-mgkj/07DC-RFK-FUTURE-top-mgkj-mediumSquareAt3X.jpg",
+      "author": "Sheryl Gay Stolberg",
+      "excerpt": "Most Democrats abhor the health secretary’s stance on vaccines, but some see an opportunity to win voters from his MAHA movement by joining with him on food and environmental issues.",
+      "source": "NYT"
+    },
+    {
+      "title": "One Dead and Four Wounded in Shooting Around Washington D.C. Condo Building",
       "link": "https://www.nytimes.com/2026/11/12/us/shooting-washington-dc.html",
       "pubDate": "2026-11-12T17:42:19.000Z",
       "image": "https://static01.nyt.com/images/2026/11/12/multimedia/12xp-DC-topart-01-bvck/12xp-DC-topart-01-bvck-mediumSquareAt3X.jpg",
@@ -905,84 +1076,21 @@
       "source": "NYT"
     },
     {
-      "title": "Trump Says He’s Pulling Vance Off Iran Talks to Focus on Fraud Campaign",
-      "link": "https://www.nytimes.com/2026/11/12/us/politics/trump-vance-iran-fraud.html",
-      "pubDate": "2026-11-12T17:36:10.000Z",
-      "image": "https://static01.nyt.com/images/2026/11/12/multimedia/12dc-trump-vance-top-kgmw/12dc-trump-vance-top-kgmw-mediumSquareAt3X-v2.jpg",
-      "author": "Luke Broadwater",
-      "excerpt": "The announcement on social media deepened questions about what the president’s plan is to end the war. “We don’t need a deal with Iran,” he wrote.",
-      "source": "NYT"
-    },
-    {
-      "title": "Singapore Says US Not Helpful on Investigation Into Alice Huang and Megaspeed",
-      "link": "https://www.nytimes.com/2026/11/12/business/nvidia-megaspeed-alice-huang.html",
-      "pubDate": "2026-11-12T17:33:19.000Z",
-      "image": "https://static01.nyt.com/images/2026/11/12/multimedia/12biz-Singapore-Alice-fmtb/12biz-Singapore-Alice-fmtb-mediumSquareAt3X.jpg",
-      "author": "Paul Mozur",
-      "excerpt": "In a statement, Singapore said it held Alice Huang’s passport months after President Trump was briefed that she was a spy.",
-      "source": "NYT"
-    },
-    {
-      "title": "The Woman Who Wanted to Help the St. Lazarus Children",
-      "link": "https://www.nytimes.com/2026/11/12/obituaries/bernice-gottlieb-dead.html",
-      "pubDate": "2026-11-12T17:15:32.000Z",
-      "image": null,
-      "author": "Maggie Jones",
-      "excerpt": "By embracing Korean children living in leprosy communities, Bernice Gottlieb was a leader in the international adoption movement. She has died at 95.",
+      "title": "I Saw the Future of Mind-Reading",
+      "link": "https://www.nytimes.com/2026/11/12/opinion/mind-reading-ai.html",
+      "pubDate": "2026-11-12T17:20:50.000Z",
+      "image": "https://static01.nyt.com/images/2026/07/08/opinion/00paglen-7/00paglen-7-mediumSquareAt3X.jpg",
+      "author": "Trevor Paglen",
+      "excerpt": "Thanks to A.I., it’s more possible than ever to glean the inner recesses of a person’s mind. The implications are big — and unnerving.",
       "source": "NYT"
     },
     {
       "title": "We Were Warned of Deceptive A.I. Fakes. We Got Memes.",
       "link": "https://www.nytimes.com/2026/11/12/technology/artifical-intelligence-fakes-midterm-memes.html",
-      "pubDate": "2026-11-12T17:13:28.000Z",
+      "pubDate": "2026-11-12T17:13:29.000Z",
       "image": null,
       "author": "Stuart A. Thompson",
       "excerpt": "The surge of A.I. fakes that emerged this election season was different than what researchers had feared. The results are also a reckoning.",
-      "source": "NYT"
-    },
-    {
-      "title": "Hospitals Brace for Medicaid Work Rules and Deep Funding Cuts",
-      "link": "https://www.nytimes.com/2026/11/11/business/hospitals-medicaid-cuts.html",
-      "pubDate": "2026-11-12T17:07:15.000Z",
-      "image": "https://static01.nyt.com/images/2026/11/10/multimedia/10biz-medicaid-01-zkhw/10biz-medicaid-01-zkhw-mediumSquareAt3X-v2.jpg",
-      "author": "Christopher Rowland",
-      "excerpt": "Health systems are racing to guide millions of patients through new eligibility hoops, slated to go into effect Jan. 1.",
-      "source": "NYT"
-    },
-    {
-      "title": "Will the Supreme Court Thwart Congressional Investigations?",
-      "link": "https://www.nytimes.com/2026/11/12/us/politics/the-docket-supreme-court-congressional-investigations.html",
-      "pubDate": "2026-11-12T17:05:34.000Z",
-      "image": "https://static01.nyt.com/images/2026/11/12/multimedia/12thedocket-nl-1-bpzt/12thedocket-nl-1-bpzt-mediumSquareAt3X.jpg",
-      "author": "Adam Liptak",
-      "excerpt": "Lawmakers must dodge rulings on immunity, standing and “valid legislative purpose.”",
-      "source": "NYT"
-    },
-    {
-      "title": "The First Thing Democrats Should Do to Show They’re Serious on Affordability",
-      "link": "https://www.nytimes.com/2026/11/12/opinion/democrats-congress-affordability-reform.html",
-      "pubDate": "2026-11-12T16:56:46.000Z",
-      "image": "https://static01.nyt.com/images/2026/11/12/opinion/12climate-editorial-image/12climate-editorial-image-mediumSquareAt3X.jpg",
-      "author": "The Editorial Board",
-      "excerpt": "A party that just won an election on affordability should not pass up a chance to deliver immediately.",
-      "source": "NYT"
-    },
-    {
-      "title": "Excavation Was Taking Place Next to Building in Brooklyn That Collapsed",
-      "link": "https://www.nytimes.com/2026/11/12/nyregion/brooklyn-building-collapse-excavation-work.html",
-      "pubDate": "2026-11-12T16:09:11.000Z",
-      "image": "https://static01.nyt.com/images/2026/11/12/multimedia/12met-building-collapse-live-scene-hvqk/12met-building-collapse-live-scene-hvqk-mediumSquareAt3X.jpg",
-      "author": "Sharon Otterman and Max Bearak",
-      "excerpt": "New York City officials had ordered work at the construction site to stop after an apartment building in the Flatbush neighborhood collapsed onto it.",
-      "source": "NYT"
-    },
-    {
-      "title": "What to Know About New Prostate Cancer Screening Recommendations",
-      "link": "https://www.nytimes.com/2026/11/12/well/prostate-cancer-screening-guideline.html",
-      "pubDate": "2026-11-12T15:04:01.000Z",
-      "image": "https://static01.nyt.com/images/2026/11/12/well/12WELL-ACS-PROSTATE2/12WELL-ACS-PROSTATE2-mediumSquareAt3X.jpg",
-      "author": "Nina Agrawal",
-      "excerpt": "Universal screening for the disease has long been a subject of controversy.",
       "source": "NYT"
     },
     {
@@ -995,84 +1103,12 @@
       "source": "NYT"
     },
     {
-      "title": "Who Is Colette Kress, the Interim Nvidia CEO Replacing Jensen Huang?",
-      "link": "https://www.nytimes.com/2026/11/12/business/nvidia-colette-kress-jensen-huang.html",
-      "pubDate": "2026-11-12T14:35:18.000Z",
-      "image": "https://static01.nyt.com/images/2026/11/12/multimedia/12biz-nvidia-CFO-topart-mzjt/12biz-nvidia-CFO-topart-mzjt-mediumSquareAt3X.jpg",
-      "author": "Adam Satariano",
-      "excerpt": "Ms. Kress, the company’s chief financial officer, joined Nvidia in 2013.",
-      "source": "NYT"
-    },
-    {
-      "title": "In Mississippi, Scott Colom Supporters Celebrate Historic Senate Win",
-      "link": "https://www.nytimes.com/2026/11/12/us/elections/mississippi-colom-senate-race-black-voters.html",
-      "pubDate": "2026-11-12T14:14:44.000Z",
-      "image": "https://static01.nyt.com/images/2026/11/12/multimedia/12pol-Black-voters-rejoice-hjvw/12pol-Black-voters-rejoice-hjvw-mediumSquareAt3X.jpg",
-      "author": "Emily Cochrane and Jennifer Medina",
-      "excerpt": "At Tougaloo College, supporters danced and wept over Scott Colom’s victory. He will be Mississippi’s first Black U.S. senator since the Reconstruction era.",
-      "source": "NYT"
-    },
-    {
-      "title": "Democrats Have Power Now. They Shouldn’t Waste It on Woke.",
-      "link": "https://www.nytimes.com/2026/11/12/opinion/interesting-times-christine-rosen-catherine-liu.html",
-      "pubDate": "2026-11-12T10:50:34.000Z",
-      "image": "https://static01.nyt.com/images/2026/11/12/opinion/12itpod-liu/12itpod-liu-mediumSquareAt3X.jpg",
-      "author": "Christine Rosen and Sophia Muniz",
-      "excerpt": "This leftist thinker is skeptical that they can govern without lecturing the country.",
-      "source": "NYT"
-    },
-    {
-      "title": "Takeaways From the Times’s Report on Aviation Safety",
-      "link": "https://www.nytimes.com/2026/11/12/magazine/safety-air-travel-takeaways.html",
-      "pubDate": "2026-11-12T10:03:52.000Z",
-      "image": null,
-      "author": "James Fallows",
-      "excerpt": "How alarmed should we be about the state of air travel?",
-      "source": "NYT"
-    },
-    {
       "title": "What the Retail Greeting ‘Welcome in’ Says About What Customers Really Want",
       "link": "https://www.nytimes.com/2026/11/12/magazine/welcome-in-retail.html",
-      "pubDate": "2026-11-12T10:03:00.000Z",
+      "pubDate": "2026-11-12T10:03:01.000Z",
       "image": null,
       "author": "Nitsuh Abebe",
       "excerpt": "The phrase has started showing up everywhere. It reveals a lot about our discomforts with both human and robotic interactions.",
-      "source": "NYT"
-    },
-    {
-      "title": "Why New England’s Republican Governors Withstood the Blue Wave",
-      "link": "https://www.nytimes.com/2026/11/12/us/scott-vermont-ayotte-nh-governor-republican.html",
-      "pubDate": "2026-11-12T10:02:42.000Z",
-      "image": null,
-      "author": "Jenna Russell",
-      "excerpt": "The low-key approach modeled by Gov. Phil Scott of Vermont and Gov. Kelly Ayotte of New Hampshire may gain new relevance as their party looks to recover from a national drubbing.",
-      "source": "NYT"
-    },
-    {
-      "title": "Is Air Travel Getting Less Safe?",
-      "link": "https://www.nytimes.com/2026/11/12/magazine/air-travel-safety-faa-aviation.html",
-      "pubDate": "2026-11-12T10:01:45.000Z",
-      "image": null,
-      "author": "James Fallows",
-      "excerpt": "Experts fear the Trump administration is ignoring the enormous strain on the U.S. aviation system, even as accidents and close calls increase.",
-      "source": "NYT"
-    },
-    {
-      "title": "Scott Colom, a Democrat, Wins Mississippi Senate Election",
-      "link": "https://www.nytimes.com/2026/11/11/us/elections/mississippi-senate-colom-hyde-smith.html",
-      "pubDate": "2026-11-12T09:11:08.000Z",
-      "image": "https://static01.nyt.com/images/2026/11/11/multimedia/11pol-ms-senate/11midterms-02-jgqm-mediumSquareAt3X.jpg",
-      "author": "Emily Cochrane",
-      "excerpt": "Mr. Colom, a prosecutor, will be the first Black senator elected from Mississippi since the post-Civil War Reconstruction period.",
-      "source": "NYT"
-    },
-    {
-      "title": "Bruce Giudici Is on the Cusp of Victory in This California Election. He Died Months Ago. ",
-      "link": "https://www.nytimes.com/2026/11/11/us/california-election-dead-candidate.html",
-      "pubDate": "2026-11-12T00:52:42.000Z",
-      "image": null,
-      "author": "Alan Blinder",
-      "excerpt": "In a race for a board of supervisors seat in California, a dead candidate holds a huge lead.",
       "source": "NYT"
     }
   ]
