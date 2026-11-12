@@ -1,6 +1,24 @@
 {
   "spaceNews": [
     {
+      "title": "Senate committee takes up nominees for NASA chief financial officer and inspector general",
+      "link": "https://spacenews.com/senate-committee-takes-up-nominees-for-nasa-chief-financial-officer-and-inspector-general/",
+      "pubDate": "2026-11-12T00:00:18.000Z",
+      "image": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/11/steinau.jpeg?fit=1024%2C576&amp;ssl=1",
+      "author": "Jeff Foust",
+      "excerpt": "A Senate committee is set to advance nominations for NASA’s chief financial officer and inspector general. The post Senate committee takes up nominees for NASA chief financial officer and inspector general appeared first on SpaceNews.",
+      "source": "SpaceNews"
+    },
+    {
+      "title": "Space Force activates special operations component command in Tampa",
+      "link": "https://www.spaceforce.mil/News/Article-Display/Article/4646632/space-force-activates-special-operations-component-command-in-tampa/",
+      "pubDate": "2026-11-11T19:59:00.000Z",
+      "image": "https://media.defense.gov/2026/Nov/11/2004026100/700/700/0/261102-F-SI788-3536.JPG",
+      "author": "Pentagon News",
+      "excerpt": "Headquartered at MacDill AFB, SPACEFOR-SOC organizes and presents specialized forces – known as SOF Guardians – to Theater Special Operations Commands and Joint Task Forces worldwide.",
+      "source": "Space Force"
+    },
+    {
       "title": "SpaceX aims to safely land Starship and booster stage after orbital flight",
       "link": "https://www.newscientist.com/article/2598233-spacex-aims-to-safely-land-starship-and-booster-stage-after-orbital-flight/?utm_campaign=RSS|NSNS&utm_content=space&utm_medium=RSS&utm_source=NSNS",
       "pubDate": "2026-11-11T17:00:00.000Z",
@@ -764,15 +782,6 @@
       "author": "Pentagon News",
       "excerpt": "The USSF is implementing a commercial acquisition strategy using Commercial Solutions Openings to enhance satellite command and control capabilities.",
       "source": "Space Force"
-    },
-    {
-      "title": "Chief of Space Operations Schiess outlines priorities to strengthen Space Force combat power",
-      "link": "https://www.spaceforce.mil/News/Article-Display/Article/4602550/chief-of-space-operations-schiess-outlines-priorities-to-strengthen-space-force/",
-      "pubDate": "2026-09-16T13:50:00.000Z",
-      "image": "https://media.defense.gov/2026/Sep/16/2003998462/700/700/0/260916-F-AF999-1014.JPG",
-      "author": "TSgt. William O'Brien",
-      "excerpt": "CSO Gen. Douglas Schiess outlined three priorities for his tenure: forging the Guardian ethos, arming and growing the force, and integrating Guardian power at scale. He emphasized strengthening combat power and delivering space power directly to the Joint Force.",
-      "source": "Space Force"
     }
   ],
   "industryNews": [
@@ -869,12 +878,165 @@
   ],
   "nytNews": [
     {
+      "title": "Republicans Begin Aggressive Lame-Duck Push to Install Trump Judges",
+      "link": "https://www.nytimes.com/2026/11/11/us/trump-federal-judges-senate-republicans.html",
+      "pubDate": "2026-11-12T01:27:59.000Z",
+      "image": "https://static01.nyt.com/images/2026/11/11/multimedia/11DC-JUDGES-mpzg/11DC-JUDGES-mpzg-mediumSquareAt3X.jpg",
+      "author": "Carl Hulse",
+      "excerpt": "The G.O.P. intends to win confirmation of about two dozen federal judges before the party loses power. But Democrats promise to do what they can to stop them.",
+      "source": "NYT"
+    },
+    {
+      "title": "Judge Richard A. Posner Has Died. His Influence in Law Was Beyond Compare.",
+      "link": "https://www.nytimes.com/2026/11/11/us/richard-posner-dead.html",
+      "pubDate": "2026-11-12T01:25:57.000Z",
+      "image": "https://static01.nyt.com/images/2026/11/11/multimedia/11posner-fvcz/11posner-fvcz-mediumSquareAt3X.jpg",
+      "author": "Adam Liptak",
+      "excerpt": "He was the most-cited legal scholar of the latter half of the 20th century and an unapologetic iconoclast, favoring pragmatism over judicial tradition. He was 87.",
+      "source": "NYT"
+    },
+    {
+      "title": "Brooklyn Building Collapses, Killing 1 and Injuring Others in Flatbush, NY",
+      "link": "https://www.nytimes.com/2026/11/11/nyregion/brooklyn-building-collapse.html",
+      "pubDate": "2026-11-12T01:17:56.000Z",
+      "image": null,
+      "author": "Sharon Otterman and Sarah Chatta",
+      "excerpt": "The three-story structure",
+      "source": "NYT"
+    },
+    {
+      "title": "ICE Officer Involved in Maine Shooting Expressed Hatred of Immigrants",
+      "link": "https://www.nytimes.com/2026/11/11/us/david-brouillette-ice-maine-shooting-anti-immigrant-hatred.html",
+      "pubDate": "2026-11-12T01:09:47.000Z",
+      "image": null,
+      "author": "Katie Benner and Alexandra Berzon",
+      "excerpt": "The agent talked of foreign bloodlines, denounced noncitizens and more, according to emails obtained by The Times. His fatal shooting of a Colombian-born motorist in July remains under investigation.",
+      "source": "NYT"
+    },
+    {
+      "title": "Jensen Huang Said to Have Had Relationship With Nvidia Executive Who Reports to Him",
+      "link": "https://www.nytimes.com/2026/11/11/technology/jensen-huang-nvidia-affair.html",
+      "pubDate": "2026-11-12T01:07:58.000Z",
+      "image": "https://static01.nyt.com/images/2026/11/11/multimedia/00Biz-Huang-Relationship-wlgb/00Biz-Huang-Relationship-wlgb-mediumSquareAt3X.jpg",
+      "author": "Ryan Mac, Tripp Mickle and Georgia Gee",
+      "excerpt": "Mr. Huang, Nvidia’s chief executive, is already facing scrutiny over an affair with a Chinese businesswoman who U.S. intelligence determined was a Chinese spy.",
+      "source": "NYT"
+    },
+    {
+      "title": "Blue Texas? Battleground Kansas? Both Parties Wonder if the Map Has Shifted.",
+      "link": "https://www.nytimes.com/2026/11/11/us/blue-texas-battleground-kansas-both-parties-wonder-if-the-map-has-shifted.html",
+      "pubDate": "2026-11-12T00:53:41.000Z",
+      "image": "https://static01.nyt.com/images/2026/11/10/multimedia/10pol-future-map-mtbw/10pol-future-map-mtbw-mediumSquareAt3X.jpg",
+      "author": "Jess Bidgood",
+      "excerpt": "The breadth of Democrats’ midterm victories has raised new questions about which states will be competitive going forward — particularly Texas, a crown jewel in the Electoral College.",
+      "source": "NYT"
+    },
+    {
+      "title": "Nvidia Shares Plummet as Board Is Said to Consider C.E.O.’s Future",
+      "link": "https://www.nytimes.com/2026/11/11/business/nvidia-stock-jensen-huang-ceo.html",
+      "pubDate": "2026-11-12T00:53:16.000Z",
+      "image": null,
+      "author": "Michael Corkery and Jason Karaian",
+      "excerpt": "News of the board’s deliberations about Jensen Huang’s job drove Nvidia’s stock down more than 8 percent in after-hours trading.",
+      "source": "NYT"
+    },
+    {
+      "title": "Soldier Shouts Toward Hegseth to Show ‘Respect’ at Tomb of the Unknown Soldier",
+      "link": "https://www.nytimes.com/2026/11/11/us/politics/hegseth-tomb-unknown-solider-shout.html",
+      "pubDate": "2026-11-12T00:53:14.000Z",
+      "image": "https://static01.nyt.com/images/2026/11/11/multimedia/11xp-tomb-vkjz/11xp-tomb-vkjz-mediumSquareAt3X-v2.jpg",
+      "author": "Mack Liederman",
+      "excerpt": "A Pentagon spokesman said the sentinel had “reminded everyone to maintain decorum” after laughter was heard from a group visiting the burial site with the Defense Secretary on Wednesday.",
+      "source": "NYT"
+    },
+    {
+      "title": "How The Times Covered Mississippi’s Senate Race, Which Unexpectedly Became a Nail-Biter",
+      "link": "https://www.nytimes.com/2026/11/11/insider/mississippi-senate-race-coverage.html",
+      "pubDate": "2026-11-12T00:52:07.000Z",
+      "image": "https://static01.nyt.com/images/2026/11/10/multimedia/10nat-mississippi-senate-bglh/10nat-mississippi-senate-bglh-mediumSquareAt3X.jpg",
+      "author": "Patrick Healy, Megan DiTrolio, Michael Cooper, Jonathan Weisman and Emily Cochrane",
+      "excerpt": "Three Times journalists break down the twists and turns in a race that captured national attention.",
+      "source": "NYT"
+    },
+    {
+      "title": "How Democrats Invested Online to Overcome Their Cash Disadvantage",
+      "link": "https://www.nytimes.com/2026/11/11/us/politics/democrats-digital-spending-midterm-election.html",
+      "pubDate": "2026-11-12T00:30:45.000Z",
+      "image": "https://static01.nyt.com/images/2026/11/11/multimedia/11pol-dems-digital-topart-02-jvmc/11pol-dems-digital-topart-02-jvmc-mediumSquareAt3X.jpg",
+      "author": "Emily Davies",
+      "excerpt": "Strategists for Senate Democrats say they spent record sums reaching voters, particularly younger ones, on nontraditional platforms such as YouTube and various streaming sites.",
+      "source": "NYT"
+    },
+    {
+      "title": "Democrats Face Backlash After Missing Hegseth Impeachment Vote",
+      "link": "https://www.nytimes.com/2026/11/11/us/politics/democrats-backlash-missing-hegseth-impeachment-vote.html",
+      "pubDate": "2026-11-12T00:21:37.000Z",
+      "image": "https://static01.nyt.com/images/2026/11/11/multimedia/11dc-democrats-zjvh/11dc-democrats-zjvh-mediumSquareAt3X.jpg",
+      "author": "Robert Jimison",
+      "excerpt": "Eleven Democrats were absent, helping Republicans shelve the charges against the defense secretary. It drew sharp criticism a week after the party’s sweeping election victories.",
+      "source": "NYT"
+    },
+    {
       "title": "The S.S. United States, a Historic Supership, Heads to the Ocean Floor",
       "link": "https://www.nytimes.com/2026/11/11/climate/ss-united-states-ship-sinking-artificial-reef-florida.html",
-      "pubDate": "2026-11-11T18:35:27.000Z",
+      "pubDate": "2026-11-12T00:15:56.000Z",
       "image": "https://static01.nyt.com/images/2026/11/11/multimedia/11cli-sinking-the-united-states-stillpromo-fhbq/11cli-sinking-the-united-states-stillpromo-fhbq-mediumSquareAt3X.jpg",
       "author": "Jesse Pesta and Micah Green",
       "excerpt": "The 20th-century ocean liner will become an artificial reef, ending efforts to save a ship that was fast, luxurious and (almost) indestructible. Watch the livestream.",
+      "source": "NYT"
+    },
+    {
+      "title": "Nvidia’s Board Is Meeting to Discuss Jensen Huang’s Future",
+      "link": "https://www.nytimes.com/2026/11/11/technology/nvidia-jensen-huang.html",
+      "pubDate": "2026-11-11T23:32:14.000Z",
+      "image": "https://static01.nyt.com/images/2026/11/11/multimedia/00biz-jensen-huang-gzlb/00biz-jensen-huang-gzlb-mediumSquareAt3X-v2.jpg",
+      "author": "Tripp Mickle and Maggie Haberman",
+      "excerpt": "Mr. Huang has been under scrutiny for an affair with a woman said to be a Chinese spy, as well as a relationship with an executive at his A.I. chip company.",
+      "source": "NYT"
+    },
+    {
+      "title": "An 8-Year-Old Was Separated From Family and Taken by ICE at a Check-In",
+      "link": "https://www.nytimes.com/2026/11/11/us/ice-detains-8-year-old.html",
+      "pubDate": "2026-11-11T22:00:56.000Z",
+      "image": null,
+      "author": "Miriam Jordan",
+      "excerpt": "The third grader from Haiti had been living with his uncle’s family since his father was deported last year. From a shelter where ICE sent him, “he cried and just begged to come home.”",
+      "source": "NYT"
+    },
+    {
+      "title": "The Political Center of Gravity Isn’t Trump. It’s Obama.",
+      "link": "https://www.nytimes.com/2026/11/11/opinion/midterms-politics-culture.html",
+      "pubDate": "2026-11-11T21:21:16.000Z",
+      "image": null,
+      "author": "David Wallace-Wells",
+      "excerpt": "America just isn’t a center-right country.",
+      "source": "NYT"
+    },
+    {
+      "title": "After Hegseth Impeachment Vote Fails, Massie Vows More Tough Votes for GOP In His Final Days",
+      "link": "https://www.nytimes.com/2026/11/11/us/politics/massie-trump-difficult-republican-votes.html",
+      "pubDate": "2026-11-11T20:42:33.000Z",
+      "image": "https://static01.nyt.com/images/2026/11/11/multimedia/11dc-massie-fkcm/11dc-massie-fkcm-mediumSquareAt3X.jpg",
+      "author": "Catie Edmondson",
+      "excerpt": "Representative Thomas Massie, the Kentucky Republican, said he would use his waning time in office to prod his party to vote for “sanity” and break with President Trump.",
+      "source": "NYT"
+    },
+    {
+      "title": "Trump Hints at Immigration Deal, Then Reverses. He’s Done That Before.",
+      "link": "https://www.nytimes.com/2026/11/11/us/politics/trump-immigration-election-democrats-republicans.html",
+      "pubDate": "2026-11-11T19:50:05.000Z",
+      "image": "https://static01.nyt.com/images/2025/11/20/multimedia/11dc-trump-immig/20DC-IMMIG-FINES-bzth-mediumSquareAt3X.jpg",
+      "author": "Zolan Kanno-Youngs",
+      "excerpt": "Democrats and some Republicans say President Trump is missing an opportunity to find consensus on an issue that has bedeviled past administrations.",
+      "source": "NYT"
+    },
+    {
+      "title": "I Visited Big Bear Lake’s Famous Bald Eagles and Found Very Human Shenanigans",
+      "link": "https://www.nytimes.com/2026/11/11/magazine/eagle-cam-big-bear-lake.html",
+      "pubDate": "2026-11-11T18:50:57.000Z",
+      "image": "https://static01.nyt.com/images/2026/11/22/magazine/22mag-Eagle-05/22mag-Eagle-05-mediumSquareAt3X.jpg",
+      "author": "Sam Anderson",
+      "excerpt": "My I.R.L. adventures in the strange human world behind the enormously popular livestreaming eagle cam.",
       "source": "NYT"
     },
     {
@@ -896,48 +1058,12 @@
       "source": "NYT"
     },
     {
-      "title": "Raman and the D.S.A.: Wariness, Skepticism and Hope",
-      "link": "https://www.nytimes.com/2026/11/11/us/politics/raman-los-angeles-democratic-socialist.html",
-      "pubDate": "2026-11-11T18:04:46.000Z",
-      "image": "https://static01.nyt.com/images/2026/11/11/multimedia/11nat-raman-dsa-cwjz/11nat-raman-dsa-cwjz-mediumSquareAt3X.jpg",
-      "author": "Jill Cowan",
-      "excerpt": "Democratic socialists had another success with Ms. Raman’s ascent to the Los Angeles mayoralty. But she is no sure bet to align with all of the group’s priorities.",
-      "source": "NYT"
-    },
-    {
       "title": "U.S. Efforts to Tighten Blockade of Iran Rely on Reluctant Neighbors",
       "link": "https://www.nytimes.com/2026/11/11/world/middleeast/us-blockade-iran-taskforce-iron-gate.html",
       "pubDate": "2026-11-11T18:02:52.000Z",
       "image": "https://static01.nyt.com/images/2026/11/11/multimedia/00int-iran-blockade-01-fvqw/00int-iran-blockade-01-fvqw-mediumSquareAt3X.jpg",
       "author": "Erika Solomon, Eric Schmitt and Tyler Pager",
       "excerpt": "Washington wants to intensify its economic pressure campaign on Iran by closing its land borders. Neighboring states, fearing economic fallout, are pushing back.",
-      "source": "NYT"
-    },
-    {
-      "title": "My I.R.L. Adventures in the Land of the Eagle Cam",
-      "link": "https://www.nytimes.com/2026/11/11/magazine/eagle-cam-big-bear-lake.html",
-      "pubDate": "2026-11-11T17:33:13.000Z",
-      "image": "https://static01.nyt.com/images/2026/11/22/magazine/22mag-Eagle-05/22mag-Eagle-05-mediumSquareAt3X.jpg",
-      "author": "Sam Anderson",
-      "excerpt": "I traveled to Big Bear Lake, home of a viral live feed of an eagle’s nest, and found very human shenanigans.",
-      "source": "NYT"
-    },
-    {
-      "title": "Silicon Valley Tech Allies Support Jensen Huang",
-      "link": "https://www.nytimes.com/2026/11/11/technology/jensen-huang-affair-nvidia-support.html",
-      "pubDate": "2026-11-11T17:29:52.000Z",
-      "image": "https://static01.nyt.com/images/2026/11/10/multimedia/10biz-jensen-support-cmpv/10biz-jensen-support-cmpv-mediumSquareAt3X.jpg",
-      "author": "Emmy Martin",
-      "excerpt": "Elon Musk and other Silicon Valley figures cast the Nvidia chief’s relationship with a woman believed to be a Chinese spy as a personal lapse, not a security failure.",
-      "source": "NYT"
-    },
-    {
-      "title": "Heating Costs Will Rise 7% on Average This Winter",
-      "link": "https://www.nytimes.com/2026/11/11/business/energy-environment/winter-heating-oil-costs.html",
-      "pubDate": "2026-11-11T17:16:17.000Z",
-      "image": "https://static01.nyt.com/images/2026/11/11/multimedia/11biz-heating-oil-pwlv/11biz-heating-oil-pwlv-mediumSquareAt3X.jpg",
-      "author": "Ivan Penn",
-      "excerpt": "People who use heating oil will see increases of around 70 percent because the war in Iran has greatly reduced supply of that fuel.",
       "source": "NYT"
     },
     {
@@ -950,69 +1076,6 @@
       "source": "NYT"
     },
     {
-      "title": "Trump. Miller. Blanche. Jordan. Things Could Get Worse, and They Probably Will.",
-      "link": "https://www.nytimes.com/2026/11/11/opinion/trump-miller-blanche-jordan.html",
-      "pubDate": "2026-11-11T17:09:18.000Z",
-      "image": "https://static01.nyt.com/images/2026/11/11/multimedia/11labash-gmpf/11labash-gmpf-mediumSquareAt3X.jpg",
-      "author": "Matt Labash",
-      "excerpt": "Yes, his party was routed in the midterms, but this president doesn’t do humility.",
-      "source": "NYT"
-    },
-    {
-      "title": "For Families of Those Who Died in the Iran War, a Veterans Day of Profound Loss",
-      "link": "https://www.nytimes.com/2026/11/11/us/iran-war-deaths-survivors-veterans-day.html",
-      "pubDate": "2026-11-11T16:09:40.000Z",
-      "image": "https://static01.nyt.com/images/2026/11/11/multimedia/11nat-iran-veterans-SWAP2-bqvw/11nat-iran-veterans-SWAP2-bqvw-mediumSquareAt3X.jpg",
-      "author": "Christina Morales",
-      "excerpt": "Military families are navigating feelings of grief, pride and anger, as well as seeking answers about the deaths of their loved ones.",
-      "source": "NYT"
-    },
-    {
-      "title": "The Moderates Who Chose Democrats. For Now.",
-      "link": "https://www.nytimes.com/2026/11/11/us/elections/trump-voters-democrats-priorities.html",
-      "pubDate": "2026-11-11T16:04:44.000Z",
-      "image": "https://static01.nyt.com/images/2026/11/10/multimedia/00nat-flippers-01-mzlc/00nat-flippers-01-mzlc-mediumSquareAt3X.jpg",
-      "author": "Sabrina Tavernise and Ann Hinga Klein",
-      "excerpt": "Does Democratic success with the political middle signal a broad realignment in the country? Or is it a temporary turn away from an unpopular president?",
-      "source": "NYT"
-    },
-    {
-      "title": "Incoming House Intelligence Chairman Vows Oversight of CIA’s Use of Covert Action",
-      "link": "https://www.nytimes.com/2026/11/11/us/politics/jim-himes-cia-house-intelligence-oversight.html",
-      "pubDate": "2026-11-11T15:27:51.000Z",
-      "image": "https://static01.nyt.com/images/2026/11/10/us/dc-intel/dc-intel-mediumSquareAt3X.jpg",
-      "author": "Dustin Volz and Julian E. Barnes",
-      "excerpt": "Representative Jim Himes, who will run the powerful intelligence committee in the new Congress, said he also planned to scrutinize contractor donations to President Trump’s construction projects.",
-      "source": "NYT"
-    },
-    {
-      "title": "ICE Officer Involved in Maine Shooting Expressed Hatred of Immigrants",
-      "link": "https://www.nytimes.com/2026/11/11/us/david-brouillette-ice-maine-shooting-anti-immigrant-hatred.html",
-      "pubDate": "2026-11-11T15:24:19.000Z",
-      "image": null,
-      "author": "Katie Benner and Alexandra Berzon",
-      "excerpt": "The agent talked of foreign bloodlines, denounced noncitizens and more, according to emails obtained by The Times. His fatal shooting of a Colombian-born motorist in July remains under investigation.",
-      "source": "NYT"
-    },
-    {
-      "title": "Nvidia Scandal Unveils a Fierce Spy War Raging Behind Trump and Xi’s Diplomacy",
-      "link": "https://www.nytimes.com/2026/11/11/world/asia/china-us-nvidia.html",
-      "pubDate": "2026-11-11T14:57:07.000Z",
-      "image": "https://static01.nyt.com/images/2026/11/11/multimedia/11int-china-spying-diplo-01-gzlf/11int-china-spying-diplo-01-gzlf-mediumSquareAt3X.jpg",
-      "author": "David Pierson",
-      "excerpt": "That the United States suspected Nvidia’s leader was a Chinese spy target underscores the deep distrust between the two powers, even as their leaders try to stabilize ties.",
-      "source": "NYT"
-    },
-    {
-      "title": "Nvidia Scandal Puts Lori Huang, Jensen Huang’s Wife, In the Spotlight",
-      "link": "https://www.nytimes.com/2026/11/11/technology/jensen-huang-affair-lori-huang.html",
-      "pubDate": "2026-11-11T14:46:43.000Z",
-      "image": "https://static01.nyt.com/images/2026/11/10/multimedia/jensen-wife-jwtz/jensen-wife-jwtz-mediumSquareAt3X.jpg",
-      "author": "Erin Griffith and Don Clark",
-      "excerpt": "Lori Huang, who has been married to the Nvidia chief executive for more than 40 years, stands out among tech titan spouses for how private she has been.",
-      "source": "NYT"
-    },
-    {
       "title": "The View From Space the U.S. Government Doesn’t Want You to See",
       "link": "https://www.nytimes.com/2026/11/11/opinion/satellite-images-us-government.html",
       "pubDate": "2026-11-11T13:58:18.000Z",
@@ -1022,66 +1085,12 @@
       "source": "NYT"
     },
     {
-      "title": "How a Suspected Chinese Spy Gained Access to Nvidia Chips",
-      "link": "https://www.nytimes.com/video/business/100000011273241/alice-huang-nvidia-china-spy.html",
-      "pubDate": "2026-11-11T13:48:52.000Z",
-      "image": null,
-      "author": "Ana Swanson, Nour Idriss, Stephanie Swart, Whitney Shefte and Pierre Kattar",
-      "excerpt": "A woman whom U.S. intelligence identified as a Chinese spy had ties to Nvidia’s chief executive, Jensen Huang, dating to at least 2023. Ana Swanson, our reporter on trade and economics, explains what new photos show.",
-      "source": "NYT"
-    },
-    {
-      "title": "The Fed Has to Raise Rates. How Fast to Go Has Officials Divided.",
-      "link": "https://www.nytimes.com/2026/11/11/business/fed-interest-rates-inflation.html",
-      "pubDate": "2026-11-11T13:40:22.000Z",
-      "image": "https://static01.nyt.com/images/2026/11/11/multimedia/11dc-fed-gbfm/11dc-fed-gbfm-mediumSquareAt3X.jpg",
-      "author": "Colby Smith",
-      "excerpt": "The Federal Reserve’s gradual approach to raising rates is being tested by intensifying price pressures.",
-      "source": "NYT"
-    },
-    {
-      "title": "Red Flags",
-      "link": "https://www.nytimes.com/2026/11/11/briefing/maine-ice-shooting.html",
-      "pubDate": "2026-11-11T11:54:20.000Z",
-      "image": null,
-      "author": "Sam Sifton",
-      "excerpt": "We look into the history of the ICE officer who fatally shot a Colombian migrant in Maine.",
-      "source": "NYT"
-    },
-    {
-      "title": "A New Democratic-Tied Dark-Money Group Draws Scrutiny Over Midterm Spending",
-      "link": "https://www.nytimes.com/2026/11/11/us/democratic-dark-money-super-pac-complaint.html",
-      "pubDate": "2026-11-11T10:04:13.000Z",
-      "image": "https://static01.nyt.com/images/2026/11/11/multimedia/11pol-dem-dark-money-zmwp/11pol-dem-dark-money-zmwp-mediumSquareAt3X.jpg",
-      "author": "Theodore Schleifer",
-      "excerpt": "More money in the political system is coming from shadowy nonprofits that appear out of nowhere and start spending big with little disclosure.",
-      "source": "NYT"
-    },
-    {
-      "title": "Blue Texas? Battleground Kansas? Both Parties Wonder if the Map Has Shifted.",
-      "link": "https://www.nytimes.com/2026/11/11/us/blue-texas-battleground-kansas-both-parties-wonder-if-the-map-has-shifted.html",
-      "pubDate": "2026-11-11T10:02:37.000Z",
-      "image": "https://static01.nyt.com/images/2026/11/10/multimedia/10pol-future-map-mtbw/10pol-future-map-mtbw-mediumSquareAt3X.jpg",
-      "author": "Jess Bidgood",
-      "excerpt": "The breadth of Democrats’ midterm victories has raised new questions about which states will be competitive going forward — particularly Texas, a crown jewel in the Electoral College.",
-      "source": "NYT"
-    },
-    {
-      "title": "Subtle Changes in Speech May Help Predict Dementia Risk",
-      "link": "https://www.nytimes.com/2026/11/11/well/speech-changes-speed-test-alzheimers-dementia.html",
-      "pubDate": "2026-11-11T10:00:09.000Z",
-      "image": "https://static01.nyt.com/images/2026/11/11/multimedia/11WELL-SPEECH-DEMENTIA16-promo/11WELL-SPEECH-DEMENTIA16-zfcg-mediumSquareAt3X.jpg",
-      "author": "Pam Belluck and Cassandra Klos for The New York Times",
-      "excerpt": "Signals can be detected in the way people talk years before symptoms of cognitive decline emerge, researchers are finding.",
-      "source": "NYT"
-    },
-    {
-      "title": "When Measles Came to an Amish Community, Many Suffered and One Died",
-      "link": "https://www.nytimes.com/2026/11/11/nyregion/measles-new-york-lewis-county-amish.html",
-      "pubDate": "2026-11-11T08:00:07.000Z",
-      "image": null,
-      "author": "Joseph Goldstein and David Andreatta",
-      "excerpt": "In Lewis County, N.Y., the highly contagious virus has swept through Amish homes. Public health experts fear there’s no end in sight.",
+      "title": "Lebanon Faces Economic ‘Catastrophe’ After War and Years of Mismanagement",
+      "link": "https://www.nytimes.com/2026/11/11/world/middleeast/lebanon-economy-crisis-corruption-war.html",
+      "pubDate": "2026-11-11T09:31:18.000Z",
+      "image": "https://static01.nyt.com/images/2026/11/11/multimedia/11int-lebanon-economy-01-vlbp/11int-lebanon-economy-01-vlbp-mediumSquareAt3X.jpg",
+      "author": "Abdi Latif Dahir",
+      "excerpt": "Hezbollah’s conflict with Israel and the U.S.-Israel war with Iran have made systemic problems worse, causing the cost of living to soar and driving many Lebanese to despair.",
       "source": "NYT"
     }
   ]
