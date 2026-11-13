@@ -1,6 +1,69 @@
 {
   "spaceNews": [
     {
+      "title": "How to watch Starship Flight 15",
+      "link": "https://www.astronomy.com/whats-launching-this-week/how-to-watch-starship-flight-15/",
+      "pubDate": "2026-11-13T20:21:49.000Z",
+      "image": null,
+      "author": "Brooks Mendenhall",
+      "excerpt": "SpaceX is set to launch its 15th test flight of Starship on Friday, Nov. 13. For the first time, the company will try to catch both stages of the rocket — the Super Heavy booster and the upper stage, which SpaceX calls “Ship” — with the arms of its launch tower. If it works, StarshipContinue reading \"How to watch Stars",
+      "source": "Astronomy Magazine"
+    },
+    {
+      "title": "DAF Chaplain Corps designates new role to support Guardians",
+      "link": "https://www.spaceforce.mil/News/Article-Display/Article/4648106/daf-chaplain-corps-designates-new-role-to-support-guardians/",
+      "pubDate": "2026-11-13T20:00:00.000Z",
+      "image": "https://media.defense.gov/2026/Nov/13/2004026917/700/700/0/261110-F-JJ904-1917.JPG",
+      "author": "Pentagon News",
+      "excerpt": "The DAF designated U.S. Air Force Chaplain (Brig. Gen.) David Kelley as the Chaplain of the Space Force to provide senior-level religious support advocacy for Guardians and their families.",
+      "source": "Space Force"
+    },
+    {
+      "title": "Live Coverage: Starship Flight 15 attempts to recover full vehicle in double launch pad catch",
+      "link": "https://spaceflightnow.com/2026/11/13/live-coverage-starship-flight-15-attempts-to-recover-full-vehicle-in-double-launch-pad-catch/",
+      "pubDate": "2026-11-13T19:15:11.000Z",
+      "image": "https://spaceflightnow.com/wp-content/uploads/2026/11/20261113-Starship-wide.jpg",
+      "author": "Spaceflight Now",
+      "excerpt": "Liftoff of the integrated Starship vehicle from Starbase in Texas is scheduled during a 75-minute launch window that opens at 4:45 p.m. CST (5:45 p.m. EST / 2245 UTC) on Friday, Nov. 13.",
+      "source": "Spaceflight Now"
+    },
+    {
+      "title": "Commercial Space Federation Welcomes CesiumAstro as a New Associate Member",
+      "link": "https://spacenews.com/commercial-space-federation-welcomes-cesiumastro-as-a-new-associate-member/",
+      "pubDate": "2026-11-13T18:00:00.000Z",
+      "image": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/05/Anniversary-Logo.jpg?fit=1024%2C883&amp;ssl=1",
+      "author": "Commercial Space Federation",
+      "excerpt": "November 13, 2026— Washington, D.C.—The Commercial Space Federation (CSF) is pleased to welcome CesiumAstro as its newest Associate Member. A global leader in advanced connectivity solutions for the space and […] The post Commercial Space Federation Welcomes CesiumAstro as a New Associate Member appeared first on Space",
+      "source": "SpaceNews"
+    },
+    {
+      "title": "Outbursts from a Massive Star",
+      "link": "https://www.nasa.gov/image-article/outbursts-from-a-massive-star/",
+      "pubDate": "2026-11-13T16:39:33.000Z",
+      "image": "https://www.nasa.gov/wp-content/uploads/2026/11/at2016blu.jpg?w=2048",
+      "author": "HQ Web Team",
+      "excerpt": "Using NASA’s Chandra X-ray Observatory, astronomers have discovered what is triggering repeated outbursts from a giant, unstable star located in the galaxy shown in this image released on Nov. 9, 2026. The volatile star, known as AT 2016blu, is in the spiral galaxy NGC 4559, located about 30 million light-years from Ea",
+      "source": "NASA"
+    },
+    {
+      "title": "Gemini Astronaut Photos Inspired Early Earth Observation Program",
+      "link": "https://www.nasa.gov/image-article/gemini-astronaut-photos-inspired-early-earth-observation-program/",
+      "pubDate": "2026-11-13T16:05:54.000Z",
+      "image": "https://www.nasa.gov/wp-content/uploads/2026/11/s66-63535-f.png?w=2006",
+      "author": "Michele Ostovar",
+      "excerpt": "Astronauts James A. Lovell Jr. and Edwin E. “Buzz” Aldrin Jr. orbited Earth from November 11 to 15, 1966, on Gemini XII, the final mission of NASA’s Gemini program. In addition to successfully completing rendezvous maneuvers and spacewalks, procedures vital to sending American astronauts to the Moon, the crew was also ",
+      "source": "NASA"
+    },
+    {
+      "title": "REVIEW: Spectrum Optics SkyPilot 127",
+      "link": "https://www.astronomy.com/observing/review-spectrum-optics-skypilot-127/",
+      "pubDate": "2026-11-13T16:00:00.000Z",
+      "image": null,
+      "author": "Phil Harrington",
+      "excerpt": "The smart telescope revolution has grown rapidly over the past few years. Most of these scopes focus primarily on electronic imaging, though, and while amateur astronomers may marvel at the images, they also still enjoy the simple pleasure of looking directly through a telescope. That’s where the SkyPilot 127 from Spec",
+      "source": "Astronomy Magazine"
+    },
+    {
       "title": "Exclusive: Sagittarius Logistics Raises $1.2M to Build Inland Launch Capabilities",
       "link": "https://payloadspace.com/exclusive-sagittarius-logistics-raises-1-2m-to-build-inland-launch-capabilities/",
       "pubDate": "2026-11-13T14:00:00.000Z",
@@ -19,7 +82,7 @@
       "source": "Payload"
     },
     {
-      "title": "ULA delays Vulcan rocket launch of 40 Leo satellites for Amazon",
+      "title": "ULA delays to Saturday Vulcan rocket launch of 40 Leo satellites for Amazon",
       "link": "https://spaceflightnow.com/2026/11/13/ulas-vulcan-rocket-plans-return-to-flight-with-launch-of-40-leo-satellites-for-amazon/",
       "pubDate": "2026-11-13T12:25:06.000Z",
       "image": "https://spaceflightnow.com/wp-content/uploads/2026/11/20261113-Vulcan-LV-01-Pad-logos.jpg",
@@ -58,7 +121,7 @@
       "title": "APOD: 2026 November 13 – NGC 206 and the Star Clouds of Andromeda",
       "link": "https://science.nasa.gov/image-article/apod-2026-november-13-ngc-206-and-the-star-clouds-of-andromeda/",
       "pubDate": "2026-11-13T05:05:00.000Z",
-      "image": "https://assets.science.nasa.gov/content/dam/science/cds/apod/apod/2026/november/Andromeda_closeupCruz4096.jpg/jcr:content/renditions/cq5dam.web.1280.1280.jpeg",
+      "image": "https://assets.science.nasa.gov/dynamicimage/assets/science/cds/apod/apod/2026/november/Andromeda_closeupCruz4096.jpg?w=2048&#038;h=1451&#038;fit=clip&#038;crop=faces%2Cfocalpoint",
       "author": "",
       "excerpt": "APOD Science APOD APOD: 2026 November 13 – NGC… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professi",
       "source": "NASA"
@@ -196,24 +259,6 @@
       "image": "https://assets.science.nasa.gov/dynamicimage/assets/science/cds/apod/apod/2026/november/conjunction-bubak.jpg?w=1638&#038;h=2048&#038;fit=clip&#038;crop=faces%2Cfocalpoint",
       "author": "",
       "excerpt": "APOD Science APOD APOD: 2026 November 12 –… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional",
-      "source": "NASA"
-    },
-    {
-      "title": "Scotland’s Flow Country",
-      "link": "https://science.nasa.gov/earth/earth-observatory/scotlands-flow-country/",
-      "pubDate": "2026-11-12T05:01:00.000Z",
-      "image": "https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2026/scotland’s-flow-country-/scotland_flowcountry_oli2_20240304.jpg?w=720&#038;h=600&#038;fit=clip&#038;crop=faces%2Cfocalpoint",
-      "author": "",
-      "excerpt": "Blanket bogs in the Scottish Highlands store vast amounts of carbon.",
-      "source": "NASA"
-    },
-    {
-      "title": "Curiosity Blog, Sols 5063-5069 Rocks and Chips",
-      "link": "https://science.nasa.gov/blog/curiosity-blog-sols-5063-5069-rocks-and-chips/",
-      "pubDate": "2026-11-12T00:41:35.000Z",
-      "image": "https://assets.science.nasa.gov/dynamicimage/assets/science/missions/msl/2026/curiosity-rover-updates/november/https___mars.nasa.gov_msl-raw-images_msss_05067_mhli_5067MH0009180001804584C00_DXXX.jpg?w=480&#038;h=480&#038;fit=clip&#038;crop=faces%2Cfocalpoint",
-      "author": "",
-      "excerpt": "Written by William Farrand, Senior Research Scientist, Space Science Institute Earth planning date: Friday, Nov. 6, 2026 This week Curiosity has been completing its drill campaign at the “Nazca” drill hole. This is an area characterized by bedrock containing disk-shaped (or in a liberal interpretation, potato chip shap",
       "source": "NASA"
     },
     {
@@ -622,39 +667,12 @@
       "source": "SpaceNews"
     },
     {
-      "title": "What is the physical size of a 1-billion-solar-mass black hole compared to the Sun?",
-      "link": "https://www.astronomy.com/science/how-big-is-a-supermassive-black-hole/",
-      "pubDate": "2026-11-02T14:00:00.000Z",
-      "image": null,
-      "author": "Astronomy Staff",
-      "excerpt": "When a supermassive black hole is measured as 1 billion solar masses, what would be its actual physical size relative to the size of our Sun? Joseph De BenedettoOxford, New Jersey The size of a black hole is generally taken to be the size of its event horizon. The event horizon is a mathematical boundaryContinue readin",
-      "source": "Astronomy Magazine"
-    },
-    {
-      "title": "November 2026: What’s in the sky this month?",
-      "link": "https://www.astronomy.com/observing/sky-this-month-november-2026/",
-      "pubDate": "2026-11-01T05:01:00.000Z",
-      "image": null,
-      "author": "Martin Ratcliffe",
-      "excerpt": "Saturn is already visible as darkness falls; some challenging transits of its moons occur this month. Neptune is a binocular object close to Saturn, while Uranus is an easy target in Taurus. A Full Moon courses in front of the Pleiades in late November. Mars and Jupiter dominate the early-morning sky, and in the hourCo",
-      "source": "Astronomy Magazine"
-    },
-    {
       "title": "SpaceX closes out October with 700th Falcon 9 launch to date",
       "link": "https://spaceflightnow.com/2026/10/30/live-coverage-spacex-to-close-out-october-with-halloween-eve-falcon-9-launch/",
       "pubDate": "2026-10-30T22:46:02.000Z",
       "image": "https://spaceflightnow.com/wp-content/uploads/2026/10/20261031-Starlink-15-18-Launch.jpg",
       "author": "Will Robinson-Smith",
       "excerpt": "The Starlink 15-18 mission will add another 27 Starlink V2 Mini Optimized satellites to SpaceX’s megaconstellation. Liftoff from pad 4E at Vandenberg Space Force Base is scheduled for 9:04 p.m. PDT (12:04 a.m. EDT / 0404 UTC).",
-      "source": "Spaceflight Now"
-    },
-    {
-      "title": "Turkey aims for first Moon-orbiting mission in 2027",
-      "link": "https://spaceflightnow.com/2026/10/30/turkey-aims-for-first-moon-orbiting-mission-in-2027/",
-      "pubDate": "2026-10-30T15:50:37.000Z",
-      "image": "https://spaceflightnow.com/wp-content/uploads/2026/10/20261007_TLM-1_1-1.jpeg",
-      "author": "Will Robinson-Smith",
-      "excerpt": "This is the first of a pair of Turkish flights to the Moon. The first will be an orbiter with several scientific instruments and the second will be a lander.",
       "source": "Spaceflight Now"
     },
     {
@@ -782,15 +800,6 @@
       "author": "Master Sgt. A.J. Hyatt",
       "excerpt": "The panel addressed critical requirements across accession pipelines, mission infrastructure, and simulation training necessary to generate credible combat capability for the Joint Force.",
       "source": "Space Force"
-    },
-    {
-      "title": "Space Force announces Commercial Solutions Opening strategy for Satellite Communications Augmentation Resource program",
-      "link": "https://www.spaceforce.mil/News/Article-Display/Article/4602934/space-force-announces-commercial-solutions-opening-strategy-for-satellite-commu/",
-      "pubDate": "2026-09-16T17:47:00.000Z",
-      "image": null,
-      "author": "Pentagon News",
-      "excerpt": "The USSF is implementing a commercial acquisition strategy using Commercial Solutions Openings to enhance satellite command and control capabilities.",
-      "source": "Space Force"
     }
   ],
   "industryNews": [
@@ -887,93 +896,174 @@
   ],
   "nytNews": [
     {
-      "title": "Brooklyn D.A. Opens Criminal Inquiry Into Flatbush Building Collapse",
-      "link": "https://www.nytimes.com/2026/11/13/nyregion/brooklyn-flatbus-building-collapse-investigation.html",
-      "pubDate": "2026-11-13T15:02:31.000Z",
-      "image": "https://static01.nyt.com/images/2026/11/13/multimedia/13met-flatbush-investigation-qkwh/13met-flatbush-investigation-qkwh-mediumSquareAt3X.jpg",
-      "author": "William K. Rashbaum and Hurubie Meko",
-      "excerpt": "The collapse killed at least eight people and left 18 others injured. As rescue efforts continued, the cause remained under investigation.",
+      "title": "Search and Rescue Underway in New Orleans After Cargo Ship Crashes Into Riverboat",
+      "link": "https://www.nytimes.com/2026/11/13/us/new-orleans-cruise-ship-crash.html",
+      "pubDate": "2026-11-13T21:48:48.000Z",
+      "image": null,
+      "author": "Rebecca Chao and Ishani Desai",
+      "excerpt": "Search and rescue operations were continuing after the riverboat, which was docked and had 129 people aboard, was struck by a cargo ship on Friday afternoon, the authorities said.",
       "source": "NYT"
     },
     {
-      "title": "Even Scott Colom’s Backers Were Skeptical. Here’s How He Won in Mississippi.",
-      "link": "https://www.nytimes.com/2026/11/13/us/politics/scott-colom-mississippi-democrat-defied-odds.html",
-      "pubDate": "2026-11-13T15:01:10.000Z",
-      "image": "https://static01.nyt.com/images/2026/11/12/multimedia/00pol-colom-profile-qzmv/00pol-colom-profile-qzmv-mediumSquareAt3X.jpg",
-      "author": "Michael Kruse and Emily Cochrane",
-      "excerpt": "Few were paying much attention to Mr. Colom for most of his Senate campaign. Then he toppled the Republican incumbent.",
+      "title": "Hakeem Jeffries Pushes to Lock Down House Speakership, With No Challenger Emerging",
+      "link": "https://www.nytimes.com/2026/11/13/us/politics/jeffries-house-speaker-democrats.html",
+      "pubDate": "2026-11-13T21:28:36.000Z",
+      "image": "https://static01.nyt.com/images/2026/11/13/multimedia/13dc-jeffries-pfct/13dc-jeffries-pfct-mediumSquareAt3X.jpg",
+      "author": "Annie Karni",
+      "excerpt": "Facing resistance from the left but no challenger, the Democratic leader is sewing up support from key coalitions as his allies say he deserves a unanimous vote.",
       "source": "NYT"
     },
     {
-      "title": "Microsoft Races to Fix Outage Disrupting Outlook for a Second Day",
-      "link": "https://www.nytimes.com/2026/11/12/business/microsoft-outlook-down-outage-email.html",
-      "pubDate": "2026-11-13T14:53:51.000Z",
-      "image": "https://static01.nyt.com/images/2026/11/12/multimedia/12xp-outlook-wtfb/12xp-outlook-wtfb-mediumSquareAt3X.jpg",
-      "author": "Isabella Kwai, Karla Adam and Adeel Hassan",
-      "excerpt": "Health services, schools, police departments and companies worldwide reported disruptions to their work. The cause was unclear, though Microsoft appeared to rule out a cyberattack.",
+      "title": "Russia Revives Demand That NATO Retrench to Secure Ukraine Deal",
+      "link": "https://www.nytimes.com/2026/11/13/us/politics/russia-demand-nato-ukraine.html",
+      "pubDate": "2026-11-13T21:26:20.000Z",
+      "image": "https://static01.nyt.com/images/2026/11/13/multimedia/13dc-trump-russia-top-mtwc/13dc-trump-russia-top-mtwc-mediumSquareAt3X.jpg",
+      "author": "Anton Troianovski, Andrew E. Kramer, Jeanna Smialek, David E. Sanger and Eric Schmitt",
+      "excerpt": "The hard-line position of Russian officials in closed-door negotiations about ending the war thrusts European security into the heart of the talks.",
       "source": "NYT"
     },
     {
-      "title": "‘We Squandered an Opportunity’: The Christian Right on Its Election Rout",
-      "link": "https://www.nytimes.com/2026/11/13/us/christian-right-collapse.html",
-      "pubDate": "2026-11-13T14:20:51.000Z",
-      "image": "https://static01.nyt.com/images/2026/11/12/multimedia/12nat-christian-collapse-1-01-vqwg/12nat-christian-collapse-1-01-vqwg-mediumSquareAt3X.jpg",
-      "author": "Elizabeth Dias",
-      "excerpt": "The midterm election results were a stinging setback for the movement, setting off a scramble among activists to regroup ahead of the 2028 presidential contest.",
+      "title": "Lauren Boebert Loses Re-election Bid in Colorado House Race to Eileen Laubacher",
+      "link": "https://www.nytimes.com/2026/11/09/us/lauren-boebert-colorado-house-election.html",
+      "pubDate": "2026-11-13T20:21:44.000Z",
+      "image": "https://static01.nyt.com/images/2026/11/03/multimedia/03hfo-pol-boebert-loses-tjkf/03hfo-pol-boebert-loses-tjkf-mediumSquareAt3X.jpg",
+      "author": "Bayliss Wagner and Kellen Browning",
+      "excerpt": "Ms. Boebert’s loss to Eileen Laubacher in a conservative House district represents a significant victory for Democrats.",
       "source": "NYT"
     },
     {
-      "title": "Howard Lutnick Took Softer Line on Nvidia as Calls for Tougher Controls Grew",
-      "link": "https://www.nytimes.com/2026/11/12/us/politics/lutnick-nvidia-commerce-china-chips.html",
-      "pubDate": "2026-11-13T14:02:13.000Z",
-      "image": "https://static01.nyt.com/images/2026/11/12/multimedia/12dc-commerce-nvidia-fzpt/12dc-commerce-nvidia-fzpt-mediumSquareAt3X.jpg",
-      "author": "Ana Swanson, Tripp Mickle, Maggie Haberman and Jonathan Swan",
-      "excerpt": "Critics say Howard Lutnick, the commerce secretary, and his department have shielded Nvidia as concerns have grown over A.I. chip sales to firms like Megaspeed.",
+      "title": "Inquiry Into Brooklyn Building Collapse Expands as Families Demand Answers",
+      "link": "https://www.nytimes.com/2026/11/13/nyregion/brooklyn-building-collapse-inquiry-families.html",
+      "pubDate": "2026-11-13T20:15:38.000Z",
+      "image": null,
+      "author": "Claire Fahy",
+      "excerpt": "The Department of Buildings has also hired an engineering firm to provide an independent report on what caused the three-story building to collapse, killing eight people.",
       "source": "NYT"
     },
     {
-      "title": "How the Deadly Brooklyn Building Collapse Unfolded",
-      "link": "https://www.nytimes.com/2026/11/12/nyregion/building-collapse-brooklyn-flatbush.html",
-      "pubDate": "2026-11-13T13:23:47.000Z",
-      "image": "https://static01.nyt.com/images/2026/11/12/multimedia/12met-building-quicktock-bqmg/12met-building-quicktock-bqmg-mediumSquareAt3X.jpg",
-      "author": "Michael Wilson",
-      "excerpt": "The sudden collapse of a Brooklyn building turned a busy neighborhood into a disaster zone and left families devastated.",
+      "title": "Why Jensen Huang Was Essential to Nvidia’s Rise",
+      "link": "https://www.nytimes.com/video/business/100000011275611/why-jensen-huang-was-essential-to-nvidias-rise.html",
+      "pubDate": "2026-11-13T20:14:05.000Z",
+      "image": null,
+      "author": "Tripp Mickle, Gilad Thaler, Thomas Vollkommer, Shawn Paik, Nikolay Nikolov, James Surdam, Rafaela Balster, June Kim and Mark Oltmanns",
+      "excerpt": "Jensen Huang was the driving force at Nvidia, with 60 direct reports and no clear succession plan. Tripp Mickle, one of our technology reporters, examines Mr. Huang’s central role in the company and the artificial intelligence industry.",
       "source": "NYT"
     },
     {
-      "title": "A Restaurant Hosted Ramaswamy After His Attack Ad. It’s Paying a Price.",
-      "link": "https://www.nytimes.com/2026/11/13/us/medina-ohio-boycott-restaurant-ramaswamy.html",
-      "pubDate": "2026-11-13T13:17:17.000Z",
-      "image": "https://static01.nyt.com/images/2026/11/12/multimedia/13nat-ohio-restaurant-NEW-kcgh/13nat-ohio-restaurant-NEW-kcgh-mediumSquareAt3X.jpg",
-      "author": "Jessica Contrera and Mack Liederman",
-      "excerpt": "When a popular restaurant agreed to serve as a campaign stop for G.O.P. candidates ahead of Election Day, longtime customers turned against it and Medina, Ohio, was left reeling.",
+      "title": "Meet Eileen Laubacher, the Navy Veteran Who Beat Lauren Boebert",
+      "link": "https://www.nytimes.com/2026/11/13/us/elections/eileen-laubacher-defeated-lauren-boebert.html",
+      "pubDate": "2026-11-13T20:06:16.000Z",
+      "image": "https://static01.nyt.com/images/2026/11/10/multimedia/10nat-laubacher-boebert-vhmj/10nat-laubacher-boebert-vhmj-mediumSquareAt3X.jpg",
+      "author": "Jack Healy",
+      "excerpt": "Eileen Laubacher, a retired rear admiral, defeated one of the highest-profile supporters of President Trump in a deep-red district that she knows will be tough to hold.",
       "source": "NYT"
     },
     {
-      "title": "After the Fall",
-      "link": "https://www.nytimes.com/2026/11/13/briefing/jensen-huang.html",
-      "pubDate": "2026-11-13T13:02:28.000Z",
-      "image": "https://static01.nyt.com/images/2026/11/09/multimedia/13themorning-nl-huang-01/13themorning-nl-huang-01-mediumSquareAt3X.jpg",
-      "author": "Sam Sifton",
-      "excerpt": "We’re looking at the scandals at Nvidia.",
+      "title": "Wall Street Loses a Powerful Dealmaker After Nvidia’s CEO Is Ousted",
+      "link": "https://www.nytimes.com/2026/11/13/business/jensen-huang-nvidia-wall-street.html",
+      "pubDate": "2026-11-13T19:52:01.000Z",
+      "image": "https://static01.nyt.com/images/2026/11/12/multimedia/12biz-Nvidia-Wall-Street-01-hmfk/12biz-Nvidia-Wall-Street-01-hmfk-mediumSquareAt3X.jpg",
+      "author": "Maureen Farrell and Rob Copeland",
+      "excerpt": "The ousted Nvidia chief executive was the consummate dealmaker leading the trillion-dollar A.I. build out.",
       "source": "NYT"
     },
     {
-      "title": "Video From Inside Brooklyn Building That Collapsed Shows Walls Caving In",
-      "link": "https://www.nytimes.com/2026/11/13/nyregion/brooklyn-building-collapse-nyc-flatbush-video.html",
-      "pubDate": "2026-11-13T12:47:29.000Z",
-      "image": "https://static01.nyt.com/images/2026/11/12/multimedia/13met-building-video/12met-building-collapse-live-vid-lead-fktj-mediumSquareAt3X.jpg",
-      "author": "Madaleine Rubin and Blacki Migliozzi",
-      "excerpt": "A video verified by The New York Times shows a family’s reaction as their Brooklyn apartment building collapsed. They survived a catastrophe that killed eight other people.",
+      "title": "Sister June Carpenter, the Oldest Shaker, Has Died",
+      "link": "https://www.nytimes.com/2026/11/13/us/june-carpenter-dead.html",
+      "pubDate": "2026-11-13T19:27:04.000Z",
+      "image": null,
+      "author": "Penelope Green",
+      "excerpt": "Now there are only two practicing members of the last active Shaker community in the United States. Sister June was 88.",
       "source": "NYT"
     },
     {
-      "title": "Huang’s Downfall Could Shake the Economy, and Detainees Have Disappeared From an ICE Database",
-      "link": "https://www.nytimes.com/2026/11/13/podcasts/the-headlines/huang-stocks-economy-ice.html",
-      "pubDate": "2026-11-13T11:00:33.000Z",
-      "image": "https://static01.nyt.com/images/2026/11/12/multimedia/13headlines/12biz-nvidia-economy-tkjf-mediumSquareAt3X.jpg",
-      "author": "Tracy Mumford, Will Jarvis, Margaret Kadifa, Jake Lucas, Ian Stewart, Ben Casselman and Pam Belluck",
-      "excerpt": "Plus, the Friday news quiz.",
+      "title": "Microsoft’s Global Outage and Fixes: What We Know",
+      "link": "https://www.nytimes.com/2026/11/13/technology/microsoft-outage-what-to-know.html",
+      "pubDate": "2026-11-13T19:04:31.000Z",
+      "image": "https://static01.nyt.com/images/2026/11/13/multimedia/13xp-microsoftWWK-1-lfcv/13xp-microsoftWWK-1-lfcv-mediumSquareAt3X.jpg",
+      "author": "Michael Levenson",
+      "excerpt": "The company described “encouraging” progress on efforts to overcome a second day of disruptions to its email, messaging and other services.",
+      "source": "NYT"
+    },
+    {
+      "title": "Book Review: ‘Promise Me, America,’ by Joe Biden",
+      "link": "https://www.nytimes.com/2026/11/13/books/review/promise-me-america-joe-biden.html",
+      "pubDate": "2026-11-13T18:55:03.000Z",
+      "image": "https://static01.nyt.com/images/2026/11/17/multimedia/17TBR-Biden-review-qlkb/17TBR-Biden-review-qlkb-mediumSquareAt3X.jpg",
+      "author": "Jennifer Szalai",
+      "excerpt": "The former president’s new memoir trumpets his achievements while justifying his decision to run for a second term and his embrace of Israel’s war in Gaza.",
+      "source": "NYT"
+    },
+    {
+      "title": "Wall Street Braces for Anthropic’s Spending",
+      "link": "https://www.nytimes.com/2026/11/13/technology/anthropic-ipo-spending-plans.html",
+      "pubDate": "2026-11-13T18:52:43.000Z",
+      "image": "https://static01.nyt.com/images/2026/11/12/multimedia/12biz-anthropic-reality-kzlm/12biz-anthropic-reality-kzlm-mediumSquareAt3X.jpg",
+      "author": "Cory Weinberg",
+      "excerpt": "The company’s financial picture may get murky as it deals with employee stock compensation and the growing costs of artificial intelligence.",
+      "source": "NYT"
+    },
+    {
+      "title": "Europe Agrees on a Team to Represent It in Talks With Russia",
+      "link": "https://www.nytimes.com/2026/11/13/world/europe/europe-ukraine-talks-russia.html",
+      "pubDate": "2026-11-13T18:52:07.000Z",
+      "image": "https://static01.nyt.com/images/2026/11/13/multimedia/13int-europe-ukraine-01-jlht/13int-europe-ukraine-01-jlht-mediumSquareAt3X.jpg",
+      "author": "Jeanna Smialek",
+      "excerpt": "After coveting a seat in the Ukraine war discussions, Europe is poised to get one. The continent wants to fill it with a six-member team.",
+      "source": "NYT"
+    },
+    {
+      "title": "Trump Signals New Strategy on Iran: A Waiting Game",
+      "link": "https://www.nytimes.com/2026/11/13/us/politics/trump-iran-strategy.html",
+      "pubDate": "2026-11-13T18:20:50.000Z",
+      "image": "https://static01.nyt.com/images/2026/11/12/multimedia/12dc-trump-vance-klmp/12dc-trump-vance-klmp-mediumSquareAt3X.jpg",
+      "author": "David E. Sanger",
+      "excerpt": "The administration appears to be moving toward a long-term economic pressure campaign as President Trump expresses little urgency in securing a nuclear agreement.",
+      "source": "NYT"
+    },
+    {
+      "title": "The Swingiest State Has Gone Very Red",
+      "link": "https://www.nytimes.com/2026/11/13/opinion/florida-republicans-democrats.html",
+      "pubDate": "2026-11-13T17:33:42.000Z",
+      "image": "https://static01.nyt.com/images/2026/11/13/multimedia/13grunwald1a-mvbq/13grunwald1a-mvbq-mediumSquareAt3X.jpg",
+      "author": "Michael Grunwald",
+      "excerpt": "A lot of Republicans have moved to Florida since Covid, and those newcomers really like the way Republicans are running it.",
+      "source": "NYT"
+    },
+    {
+      "title": "Jensen Huang’s Leather Jacket Isn’t Helping Him Right Now",
+      "link": "https://www.nytimes.com/2026/11/13/style/jensen-huang-nvidia-leather-jacket-ai.html",
+      "pubDate": "2026-11-13T16:41:07.000Z",
+      "image": "https://static01.nyt.com/images/2026/11/12/multimedia/12HUANG-JACKET-01-zqbm/12HUANG-JACKET-01-zqbm-mediumSquareAt3X.jpg",
+      "author": "Jacob Gallagher",
+      "excerpt": "The Nvidia founder’s signature look branded him as a maverick. Does that image read differently now?",
+      "source": "NYT"
+    },
+    {
+      "title": "Jensen Huang’s Resignation From Nvidia Worries the A.I. Start-Up World",
+      "link": "https://www.nytimes.com/2026/11/13/technology/jensen-huang-silicon-valley-start-ups.html",
+      "pubDate": "2026-11-13T16:36:28.000Z",
+      "image": "https://static01.nyt.com/images/2026/11/13/multimedia/13biz-nvidia-startups-2-mfvc/13biz-nvidia-startups-2-mfvc-mediumSquareAt3X.jpg",
+      "author": "Erin Griffith and Cory Weinberg",
+      "excerpt": "Mr. Huang championed start-ups, with Nvidia holding $48 billion worth of stakes in 229 private companies, including OpenAI and Anthropic, at the end of July.",
+      "source": "NYT"
+    },
+    {
+      "title": "Why Anthropic’s Dario Amodei Has Angered OpenAI and Other A.I. Peers",
+      "link": "https://www.nytimes.com/2026/11/13/technology/anthropic-dario-amodei-ai-openai.html",
+      "pubDate": "2026-11-13T16:11:41.000Z",
+      "image": "https://static01.nyt.com/images/2026/09/03/business/00anthropic-knives-out/00anthropic-knives-out-mediumSquareAt3X.jpg",
+      "author": "Kalley Huang, Mike Isaac and Cecilia Kang",
+      "excerpt": "Dario Amodei, the company’s chief executive, publicly frets about the dangers of artificial intelligence and has made enemies of his peers along the way.",
+      "source": "NYT"
+    },
+    {
+      "title": "The Boss, the Bribe and the Newspaper That Couldn’t Be Bought",
+      "link": "https://www.nytimes.com/2026/11/13/nyregion/boss-tweed-new-york-times-nyc-history.html",
+      "pubDate": "2026-11-13T12:06:55.000Z",
+      "image": "https://static01.nyt.com/images/2026/09/02/multimedia/00-PROJECTS-175-EYEWITNESS-BOSS-TWEED-cjkf/00-PROJECTS-175-EYEWITNESS-BOSS-TWEED-cjkf-mediumSquareAt3X.jpg",
+      "author": "Matthew Purdy",
+      "excerpt": "Boss Tweed used New York as a personal piggy bank. The Times brought him down, ushering in a new era of muckraking journalism.",
       "source": "NYT"
     },
     {
@@ -983,78 +1073,6 @@
       "image": "https://static01.nyt.com/images/2026/11/13/opinion/13eks-piker-image01/13eks-piker-image01-mediumSquareAt3X.jpg",
       "author": "Ezra Klein and Jack McCordick",
       "excerpt": "The socialist Twitch streamer describes himself as “pragmatic” when it comes to how Democrats wield power.",
-      "source": "NYT"
-    },
-    {
-      "title": "Democrats Eye Strict New Limits on White House Budget Powers",
-      "link": "https://www.nytimes.com/2026/11/13/business/democrats-eye-strict-new-limits-on-white-house-budget-powers.html",
-      "pubDate": "2026-11-13T10:03:55.000Z",
-      "image": "https://static01.nyt.com/images/2026/11/13/multimedia/13dc-trump-budget-wkcj/13dc-trump-budget-wkcj-mediumSquareAt3X.jpg",
-      "author": "Tony Romm",
-      "excerpt": "The incoming majority is also planning aggressive oversight of the White House budget director, who appears to be working to install an ally to monitor the budget office’s handling of federal spending.",
-      "source": "NYT"
-    },
-    {
-      "title": "5 Muscles to Strengthen as You Age",
-      "link": "https://www.nytimes.com/2026/11/13/well/move/important-muscles-longevity-advice.html",
-      "pubDate": "2026-11-13T10:02:02.000Z",
-      "image": "https://static01.nyt.com/images/2026/11/13/well/13WELL-TOP-AGING-MUSCLES-image/13WELL-TOP-AGING-MUSCLES-image-mediumSquareAt3X.jpg",
-      "author": "Keith Mulvihill",
-      "excerpt": "We all know we need to strength train to move well and feel strong. But which exercises are the most important?",
-      "source": "NYT"
-    },
-    {
-      "title": "Border Crossings Have Plummeted. Stephen Miller Isn’t Satisfied.",
-      "link": "https://www.nytimes.com/2026/11/13/world/americas/stephen-miller-mexico-immigration.html",
-      "pubDate": "2026-11-13T10:00:19.000Z",
-      "image": "https://static01.nyt.com/images/2026/10/07/multimedia/XXint-mexico-immigration-vgph/XXint-mexico-immigration-vgph-mediumSquareAt3X.jpg",
-      "author": "James Wagner and Jack Nicas",
-      "excerpt": "Mexico has cooperated to significantly slow the flow of migrants. The new White House chief of staff insists it is not enough.",
-      "source": "NYT"
-    },
-    {
-      "title": "The U.S.-Israel Relationship Is Broken. Here’s How Eisenkot Could Fix It.",
-      "link": "https://www.nytimes.com/2026/11/13/world/middleeast/the-us-israel-relationship-is-broken-heres-how-eisenkot-could-fix-it.html",
-      "pubDate": "2026-11-13T09:45:38.000Z",
-      "image": "https://static01.nyt.com/images/2026/11/13/multimedia/13int-Israel-US-Challenge-cfgw/13int-Israel-US-Challenge-cfgw-mediumSquareAt3X.jpg",
-      "author": "David M. Halbfinger",
-      "excerpt": "Former Israeli and U.S. ambassadors, lawmakers and analysts largely agree on steps Gadi Eisenkot could take if he becomes prime minister. But they are risky.",
-      "source": "NYT"
-    },
-    {
-      "title": "Seth Meyers Is Excited by Scott Colom’s Historic Win in Mississippi",
-      "link": "https://www.nytimes.com/2026/11/13/arts/television/late-night-seth-meyers-scott-colom.html",
-      "pubDate": "2026-11-13T07:20:24.000Z",
-      "image": null,
-      "author": "Trish Bendix",
-      "excerpt": "“This is the best news to come out of Mississippi since — this is the best news to come out of Mississippi!” Meyers said.",
-      "source": "NYT"
-    },
-    {
-      "title": "Chris Van Hollen Set to Challenge Chuck Schumer for Senate Majority Leader",
-      "link": "https://www.nytimes.com/2026/11/12/us/politics/van-hollen-schumer-democrats-majority-leader.html",
-      "pubDate": "2026-11-13T04:11:39.000Z",
-      "image": "https://static01.nyt.com/images/2026/11/12/multimedia/12dc-vanhollen-kvwt/12dc-vanhollen-kvwt-mediumSquareAt3X.jpg",
-      "author": "Carl Hulse",
-      "excerpt": "Senator Chris Van Hollen of Maryland has emerged as a favorite of Democrats seeking an alternative to Senator Chuck Schumer, who says he has the votes to win.",
-      "source": "NYT"
-    },
-    {
-      "title": "Trump Had Urged Nvidia’s Jensen Huang to Fight for His Job",
-      "link": "https://www.nytimes.com/2026/11/12/us/politics/trump-jensen-huang-nvidia.html",
-      "pubDate": "2026-11-13T03:27:02.000Z",
-      "image": "https://static01.nyt.com/images/2026/11/13/multimedia/13DC-TRUMP-HUANG-fwzc/13DC-TRUMP-HUANG-fwzc-mediumSquareAt3X.jpg",
-      "author": "Maggie Haberman, Jonathan Swan, Tripp Mickle and Julian E. Barnes",
-      "excerpt": "The president called the Nvidia chief on Tuesday, continuing a pattern of supporting him even as the spy scandal was intensifying.",
-      "source": "NYT"
-    },
-    {
-      "title": "I Wrote Jensen Huang’s Biography. Here’s What Led to His Downfall.",
-      "link": "https://www.nytimes.com/2026/11/12/opinion/jensen-huang-nvidia.html",
-      "pubDate": "2026-11-12T23:26:55.000Z",
-      "image": "https://static01.nyt.com/images/2026/11/14/opinion/12Witt/12Witt-mediumSquareAt3X.jpg",
-      "author": "Stephen Witt",
-      "excerpt": "How to understand the former Nvidia chief’s stunning departure.",
       "source": "NYT"
     }
   ]
