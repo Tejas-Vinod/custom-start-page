@@ -1,6 +1,51 @@
 {
   "spaceNews": [
     {
+      "title": "Gama Raises €15M Seed to Boost Europe’s Solar Array Supply Chain",
+      "link": "https://payloadspace.com/gama-raises-e15m-seed-to-boost-europes-solar-array-supply-chain/",
+      "pubDate": "2026-11-13T06:26:00.000Z",
+      "image": "https://payloadspace.com/wp-content/uploads/2026/11/Screenshot-2026-11-12-at-1.46.28-PM-200x200.png",
+      "author": "Douglas Gorman",
+      "excerpt": "Europe continues to stack the building blocks for a more robust space economy. The post Gama Raises €15M Seed to Boost Europe’s Solar Array Supply Chain appeared first on Payload.",
+      "source": "Payload"
+    },
+    {
+      "title": "The Sky This Week from November 13 to 20: The Leonids peak",
+      "link": "https://www.astronomy.com/the-sky-this-week/the-sky-this-week-from-november-13-to-20-2026/",
+      "pubDate": "2026-11-13T06:00:00.000Z",
+      "image": null,
+      "author": "Alison Klesman",
+      "excerpt": "Friday, November 20The Moon reaches apogee, the farthest point from Earth in its orbit, at 12:50 P.M. EST. At that time, our satellite will be 252,040 miles (405,619 kilometers) from Earth. Already 60° high in the east by 8 P.M. local time is M33, the Pinwheel Galaxy in Triangulum. This lovely spiral glows at 6thContin",
+      "source": "Astronomy Magazine"
+    },
+    {
+      "title": "APOD: 2026 November 13 – NGC 206 and the Star Clouds of Andromeda",
+      "link": "https://science.nasa.gov/image-article/apod-2026-november-13-ngc-206-and-the-star-clouds-of-andromeda/",
+      "pubDate": "2026-11-13T05:05:00.000Z",
+      "image": "https://assets.science.nasa.gov/content/dam/science/cds/apod/apod/2026/november/Andromeda_closeupCruz4096.jpg/jcr:content/renditions/cq5dam.web.1280.1280.jpeg",
+      "author": "",
+      "excerpt": "APOD Science APOD APOD: 2026 November 13 – NGC… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professi",
+      "source": "NASA"
+    },
+    {
+      "title": "A Global Rebound for Mangroves",
+      "link": "https://science.nasa.gov/earth/earth-observatory/a-global-rebound-for-mangroves/",
+      "pubDate": "2026-11-13T05:01:00.000Z",
+      "image": "https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2026/a-global-rebound-for-mangroves/burmamangroves_tm5_20100214.jpg",
+      "author": "",
+      "excerpt": "After decades of decline, this ecologically significant type of forest is making a comeback.",
+      "source": "NASA"
+    },
+    {
+      "title": "AST SpaceMobile presses case for developing own launch vehicle",
+      "link": "https://spacenews.com/ast-spacemobile-presses-case-for-developing-own-launch-vehicle/",
+      "pubDate": "2026-11-13T01:15:21.000Z",
+      "image": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/11/blacklift2.jpeg?fit=1024%2C577&amp;ssl=1",
+      "author": "Jeff Foust",
+      "excerpt": "AST SpaceMobile executives expressed confidence in the company’s ability to field a new reusable launch vehicle in just two years despite widespread industry skepticism. The post AST SpaceMobile presses case for developing own launch vehicle appeared first on SpaceNews.",
+      "source": "SpaceNews"
+    },
+    {
       "title": "I Am Artemis Katie Spicer",
       "link": "https://www.nasa.gov/missions/artemis/i-am-artemis-katie-spicer/",
       "pubDate": "2026-11-12T20:10:02.000Z",
@@ -208,24 +253,6 @@
       "source": "New Scientist"
     },
     {
-      "title": "APOD: 2026 November 11 – NGC 4449: Small Galaxy, Big Impact",
-      "link": "https://science.nasa.gov/image-article/apod-2026-november-11-ngc-4449-small-galaxy-big-impact/",
-      "pubDate": "2026-11-11T05:05:00.000Z",
-      "image": "https://assets.science.nasa.gov/dynamicimage/assets/science/missions/hubble/galaxies/irregular/NGC%204449.jpg?w=2048&#038;h=1320&#038;fit=clip&#038;crop=faces%2Cfocalpoint",
-      "author": "",
-      "excerpt": "APOD Science APOD APOD: 2026 November 11 – NGC… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professi",
-      "source": "NASA"
-    },
-    {
-      "title": "Water Surges Into Navajo Reservoir",
-      "link": "https://science.nasa.gov/earth/earth-observatory/water-surges-into-navajo-reservoir/",
-      "pubDate": "2026-11-11T05:01:00.000Z",
-      "image": "https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2026/water-surges-into-navajo-reservoir/navajoreservoir_oli2_20260920.jpg",
-      "author": "",
-      "excerpt": "Rounds of heavy rain in the U.S. Southwest flooded rivers and rapidly raised New Mexico’s second-largest reservoir.",
-      "source": "NASA"
-    },
-    {
       "title": "Rep. Mike Haridopolos on NASA’s Future After the Blue Wave",
       "link": "https://payloadspace.com/rep-mike-haridopolos-on-nasas-future-after-the-blue-wave/",
       "pubDate": "2026-11-10T18:45:00.000Z",
@@ -413,15 +440,6 @@
       "author": "Alison Klesman",
       "excerpt": "Friday, November 6The waning Moon leaves us with perfect skies for deep-sky observing. Let’s kick off the week with a bright planetary nebula in Aquarius: NGC 7293, commonly known as the Helix Nebula. Despite its impressive magnitude of 7.3, the Helix presents a challenge: It is a broad 13’ across, which spreads its li",
       "source": "Astronomy Magazine"
-    },
-    {
-      "title": "CesiumAstro Raises $730M, Reaches Valuation Above $4.5B",
-      "link": "https://payloadspace.com/cesiumastro-raises-730m-reaches-valuation-above-4-5b/",
-      "pubDate": "2026-11-06T01:43:16.000Z",
-      "image": "https://payloadspace.com/wp-content/uploads/2026/11/IMG_5633-200x200.jpg",
-      "author": "Douglas Gorman and Victoria Woodburn",
-      "excerpt": "CesiumAstro plans to build and deploy a new constellation—called Synchronicity—consisting of 737 satellites, deployed with the help of a recently closed $730M financing round. The post CesiumAstro Raises $730M, Reaches Valuation Above $4.5B appeared first on Payload.",
-      "source": "Payload"
     },
     {
       "title": "Blue Origin reveals new kick stage, engines for its New Glenn rockets",
@@ -613,15 +631,6 @@
       "source": "Spaceflight Now"
     },
     {
-      "title": "ESI supplying solar array components to missile defense programs",
-      "link": "https://spacenews.com/esi-supplying-solar-array-components-to-missile-defense-programs/",
-      "pubDate": "2026-10-30T18:54:34.000Z",
-      "image": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/10/ESI-Motion-Square-Logo-Blue-PNG.png?fit=969%2C1024&amp;ssl=1",
-      "author": "ESI Motion",
-      "excerpt": "Oct. 30, 2026 – ESI Motion Inc. is proud to announce that it is supplying the Solar Array Drive Electronics (SADE) to Lockheed Martin for its work on the Space […] The post ESI supplying solar array components to missile defense programs appeared first on SpaceNews.",
-      "source": "SpaceNews"
-    },
-    {
       "title": "Turkey aims for first Moon-orbiting mission in 2027",
       "link": "https://spaceflightnow.com/2026/10/30/turkey-aims-for-first-moon-orbiting-mission-in-2027/",
       "pubDate": "2026-10-30T15:50:37.000Z",
@@ -637,15 +646,6 @@
       "image": null,
       "author": "Brooks Mendenhall",
       "excerpt": "The Vera C. Rubin Observatory may have found its first dwarf planet. Orbiting beyond Pluto, the object may also be one of the brightest and biggest in that stretch of the solar system. Matthew Holman, a Rubin operations team member and senior astrophysicist at the Center for Astrophysics | Harvard & Smithsonian, discov",
-      "source": "Astronomy Magazine"
-    },
-    {
-      "title": "The Sky This Week from October 30 to November 6: The Moon jockeys with Jupiter and Mars",
-      "link": "https://www.astronomy.com/the-sky-this-week/the-sky-this-week-from-october-30-to-november-6-2026/",
-      "pubDate": "2026-10-30T05:00:00.000Z",
-      "image": null,
-      "author": "Alison Klesman",
-      "excerpt": "Friday, October 30Take a peek over at Pisces this evening before moonrise to look for its famous Circlet asterism of stars. You can find this star pattern easiest by first finding Saturn, the brightest point of light in this part of the sky, which stands about 30° high in the southeast by 8 P.M. localContinue reading \"",
       "source": "Astronomy Magazine"
     },
     {
@@ -887,6 +887,105 @@
   ],
   "nytNews": [
     {
+      "title": "California Could Face 50-Foot Waves as Storms Slam Its Coast",
+      "link": "https://www.nytimes.com/2026/11/12/weather/california-storm-west-coast-rain.html",
+      "pubDate": "2026-11-13T06:11:51.000Z",
+      "image": "https://static01.nyt.com/images/2024/01/30/us/2024-01-26-atmospheric-river-embed-index/2024-01-26-atmospheric-river-embed-index-mediumSquareAt3X-v799.jpeg",
+      "author": "Amy Graff",
+      "excerpt": "Back-to-back systems over the next few days will deliver the season’s first widespread rain. Here’s what to know about the forecast.",
+      "source": "NYT"
+    },
+    {
+      "title": "America Will Have Less Influence in the Middle East. Is That So Bad?",
+      "link": "https://www.nytimes.com/2026/11/13/opinion/america-iran-war-middle-east.html",
+      "pubDate": "2026-11-13T06:00:05.000Z",
+      "image": null,
+      "author": "Becca Wasser and Dina Esfandiary",
+      "excerpt": "A smaller footprint means lower costs and more responsibility from Gulf allies.",
+      "source": "NYT"
+    },
+    {
+      "title": "In French Election, Centrists Eye a Judo Star and a Central Banker",
+      "link": "https://www.nytimes.com/2026/11/13/world/europe/france-riner-judo-lagarde-election.html",
+      "pubDate": "2026-11-13T05:01:06.000Z",
+      "image": "https://static01.nyt.com/images/2026/11/11/multimedia/11france-Judo-01-jvkc/11france-Judo-01-jvkc-mediumSquareAt3X.jpg",
+      "author": "Mark Landler",
+      "excerpt": "Centrists want alternatives to a matchup between the far right and far left in the 2027 presidential election. Teddy Riner, the judo champion, is in, while Christine Lagarde is less likely.",
+      "source": "NYT"
+    },
+    {
+      "title": "How the Deadly Brooklyn Building Collapse Unfolded",
+      "link": "https://www.nytimes.com/2026/11/12/nyregion/building-collapse-brooklyn-flatbush.html",
+      "pubDate": "2026-11-13T04:59:04.000Z",
+      "image": "https://static01.nyt.com/images/2026/11/12/multimedia/12met-building-quicktock-bqmg/12met-building-quicktock-bqmg-mediumSquareAt3X.jpg",
+      "author": "Michael Wilson",
+      "excerpt": "The sudden collapse of a Brooklyn building turned a busy neighborhood into a disaster zone and left families devastated.",
+      "source": "NYT"
+    },
+    {
+      "title": "Outlook, Teams and More Microsoft Programs Disrupted by Outage",
+      "link": "https://www.nytimes.com/2026/11/12/business/microsoft-outlook-down-outage-email.html",
+      "pubDate": "2026-11-13T04:28:16.000Z",
+      "image": "https://static01.nyt.com/images/2026/11/12/multimedia/12xp-outlook-wtfb/12xp-outlook-wtfb-mediumSquareAt3X.jpg",
+      "author": "Adeel Hassan and Ishani Desai",
+      "excerpt": "The outage began early Thursday afternoon, causing problems for offices, agencies and individuals around the globe.",
+      "source": "NYT"
+    },
+    {
+      "title": "Chris Van Hollen Set to Challenge Chuck Schumer for Senate Majority Leader",
+      "link": "https://www.nytimes.com/2026/11/12/us/politics/van-hollen-schumer-democrats-majority-leader.html",
+      "pubDate": "2026-11-13T04:11:39.000Z",
+      "image": "https://static01.nyt.com/images/2026/11/12/multimedia/12dc-vanhollen-kvwt/12dc-vanhollen-kvwt-mediumSquareAt3X.jpg",
+      "author": "Carl Hulse",
+      "excerpt": "Senator Chris Van Hollen of Maryland has emerged as a favorite of Democrats seeking an alternative to Senator Chuck Schumer, who says he has the votes to win.",
+      "source": "NYT"
+    },
+    {
+      "title": "Trump Had Urged Nvidia’s Jensen Huang to Fight for His Job",
+      "link": "https://www.nytimes.com/2026/11/12/us/politics/trump-jensen-huang-nvidia.html",
+      "pubDate": "2026-11-13T03:27:02.000Z",
+      "image": "https://static01.nyt.com/images/2026/11/13/multimedia/13DC-TRUMP-HUANG-fwzc/13DC-TRUMP-HUANG-fwzc-mediumSquareAt3X.jpg",
+      "author": "Maggie Haberman, Jonathan Swan, Tripp Mickle and Julian E. Barnes",
+      "excerpt": "The president called the Nvidia chief on Tuesday, continuing a pattern of supporting him even as the spy scandal was intensifying.",
+      "source": "NYT"
+    },
+    {
+      "title": "Republican Setbacks Swell in the South With Stinging Loss in Mississippi",
+      "link": "https://www.nytimes.com/2026/11/12/us/politics/republican-defeats-south-mississippi-midterms.html",
+      "pubDate": "2026-11-13T02:23:48.000Z",
+      "image": "https://static01.nyt.com/images/2026/11/12/multimedia/12pol-republicans-south-04-cjpt/12pol-republicans-south-04-cjpt-mediumSquareAt3X.jpg",
+      "author": "Tim Balk and Emily Cochrane",
+      "excerpt": "The Democrat Scott Colom’s stunning Senate upset punctuated a dismal midterm showing for the G.O.P. in a region they had dominated for years.",
+      "source": "NYT"
+    },
+    {
+      "title": "Howard Lutnick Took Softer Line on Nvidia as Calls for Tougher Controls Grew",
+      "link": "https://www.nytimes.com/2026/11/12/us/politics/lutnick-nvidia-commerce-china-chips.html",
+      "pubDate": "2026-11-13T01:28:40.000Z",
+      "image": "https://static01.nyt.com/images/2026/11/12/multimedia/12dc-commerce-nvidia-fzpt/12dc-commerce-nvidia-fzpt-mediumSquareAt3X.jpg",
+      "author": "Ana Swanson, Tripp Mickle, Maggie Haberman and Jonathan Swan",
+      "excerpt": "Critics say Howard Lutnick, the commerce secretary, and his department have shielded Nvidia as concerns have grown over A.I. chip sales to firms like Megaspeed.",
+      "source": "NYT"
+    },
+    {
+      "title": "What to Know About the Deadly Building Collapse in Brooklyn",
+      "link": "https://www.nytimes.com/2026/11/12/nyregion/building-collapse-brooklyn-deaths-flatbush-nyc.html",
+      "pubDate": "2026-11-13T01:23:00.000Z",
+      "image": "https://static01.nyt.com/images/2026/12/11/multimedia/11met-building-wtk-pjgk/11met-building-wtk-pjgk-mediumSquareAt3X.jpg",
+      "author": "Maia Coleman",
+      "excerpt": "At least eight people were killed and more than a dozen others injured when a three-story building in Flatbush collapsed on Wednesday, officials said.",
+      "source": "NYT"
+    },
+    {
+      "title": "One Dead and Four Wounded in Shooting Around Washington D.C. Condo Building",
+      "link": "https://www.nytimes.com/2026/11/12/us/shooting-washington-dc.html",
+      "pubDate": "2026-11-13T00:28:10.000Z",
+      "image": "https://static01.nyt.com/images/2026/11/12/multimedia/12xp-DC-topart-01-bvck/12xp-DC-topart-01-bvck-mediumSquareAt3X.jpg",
+      "author": "Billy Witz, Madison Malone Kircher, Clarence Williams and Aishvarya Kavi",
+      "excerpt": "The gunman, disgruntled about repair work in his condo, fatally shot the building manager and opened fire on others before killing himself, officials said. One resident had a narrow escape.",
+      "source": "NYT"
+    },
+    {
       "title": "I Wrote Jensen Huang’s Biography. Here’s What Led to His Downfall.",
       "link": "https://www.nytimes.com/2026/11/12/opinion/jensen-huang-nvidia.html",
       "pubDate": "2026-11-12T23:26:55.000Z",
@@ -902,60 +1001,6 @@
       "image": "https://static01.nyt.com/images/2026/11/03/multimedia/03midterms-hfo-kansas-governor-Holscher-pbjm/03midterms-hfo-kansas-governor-Holscher-pbjm-mediumSquareAt3X.jpg",
       "author": "Mitch Smith",
       "excerpt": "State Senator Cindy Holscher won the race. Though Kansas is reliably Republican in presidential elections, its voters often break for Democrats in midterms.",
-      "source": "NYT"
-    },
-    {
-      "title": "Eight Who Died in Building Collapse Reflected New York’s Diversity",
-      "link": "https://www.nytimes.com/2026/11/12/nyregion/brooklyn-building-collapse-victims.html",
-      "pubDate": "2026-11-12T23:06:46.000Z",
-      "image": "https://static01.nyt.com/images/2026/11/12/multimedia/12met-building-collapse-live-victims-vfjw/12met-building-collapse-live-victims-vfjw-mediumSquareAt3X.jpg",
-      "author": "Andy Newman and Ashley Southall",
-      "excerpt": "The victims included construction workers, a food deliveryman and two school-age children. Many had come to the city looking for a better life.",
-      "source": "NYT"
-    },
-    {
-      "title": "Rescue Ends in Brooklyn After 8 Die in Building Collapse",
-      "link": "https://www.nytimes.com/2026/11/12/us/brooklyn-building-collapse-deaths.html",
-      "pubDate": "2026-11-12T23:04:16.000Z",
-      "image": "https://static01.nyt.com/images/2026/11/12/multimedia/12met-collapse-print-01-plmq/12met-collapse-print-01-plmq-mediumSquareAt3X.jpg",
-      "author": "Troy Closson, Nate Schweber, Andrea Barnes and Michael Levenson",
-      "excerpt": "The Fire Department said the search for victims on Flatbush Avenue was over, while city investigators began looking into an excavation occurring next door.",
-      "source": "NYT"
-    },
-    {
-      "title": "7 People Nvidia Could Consider for Its Next C.E.O.",
-      "link": "https://www.nytimes.com/2026/11/12/technology/jensen-huang-nvidia-successor.html",
-      "pubDate": "2026-11-12T23:02:51.000Z",
-      "image": "https://static01.nyt.com/images/2026/11/12/multimedia/12biz-nvidia-successors-gcht/12biz-nvidia-successors-gcht-mediumSquareAt3X.jpg",
-      "author": "Don Clark",
-      "excerpt": "President Trump suggested Tim Cook, Apple’s former C.E.O., to replace Jensen Huang at Nvidia. Here are others with experience in chips or A.I.",
-      "source": "NYT"
-    },
-    {
-      "title": "Republican Setbacks Swell in the South With Stinging Loss in Mississippi",
-      "link": "https://www.nytimes.com/2026/11/12/us/politics/republican-defeats-south-mississippi-midterms.html",
-      "pubDate": "2026-11-12T22:55:52.000Z",
-      "image": "https://static01.nyt.com/images/2026/11/12/multimedia/12pol-republicans-south-04-cjpt/12pol-republicans-south-04-cjpt-mediumSquareAt3X.jpg",
-      "author": "Tim Balk and Emily Cochrane",
-      "excerpt": "The Democrat Scott Colom’s stunning Senate upset punctuated a dismal midterm showing for the G.O.P. in a region they had dominated for years.",
-      "source": "NYT"
-    },
-    {
-      "title": "An A.I. Titan Resigns",
-      "link": "https://www.nytimes.com/2026/11/12/briefing/nvidia-ceo-resigns-brooklyn-collapse.html",
-      "pubDate": "2026-11-12T22:42:57.000Z",
-      "image": "https://static01.nyt.com/images/2026/11/12/multimedia/12evening-nl-nvidia-huang-clwh/12evening-nl-nvidia-huang-clwh-mediumSquareAt3X.jpg",
-      "author": "Matthew Cullen",
-      "excerpt": "Also, a Brooklyn building collapse kills eight, including two children. Here’s the latest at the end of Thursday.",
-      "source": "NYT"
-    },
-    {
-      "title": "What to Know About the Deadly Building Collapse in Brooklyn",
-      "link": "https://www.nytimes.com/2026/11/12/nyregion/building-collapse-brooklyn-deaths-flatbush-nyc.html",
-      "pubDate": "2026-11-12T22:12:26.000Z",
-      "image": "https://static01.nyt.com/images/2026/12/11/multimedia/11met-building-wtk-pjgk/11met-building-wtk-pjgk-mediumSquareAt3X.jpg",
-      "author": "Maia Coleman",
-      "excerpt": "At least eight people were killed and more than a dozen others injured when a three-story building in Flatbush collapsed on Wednesday, officials said.",
       "source": "NYT"
     },
     {
@@ -986,120 +1031,12 @@
       "source": "NYT"
     },
     {
-      "title": "Nvidia Stock Tumbles After Jensen Huang Resigns as CEO",
-      "link": "https://www.nytimes.com/2026/11/12/business/nvidia-stock-price-jensen-huang-ceo-affair.html",
-      "pubDate": "2026-11-12T21:15:17.000Z",
-      "image": "https://static01.nyt.com/images/2026/11/12/multimedia/12biz-nvidia-stock1-bqgj/12biz-nvidia-stock1-bqgj-mediumSquareAt3X.jpg",
-      "author": "Aruni Soni, Eshe Nelson and Jason Karaian",
-      "excerpt": "News that the chipmaker’s chief executive, Jensen Huang, resigned drove Nvidia’s stock down, though the broader market rose slightly.",
-      "source": "NYT"
-    },
-    {
-      "title": "Jensen Huang, Nvidia’s Ousted CEO, Was the Face of the A.I. Boom Powering the U.S. Economy",
-      "link": "https://www.nytimes.com/2026/11/12/business/economy/jensen-huang-economy-nvidia-ai.html",
-      "pubDate": "2026-11-12T21:05:50.000Z",
-      "image": "https://static01.nyt.com/images/2026/11/12/multimedia/12biz-nvidia-live-economy-mktc/12biz-nvidia-live-economy-mktc-mediumSquareAt3X.jpg",
-      "author": "Ben Casselman",
-      "excerpt": "Nvidia’s ousted leader was a unique rhetorical and financial booster for investments that are driving economic growth.",
-      "source": "NYT"
-    },
-    {
-      "title": "Why 2026 Midterm Polls Underestimated Democratic Support",
-      "link": "https://www.nytimes.com/2026/11/12/us/politics/poll-error-democrats-midterms.html",
-      "pubDate": "2026-11-12T20:29:06.000Z",
-      "image": "https://static01.nyt.com/images/2026/11/06/multimedia/2026-11-05-poll-error-index/2026-11-05-poll-error-index-mediumSquareAt3X-v10.png",
-      "author": "Caroline Soler, Ruth Igielnik and Jillian Vordick",
-      "excerpt": "Democratic gains were expected, but surveys almost uniformly underestimated how well the left would do. Many pollsters seem to have made similar mistakes.",
-      "source": "NYT"
-    },
-    {
-      "title": "Will the Supreme Court Thwart Congressional Investigations?",
-      "link": "https://www.nytimes.com/2026/11/12/us/politics/the-docket-supreme-court-congressional-investigations.html",
-      "pubDate": "2026-11-12T20:27:03.000Z",
-      "image": "https://static01.nyt.com/images/2026/11/12/multimedia/12thedocket-nl-1-bpzt/12thedocket-nl-1-bpzt-mediumSquareAt3X.jpg",
-      "author": "Adam Liptak",
-      "excerpt": "Lawmakers must dodge rulings on immunity, standing and “valid legislative purpose.”",
-      "source": "NYT"
-    },
-    {
-      "title": "When Bernice Gottlieb Visited a Community of People With Leprosy",
-      "link": "https://www.nytimes.com/2026/11/12/obituaries/bernice-gottlieb-dead.html",
-      "pubDate": "2026-11-12T20:15:34.000Z",
-      "image": null,
-      "author": "Maggie Jones",
-      "excerpt": "By embracing Korean children stigmatized by the disease, she was a leader in the international adoption movement. She has died at 95.",
-      "source": "NYT"
-    },
-    {
-      "title": "Paul LePage, Ex-Governor of Maine, Flips House Seat to Republicans",
-      "link": "https://www.nytimes.com/2026/11/12/sports/paul-lepage-maine-house-race.html",
-      "pubDate": "2026-11-12T19:49:08.000Z",
-      "image": "https://static01.nyt.com/images/2026/11/09/multimedia/00hfo-lepage-01-vflq/00hfo-lepage-01-vflq-mediumSquareAt3X.jpg",
-      "author": "John Yoon",
-      "excerpt": "Paul LePage defeated a progressive Democrat, Matt Dunlap, in the state’s rural Second Congressional District.",
-      "source": "NYT"
-    },
-    {
-      "title": "A Frantic Search for Survivors in the Brooklyn Building Collapse",
-      "link": "https://www.nytimes.com/2026/11/12/nyregion/brooklyn-building-collapse-aftermath.html",
-      "pubDate": "2026-11-12T19:43:09.000Z",
-      "image": "https://static01.nyt.com/images/2026/11/12/lens/BUILDING-IN-ONE-IMAGE-promo/BUILDING-IN-ONE-IMAGE-promo-mediumSquareAt3X.png",
-      "author": "Ana Ley and Dave Sanders",
-      "excerpt": "At one moment, an apartment building was standing. At another, it had tumbled into a hole. Ruin, and death, followed.",
-      "source": "NYT"
-    },
-    {
-      "title": "Trump Says He’s Pulling Vance Off Iran Talks to Focus on Fraud Campaign",
-      "link": "https://www.nytimes.com/2026/11/12/us/politics/trump-vance-iran-fraud.html",
-      "pubDate": "2026-11-12T19:38:36.000Z",
-      "image": "https://static01.nyt.com/images/2026/11/12/multimedia/12dc-trump-vance-top-kgmw/12dc-trump-vance-top-kgmw-mediumSquareAt3X-v2.jpg",
-      "author": "Luke Broadwater",
-      "excerpt": "The announcement on social media deepened questions about what the president’s plan is to end the war. “We don’t need a deal with Iran,” he wrote.",
-      "source": "NYT"
-    },
-    {
-      "title": "Kennedy’s Future: Will Democrats Try to Impeach Him, or Actually Work With Him?",
-      "link": "https://www.nytimes.com/2026/11/12/us/politics/rfk-jr-democrats-impeach.html",
-      "pubDate": "2026-11-12T18:18:11.000Z",
-      "image": "https://static01.nyt.com/images/2026/12/07/multimedia/07DC-RFK-FUTURE-top-mgkj/07DC-RFK-FUTURE-top-mgkj-mediumSquareAt3X.jpg",
-      "author": "Sheryl Gay Stolberg",
-      "excerpt": "Most Democrats abhor the health secretary’s stance on vaccines, but some see an opportunity to win voters from his MAHA movement by joining with him on food and environmental issues.",
-      "source": "NYT"
-    },
-    {
-      "title": "One Dead and Four Wounded in Shooting Around Washington D.C. Condo Building",
-      "link": "https://www.nytimes.com/2026/11/12/us/shooting-washington-dc.html",
-      "pubDate": "2026-11-12T17:42:19.000Z",
-      "image": "https://static01.nyt.com/images/2026/11/12/multimedia/12xp-DC-topart-01-bvck/12xp-DC-topart-01-bvck-mediumSquareAt3X.jpg",
-      "author": "Billy Witz, Aishvarya Kavi, Madison Malone Kircher and Christine Hauser",
-      "excerpt": "The shooting in a busy neighborhood took place at a gym and two nearby locations. A suspect was found with a fatal gunshot wound after barricading in a building, the police said.",
-      "source": "NYT"
-    },
-    {
-      "title": "I Saw the Future of Mind-Reading",
-      "link": "https://www.nytimes.com/2026/11/12/opinion/mind-reading-ai.html",
-      "pubDate": "2026-11-12T17:20:50.000Z",
-      "image": "https://static01.nyt.com/images/2026/07/08/opinion/00paglen-7/00paglen-7-mediumSquareAt3X.jpg",
-      "author": "Trevor Paglen",
-      "excerpt": "Thanks to A.I., it’s more possible than ever to glean the inner recesses of a person’s mind. The implications are big — and unnerving.",
-      "source": "NYT"
-    },
-    {
-      "title": "We Were Warned of Deceptive A.I. Fakes. We Got Memes.",
-      "link": "https://www.nytimes.com/2026/11/12/technology/artifical-intelligence-fakes-midterm-memes.html",
-      "pubDate": "2026-11-12T17:13:29.000Z",
-      "image": null,
-      "author": "Stuart A. Thompson",
-      "excerpt": "The surge of A.I. fakes that emerged this election season was different than what researchers had feared. The results are also a reckoning.",
-      "source": "NYT"
-    },
-    {
-      "title": "Data Centers Will Continue to Be Built, Despite Midterm Elections",
-      "link": "https://www.nytimes.com/2026/11/12/technology/voters-data-centers-construction.html",
-      "pubDate": "2026-11-12T14:42:23.000Z",
-      "image": "https://static01.nyt.com/images/2026/11/12/business/12data-center-slowdown-B1/00data-center-slowdown-mediumSquareAt3X.jpg",
-      "author": "Karen Weise",
-      "excerpt": "Big technology companies saw the tide turn against their giant A.I. projects, but they have the means to weather delays.",
+      "title": "Black Turnout Rose in Georgia, Powered by Younger Voters",
+      "link": "https://www.nytimes.com/2026/11/12/us/black-turnout-georgia.html",
+      "pubDate": "2026-11-12T20:30:11.000Z",
+      "image": "https://static01.nyt.com/images/2026/11/12/multimedia/12EA-GA-BLACK-TURNOUT-wmlh/12EA-GA-BLACK-TURNOUT-wmlh-mediumSquareAt3X.jpg",
+      "author": "Evan Reynolds",
+      "excerpt": "Black voters under 30 outpaced young white voters for the first time since 2012, contributing to a statewide sweep by Democrats.",
       "source": "NYT"
     },
     {
