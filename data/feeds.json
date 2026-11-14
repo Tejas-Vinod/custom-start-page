@@ -896,6 +896,69 @@
   ],
   "nytNews": [
     {
+      "title": "When Disaster Hit Next Door in Flatbush",
+      "link": "https://www.nytimes.com/2026/11/14/nyregion/flatbush-building-collapse-neighbors.html",
+      "pubDate": "2026-11-14T21:05:51.000Z",
+      "image": null,
+      "author": "Michael Wilson and Kaja Andric",
+      "excerpt": "What it felt like when the wall came down in Brooklyn.",
+      "source": "NYT"
+    },
+    {
+      "title": "Tech Leaders Rally Behind Jensen Huang",
+      "link": "https://www.nytimes.com/2026/11/14/technology/silicon-valley-nvidia-jensen-huang.html",
+      "pubDate": "2026-11-14T20:57:38.000Z",
+      "image": "https://static01.nyt.com/images/2026/11/14/multimedia/14biz-jensen-support-Huang-vpjh/14biz-jensen-support-Huang-vpjh-mediumSquareAt3X.jpg",
+      "author": "Kalley Huang",
+      "excerpt": "In social media posts and letters to Nvidia’s board, Mr. Huang’s billionaire peers described him as a singular leader who could not be replaced at Nvidia.",
+      "source": "NYT"
+    },
+    {
+      "title": "Here’s Why It Could Take Days for Flights to Return to Normal",
+      "link": "https://www.nytimes.com/2026/11/14/us/faa-groundstop-flights-restarting.html",
+      "pubDate": "2026-11-14T20:48:54.000Z",
+      "image": "https://static01.nyt.com/images/2026/11/14/multimedia/14faa-groundstop-bouncing-back-topart-ztjq/14faa-groundstop-bouncing-back-topart-ztjq-mediumSquareAt3X.jpg",
+      "author": "Niraj Chokshi",
+      "excerpt": "With hundreds of planes out of position and crews out of hours, restarting the nation’s flight system is no easy task.",
+      "source": "NYT"
+    },
+    {
+      "title": "How Some Flights Were Exempt From the Ground Stop",
+      "link": "https://www.nytimes.com/2026/11/14/business/faa-ground-stop-exceptions-airlines.html",
+      "pubDate": "2026-11-14T20:21:13.000Z",
+      "image": "https://static01.nyt.com/images/2026/11/14/multimedia/14xp-airlines-explainer-topart-kmpz/14xp-airlines-explainer-topart-kmpz-mediumSquareAt3X.jpg",
+      "author": "Emmett Lindner",
+      "excerpt": "Dozens of international flights departed from the United States during Friday’s nationwide ground stop. Some planes also left for Hawaii from the West Coast.",
+      "source": "NYT"
+    },
+    {
+      "title": "In the Rubble of a Fallen Building, He Rescued a 2-Year-Old",
+      "link": "https://www.nytimes.com/2026/11/14/nyregion/building-collapse-brooklyn-boy-rescue.html",
+      "pubDate": "2026-11-14T19:24:17.000Z",
+      "image": null,
+      "author": "Maria Cramer and Luis Ferré-Sadurní",
+      "excerpt": "Miguel Tigsilema, a construction worker, was looking for survivors in the horrific aftermath of a collapse in Brooklyn. He saw a small boy.",
+      "source": "NYT"
+    },
+    {
+      "title": "After Relative Silence, Joe Rogan Said MAGA Has Lost the “Podcast Bros”",
+      "link": "https://www.nytimes.com/2026/11/14/style/after-relative-silence-joe-rogan-said-trumps-policies-have-lost-the-podcast-bros.html",
+      "pubDate": "2026-11-14T19:19:43.000Z",
+      "image": "https://static01.nyt.com/images/2026/12/05/multimedia/05ST-MANOSPHERE-ELECTION-REAX-01-cqwl/05ST-MANOSPHERE-ELECTION-REAX-01-cqwl-mediumSquareAt3X.jpg",
+      "author": "Jesse McKinley",
+      "excerpt": "The nation’s top podcaster addressed the midterm election results, days after declaring that he thinks politics is “gross.”",
+      "source": "NYT"
+    },
+    {
+      "title": "Perhaps the Rumors of Democracy’s Demise Were Premature",
+      "link": "https://www.nytimes.com/2026/11/14/magazine/democracy-midterm-elections.html",
+      "pubDate": "2026-11-14T18:17:13.000Z",
+      "image": "https://static01.nyt.com/images/2026/11/13/magazine/00mag-democracy/00mag-democracy-mediumSquareAt3X-v3.jpg",
+      "author": "Emily Bazelon",
+      "excerpt": "Did the midterm election save it?",
+      "source": "NYT"
+    },
+    {
       "title": "Goodbye, Mr. Chips",
       "link": "https://www.nytimes.com/2026/11/14/opinion/huang-trump-lutnick-bessent.html",
       "pubDate": "2026-11-14T16:08:17.000Z",
@@ -905,19 +968,10 @@
       "source": "NYT"
     },
     {
-      "title": "What to Know About Friday’s Nationwide Ground Stop",
-      "link": "https://www.nytimes.com/2026/11/13/us/faa-ground-stop-flights-what-to-know.html",
-      "pubDate": "2026-11-14T15:04:44.000Z",
-      "image": "https://static01.nyt.com/images/2026/12/13/multimedia/13faa-groundstop-what-to-know-kgwh/13faa-groundstop-what-to-know-kgwh-mediumSquareAt3X.jpg",
-      "author": "Karoun Demirjian",
-      "excerpt": "The air traffic control system’s overloaded, antiquated telecommunications equipment sustained its latest widespread failure, prompting a call for more money to fuel faster upgrades.",
-      "source": "NYT"
-    },
-    {
       "title": "Brooklyn Building Collapse Tragedy Devastates Immigrant Families",
       "link": "https://www.nytimes.com/2026/11/14/nyregion/building-collapse-brooklyn-immigrants.html",
       "pubDate": "2026-11-14T14:48:52.000Z",
-      "image": "https://static01.nyt.com/images/2026/11/14/multimedia/14met-building-immigrant-top-mzgw/14met-building-immigrant-top-mzgw-mediumSquareAt3X.jpg",
+      "image": "https://static01.nyt.com/images/2026/11/14/multimedia/14met-building-immigrant-top-mzgw/14met-building-immigrant-top-mzgw-mediumSquareAt3X-v2.jpg",
       "author": "Luis Ferré-Sadurní and Ana Ley",
       "excerpt": "Theirs was a story as old as New York. On a street in Brooklyn, immigrants had arrived to work and live, until their lives intersected in tragedy.",
       "source": "NYT"
@@ -932,48 +986,12 @@
       "source": "NYT"
     },
     {
-      "title": "Alaska Senate Race Between Dan Sullivan and Mary Peltola Still Counting Votes",
-      "link": "https://www.nytimes.com/2026/11/14/us/alaska-senate-race-ranked-choice-tabulation.html",
-      "pubDate": "2026-11-14T13:30:56.000Z",
-      "image": "https://static01.nyt.com/images/2026/11/13/us/00pol-alaska-no-call-HFO/00pol-alaska-no-call-HFO-mediumSquareAt3X.jpg",
-      "author": "Tim Balk",
-      "excerpt": "The race between Senator Dan S. Sullivan and Ms. Peltola, a former representative, is the only Senate contest that hasn’t been called.",
-      "source": "NYT"
-    },
-    {
       "title": "What’s Behind the Trump-Huang Relationship?",
       "link": "https://www.nytimes.com/video/us/politics/100000011272223/whats-behind-the-trump-huang-relationship.html",
       "pubDate": "2026-11-14T13:27:10.000Z",
       "image": "https://static01.nyt.com/images/2026/11/09/us/politics/maggie-huang-trump/maggie-huang-trump-mediumSquareAt3X.png",
       "author": "Maggie Haberman, John Pappas, Gilad Thaler, Thomas Vollkommer, James Surdam, Edward Vega and Nikolay Nikolov",
       "excerpt": "President Trump’s show of support for Jensen Huang as he was under fire was a remarkable moment in a relationship that barely existed two years ago. Our White House correspondent Maggie Haberman explains how Mr. Trump came to see Mr. Huang as a modern-day Henry Ford.",
-      "source": "NYT"
-    },
-    {
-      "title": "‘There’s No Juice Left to Squeeze From MAGA’",
-      "link": "https://www.nytimes.com/2026/11/14/opinion/midterm-elections-democrats-republicans-whats-next.html",
-      "pubDate": "2026-11-14T12:00:09.000Z",
-      "image": "https://static01.nyt.com/images/2026/11/14/opinion/14opinions-roundtable-image/14opinions-roundtable-image-mediumSquareAt3X.png",
-      "author": "Robert Siegel, E.J. Dionne Jr., Timothy P. Carney and Vishakha Darbha",
-      "excerpt": "More than a week after the blue wave, what comes next for both parties?",
-      "source": "NYT"
-    },
-    {
-      "title": "The Jensen Huang Scandal Has Shocked Even Scandal-Prone Silicon Valley",
-      "link": "https://www.nytimes.com/2026/11/14/technology/jensen-huang-nvidia-scandal-silicon-valley.html",
-      "pubDate": "2026-11-14T11:55:40.000Z",
-      "image": "https://static01.nyt.com/images/2026/11/15/multimedia/14bizsun-huang-valley-03-lpmz/14bizsun-huang-valley-03-lpmz-mediumSquareAt3X.jpg",
-      "author": "David Streitfeld",
-      "excerpt": "As Jensen Huang abruptly departs, the tech community grapples with an eternal question: Why do the smartest and most successful men so often act so stupidly?",
-      "source": "NYT"
-    },
-    {
-      "title": "Forever in Bluejeans",
-      "link": "https://www.nytimes.com/2026/11/14/briefing/forever-in-bluejeans.html",
-      "pubDate": "2026-11-14T11:22:42.000Z",
-      "image": "https://static01.nyt.com/images/2026/11/14/multimedia/14themorning-nl-jeans-01-lbtc/14themorning-nl-jeans-01-lbtc-mediumSquareAt3X-v3.jpg",
-      "author": "Jacob Gallagher",
-      "excerpt": "A reflection on denim.",
       "source": "NYT"
     },
     {
@@ -995,39 +1013,21 @@
       "source": "NYT"
     },
     {
-      "title": "Did the Redistricting Wars Backfire on Republicans? In a Word, No.",
-      "link": "https://www.nytimes.com/2026/11/13/upshot/gerrymanders-midterm-elections-republicans.html",
-      "pubDate": "2026-11-14T05:14:26.000Z",
-      "image": "https://static01.nyt.com/images/2026/11/13/multimedia/2026-11-05-midterm-simulations-index/2026-11-05-midterm-simulations-index-mediumSquareAt3X-v4.jpg",
-      "author": "Nate Cohn and Eve Washington",
-      "excerpt": "The G.O.P. was able to avoid more House midterm losses — on top of the advantage it already had from gerrymandering.",
-      "source": "NYT"
-    },
-    {
-      "title": "Developer Avoided Stricter Oversight Before Fatal Building Collapse",
-      "link": "https://www.nytimes.com/2026/11/13/nyregion/flatbush-building-collapse-oversight.html",
-      "pubDate": "2026-11-14T02:24:29.000Z",
-      "image": "https://static01.nyt.com/images/2026/11/13/multimedia/13met-flatbush-oversight-01-bfmz/13met-flatbush-oversight-01-bfmz-mediumSquareAt3X.jpg",
-      "author": "Stefanos Chen, Mihir Zaveri, Amy Julia Harris, Bianca Pallaro, Dionne Searcey and William K. Rashbaum",
-      "excerpt": "By winning approval for a three-story building, then seeking to add more stories, the Brooklyn developer was not subject to the more rigorous oversight required for larger projects.",
-      "source": "NYT"
-    },
-    {
-      "title": "Trump to Meet With Putin and Xi in China, With Nuclear Proliferation on the Agenda",
-      "link": "https://www.nytimes.com/2026/11/13/us/politics/trump-putin-xi-china-nuclear-proliferation.html",
-      "pubDate": "2026-11-14T02:24:24.000Z",
-      "image": "https://static01.nyt.com/images/2026/11/13/multimedia/13dc-trilateral-meeting-kvtj/13dc-trilateral-meeting-kvtj-mediumSquareAt3X.jpg",
-      "author": "Katie Rogers",
-      "excerpt": "The president plans to also discuss the war against Iran, but is not expected to bring up Russia’s war in Ukraine or the scandal that has engulfed Jensen Huang.",
-      "source": "NYT"
-    },
-    {
       "title": "Nvidia Scandal Prompts Questions of What It Means to Be a Spy",
       "link": "https://www.nytimes.com/2026/11/13/us/politics/nvidia-alice-huang-spy-china.html",
       "pubDate": "2026-11-14T01:22:56.000Z",
       "image": "https://static01.nyt.com/images/2026/11/13/multimedia/13dc-intel-vzbm/13dc-intel-vzbm-mediumSquareAt3X.jpg",
       "author": "Julian E. Barnes, Maggie Haberman and Jonathan Swan",
       "excerpt": "U.S. intelligence agencies believe a woman who had an affair with Jensen Huang was a Chinese asset. But there is much more that they are still assessing about her role.",
+      "source": "NYT"
+    },
+    {
+      "title": "‘Listen’: My Mother Has Dementia. These Sounds Help Bring Her Back.",
+      "link": "https://www.nytimes.com/2026/11/12/opinion/dementia-memory-alaska-wilderness-sounds.html",
+      "pubDate": "2026-11-12T23:26:12.000Z",
+      "image": null,
+      "author": "Taliesin Black-Brown and Hank Lentfer",
+      "excerpt": "In the Alaskan wilderness, a deeper truth awaits those who stop to listen.",
       "source": "NYT"
     }
   ]
