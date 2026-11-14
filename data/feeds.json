@@ -24,7 +24,7 @@
       "pubDate": "2026-11-13T19:15:11.000Z",
       "image": "https://spaceflightnow.com/wp-content/uploads/2026/11/20261113-Starship-remote.jpg",
       "author": "Spaceflight Now",
-      "excerpt": "Liftoff of the Starship vehicle from Starbase in Texas occurred at 4:48 p.m. CST (5:48 p.m. EST / 2248 UTC) on Friday, Nov. 13. The Ship could return to a landing at Starbase on Saturday.",
+      "excerpt": "Liftoff of the Starship vehicle from Starbase in Texas occurred at 4:47 p.m. CST (5:47 p.m. EST / 2247 UTC) on Friday, Nov. 13. The Ship could return to a landing at Starbase on Saturday.",
       "source": "Spaceflight Now"
     },
     {
@@ -82,12 +82,12 @@
       "source": "Payload"
     },
     {
-      "title": "ULA delays to Saturday Vulcan rocket launch of 40 Leo satellites for Amazon",
+      "title": "ULA delays to Sunday Vulcan rocket launch of 40 Leo satellites for Amazon",
       "link": "https://spaceflightnow.com/2026/11/13/ulas-vulcan-rocket-plans-return-to-flight-with-launch-of-40-leo-satellites-for-amazon/",
       "pubDate": "2026-11-13T12:25:06.000Z",
       "image": "https://spaceflightnow.com/wp-content/uploads/2026/11/20261113-Vulcan-LV-01-Pad-logos.jpg",
       "author": "Houston Harwood",
-      "excerpt": "Liftoff from Space Launch Complex 41 at Cape Canaveral Space Force Station is now scheduled for 12:32 p.m. EST (1732 UTC) on Saturday.",
+      "excerpt": "Liftoff from Space Launch Complex 41 at Cape Canaveral Space Force Station is now scheduled for 12:11 p.m. EST (1711 UTC) on Sunday.",
       "source": "Spaceflight Now"
     },
     {
@@ -896,21 +896,102 @@
   ],
   "nytNews": [
     {
+      "title": "Goodbye, Mr. Chips",
+      "link": "https://www.nytimes.com/2026/11/14/opinion/huang-trump-lutnick-bessent.html",
+      "pubDate": "2026-11-14T16:08:17.000Z",
+      "image": "https://static01.nyt.com/images/2026/11/14/multimedia/14dowd-tzlv/14dowd-tzlv-mediumSquareAt3X.jpg",
+      "author": "Maureen Dowd",
+      "excerpt": "Terrible tech bros leading us into a scary future.",
+      "source": "NYT"
+    },
+    {
       "title": "What to Know About Friday’s Nationwide Ground Stop",
       "link": "https://www.nytimes.com/2026/11/13/us/faa-ground-stop-flights-what-to-know.html",
-      "pubDate": "2026-11-14T06:54:50.000Z",
+      "pubDate": "2026-11-14T15:04:44.000Z",
       "image": "https://static01.nyt.com/images/2026/12/13/multimedia/13faa-groundstop-what-to-know-kgwh/13faa-groundstop-what-to-know-kgwh-mediumSquareAt3X.jpg",
       "author": "Karoun Demirjian",
       "excerpt": "The air traffic control system’s overloaded, antiquated telecommunications equipment sustained its latest widespread failure, prompting a call for more money to fuel faster upgrades.",
       "source": "NYT"
     },
     {
+      "title": "Brooklyn Building Collapse Tragedy Devastates Immigrant Families",
+      "link": "https://www.nytimes.com/2026/11/14/nyregion/building-collapse-brooklyn-immigrants.html",
+      "pubDate": "2026-11-14T14:48:52.000Z",
+      "image": "https://static01.nyt.com/images/2026/11/14/multimedia/14met-building-immigrant-top-mzgw/14met-building-immigrant-top-mzgw-mediumSquareAt3X.jpg",
+      "author": "Luis Ferré-Sadurní and Ana Ley",
+      "excerpt": "Theirs was a story as old as New York. On a street in Brooklyn, immigrants had arrived to work and live, until their lives intersected in tragedy.",
+      "source": "NYT"
+    },
+    {
+      "title": "How the University of North Carolina Tried to Avoid Trump’s Wrath",
+      "link": "https://www.nytimes.com/2026/11/13/us/university-north-carolina-science-research-cuts-trump.html",
+      "pubDate": "2026-11-14T14:12:35.000Z",
+      "image": "https://static01.nyt.com/images/2026/10/26/us/26nat-unc-science-promo/26nat-unc-science-promo-mediumSquareAt3X-v2.jpg",
+      "author": "Alan Blinder, Stephanie Saul, Irena Hwang, Benjamin Mueller and Mike Belleme",
+      "excerpt": "The University of North Carolina’s chancellor tried to protect the school from the Trump administration. Work on cancer, suicide, AIDS and coronaviruses was hit anyway.",
+      "source": "NYT"
+    },
+    {
       "title": "Alaska Senate Race Between Dan Sullivan and Mary Peltola Still Counting Votes",
       "link": "https://www.nytimes.com/2026/11/14/us/alaska-senate-race-ranked-choice-tabulation.html",
-      "pubDate": "2026-11-14T05:31:12.000Z",
+      "pubDate": "2026-11-14T13:30:56.000Z",
       "image": "https://static01.nyt.com/images/2026/11/13/us/00pol-alaska-no-call-HFO/00pol-alaska-no-call-HFO-mediumSquareAt3X.jpg",
       "author": "Tim Balk",
-      "excerpt": "The race between Senator Dan S. Sullivan and Ms. Peltola, a former congresswoman, is the only Senate contest that hasn’t been called.",
+      "excerpt": "The race between Senator Dan S. Sullivan and Ms. Peltola, a former representative, is the only Senate contest that hasn’t been called.",
+      "source": "NYT"
+    },
+    {
+      "title": "What’s Behind the Trump-Huang Relationship?",
+      "link": "https://www.nytimes.com/video/us/politics/100000011272223/whats-behind-the-trump-huang-relationship.html",
+      "pubDate": "2026-11-14T13:27:10.000Z",
+      "image": "https://static01.nyt.com/images/2026/11/09/us/politics/maggie-huang-trump/maggie-huang-trump-mediumSquareAt3X.png",
+      "author": "Maggie Haberman, John Pappas, Gilad Thaler, Thomas Vollkommer, James Surdam, Edward Vega and Nikolay Nikolov",
+      "excerpt": "President Trump’s show of support for Jensen Huang as he was under fire was a remarkable moment in a relationship that barely existed two years ago. Our White House correspondent Maggie Haberman explains how Mr. Trump came to see Mr. Huang as a modern-day Henry Ford.",
+      "source": "NYT"
+    },
+    {
+      "title": "‘There’s No Juice Left to Squeeze From MAGA’",
+      "link": "https://www.nytimes.com/2026/11/14/opinion/midterm-elections-democrats-republicans-whats-next.html",
+      "pubDate": "2026-11-14T12:00:09.000Z",
+      "image": "https://static01.nyt.com/images/2026/11/14/opinion/14opinions-roundtable-image/14opinions-roundtable-image-mediumSquareAt3X.png",
+      "author": "Robert Siegel, E.J. Dionne Jr., Timothy P. Carney and Vishakha Darbha",
+      "excerpt": "More than a week after the blue wave, what comes next for both parties?",
+      "source": "NYT"
+    },
+    {
+      "title": "The Jensen Huang Scandal Has Shocked Even Scandal-Prone Silicon Valley",
+      "link": "https://www.nytimes.com/2026/11/14/technology/jensen-huang-nvidia-scandal-silicon-valley.html",
+      "pubDate": "2026-11-14T11:55:40.000Z",
+      "image": "https://static01.nyt.com/images/2026/11/15/multimedia/14bizsun-huang-valley-03-lpmz/14bizsun-huang-valley-03-lpmz-mediumSquareAt3X.jpg",
+      "author": "David Streitfeld",
+      "excerpt": "As Jensen Huang abruptly departs, the tech community grapples with an eternal question: Why do the smartest and most successful men so often act so stupidly?",
+      "source": "NYT"
+    },
+    {
+      "title": "Forever in Bluejeans",
+      "link": "https://www.nytimes.com/2026/11/14/briefing/forever-in-bluejeans.html",
+      "pubDate": "2026-11-14T11:22:42.000Z",
+      "image": "https://static01.nyt.com/images/2026/11/14/multimedia/14themorning-nl-jeans-01-lbtc/14themorning-nl-jeans-01-lbtc-mediumSquareAt3X-v3.jpg",
+      "author": "Jacob Gallagher",
+      "excerpt": "A reflection on denim.",
+      "source": "NYT"
+    },
+    {
+      "title": "Olivia Wilde Hit Bottom. Here’s How She Bounced Back.",
+      "link": "https://www.nytimes.com/2026/11/14/magazine/olivia-wilde-interview.html",
+      "pubDate": "2026-11-14T10:15:07.000Z",
+      "image": "https://static01.nyt.com/images/2026/11/22/magazine/22mag-interview-wilde-04/22mag-interview-wilde-04-mediumSquareAt3X.jpg",
+      "author": "David Marchese",
+      "excerpt": "The actor-director learned a lot about shame, regret and failure — and then made a hit movie.",
+      "source": "NYT"
+    },
+    {
+      "title": "Top Democrat Eyes Filibuster-Proof Budget Bill to Unlock Affordability Agenda",
+      "link": "https://www.nytimes.com/2026/11/14/us/politics/house-democrats-affordability-costs-budget.html",
+      "pubDate": "2026-11-14T10:01:49.000Z",
+      "image": "https://static01.nyt.com/images/2026/12/11/multimedia/00DC-AFFORDABILITY-plhz/00DC-AFFORDABILITY-plhz-mediumSquareAt3X.jpg",
+      "author": "Catie Edmondson",
+      "excerpt": "The lawmaker set to lead the House Budget Committee outlined Democrats’ options for forcing a negotiation with President Trump on an economic package to bring down living costs.",
       "source": "NYT"
     },
     {
@@ -920,42 +1001,6 @@
       "image": "https://static01.nyt.com/images/2026/11/13/multimedia/2026-11-05-midterm-simulations-index/2026-11-05-midterm-simulations-index-mediumSquareAt3X-v4.jpg",
       "author": "Nate Cohn and Eve Washington",
       "excerpt": "The G.O.P. was able to avoid more House midterm losses — on top of the advantage it already had from gerrymandering.",
-      "source": "NYT"
-    },
-    {
-      "title": "A Democrat Wins the Alaska Governor’s Race for the First Time Since 1998",
-      "link": "https://www.nytimes.com/2026/11/14/us/elections/alaska-governor-winner-kreiss-tomkins-jkt.html",
-      "pubDate": "2026-11-14T05:08:59.000Z",
-      "image": "https://static01.nyt.com/images/2026/11/03/multimedia/03midterms-hfo-alaska-governor-jkt-jqcg/03midterms-hfo-alaska-governor-jkt-jqcg-mediumSquareAt3X.jpg",
-      "author": "Anna Griffin",
-      "excerpt": "Jonathan Kreiss-Tomkins made a name for himself as a coalition builder willing to raise alarms about his state’s dire fiscal straits.",
-      "source": "NYT"
-    },
-    {
-      "title": "A ‘Generational Clash’ Is Fueling Europe’s Protests",
-      "link": "https://www.nytimes.com/2026/11/14/world/europe/student-protests-pensions-generations.html",
-      "pubDate": "2026-11-14T05:01:06.000Z",
-      "image": "https://static01.nyt.com/images/2026/11/11/multimedia/11int-europe-generations-01-lkbm/11int-europe-generations-01-lkbm-mediumSquareAt3X.jpg",
-      "author": "Jason Horowitz",
-      "excerpt": "As retirees live longer, governments need to spend more on pensions. That makes it harder to fund other services, spurring protests like those planned this weekend in France.",
-      "source": "NYT"
-    },
-    {
-      "title": "Howard Lutnick Has Got to Go",
-      "link": "https://www.nytimes.com/2026/11/13/opinion/jensen-huang-nvidia-howard-lutnick-commerce.html",
-      "pubDate": "2026-11-14T03:55:46.000Z",
-      "image": "https://static01.nyt.com/images/2026/11/13/multimedia/13mcguire-bcjp/13mcguire-bcjp-mediumSquareAt3X.jpg",
-      "author": "Chris McGuire",
-      "excerpt": "The secretary of commerce is almost as responsible for Nvidia’s crisis as the fallen chief executive Jensen Huang.",
-      "source": "NYT"
-    },
-    {
-      "title": "Flight Canceled During the FAA Ground Stop? Here’s What to Do.",
-      "link": "https://www.nytimes.com/2026/11/13/us/ground-stop-flight-delays-cancellations-tips.html",
-      "pubDate": "2026-11-14T03:07:27.000Z",
-      "image": "https://static01.nyt.com/images/2026/11/13/multimedia/13faa-groundstop-travelers-rights2-qwgh/13faa-groundstop-travelers-rights2-qwgh-mediumSquareAt3X.jpg",
-      "author": "Christine Chung",
-      "excerpt": "Travelers are entitled to refunds if their flights are canceled, regardless of the reason, but airlines won’t guarantee other amenities, such as a hotel room or meal vouchers.",
       "source": "NYT"
     },
     {
@@ -983,150 +1028,6 @@
       "image": "https://static01.nyt.com/images/2026/11/13/multimedia/13dc-intel-vzbm/13dc-intel-vzbm-mediumSquareAt3X.jpg",
       "author": "Julian E. Barnes, Maggie Haberman and Jonathan Swan",
       "excerpt": "U.S. intelligence agencies believe a woman who had an affair with Jensen Huang was a Chinese asset. But there is much more that they are still assessing about her role.",
-      "source": "NYT"
-    },
-    {
-      "title": "All Accounted for After Tanker Crashes Into Docked New Orleans Riverboat",
-      "link": "https://www.nytimes.com/2026/11/13/us/new-orleans-cruise-ship-crash.html",
-      "pubDate": "2026-11-14T01:17:24.000Z",
-      "image": "https://static01.nyt.com/images/2026/11/13/multimedia/13xp-new-orleans-ship-lpfg/13xp-new-orleans-ship-lpfg-mediumSquareAt3X-v2.jpg",
-      "author": "Rebecca Chao, Ishani Desai, Neil Vigdor and Shannon Sims",
-      "excerpt": "Gov. Jeff Landry of Louisiana called it a “literal miracle on the Mississippi” that all of the nearly 200 people aboard the riverboat were rescued.",
-      "source": "NYT"
-    },
-    {
-      "title": "Jewish Heirs Challenge Sale of $180 Million van Gogh Painting at Sotheby’s",
-      "link": "https://www.nytimes.com/2026/11/13/arts/design/van-gogh-sale-sothebys.html",
-      "pubDate": "2026-11-14T00:46:02.000Z",
-      "image": "https://static01.nyt.com/images/2026/11/14/multimedia/14cul-van-gogh-chestnut-klfg/14cul-van-gogh-chestnut-klfg-mediumSquareAt3X.jpg",
-      "author": "Catherine Hickley",
-      "excerpt": "Heirs say “Blossoming Chestnut Trees” was sold under Nazi-era duress. The auction house says it is “committed to working toward a mutually satisfactory resolution.”",
-      "source": "NYT"
-    },
-    {
-      "title": "Trump Officials Press Congress to Renew Spying Law in Lame-Duck Session",
-      "link": "https://www.nytimes.com/2026/11/13/us/politics/trump-congress-section-702-surveillance.html",
-      "pubDate": "2026-11-13T23:10:36.000Z",
-      "image": "https://static01.nyt.com/images/2026/11/13/multimedia/13dc-surveillance-pbwq/13dc-surveillance-pbwq-mediumSquareAt3X.jpg",
-      "author": "Charlie Savage and Dustin Volz",
-      "excerpt": "The request to extend a high-profile warrantless surveillance law would add a thorny issue during waning Republican control.",
-      "source": "NYT"
-    },
-    {
-      "title": "5 Takeaways from Joe Biden’s Memoir: The Debate, Dropping Out and Advice From Romney",
-      "link": "https://www.nytimes.com/2026/11/13/us/politics/joe-biden-new-memoir-takeaways.html",
-      "pubDate": "2026-11-13T23:01:10.000Z",
-      "image": "https://static01.nyt.com/images/2026/11/16/multimedia/16pol-biden-book-takeaways-gzml/16pol-biden-book-takeaways-gzml-mediumSquareAt3X.jpg",
-      "author": "Tim Balk",
-      "excerpt": "The 46th president defends his decision to run for re-election, which many in his party now regard as a mistake, and revisits the disastrous debate that forced him to end his campaign.",
-      "source": "NYT"
-    },
-    {
-      "title": "Democrats Vie for Support in Race for Top Senate Job",
-      "link": "https://www.nytimes.com/2026/11/13/us/politics/democrats-senate-leader.html",
-      "pubDate": "2026-11-13T22:53:50.000Z",
-      "image": "https://static01.nyt.com/images/2026/11/12/espanol/12dc-vanhollen-kvwt-ES-copy1/12dc-vanhollen-kvwt-mediumSquareAt3X.jpg",
-      "author": "Carl Hulse",
-      "excerpt": "Senator Chris Van Hollen of Maryland said he wouldn’t run for president to focus on his leadership challenge to Senator Chuck Schumer, who remained confident he would prevail.",
-      "source": "NYT"
-    },
-    {
-      "title": "Lauren Boebert Loses Re-election Bid in Colorado House Race to Eileen Laubacher",
-      "link": "https://www.nytimes.com/2026/11/09/us/lauren-boebert-colorado-house-election.html",
-      "pubDate": "2026-11-13T22:32:23.000Z",
-      "image": "https://static01.nyt.com/images/2026/11/03/multimedia/03hfo-pol-boebert-loses-tjkf/03hfo-pol-boebert-loses-tjkf-mediumSquareAt3X.jpg",
-      "author": "Bayliss Wagner and Kellen Browning",
-      "excerpt": "Ms. Boebert’s loss to Eileen Laubacher in a conservative House district represents a significant victory for Democrats.",
-      "source": "NYT"
-    },
-    {
-      "title": "Microsoft’s Global Outage and Fixes: What We Know",
-      "link": "https://www.nytimes.com/2026/11/13/technology/microsoft-outage-what-to-know.html",
-      "pubDate": "2026-11-13T22:30:40.000Z",
-      "image": "https://static01.nyt.com/images/2026/11/13/multimedia/13xp-microsoftWWK-1-lfcv/13xp-microsoftWWK-1-lfcv-mediumSquareAt3X.jpg",
-      "author": "Michael Levenson",
-      "excerpt": "The company described “encouraging” progress on efforts to overcome a second day of disruptions to its email, messaging and other services.",
-      "source": "NYT"
-    },
-    {
-      "title": "Russia Revives Demand That NATO Retrench to Secure Ukraine Deal",
-      "link": "https://www.nytimes.com/2026/11/13/us/politics/russia-demand-nato-ukraine.html",
-      "pubDate": "2026-11-13T22:18:02.000Z",
-      "image": "https://static01.nyt.com/images/2026/11/13/multimedia/13dc-trump-russia-top-mtwc/13dc-trump-russia-top-mtwc-mediumSquareAt3X.jpg",
-      "author": "Anton Troianovski, Andrew E. Kramer, Jeanna Smialek, David E. Sanger and Eric Schmitt",
-      "excerpt": "The hard-line position of Russian officials in closed-door negotiations about ending the war thrusts European security into the heart of the talks.",
-      "source": "NYT"
-    },
-    {
-      "title": "Inside Microsoft’s Rush to Get Back Online After a Global Outage",
-      "link": "https://www.nytimes.com/2026/11/13/business/microsoft-outage.html",
-      "pubDate": "2026-11-13T21:28:58.000Z",
-      "image": "https://static01.nyt.com/images/2026/11/13/multimedia/13biz-microsoft-down-ptmz/13biz-microsoft-down-ptmz-mediumSquareAt3X.jpg",
-      "author": "Karen Weise",
-      "excerpt": "A prolonged outage left many without email and other services, the most recent reminder that the world’s technological underpinnings rely on just a few companies.",
-      "source": "NYT"
-    },
-    {
-      "title": "Hakeem Jeffries Pushes to Lock Down House Speakership, With No Challenger Emerging",
-      "link": "https://www.nytimes.com/2026/11/13/us/politics/jeffries-house-speaker-democrats.html",
-      "pubDate": "2026-11-13T21:28:36.000Z",
-      "image": "https://static01.nyt.com/images/2026/11/13/multimedia/13dc-jeffries-pfct/13dc-jeffries-pfct-mediumSquareAt3X.jpg",
-      "author": "Annie Karni",
-      "excerpt": "Facing resistance from the left but no challenger, the Democratic leader is sewing up support from key coalitions as his allies say he deserves a unanimous vote.",
-      "source": "NYT"
-    },
-    {
-      "title": "Why Jensen Huang Was Essential to Nvidia’s Rise",
-      "link": "https://www.nytimes.com/video/business/100000011275611/why-jensen-huang-was-essential-to-nvidias-rise.html",
-      "pubDate": "2026-11-13T20:14:05.000Z",
-      "image": null,
-      "author": "Tripp Mickle, Gilad Thaler, Thomas Vollkommer, Shawn Paik, Nikolay Nikolov, James Surdam, Rafaela Balster, June Kim and Mark Oltmanns",
-      "excerpt": "Jensen Huang was the driving force at Nvidia, with 60 direct reports and no clear succession plan. Tripp Mickle, one of our technology reporters, examines Mr. Huang’s central role in the company and the artificial intelligence industry.",
-      "source": "NYT"
-    },
-    {
-      "title": "Wall Street Loses a Powerful Dealmaker After Nvidia’s CEO Is Ousted",
-      "link": "https://www.nytimes.com/2026/11/13/business/jensen-huang-nvidia-wall-street.html",
-      "pubDate": "2026-11-13T19:52:01.000Z",
-      "image": "https://static01.nyt.com/images/2026/11/12/multimedia/12biz-Nvidia-Wall-Street-01-hmfk/12biz-Nvidia-Wall-Street-01-hmfk-mediumSquareAt3X.jpg",
-      "author": "Maureen Farrell and Rob Copeland",
-      "excerpt": "The ousted Nvidia chief executive was the consummate dealmaker leading the trillion-dollar A.I. build out.",
-      "source": "NYT"
-    },
-    {
-      "title": "Sister June Carpenter, the Oldest Shaker, Has Died",
-      "link": "https://www.nytimes.com/2026/11/13/us/june-carpenter-dead.html",
-      "pubDate": "2026-11-13T19:27:04.000Z",
-      "image": null,
-      "author": "Penelope Green",
-      "excerpt": "Now there are only two practicing members of the last active Shaker community in the United States. Sister June was 88.",
-      "source": "NYT"
-    },
-    {
-      "title": "Book Review: ‘Promise Me, America,’ by Joe Biden",
-      "link": "https://www.nytimes.com/2026/11/13/books/review/promise-me-america-joe-biden.html",
-      "pubDate": "2026-11-13T18:55:03.000Z",
-      "image": "https://static01.nyt.com/images/2026/11/17/multimedia/17TBR-Biden-review-qlkb/17TBR-Biden-review-qlkb-mediumSquareAt3X.jpg",
-      "author": "Jennifer Szalai",
-      "excerpt": "The former president’s new memoir trumpets his achievements while justifying his decision to run for a second term and his embrace of Israel’s war in Gaza.",
-      "source": "NYT"
-    },
-    {
-      "title": "The Swingiest State Has Gone Very Red",
-      "link": "https://www.nytimes.com/2026/11/13/opinion/florida-republicans-democrats.html",
-      "pubDate": "2026-11-13T17:33:42.000Z",
-      "image": "https://static01.nyt.com/images/2026/11/13/multimedia/13grunwald1a-mvbq/13grunwald1a-mvbq-mediumSquareAt3X.jpg",
-      "author": "Michael Grunwald",
-      "excerpt": "A lot of Republicans have moved to Florida since Covid, and those newcomers really like the way Republicans are running it.",
-      "source": "NYT"
-    },
-    {
-      "title": "Jensen Huang’s Leather Jacket Isn’t Helping Him Right Now",
-      "link": "https://www.nytimes.com/2026/11/13/style/jensen-huang-nvidia-leather-jacket-ai.html",
-      "pubDate": "2026-11-13T16:41:07.000Z",
-      "image": "https://static01.nyt.com/images/2026/11/12/multimedia/12HUANG-JACKET-01-zqbm/12HUANG-JACKET-01-zqbm-mediumSquareAt3X.jpg",
-      "author": "Jacob Gallagher",
-      "excerpt": "The Nvidia founder’s signature look branded him as a maverick. Does that image read differently now?",
       "source": "NYT"
     }
   ]
