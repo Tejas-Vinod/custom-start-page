@@ -1,6 +1,15 @@
 {
   "spaceNews": [
     {
+      "title": "SpaceX Successfully Catches Starship Upper Stage",
+      "link": "https://payloadspace.com/spacex-successfully-catches-starship-upper-stage/",
+      "pubDate": "2026-11-15T01:39:11.000Z",
+      "image": "https://payloadspace.com/wp-content/uploads/2026/11/Screenshot-2026-11-14-at-3.20.58-PM-200x200.png",
+      "author": "Victoria Woodburn",
+      "excerpt": "SpaceX made history on Saturday, recovering a Starship upper stage from orbit for the first time. The post SpaceX Successfully Catches Starship Upper Stage appeared first on Payload.",
+      "source": "Payload"
+    },
+    {
       "title": "How to watch Starship Flight 15",
       "link": "https://www.astronomy.com/whats-launching-this-week/how-to-watch-starship-flight-15/",
       "pubDate": "2026-11-13T20:21:49.000Z",
@@ -439,15 +448,6 @@
       "image": "https://payloadspace.com/wp-content/uploads/2026/07/68dc133e3256228fbfe5478c_BAC359FB-8F72-4E07-ABD0-F40DEE0B788C-200x200.jpg",
       "author": "Elizabeth Howell",
       "excerpt": "Canada will upgrade its rockets as part of its Launch the North initiative, which is aiming to support sovereign rockets flying from at least two new spaceports. The post Canada’s Medium-Lift Rocket Ambitions Confirmed In Budget appeared first on Payload.",
-      "source": "Payload"
-    },
-    {
-      "title": "NASA Unveils Moon Base Awards at MAX POWER",
-      "link": "https://payloadspace.com/nasa-unveils-moon-base-awards-at-max-power/",
-      "pubDate": "2026-11-08T16:13:33.000Z",
-      "image": "https://payloadspace.com/wp-content/uploads/2026/11/Impulse-Space_Image-1-200x200.png",
-      "author": "Victoria Woodburn",
-      "excerpt": "NASA rolled out a stack of Moon Base awards Saturday during MAX POWER, ranging from new lander contracts to a recycled Mars rover. The post NASA Unveils Moon Base Awards at MAX POWER appeared first on Payload.",
       "source": "Payload"
     },
     {
@@ -896,12 +896,75 @@
   ],
   "nytNews": [
     {
+      "title": "SpaceX Makes History With Successful Rocket Catch in Texas",
+      "link": "https://www.nytimes.com/2026/11/14/science/spacex-starship-first-catch.html",
+      "pubDate": "2026-11-15T00:36:32.000Z",
+      "image": "https://static01.nyt.com/images/2026/11/14/multimedia/14starship-header-01-vgzq/14starship-header-01-vgzq-mediumSquareAt3X.jpg",
+      "author": "Kenneth Chang",
+      "excerpt": "The Starship spacecraft returned from orbit to the same spot where it lifted off, marking a key milestone in SpaceX’s vision of building fully reusable rockets.",
+      "source": "NYT"
+    },
+    {
+      "title": "Jensen Huang Carried a Secret for More Than a Year. It Led to His Downfall.",
+      "link": "https://www.nytimes.com/2026/11/14/technology/jensen-huang-nvidia-board.html",
+      "pubDate": "2026-11-14T23:25:09.000Z",
+      "image": "https://static01.nyt.com/images/2026/11/13/multimedia/BIZ-JENSEN-CRASH-1-01-ljmc/BIZ-JENSEN-CRASH-1-01-ljmc-mediumSquareAt3X-v2.jpg",
+      "author": "Tripp Mickle, Ana Swanson, Paul Mozur, Jonathan Swan, Julian E. Barnes and Maggie Haberman",
+      "excerpt": "Nvidia’s leader said his relationship with a female customer was just about business. But what he was concealing eventually led to his resignation from the company he created.",
+      "source": "NYT"
+    },
+    {
+      "title": "Ground Stop Highlights Chronic Vulnerabilities in Air Traffic System",
+      "link": "https://www.nytimes.com/2026/11/14/us/politics/ground-stop-air-traffic-faa.html",
+      "pubDate": "2026-11-14T23:14:32.000Z",
+      "image": "https://static01.nyt.com/images/2026/11/13/multimedia/13faa-groundstop-fiberoptics-hzkb/13faa-groundstop-fiberoptics-hzkb-mediumSquareAt3X.jpg",
+      "author": "Karoun Demirjian",
+      "excerpt": "The Federal Aviation Administration’s aging air traffic control infrastructure has had several disruptive failures in recent months, as officials have sought to make upgrades.",
+      "source": "NYT"
+    },
+    {
+      "title": "In the Rubble of a Fallen Building, He Rescued a 2-Year-Old",
+      "link": "https://www.nytimes.com/2026/11/14/nyregion/building-collapse-brooklyn-boy-rescue.html",
+      "pubDate": "2026-11-14T23:00:10.000Z",
+      "image": null,
+      "author": "Maria Cramer and Luis Ferré-Sadurní",
+      "excerpt": "Miguel Tigsilema, a construction worker, was looking for survivors in the horrific aftermath of a collapse in Brooklyn. He saw a small boy.",
+      "source": "NYT"
+    },
+    {
       "title": "When Disaster Hit Next Door in Flatbush",
       "link": "https://www.nytimes.com/2026/11/14/nyregion/flatbush-building-collapse-neighbors.html",
-      "pubDate": "2026-11-14T21:05:51.000Z",
+      "pubDate": "2026-11-14T22:45:51.000Z",
       "image": null,
       "author": "Michael Wilson and Kaja Andric",
       "excerpt": "What it felt like when the wall came down in Brooklyn.",
+      "source": "NYT"
+    },
+    {
+      "title": "After Relative Silence, Joe Rogan Said MAGA Has Lost the “Podcast Bros”",
+      "link": "https://www.nytimes.com/2026/11/14/style/after-relative-silence-joe-rogan-said-trumps-policies-have-lost-the-podcast-bros.html",
+      "pubDate": "2026-11-14T22:21:02.000Z",
+      "image": "https://static01.nyt.com/images/2026/12/05/multimedia/05ST-MANOSPHERE-ELECTION-REAX-01-cqwl/05ST-MANOSPHERE-ELECTION-REAX-01-cqwl-mediumSquareAt3X.jpg",
+      "author": "Jesse McKinley",
+      "excerpt": "The nation’s top podcaster addressed the midterm election results, days after declaring that he thinks politics is “gross.”",
+      "source": "NYT"
+    },
+    {
+      "title": "Trump Kept Out of Sight as F.A.A. Issued Flight Ground Stop",
+      "link": "https://www.nytimes.com/2026/11/14/us/politics/trump-flights-air-traffic-social-media.html",
+      "pubDate": "2026-11-14T22:10:42.000Z",
+      "image": "https://static01.nyt.com/images/2026/11/14/multimedia/14dc-trump-topart-02-wkqg/14dc-trump-topart-02-wkqg-mediumSquareAt3X.jpg",
+      "author": "Luke Broadwater",
+      "excerpt": "The F.A.A. called a rare halt on flights nationwide, but the president stayed away from cameras and issued social media posts on the entertainment industry and California’s Democratic governor.",
+      "source": "NYT"
+    },
+    {
+      "title": "Perhaps the Rumors of Democracy’s Demise Were Premature",
+      "link": "https://www.nytimes.com/2026/11/14/magazine/democracy-midterm-elections.html",
+      "pubDate": "2026-11-14T21:46:12.000Z",
+      "image": "https://static01.nyt.com/images/2026/11/13/magazine/00mag-democracy/00mag-democracy-mediumSquareAt3X-v3.jpg",
+      "author": "Emily Bazelon",
+      "excerpt": "Did the midterm election save it?",
       "source": "NYT"
     },
     {
@@ -914,57 +977,12 @@
       "source": "NYT"
     },
     {
-      "title": "Here’s Why It Could Take Days for Flights to Return to Normal",
-      "link": "https://www.nytimes.com/2026/11/14/us/faa-groundstop-flights-restarting.html",
-      "pubDate": "2026-11-14T20:48:54.000Z",
-      "image": "https://static01.nyt.com/images/2026/11/14/multimedia/14faa-groundstop-bouncing-back-topart-ztjq/14faa-groundstop-bouncing-back-topart-ztjq-mediumSquareAt3X.jpg",
-      "author": "Niraj Chokshi",
-      "excerpt": "With hundreds of planes out of position and crews out of hours, restarting the nation’s flight system is no easy task.",
-      "source": "NYT"
-    },
-    {
-      "title": "How Some Flights Were Exempt From the Ground Stop",
-      "link": "https://www.nytimes.com/2026/11/14/business/faa-ground-stop-exceptions-airlines.html",
-      "pubDate": "2026-11-14T20:21:13.000Z",
-      "image": "https://static01.nyt.com/images/2026/11/14/multimedia/14xp-airlines-explainer-topart-kmpz/14xp-airlines-explainer-topart-kmpz-mediumSquareAt3X.jpg",
-      "author": "Emmett Lindner",
-      "excerpt": "Dozens of international flights departed from the United States during Friday’s nationwide ground stop. Some planes also left for Hawaii from the West Coast.",
-      "source": "NYT"
-    },
-    {
-      "title": "In the Rubble of a Fallen Building, He Rescued a 2-Year-Old",
-      "link": "https://www.nytimes.com/2026/11/14/nyregion/building-collapse-brooklyn-boy-rescue.html",
-      "pubDate": "2026-11-14T19:24:17.000Z",
-      "image": null,
-      "author": "Maria Cramer and Luis Ferré-Sadurní",
-      "excerpt": "Miguel Tigsilema, a construction worker, was looking for survivors in the horrific aftermath of a collapse in Brooklyn. He saw a small boy.",
-      "source": "NYT"
-    },
-    {
-      "title": "After Relative Silence, Joe Rogan Said MAGA Has Lost the “Podcast Bros”",
-      "link": "https://www.nytimes.com/2026/11/14/style/after-relative-silence-joe-rogan-said-trumps-policies-have-lost-the-podcast-bros.html",
-      "pubDate": "2026-11-14T19:19:43.000Z",
-      "image": "https://static01.nyt.com/images/2026/12/05/multimedia/05ST-MANOSPHERE-ELECTION-REAX-01-cqwl/05ST-MANOSPHERE-ELECTION-REAX-01-cqwl-mediumSquareAt3X.jpg",
-      "author": "Jesse McKinley",
-      "excerpt": "The nation’s top podcaster addressed the midterm election results, days after declaring that he thinks politics is “gross.”",
-      "source": "NYT"
-    },
-    {
-      "title": "Perhaps the Rumors of Democracy’s Demise Were Premature",
-      "link": "https://www.nytimes.com/2026/11/14/magazine/democracy-midterm-elections.html",
-      "pubDate": "2026-11-14T18:17:13.000Z",
-      "image": "https://static01.nyt.com/images/2026/11/13/magazine/00mag-democracy/00mag-democracy-mediumSquareAt3X-v3.jpg",
-      "author": "Emily Bazelon",
-      "excerpt": "Did the midterm election save it?",
-      "source": "NYT"
-    },
-    {
-      "title": "Goodbye, Mr. Chips",
-      "link": "https://www.nytimes.com/2026/11/14/opinion/huang-trump-lutnick-bessent.html",
-      "pubDate": "2026-11-14T16:08:17.000Z",
-      "image": "https://static01.nyt.com/images/2026/11/14/multimedia/14dowd-tzlv/14dowd-tzlv-mediumSquareAt3X.jpg",
-      "author": "Maureen Dowd",
-      "excerpt": "Terrible tech bros leading us into a scary future.",
+      "title": "Talarico Wants to Transcend the Pettiness of Modern Politics. Can He?",
+      "link": "https://www.nytimes.com/2026/11/14/opinion/talarico-midterms-trump-washington.html",
+      "pubDate": "2026-11-14T20:35:29.000Z",
+      "image": "https://static01.nyt.com/images/2026/11/14/multimedia/14goldberg-mzvl/14goldberg-mzvl-mediumSquareAt3X-v2.jpg",
+      "author": "Michelle Goldberg",
+      "excerpt": "It’s an open question how much unity, healing and love is possible in Trump’s Washington.",
       "source": "NYT"
     },
     {
@@ -986,12 +1004,12 @@
       "source": "NYT"
     },
     {
-      "title": "What’s Behind the Trump-Huang Relationship?",
-      "link": "https://www.nytimes.com/video/us/politics/100000011272223/whats-behind-the-trump-huang-relationship.html",
-      "pubDate": "2026-11-14T13:27:10.000Z",
-      "image": "https://static01.nyt.com/images/2026/11/09/us/politics/maggie-huang-trump/maggie-huang-trump-mediumSquareAt3X.png",
-      "author": "Maggie Haberman, John Pappas, Gilad Thaler, Thomas Vollkommer, James Surdam, Edward Vega and Nikolay Nikolov",
-      "excerpt": "President Trump’s show of support for Jensen Huang as he was under fire was a remarkable moment in a relationship that barely existed two years ago. Our White House correspondent Maggie Haberman explains how Mr. Trump came to see Mr. Huang as a modern-day Henry Ford.",
+      "title": "Jensen Huang’s Fall Is a Dark Consequence of What’s Happening in Silicon Valley",
+      "link": "https://www.nytimes.com/2026/11/14/opinion/jensen-huang-donald-trump-silicon-valley.html",
+      "pubDate": "2026-11-14T12:00:16.000Z",
+      "image": "https://static01.nyt.com/images/2026/11/14/opinion/14seru-larcker/14seru-larcker-mediumSquareAt3X.jpg",
+      "author": "Amit Seru and David Larcker",
+      "excerpt": "Silicon Valley’s authoritarianism has left itself particularly vulnerable to Donald Trump’s corruptive tendencies.",
       "source": "NYT"
     },
     {
@@ -1010,24 +1028,6 @@
       "image": "https://static01.nyt.com/images/2026/12/11/multimedia/00DC-AFFORDABILITY-plhz/00DC-AFFORDABILITY-plhz-mediumSquareAt3X.jpg",
       "author": "Catie Edmondson",
       "excerpt": "The lawmaker set to lead the House Budget Committee outlined Democrats’ options for forcing a negotiation with President Trump on an economic package to bring down living costs.",
-      "source": "NYT"
-    },
-    {
-      "title": "Nvidia Scandal Prompts Questions of What It Means to Be a Spy",
-      "link": "https://www.nytimes.com/2026/11/13/us/politics/nvidia-alice-huang-spy-china.html",
-      "pubDate": "2026-11-14T01:22:56.000Z",
-      "image": "https://static01.nyt.com/images/2026/11/13/multimedia/13dc-intel-vzbm/13dc-intel-vzbm-mediumSquareAt3X.jpg",
-      "author": "Julian E. Barnes, Maggie Haberman and Jonathan Swan",
-      "excerpt": "U.S. intelligence agencies believe a woman who had an affair with Jensen Huang was a Chinese asset. But there is much more that they are still assessing about her role.",
-      "source": "NYT"
-    },
-    {
-      "title": "‘Listen’: My Mother Has Dementia. These Sounds Help Bring Her Back.",
-      "link": "https://www.nytimes.com/2026/11/12/opinion/dementia-memory-alaska-wilderness-sounds.html",
-      "pubDate": "2026-11-12T23:26:12.000Z",
-      "image": null,
-      "author": "Taliesin Black-Brown and Hank Lentfer",
-      "excerpt": "In the Alaskan wilderness, a deeper truth awaits those who stop to listen.",
       "source": "NYT"
     }
   ]
