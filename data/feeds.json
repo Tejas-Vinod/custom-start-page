@@ -1,6 +1,15 @@
 {
   "spaceNews": [
     {
+      "title": "ULA suffers first outright failure with loss of Vulcan rocket carrying 40 Amazon Leo satellites",
+      "link": "https://spaceflightnow.com/2026/11/15/ula-suffers-first-total-mission-failure-with-loss-of-vulcan-rocket-carrying-40-amazon-leo-satellites/",
+      "pubDate": "2026-11-15T19:16:59.000Z",
+      "image": "https://spaceflightnow.com/wp-content/uploads/2026/11/20261114-Vulcan-LV-01-launch.jpg",
+      "author": "William Harwood",
+      "excerpt": "In a major setback for United Launch Alliance, the company's new heavy-lift Vulcan rocket carrying a batch of Amazon Leo internet satellites, malfunctioned during the climb to space Sunday, dooming the payload and throwing a costly wrench into the launch schedule of both companies.",
+      "source": "Spaceflight Now"
+    },
+    {
       "title": "SpaceX Successfully Catches Starship Upper Stage",
       "link": "https://payloadspace.com/spacex-successfully-catches-starship-upper-stage/",
       "pubDate": "2026-11-15T01:39:11.000Z",
@@ -667,15 +676,6 @@
       "source": "SpaceNews"
     },
     {
-      "title": "SpaceX closes out October with 700th Falcon 9 launch to date",
-      "link": "https://spaceflightnow.com/2026/10/30/live-coverage-spacex-to-close-out-october-with-halloween-eve-falcon-9-launch/",
-      "pubDate": "2026-10-30T22:46:02.000Z",
-      "image": "https://spaceflightnow.com/wp-content/uploads/2026/10/20261031-Starlink-15-18-Launch.jpg",
-      "author": "Will Robinson-Smith",
-      "excerpt": "The Starlink 15-18 mission will add another 27 Starlink V2 Mini Optimized satellites to SpaceX’s megaconstellation. Liftoff from pad 4E at Vandenberg Space Force Base is scheduled for 9:04 p.m. PDT (12:04 a.m. EDT / 0404 UTC).",
-      "source": "Spaceflight Now"
-    },
-    {
       "title": "HQs DAF Services Industry Day strengthens partnerships, industry engagement",
       "link": "https://www.spaceforce.mil/News/Article-Display/Article/4645426/hqs-daf-services-industry-day-strengthens-partnerships-industry-engagement/",
       "pubDate": "2026-10-16T20:24:00.000Z",
@@ -896,12 +896,84 @@
   ],
   "nytNews": [
     {
+      "title": "Saudi-Backed Forces Retreat in Yemen, Leaving Key Strait in Houthi Control",
+      "link": "https://www.nytimes.com/2026/11/15/world/middleeast/saudi-houthis-yemen-red-sea.html",
+      "pubDate": "2026-11-15T21:26:18.000Z",
+      "image": "https://static01.nyt.com/images/2026/11/15/multimedia/15int-yemen-retreat-1-bhfc/15int-yemen-retreat-1-bhfc-mediumSquareAt3X.jpg",
+      "author": "Vivian Nereim",
+      "excerpt": "It’s a setback for the Yemeni government and its ally Saudi Arabia, as analysts said the momentum in country’s civil war was tilting toward the Iran-backed Houthis.",
+      "source": "NYT"
+    },
+    {
+      "title": "At Sotheby’s, Risk-Taking Left a $180 Million van Gogh in the Lurch",
+      "link": "https://www.nytimes.com/2026/11/15/arts/design/sothebys-van-gogh-auction-art-nazi.html",
+      "pubDate": "2026-11-15T21:01:20.000Z",
+      "image": "https://static01.nyt.com/images/2026/11/15/multimedia/15int-cul-van-gogh-chestnut-print01-pjwl/15int-cul-van-gogh-chestnut-print01-pjwl-mediumSquareAt3X.jpg",
+      "author": "Zachary Small",
+      "excerpt": "Claims on the painting by heirs of a Jewish owner were well known in the art world. The auction house will meet lawyers for the heirs on Monday.",
+      "source": "NYT"
+    },
+    {
+      "title": "Megaspeed Says Alice Huang Left Company in August 2025",
+      "link": "https://www.nytimes.com/2026/11/15/business/megaspeed-alice-huang-nvidia-china.html",
+      "pubDate": "2026-11-15T20:11:11.000Z",
+      "image": "https://static01.nyt.com/images/2026/11/15/multimedia/15xp-megaspeed1-zcvq/15xp-megaspeed1-zcvq-mediumSquareAt3X.jpg",
+      "author": "Ali Watkins",
+      "excerpt": "The Singaporean company’s statement added to the timeline involving Ms. Huang, a former executive who had a relationship with Jensen Huang of Nvidia. U.S. officials say she was spying for China.",
+      "source": "NYT"
+    },
+    {
+      "title": "How Jeffrey Epstein Grew His Sex-Trafficking Ring",
+      "link": "https://www.nytimes.com/2026/11/15/magazine/epstein-victims-recruiting-trafficking.html",
+      "pubDate": "2026-11-15T19:18:58.000Z",
+      "image": "https://static01.nyt.com/images/2026/11/22/magazine/22mag-epstein-02/22mag-epstein-02-mediumSquareAt3X.jpg",
+      "author": "Jen Percy",
+      "excerpt": "Marina Lacerda was one of Epstein’s victims. She also helped him find other girls.",
+      "source": "NYT"
+    },
+    {
+      "title": "Chris Van Hollen Says His Majority Leader Challenge to Chuck Schumer Is Gaining Support",
+      "link": "https://www.nytimes.com/2026/11/15/us/politics/van-hollen-schumer-democrats-majority-leader.html",
+      "pubDate": "2026-11-15T18:50:25.000Z",
+      "image": "https://static01.nyt.com/images/2026/11/15/multimedia/15dc-vanhollen-vlhj/15dc-vanhollen-vlhj-mediumSquareAt3X.jpg",
+      "author": "Annie Karni",
+      "excerpt": "Senator Chris Van Hollen of Maryland said on Sunday that he has a “wide-open” path to unseat Chuck Schumer, the long-serving Senate Democratic leader.",
+      "source": "NYT"
+    },
+    {
       "title": "Israel Kidnapped Iranian Generals in Hunt for Ron Arad",
       "link": "https://www.nytimes.com/2026/11/15/world/europe/ron-arad-missing-israel-iran-asgari-hunt.html",
-      "pubDate": "2026-11-15T16:52:29.000Z",
+      "pubDate": "2026-11-15T18:47:49.000Z",
       "image": "https://static01.nyt.com/images/2026/10/06/multimedia/00int-israel-airman-jpml/00int-israel-airman-jpml-mediumSquareAt3X.jpg",
       "author": "Adam Goldman, Ronen Bergman, Farnaz Fassihi and Hwaida Saad",
       "excerpt": "Israeli officials were convinced that Tehran was to blame for the airman’s disappearance. Alternative theories got little attention, until now.",
+      "source": "NYT"
+    },
+    {
+      "title": "8 Takeaways From a Big Democratic Gathering in Denver: Democrats in Array",
+      "link": "https://www.nytimes.com/2026/11/15/us/politics/democrats-denver-gathering-takeaways.html",
+      "pubDate": "2026-11-15T18:46:52.000Z",
+      "image": "https://static01.nyt.com/images/2026/11/15/multimedia/15pol-dems-denver-takeaways-topart-01-wpvh/15pol-dems-denver-takeaways-topart-01-wpvh-mediumSquareAt3X.jpg",
+      "author": "Shane Goldmacher and Reid J. Epstein",
+      "excerpt": "More than a half-dozen potential Democratic presidential candidates made early pitches for themselves and their visions at what amounted to a party-wide post-election victory party.",
+      "source": "NYT"
+    },
+    {
+      "title": "Flight Delays and Cancellations Persist as System Recovers From Ground Stop",
+      "link": "https://www.nytimes.com/2026/11/15/us/faa-groundstop-flights-status-delays-canceled.html",
+      "pubDate": "2026-11-15T18:17:24.000Z",
+      "image": "https://static01.nyt.com/images/2026/11/15/multimedia/15nat-airport-delays1-ptqj/15nat-airport-delays1-ptqj-mediumSquareAt3X.jpg",
+      "author": "Bernard Mokam",
+      "excerpt": "Operations are returning to normal after air traffic was shut down for more than 4 hours on Friday following a maintenance upgrade that crippled communications.",
+      "source": "NYT"
+    },
+    {
+      "title": "Sean Duffy Offers New Details on How One Fix Spiraled Into Nationwide Ground Stop",
+      "link": "https://www.nytimes.com/2026/11/15/us/sean-duffy-ground-stop-trump-faa.html",
+      "pubDate": "2026-11-15T18:06:21.000Z",
+      "image": "https://static01.nyt.com/images/2026/11/15/multimedia/15dc-duffy2-vqkm/15dc-duffy2-vqkm-mediumSquareAt3X.jpg",
+      "author": "Karoun Demirjian",
+      "excerpt": "When asked, the transportation secretary could not guarantee on Sunday that a similar air traffic meltdown would not occur again.",
       "source": "NYT"
     },
     {
@@ -914,48 +986,12 @@
       "source": "NYT"
     },
     {
-      "title": "The Surf’s Way, Way Up as Huge Waves Pound the California Coast",
-      "link": "https://www.nytimes.com/2026/11/14/weather/california-coast-waves-high-surf.html",
-      "pubDate": "2026-11-15T16:21:35.000Z",
-      "image": "https://static01.nyt.com/images/2026/11/14/multimedia/14wea-big-waves-topart-01-hbqw/14wea-big-waves-topart-01-hbqw-mediumSquareAt3X-v3.jpg",
-      "author": "Amy Graff and Jesse Klein",
-      "excerpt": "Officials warned onlookers to stay off the beaches as waves of more than 50 feet in spots posed hazards. The intense conditions were too dangerous for even seasoned surfers at some beaches.",
-      "source": "NYT"
-    },
-    {
       "title": "Iran Attacks Bahrain for the Second Time in Days",
       "link": "https://www.nytimes.com/2026/11/15/world/middleeast/bahrain-iran-israel.html",
       "pubDate": "2026-11-15T15:55:09.000Z",
       "image": null,
       "author": "Vivian Nereim and Aaron Boxerman",
       "excerpt": "The resumption of attacks after a two-month lull comes as peace talks between the U.S. and Iran appear to have stalled.",
-      "source": "NYT"
-    },
-    {
-      "title": "What to Know About Continued Flight Disruptions",
-      "link": "https://www.nytimes.com/2026/11/14/us/flight-delays-cancelations-what-to-know.html",
-      "pubDate": "2026-11-15T15:44:26.000Z",
-      "image": "https://static01.nyt.com/images/2026/12/13/multimedia/14nat-groundstop-wwk/13faa-groundstop-promo-hbjv-mediumSquareAt3X.jpg",
-      "author": "Sejal Govindarao",
-      "excerpt": "After a nationwide ground stop Friday, travelers are still encountering snags, and it could take several days for flight schedules to return to normal.",
-      "source": "NYT"
-    },
-    {
-      "title": "Saudi-Backed Forces in Yemen Retreat From Red Sea as Houthis Advance",
-      "link": "https://www.nytimes.com/2026/11/15/world/middleeast/saudi-houthis-yemen-red-sea.html",
-      "pubDate": "2026-11-15T15:42:25.000Z",
-      "image": "https://static01.nyt.com/images/2026/11/15/multimedia/15int-yemen-retreat-1-bhfc/15int-yemen-retreat-1-bhfc-mediumSquareAt3X.jpg",
-      "author": "Vivian Nereim",
-      "excerpt": "The move is a setback for the Yemeni government and its ally Saudi Arabia, as analysts said the balance of power in the country’s civil war was tilting toward the Iran-backed Houthi militia.",
-      "source": "NYT"
-    },
-    {
-      "title": "How Jeffrey Epstein Grew His Sex-Trafficking Ring",
-      "link": "https://www.nytimes.com/2026/11/15/magazine/epstein-victims-recruiting-trafficking.html",
-      "pubDate": "2026-11-15T14:07:09.000Z",
-      "image": "https://static01.nyt.com/images/2026/11/22/magazine/22mag-epstein-02/22mag-epstein-02-mediumSquareAt3X.jpg",
-      "author": "Jen Percy",
-      "excerpt": "Marina Lacerda was one of Epstein’s victims. She also helped him find other girls.",
       "source": "NYT"
     },
     {
@@ -977,15 +1013,6 @@
       "source": "NYT"
     },
     {
-      "title": "TikTok U",
-      "link": "https://www.nytimes.com/2026/11/15/briefing/sorority-influencers.html",
-      "pubDate": "2026-11-15T12:28:25.000Z",
-      "image": "https://static01.nyt.com/images/2026/11/09/multimedia/15themorning-nl-tiktok-01/15themorning-nl-tiktok-01-mediumSquareAt3X.jpg",
-      "author": "Vivian Yee",
-      "excerpt": "Many young adults want to be influencers. What’s that doing to college life?",
-      "source": "NYT"
-    },
-    {
       "title": "Defeating MAGA Is Only Half Done",
       "link": "https://www.nytimes.com/2026/11/15/opinion/gop-republican-party-midterms.html",
       "pubDate": "2026-11-15T11:00:23.000Z",
@@ -995,93 +1022,12 @@
       "source": "NYT"
     },
     {
-      "title": "Microsoft Outlook Outage and FAA Groundstop Show Dependence on Fragile Technology",
-      "link": "https://www.nytimes.com/2026/11/15/business/technology-dependence-microsoft-airlines.html",
-      "pubDate": "2026-11-15T10:02:06.000Z",
-      "image": "https://static01.nyt.com/images/2026/11/14/multimedia/00biz-tech-fragile-gclj/00biz-tech-fragile-gclj-mediumSquareAt3X.jpg",
-      "author": "Steve Lohr",
-      "excerpt": "Incidents involving Microsoft’s Outlook and the Federal Aviation Administration this past week demonstrated our dependence on fragile technology.",
-      "source": "NYT"
-    },
-    {
       "title": "Lutnick Pushed to Weaken Chip Rules That Overlap With His Family Business",
       "link": "https://www.nytimes.com/2026/11/15/us/politics/trump-lutnick-ai-chips-nvidia-cantor-fitzgerald.html",
       "pubDate": "2026-11-15T10:02:05.000Z",
       "image": "https://static01.nyt.com/images/2026/11/14/multimedia/14dc-lutnick-commerce-01-bqtl/14dc-lutnick-commerce-01-bqtl-mediumSquareAt3X.jpg",
       "author": "Ana Swanson, Aaron Krolik and Paul Mozur",
       "excerpt": "The commerce secretary has been writing new rules that would affect Southeast Asian data centers, some of which are clients of his former firm.",
-      "source": "NYT"
-    },
-    {
-      "title": "Jensen Huang’s Downfall Brings Disbelief in Taiwan",
-      "link": "https://www.nytimes.com/2026/11/15/business/jensen-huang-taiwan.html",
-      "pubDate": "2026-11-15T10:01:57.000Z",
-      "image": "https://static01.nyt.com/images/2026/11/15/multimedia/15biz-newworld-taiwan-01-wgpc/15biz-newworld-taiwan-01-wgpc-mediumSquareAt3X.jpg",
-      "author": "Li Yuan and An Rong Xu",
-      "excerpt": "The Nvidia chief executive’s resignation shocked people in his birthplace, where he is called “the people’s dad.”",
-      "source": "NYT"
-    },
-    {
-      "title": "After Midterms Triumph, Democrats Look Quickly and Eagerly Ahead to 2028",
-      "link": "https://www.nytimes.com/2026/11/15/us/politics/democrats-2028-presidential-candidates.html",
-      "pubDate": "2026-11-15T10:01:00.000Z",
-      "image": "https://static01.nyt.com/images/2026/11/15/multimedia/15pol-dems-2028-warnock-01-mfhb/15pol-dems-2028-warnock-01-mfhb-mediumSquareAt3X.jpg",
-      "author": "Reid J. Epstein, Lisa Lerer and Laurel Rosenhall",
-      "excerpt": "Politicians, donors and campaign strategists are already imagining a large and contentious field of presidential contenders.",
-      "source": "NYT"
-    },
-    {
-      "title": "Embattled Federal Employees Look to a Democratic Congress for a Lifeline",
-      "link": "https://www.nytimes.com/2026/11/15/us/politics/federal-employees-democratic-congress-lifeline.html",
-      "pubDate": "2026-11-15T10:00:59.000Z",
-      "image": "https://static01.nyt.com/images/2026/11/13/multimedia/dc-federal-workers-zglc/dc-federal-workers-zglc-mediumSquareAt3X.jpg",
-      "author": "Eileen Sullivan",
-      "excerpt": "Former and current workers have found a sympathetic ear among Democrats set to take over the House and Senate. But any reversal of President Trump’s cuts are unlikely to happen immediately.",
-      "source": "NYT"
-    },
-    {
-      "title": "The Reward for Black Women’s Work in Georgia: Leaders Who Look Like Them",
-      "link": "https://www.nytimes.com/2026/11/15/us/black-women-georgia-leaders.html",
-      "pubDate": "2026-11-15T10:00:54.000Z",
-      "image": "https://static01.nyt.com/images/2026/11/15/multimedia/15nat-black-women-tfqj/15nat-black-women-tfqj-mediumSquareAt3X.jpg",
-      "author": "Rick Rojas and Audra D. S. Burch",
-      "excerpt": "Diligent ground-level efforts by Black women helped make Democrats competitive again in Georgia. Now they’ll hold seven of the top eight elected leadership roles in the state.",
-      "source": "NYT"
-    },
-    {
-      "title": "In Europe, an Emboldened Iran Contributes to a Sense of Anxiety",
-      "link": "https://www.nytimes.com/2026/11/15/world/europe/iran-attacks-threats-europe.html",
-      "pubDate": "2026-11-15T05:01:20.000Z",
-      "image": "https://static01.nyt.com/images/2026/11/14/multimedia/14int-uk-europe-security-new-jlpc/14int-uk-europe-security-new-jlpc-mediumSquareAt3X.jpg",
-      "author": "Michael D. Shear",
-      "excerpt": "Prosecutors and government officials believe Iran or its proxies are behind a series of security breaches and threats in Britain and Europe, unsettling the region.",
-      "source": "NYT"
-    },
-    {
-      "title": "Ground Stop Highlights Chronic Vulnerabilities in Air Traffic System",
-      "link": "https://www.nytimes.com/2026/11/14/us/politics/ground-stop-air-traffic-faa.html",
-      "pubDate": "2026-11-14T23:14:32.000Z",
-      "image": "https://static01.nyt.com/images/2026/11/13/multimedia/13faa-groundstop-fiberoptics-hzkb/13faa-groundstop-fiberoptics-hzkb-mediumSquareAt3X.jpg",
-      "author": "Karoun Demirjian",
-      "excerpt": "The Federal Aviation Administration’s aging air traffic control infrastructure has had several disruptive failures in recent months, as officials have sought to make upgrades.",
-      "source": "NYT"
-    },
-    {
-      "title": "Is Air Travel Getting Less Safe?",
-      "link": "https://www.nytimes.com/2026/11/12/magazine/air-travel-safety-faa-aviation.html",
-      "pubDate": "2026-11-14T23:10:22.000Z",
-      "image": null,
-      "author": "James Fallows",
-      "excerpt": "Experts fear the Trump administration is ignoring the enormous strain on the U.S. aviation system, even as accidents and close calls increase.",
-      "source": "NYT"
-    },
-    {
-      "title": "5 Big Questions as C.E.O.s Meet in China",
-      "link": "https://www.nytimes.com/2026/11/14/business/dealbook/questions-china-us-apec-summit.html",
-      "pubDate": "2026-11-14T13:00:06.000Z",
-      "image": "https://static01.nyt.com/images/2026/11/14/multimedia/14DB-China-CEOs-wjlv/14DB-China-CEOs-wjlv-mediumSquareAt3X.jpg",
-      "author": "Brent Crane",
-      "excerpt": "President Trump and U.S. tech executives are expected to gather for a major summit in Shenzhen next week. On the agenda: a stalled trade war, expanding export controls, and suspected spy games.",
       "source": "NYT"
     }
   ]
