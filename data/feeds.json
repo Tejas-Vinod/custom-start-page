@@ -896,30 +896,84 @@
   ],
   "nytNews": [
     {
+      "title": "A Republican Party That’s Learned Nothing",
+      "link": "https://www.nytimes.com/2026/11/15/opinion/gop-republican-party-midterms.html",
+      "pubDate": "2026-11-16T01:17:44.000Z",
+      "image": "https://static01.nyt.com/images/2026/11/15/multimedia/15french-wblz/15french-wblz-mediumSquareAt3X.jpg",
+      "author": "David French",
+      "excerpt": "Defeating MAGA is only half done.",
+      "source": "NYT"
+    },
+    {
+      "title": "Zariah, 13, and Her Cat Are Reunited After Building Collapse",
+      "link": "https://www.nytimes.com/2026/11/15/nyregion/building-collapse-cat-rescue.html",
+      "pubDate": "2026-11-16T00:41:48.000Z",
+      "image": "https://static01.nyt.com/images/2026/11/15/nyregion/15met-collapse-cat-02/15met-collapse-cat-02-mediumSquareAt3X.jpg",
+      "author": "Kaja Andric",
+      "excerpt": "When the Coleman family had to flee their apartment after the building next door collapsed, their cat disappeared. But amid the tragedy of the disaster, this story had a happy ending.",
+      "source": "NYT"
+    },
+    {
+      "title": "The Joyful Nerdiness of a 66-Hour, Nonstop Reading of ‘The Power Broker’",
+      "link": "https://www.nytimes.com/2026/11/15/nyregion/power-broker-marathon-reading-robert-moses-caro.html",
+      "pubDate": "2026-11-16T00:25:48.000Z",
+      "image": "https://static01.nyt.com/images/2026/11/15/multimedia/15met-power-broker-top-klht/15met-power-broker-top-klht-mediumSquareAt3X.jpg",
+      "author": "Emma G. Fitzsimmons",
+      "excerpt": "New Yorkers read the 1,162-page book around the clock for four days, reflecting on the legacy of Robert Moses and celebrating its author, Robert Caro, who read the final pages.",
+      "source": "NYT"
+    },
+    {
+      "title": "Megaspeed Says Alice Huang Left Company in August 2025",
+      "link": "https://www.nytimes.com/2026/11/15/business/megaspeed-alice-huang-nvidia-china.html",
+      "pubDate": "2026-11-16T00:01:34.000Z",
+      "image": "https://static01.nyt.com/images/2026/11/15/multimedia/15xp-megaspeed1-zcvq/15xp-megaspeed1-zcvq-mediumSquareAt3X.jpg",
+      "author": "Ali Watkins",
+      "excerpt": "The Singaporean company’s statement added to the timeline involving Ms. Huang, a former executive who had a relationship with Jensen Huang of Nvidia. U.S. officials say she was spying for China.",
+      "source": "NYT"
+    },
+    {
+      "title": "Chris Van Hollen Says His Majority Leader Challenge to Chuck Schumer Is Gaining Support",
+      "link": "https://www.nytimes.com/2026/11/15/us/politics/van-hollen-schumer-democrats-majority-leader.html",
+      "pubDate": "2026-11-15T23:02:15.000Z",
+      "image": "https://static01.nyt.com/images/2026/11/15/multimedia/15dc-vanhollen-vlhj/15dc-vanhollen-vlhj-mediumSquareAt3X.jpg",
+      "author": "Annie Karni",
+      "excerpt": "Senator Chris Van Hollen of Maryland said on Sunday that he has a “wide-open” path to unseat Chuck Schumer, the long-serving Senate Democratic leader.",
+      "source": "NYT"
+    },
+    {
+      "title": "Nvidia Fallout Looms Over Trump-Xi Meeting",
+      "link": "https://www.nytimes.com/2026/11/15/us/politics/nvidia-trump-huang-china-xi.html",
+      "pubDate": "2026-11-15T22:54:41.000Z",
+      "image": "https://static01.nyt.com/images/2026/11/15/multimedia/15dc-trump-xi-01-bjgh/15dc-trump-xi-01-bjgh-mediumSquareAt3X.jpg",
+      "author": "Katie Rogers",
+      "excerpt": "So far, President Trump has indicated that he does not plan to press the Chinese leader about U.S. intelligence findings that a Chinese spy targeted Jensen Huang.",
+      "source": "NYT"
+    },
+    {
+      "title": "8 Takeaways From a Big Democratic Gathering in Denver: Democrats in Array",
+      "link": "https://www.nytimes.com/2026/11/15/us/politics/democrats-denver-gathering-takeaways.html",
+      "pubDate": "2026-11-15T22:10:03.000Z",
+      "image": "https://static01.nyt.com/images/2026/11/15/multimedia/15pol-dems-denver-takeaways-topart-01-wpvh/15pol-dems-denver-takeaways-topart-01-wpvh-mediumSquareAt3X.jpg",
+      "author": "Shane Goldmacher and Reid J. Epstein",
+      "excerpt": "More than a half-dozen potential Democratic presidential candidates made early pitches for themselves and their visions at what amounted to a party-wide post-election victory party.",
+      "source": "NYT"
+    },
+    {
+      "title": "Flight Delays and Cancellations Persist as System Recovers From Ground Stop",
+      "link": "https://www.nytimes.com/2026/11/15/us/faa-groundstop-flights-status-delays-canceled.html",
+      "pubDate": "2026-11-15T22:06:59.000Z",
+      "image": "https://static01.nyt.com/images/2026/11/15/multimedia/15nat-airport-delays1-ptqj/15nat-airport-delays1-ptqj-mediumSquareAt3X.jpg",
+      "author": "Bernard Mokam",
+      "excerpt": "Operations are returning to normal after air traffic was shut down for more than 4 hours on Friday following a maintenance upgrade that crippled communications.",
+      "source": "NYT"
+    },
+    {
       "title": "Saudi-Backed Forces Retreat in Yemen, Leaving Key Strait in Houthi Control",
       "link": "https://www.nytimes.com/2026/11/15/world/middleeast/saudi-houthis-yemen-red-sea.html",
       "pubDate": "2026-11-15T21:26:18.000Z",
       "image": "https://static01.nyt.com/images/2026/11/15/multimedia/15int-yemen-retreat-1-bhfc/15int-yemen-retreat-1-bhfc-mediumSquareAt3X.jpg",
       "author": "Vivian Nereim",
       "excerpt": "It’s a setback for the Yemeni government and its ally Saudi Arabia, as analysts said the momentum in country’s civil war was tilting toward the Iran-backed Houthis.",
-      "source": "NYT"
-    },
-    {
-      "title": "At Sotheby’s, Risk-Taking Left a $180 Million van Gogh in the Lurch",
-      "link": "https://www.nytimes.com/2026/11/15/arts/design/sothebys-van-gogh-auction-art-nazi.html",
-      "pubDate": "2026-11-15T21:01:20.000Z",
-      "image": "https://static01.nyt.com/images/2026/11/15/multimedia/15int-cul-van-gogh-chestnut-print01-pjwl/15int-cul-van-gogh-chestnut-print01-pjwl-mediumSquareAt3X.jpg",
-      "author": "Zachary Small",
-      "excerpt": "Claims on the painting by heirs of a Jewish owner were well known in the art world. The auction house will meet lawyers for the heirs on Monday.",
-      "source": "NYT"
-    },
-    {
-      "title": "Megaspeed Says Alice Huang Left Company in August 2025",
-      "link": "https://www.nytimes.com/2026/11/15/business/megaspeed-alice-huang-nvidia-china.html",
-      "pubDate": "2026-11-15T20:11:11.000Z",
-      "image": "https://static01.nyt.com/images/2026/11/15/multimedia/15xp-megaspeed1-zcvq/15xp-megaspeed1-zcvq-mediumSquareAt3X.jpg",
-      "author": "Ali Watkins",
-      "excerpt": "The Singaporean company’s statement added to the timeline involving Ms. Huang, a former executive who had a relationship with Jensen Huang of Nvidia. U.S. officials say she was spying for China.",
       "source": "NYT"
     },
     {
@@ -932,39 +986,12 @@
       "source": "NYT"
     },
     {
-      "title": "Chris Van Hollen Says His Majority Leader Challenge to Chuck Schumer Is Gaining Support",
-      "link": "https://www.nytimes.com/2026/11/15/us/politics/van-hollen-schumer-democrats-majority-leader.html",
-      "pubDate": "2026-11-15T18:50:25.000Z",
-      "image": "https://static01.nyt.com/images/2026/11/15/multimedia/15dc-vanhollen-vlhj/15dc-vanhollen-vlhj-mediumSquareAt3X.jpg",
-      "author": "Annie Karni",
-      "excerpt": "Senator Chris Van Hollen of Maryland said on Sunday that he has a “wide-open” path to unseat Chuck Schumer, the long-serving Senate Democratic leader.",
-      "source": "NYT"
-    },
-    {
       "title": "Israel Kidnapped Iranian Generals in Hunt for Ron Arad",
       "link": "https://www.nytimes.com/2026/11/15/world/europe/ron-arad-missing-israel-iran-asgari-hunt.html",
       "pubDate": "2026-11-15T18:47:49.000Z",
       "image": "https://static01.nyt.com/images/2026/10/06/multimedia/00int-israel-airman-jpml/00int-israel-airman-jpml-mediumSquareAt3X.jpg",
       "author": "Adam Goldman, Ronen Bergman, Farnaz Fassihi and Hwaida Saad",
       "excerpt": "Israeli officials were convinced that Tehran was to blame for the airman’s disappearance. Alternative theories got little attention, until now.",
-      "source": "NYT"
-    },
-    {
-      "title": "8 Takeaways From a Big Democratic Gathering in Denver: Democrats in Array",
-      "link": "https://www.nytimes.com/2026/11/15/us/politics/democrats-denver-gathering-takeaways.html",
-      "pubDate": "2026-11-15T18:46:52.000Z",
-      "image": "https://static01.nyt.com/images/2026/11/15/multimedia/15pol-dems-denver-takeaways-topart-01-wpvh/15pol-dems-denver-takeaways-topart-01-wpvh-mediumSquareAt3X.jpg",
-      "author": "Shane Goldmacher and Reid J. Epstein",
-      "excerpt": "More than a half-dozen potential Democratic presidential candidates made early pitches for themselves and their visions at what amounted to a party-wide post-election victory party.",
-      "source": "NYT"
-    },
-    {
-      "title": "Flight Delays and Cancellations Persist as System Recovers From Ground Stop",
-      "link": "https://www.nytimes.com/2026/11/15/us/faa-groundstop-flights-status-delays-canceled.html",
-      "pubDate": "2026-11-15T18:17:24.000Z",
-      "image": "https://static01.nyt.com/images/2026/11/15/multimedia/15nat-airport-delays1-ptqj/15nat-airport-delays1-ptqj-mediumSquareAt3X.jpg",
-      "author": "Bernard Mokam",
-      "excerpt": "Operations are returning to normal after air traffic was shut down for more than 4 hours on Friday following a maintenance upgrade that crippled communications.",
       "source": "NYT"
     },
     {
@@ -1013,21 +1040,30 @@
       "source": "NYT"
     },
     {
-      "title": "Defeating MAGA Is Only Half Done",
-      "link": "https://www.nytimes.com/2026/11/15/opinion/gop-republican-party-midterms.html",
-      "pubDate": "2026-11-15T11:00:23.000Z",
-      "image": "https://static01.nyt.com/images/2026/11/15/multimedia/15french-wblz/15french-wblz-mediumSquareAt3X.jpg",
-      "author": "David French",
-      "excerpt": "The G.O.P. has not learned its lesson.",
-      "source": "NYT"
-    },
-    {
       "title": "Lutnick Pushed to Weaken Chip Rules That Overlap With His Family Business",
       "link": "https://www.nytimes.com/2026/11/15/us/politics/trump-lutnick-ai-chips-nvidia-cantor-fitzgerald.html",
       "pubDate": "2026-11-15T10:02:05.000Z",
       "image": "https://static01.nyt.com/images/2026/11/14/multimedia/14dc-lutnick-commerce-01-bqtl/14dc-lutnick-commerce-01-bqtl-mediumSquareAt3X.jpg",
       "author": "Ana Swanson, Aaron Krolik and Paul Mozur",
       "excerpt": "The commerce secretary has been writing new rules that would affect Southeast Asian data centers, some of which are clients of his former firm.",
+      "source": "NYT"
+    },
+    {
+      "title": "They Want to Be Doctors. Student Loan Caps Are Complicating Their Dreams.",
+      "link": "https://www.nytimes.com/2026/11/15/business/medical-school-student-loan-caps.html",
+      "pubDate": "2026-11-15T10:01:42.000Z",
+      "image": "https://static01.nyt.com/images/2026/11/15/multimedia/15Biz-Loan-Caps-01-lmgt/15Biz-Loan-Caps-01-lmgt-mediumSquareAt3X.jpg",
+      "author": "Kaan Ozcan",
+      "excerpt": "This year, the first class of medical students will begin their journey to becoming physicians under new rules limiting how much they can borrow for school.",
+      "source": "NYT"
+    },
+    {
+      "title": "How Adam Driver, Scarlett Johansson and Miles Teller Built a Family in ‘Paper Tiger’",
+      "link": "https://www.nytimes.com/2026/11/15/movies/adam-driver-scarlett-johansson-miles-teller-interview-paper-tiger.html",
+      "pubDate": "2026-11-15T10:00:44.000Z",
+      "image": "https://static01.nyt.com/images/2026/11/15/multimedia/15cul-paper-tiger-roundtable1-lbmt/15cul-paper-tiger-roundtable1-lbmt-mediumSquareAt3X.jpg",
+      "author": "Melena Ryzik and Dana Scruggs",
+      "excerpt": "James Gray’s latest autobiographical film, set in a crime-ridden ’80s New York, centers on what one of its stars jokingly calls “a throuple.”",
       "source": "NYT"
     }
   ]
