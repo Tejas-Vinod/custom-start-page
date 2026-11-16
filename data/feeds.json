@@ -1,6 +1,42 @@
 {
   "spaceNews": [
     {
+      "title": "The end of the universe could emerge suddenly from nothing",
+      "link": "https://www.newscientist.com/article/2598817-the-end-of-the-universe-could-emerge-suddenly-from-nothing/?utm_campaign=RSS|NSNS&utm_content=space&utm_medium=RSS&utm_source=NSNS",
+      "pubDate": "2026-11-16T09:00:00.000Z",
+      "image": null,
+      "author": "Leah Crane",
+      "excerpt": "A bubble of absolutely nothing – truly empty space – could be out there in the cosmos. Columnist Leah Crane explores how that could exist, and the peril it puts us in",
+      "source": "New Scientist"
+    },
+    {
+      "title": "APOD: 2026 November 16 – NGC 7129: Star Formation with Jets from Webb",
+      "link": "https://science.nasa.gov/image-article/apod-2026-november-16-ngc-7129-star-formation-with-jets-from-webb/",
+      "pubDate": "2026-11-16T05:05:00.000Z",
+      "image": "https://assets.science.nasa.gov/dynamicimage/assets/science/missions/webb/science/2026/10/weic2620a.jpg?w=1280&#038;h=1194&#038;fit=clip&#038;crop=faces%2Cfocalpoint",
+      "author": "",
+      "excerpt": "APOD Science APOD APOD: 2026 November 16 – NGC… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professi",
+      "source": "NASA"
+    },
+    {
+      "title": "The Last Ice on Puncak Jaya",
+      "link": "https://science.nasa.gov/earth/earth-observatory/the-last-ice-on-puncak-jaya/",
+      "pubDate": "2026-11-16T05:00:00.000Z",
+      "image": "https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2026/the-last-ice-on-puncak-jaya/puncakjaya_tm5_1988308.jpg",
+      "author": "",
+      "excerpt": "Ice near the summit of the Indonesian mountain peak has shrunk to scattered patches too small to flow like glaciers.",
+      "source": "NASA"
+    },
+    {
+      "title": "Connecting Constellations: The Shift to Real-Time Space Operations",
+      "link": "https://payloadspace.com/connecting-constellations-the-shift-to-real-time-space-operations/",
+      "pubDate": "2026-11-16T05:00:00.000Z",
+      "image": "https://payloadspace.com/wp-content/uploads/2026/11/Kepler-Network-Hero-2x3-1-200x200.jpg",
+      "author": "Kepler Communications (Payload Partner)",
+      "excerpt": "After years of development and demonstrations, optical communications are reshaping how the space industry approaches mission architectures. Kepler’s optical space data relay constellation gives government and commercial customers opportunities to connect previously isolated systems, strengthen resilience, and move mis",
+      "source": "Payload"
+    },
+    {
       "title": "ULA suffers first outright failure with loss of Vulcan rocket carrying 40 Amazon Leo satellites",
       "link": "https://spaceflightnow.com/2026/11/15/ula-suffers-first-total-mission-failure-with-loss-of-vulcan-rocket-carrying-40-amazon-leo-satellites/",
       "pubDate": "2026-11-15T19:16:59.000Z",
@@ -244,15 +280,6 @@
       "source": "NASA"
     },
     {
-      "title": "Through NASA’s Lens: Capturing Space Shuttle Endeavour’s Move to LA",
-      "link": "https://www.nasa.gov/centers-and-facilities/armstrong/through-nasas-lens-capturing-space-shuttle-endeavours-move-to-la/",
-      "pubDate": "2026-11-12T13:00:00.000Z",
-      "image": "https://www.youtube.com/embed/RrkH0jfX-4Y",
-      "author": "Dede Dinius",
-      "excerpt": "As a new exhibit opens showcasing NASA’s space shuttle Endeavour, NASA photographers look back at the final mission. These photographers documented the iconic images shared around the world on Sept. 21, 2012, while millions watched space shuttle Endeavour fly on top of the agency’s 747 Shuttle Carrier Aircraft for the ",
-      "source": "NASA"
-    },
-    {
       "title": "NeuralSat Raises €2.9M to Build Orbital Data Relay Network",
       "link": "https://payloadspace.com/neuralsat-raises-e2-9m-to-build-orbital-data-relay-network/",
       "pubDate": "2026-11-12T12:54:07.000Z",
@@ -269,15 +296,6 @@
       "author": "Douglas Gorman",
       "excerpt": "OwlO Cloud is planning to have at least 10 spacecraft—orbital cloud nodes (OCN)—operational by 2030. The post OwlO Cloud Emerges from Stealth to Build European Orbital Cloud Network appeared first on Payload.",
       "source": "Payload"
-    },
-    {
-      "title": "APOD: 2026 November 12 – Moon, Venus and Spica Meet",
-      "link": "https://science.nasa.gov/image-article/apod-2026-november-12-moon-venus-and-spica-meet/",
-      "pubDate": "2026-11-12T05:05:00.000Z",
-      "image": "https://assets.science.nasa.gov/dynamicimage/assets/science/cds/apod/apod/2026/november/conjunction-bubak.jpg?w=1638&#038;h=2048&#038;fit=clip&#038;crop=faces%2Cfocalpoint",
-      "author": "",
-      "excerpt": "APOD Science APOD APOD: 2026 November 12 –… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional",
-      "source": "NASA"
     },
     {
       "title": "Senate committee takes up nominees for NASA chief financial officer and inspector general",
@@ -451,15 +469,6 @@
       "source": "Payload"
     },
     {
-      "title": "Canada’s Medium-Lift Rocket Ambitions Confirmed In Budget",
-      "link": "https://payloadspace.com/canadas-medium-lift-rocket-ambitions-confirmed-in-budget/",
-      "pubDate": "2026-11-09T13:30:00.000Z",
-      "image": "https://payloadspace.com/wp-content/uploads/2026/07/68dc133e3256228fbfe5478c_BAC359FB-8F72-4E07-ABD0-F40DEE0B788C-200x200.jpg",
-      "author": "Elizabeth Howell",
-      "excerpt": "Canada will upgrade its rockets as part of its Launch the North initiative, which is aiming to support sovereign rockets flying from at least two new spaceports. The post Canada’s Medium-Lift Rocket Ambitions Confirmed In Budget appeared first on Payload.",
-      "source": "Payload"
-    },
-    {
       "title": "AST SpaceMobile unveils $1.3 billion engine deal with Firefly Aerospace to power new heavy-lift rocket",
       "link": "https://spaceflightnow.com/2026/11/07/ast-spacemobile-unveils-1-3-billion-engine-deal-with-firefly-aerospace-to-power-new-heavy-lift-rocket/",
       "pubDate": "2026-11-07T02:18:04.000Z",
@@ -620,15 +629,6 @@
       "author": "Brooks Mendenhall",
       "excerpt": "For decades, art historians and astronomers have wondered whether the sky of Vincent van Gogh’s The Starry Night shows real stars or imagined ones. A new study argues the stars are real — and that Van Gogh likely saw them a month later than most scholars thought. The study, published Oct. 22 in Scientific Reports,Conti",
       "source": "Astronomy Magazine"
-    },
-    {
-      "title": "Could primordial black holes hold the key to dark matter?",
-      "link": "https://www.newscientist.com/video/2597265-could-primordial-black-holes-hold-the-key-to-dark-matter/?utm_campaign=RSS|NSNS&utm_content=space&utm_medium=RSS&utm_source=NSNS",
-      "pubDate": "2026-11-04T18:00:00.000Z",
-      "image": null,
-      "author": "Emily Bates",
-      "excerpt": "Some black holes may be older than the stars themselves. And their existence could help solve one of the biggest mysteries in physics: dark matter",
-      "source": "New Scientist"
     },
     {
       "title": "Simera Sense and Spacemanic to Collaborate on a New Complete Dual-Use Mission Solution",
@@ -896,6 +896,69 @@
   ],
   "nytNews": [
     {
+      "title": "A Year On, Mark Carney of Canada Returns to China a Political Star",
+      "link": "https://www.nytimes.com/2026/11/16/world/canada/carney-china-xi-trump-putin-trade.html",
+      "pubDate": "2026-11-16T08:31:01.000Z",
+      "image": "https://static01.nyt.com/images/2026/11/16/multimedia/16int-canada-carney-china-hpfq/16int-canada-carney-china-hpfq-mediumSquareAt3X.jpg",
+      "author": "Ian Austen",
+      "excerpt": "Canada’s leader is courting Europe, but the bigger payoff might be in Asia, where he will share summit stages with Xi Jinping, Vladimir Putin and President Trump.",
+      "source": "NYT"
+    },
+    {
+      "title": "The New Congress Must Rein in Trump’s Dangerous China Policy",
+      "link": "https://www.nytimes.com/2026/11/16/opinion/china-us-trump-asia-military.html",
+      "pubDate": "2026-11-16T06:55:05.000Z",
+      "image": "https://static01.nyt.com/images/2026/11/17/multimedia/13rapp-ratnerNew-tlpj/13rapp-ratnerNew-tlpj-mediumSquareAt3X.jpg",
+      "author": "Mira Rapp-Hooper and Ely Ratner",
+      "excerpt": "Trump’s accommodating approach toward China has emboldened Beijing, but the new Congress has a rare chance to change course.",
+      "source": "NYT"
+    },
+    {
+      "title": "Megaspeed Says Alice Huang Left Company in August 2025",
+      "link": "https://www.nytimes.com/2026/11/15/business/megaspeed-alice-huang-nvidia-china.html",
+      "pubDate": "2026-11-16T06:02:06.000Z",
+      "image": "https://static01.nyt.com/images/2026/11/15/multimedia/15xp-megaspeed1-zcvq/15xp-megaspeed1-zcvq-mediumSquareAt3X.jpg",
+      "author": "Ali Watkins",
+      "excerpt": "The Singaporean company’s statement was its first to address the status of Ms. Huang, a former executive who had a relationship with Jensen Huang of Nvidia. U.S. officials say she was spying for China.",
+      "source": "NYT"
+    },
+    {
+      "title": "How Could a Router Lead to a Nationwide Ground Stop?",
+      "link": "https://www.nytimes.com/2026/11/15/us/router-network-faa-airline-ground-stop.html",
+      "pubDate": "2026-11-16T05:25:25.000Z",
+      "image": "https://static01.nyt.com/images/2026/12/15/multimedia/15nat-WWK-router-gtqw/15nat-WWK-router-gtqw-mediumSquareAt3X.jpg",
+      "author": "Christina Morales",
+      "excerpt": "Aviation experts and federal officials said the network outage began after a new piece of networking equipment began flooding the rest of the system with data. The underlying cause is unclear.",
+      "source": "NYT"
+    },
+    {
+      "title": "They Defeated a Strongman. But Can They Run a Country?",
+      "link": "https://www.nytimes.com/2026/11/16/world/europe/serbia-students-vucic-election.html",
+      "pubDate": "2026-11-16T05:01:15.000Z",
+      "image": "https://static01.nyt.com/images/2026/11/12/multimedia/00int-serbia-students-01-hlvg/00int-serbia-students-01-hlvg-mediumSquareAt3X.jpg",
+      "author": "Alisa Dogramadzieva",
+      "excerpt": "Serbia’s student movement was deliberately leaderless and made group decisions to unseat Aleksandar Vucic. Now no one seems quite sure what happens next.",
+      "source": "NYT"
+    },
+    {
+      "title": "International Students Are Turning Away From U.S. Universities",
+      "link": "https://www.nytimes.com/2026/11/16/us/international-student-college-enrollment-declines.html",
+      "pubDate": "2026-11-16T05:01:06.000Z",
+      "image": "https://static01.nyt.com/images/2026/11/16/multimedia/16nat-international-students-hp-promo/16nat-international-students-hp-promo-mediumSquareAt3X.jpg",
+      "author": "Stephanie Saul and Steven Rich",
+      "excerpt": "For a second year, Trump administration policies appear to be scaring away international students, disrupting the finances of the American colleges that depend on them.",
+      "source": "NYT"
+    },
+    {
+      "title": "Miguel Ángel Félix Gallardo, Mexican Drug Lord, Dies in Prison",
+      "link": "https://www.nytimes.com/2026/11/15/world/americas/felix-gallardo-mexico-dead.html",
+      "pubDate": "2026-11-16T02:11:17.000Z",
+      "image": "https://static01.nyt.com/images/2026/11/15/multimedia/15int-mexico-1-mqvc/15int-mexico-1-mqvc-mediumSquareAt3X.jpg",
+      "author": "Paulina Villegas and Ephrat Livni",
+      "excerpt": "Miguel Ángel Félix Gallardo, who helped build the foundations of modern-day drug empires, was the subject of a major U.S. manhunt for his role in the murder of a D.E.A. agent.",
+      "source": "NYT"
+    },
+    {
       "title": "A Republican Party That’s Learned Nothing",
       "link": "https://www.nytimes.com/2026/11/15/opinion/gop-republican-party-midterms.html",
       "pubDate": "2026-11-16T01:17:44.000Z",
@@ -905,30 +968,12 @@
       "source": "NYT"
     },
     {
-      "title": "Zariah, 13, and Her Cat Are Reunited After Building Collapse",
-      "link": "https://www.nytimes.com/2026/11/15/nyregion/building-collapse-cat-rescue.html",
-      "pubDate": "2026-11-16T00:41:48.000Z",
-      "image": "https://static01.nyt.com/images/2026/11/15/nyregion/15met-collapse-cat-02/15met-collapse-cat-02-mediumSquareAt3X.jpg",
-      "author": "Kaja Andric",
-      "excerpt": "When the Coleman family had to flee their apartment after the building next door collapsed, their cat disappeared. But amid the tragedy of the disaster, this story had a happy ending.",
-      "source": "NYT"
-    },
-    {
       "title": "The Joyful Nerdiness of a 66-Hour, Nonstop Reading of ‘The Power Broker’",
       "link": "https://www.nytimes.com/2026/11/15/nyregion/power-broker-marathon-reading-robert-moses-caro.html",
       "pubDate": "2026-11-16T00:25:48.000Z",
       "image": "https://static01.nyt.com/images/2026/11/15/multimedia/15met-power-broker-top-klht/15met-power-broker-top-klht-mediumSquareAt3X.jpg",
       "author": "Emma G. Fitzsimmons",
       "excerpt": "New Yorkers read the 1,162-page book around the clock for four days, reflecting on the legacy of Robert Moses and celebrating its author, Robert Caro, who read the final pages.",
-      "source": "NYT"
-    },
-    {
-      "title": "Megaspeed Says Alice Huang Left Company in August 2025",
-      "link": "https://www.nytimes.com/2026/11/15/business/megaspeed-alice-huang-nvidia-china.html",
-      "pubDate": "2026-11-16T00:01:34.000Z",
-      "image": "https://static01.nyt.com/images/2026/11/15/multimedia/15xp-megaspeed1-zcvq/15xp-megaspeed1-zcvq-mediumSquareAt3X.jpg",
-      "author": "Ali Watkins",
-      "excerpt": "The Singaporean company’s statement added to the timeline involving Ms. Huang, a former executive who had a relationship with Jensen Huang of Nvidia. U.S. officials say she was spying for China.",
       "source": "NYT"
     },
     {
@@ -959,42 +1004,6 @@
       "source": "NYT"
     },
     {
-      "title": "Flight Delays and Cancellations Persist as System Recovers From Ground Stop",
-      "link": "https://www.nytimes.com/2026/11/15/us/faa-groundstop-flights-status-delays-canceled.html",
-      "pubDate": "2026-11-15T22:06:59.000Z",
-      "image": "https://static01.nyt.com/images/2026/11/15/multimedia/15nat-airport-delays1-ptqj/15nat-airport-delays1-ptqj-mediumSquareAt3X.jpg",
-      "author": "Bernard Mokam",
-      "excerpt": "Operations are returning to normal after air traffic was shut down for more than 4 hours on Friday following a maintenance upgrade that crippled communications.",
-      "source": "NYT"
-    },
-    {
-      "title": "Saudi-Backed Forces Retreat in Yemen, Leaving Key Strait in Houthi Control",
-      "link": "https://www.nytimes.com/2026/11/15/world/middleeast/saudi-houthis-yemen-red-sea.html",
-      "pubDate": "2026-11-15T21:26:18.000Z",
-      "image": "https://static01.nyt.com/images/2026/11/15/multimedia/15int-yemen-retreat-1-bhfc/15int-yemen-retreat-1-bhfc-mediumSquareAt3X.jpg",
-      "author": "Vivian Nereim",
-      "excerpt": "It’s a setback for the Yemeni government and its ally Saudi Arabia, as analysts said the momentum in country’s civil war was tilting toward the Iran-backed Houthis.",
-      "source": "NYT"
-    },
-    {
-      "title": "How Jeffrey Epstein Grew His Sex-Trafficking Ring",
-      "link": "https://www.nytimes.com/2026/11/15/magazine/epstein-victims-recruiting-trafficking.html",
-      "pubDate": "2026-11-15T19:18:58.000Z",
-      "image": "https://static01.nyt.com/images/2026/11/22/magazine/22mag-epstein-02/22mag-epstein-02-mediumSquareAt3X.jpg",
-      "author": "Jen Percy",
-      "excerpt": "Marina Lacerda was one of Epstein’s victims. She also helped him find other girls.",
-      "source": "NYT"
-    },
-    {
-      "title": "Israel Kidnapped Iranian Generals in Hunt for Ron Arad",
-      "link": "https://www.nytimes.com/2026/11/15/world/europe/ron-arad-missing-israel-iran-asgari-hunt.html",
-      "pubDate": "2026-11-15T18:47:49.000Z",
-      "image": "https://static01.nyt.com/images/2026/10/06/multimedia/00int-israel-airman-jpml/00int-israel-airman-jpml-mediumSquareAt3X.jpg",
-      "author": "Adam Goldman, Ronen Bergman, Farnaz Fassihi and Hwaida Saad",
-      "excerpt": "Israeli officials were convinced that Tehran was to blame for the airman’s disappearance. Alternative theories got little attention, until now.",
-      "source": "NYT"
-    },
-    {
       "title": "Sean Duffy Offers New Details on How One Fix Spiraled Into Nationwide Ground Stop",
       "link": "https://www.nytimes.com/2026/11/15/us/sean-duffy-ground-stop-trump-faa.html",
       "pubDate": "2026-11-15T18:06:21.000Z",
@@ -1004,57 +1013,12 @@
       "source": "NYT"
     },
     {
-      "title": "The Flaw at the Heart of Anthropic’s I.P.O.",
-      "link": "https://www.nytimes.com/2026/11/15/opinion/anthropic-ipo-ai-investors.html",
-      "pubDate": "2026-11-15T16:24:45.000Z",
-      "image": null,
-      "author": "Natasha Sarin, Havovi Cooper and Mehron Abdi",
-      "excerpt": "Natasha Sarin read the A.I. company’s 300-page I.P.O. filing. Here’s what worries her.",
-      "source": "NYT"
-    },
-    {
-      "title": "Iran Attacks Bahrain for the Second Time in Days",
-      "link": "https://www.nytimes.com/2026/11/15/world/middleeast/bahrain-iran-israel.html",
-      "pubDate": "2026-11-15T15:55:09.000Z",
-      "image": null,
-      "author": "Vivian Nereim and Aaron Boxerman",
-      "excerpt": "The resumption of attacks after a two-month lull comes as peace talks between the U.S. and Iran appear to have stalled.",
-      "source": "NYT"
-    },
-    {
-      "title": "The Big Questions About Jeffrey Epstein: What The Times Has Learned",
-      "link": "https://www.nytimes.com/article/jeffrey-epstein-sex-abuse-times-investigations.html",
-      "pubDate": "2026-11-15T12:51:31.000Z",
-      "image": null,
-      "author": "The New York Times",
-      "excerpt": "Here is what we know about the sexual predator whose secrets spurred an international reckoning over money, power and complicity. Check back for updates.",
-      "source": "NYT"
-    },
-    {
       "title": "How Jensen Huang’s Secret Led to His Downfall at Nvidia",
       "link": "https://www.nytimes.com/2026/11/14/technology/jensen-huang-nvidia-board.html",
       "pubDate": "2026-11-15T12:40:04.000Z",
       "image": "https://static01.nyt.com/images/2026/11/13/multimedia/BIZ-JENSEN-CRASH-1-01-ljmc/BIZ-JENSEN-CRASH-1-01-ljmc-mediumSquareAt3X-v3.jpg",
       "author": "Tripp Mickle, Ana Swanson, Paul Mozur, Jonathan Swan, Julian E. Barnes and Maggie Haberman",
       "excerpt": "Nvidia’s leader said his relationship with a female customer was just about business. But what he was concealing eventually led to his resignation from the company he created.",
-      "source": "NYT"
-    },
-    {
-      "title": "Lutnick Pushed to Weaken Chip Rules That Overlap With His Family Business",
-      "link": "https://www.nytimes.com/2026/11/15/us/politics/trump-lutnick-ai-chips-nvidia-cantor-fitzgerald.html",
-      "pubDate": "2026-11-15T10:02:05.000Z",
-      "image": "https://static01.nyt.com/images/2026/11/14/multimedia/14dc-lutnick-commerce-01-bqtl/14dc-lutnick-commerce-01-bqtl-mediumSquareAt3X.jpg",
-      "author": "Ana Swanson, Aaron Krolik and Paul Mozur",
-      "excerpt": "The commerce secretary has been writing new rules that would affect Southeast Asian data centers, some of which are clients of his former firm.",
-      "source": "NYT"
-    },
-    {
-      "title": "They Want to Be Doctors. Student Loan Caps Are Complicating Their Dreams.",
-      "link": "https://www.nytimes.com/2026/11/15/business/medical-school-student-loan-caps.html",
-      "pubDate": "2026-11-15T10:01:42.000Z",
-      "image": "https://static01.nyt.com/images/2026/11/15/multimedia/15Biz-Loan-Caps-01-lmgt/15Biz-Loan-Caps-01-lmgt-mediumSquareAt3X.jpg",
-      "author": "Kaan Ozcan",
-      "excerpt": "This year, the first class of medical students will begin their journey to becoming physicians under new rules limiting how much they can borrow for school.",
       "source": "NYT"
     },
     {
