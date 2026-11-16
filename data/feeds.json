@@ -1,6 +1,69 @@
 {
   "spaceNews": [
     {
+      "title": "SpaceNukes Opens Los Alamos Manufacture and Materials Facility to Build Its Next-Generation Space Reactor",
+      "link": "https://spacenews.com/spacenukes-opens-los-alamos-manufacture-and-materials-facility-to-build-its-next-generation-space-reactor/",
+      "pubDate": "2026-11-16T20:00:00.000Z",
+      "image": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/11/spacenukes-logo-scaled.png?fit=1024%2C1021&amp;ssl=1",
+      "author": "Space Nuclear Power Corporation",
+      "excerpt": "LOS ALAMOS, N.M., Nov. 16, 2026 — Space Nuclear Power Corp. (SpaceNukes) opened its Manufacture and Materials Development Facility at 150 Central Park Square in Los Alamos on Nov. 13. […] The post SpaceNukes Opens Los Alamos Manufacture and Materials Facility to Build Its Next-Generation Space Reactor appeared first on",
+      "source": "SpaceNews"
+    },
+    {
+      "title": "Sentinel-6B in Orbit Around Earth",
+      "link": "https://science.nasa.gov/photojournal/sentinel-6b-in-orbit-around-earth/",
+      "pubDate": "2026-11-16T18:52:32.000Z",
+      "image": "https://assets.science.nasa.gov/dynamicimage/assets/science/psd/photojournal/pia/pia26/pia26803/PIA26803.jpg?w=1350&#038;h=1080&#038;fit=clip&#038;crop=faces%2Cfocalpoint",
+      "author": "",
+      "excerpt": "Description This artist’s concept shows the Sentinel-6B satellite, which will become the reference satellite for other missions studying sea surface height.",
+      "source": "NASA"
+    },
+    {
+      "title": "Thunderbirds in Formation",
+      "link": "https://www.nasa.gov/image-article/thunderbirds-in-formation/",
+      "pubDate": "2026-11-16T18:34:47.000Z",
+      "image": "https://www.nasa.gov/wp-content/uploads/2026/11/11072026-ksc-max-power-airdotshow-2orig.jpg?w=2048",
+      "author": "HQ Web Team",
+      "excerpt": "U.S. Air Force Thunderbirds fighter jets pass overhead during the agency’s MAX POWER expo and air show on Saturday, Nov. 7, 2026, at NASA’s Kennedy Space Center in Florida. NASA’s inaugural MAX POWER was an aerospace festival celebrating the past, present, and future of flight and space exploration in honor of America’",
+      "source": "NASA"
+    },
+    {
+      "title": "Contractor to Civil Servant: NASA Welcomes Jim Mirandy",
+      "link": "https://www.nasa.gov/centers-and-facilities/stennis/contractor-to-civil-servant-jim-mirandy/",
+      "pubDate": "2026-11-16T15:22:09.000Z",
+      "image": "https://www.nasa.gov/wp-content/uploads/2026/11/s26-013-jim-mirandy.jpg?w=2048",
+      "author": "LaToya Dean",
+      "excerpt": "The rumble of a rocket engine might be considered a soundtrack for Jim Mirandy’s life. Mirandy has grown up with NASA as a constant presence, and his path to becoming a civil servant at NASA’s Stennis Space Center near Bay St. Louis, Mississippi, has been decades in the making. Hired under the agency’s workforce direct",
+      "source": "NASA"
+    },
+    {
+      "title": "Exclusive: SpaceComputer Books a D-Orbit Demo Mission with Aptos Orbital in 2027",
+      "link": "https://payloadspace.com/exclusive-spacecomputer-books-a-d-orbit-demo-mission-in-2027/",
+      "pubDate": "2026-11-16T14:00:00.000Z",
+      "image": "https://payloadspace.com/wp-content/uploads/2026/11/DSC03179-1-200x200.jpg",
+      "author": "Douglas Gorman",
+      "excerpt": "A new security standard is headed to orbit. The post Exclusive: SpaceComputer Books a D-Orbit Demo Mission with Aptos Orbital in 2027 appeared first on Payload.",
+      "source": "Payload"
+    },
+    {
+      "title": "Could planets that orbit other stars be nonspherical?",
+      "link": "https://www.astronomy.com/science/could-planets-that-orbit-other-stars-be-nonspherical/",
+      "pubDate": "2026-11-16T14:00:00.000Z",
+      "image": null,
+      "author": "Astronomy Staff",
+      "excerpt": "Could planets that orbit other stars be nonspherical shapes, such as ovals or pears, depending on composition? Rich LivitskiSeal Beach, California Bodies large enough to be considered planets have enough mass that gravity molds them into a roughly spherical shape. The key word here is roughly — other factors also come ",
+      "source": "Astronomy Magazine"
+    },
+    {
+      "title": "Midterms Impact on Defense Budgets",
+      "link": "https://payloadspace.com/midterms-impact-on-defense-budgets/",
+      "pubDate": "2026-11-16T12:07:00.000Z",
+      "image": "https://payloadspace.com/wp-content/uploads/2026/11/image-1-1024x611-NZdY3p-200x200.png",
+      "author": "Max Puhalevich",
+      "excerpt": "Democrats sweep Congress, in dramatic fashion. Soo, what does that mean for space and defense spending? The post Midterms Impact on Defense Budgets appeared first on Payload.",
+      "source": "Payload"
+    },
+    {
       "title": "The end of the universe could emerge suddenly from nothing",
       "link": "https://www.newscientist.com/article/2598817-the-end-of-the-universe-could-emerge-suddenly-from-nothing/?utm_campaign=RSS|NSNS&utm_content=space&utm_medium=RSS&utm_source=NSNS",
       "pubDate": "2026-11-16T09:00:00.000Z",
@@ -46,12 +109,12 @@
       "source": "Spaceflight Now"
     },
     {
-      "title": "SpaceX Successfully Catches Starship Upper Stage",
+      "title": "SpaceX Catches Starship Upper Stage",
       "link": "https://payloadspace.com/spacex-successfully-catches-starship-upper-stage/",
       "pubDate": "2026-11-15T01:39:11.000Z",
       "image": "https://payloadspace.com/wp-content/uploads/2026/11/Screenshot-2026-11-14-at-3.20.58-PM-200x200.png",
       "author": "Victoria Woodburn",
-      "excerpt": "SpaceX made history on Saturday, recovering a Starship upper stage from orbit for the first time. The post SpaceX Successfully Catches Starship Upper Stage appeared first on Payload.",
+      "excerpt": "SpaceX made history on Saturday, recovering a Starship upper stage from orbit for the first time. The post SpaceX Catches Starship Upper Stage appeared first on Payload.",
       "source": "Payload"
     },
     {
@@ -226,24 +289,6 @@
       "source": "SpaceNews"
     },
     {
-      "title": "Heart in the Sky at NASA Kennedy",
-      "link": "https://www.nasa.gov/image-article/heart-in-the-sky-at-nasa-kennedy/",
-      "pubDate": "2026-11-12T19:12:49.000Z",
-      "image": "https://www.nasa.gov/wp-content/uploads/2026/11/55640210122-dae9d5e6b9-o.jpg?w=2048",
-      "author": "HQ Web Team",
-      "excerpt": "The U.S. Air Force Thunderbirds create a heart-shaped smoke trail during a flight maneuver near NASA’s Vehicle Assembly Building during the agency’s MAX POWER expo and air show on Sunday, Nov. 8, 2026, at NASA’s Kennedy Space Center in Florida. NASA’s MAX POWER is an aerospace festival celebrating the past, present, an",
-      "source": "NASA"
-    },
-    {
-      "title": "NASA Ames Stars of the Month: November 2026",
-      "link": "https://www.nasa.gov/general/nasa-ames-stars-of-the-month-november-2026/",
-      "pubDate": "2026-11-12T17:54:32.000Z",
-      "image": "https://www.nasa.gov/wp-content/uploads/2026/11/som-november-2026-banner.jpg?w=1920",
-      "author": "Aaron McKinnon",
-      "excerpt": "The NASA Ames Science Directorate recognizes the outstanding contributions of (pictured left to right) Alyssa Villanueva, Steve Howell, and Samuel LeBlanc. Their commitment to the NASA mission represents the entrepreneurial spirit, technical expertise, and collaborative disposition needed to explore this world and beyo",
-      "source": "NASA"
-    },
-    {
       "title": "Vast data dump from Euclid space telescope reveals stunning galaxies",
       "link": "https://www.newscientist.com/article/2598614-vast-data-dump-from-euclid-space-telescope-reveals-stunning-galaxies/?utm_campaign=RSS|NSNS&utm_content=space&utm_medium=RSS&utm_source=NSNS",
       "pubDate": "2026-11-12T14:00:00.000Z",
@@ -269,15 +314,6 @@
       "author": "Matthew Sparkes",
       "excerpt": "The UK is unable to match the advanced surveillance and counter-surveillance programmes run by the US, China and Russia, but it is working with civilian astronomers to develop a way of monitoring spy satellites via ground-based telescopes",
       "source": "New Scientist"
-    },
-    {
-      "title": "NASA’s Hubble Offers Cosmic Sampler of Targets for Roman",
-      "link": "https://science.nasa.gov/missions/hubble/nasas-hubble-offers-cosmic-sampler-of-targets-for-roman/",
-      "pubDate": "2026-11-12T13:18:40.000Z",
-      "image": "https://assets.science.nasa.gov/dynamicimage/assets/science/missions/hubble/gravitational-lens/Hubble_lenscollage_P18085_ok4_noletters.tif?w=2048",
-      "author": "",
-      "excerpt": "A gallery of gravitational lenses captured by NASA’s Hubble Space Telescope showcases the diversity of this cosmic phenomenon and lays the groundwork for follow-up observations by the Nancy Grace Roman Space Telescope.",
-      "source": "NASA"
     },
     {
       "title": "NeuralSat Raises €2.9M to Build Orbital Data Relay Network",
@@ -397,15 +433,6 @@
       "source": "Payload"
     },
     {
-      "title": "Rocket Lab Ups Neutron Launch Price Ahead of ‘27 Debut",
-      "link": "https://payloadspace.com/rocket-lab-ups-neutron-launch-price-ahead-of-27-debut/",
-      "pubDate": "2026-11-10T13:17:39.000Z",
-      "image": "https://payloadspace.com/wp-content/uploads/2026/11/53195462693_e2ae7c66c6_o-200x200.jpg",
-      "author": "Douglas Gorman",
-      "excerpt": "The cost of launch is on the rise. The post Rocket Lab Ups Neutron Launch Price Ahead of ‘27 Debut appeared first on Payload.",
-      "source": "Payload"
-    },
-    {
       "title": "ESCAPADE on its way to Mars after Earth flybys",
       "link": "https://spacenews.com/escapade-on-its-way-to-mars-after-earth-flybys/",
       "pubDate": "2026-11-10T08:01:39.000Z",
@@ -458,15 +485,6 @@
       "author": "Astronomy Staff",
       "excerpt": "What would happen if a planet crashed into the Sun? Lindsay WhiteRio Rancho, New Mexico This is a wonderful example of a thought experiment, the ultimate “what if?” question. We should begin by pointing out that no fully formed planet will actually ever be able to crash into the Sun, as the Sun’s ferocious heat would b",
       "source": "Astronomy Magazine"
-    },
-    {
-      "title": "Apollo and Artemis Astronauts Share the Stage at Gala",
-      "link": "https://payloadspace.com/apollo-and-artemis-astronauts-share-the-stage-at-gala/",
-      "pubDate": "2026-11-09T13:45:00.000Z",
-      "image": "https://payloadspace.com/wp-content/uploads/2026/11/20261106_ArtemisCelebrationGala_SL2_4350-1-200x200.jpg",
-      "author": "Victoria Woodburn",
-      "excerpt": "Twenty-eight astronauts—including two Apollo veterans—and one very large Saturn V shared a room at Kennedy Space Center for the Artemis Celebration Gala. The post Apollo and Artemis Astronauts Share the Stage at Gala appeared first on Payload.",
-      "source": "Payload"
     },
     {
       "title": "AST SpaceMobile unveils $1.3 billion engine deal with Firefly Aerospace to power new heavy-lift rocket",
@@ -622,15 +640,6 @@
       "source": "Spaceflight Now"
     },
     {
-      "title": "Van Gogh’s Starry Night shows a real night sky, study suggests",
-      "link": "https://www.astronomy.com/science/van-goghs-starry-night-shows-a-real-night-sky-study-suggests/",
-      "pubDate": "2026-11-04T19:01:39.000Z",
-      "image": null,
-      "author": "Brooks Mendenhall",
-      "excerpt": "For decades, art historians and astronomers have wondered whether the sky of Vincent van Gogh’s The Starry Night shows real stars or imagined ones. A new study argues the stars are real — and that Van Gogh likely saw them a month later than most scholars thought. The study, published Oct. 22 in Scientific Reports,Conti",
-      "source": "Astronomy Magazine"
-    },
-    {
       "title": "Simera Sense and Spacemanic to Collaborate on a New Complete Dual-Use Mission Solution",
       "link": "https://spacenews.com/simera-sense-and-spacemanic-to-collaborate-on-a-new-complete-dual-use-mission-solution/",
       "pubDate": "2026-11-03T16:59:43.000Z",
@@ -665,15 +674,6 @@
       "author": "Pentagon News",
       "excerpt": "The Department of the Air Force's Spark Tank program has concluded its final year, narrowing 350 total submissions down to the Top 5 ideas.",
       "source": "Space Force"
-    },
-    {
-      "title": "How to Expand Reliable, Flexible Access to Space",
-      "link": "https://spacenews.com/how-to-expand-reliable-flexible-access-to-space/",
-      "pubDate": "2026-11-02T14:00:00.000Z",
-      "image": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/10/SpaceNews_AD-1-1.png?fit=1024%2C794&amp;ssl=1",
-      "author": "Exolaunch",
-      "excerpt": "The space industry launched more rockets into orbit last year than ever before, yet satellite operators are confronting an unexpected problem: There still aren’t enough rides to go around. And […] The post How to Expand Reliable, Flexible Access to Space appeared first on SpaceNews.",
-      "source": "SpaceNews"
     },
     {
       "title": "HQs DAF Services Industry Day strengthens partnerships, industry engagement",
@@ -804,6 +804,15 @@
   ],
   "industryNews": [
     {
+      "title": "Lockheed Martin Dedicates Greenville Welcome Center in Honor of Senator Lindsey Graham",
+      "link": "https://news.lockheedmartin.com/2026-11-16-Lockheed-Martin-Dedicates-Greenville-Welcome-Center-in-Honor-of-Senator-Lindsey-Graham",
+      "pubDate": "2026-11-16T17:43:00.000Z",
+      "image": "https://news.lockheedmartin.com/file.php/184227/GV-WelcomeCenter-RibbonCutting1-1920.jpg?thumbnail=144",
+      "author": "",
+      "excerpt": "",
+      "source": "Lockheed Martin"
+    },
+    {
       "title": "More Rockets, Faster: Lockheed Martin Reaches Major GMLRS Production Milestone",
       "link": "https://news.lockheedmartin.com/2026-11-10-More-Rockets,-Faster-Lockheed-Martin-Reaches-Major-GMLRS-Production-Milestone",
       "pubDate": "2026-11-10T16:30:00.000Z",
@@ -876,15 +885,6 @@
       "source": "Lockheed Martin"
     },
     {
-      "title": " Lockheed Martin Advances Joint Fires Capability by Redirecting In-flight GMLRS Rocket During U.S. Army Test ",
-      "link": "https://news.lockheedmartin.com/2026-10-28-Lockheed-Martin-Advances-Joint-Fires-Capability-by-Redirecting-In-flight-GMLRS-Rocket-During-US-Army-Test",
-      "pubDate": "2026-10-28T13:00:00.000Z",
-      "image": "https://news.lockheedmartin.com/file.php/184191/Joint-Fires-900.jpg?thumbnail=144",
-      "author": "",
-      "excerpt": "",
-      "source": "Lockheed Martin"
-    },
-    {
       "title": "Boeing: Global Freighter Fleet to Exceed 4,000 Airplanes as Air Cargo Traffic Doubles by 2045",
       "link": "https://boeing.mediaroom.com/2026-10-28-Boeing-Global-Freighter-Fleet-to-Exceed-4,000-Airplanes-as-Air-Cargo-Traffic-Doubles-by-2045",
       "pubDate": "2026-10-28T12:00:00.000Z",
@@ -896,138 +896,210 @@
   ],
   "nytNews": [
     {
-      "title": "A Year On, Mark Carney of Canada Returns to China a Political Star",
-      "link": "https://www.nytimes.com/2026/11/16/world/canada/carney-china-xi-trump-putin-trade.html",
-      "pubDate": "2026-11-16T08:31:01.000Z",
-      "image": "https://static01.nyt.com/images/2026/11/16/multimedia/16int-canada-carney-china-hpfq/16int-canada-carney-china-hpfq-mediumSquareAt3X.jpg",
-      "author": "Ian Austen",
-      "excerpt": "Canada’s leader is courting Europe, but the bigger payoff might be in Asia, where he will share summit stages with Xi Jinping, Vladimir Putin and President Trump.",
+      "title": "Chase Bank Transactions Disrupted by ‘Technical Issue’ Amid Outage Reports",
+      "link": "https://www.nytimes.com/2026/11/16/us/bank-outages-down.html",
+      "pubDate": "2026-11-16T20:14:16.000Z",
+      "image": "https://static01.nyt.com/images/2026/11/16/multimedia/16xp-chase-zpkc/16xp-chase-zpkc-mediumSquareAt3X.jpg",
+      "author": "Michael Levenson",
+      "excerpt": "Chase was among several U.S. banks whose customers reported technical issues on Monday.",
       "source": "NYT"
     },
     {
-      "title": "The New Congress Must Rein in Trump’s Dangerous China Policy",
-      "link": "https://www.nytimes.com/2026/11/16/opinion/china-us-trump-asia-military.html",
-      "pubDate": "2026-11-16T06:55:05.000Z",
-      "image": "https://static01.nyt.com/images/2026/11/17/multimedia/13rapp-ratnerNew-tlpj/13rapp-ratnerNew-tlpj-mediumSquareAt3X.jpg",
-      "author": "Mira Rapp-Hooper and Ely Ratner",
-      "excerpt": "Trump’s accommodating approach toward China has emboldened Beijing, but the new Congress has a rare chance to change course.",
+      "title": "Challenging Consensus, Scientist Says Epstein Autopsy Photos Show Homicide",
+      "link": "https://www.nytimes.com/2026/11/16/us/jeffrey-epstein-autopsy-michael-freeman.html",
+      "pubDate": "2026-11-16T20:08:09.000Z",
+      "image": "https://static01.nyt.com/images/2026/11/16/multimedia/16nat-epstein-autopsy-jvkm/16nat-epstein-autopsy-jvkm-mediumSquareAt3X.jpg",
+      "author": "Shaila Dewan and Leo Sands",
+      "excerpt": "Investigations have found most evidence in Jeffrey Epstein’s death points to suicide. Michael Freeman, a forensic scientist who studies homicides, got rare access to the autopsy file and disagrees.",
       "source": "NYT"
     },
     {
-      "title": "Megaspeed Says Alice Huang Left Company in August 2025",
-      "link": "https://www.nytimes.com/2026/11/15/business/megaspeed-alice-huang-nvidia-china.html",
-      "pubDate": "2026-11-16T06:02:06.000Z",
-      "image": "https://static01.nyt.com/images/2026/11/15/multimedia/15xp-megaspeed1-zcvq/15xp-megaspeed1-zcvq-mediumSquareAt3X.jpg",
-      "author": "Ali Watkins",
-      "excerpt": "The Singaporean company’s statement was its first to address the status of Ms. Huang, a former executive who had a relationship with Jensen Huang of Nvidia. U.S. officials say she was spying for China.",
+      "title": "Gérard Depardieu Withdraws Sexual Assault Appeal, Apologizing to Victims",
+      "link": "https://www.nytimes.com/2026/11/16/movies/gerard-depardieu-apology-appeal-withdrawal.html",
+      "pubDate": "2026-11-16T19:25:36.000Z",
+      "image": "https://static01.nyt.com/images/2026/11/16/world/16cul-depardieu-apology-aaa/16cul-depardieu-apology-aaa-mediumSquareAt3X.jpg",
+      "author": "Catherine Porter and Giulia Imbert",
+      "excerpt": "The French actor admitted guilt on the morning his appeal trial was to begin in Paris, accepting his conviction for groping two women on a film set.",
       "source": "NYT"
     },
     {
-      "title": "How Could a Router Lead to a Nationwide Ground Stop?",
-      "link": "https://www.nytimes.com/2026/11/15/us/router-network-faa-airline-ground-stop.html",
-      "pubDate": "2026-11-16T05:25:25.000Z",
-      "image": "https://static01.nyt.com/images/2026/12/15/multimedia/15nat-WWK-router-gtqw/15nat-WWK-router-gtqw-mediumSquareAt3X.jpg",
-      "author": "Christina Morales",
-      "excerpt": "Aviation experts and federal officials said the network outage began after a new piece of networking equipment began flooding the rest of the system with data. The underlying cause is unclear.",
+      "title": "Grammy Nominations 2027: See the Full List",
+      "link": "https://www.nytimes.com/2026/11/16/arts/music/grammy-nominee-list-2027.html",
+      "pubDate": "2026-11-16T19:25:04.000Z",
+      "image": "https://static01.nyt.com/images/2026/11/16/multimedia/16cul-grammy-list-1-wvfz/16cul-grammy-list-1-wvfz-mediumSquareAt3X.jpg",
+      "author": "",
+      "excerpt": "The artists, albums and songs up for honors at the 69th annual ceremony were announced Monday. The show will be held on Feb. 7 in Los Angeles and air on ABC and Disney+ after decades on CBS.",
       "source": "NYT"
     },
     {
-      "title": "They Defeated a Strongman. But Can They Run a Country?",
-      "link": "https://www.nytimes.com/2026/11/16/world/europe/serbia-students-vucic-election.html",
-      "pubDate": "2026-11-16T05:01:15.000Z",
-      "image": "https://static01.nyt.com/images/2026/11/12/multimedia/00int-serbia-students-01-hlvg/00int-serbia-students-01-hlvg-mediumSquareAt3X.jpg",
-      "author": "Alisa Dogramadzieva",
-      "excerpt": "Serbia’s student movement was deliberately leaderless and made group decisions to unseat Aleksandar Vucic. Now no one seems quite sure what happens next.",
+      "title": "Fed Chairman Highlights Economic Uncertainty of A.I. Boom",
+      "link": "https://www.nytimes.com/2026/11/16/business/economy/warsh-ai-economy.html",
+      "pubDate": "2026-11-16T19:24:44.000Z",
+      "image": "https://static01.nyt.com/images/2026/11/16/multimedia/16dc-fed-thwl/16dc-fed-thwl-mediumSquareAt3X.jpg",
+      "author": "Colby Smith",
+      "excerpt": "Kevin M. Warsh, chairman of the Federal Reserve, has assigned a task force to explore how productivity gains tied to new technologies could impact the labor market.",
       "source": "NYT"
     },
     {
-      "title": "International Students Are Turning Away From U.S. Universities",
-      "link": "https://www.nytimes.com/2026/11/16/us/international-student-college-enrollment-declines.html",
-      "pubDate": "2026-11-16T05:01:06.000Z",
-      "image": "https://static01.nyt.com/images/2026/11/16/multimedia/16nat-international-students-hp-promo/16nat-international-students-hp-promo-mediumSquareAt3X.jpg",
-      "author": "Stephanie Saul and Steven Rich",
-      "excerpt": "For a second year, Trump administration policies appear to be scaring away international students, disrupting the finances of the American colleges that depend on them.",
+      "title": "Trump’s Asia Trip Will Bring Him to the Table With Xi and Putin: What to Know",
+      "link": "https://www.nytimes.com/2026/11/16/world/asia/trump-asia-china-xi-putin.html",
+      "pubDate": "2026-11-16T19:05:52.000Z",
+      "image": "https://static01.nyt.com/images/2026/11/16/multimedia/16int-trump-summit-wtk-qjkm/16int-trump-summit-wtk-qjkm-mediumSquareAt3X.jpg",
+      "author": "Lily Kuo",
+      "excerpt": "President Trump will also meet with regional leaders, including Australia’s prime minister, who said “we want to see a de-escalation in the conflicts.”",
       "source": "NYT"
     },
     {
-      "title": "Miguel Ángel Félix Gallardo, Mexican Drug Lord, Dies in Prison",
-      "link": "https://www.nytimes.com/2026/11/15/world/americas/felix-gallardo-mexico-dead.html",
-      "pubDate": "2026-11-16T02:11:17.000Z",
-      "image": "https://static01.nyt.com/images/2026/11/15/multimedia/15int-mexico-1-mqvc/15int-mexico-1-mqvc-mediumSquareAt3X.jpg",
-      "author": "Paulina Villegas and Ephrat Livni",
-      "excerpt": "Miguel Ángel Félix Gallardo, who helped build the foundations of modern-day drug empires, was the subject of a major U.S. manhunt for his role in the murder of a D.E.A. agent.",
+      "title": "Elon Musk Dreams of Merging Tesla and SpaceX in Move Toward Tech Supremacy",
+      "link": "https://www.nytimes.com/2026/11/16/business/elon-musk-tesla-spacex-conglomerate.html",
+      "pubDate": "2026-11-16T18:57:59.000Z",
+      "image": "https://static01.nyt.com/images/2026/11/16/business/16biz-digital-conglomerates/16biz-digital-conglomerates-mediumSquareAt3X.jpg",
+      "author": "Steve Lohr",
+      "excerpt": "The history of the sprawling corporate combinations is rich, colorful and mostly disappointing. Could a SpaceX-Tesla merger be a success story?",
       "source": "NYT"
     },
     {
-      "title": "A Republican Party That’s Learned Nothing",
-      "link": "https://www.nytimes.com/2026/11/15/opinion/gop-republican-party-midterms.html",
-      "pubDate": "2026-11-16T01:17:44.000Z",
-      "image": "https://static01.nyt.com/images/2026/11/15/multimedia/15french-wblz/15french-wblz-mediumSquareAt3X.jpg",
-      "author": "David French",
-      "excerpt": "Defeating MAGA is only half done.",
+      "title": "The Financial Bubble Cycles Are Getting Worse",
+      "link": "https://www.nytimes.com/2026/11/16/opinion/ai-bubble-finance-crisis-deregulation.html",
+      "pubDate": "2026-11-16T18:45:55.000Z",
+      "image": null,
+      "author": "Zachary D. Carter",
+      "excerpt": "The financialization of our economy, now penetrating Silicon Valley, is generating storms that are both more frequent and more destructive.",
       "source": "NYT"
     },
     {
-      "title": "The Joyful Nerdiness of a 66-Hour, Nonstop Reading of ‘The Power Broker’",
-      "link": "https://www.nytimes.com/2026/11/15/nyregion/power-broker-marathon-reading-robert-moses-caro.html",
-      "pubDate": "2026-11-16T00:25:48.000Z",
-      "image": "https://static01.nyt.com/images/2026/11/15/multimedia/15met-power-broker-top-klht/15met-power-broker-top-klht-mediumSquareAt3X.jpg",
-      "author": "Emma G. Fitzsimmons",
-      "excerpt": "New Yorkers read the 1,162-page book around the clock for four days, reflecting on the legacy of Robert Moses and celebrating its author, Robert Caro, who read the final pages.",
+      "title": "One Overlooked Reason the Democrats May Have Won the Midterms",
+      "link": "https://www.nytimes.com/2026/11/16/opinion/talarico-humility.html",
+      "pubDate": "2026-11-16T18:41:31.000Z",
+      "image": null,
+      "author": "Frank Bruni",
+      "excerpt": "Is humility poised for a political comeback?",
       "source": "NYT"
     },
     {
-      "title": "Chris Van Hollen Says His Majority Leader Challenge to Chuck Schumer Is Gaining Support",
-      "link": "https://www.nytimes.com/2026/11/15/us/politics/van-hollen-schumer-democrats-majority-leader.html",
-      "pubDate": "2026-11-15T23:02:15.000Z",
-      "image": "https://static01.nyt.com/images/2026/11/15/multimedia/15dc-vanhollen-vlhj/15dc-vanhollen-vlhj-mediumSquareAt3X.jpg",
-      "author": "Annie Karni",
-      "excerpt": "Senator Chris Van Hollen of Maryland said on Sunday that he has a “wide-open” path to unseat Chuck Schumer, the long-serving Senate Democratic leader.",
+      "title": "Trump Administration Moves to Close A.I. Chip Loophole Ahead of China Trip",
+      "link": "https://www.nytimes.com/2026/11/16/us/politics/trump-china-ai-chip-loophole.html",
+      "pubDate": "2026-11-16T17:59:59.000Z",
+      "image": "https://static01.nyt.com/images/2026/11/16/multimedia/16dc-remote-access-01-bfgz/16dc-remote-access-01-bfgz-mediumSquareAt3X.jpg",
+      "author": "Ana Swanson and Tony Romm",
+      "excerpt": "The rules have been a topic of fierce debate in the administration and would cut back on a booming data center business serving Chinese companies.",
       "source": "NYT"
     },
     {
-      "title": "Nvidia Fallout Looms Over Trump-Xi Meeting",
-      "link": "https://www.nytimes.com/2026/11/15/us/politics/nvidia-trump-huang-china-xi.html",
-      "pubDate": "2026-11-15T22:54:41.000Z",
-      "image": "https://static01.nyt.com/images/2026/11/15/multimedia/15dc-trump-xi-01-bjgh/15dc-trump-xi-01-bjgh-mediumSquareAt3X.jpg",
-      "author": "Katie Rogers",
-      "excerpt": "So far, President Trump has indicated that he does not plan to press the Chinese leader about U.S. intelligence findings that a Chinese spy targeted Jensen Huang.",
+      "title": "Trump Says He’s Open to Reinstatement of Jensen Huang as Nvidia Chief",
+      "link": "https://www.nytimes.com/2026/11/16/us/politics/trump-jensen-huang-nvidia.html",
+      "pubDate": "2026-11-16T17:48:36.000Z",
+      "image": "https://static01.nyt.com/images/2026/11/16/multimedia/16dc-trump-huang-jlcm/16dc-trump-huang-jlcm-mediumSquareAt3X.jpg",
+      "author": "Shawn McCreesh",
+      "excerpt": "As he prepared for a visit to China, the president played down the fallout from Mr. Huang’s affair with a woman officials have identified as an intelligence asset for Beijing.",
       "source": "NYT"
     },
     {
-      "title": "8 Takeaways From a Big Democratic Gathering in Denver: Democrats in Array",
-      "link": "https://www.nytimes.com/2026/11/15/us/politics/democrats-denver-gathering-takeaways.html",
-      "pubDate": "2026-11-15T22:10:03.000Z",
-      "image": "https://static01.nyt.com/images/2026/11/15/multimedia/15pol-dems-denver-takeaways-topart-01-wpvh/15pol-dems-denver-takeaways-topart-01-wpvh-mediumSquareAt3X.jpg",
-      "author": "Shane Goldmacher and Reid J. Epstein",
-      "excerpt": "More than a half-dozen potential Democratic presidential candidates made early pitches for themselves and their visions at what amounted to a party-wide post-election victory party.",
+      "title": "Elon Musk Wants to Merge Tesla and SpaceX. Their Businesses Already Overlap.",
+      "link": "https://www.nytimes.com/2026/11/16/business/elon-musk-tesla-spacex.html",
+      "pubDate": "2026-11-16T17:45:28.000Z",
+      "image": "https://static01.nyt.com/images/2026/11/13/multimedia/00biz-tesla-spacex-tesla-jmzp/00biz-tesla-spacex-tesla-jmzp-mediumSquareAt3X.jpg",
+      "author": "Grace Kay",
+      "excerpt": "For years, engineers have shuffled between Tesla and SpaceX, and the companies have worked on major projects together.",
       "source": "NYT"
     },
     {
-      "title": "Sean Duffy Offers New Details on How One Fix Spiraled Into Nationwide Ground Stop",
-      "link": "https://www.nytimes.com/2026/11/15/us/sean-duffy-ground-stop-trump-faa.html",
-      "pubDate": "2026-11-15T18:06:21.000Z",
-      "image": "https://static01.nyt.com/images/2026/11/15/multimedia/15dc-duffy2-vqkm/15dc-duffy2-vqkm-mediumSquareAt3X.jpg",
-      "author": "Karoun Demirjian",
-      "excerpt": "When asked, the transportation secretary could not guarantee on Sunday that a similar air traffic meltdown would not occur again.",
+      "title": "The Blue Wave Lifted Democrats. But Not All Progressives Rose as High.",
+      "link": "https://www.nytimes.com/2026/11/16/upshot/progressives-moderates-democrats-elections.html",
+      "pubDate": "2026-11-16T16:44:26.000Z",
+      "image": "https://static01.nyt.com/images/2026/11/15/upshot/15up-tilt-left-sub/15up-tilt-left-sub-mediumSquareAt3X-v2.jpg",
+      "author": "Nate Cohn",
+      "excerpt": "The performance gap with moderates narrowed, but progressive candidates underperformed by enough to keep the “electability” debate alive.",
       "source": "NYT"
     },
     {
-      "title": "How Jensen Huang’s Secret Led to His Downfall at Nvidia",
-      "link": "https://www.nytimes.com/2026/11/14/technology/jensen-huang-nvidia-board.html",
-      "pubDate": "2026-11-15T12:40:04.000Z",
-      "image": "https://static01.nyt.com/images/2026/11/13/multimedia/BIZ-JENSEN-CRASH-1-01-ljmc/BIZ-JENSEN-CRASH-1-01-ljmc-mediumSquareAt3X-v3.jpg",
-      "author": "Tripp Mickle, Ana Swanson, Paul Mozur, Jonathan Swan, Julian E. Barnes and Maggie Haberman",
-      "excerpt": "Nvidia’s leader said his relationship with a female customer was just about business. But what he was concealing eventually led to his resignation from the company he created.",
+      "title": "2027 Grammy Snubs and Surprises: Madonna, Noah Kahan, Audrey Hobert and More",
+      "link": "https://www.nytimes.com/2026/11/16/arts/music/grammy-nominations-snubs-surprises-madonna-noah-kahan.html",
+      "pubDate": "2026-11-16T16:17:16.000Z",
+      "image": "https://static01.nyt.com/images/2026/11/16/multimedia/16CUL-GRAMMY-SNUBS-ROSALIA-mwpg/16CUL-GRAMMY-SNUBS-ROSALIA-mwpg-mediumSquareAt3X.jpg",
+      "author": "Jon Pareles, Ben Sisario and Joe Coscarelli",
+      "excerpt": "Madonna and Kahan were locked out of nominations in the top categories, the Womack Sisters were recognized and country’s gender divide showed up in an unexpected way.",
       "source": "NYT"
     },
     {
-      "title": "How Adam Driver, Scarlett Johansson and Miles Teller Built a Family in ‘Paper Tiger’",
-      "link": "https://www.nytimes.com/2026/11/15/movies/adam-driver-scarlett-johansson-miles-teller-interview-paper-tiger.html",
-      "pubDate": "2026-11-15T10:00:44.000Z",
-      "image": "https://static01.nyt.com/images/2026/11/15/multimedia/15cul-paper-tiger-roundtable1-lbmt/15cul-paper-tiger-roundtable1-lbmt-mediumSquareAt3X.jpg",
-      "author": "Melena Ryzik and Dana Scruggs",
-      "excerpt": "James Gray’s latest autobiographical film, set in a crime-ridden ’80s New York, centers on what one of its stars jokingly calls “a throuple.”",
+      "title": "Raye, Rosalía and Ella Langley Top a Women-Led 2027 Grammys Field",
+      "link": "https://www.nytimes.com/2026/11/16/arts/music/grammy-nominations-ella-langley-raye-rosalia.html",
+      "pubDate": "2026-11-16T16:16:14.000Z",
+      "image": "https://static01.nyt.com/images/2026/11/17/multimedia/16cul-grammy-noms-ella2-cfvl/16cul-grammy-noms-ella2-cfvl-mediumSquareAt3X.jpg",
+      "author": "Ben Sisario",
+      "excerpt": "Langley is the first straight-up country artist to contend for the top album prize in eight years, and Raye’s 11 nods lead all nominees.",
+      "source": "NYT"
+    },
+    {
+      "title": "Robert Pattinson Named as the Next James Bond",
+      "link": "https://www.nytimes.com/2026/11/16/movies/james-bond-robert-pattinson.html",
+      "pubDate": "2026-11-16T16:01:58.000Z",
+      "image": "https://static01.nyt.com/images/2026/11/17/world/16cul-james-bond-hfo-bbb/16cul-james-bond-hfo-bbb-mediumSquareAt3X.jpg",
+      "author": "Brooks Barnes",
+      "excerpt": "The announcement ends years of speculation over who would take over the role after Daniel Craig’s five-film run.",
+      "source": "NYT"
+    },
+    {
+      "title": "Democrats Will Wield Enormous Power in Statehouses. What Will They Do?",
+      "link": "https://www.nytimes.com/2026/11/16/us/politics/democrats-state-government-control-priorities.html",
+      "pubDate": "2026-11-16T15:16:11.000Z",
+      "image": "https://static01.nyt.com/images/2026/11/16/us/16nat-trifectas-democrats-top-option-1/16nat-trifectas-democrats-top-option-1-mediumSquareAt3X.jpg",
+      "author": "David W. Chen, Julie Bosman, Reis Thebault and Campbell Robertson",
+      "excerpt": "While attention has focused on the incoming Democratic Congress, the real change could happen in state capitals where Democrats will control a dozen new statehouse chambers.",
+      "source": "NYT"
+    },
+    {
+      "title": "There’s a New James Bond, Again. How Did the Last Ones Fare?",
+      "link": "https://www.nytimes.com/2026/11/16/movies/james-bond-actors-reviews.html",
+      "pubDate": "2026-11-16T15:07:55.000Z",
+      "image": "https://static01.nyt.com/images/2025/08/22/arts/00cul-bond-predecessors/00cul-bond-predecessors-mediumSquareAt3X.jpg",
+      "author": "Calum Marsh",
+      "excerpt": "The casting of 007 inevitably stokes debate, and the immediate reaction doesn’t necessarily match the eventual reviews.",
+      "source": "NYT"
+    },
+    {
+      "title": "This Cancer Kills Children in a Year. Research Has Been Stalled for a Year.",
+      "link": "https://www.nytimes.com/2026/11/15/well/brain-cancer-children-dipg.html",
+      "pubDate": "2026-11-16T15:03:46.000Z",
+      "image": "https://static01.nyt.com/images/2026/10/28/us/00well-science-patient-promo/00well-science-patient-promo-mediumSquareAt3X.jpg",
+      "author": "Lisa Miller and Lexi Parra",
+      "excerpt": "For 27 years, the Pediatric Brain Tumor Consortium worked to save kids with brain cancer. But just before 5-year-old Ryleigh Schecter was diagnosed, the government shut it down.",
+      "source": "NYT"
+    },
+    {
+      "title": "Is Jensen Huang Plotting a Comeback?",
+      "link": "https://www.nytimes.com/2026/11/16/business/dealbook/huang-comeback-nvidia.html",
+      "pubDate": "2026-11-16T12:45:53.000Z",
+      "image": "https://static01.nyt.com/images/2026/11/16/multimedia/16db-huang-qzfm/16db-huang-qzfm-mediumSquareAt3X.jpg",
+      "author": "Andrew Ross Sorkin, Bernhard Warner, Sarah Kessler, Michael J. de la Merced, Niko Gallogly, Brian O’Keefe, Sri Muppidi and Ian Mount",
+      "excerpt": "Prominent figures in Silicon Valley want to see Jensen Huang reinstalled as Nvidia’s boss. Some in the Trump administration don’t want him to return.",
+      "source": "NYT"
+    },
+    {
+      "title": "Billions in Insurance Money Is Being Bet on AI Debt, and Analyst Are Nervous",
+      "link": "https://www.nytimes.com/2026/11/16/business/insurance-ai-debt.html",
+      "pubDate": "2026-11-16T10:00:47.000Z",
+      "image": "https://static01.nyt.com/images/2026/11/11/multimedia/11biz-ai-insurance-02-cgtq/11biz-ai-insurance-02-cgtq-mediumSquareAt3X.jpg",
+      "author": "Niko Gallogly and Maureen Farrell",
+      "excerpt": "Insurance companies are investing billions of their customers’ money into A.I. deals as analysts warn of mounting risks.",
+      "source": "NYT"
+    },
+    {
+      "title": "The Big Questions About Jeffrey Epstein: What The Times Has Learned",
+      "link": "https://www.nytimes.com/article/jeffrey-epstein-sex-abuse-times-investigations.html",
+      "pubDate": "2026-11-15T12:51:31.000Z",
+      "image": null,
+      "author": "The New York Times",
+      "excerpt": "Here is what we know about the sexual predator whose secrets spurred an international reckoning over money, power and complicity. Check back for updates.",
+      "source": "NYT"
+    },
+    {
+      "title": "The Best Thanksgiving Menu Is a Southern Buffet",
+      "link": "https://cooking.nytimes.com/article/southern-buffet-thanksgiving-2026-menu",
+      "pubDate": "2026-11-09T18:47:47.000Z",
+      "image": "https://static01.nyt.com/images/2026/11/09/multimedia/09FD-BIG-MENU-promo-pclj/09FD-BIG-MENU-promo-pclj-mediumSquareAt3X-v2.jpg",
+      "author": "Eric Kim",
+      "excerpt": "Seconds are encouraged at Eric Kim’s Korean American dinner and love letter to the South.",
       "source": "NYT"
     }
   ]
