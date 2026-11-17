@@ -1,6 +1,42 @@
 {
   "spaceNews": [
     {
+      "title": "Cosmo Bee to flight-test Honeybee Hall thruster with D-Orbit in 2027",
+      "link": "https://spacenews.com/cosmo-bee-to-flight-test-honeybee-hall-thruster-with-d-orbit-in-2027/",
+      "pubDate": "2026-11-17T08:00:00.000Z",
+      "image": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/11/cosmo-bee-scaled.jpg?fit=1024%2C1024&amp;ssl=1",
+      "author": "Cosmo Bee",
+      "excerpt": "Daejeon, Republic of Korea – October 14, 2026: South Korean space electric propulsion startup Cosmo Bee plans to conduct an in-orbit flight test of its 10 mN-class Honeybee Hall thruster […] The post Cosmo Bee to flight-test Honeybee Hall thruster with D-Orbit in 2027 appeared first on SpaceNews.",
+      "source": "SpaceNews"
+    },
+    {
+      "title": "SEOPS Signs Rideshare Deal With Stoke",
+      "link": "https://payloadspace.com/seops-signs-rideshare-deal-with-stoke/",
+      "pubDate": "2026-11-17T06:00:00.000Z",
+      "image": "https://payloadspace.com/wp-content/uploads/2026/09/S2-Fit-Check-Iso-200x200.jpg",
+      "author": "Jacqueline Feldscher",
+      "excerpt": "The agreement is expected to give those looking for a ride to space another option, as SpaceX prepares to sunset its Falcon 9 rideshare programs around 2029. The post SEOPS Signs Rideshare Deal With Stoke appeared first on Payload.",
+      "source": "Payload"
+    },
+    {
+      "title": "APOD: 2026 November 17 – Milky Way versus Aurora",
+      "link": "https://science.nasa.gov/image-article/apod-2026-november-17-milky-way-versus-aurora/",
+      "pubDate": "2026-11-17T05:05:00.000Z",
+      "image": "https://assets.science.nasa.gov/content/dam/science/cds/apod/apod/2026/november/GalaxyVsAurora_Scheib_960.jpg/jcr:content/renditions/cq5dam.web.1280.1280.jpeg",
+      "author": "",
+      "excerpt": "APOD Science APOD APOD: 2026 November 17 –… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional",
+      "source": "NASA"
+    },
+    {
+      "title": "Tossing Fireworks from Cloud to Cloud",
+      "link": "https://science.nasa.gov/earth/earth-observatory/tossing-fireworks-from-cloud-to-cloud/",
+      "pubDate": "2026-11-17T05:01:00.000Z",
+      "image": "https://assets.science.nasa.gov/content/dam/science/esd/eo/images/iotd/2026/tossing-fireworks-from-cloud-to-cloud/ISS075-E-250951.jpg/jcr:content/renditions/cq5dam.web.1280.1280.jpeg",
+      "author": "",
+      "excerpt": "For many astronauts, the spectacular sight of lightning stands out when looking back at Earth from the International Space Station.",
+      "source": "NASA"
+    },
+    {
       "title": "Perseverance Update: The Ghostly Rocks of ‘Idubi’ — Bright Remnants of Aqueous Systems from Long Ago",
       "link": "https://science.nasa.gov/blog/perseverance-update-the-ghostly-rocks-of-idubi-bright-remnants-of-aqueous-systems-from-long-ago/",
       "pubDate": "2026-11-16T23:12:45.000Z",
@@ -179,24 +215,6 @@
       "author": "Commercial Space Federation",
       "excerpt": "November 13, 2026— Washington, D.C.—The Commercial Space Federation (CSF) is pleased to welcome CesiumAstro as its newest Associate Member. A global leader in advanced connectivity solutions for the space and […] The post Commercial Space Federation Welcomes CesiumAstro as a New Associate Member appeared first on Space",
       "source": "SpaceNews"
-    },
-    {
-      "title": "Outbursts from a Massive Star",
-      "link": "https://www.nasa.gov/image-article/outbursts-from-a-massive-star/",
-      "pubDate": "2026-11-13T16:39:33.000Z",
-      "image": "https://www.nasa.gov/wp-content/uploads/2026/11/at2016blu.jpg?w=2048",
-      "author": "HQ Web Team",
-      "excerpt": "Using NASA’s Chandra X-ray Observatory, astronomers have discovered what is triggering repeated outbursts from a giant, unstable star located in the galaxy shown in this image released on Nov. 9, 2026. The volatile star, known as AT 2016blu, is in the spiral galaxy NGC 4559, located about 30 million light-years from Ea",
-      "source": "NASA"
-    },
-    {
-      "title": "Gemini Astronaut Photos Inspired Early Earth Observation Program",
-      "link": "https://www.nasa.gov/image-article/gemini-astronaut-photos-inspired-early-earth-observation-program/",
-      "pubDate": "2026-11-13T16:05:54.000Z",
-      "image": "https://www.nasa.gov/wp-content/uploads/2026/11/s66-63535-f.png?w=2006",
-      "author": "Michele Ostovar",
-      "excerpt": "Astronauts James A. Lovell Jr. and Edwin E. “Buzz” Aldrin Jr. orbited Earth from November 11 to 15, 1966, on Gemini XII, the final mission of NASA’s Gemini program. In addition to successfully completing rendezvous maneuvers and spacewalks, procedures vital to sending American astronauts to the Moon, the crew was also ",
-      "source": "NASA"
     },
     {
       "title": "REVIEW: Spectrum Optics SkyPilot 127",
@@ -413,15 +431,6 @@
       "author": "Seagate Space",
       "excerpt": "SAN DIEGO, CA, November 10, 2026 – Kratos Defense & Security Solutions, Inc., a technology company in defense, national security, and global markets, today announced a long-term agreement with Seagate […] The post Kratos and Seagate Space Partner to Advance Mobile Offshore Launch Capabilities for National Security Miss",
       "source": "SpaceNews"
-    },
-    {
-      "title": "Exclusive: Lyra Systems Emerges from Stealth to Solve the Valley of Death",
-      "link": "https://payloadspace.com/exclusive-lyra-systems-emerges-from-stealth-to-solve-the-valley-of-death/",
-      "pubDate": "2026-11-10T14:00:00.000Z",
-      "image": "https://payloadspace.com/wp-content/uploads/2026/11/Lyra-Integration-200x200.png",
-      "author": "Douglas Gorman",
-      "excerpt": "Lyra Systems announced an agreement with the DoD aimed at helping early-stage technologies traverse unscathed across the Valley of Death. The post Exclusive: Lyra Systems Emerges from Stealth to Solve the Valley of Death appeared first on Payload.",
-      "source": "Payload"
     },
     {
       "title": "ESCAPADE on its way to Mars after Earth flybys",
@@ -795,6 +804,15 @@
   ],
   "industryNews": [
     {
+      "title": "F-35 Simulators Take to the Skies with Six F/A-18s in Joint Training First",
+      "link": "https://news.lockheedmartin.com/2026-11-17-F-35-Simulators-Take-to-the-Skies-with-Six-F-A-18s-in-Joint-Training-First",
+      "pubDate": "2026-11-17T13:00:00.000Z",
+      "image": "https://news.lockheedmartin.com/file.php/184224/F-35-Simulators-Take-to-the-Skies.jpg?thumbnail=144",
+      "author": "",
+      "excerpt": "",
+      "source": "Lockheed Martin"
+    },
+    {
       "title": "Lockheed Martin Dedicates Greenville Welcome Center in Honor of Senator Lindsey Graham",
       "link": "https://news.lockheedmartin.com/2026-11-16-Lockheed-Martin-Dedicates-Greenville-Welcome-Center-in-Honor-of-Senator-Lindsey-Graham",
       "pubDate": "2026-11-16T17:43:00.000Z",
@@ -874,22 +892,202 @@
       "author": "",
       "excerpt": "",
       "source": "Boeing"
-    },
-    {
-      "title": "Lockheed Martin Advances 25Forward Initiative Through New Partnerships",
-      "link": "https://news.lockheedmartin.com/2026-10-30-Lockheed-Martin-Advances-25Forward-Initiative-Through-New-Partnerships",
-      "pubDate": "2026-10-30T13:00:00.000Z",
-      "image": "https://news.lockheedmartin.com/file.php/184088/25forward-1000.jpg?thumbnail=144",
-      "author": "",
-      "excerpt": "New and expanded partnerships support the company’s $25 million commitment to honor, remember and serve.",
-      "source": "Lockheed Martin"
     }
   ],
   "nytNews": [
     {
+      "title": "These Ukrainians Aren’t in Combat. But They Deal With War Every Day.",
+      "link": "https://www.nytimes.com/2026/11/17/world/europe/ukraine-war-civilians.html",
+      "pubDate": "2026-11-17T13:09:11.000Z",
+      "image": "https://static01.nyt.com/images/2026/03/17/multimedia/00Int-Ukraine-Characters-05-mchq/00Int-Ukraine-Characters-05-mchq-mediumSquareAt3X.jpg",
+      "author": "Mauricio Lima and Yurii Shyvala",
+      "excerpt": "A doctor, a gravedigger, a therapist and a pathologist share their war experiences.",
+      "source": "NYT"
+    },
+    {
+      "title": "Nvidia’s Earnings Call Is a High-Stakes Moment",
+      "link": "https://www.nytimes.com/2026/11/17/business/dealbook/nvidia-ai-earnings-huang.html",
+      "pubDate": "2026-11-17T13:02:17.000Z",
+      "image": "https://static01.nyt.com/images/2026/11/17/multimedia/17db-nvda-qwbk/17db-nvda-qwbk-mediumSquareAt3X.jpg",
+      "author": "Andrew Ross Sorkin, Bernhard Warner, Sarah Kessler, Michael J. de la Merced, Niko Gallogly, Brian O’Keefe, Sri Muppidi and Ian Mount",
+      "excerpt": "Wall Street is bracing for the chip maker’s latest earnings call, as analysts seek clues about the artificial intelligence giant’s future.",
+      "source": "NYT"
+    },
+    {
+      "title": "Ukraine Attacks Kerch Bridge Linking Russia to Occupied Crimea",
+      "link": "https://www.nytimes.com/2026/11/17/world/europe/ukraine-kyiv-russia-kerch-bridge-crimea.html",
+      "pubDate": "2026-11-17T12:53:27.000Z",
+      "image": "https://static01.nyt.com/images/2026/11/17/multimedia/17int-russia-ukraine-bridges-jfql/17int-russia-ukraine-bridges-jfql-mediumSquareAt3X.jpg",
+      "author": "Marc Santora and James McManagan",
+      "excerpt": "Destroying the structure, the only one connecting Russia to the occupied Crimean Peninsula, has long been a top objective for Kyiv.",
+      "source": "NYT"
+    },
+    {
+      "title": "OK, America, We Can Still Be Friends",
+      "link": "https://www.nytimes.com/2026/11/17/opinion/canada-trump-america-midterms.html",
+      "pubDate": "2026-11-17T12:37:01.000Z",
+      "image": null,
+      "author": "Chrystia Freeland",
+      "excerpt": "This month, the world’s most unreliable boyfriend began to redeem himself.",
+      "source": "NYT"
+    },
+    {
+      "title": "Elon Musk’s Texas GOP Allies, Who Gave Him $1.7 Billion, Have Been Voted Out. What Now?",
+      "link": "https://www.nytimes.com/2026/11/17/business/elon-musk-texas-republicans.html",
+      "pubDate": "2026-11-17T11:55:08.000Z",
+      "image": "https://static01.nyt.com/images/2026/11/16/multimedia/16biz-musk-texas-06-hgkv-signs-mwgb/16biz-musk-texas-06-hgkv-signs-mwgb-mediumSquareAt3X.jpg",
+      "author": "Kirsten Grind and Lauren McGaughy",
+      "excerpt": "SpaceX and Tesla are more embedded across Texas than they ever were in California, which Mr. Musk left in 2020 to escape Democratic policies.",
+      "source": "NYT"
+    },
+    {
+      "title": "Born Sick",
+      "link": "https://www.nytimes.com/2026/11/17/briefing/born-with-measles.html",
+      "pubDate": "2026-11-17T11:36:35.000Z",
+      "image": "https://static01.nyt.com/images/2026/11/13/well/17themorning-nl-lead/17themorning-nl-lead-mediumSquareAt3X.jpg",
+      "author": "Sam Sifton",
+      "excerpt": "We look at the consequences of measles in pregnancy.",
+      "source": "NYT"
+    },
+    {
+      "title": "Tracking China’s War of Words Against Japan",
+      "link": "https://www.nytimes.com/2026/11/17/world/asia/china-japan-propaganda-xi-takaichi.html",
+      "pubDate": "2026-11-17T11:00:17.000Z",
+      "image": "https://static01.nyt.com/images/2026/11/16/multimedia/00int-china-japan-language-02-btpw/00int-china-japan-language-02-btpw-mediumSquareAt3X.jpg",
+      "author": "Javier C. Hernández and Gal Koplewitz",
+      "excerpt": "Beijing is running a concerted campaign to paint Japan as an aggressor and resurgent military threat, according to a Times analysis.",
+      "source": "NYT"
+    },
+    {
+      "title": "The A.I. Fight Dividing the Trump Administration, and the Next James Bond",
+      "link": "https://www.nytimes.com/2026/11/17/podcasts/the-headlines/ai-fight-trump-administration-new-james-bond-megaspeed.html",
+      "pubDate": "2026-11-17T11:00:07.000Z",
+      "image": "https://static01.nyt.com/images/2026/11/17/multimedia/17int-theheadlines-bgkl/17int-theheadlines-bgkl-mediumSquareAt3X.jpg",
+      "author": "Tracy Mumford, Will Jarvis, Margaret Kadifa, Jake Lucas, Ian Stewart, Hiroko Tabuchi and Alissa Wilkinson",
+      "excerpt": "Plus, a new study on phone bans in schools.",
+      "source": "NYT"
+    },
+    {
+      "title": "As Trump Goes to China, A.I. Tensions Surge Amid Spying and Safety Fears",
+      "link": "https://www.nytimes.com/2026/11/17/us/politics/trump-china-ai-tensions.html",
+      "pubDate": "2026-11-17T10:22:54.000Z",
+      "image": "https://static01.nyt.com/images/2026/11/17/multimedia/17dc-china-ai-qblv/17dc-china-ai-qblv-mediumSquareAt3X.jpg",
+      "author": "Edward Wong and Dustin Volz",
+      "excerpt": "The espionage concerns that led to Jensen Huang’s ouster at Nvidia highlight a core challenge to diplomacy between Washington and Beijing on A.I. advancement.",
+      "source": "NYT"
+    },
+    {
+      "title": "The Winning Democrat Who Wants to Break Up Political Parties",
+      "link": "https://www.nytimes.com/2026/11/17/opinion/ezra-klein-podcast-rob-sand.html",
+      "pubDate": "2026-11-17T10:04:04.000Z",
+      "image": "https://static01.nyt.com/images/2026/11/17/opinion/17eks-sand-image01/17eks-sand-image01-mediumSquareAt3X.png",
+      "author": "Ezra Klein and Annie Galvin",
+      "excerpt": "Iowa’s governor-elect, Rob Sand, ran on a platform criticizing the two-party system. How will he translate his campaign message into reform?",
+      "source": "NYT"
+    },
+    {
+      "title": "New Evidence Shows School Phone Bans Are Gradually Improving Test Scores",
+      "link": "https://www.nytimes.com/2026/11/17/upshot/school-phone-bans-study-scores.html",
+      "pubDate": "2026-11-17T10:04:03.000Z",
+      "image": "https://static01.nyt.com/images/2026/11/17/multimedia/17up-phone-pouch1-jlkf/17up-phone-pouch1-jlkf-mediumSquareAt3X.jpg",
+      "author": "Claire Cain Miller",
+      "excerpt": "Previous results were mixed, but the first national study to track individual students’ growth shows bans may help reverse declines.",
+      "source": "NYT"
+    },
+    {
+      "title": "As Trump and Xi Mingle, Their Governments Are Arming Up",
+      "link": "https://www.nytimes.com/2026/11/17/business/trump-xi-meeting-tensions.html",
+      "pubDate": "2026-11-17T10:03:49.000Z",
+      "image": "https://static01.nyt.com/images/2026/11/17/multimedia/17biz-APEC-hostilities-01-mvtl/17biz-APEC-hostilities-01-mvtl-mediumSquareAt3X.jpg",
+      "author": "Alexandra Stevenson and Murphy Zhao",
+      "excerpt": "Public displays of friendship contrast with mounting trade and investment restrictions, highlighting the widening rift between the two economies.",
+      "source": "NYT"
+    },
+    {
+      "title": "Trump’s Culture War, Amid Setbacks, Will Soon Face a Hostile Congress",
+      "link": "https://www.nytimes.com/2026/11/17/arts/design/trump-congress-smithsonian-kennedy-center.html",
+      "pubDate": "2026-11-17T10:02:56.000Z",
+      "image": "https://static01.nyt.com/images/2026/11/17/multimedia/17cul-culture-midterms-plvh/17cul-culture-midterms-plvh-mediumSquareAt3X.jpg",
+      "author": "Julia Jacobs and Robin Pogrebin",
+      "excerpt": "The White House campaign to make major changes at the Smithsonian and the Kennedy Center has fallen short of its goals. Will it be further disrupted by a Democrat-led Congress?",
+      "source": "NYT"
+    },
+    {
+      "title": "Grand Theft Auto VI Revs Up for a Worldwide Takeover",
+      "link": "https://www.nytimes.com/2026/11/17/arts/grand-theft-auto-vi-hype-success.html",
+      "pubDate": "2026-11-17T10:02:03.000Z",
+      "image": "https://static01.nyt.com/images/2026/11/17/multimedia/17cul-gta-blockbuster-jwvp/17cul-gta-blockbuster-jwvp-mediumSquareAt3X.jpg",
+      "author": "Marc Tracy",
+      "excerpt": "More than a decade in the making, the newest installment of the video game franchise is set to bring in billions and set a new standard for the industry.",
+      "source": "NYT"
+    },
+    {
+      "title": "A New, Bold Antarctic Rescue: Bringing Shackleton’s Outpost Back to Life",
+      "link": "https://www.nytimes.com/2026/11/17/science/ernest-shackleton-antarctic-south-georgia-villa.html",
+      "pubDate": "2026-11-17T10:00:47.000Z",
+      "image": null,
+      "author": "K. R. Callaway",
+      "excerpt": "An abandoned station manager’s villa — the site of a historic effort to save the explorer’s marooned crew — has now been restored. Take a tour inside.",
+      "source": "NYT"
+    },
+    {
+      "title": "Debt Problems of the Richest Countries Are Trickling Down to the Poorest",
+      "link": "https://www.nytimes.com/2026/11/17/business/economy/global-debt-economy-world-bank.html",
+      "pubDate": "2026-11-17T08:45:15.000Z",
+      "image": "https://static01.nyt.com/images/2026/11/16/multimedia/16biz-global-debt-01-mpfv/16biz-global-debt-01-mpfv-mediumSquareAt3X.jpg",
+      "author": "Patricia Cohen",
+      "excerpt": "The debt load of developing countries jumped to $9.4 trillion as high interest rates and other global shocks batter their economies.",
+      "source": "NYT"
+    },
+    {
+      "title": "Late Night Flies High on the F.A.A. Ground Stop",
+      "link": "https://www.nytimes.com/2026/11/17/arts/television/late-night-faa-ground-stop.html",
+      "pubDate": "2026-11-17T08:23:55.000Z",
+      "image": null,
+      "author": "Trish Bendix",
+      "excerpt": "“Sometimes, it feels like maybe Elon and his DOGE bros shouldn’t have fired more than a thousand employees at the F.A.A.,” Jimmy Kimmel said.",
+      "source": "NYT"
+    },
+    {
+      "title": "Will New York Raise Taxes on the Rich? Free Child Care May Depend on It.",
+      "link": "https://www.nytimes.com/2026/11/17/nyregion/child-care-tax-the-rich-ny.html",
+      "pubDate": "2026-11-17T08:00:07.000Z",
+      "image": "https://static01.nyt.com/images/2026/11/17/multimedia/17met-taxes-childcare-hqtm/17met-taxes-childcare-hqtm-mediumSquareAt3X.jpg",
+      "author": "Eliza Shapiro and Benjamin Oreskes",
+      "excerpt": "With Gov. Kathy Hochul and Mayor Zohran Mamdani pushing to expand free child care, a tax-the-rich campaign may fare better next year in a more left-leaning environment.",
+      "source": "NYT"
+    },
+    {
+      "title": "Facing Criticism, Trump Administration Says It’s Investigating Megaspeed",
+      "link": "https://www.nytimes.com/2026/11/17/business/economy/megaspeed-investigation-trump-doj.html",
+      "pubDate": "2026-11-17T07:02:17.000Z",
+      "image": "https://static01.nyt.com/images/2026/11/15/multimedia/16dc-megaspeed-1/15xp-megaspeed1-zcvq-mediumSquareAt3X.jpg",
+      "author": "Ana Swanson and Tripp Mickle",
+      "excerpt": "The announcement appeared to be a response to recent criticism that the Commerce Department has moved too slowly on the alleged chip smuggling case.",
+      "source": "NYT"
+    },
+    {
+      "title": "Leaked Records Show Deutsche Bank Courting Russian Oligarchs",
+      "link": "https://www.nytimes.com/2026/11/17/world/europe/deutsche-bank-russia-oligarchs-leaked-documents.html",
+      "pubDate": "2026-11-17T06:00:12.000Z",
+      "image": "https://static01.nyt.com/images/2026/11/18/multimedia/17int-russia-deutschebank-01-gkjc/17int-russia-deutschebank-01-gkjc-mediumSquareAt3X.jpg",
+      "author": "Russ Buettner, Khadija Sharife, Brian Fitzpatrick, Frederik Obermaier, Bastian Obermayer and Sophia Baumann",
+      "excerpt": "“As you know we have a large Russian Oligarchs client population,” an analyst wrote as the bank braced for sanctions against wealthy clients.",
+      "source": "NYT"
+    },
+    {
+      "title": "Shoe Prices Hit a Record High Amid Inflation and Increased Tariffs",
+      "link": "https://www.nytimes.com/2026/11/17/business/shoe-prices-inflation-tariffs.html",
+      "pubDate": "2026-11-17T05:00:08.000Z",
+      "image": "https://static01.nyt.com/images/2026/11/13/multimedia/13biz-shoe-prices-zfcl/13biz-shoe-prices-zfcl-mediumSquareAt3X.jpg",
+      "author": "Kim Bhasin",
+      "excerpt": "Shoe prices hit a record high in October as brands contend with the rising cost of materials and increased tariffs.",
+      "source": "NYT"
+    },
+    {
       "title": "Trump Administration Divide on China Policy Breaks Into Public View",
       "link": "https://www.nytimes.com/2026/11/16/us/politics/trump-china-ai-chip-policy.html",
-      "pubDate": "2026-11-17T03:00:05.000Z",
+      "pubDate": "2026-11-17T03:48:50.000Z",
       "image": "https://static01.nyt.com/images/2026/11/16/multimedia/16dc-trump-nvidia-zblt/16dc-trump-nvidia-zblt-mediumSquareAt3X.jpg",
       "author": "Jonathan Swan, Maggie Haberman, Ana Swanson and Shawn McCreesh",
       "excerpt": "The airing of a fight over advanced A.I. chips shows how much the Nvidia scandal has deepened fissures inside the government, just as President Trump heads to a critical meeting with his Chinese counterpart.",
@@ -898,190 +1096,10 @@
     {
       "title": "Madison Huang, Jensen Huang’s Daughter, Became a Powerful Force at Nvidia",
       "link": "https://www.nytimes.com/2026/11/16/technology/nvidia-jensen-madison-huang.html",
-      "pubDate": "2026-11-17T02:15:56.000Z",
-      "image": "https://static01.nyt.com/images/2026/11/16/multimedia/BIZ-MADISON-HUANG-1-01-cmjw/BIZ-MADISON-HUANG-1-01-cmjw-mediumSquareAt3X.jpg",
+      "pubDate": "2026-11-17T02:15:57.000Z",
+      "image": "https://static01.nyt.com/images/2026/11/16/multimedia/BIZ-MADISON-HUANG-1-01-cmjw/BIZ-MADISON-HUANG-1-01-cmjw-mediumSquareAt3X-v2.jpg",
       "author": "Kalley Huang, Tripp Mickle and Ryan Mac",
       "excerpt": "Installed as her father’s de facto chief of staff, Jensen Huang’s daughter alienated top executives. Now her lingering role poses a test for interim C.E.O. Colette Kress.",
-      "source": "NYT"
-    },
-    {
-      "title": "The Enraging Hypocrisy at the Heart of the Nvidia Scandal",
-      "link": "https://www.nytimes.com/2026/11/16/opinion/nvidia-trump-jensen-huang-lutnick.html",
-      "pubDate": "2026-11-17T02:10:54.000Z",
-      "image": "https://static01.nyt.com/images/2026/11/16/multimedia/16goldberg-zplt/16goldberg-zplt-mediumSquareAt3X.jpg",
-      "author": "Michelle Goldberg",
-      "excerpt": "It started with sex, but it’s really about Trump’s utterly careless attitude toward U.S. security.",
-      "source": "NYT"
-    },
-    {
-      "title": "What Pete Buttigieg’s Bet in the 2026 Midterms Could Mean for 2028",
-      "link": "https://www.nytimes.com/2026/11/16/us/politics/pete-buttigieg-2028.html",
-      "pubDate": "2026-11-17T02:03:05.000Z",
-      "image": "https://static01.nyt.com/images/2026/11/16/multimedia/16pol-onpolitics-newsletter-01-wtmp/16pol-onpolitics-newsletter-01-wtmp-mediumSquareAt3X.jpg",
-      "author": "Jess Bidgood",
-      "excerpt": "No longer a fresh face, he is arguing that his party needs moderate red-state whisperers.",
-      "source": "NYT"
-    },
-    {
-      "title": "Chase Bank Resumes Normal Operations After ‘Software Bug’ Disrupted Transactions",
-      "link": "https://www.nytimes.com/2026/11/16/us/bank-outages-down.html",
-      "pubDate": "2026-11-17T02:02:57.000Z",
-      "image": "https://static01.nyt.com/images/2026/11/16/multimedia/16xp-chase-zpkc/16xp-chase-zpkc-mediumSquareAt3X.jpg",
-      "author": "Michael Levenson",
-      "excerpt": "After technical problems grounded flights nationwide and Microsoft products failed, the banking issues added to a sense of doom about the systems underpinning daily life.",
-      "source": "NYT"
-    },
-    {
-      "title": "El Niño Draws Sea Turtles to California’s Coast for the First Time",
-      "link": "https://www.nytimes.com/2026/11/16/us/sea-turtles-california.html",
-      "pubDate": "2026-11-17T01:36:39.000Z",
-      "image": null,
-      "author": "Soumya Karlamangla",
-      "excerpt": "The California coast has seen an influx of olive ridley sea turtles, which are the smallest such reptiles and are normally found in tropical waters.",
-      "source": "NYT"
-    },
-    {
-      "title": "United Airlines Flights Resume After ‘Widespread System Outage’",
-      "link": "https://www.nytimes.com/2026/11/16/business/united-airlines-outage-flights.html",
-      "pubDate": "2026-11-17T00:59:37.000Z",
-      "image": "https://static01.nyt.com/images/2026/11/16/multimedia/16xp-united-czbh/16xp-united-czbh-mediumSquareAt3X.jpg",
-      "author": "Jennifer Sinco Kelleher, Niraj Chokshi and Ryley Ober",
-      "excerpt": "The brief disruption, after a nationwide ground stop last week, added to concerns about air travel ahead of a busy Thanksgiving travel period.",
-      "source": "NYT"
-    },
-    {
-      "title": "Pilots Kept Contact With Controllers During Nationwide Halt to Flights",
-      "link": "https://www.nytimes.com/2026/11/16/business/faa-ground-stop-pilots-radio-controllers.html",
-      "pubDate": "2026-11-16T23:39:24.000Z",
-      "image": "https://static01.nyt.com/images/2026/11/16/multimedia/16biz-faa-pilots-lqjw/16biz-faa-pilots-lqjw-mediumSquareAt3X.jpg",
-      "author": "Niraj Chokshi",
-      "excerpt": "Pilots were generally able to maintain contact with air traffic controllers and airline staff on the ground despite an outage that caused a nearly five-hour halt to departures.",
-      "source": "NYT"
-    },
-    {
-      "title": "An Intriguing Approach to Slow Alzheimer’s Shows Mixed Results",
-      "link": "https://www.nytimes.com/2026/11/16/well/cognito-spectris-alzheimers-headset-device.html",
-      "pubDate": "2026-11-16T23:19:37.000Z",
-      "image": "https://static01.nyt.com/images/2026/11/16/well/16WELL-ALZHEIMERS-LIGHT-SOUND1/16WELL-ALZHEIMERS-LIGHT-SOUND1-mediumSquareAt3X.jpg",
-      "author": "Pam Belluck",
-      "excerpt": "The device, a headset delivering light and sound, is based on the theory that audiovisual stimulation can evoke brainwave responses that might help preserve neurological function.",
-      "source": "NYT"
-    },
-    {
-      "title": "Tucked in a Closet, Hidden by a Coat, a Lost Work by Georgia O’Keeffe",
-      "link": "https://www.nytimes.com/2026/11/16/nyregion/found-georgia-okeeffe-painting.html",
-      "pubDate": "2026-11-16T23:04:31.000Z",
-      "image": "https://static01.nyt.com/images/2026/11/16/multimedia/16met-okeeffe-vwjh/16met-okeeffe-vwjh-mediumSquareAt3X.jpg",
-      "author": "Dionne Searcey",
-      "excerpt": "A piece by the famed painter had been squirreled away for decades. Now it’s been found — and may sell for millions.",
-      "source": "NYT"
-    },
-    {
-      "title": "Bessent Takes Hawkish Turn in White House Debate on China",
-      "link": "https://www.nytimes.com/2026/11/16/us/politics/bessent-lutnick-china.html",
-      "pubDate": "2026-11-16T22:46:09.000Z",
-      "image": "https://static01.nyt.com/images/2026/11/16/multimedia/16dc-bessent-01-tfpz/16dc-bessent-01-tfpz-mediumSquareAt3X.jpg",
-      "author": "Alan Rappeport and Ana Swanson",
-      "excerpt": "The Treasury secretary who sought to de-escalate tariff wars is taking a tougher approach to exports of sensitive U.S. technology.",
-      "source": "NYT"
-    },
-    {
-      "title": "Trump Administration Aims to Clamp Down on A.I. Chip Loophole",
-      "link": "https://www.nytimes.com/2026/11/16/briefing/trump-china-ai-loophole.html",
-      "pubDate": "2026-11-16T22:27:45.000Z",
-      "image": "https://static01.nyt.com/images/2026/11/16/multimedia/16evening-nl-trump-chips-jmtk/16evening-nl-trump-chips-jmtk-mediumSquareAt3X.jpg",
-      "author": "Matthew Cullen",
-      "excerpt": "Also, new data paves the way for weight-loss drugs for children. Here’s the latest at the end of Monday.",
-      "source": "NYT"
-    },
-    {
-      "title": "Robert Pattinson Named as the Next James Bond",
-      "link": "https://www.nytimes.com/2026/11/16/movies/james-bond-robert-pattinson.html",
-      "pubDate": "2026-11-16T22:10:07.000Z",
-      "image": "https://static01.nyt.com/images/2026/11/17/world/16cul-james-bond-hfo-bbb/16cul-james-bond-hfo-bbb-mediumSquareAt3X.jpg",
-      "author": "Brooks Barnes",
-      "excerpt": "The announcement ends years of speculation over who would take over the role after Daniel Craig’s five-film run.",
-      "source": "NYT"
-    },
-    {
-      "title": "Why Robert Pattinson Could Be a Great James Bond",
-      "link": "https://www.nytimes.com/2026/11/16/movies/robert-pattinson-new-bond.html",
-      "pubDate": "2026-11-16T22:03:37.000Z",
-      "image": null,
-      "author": "Alissa Wilkinson",
-      "excerpt": "Robert Pattinson’s gift for portraying petulant losers would seem at odds with the requirements for 007. But the actor may be just what the franchise needs.",
-      "source": "NYT"
-    },
-    {
-      "title": "Measles Is Sickening More Pregnant Women and Newborns, Alarming Doctors",
-      "link": "https://www.nytimes.com/2026/11/16/well/measles-pregnancy-newborns.html",
-      "pubDate": "2026-11-16T21:35:33.000Z",
-      "image": "https://static01.nyt.com/images/2026/11/13/well/WELL-PREGNANCY-MEASLES3/WELL-PREGNANCY-MEASLES3-mediumSquareAt3X.jpg",
-      "author": "Teddy Rosenbluth",
-      "excerpt": "A new analysis underscores the severe consequences of a measles infection during pregnancy, including hospitalization and pregnancy loss.",
-      "source": "NYT"
-    },
-    {
-      "title": "Challenging Consensus, Scientist Says Epstein Autopsy Photos Show Homicide",
-      "link": "https://www.nytimes.com/2026/11/16/us/jeffrey-epstein-autopsy-michael-freeman.html",
-      "pubDate": "2026-11-16T20:08:10.000Z",
-      "image": "https://static01.nyt.com/images/2026/11/16/multimedia/16nat-epstein-autopsy-jvkm/16nat-epstein-autopsy-jvkm-mediumSquareAt3X.jpg",
-      "author": "Shaila Dewan and Leo Sands",
-      "excerpt": "Investigations have found most evidence in Jeffrey Epstein’s death points to suicide. Michael Freeman, a forensic scientist who studies homicides, got rare access to the autopsy file and disagrees.",
-      "source": "NYT"
-    },
-    {
-      "title": "The Financial Bubble Cycles Are Getting Worse",
-      "link": "https://www.nytimes.com/2026/11/16/opinion/ai-bubble-finance-crisis-deregulation.html",
-      "pubDate": "2026-11-16T18:45:55.000Z",
-      "image": null,
-      "author": "Zachary D. Carter",
-      "excerpt": "The financialization of our economy, now penetrating Silicon Valley, is generating storms that are both more frequent and more destructive.",
-      "source": "NYT"
-    },
-    {
-      "title": "The Blue Wave Lifted Democrats. But Not All Progressives Rose as High.",
-      "link": "https://www.nytimes.com/2026/11/16/upshot/progressives-moderates-democrats-elections.html",
-      "pubDate": "2026-11-16T16:44:26.000Z",
-      "image": "https://static01.nyt.com/images/2026/11/15/upshot/15up-tilt-left-sub/15up-tilt-left-sub-mediumSquareAt3X-v2.jpg",
-      "author": "Nate Cohn",
-      "excerpt": "The performance gap with moderates narrowed, but progressive candidates underperformed by enough to keep the “electability” debate alive.",
-      "source": "NYT"
-    },
-    {
-      "title": "This Cancer Kills Children in a Year. Research Has Been Stalled for a Year.",
-      "link": "https://www.nytimes.com/2026/11/15/well/brain-cancer-children-dipg.html",
-      "pubDate": "2026-11-16T15:03:46.000Z",
-      "image": "https://static01.nyt.com/images/2026/10/28/us/00well-science-patient-promo/00well-science-patient-promo-mediumSquareAt3X.jpg",
-      "author": "Lisa Miller and Lexi Parra",
-      "excerpt": "For 27 years, the Pediatric Brain Tumor Consortium worked to save kids with brain cancer. But just before 5-year-old Ryleigh Schecter was diagnosed, the government shut it down.",
-      "source": "NYT"
-    },
-    {
-      "title": "Doubts Loom Over a van Gogh as Auctions Aim for a $2.8 Billion Week",
-      "link": "https://www.nytimes.com/2026/11/16/arts/design/auctions-new-york-fall-christies-sothebys-van-gogh.html",
-      "pubDate": "2026-11-16T12:48:16.000Z",
-      "image": null,
-      "author": "Tim F. Schneider, Zachary Small and Julia Halperin",
-      "excerpt": "Major paintings by Cézanne, Picasso and Klimt are positioned to entice collectors as Sotheby’s seeks resolution for the auction’s most coveted painting. Five bellwether works to watch.",
-      "source": "NYT"
-    },
-    {
-      "title": "The Big Questions About Jeffrey Epstein: What The Times Has Learned",
-      "link": "https://www.nytimes.com/article/jeffrey-epstein-sex-abuse-times-investigations.html",
-      "pubDate": "2026-11-15T12:51:31.000Z",
-      "image": null,
-      "author": "The New York Times",
-      "excerpt": "Here is what we know about the sexual predator whose secrets spurred an international reckoning over money, power and complicity. Check back for updates.",
-      "source": "NYT"
-    },
-    {
-      "title": "The Best Thanksgiving Menu Is a Southern Buffet",
-      "link": "https://cooking.nytimes.com/article/southern-buffet-thanksgiving-2026-menu",
-      "pubDate": "2026-11-09T18:47:47.000Z",
-      "image": "https://static01.nyt.com/images/2026/11/09/multimedia/09FD-BIG-MENU-promo-pclj/09FD-BIG-MENU-promo-pclj-mediumSquareAt3X-v2.jpg",
-      "author": "Eric Kim",
-      "excerpt": "Seconds are encouraged at Eric Kim’s Korean American dinner and love letter to the South.",
       "source": "NYT"
     }
   ]
