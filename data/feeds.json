@@ -1,6 +1,168 @@
 {
   "spaceNews": [
     {
+      "title": "BPS Digital AVATAR Challenge",
+      "link": "https://www.nasa.gov/directorates/stmd/prizes-challenges-crowdsourcing-program/center-of-excellence-for-collaborative-innovation-coeci/bps-digital-avatar-challenge/",
+      "pubDate": "2026-11-17T20:39:38.000Z",
+      "image": "https://images-assets.nasa.gov/image/EMU_CHIP_GLOVE_DYE_L2/EMU_CHIP_GLOVE_DYE_L2~large.jpg?w=1920&amp;h=1349&amp;fit=clip&amp;crop=faces%2Cfocalpoint",
+      "author": "Bailey Light",
+      "excerpt": "The NASA Space Biology Program within the Biological and Physical Sciences (BPS) Division investigates how living systems respond across the full spectrum of biological organization to advance understanding of how living systems respond to the unique stressors of space exploration—including microgravity, ionizing radia",
+      "source": "NASA"
+    },
+    {
+      "title": "New Album of Baby Star Sounds Shared by NASA’s Chandra",
+      "link": "https://science.nasa.gov/missions/chandra/new-album-of-baby-star-sounds-shared-by-nasas-chandra/",
+      "pubDate": "2026-11-17T20:26:17.000Z",
+      "image": "https://assets.science.nasa.gov/dynamicimage/assets/science/missions/chandra/2026/sonify12_rho.jpg?w=1198&#038;h=1280&#038;fit=clip",
+      "author": "",
+      "excerpt": "A new album from NASA’s Chandra X-ray Observatory collects snapshots of baby stars across the galaxy and beyond and transforms that data into sound. Four new sonifications use data of stars that are actively forming, captured by Chandra and other NASA telescopes By studying places in the universe where stars are curren",
+      "source": "NASA"
+    },
+    {
+      "title": "NASA to Cover 35th SpaceX Resupply Mission Space Station Departure",
+      "link": "https://www.nasa.gov/news-release/nasa-to-cover-35th-spacex-resupply-mission-space-station-departure/",
+      "pubDate": "2026-11-17T19:16:22.000Z",
+      "image": "https://www.nasa.gov/wp-content/uploads/2026/11/ng35.jpg?w=2048",
+      "author": "Lauren E. Low",
+      "excerpt": "NASA and its international partners are set to receive scientific research samples and hardware as a SpaceX Dragon spacecraft departs the International Space Station no earlier than Wednesday, Nov. 18, for its return to Earth. Pending weather conditions, the Dragon spacecraft will undock from the Harmony module’s space",
+      "source": "NASA"
+    },
+    {
+      "title": "We now know how radiation destroys electronics devices",
+      "link": "https://www.newscientist.com/article/2599254-we-now-know-how-radiation-destroys-electronics-devices/?utm_campaign=RSS|NSNS&utm_content=space&utm_medium=RSS&utm_source=NSNS",
+      "pubDate": "2026-11-17T19:00:00.000Z",
+      "image": null,
+      "author": "Karmela Padavic-Callaghan",
+      "excerpt": "A detailed picture of how a single particle of radiation can destroy a semiconductor device could offer pointers for how to make electronics more resilient to the harsh conditions of space",
+      "source": "New Scientist"
+    },
+    {
+      "title": "ULA Vulcan Anomaly Has Pentagon Implications",
+      "link": "https://payloadspace.com/ula-vulcan-anomaly-has-pentagon-implications/",
+      "pubDate": "2026-11-17T18:30:00.000Z",
+      "image": "https://payloadspace.com/wp-content/uploads/2026/11/Screenshot-2026-11-17-at-10.29.04-AM-200x200.png",
+      "author": "Jacqueline Feldscher",
+      "excerpt": "The company announced Tuesday morning that the mission was lost 10 minutes into the flight, but that the problems started just after liftoff. The post ULA Vulcan Anomaly Has Pentagon Implications appeared first on Payload.",
+      "source": "Payload"
+    },
+    {
+      "title": "NICER Status Updates",
+      "link": "https://www.nasa.gov/missions/station/nicer-status-updates/",
+      "pubDate": "2026-11-17T18:18:16.000Z",
+      "image": "https://www.nasa.gov/wp-content/uploads/2025/01/iss072e487911.jpg?w=2048",
+      "author": "Jeanette Kazmierczak",
+      "excerpt": "November 17, 2026 NASA’s NICER Telescope Ends Science Operations After studying the universe for six and a half years beyond its initial mission, NASA’s NICER (Neutron star Interior Composition Explorer) telescope on the International Space Station has ended science operations. The mission and space station teams are n",
+      "source": "NASA"
+    },
+    {
+      "title": "Voyager 1 reaches 1 light-day from Earth",
+      "link": "https://www.astronomy.com/space-exploration/voyager-1-reaches-1-light-day-from-earth/",
+      "pubDate": "2026-11-17T18:11:26.000Z",
+      "image": null,
+      "author": "Brooks Mendenhall",
+      "excerpt": "At 5:16 a.m. EST on Wednesday, Nov. 18, Voyager 1 will become the first spacecraft to reach a distance of 1 light-day from Earth. A command radioed from home will need 24 hours to arrive, and a reply another 24 to come back. NASA is asking the public to celebrate by sending the spacecraft aContinue reading \"Voyager 1 r",
+      "source": "Astronomy Magazine"
+    },
+    {
+      "title": "Can robots save Earth orbit?",
+      "link": "https://www.astronomy.com/science/can-robots-save-earth-orbit/",
+      "pubDate": "2026-11-17T17:42:13.000Z",
+      "image": null,
+      "author": "Brooks Mendenhall",
+      "excerpt": "There are likely fewer satellites in Earth orbit right now than there will be at any point for the rest of your life. It’s a sobering thought. The threats from our ever-more-crowded skies are well documented: light pollution from megaconstellations, aluminum oxide accumulating in the upper atmosphere as satellites burn",
+      "source": "Astronomy Magazine"
+    },
+    {
+      "title": "NASA to Conduct Low-Altitude Flights Over Texas Farmland",
+      "link": "https://www.nasa.gov/general/nasa-to-conduct-low-altitude-flights-over-texas-farmland/",
+      "pubDate": "2026-11-17T17:12:20.000Z",
+      "image": "https://www.nasa.gov/wp-content/uploads/2026/09/a200-king-air-da.jpg?w=960",
+      "author": "Gianine Figliozzi",
+      "excerpt": "Editor’s Note: This article was originally published on Oct. 15, 2026, and has been updated to correct the location and update the duration of the flight deployment. A NASA Dynamic Aviation A200 aircraft will conduct low-flying research flights over farmland near Amarillo, Texas, from Thursday, Oct. 22, through Monday,",
+      "source": "NASA"
+    },
+    {
+      "title": "Curiosity Blog, Sols 5072-5076: The Return of the Polygons",
+      "link": "https://science.nasa.gov/blog/curiosity-blog-sols-5072-5076-the-return-of-the-polygons/",
+      "pubDate": "2026-11-17T17:06:07.000Z",
+      "image": "https://assets.science.nasa.gov/dynamicimage/assets/science/missions/msl/2026/curiosity-rover-updates/november/msl-raw-images_msss_05073_mcam_5073ML1102670061307127E01_DXXX.jpg?w=672&#038;h=896&#038;fit=clip",
+      "author": "",
+      "excerpt": "Written by Abigail Fraeman, Deputy Project Scientist, Jet Propulsion Laboratory, California Institute of Technology Earth planning date: Friday, Nov. 13, 2026 Curiosity’s past several weeks have been very focused on drilling and analysis of the “Basque Lakes” and “Nazca” samples. We learned a lot from those drilled sam",
+      "source": "NASA"
+    },
+    {
+      "title": "How AI is pushing satellites to evolve",
+      "link": "https://spacenews.com/how-ai-is-pushing-satellites-to-evolve/",
+      "pubDate": "2026-11-17T17:02:33.000Z",
+      "image": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/11/2000-1500-spacenews-space-tech-expo-europe-van-Duijn-scaled.jpg?fit=1024%2C768&amp;ssl=1",
+      "author": "SpaceNews Editor",
+      "excerpt": "During the first day of Space Tech Expo Europe, SpaceNews’ Mike Gruss sits down with Pieter van Duijn, the chief technology officer of Loft Orbital. They discuss the growing level […] The post How AI is pushing satellites to evolve appeared first on SpaceNews.",
+      "source": "SpaceNews"
+    },
+    {
+      "title": "NASA Invites Media, Public to View Roman Telescope’s First Images",
+      "link": "https://www.nasa.gov/news-release/nasa-invites-media-public-to-view-roman-telescopes-first-images/",
+      "pubDate": "2026-11-17T17:00:29.000Z",
+      "image": "https://www.nasa.gov/wp-content/uploads/2026/11/54963457618-23b91802ea-k-1.jpg?w=2048",
+      "author": "Jessica Taveau",
+      "excerpt": "NASA will release the first images from its Nancy Grace Roman Space Telescope during a live stream from the American Geophysical Union (AGU) Annual Meeting in San Francisco at 3:30 p.m. EST (12:30 p.m. PST) Monday, Dec. 7. The images will showcase the unique scientific capabilities of Roman, which will soon capture dee",
+      "source": "NASA"
+    },
+    {
+      "title": "Guardian Week to build readiness, connection across Space Force",
+      "link": "https://www.spaceforce.mil/News/Article-Display/Article/4649749/guardian-week-to-build-readiness-connection-across-space-force/",
+      "pubDate": "2026-11-17T17:00:00.000Z",
+      "image": "https://media.defense.gov/2026/Nov/17/2004027916/700/700/0/261117-F-AF999-1011.JPG",
+      "author": "Jason Kelly",
+      "excerpt": "Through competition, professional development and family-focused events, participants will explore their roles in the Space Force mission and strengthen relationships across the service.",
+      "source": "Space Force"
+    },
+    {
+      "title": "Space Selfie",
+      "link": "https://www.nasa.gov/image-article/space-selfie-2/",
+      "pubDate": "2026-11-17T16:51:14.000Z",
+      "image": "https://www.nasa.gov/wp-content/uploads/2026/11/iss075e0253155orig.jpg?w=2048",
+      "author": "HQ Web Team",
+      "excerpt": "NASA astronaut Anil Menon took this selfie during a spacewalk on Oct. 29, 2026. He and CSA (Canadian Space Agency) astronaut Joshua Kutryk installed a new roll-out solar array on the International Space Station. Get daily updates from the space station. Image credit: NASA/Anil Menon",
+      "source": "NASA"
+    },
+    {
+      "title": "Black Friday 2026: Deals for observers from around the web",
+      "link": "https://www.astronomy.com/observing/black-friday-2026-deals-for-observers-from-around-the-web/",
+      "pubDate": "2026-11-17T15:28:56.000Z",
+      "image": null,
+      "author": "Astronomy Staff",
+      "excerpt": "Save big on telescopes, smart scopes, mounts, and astro cameras from Celestron, Sky-Watcher, ZWO, and more. The post Black Friday 2026: Deals for observers from around the web appeared first on Astronomy Magazine.",
+      "source": "Astronomy Magazine"
+    },
+    {
+      "title": "Space Cargo Unlimited Unveils REV1 Reentry Vehicle",
+      "link": "https://payloadspace.com/space-cargo-unlimited-unveils-rev1-reentry-vehicle/",
+      "pubDate": "2026-11-17T13:26:06.000Z",
+      "image": "https://payloadspace.com/wp-content/uploads/2026/11/Screenshot-2026-11-17-at-8.24.46-AM-200x200.png",
+      "author": "Douglas Gorman",
+      "excerpt": "Space Cargo Unlimited unveiled its new reusable reentry vehicle—called REV1—at Space Tech Expo in Bremen, Germany today. The post Space Cargo Unlimited Unveils REV1 Reentry Vehicle appeared first on Payload.",
+      "source": "Payload"
+    },
+    {
+      "title": "Asynchronics Raises $3.1M To Boost its Digital-Twin Software",
+      "link": "https://payloadspace.com/asynchronics-raises-3-1m-to-boost-its-digital-twin-software/",
+      "pubDate": "2026-11-17T13:09:11.000Z",
+      "image": "https://payloadspace.com/wp-content/uploads/2026/11/common-1-200x200.jpeg",
+      "author": "Douglas Gorman",
+      "excerpt": "Asynchronics today announced the closing of a $3.1M seed round to bring more affordable digital-twin software to the market, and grow its virtual catalog of off-the-shelf components. The post Asynchronics Raises $3.1M To Boost its Digital-Twin Software appeared first on Payload.",
+      "source": "Payload"
+    },
+    {
+      "title": "Ramon.Space Raises $124M in Series B Funding",
+      "link": "https://payloadspace.com/ramon-space-raises-124m-in-series-b-funding/",
+      "pubDate": "2026-11-17T13:08:34.000Z",
+      "image": "https://payloadspace.com/wp-content/uploads/2026/11/Ramon-Space-2-1-200x200.jpg",
+      "author": "Victoria Woodburn",
+      "excerpt": "Space computing company Ramon.Space raised $124M in Series B funding, the company announced today. The post Ramon.Space Raises $124M in Series B Funding appeared first on Payload.",
+      "source": "Payload"
+    },
+    {
       "title": "Cosmo Bee to flight-test Honeybee Hall thruster with D-Orbit in 2027",
       "link": "https://spacenews.com/cosmo-bee-to-flight-test-honeybee-hall-thruster-with-d-orbit-in-2027/",
       "pubDate": "2026-11-17T08:00:00.000Z",
@@ -37,33 +199,6 @@
       "source": "NASA"
     },
     {
-      "title": "Perseverance Update: The Ghostly Rocks of ‘Idubi’ — Bright Remnants of Aqueous Systems from Long Ago",
-      "link": "https://science.nasa.gov/blog/perseverance-update-the-ghostly-rocks-of-idubi-bright-remnants-of-aqueous-systems-from-long-ago/",
-      "pubDate": "2026-11-16T23:12:45.000Z",
-      "image": "https://assets.science.nasa.gov/dynamicimage/assets/science/missions/mars2020/2026/perseverance-rover-updates/Mars_Perseverance_ZL0_2023_0846533367_473EBY_N0930000ZCAM10057_1100LMJ.jpg?w=1588&#038;h=1200&#038;fit=clip",
-      "author": "",
-      "excerpt": "Written by Candice Bedford, Research Scientist at Purdue University Date: Nov. 16, 2026 During the Perseverance rover’s investigation of “Idubi” — an area of ancient Martian crust exposed in the “Lac de Charmes” region, outside of Jezero crater — the Perseverance rover team has been captivated by a cluster of eerily br",
-      "source": "NASA"
-    },
-    {
-      "title": "A Collage Showing 49 Drill Holes Made by NASA’s Curiosity Mars Rover",
-      "link": "https://science.nasa.gov/photojournal/a-collage-showing-49-drill-holes-made-by-nasas-curiosity-mars-rover/",
-      "pubDate": "2026-11-16T22:05:23.000Z",
-      "image": "https://assets.science.nasa.gov/dynamicimage/assets/science/psd/photojournal/pia/pia26804/PIA26804.jpg?w=1536&#038;h=1536&#038;fit=clip",
-      "author": "",
-      "excerpt": "Description This collage shows 49 drill holes captured by NASA’s Curiosity Mars rover as of November 2026. Each hole represents a sample collected from rocks on the Martian surface; Curiosity’s drill, located on the end of its robotic arm, drops pulverized rock samples into instruments in its belly that analyze their c",
-      "source": "NASA"
-    },
-    {
-      "title": "NASA Receives 16th Consecutive ‘Clean’ Financial Audit Opinion",
-      "link": "https://www.nasa.gov/news-release/nasa-receives-16th-consecutive-clean-financial-audit-opinion/",
-      "pubDate": "2026-11-16T20:30:40.000Z",
-      "image": "https://www.nasa.gov/wp-content/uploads/2026/04/nasa-meatball-1.webp?w=1920",
-      "author": "Lauren E. Low",
-      "excerpt": "For the 16th consecutive year, NASA has received an unmodified, or “clean,” opinion from an external auditor on its fiscal year 2026 financial statements. The rating is the best possible audit opinion, certifying that NASA’s financial statements conform with Generally Accepted Accounting Principles for federal agencies",
-      "source": "NASA"
-    },
-    {
       "title": "SpaceNukes Opens Los Alamos Manufacture and Materials Facility to Build Its Next-Generation Space Reactor",
       "link": "https://spacenews.com/spacenukes-opens-los-alamos-manufacture-and-materials-facility-to-build-its-next-generation-space-reactor/",
       "pubDate": "2026-11-16T20:00:00.000Z",
@@ -73,31 +208,13 @@
       "source": "SpaceNews"
     },
     {
-      "title": "Sentinel-6B in Orbit Around Earth",
-      "link": "https://science.nasa.gov/photojournal/sentinel-6b-in-orbit-around-earth/",
-      "pubDate": "2026-11-16T18:52:32.000Z",
-      "image": "https://assets.science.nasa.gov/dynamicimage/assets/science/psd/photojournal/pia/pia26/pia26803/PIA26803.jpg?w=1350&#038;h=1080&#038;fit=clip&#038;crop=faces%2Cfocalpoint",
-      "author": "",
-      "excerpt": "Description This artist’s concept shows the Sentinel-6B satellite, which will become the reference satellite for other missions studying sea surface height.",
-      "source": "NASA"
-    },
-    {
-      "title": "Thunderbirds in Formation",
-      "link": "https://www.nasa.gov/image-article/thunderbirds-in-formation/",
-      "pubDate": "2026-11-16T18:34:47.000Z",
-      "image": "https://www.nasa.gov/wp-content/uploads/2026/11/11072026-ksc-max-power-airdotshow-2orig.jpg?w=2048",
-      "author": "HQ Web Team",
-      "excerpt": "U.S. Air Force Thunderbirds fighter jets pass overhead during the agency’s MAX POWER expo and air show on Saturday, Nov. 7, 2026, at NASA’s Kennedy Space Center in Florida. NASA’s inaugural MAX POWER was an aerospace festival celebrating the past, present, and future of flight and space exploration in honor of America’",
-      "source": "NASA"
-    },
-    {
-      "title": "Contractor to Civil Servant: NASA Welcomes Jim Mirandy",
-      "link": "https://www.nasa.gov/centers-and-facilities/stennis/contractor-to-civil-servant-jim-mirandy/",
-      "pubDate": "2026-11-16T15:22:09.000Z",
-      "image": "https://www.nasa.gov/wp-content/uploads/2026/11/s26-013-jim-mirandy.jpg?w=2048",
-      "author": "LaToya Dean",
-      "excerpt": "The rumble of a rocket engine might be considered a soundtrack for Jim Mirandy’s life. Mirandy has grown up with NASA as a constant presence, and his path to becoming a civil servant at NASA’s Stennis Space Center near Bay St. Louis, Mississippi, has been decades in the making. Hired under the agency’s workforce direct",
-      "source": "NASA"
+      "title": "Nuclear bomb in space would disable 98 per cent of satellites within a week",
+      "link": "https://www.newscientist.com/article/2598378-nuclear-bomb-in-space-would-disable-98-per-cent-of-satellites-within-a-week/?utm_campaign=RSS|NSNS&utm_content=space&utm_medium=RSS&utm_source=NSNS",
+      "pubDate": "2026-11-16T16:15:00.000Z",
+      "image": null,
+      "author": "Matthew Sparkes",
+      "excerpt": "Just one nuclear explosion in space would have global and long-lasting repercussions, disabling almost every satellite and creating technological chaos from which it would take years to recover, warn experts",
+      "source": "New Scientist"
     },
     {
       "title": "Exclusive: SpaceComputer Books a D-Orbit Demo Mission with Aptos Orbital in 2027",
@@ -136,24 +253,6 @@
       "source": "New Scientist"
     },
     {
-      "title": "APOD: 2026 November 16 – NGC 7129: Star Formation with Jets from Webb",
-      "link": "https://science.nasa.gov/image-article/apod-2026-november-16-ngc-7129-star-formation-with-jets-from-webb/",
-      "pubDate": "2026-11-16T05:05:00.000Z",
-      "image": "https://assets.science.nasa.gov/dynamicimage/assets/science/missions/webb/science/2026/10/weic2620a.jpg?w=1280&#038;h=1194&#038;fit=clip&#038;crop=faces%2Cfocalpoint",
-      "author": "",
-      "excerpt": "APOD Science APOD APOD: 2026 November 16 – NGC… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professi",
-      "source": "NASA"
-    },
-    {
-      "title": "The Last Ice on Puncak Jaya",
-      "link": "https://science.nasa.gov/earth/earth-observatory/the-last-ice-on-puncak-jaya/",
-      "pubDate": "2026-11-16T05:00:00.000Z",
-      "image": "https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2026/the-last-ice-on-puncak-jaya/puncakjaya_tm5_1988308.jpg",
-      "author": "",
-      "excerpt": "Ice near the summit of the Indonesian mountain peak has shrunk to scattered patches too small to flow like glaciers.",
-      "source": "NASA"
-    },
-    {
       "title": "Connecting Constellations: The Shift to Real-Time Space Operations",
       "link": "https://payloadspace.com/connecting-constellations-the-shift-to-real-time-space-operations/",
       "pubDate": "2026-11-16T05:00:00.000Z",
@@ -182,7 +281,7 @@
     },
     {
       "title": "How to watch Starship Flight 15",
-      "link": "https://www.astronomy.com/whats-launching-this-week/how-to-watch-starship-flight-15/",
+      "link": "https://www.astronomy.com/space-exploration/how-to-watch-starship-flight-15/",
       "pubDate": "2026-11-13T20:21:49.000Z",
       "image": null,
       "author": "Brooks Mendenhall",
@@ -307,15 +406,6 @@
       "source": "New Scientist"
     },
     {
-      "title": "Exclusive: Spaceium Opens License for Refueling Hardware",
-      "link": "https://payloadspace.com/exclusive-spaceium-opens-license-for-refueling-hardware/",
-      "pubDate": "2026-11-12T14:00:00.000Z",
-      "image": "https://payloadspace.com/wp-content/uploads/2026/11/1680cb56-5f7e-4644-87f4-e7075a6dc454-200x200.jpg",
-      "author": "Jacqueline Feldscher",
-      "excerpt": "Spaceium’s goal is to launch gas stations into orbit. The first step? Making sure spacecraft builders have access to the pump. The post Exclusive: Spaceium Opens License for Refueling Hardware appeared first on Payload.",
-      "source": "Payload"
-    },
-    {
       "title": "UK military taps up astronomers to spot snooping foreign satellites",
       "link": "https://www.newscientist.com/article/2598291-uk-military-taps-up-astronomers-to-spot-snooping-foreign-satellites/?utm_campaign=RSS|NSNS&utm_content=space&utm_medium=RSS&utm_source=NSNS",
       "pubDate": "2026-11-12T13:57:46.000Z",
@@ -323,24 +413,6 @@
       "author": "Matthew Sparkes",
       "excerpt": "The UK is unable to match the advanced surveillance and counter-surveillance programmes run by the US, China and Russia, but it is working with civilian astronomers to develop a way of monitoring spy satellites via ground-based telescopes",
       "source": "New Scientist"
-    },
-    {
-      "title": "NeuralSat Raises €2.9M to Build Orbital Data Relay Network",
-      "link": "https://payloadspace.com/neuralsat-raises-e2-9m-to-build-orbital-data-relay-network/",
-      "pubDate": "2026-11-12T12:54:07.000Z",
-      "image": "https://payloadspace.com/wp-content/uploads/2026/11/IMG_4894-200x200.jpeg",
-      "author": "Douglas Gorman",
-      "excerpt": "The Autobahn is coming for in-space data traffic. The post NeuralSat Raises €2.9M to Build Orbital Data Relay Network appeared first on Payload.",
-      "source": "Payload"
-    },
-    {
-      "title": "OwlO Cloud Emerges from Stealth to Build European Orbital Cloud Network",
-      "link": "https://payloadspace.com/owlo-cloud-emerges-from-stealth-to-build-european-orbital-cloud-network/",
-      "pubDate": "2026-11-12T12:36:21.000Z",
-      "image": "https://payloadspace.com/wp-content/uploads/2026/11/OwlO-Cloud-illustration-no-words-no-logo-1-200x200.png",
-      "author": "Douglas Gorman",
-      "excerpt": "OwlO Cloud is planning to have at least 10 spacecraft—orbital cloud nodes (OCN)—operational by 2030. The post OwlO Cloud Emerges from Stealth to Build European Orbital Cloud Network appeared first on Payload.",
-      "source": "Payload"
     },
     {
       "title": "Senate committee takes up nominees for NASA chief financial officer and inspector general",
@@ -368,6 +440,15 @@
       "author": "New Scientist",
       "excerpt": "We remember 19th-century captains of industry like Andrew Carnegie because they funded vast cultural institutions. Will the Elon Musks and Jeff Bezoses of our time do the same to preserve humanity’s spacefaring legacy?",
       "source": "New Scientist"
+    },
+    {
+      "title": "ZWO introduces the Seestar S30 Plus",
+      "link": "https://www.astronomy.com/observing/zwo-introduces-the-seestar-s30-plus/",
+      "pubDate": "2026-11-11T17:52:22.000Z",
+      "image": null,
+      "author": "Astronomy Staff",
+      "excerpt": "The newest — and least expensive — Seestar pairs the S30 Pro's apochromatic optics with a pair of 2K cameras for only $499. The post ZWO introduces the Seestar S30 Plus appeared first on Astronomy Magazine.",
+      "source": "Astronomy Magazine"
     },
     {
       "title": "SpaceX aims to safely land Starship and booster stage after orbital flight",
@@ -413,15 +494,6 @@
       "author": "Leah Crane",
       "excerpt": "The Voyager 1 spacecraft is the most distant human-made object from Earth. What it saw on its 50-year journey to the edge of the solar system revolutionised our understanding of the planets and ourselves",
       "source": "New Scientist"
-    },
-    {
-      "title": "Rep. Mike Haridopolos on NASA’s Future After the Blue Wave",
-      "link": "https://payloadspace.com/rep-mike-haridopolos-on-nasas-future-after-the-blue-wave/",
-      "pubDate": "2026-11-10T18:45:00.000Z",
-      "image": "https://payloadspace.com/wp-content/uploads/2026/11/IMG_5652-200x200.jpg",
-      "author": "Victoria Woodburn",
-      "excerpt": "Rep. Mike Haridopolos survived the Blue Wave—and he’s optimistic bipartisan support for NASA’s Artemis program means the program will survive the political upheaval on Capitol Hill as well. The post Rep. Mike Haridopolos on NASA’s Future After the Blue Wave appeared first on Payload.",
-      "source": "Payload"
     },
     {
       "title": "Kratos and Seagate Space Partner to Advance Mobile Offshore Launch Capabilities for National Security Missions",
@@ -478,15 +550,6 @@
       "source": "SpaceNews"
     },
     {
-      "title": "What would happen if a planet crashed into the Sun?",
-      "link": "https://www.astronomy.com/science/what-would-happen-if-a-planet-crashed-into-the-sun/",
-      "pubDate": "2026-11-09T14:00:00.000Z",
-      "image": null,
-      "author": "Astronomy Staff",
-      "excerpt": "What would happen if a planet crashed into the Sun? Lindsay WhiteRio Rancho, New Mexico This is a wonderful example of a thought experiment, the ultimate “what if?” question. We should begin by pointing out that no fully formed planet will actually ever be able to crash into the Sun, as the Sun’s ferocious heat would b",
-      "source": "Astronomy Magazine"
-    },
-    {
       "title": "AST SpaceMobile unveils $1.3 billion engine deal with Firefly Aerospace to power new heavy-lift rocket",
       "link": "https://spaceflightnow.com/2026/11/07/ast-spacemobile-unveils-1-3-billion-engine-deal-with-firefly-aerospace-to-power-new-heavy-lift-rocket/",
       "pubDate": "2026-11-07T02:18:04.000Z",
@@ -521,24 +584,6 @@
       "author": "Matthew Sparkes",
       "excerpt": "The Hubble Space Telescope faces a fiery and fatal re-entry to Earth's atmosphere sometime around 2032, but NASA is asking the private sector for ideas to keep it working",
       "source": "New Scientist"
-    },
-    {
-      "title": "A robot called GIMLI will explore a lunar cave for a future moon base",
-      "link": "https://www.newscientist.com/article/2597780-a-robot-called-gimli-will-explore-a-lunar-cave-for-a-future-moon-base/?utm_campaign=RSS|NSNS&utm_content=space&utm_medium=RSS&utm_source=NSNS",
-      "pubDate": "2026-11-06T09:00:00.000Z",
-      "image": null,
-      "author": "Robin George Andrews",
-      "excerpt": "The race to build a moon base is ramping up. Columnist Robin George Andrews explores how NASA is preparing by sending a cave-hunting robot ahead of humans",
-      "source": "New Scientist"
-    },
-    {
-      "title": "The Sky This Week from November 6 to 13: Venus in the spotlight",
-      "link": "https://www.astronomy.com/the-sky-this-week/the-sky-this-week-from-november-6-to-13-2026/",
-      "pubDate": "2026-11-06T06:00:00.000Z",
-      "image": null,
-      "author": "Alison Klesman",
-      "excerpt": "Friday, November 6The waning Moon leaves us with perfect skies for deep-sky observing. Let’s kick off the week with a bright planetary nebula in Aquarius: NGC 7293, commonly known as the Helix Nebula. Despite its impressive magnitude of 7.3, the Helix presents a challenge: It is a broad 13’ across, which spreads its li",
-      "source": "Astronomy Magazine"
     },
     {
       "title": "Blue Origin reveals new kick stage, engines for its New Glenn rockets",
@@ -577,15 +622,6 @@
       "source": "SpaceNews"
     },
     {
-      "title": "Make the most of long nights with this month’s new astronomy products",
-      "link": "https://www.astronomy.com/observing/make-the-most-of-long-nights-with-this-months-new-astronomy-products/",
-      "pubDate": "2026-11-05T19:42:26.000Z",
-      "image": null,
-      "author": "Astronomy Staff",
-      "excerpt": "GS-100AR/AC High-Precision Guide Scope ToupTekHangzhou, China The GS-100AR/AC High-Precision Guide Scope is a guide scope, a wide-field imaging system, and a visual instrument. Its apochromatic design produces a flat 1-inch image circle and reduces purple fringing seen in earlier models. With a choice of rack-and-pinio",
-      "source": "Astronomy Magazine"
-    },
-    {
       "title": "DAF unveils enterprise blueprint to field operational SI across 15 mission domains",
       "link": "https://www.spaceforce.mil/News/Article-Display/Article/4642457/daf-unveils-enterprise-blueprint-to-field-operational-si-across-15-mission-doma/",
       "pubDate": "2026-11-05T17:16:00.000Z",
@@ -602,24 +638,6 @@
       "author": "Amorim Cork Solutions",
       "excerpt": "Mozelos, Portugal, September 2, 2026 – Amorim Cork Solutions is contributing its P50 cork-based thermal protection material to DRACO, a European Space Agency (ESA) mission designed to capture rare in-flight […] The post Cork Takes the Heat So DRACO’s Data Can Survive appeared first on SpaceNews.",
       "source": "SpaceNews"
-    },
-    {
-      "title": "Evidence of active volcanoes on Mars may boost chances of finding life",
-      "link": "https://www.newscientist.com/article/2597667-evidence-of-active-volcanoes-on-mars-may-boost-chances-of-finding-life/?utm_campaign=RSS|NSNS&utm_content=space&utm_medium=RSS&utm_source=NSNS",
-      "pubDate": "2026-11-05T16:42:06.000Z",
-      "image": "https://www.newscientist.com/wp-content/uploads/2026/11/SEI_319532373.jpg",
-      "author": "Matthew Sparkes",
-      "excerpt": "Recent fractures on the surface of Mars and gases detected by an orbiter probe provide some of the strongest evidence yet that the planet is volcanically active",
-      "source": "New Scientist"
-    },
-    {
-      "title": "Curiosity captures a martian dawn",
-      "link": "https://www.astronomy.com/science/curiosity-captures-a-martian-dawn/",
-      "pubDate": "2026-11-05T15:09:27.000Z",
-      "image": null,
-      "author": "Brooks Mendenhall",
-      "excerpt": "The morning Sun casts a hazy glow over Mars’ Mount Sharp, lighting up distant wind-carved rock formations known as yardangs. This scene is cropped from a six-image panorama captured by the Mastcam on NASA’s Curiosity rover at 8:30 a.m. local time on Aug. 11, 2026, the mission’s 4,982nd sol (martian day). Mount Sharp, f",
-      "source": "Astronomy Magazine"
     },
     {
       "title": "Building a ‘highway to the moon and back’ with Winnie Lai",
@@ -656,15 +674,6 @@
       "author": "Houston Harwood",
       "excerpt": "As of Monday, the U.S. Space Force predicted Swift would re-enter Earth's atmosphere at approximately 3:30 a.m. EST Wednesday, Nov. 4, somewhere within about 21 degrees north or south of the equator — a band that is mostly ocean.",
       "source": "Spaceflight Now"
-    },
-    {
-      "title": "DETUMBLER: Airbus’ Passive Spin Stabilization Solution",
-      "link": "https://spacenews.com/detumbler-airbus-passive-spin-stabilization-solution/",
-      "pubDate": "2026-11-03T13:30:00.000Z",
-      "image": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/11/AIRBUS_Blue.png?fit=1024%2C1024&amp;ssl=1",
-      "author": "Airbus",
-      "excerpt": "The tumbling crisis: why dead satellites threaten orbit Every year, hundreds of satellites reach end-of-life, most are deorbited, but some fail abruptly. Yet, even when properly decommissioned, some dead satellites […] The post DETUMBLER: Airbus’ Passive Spin Stabilization Solution appeared first on SpaceNews.",
-      "source": "SpaceNews"
     },
     {
       "title": "DAF announces Spark Tank 2026 Top 5",
@@ -791,15 +800,6 @@
       "author": "Tech. Sgt. William A. O’Brien",
       "excerpt": "CMSSF Bentivegna detailed the service's \"train, test and trust\" approach to developing mission-ready cyber operators capable of defending critical space and joint infrastructure.",
       "source": "Space Force"
-    },
-    {
-      "title": "Space Force leaders outline blueprint to double force size over next 5 years",
-      "link": "https://www.spaceforce.mil/News/Article-Display/Article/4603973/space-force-leaders-outline-blueprint-to-double-force-size-over-next-5-years/",
-      "pubDate": "2026-09-17T15:37:47.000Z",
-      "image": null,
-      "author": "Master Sgt. A.J. Hyatt",
-      "excerpt": "The panel addressed critical requirements across accession pipelines, mission infrastructure, and simulation training necessary to generate credible combat capability for the Joint Force.",
-      "source": "Space Force"
     }
   ],
   "industryNews": [
@@ -896,210 +896,183 @@
   ],
   "nytNews": [
     {
-      "title": "These Ukrainians Aren’t in Combat. But They Deal With War Every Day.",
-      "link": "https://www.nytimes.com/2026/11/17/world/europe/ukraine-war-civilians.html",
-      "pubDate": "2026-11-17T13:09:11.000Z",
-      "image": "https://static01.nyt.com/images/2026/03/17/multimedia/00Int-Ukraine-Characters-05-mchq/00Int-Ukraine-Characters-05-mchq-mediumSquareAt3X.jpg",
-      "author": "Mauricio Lima and Yurii Shyvala",
-      "excerpt": "A doctor, a gravedigger, a therapist and a pathologist share their war experiences.",
+      "title": "Apple Addresses Outages Affecting Apple Pay, iCloud and Apps",
+      "link": "https://www.nytimes.com/2026/11/17/technology/apple-down-outage-issues.html",
+      "pubDate": "2026-11-17T21:39:25.000Z",
+      "image": "https://static01.nyt.com/images/2026/07/29/multimedia/17xp-apple/17xp-apple-mediumSquareAt3X.jpg",
+      "author": "Amanda Holpuch",
+      "excerpt": "The disruption followed days of unrelated problems in the past week that interrupted air travel and work at offices, schools and government.",
       "source": "NYT"
     },
     {
-      "title": "Nvidia’s Earnings Call Is a High-Stakes Moment",
-      "link": "https://www.nytimes.com/2026/11/17/business/dealbook/nvidia-ai-earnings-huang.html",
-      "pubDate": "2026-11-17T13:02:17.000Z",
-      "image": "https://static01.nyt.com/images/2026/11/17/multimedia/17db-nvda-qwbk/17db-nvda-qwbk-mediumSquareAt3X.jpg",
-      "author": "Andrew Ross Sorkin, Bernhard Warner, Sarah Kessler, Michael J. de la Merced, Niko Gallogly, Brian O’Keefe, Sri Muppidi and Ian Mount",
-      "excerpt": "Wall Street is bracing for the chip maker’s latest earnings call, as analysts seek clues about the artificial intelligence giant’s future.",
+      "title": "A.I. Helps Find Major Security Bug in Java, a Software Platform Vital to the Internet",
+      "link": "https://www.nytimes.com/2026/11/17/us/politics/ai-security-bug-java.html",
+      "pubDate": "2026-11-17T21:34:43.000Z",
+      "image": "https://static01.nyt.com/images/2026/11/17/multimedia/17dc-aibug-zfmc/17dc-aibug-zfmc-mediumSquareAt3X.jpg",
+      "author": "Dustin Volz and Dylan Freedman",
+      "excerpt": "The discovery by security company Calif shows A.I.’s ability to find gaping security holes in popular software. The Java flaw pointed to vulnerabilities in systems used by nearly all Fortune 500 companies.",
+      "source": "NYT"
+    },
+    {
+      "title": "With House Democratic Majority Still Growing, Recounts Are Starting in Closest Races",
+      "link": "https://www.nytimes.com/2026/11/17/us/elections/recounts-house-races-north-carolina-minnesota.html",
+      "pubDate": "2026-11-17T21:11:19.000Z",
+      "image": "https://static01.nyt.com/images/2026/11/17/multimedia/17pol-nc-recount-wptg/17pol-nc-recount-wptg-mediumSquareAt3X.jpg",
+      "author": "John Yoon",
+      "excerpt": "The exact size of the Democratic majority in Congress was undetermined as recounts were sought in two races in North Carolina and one in Minnesota two weeks after the elections.",
+      "source": "NYT"
+    },
+    {
+      "title": "Trump’s New A.I. Chip Rules Rattle Southeast Asia",
+      "link": "https://www.nytimes.com/2026/11/17/business/southeast-asia-china-ai-chips.html",
+      "pubDate": "2026-11-17T21:04:16.000Z",
+      "image": "https://static01.nyt.com/images/2026/11/17/multimedia/17trump-summits-data-centers-kjtv/17trump-summits-data-centers-kjtv-mediumSquareAt3X.jpg",
+      "author": "Adam Satariano and Alexandra Stevenson",
+      "excerpt": "New U.S. restrictions could jeopardize billions in investment and force countries in the region to strike an increasingly difficult balance between Washington and Beijing.",
+      "source": "NYT"
+    },
+    {
+      "title": "U.S. Loses Its Measles Elimination Status, a Historic Setback for American Health",
+      "link": "https://www.nytimes.com/2026/11/17/well/us-measles-elimination-status.html",
+      "pubDate": "2026-11-17T20:52:05.000Z",
+      "image": "https://static01.nyt.com/images/2026/11/17/arts/Measles_Vaccines_35784/Measles_Vaccines_35784-mediumSquareAt3X.jpg",
+      "author": "Teddy Rosenbluth",
+      "excerpt": "The nation was once regarded as a global leader for reining in the highly contagious virus. Now, large outbreaks that sicken thousands could become routine.",
+      "source": "NYT"
+    },
+    {
+      "title": "Congo Ebola Outbreak: How Fear and Mistrust Drive Community Spread",
+      "link": "https://www.nytimes.com/2026/11/17/world/africa/congo-ebola-community-transmission.html",
+      "pubDate": "2026-11-17T20:44:22.000Z",
+      "image": "https://static01.nyt.com/images/2026/11/17/multimedia/17int-ebola-family-promo-jblp/17int-ebola-family-promo-jblp-mediumSquareAt3X.jpg",
+      "author": "Matthew Mpoke Bigg and Arlette Bashizi",
+      "excerpt": "As the Ebola virus spreads in eastern Congo, health teams struggle to curb fatal delays in seeking medical care and the widespread desire to treat sick relatives at home.",
+      "source": "NYT"
+    },
+    {
+      "title": "Schools Are Closing Nationwide as Enrollment Drops. Parents Are Livid.",
+      "link": "https://www.nytimes.com/2026/11/17/us/public-schools-closing-birth-rate-enrollment.html",
+      "pubDate": "2026-11-17T20:35:53.000Z",
+      "image": "https://static01.nyt.com/images/2026/11/17/multimedia/17nat-school-closures-01-lfmz/17nat-school-closures-01-lfmz-mediumSquareAt3X.jpg",
+      "author": "Sarah Mervosh and Jack Healy",
+      "excerpt": "With fewer babies being born and more school choice, districts across the country have concluded they must downsize. Families are trying to push back.",
+      "source": "NYT"
+    },
+    {
+      "title": "Ukraine Talks Run Up Against Deep Enmity Between Russia and Europe",
+      "link": "https://www.nytimes.com/2026/11/17/us/politics/ukraine-russia-europe-trump.html",
+      "pubDate": "2026-11-17T20:31:11.000Z",
+      "image": "https://static01.nyt.com/images/2026/11/17/multimedia/17dc-trump-russia-kftm/17dc-trump-russia-kftm-mediumSquareAt3X.jpg",
+      "author": "Anton Troianovski",
+      "excerpt": "President Trump’s envoys are trying to overcome Russian hostility and European suspicion to craft a postwar security agreement in Europe that could end the war in Ukraine.",
+      "source": "NYT"
+    },
+    {
+      "title": "Jensen Huang Says He Would Return as Nvidia CEO if Asked",
+      "link": "https://www.nytimes.com/2026/11/17/technology/jensen-huang-nvidia-statement.html",
+      "pubDate": "2026-11-17T19:55:48.000Z",
+      "image": "https://static01.nyt.com/images/2026/11/17/multimedia/17biz-jensen-statement-vhjm/17biz-jensen-statement-vhjm-mediumSquareAt3X.jpg",
+      "author": "Kalley Huang",
+      "excerpt": "Mr. Huang resigned as chief executive of the company last week after revelations that he had affairs with an employee and a woman linked to Chinese intelligence.",
+      "source": "NYT"
+    },
+    {
+      "title": "I.R.S. Opens Criminal Probes as Part of Trump’s Pursuit of Left-Wing Groups",
+      "link": "https://www.nytimes.com/2026/11/17/us/politics/irs-criminal-investigations.html",
+      "pubDate": "2026-11-17T19:50:00.000Z",
+      "image": "https://static01.nyt.com/images/2026/11/17/multimedia/17dc-irs-nonprofit-01-cgqv/17dc-irs-nonprofit-01-cgqv-mediumSquareAt3X.jpg",
+      "author": "Andrew Duehren",
+      "excerpt": "An internal I.R.S. memo viewed by The New York Times reveals how the agency is carrying out President Trump’s orders to investigate “domestic terrorism.”",
       "source": "NYT"
     },
     {
       "title": "Ukraine Attacks Kerch Bridge Linking Russia to Occupied Crimea",
       "link": "https://www.nytimes.com/2026/11/17/world/europe/ukraine-kyiv-russia-kerch-bridge-crimea.html",
-      "pubDate": "2026-11-17T12:53:27.000Z",
-      "image": "https://static01.nyt.com/images/2026/11/17/multimedia/17int-russia-ukraine-bridges-jfql/17int-russia-ukraine-bridges-jfql-mediumSquareAt3X.jpg",
+      "pubDate": "2026-11-17T19:41:03.000Z",
+      "image": "https://static01.nyt.com/images/2026/11/17/multimedia/17int-russia-ukraine-bridges-ltwc/17int-russia-ukraine-bridges-ltwc-mediumSquareAt3X.jpg",
       "author": "Marc Santora and James McManagan",
       "excerpt": "Destroying the structure, the only one connecting Russia to the occupied Crimean Peninsula, has long been a top objective for Kyiv.",
       "source": "NYT"
     },
     {
-      "title": "OK, America, We Can Still Be Friends",
-      "link": "https://www.nytimes.com/2026/11/17/opinion/canada-trump-america-midterms.html",
-      "pubDate": "2026-11-17T12:37:01.000Z",
+      "title": "Classified N.S.A. Network Goes Down, Causing Work Disruptions",
+      "link": "https://www.nytimes.com/2026/11/17/us/politics/nsa-down-network-outage-nsanet.html",
+      "pubDate": "2026-11-17T19:25:29.000Z",
+      "image": "https://static01.nyt.com/images/2026/11/17/multimedia/17dc-nsa-hbgj/17dc-nsa-hbgj-mediumSquareAt3X.jpg",
+      "author": "Dustin Volz",
+      "excerpt": "There are currently no signs that the outage is the result of a cyberattack or other nefarious activity, according to people familiar with the matter.",
+      "source": "NYT"
+    },
+    {
+      "title": "An Elegy for Americans Dying of Measles",
+      "link": "https://www.nytimes.com/2026/11/17/opinion/measles-elimination-status-vaccines.html",
+      "pubDate": "2026-11-17T19:16:04.000Z",
       "image": null,
-      "author": "Chrystia Freeland",
-      "excerpt": "This month, the world’s most unreliable boyfriend began to redeem himself.",
+      "author": "Perri Klass",
+      "excerpt": "America has officially lost its measles elimination status.",
       "source": "NYT"
     },
     {
-      "title": "Elon Musk’s Texas GOP Allies, Who Gave Him $1.7 Billion, Have Been Voted Out. What Now?",
-      "link": "https://www.nytimes.com/2026/11/17/business/elon-musk-texas-republicans.html",
-      "pubDate": "2026-11-17T11:55:08.000Z",
-      "image": "https://static01.nyt.com/images/2026/11/16/multimedia/16biz-musk-texas-06-hgkv-signs-mwgb/16biz-musk-texas-06-hgkv-signs-mwgb-mediumSquareAt3X.jpg",
-      "author": "Kirsten Grind and Lauren McGaughy",
-      "excerpt": "SpaceX and Tesla are more embedded across Texas than they ever were in California, which Mr. Musk left in 2020 to escape Democratic policies.",
+      "title": "Hegseth Nominates His Former Aide to Lead the Army",
+      "link": "https://www.nytimes.com/2026/11/17/us/hegseth-christopher-laneve-army-chief-of-staff.html",
+      "pubDate": "2026-11-17T18:38:03.000Z",
+      "image": "https://static01.nyt.com/images/2026/11/17/multimedia/17dc-hegseth-nomination-kwhl/17dc-hegseth-nomination-kwhl-mediumSquareAt3X.jpg",
+      "author": "Greg Jaffe, Adam Entous and Eric Schmitt",
+      "excerpt": "After months of delay, Defense Secretary Pete Hegseth and the White House have sent Gen. Christopher LaNeve’s nomination for Army chief of staff to the Senate.",
       "source": "NYT"
     },
     {
-      "title": "Born Sick",
-      "link": "https://www.nytimes.com/2026/11/17/briefing/born-with-measles.html",
-      "pubDate": "2026-11-17T11:36:35.000Z",
-      "image": "https://static01.nyt.com/images/2026/11/13/well/17themorning-nl-lead/17themorning-nl-lead-mediumSquareAt3X.jpg",
-      "author": "Sam Sifton",
-      "excerpt": "We look at the consequences of measles in pregnancy.",
+      "title": "Measles Is Officially Back in the United States. What Now?",
+      "link": "https://www.nytimes.com/2026/11/17/us/measles-us-whats-next.html",
+      "pubDate": "2026-11-17T18:12:14.000Z",
+      "image": "https://static01.nyt.com/images/2026/11/17/multimedia/17dc-measles-look-forward-01-zkgv/17dc-measles-look-forward-01-zkgv-mediumSquareAt3X.jpg",
+      "author": "Apoorva Mandavilli and Dani Blum",
+      "excerpt": "It may take years for the country to regain elimination status. In the meantime, communities will need to adopt numerous strategies to protect people.",
       "source": "NYT"
     },
     {
-      "title": "Tracking China’s War of Words Against Japan",
-      "link": "https://www.nytimes.com/2026/11/17/world/asia/china-japan-propaganda-xi-takaichi.html",
-      "pubDate": "2026-11-17T11:00:17.000Z",
-      "image": "https://static01.nyt.com/images/2026/11/16/multimedia/00int-china-japan-language-02-btpw/00int-china-japan-language-02-btpw-mediumSquareAt3X.jpg",
-      "author": "Javier C. Hernández and Gal Koplewitz",
-      "excerpt": "Beijing is running a concerted campaign to paint Japan as an aggressor and resurgent military threat, according to a Times analysis.",
+      "title": "President Trump Starts Asia Trip in Manila by Shrugging Off U.S. Concerns",
+      "link": "https://www.nytimes.com/2026/11/17/world/asia/17trump-summit-manila-asean-marcos.html",
+      "pubDate": "2026-11-17T17:46:55.000Z",
+      "image": "https://static01.nyt.com/images/2026/11/17/multimedia/17trump-summit-ledeall-01-gcjb/17trump-summit-ledeall-01-gcjb-mediumSquareAt3X.jpg",
+      "author": "Katie Rogers and David E. Sanger",
+      "excerpt": "Even for a president who prizes photo opportunities, Mr. Trump’s appearance in Manila suggested a lack of interest in diplomatic wins or issues at home. “It’s life,” he said.",
       "source": "NYT"
     },
     {
-      "title": "The A.I. Fight Dividing the Trump Administration, and the Next James Bond",
-      "link": "https://www.nytimes.com/2026/11/17/podcasts/the-headlines/ai-fight-trump-administration-new-james-bond-megaspeed.html",
-      "pubDate": "2026-11-17T11:00:07.000Z",
-      "image": "https://static01.nyt.com/images/2026/11/17/multimedia/17int-theheadlines-bgkl/17int-theheadlines-bgkl-mediumSquareAt3X.jpg",
-      "author": "Tracy Mumford, Will Jarvis, Margaret Kadifa, Jake Lucas, Ian Stewart, Hiroko Tabuchi and Alissa Wilkinson",
-      "excerpt": "Plus, a new study on phone bans in schools.",
-      "source": "NYT"
-    },
-    {
-      "title": "As Trump Goes to China, A.I. Tensions Surge Amid Spying and Safety Fears",
-      "link": "https://www.nytimes.com/2026/11/17/us/politics/trump-china-ai-tensions.html",
-      "pubDate": "2026-11-17T10:22:54.000Z",
-      "image": "https://static01.nyt.com/images/2026/11/17/multimedia/17dc-china-ai-qblv/17dc-china-ai-qblv-mediumSquareAt3X.jpg",
-      "author": "Edward Wong and Dustin Volz",
-      "excerpt": "The espionage concerns that led to Jensen Huang’s ouster at Nvidia highlight a core challenge to diplomacy between Washington and Beijing on A.I. advancement.",
+      "title": "Do You Need a Measles Booster?",
+      "link": "https://www.nytimes.com/2025/02/27/well/live/measles-vaccine-booster-shot.html",
+      "pubDate": "2026-11-17T16:14:28.000Z",
+      "image": "https://static01.nyt.com/images/2025/03/04/well/WELL-MEASLES-BOOSTER1/WELL-MEASLES-BOOSTER1-mediumSquareAt3X.jpg",
+      "author": "Dani Blum",
+      "excerpt": "As cases spread across North America, now is a good time to check your vaccination status.",
       "source": "NYT"
     },
     {
       "title": "The Winning Democrat Who Wants to Break Up Political Parties",
       "link": "https://www.nytimes.com/2026/11/17/opinion/ezra-klein-podcast-rob-sand.html",
-      "pubDate": "2026-11-17T10:04:04.000Z",
+      "pubDate": "2026-11-17T14:56:44.000Z",
       "image": "https://static01.nyt.com/images/2026/11/17/opinion/17eks-sand-image01/17eks-sand-image01-mediumSquareAt3X.png",
       "author": "Ezra Klein and Annie Galvin",
       "excerpt": "Iowa’s governor-elect, Rob Sand, ran on a platform criticizing the two-party system. How will he translate his campaign message into reform?",
       "source": "NYT"
     },
     {
-      "title": "New Evidence Shows School Phone Bans Are Gradually Improving Test Scores",
-      "link": "https://www.nytimes.com/2026/11/17/upshot/school-phone-bans-study-scores.html",
-      "pubDate": "2026-11-17T10:04:03.000Z",
-      "image": "https://static01.nyt.com/images/2026/11/17/multimedia/17up-phone-pouch1-jlkf/17up-phone-pouch1-jlkf-mediumSquareAt3X.jpg",
-      "author": "Claire Cain Miller",
-      "excerpt": "Previous results were mixed, but the first national study to track individual students’ growth shows bans may help reverse declines.",
+      "title": "Does This Man Have a Right to the Data From His Own Brain?",
+      "link": "https://www.nytimes.com/2026/11/17/business/brain-data-access-rights-buckwalter.html",
+      "pubDate": "2026-11-17T14:33:13.000Z",
+      "image": "https://static01.nyt.com/images/2026/11/13/multimedia/00buckwalter-02-mzvg/00buckwalter-02-mzvg-mediumSquareAt3X.jpg",
+      "author": "Vivian Wang and Gabriella Angotti-Jones",
+      "excerpt": "J. Galen Buckwalter cheerfully agreed to provide his neural data for a research study. But when he asked for a copy, things got complicated.",
       "source": "NYT"
     },
     {
-      "title": "As Trump and Xi Mingle, Their Governments Are Arming Up",
-      "link": "https://www.nytimes.com/2026/11/17/business/trump-xi-meeting-tensions.html",
-      "pubDate": "2026-11-17T10:03:49.000Z",
-      "image": "https://static01.nyt.com/images/2026/11/17/multimedia/17biz-APEC-hostilities-01-mvtl/17biz-APEC-hostilities-01-mvtl-mediumSquareAt3X.jpg",
-      "author": "Alexandra Stevenson and Murphy Zhao",
-      "excerpt": "Public displays of friendship contrast with mounting trade and investment restrictions, highlighting the widening rift between the two economies.",
-      "source": "NYT"
-    },
-    {
-      "title": "Trump’s Culture War, Amid Setbacks, Will Soon Face a Hostile Congress",
-      "link": "https://www.nytimes.com/2026/11/17/arts/design/trump-congress-smithsonian-kennedy-center.html",
-      "pubDate": "2026-11-17T10:02:56.000Z",
-      "image": "https://static01.nyt.com/images/2026/11/17/multimedia/17cul-culture-midterms-plvh/17cul-culture-midterms-plvh-mediumSquareAt3X.jpg",
-      "author": "Julia Jacobs and Robin Pogrebin",
-      "excerpt": "The White House campaign to make major changes at the Smithsonian and the Kennedy Center has fallen short of its goals. Will it be further disrupted by a Democrat-led Congress?",
-      "source": "NYT"
-    },
-    {
-      "title": "Grand Theft Auto VI Revs Up for a Worldwide Takeover",
-      "link": "https://www.nytimes.com/2026/11/17/arts/grand-theft-auto-vi-hype-success.html",
-      "pubDate": "2026-11-17T10:02:03.000Z",
-      "image": "https://static01.nyt.com/images/2026/11/17/multimedia/17cul-gta-blockbuster-jwvp/17cul-gta-blockbuster-jwvp-mediumSquareAt3X.jpg",
-      "author": "Marc Tracy",
-      "excerpt": "More than a decade in the making, the newest installment of the video game franchise is set to bring in billions and set a new standard for the industry.",
-      "source": "NYT"
-    },
-    {
-      "title": "A New, Bold Antarctic Rescue: Bringing Shackleton’s Outpost Back to Life",
-      "link": "https://www.nytimes.com/2026/11/17/science/ernest-shackleton-antarctic-south-georgia-villa.html",
-      "pubDate": "2026-11-17T10:00:47.000Z",
-      "image": null,
-      "author": "K. R. Callaway",
-      "excerpt": "An abandoned station manager’s villa — the site of a historic effort to save the explorer’s marooned crew — has now been restored. Take a tour inside.",
-      "source": "NYT"
-    },
-    {
-      "title": "Debt Problems of the Richest Countries Are Trickling Down to the Poorest",
-      "link": "https://www.nytimes.com/2026/11/17/business/economy/global-debt-economy-world-bank.html",
-      "pubDate": "2026-11-17T08:45:15.000Z",
-      "image": "https://static01.nyt.com/images/2026/11/16/multimedia/16biz-global-debt-01-mpfv/16biz-global-debt-01-mpfv-mediumSquareAt3X.jpg",
-      "author": "Patricia Cohen",
-      "excerpt": "The debt load of developing countries jumped to $9.4 trillion as high interest rates and other global shocks batter their economies.",
-      "source": "NYT"
-    },
-    {
-      "title": "Late Night Flies High on the F.A.A. Ground Stop",
-      "link": "https://www.nytimes.com/2026/11/17/arts/television/late-night-faa-ground-stop.html",
-      "pubDate": "2026-11-17T08:23:55.000Z",
-      "image": null,
-      "author": "Trish Bendix",
-      "excerpt": "“Sometimes, it feels like maybe Elon and his DOGE bros shouldn’t have fired more than a thousand employees at the F.A.A.,” Jimmy Kimmel said.",
-      "source": "NYT"
-    },
-    {
-      "title": "Will New York Raise Taxes on the Rich? Free Child Care May Depend on It.",
-      "link": "https://www.nytimes.com/2026/11/17/nyregion/child-care-tax-the-rich-ny.html",
-      "pubDate": "2026-11-17T08:00:07.000Z",
-      "image": "https://static01.nyt.com/images/2026/11/17/multimedia/17met-taxes-childcare-hqtm/17met-taxes-childcare-hqtm-mediumSquareAt3X.jpg",
-      "author": "Eliza Shapiro and Benjamin Oreskes",
-      "excerpt": "With Gov. Kathy Hochul and Mayor Zohran Mamdani pushing to expand free child care, a tax-the-rich campaign may fare better next year in a more left-leaning environment.",
-      "source": "NYT"
-    },
-    {
-      "title": "Facing Criticism, Trump Administration Says It’s Investigating Megaspeed",
-      "link": "https://www.nytimes.com/2026/11/17/business/economy/megaspeed-investigation-trump-doj.html",
-      "pubDate": "2026-11-17T07:02:17.000Z",
-      "image": "https://static01.nyt.com/images/2026/11/15/multimedia/16dc-megaspeed-1/15xp-megaspeed1-zcvq-mediumSquareAt3X.jpg",
-      "author": "Ana Swanson and Tripp Mickle",
-      "excerpt": "The announcement appeared to be a response to recent criticism that the Commerce Department has moved too slowly on the alleged chip smuggling case.",
-      "source": "NYT"
-    },
-    {
-      "title": "Leaked Records Show Deutsche Bank Courting Russian Oligarchs",
-      "link": "https://www.nytimes.com/2026/11/17/world/europe/deutsche-bank-russia-oligarchs-leaked-documents.html",
-      "pubDate": "2026-11-17T06:00:12.000Z",
-      "image": "https://static01.nyt.com/images/2026/11/18/multimedia/17int-russia-deutschebank-01-gkjc/17int-russia-deutschebank-01-gkjc-mediumSquareAt3X.jpg",
-      "author": "Russ Buettner, Khadija Sharife, Brian Fitzpatrick, Frederik Obermaier, Bastian Obermayer and Sophia Baumann",
-      "excerpt": "“As you know we have a large Russian Oligarchs client population,” an analyst wrote as the bank braced for sanctions against wealthy clients.",
-      "source": "NYT"
-    },
-    {
-      "title": "Shoe Prices Hit a Record High Amid Inflation and Increased Tariffs",
-      "link": "https://www.nytimes.com/2026/11/17/business/shoe-prices-inflation-tariffs.html",
-      "pubDate": "2026-11-17T05:00:08.000Z",
-      "image": "https://static01.nyt.com/images/2026/11/13/multimedia/13biz-shoe-prices-zfcl/13biz-shoe-prices-zfcl-mediumSquareAt3X.jpg",
-      "author": "Kim Bhasin",
-      "excerpt": "Shoe prices hit a record high in October as brands contend with the rising cost of materials and increased tariffs.",
-      "source": "NYT"
-    },
-    {
-      "title": "Trump Administration Divide on China Policy Breaks Into Public View",
-      "link": "https://www.nytimes.com/2026/11/16/us/politics/trump-china-ai-chip-policy.html",
-      "pubDate": "2026-11-17T03:48:50.000Z",
-      "image": "https://static01.nyt.com/images/2026/11/16/multimedia/16dc-trump-nvidia-zblt/16dc-trump-nvidia-zblt-mediumSquareAt3X.jpg",
-      "author": "Jonathan Swan, Maggie Haberman, Ana Swanson and Shawn McCreesh",
-      "excerpt": "The airing of a fight over advanced A.I. chips shows how much the Nvidia scandal has deepened fissures inside the government, just as President Trump heads to a critical meeting with his Chinese counterpart.",
-      "source": "NYT"
-    },
-    {
-      "title": "Madison Huang, Jensen Huang’s Daughter, Became a Powerful Force at Nvidia",
-      "link": "https://www.nytimes.com/2026/11/16/technology/nvidia-jensen-madison-huang.html",
-      "pubDate": "2026-11-17T02:15:57.000Z",
-      "image": "https://static01.nyt.com/images/2026/11/16/multimedia/BIZ-MADISON-HUANG-1-01-cmjw/BIZ-MADISON-HUANG-1-01-cmjw-mediumSquareAt3X-v2.jpg",
-      "author": "Kalley Huang, Tripp Mickle and Ryan Mac",
-      "excerpt": "Installed as her father’s de facto chief of staff, Jensen Huang’s daughter alienated top executives. Now her lingering role poses a test for interim C.E.O. Colette Kress.",
+      "title": "Enrollment in N.Y.C. Schools Falls by 23,000",
+      "link": "https://www.nytimes.com/2026/11/16/nyregion/enrollment-nyc-schools-declines.html",
+      "pubDate": "2026-11-17T14:18:14.000Z",
+      "image": "https://static01.nyt.com/images/2026/11/16/multimedia/16met-schools-wbgh/16met-schools-wbgh-mediumSquareAt3X.jpg",
+      "author": "Matthew Haag",
+      "excerpt": "New York City has lost 200,000 students over the past decade, mirroring declines in districts across the United States.",
       "source": "NYT"
     }
   ]
