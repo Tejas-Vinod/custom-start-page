@@ -1,6 +1,24 @@
 {
   "spaceNews": [
     {
+      "title": "APOD: 2026 November 18 – An M-class Solar Flare",
+      "link": "https://science.nasa.gov/image-article/apod-2026-november-18-an-m-class-solar-flare/",
+      "pubDate": "2026-11-18T05:05:00.000Z",
+      "image": "https://assets.science.nasa.gov/dynamicimage/assets/science/cds/apod/apod/2026/november/solar_M_flare.jpg?w=2048&#038;h=2048&#038;fit=clip",
+      "author": "",
+      "excerpt": "APOD Science APOD APOD: 2026 November 18 – An… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professio",
+      "source": "NASA"
+    },
+    {
+      "title": "Sierra Snow Season Spins Up",
+      "link": "https://science.nasa.gov/earth/earth-observatory/sierra-snow-season-spins-up/",
+      "pubDate": "2026-11-18T05:01:00.000Z",
+      "image": "https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2026/sierra-snow-season-spins-up/sierranevada_tmo_20261112.jpg",
+      "author": "",
+      "excerpt": "A widespread, early-season snowstorm blanketed California’s mountains in white in mid-November 2026.",
+      "source": "NASA"
+    },
+    {
       "title": "NASA Launches Nuclear Power Systems Student Contest",
       "link": "https://science.nasa.gov/centers-and-facilities/glenn/nasa-launches-nuclear-power-systems-student-contest/",
       "pubDate": "2026-11-17T22:02:48.000Z",
@@ -118,15 +136,6 @@
       "source": "SpaceNews"
     },
     {
-      "title": "NASA Invites Media, Public to View Roman Telescope’s First Images",
-      "link": "https://www.nasa.gov/news-release/nasa-invites-media-public-to-view-roman-telescopes-first-images/",
-      "pubDate": "2026-11-17T17:00:29.000Z",
-      "image": "https://www.nasa.gov/wp-content/uploads/2026/11/54963457618-23b91802ea-k-1.jpg?w=2048",
-      "author": "Jessica Taveau",
-      "excerpt": "NASA will release the first images from its Nancy Grace Roman Space Telescope during a live stream from the American Geophysical Union (AGU) Annual Meeting in San Francisco at 3:30 p.m. EST (12:30 p.m. PST) Monday, Dec. 7. The images will showcase the unique scientific capabilities of Roman, which will soon capture dee",
-      "source": "NASA"
-    },
-    {
       "title": "Guardian Week to build readiness, connection across Space Force",
       "link": "https://www.spaceforce.mil/News/Article-Display/Article/4649749/guardian-week-to-build-readiness-connection-across-space-force/",
       "pubDate": "2026-11-17T17:00:00.000Z",
@@ -134,15 +143,6 @@
       "author": "Jason Kelly",
       "excerpt": "Through competition, professional development and family-focused events, participants will explore their roles in the Space Force mission and strengthen relationships across the service.",
       "source": "Space Force"
-    },
-    {
-      "title": "Space Selfie",
-      "link": "https://www.nasa.gov/image-article/space-selfie-2/",
-      "pubDate": "2026-11-17T16:51:14.000Z",
-      "image": "https://www.nasa.gov/wp-content/uploads/2026/11/iss075e0253155orig.jpg?w=2048",
-      "author": "HQ Web Team",
-      "excerpt": "NASA astronaut Anil Menon took this selfie during a spacewalk on Oct. 29, 2026. He and CSA (Canadian Space Agency) astronaut Joshua Kutryk installed a new roll-out solar array on the International Space Station. Get daily updates from the space station. Image credit: NASA/Anil Menon",
-      "source": "NASA"
     },
     {
       "title": "Black Friday 2026: Deals for observers from around the web",
@@ -887,12 +887,192 @@
   ],
   "nytNews": [
     {
-      "title": "Democrats Assail RFK Jr. After U.S. Loses Measles Elimination Status",
-      "link": "https://www.nytimes.com/2026/11/17/us/politics/rfk-jr-measles-democrats.html",
-      "pubDate": "2026-11-18T03:33:28.000Z",
-      "image": "https://static01.nyt.com/images/2026/11/17/multimedia/17pol-measles-reax-tzcj/17pol-measles-reax-tzcj-mediumSquareAt3X-v2.jpg",
-      "author": "Tim Balk",
-      "excerpt": "Incoming senators and prospective presidential candidates blamed the health secretary’s history of vaccine skepticism for the rise of measles in the country.",
+      "title": "Grand Theft Auto VI Review: It Will Steal Your Heart",
+      "link": "https://www.nytimes.com/2026/11/18/arts/grand-theft-auto-vi-review.html",
+      "pubDate": "2026-11-18T12:27:37.000Z",
+      "image": null,
+      "author": "Yussef Cole",
+      "excerpt": "The series matures beyond its memorable car crashes and stickups with a game about love, relationships and nurturing your partner.",
+      "source": "NYT"
+    },
+    {
+      "title": "The Real-Life City That Inspires Grand Theft Auto VI",
+      "link": "https://www.nytimes.com/2026/11/18/arts/grand-theft-auto-vi-miami-florida.html",
+      "pubDate": "2026-11-18T12:13:53.000Z",
+      "image": "https://static01.nyt.com/images/2026/11/22/multimedia/22cul-gta-florida-print-jqmt/22cul-gta-florida-print-jqmt-mediumSquareAt3X.jpg",
+      "author": "Johnny Diaz and Ysa Pérez",
+      "excerpt": "“Vice City,” where the latest installment of the video game is set, is a stand-in for Miami in all its sunny, sexy, gritty and neon glory.",
+      "source": "NYT"
+    },
+    {
+      "title": "Closing Time",
+      "link": "https://www.nytimes.com/2026/11/18/briefing/school-closures.html",
+      "pubDate": "2026-11-18T11:30:36.000Z",
+      "image": "https://static01.nyt.com/images/2026/11/18/multimedia/18themorning-schools2-vzmq/18themorning-schools2-vzmq-mediumSquareAt3X.jpg",
+      "author": "Sam Sifton",
+      "excerpt": "We look at the challenges facing schools in the United States.",
+      "source": "NYT"
+    },
+    {
+      "title": "What to Expect at Today’s DealBook Summit",
+      "link": "https://www.nytimes.com/2026/11/18/business/dealbook/dealbook-summit-lineup-vance-musk.html",
+      "pubDate": "2026-11-18T11:23:06.000Z",
+      "image": "https://static01.nyt.com/images/2026/11/18/multimedia/18db-summit-bpfg/18db-summit-bpfg-mediumSquareAt3X.jpg",
+      "author": "Andrew Ross Sorkin, Bernhard Warner, Sarah Kessler, Michael J. de la Merced, Niko Gallogly, Brian O’Keefe, Sri Muppidi and Ian Mount",
+      "excerpt": "JD Vance, Elon Musk, Christine Lagarde, Sam Altman, Greg Brockman, Zohran Mamdani, Satya Nadella and Hailey Bieber are among the big names speaking.",
+      "source": "NYT"
+    },
+    {
+      "title": "Tech Outages Rattle the U.S., and Democrats Win Alaska’s Senate Race",
+      "link": "https://www.nytimes.com/2026/11/18/podcasts/the-headlines/tech-outages-alaska-senate-race.html",
+      "pubDate": "2026-11-18T11:19:13.000Z",
+      "image": "https://static01.nyt.com/images/2026/11/18/multimedia/18theheadlines-rubio-ztpl/18theheadlines-rubio-ztpl-mediumSquareAt3X.jpg",
+      "author": "Tracy Mumford, Will Jarvis, Margaret Kadifa, Jake Lucas, Ian Stewart and Apoorva Mandavilli",
+      "excerpt": "Plus, the new video game set to bring in billions.",
+      "source": "NYT"
+    },
+    {
+      "title": "Putin Arrives in Asia With a Show of Force: Nuclear Bombers",
+      "link": "https://www.nytimes.com/2026/11/18/world/asia/putin-taiwan-japan-korea-vietnam-bombers.html",
+      "pubDate": "2026-11-18T11:08:23.000Z",
+      "image": null,
+      "author": "Paul Sonne and Damien Cave",
+      "excerpt": "Russian military planes flew through the region, prompting Japan and South Korea to scramble jets in response, and drawing complaints from Taiwan.",
+      "source": "NYT"
+    },
+    {
+      "title": "Europe Is Racing to Make Air Defenses ‘Cheaper Than What We Are Shooting Down’",
+      "link": "https://www.nytimes.com/2026/11/18/business/russia-europe-defense-tytan-leonardo.html",
+      "pubDate": "2026-11-18T10:06:50.000Z",
+      "image": "https://static01.nyt.com/images/2026/11/17/multimedia/Biz-Europe-AirDefense-01-ptbm/Biz-Europe-AirDefense-01-ptbm-mediumSquareAt3X.jpg",
+      "author": "James Paton and Felix Schmitt",
+      "excerpt": "Defense companies are facing calls to increase production, cut costs and keep pace with rapidly evolving technology as the Russian threat intensifies.",
+      "source": "NYT"
+    },
+    {
+      "title": "‘Send Iran a Clear Message That the War Is Over’: 3 Opinion Writers on How to Check Trump on Foreign Policy",
+      "link": "https://www.nytimes.com/2026/11/18/opinion/trump-iran-us-foreign-policy.html",
+      "pubDate": "2026-11-18T10:05:15.000Z",
+      "image": null,
+      "author": "Massimo Calabresi, David French, Lydia Polgreen and Stephen Stromberg",
+      "excerpt": "Presidents usually have wide latitude on foreign policy. Will the next Congress change that?",
+      "source": "NYT"
+    },
+    {
+      "title": "The Anthropic I.P.O. Will Change the Future of A.I.",
+      "link": "https://www.nytimes.com/2026/11/18/opinion/anthropic-ai-openai.html",
+      "pubDate": "2026-11-18T10:05:10.000Z",
+      "image": null,
+      "author": "Jasmine Sun",
+      "excerpt": "The A.I. company believes they are humanity’s best chance to develop safe superintelligence.",
+      "source": "NYT"
+    },
+    {
+      "title": "House Democrats Cast Wide Net as They Prepare Trump Investigations",
+      "link": "https://www.nytimes.com/2026/11/18/us/politics/democrats-cast-investigative-net.html",
+      "pubDate": "2026-11-18T10:04:14.000Z",
+      "image": "https://static01.nyt.com/images/2026/11/18/multimedia/18dc-investigate-vtkq/18dc-investigate-vtkq-mediumSquareAt3X-v3.jpg",
+      "author": "Michael Gold",
+      "excerpt": "The inquiries would focus on President Trump, his family and top officials in his administration and would include a look at Commerce Secretary Howard Lutnick and policies related to Nvidia.",
+      "source": "NYT"
+    },
+    {
+      "title": "Putin Will Continue Ukraine War Despite Plans to Meet Trump, Intelligence Says",
+      "link": "https://www.nytimes.com/2026/11/18/us/politics/trump-putin-ukraine-war.html",
+      "pubDate": "2026-11-18T10:03:56.000Z",
+      "image": "https://static01.nyt.com/images/2026/10/28/multimedia/18dc-trump-putin/28int-ukraine-pipes-grid-hp-02-mgvl-mediumSquareAt3X.jpg",
+      "author": "Edward Wong, Julian E. Barnes and Jeanna Smialek",
+      "excerpt": "President Trump plans to discuss Ukraine with the leaders of Russia and China. He has halted some sanctions on Russia and announced that the United States will buy Russian diesel.",
+      "source": "NYT"
+    },
+    {
+      "title": "American A.I. Models Have Potential to Be Turned Against U.S., Study Finds",
+      "link": "https://www.nytimes.com/2026/11/18/us/politics/audit-ai-terrorist-attack-plans.html",
+      "pubDate": "2026-11-18T10:03:50.000Z",
+      "image": "https://static01.nyt.com/images/2026/11/18/multimedia/18dc-aiterror-cblz/18dc-aiterror-cblz-mediumSquareAt3X-v2.jpg",
+      "author": "Dustin Volz",
+      "excerpt": "An investigation by the Government Accountability Office found that researchers were able to prod chatbots into generating data that could be used in planning or conducting mass-casualty attacks.",
+      "source": "NYT"
+    },
+    {
+      "title": "Trump Briefly Met an Old Friend in Manila: Imelda Marcos",
+      "link": "https://www.nytimes.com/2026/11/18/world/asia/trump-imelda-marcos.html",
+      "pubDate": "2026-11-18T09:52:56.000Z",
+      "image": "https://static01.nyt.com/images/2026/11/18/multimedia/18trump-summits-trump-imelda-zkmt/18trump-summits-trump-imelda-zkmt-mediumSquareAt3X-v2.jpg",
+      "author": "Aie Balagtas See and Francesca Regalado",
+      "excerpt": "President Trump and the former first lady of the Philippines know each other well, her son, the country’s leader, has said.",
+      "source": "NYT"
+    },
+    {
+      "title": "Trump Administration Presses Ahead in Legal Battle Over U.S. Attorneys",
+      "link": "https://www.nytimes.com/2026/11/18/us/trump-administration-presses-ahead-in-legal-battle-over-us-attorneys.html",
+      "pubDate": "2026-11-18T08:21:49.000Z",
+      "image": "https://static01.nyt.com/images/2026/11/18/multimedia/18nat-prosecutor-fqlp/18nat-prosecutor-fqlp-mediumSquareAt3X.jpg",
+      "author": "Danny Hakim",
+      "excerpt": "A judge has ruled that Bill Essayli was acting “unlawfully” as U.S. attorney in Los Angeles. He is one of three prosecutors appointed by the Trump administration through a unique process.",
+      "source": "NYT"
+    },
+    {
+      "title": "Democrats Claim 56 Senate Seats After Mary Peltola Wins in Alaska",
+      "link": "https://www.nytimes.com/2026/11/17/us/politics/alaska-senate-sullivan-peltola.html",
+      "pubDate": "2026-11-18T07:43:35.000Z",
+      "image": "https://static01.nyt.com/images/2026/11/03/multimedia/03hfo-pol-ak-senate-01-gcpq/03hfo-pol-ak-senate-01-gcpq-mediumSquareAt3X.jpg",
+      "author": "Kellen Browning",
+      "excerpt": "Mary Peltola defeated Senator Dan S. Sullivan, a two-term incumbent, to become the first Democrat to represent the conservative state in the Senate since 2015.",
+      "source": "NYT"
+    },
+    {
+      "title": "Michael Kosta Faults Trump for Shrugging Off Mass Tech Failures",
+      "link": "https://www.nytimes.com/2026/11/18/arts/television/late-night-michael-kosta-trump-technology.html",
+      "pubDate": "2026-11-18T07:01:57.000Z",
+      "image": null,
+      "author": "Trish Bendix",
+      "excerpt": "“Maybe for Trump it’s fine,” Kosta said on “The Daily Show.” “He doesn’t fly commercial, he doesn’t know how to use email, his bank is a guy from Qatar. For the rest of us though, it’s not fine.”",
+      "source": "NYT"
+    },
+    {
+      "title": "Rubio Says Cyberattacks Are Not the Cause of Recent Tech Outages",
+      "link": "https://www.nytimes.com/2026/11/17/world/asia/tech-outages-cyberattack-hack-rubio.html",
+      "pubDate": "2026-11-18T06:46:29.000Z",
+      "image": "https://static01.nyt.com/images/2026/11/18/multimedia/18int-rubio-systems-qlkb/18int-rubio-systems-qlkb-mediumSquareAt3X.jpg",
+      "author": "David E. Sanger and Edward Wong",
+      "excerpt": "Secretary of State Marco Rubio suggested the rush to patch systems, whose vulnerabilities are exposed by A.I., may explain recent failures with air traffic controls, banks and government agencies.",
+      "source": "NYT"
+    },
+    {
+      "title": "These Villagers Wonder if They’re on the Front Line of Russia’s Shadow War",
+      "link": "https://www.nytimes.com/2026/11/18/world/europe/liepzig-airport-drone-attack-russia-ukraine-war.html",
+      "pubDate": "2026-11-18T05:01:06.000Z",
+      "image": "https://static01.nyt.com/images/2026/10/30/multimedia/00int-germany-leipzig-airport-wb-qgkh/00int-germany-leipzig-airport-wb-qgkh-mediumSquareAt3X-v2.jpg",
+      "author": "Christopher F. Schuetze",
+      "excerpt": "Russia is accused of clandestine attacks on Ukraine’s allies in Europe, most notably at Leipzig/Halle airport in eastern Germany. That has changed life for villagers nearby.",
+      "source": "NYT"
+    },
+    {
+      "title": "Japan Attempts to Revive U.S. Steel",
+      "link": "https://www.nytimes.com/2026/11/18/business/us-steel-nippon-takeover-japan.html",
+      "pubDate": "2026-11-18T05:00:31.000Z",
+      "image": "https://static01.nyt.com/images/2026/11/05/multimedia/Biz-Japan-Steel_Video-still-cvbq/Biz-Japan-Steel_Video-still-cvbq-mediumSquareAt3X.jpg",
+      "author": "River Akira Davis and Ross Mantle",
+      "excerpt": "After its fraught takeover of steel maker U.S. Steel, a Japanese manufacturer is attempting to revitalize the American company’s facilities, including its oldest mill outside Pittsburgh.",
+      "source": "NYT"
+    },
+    {
+      "title": "After Days of Digital Outages, Americans Wonder if the Country Is Breaking",
+      "link": "https://www.nytimes.com/2026/11/17/us/politics/outages-flights-banks-tech.html",
+      "pubDate": "2026-11-18T04:59:05.000Z",
+      "image": "https://static01.nyt.com/images/2026/11/18/multimedia/18nat-breakdown-hmvc/18nat-breakdown-hmvc-mediumSquareAt3X.jpg",
+      "author": "Sabrina Tavernise, Georgia Gee and Madaleine Rubin",
+      "excerpt": "The digital outages that began on Thursday may not be linked, but they have left Americans with a sense that the nation is off-kilter, with no one ready to fix it.",
+      "source": "NYT"
+    },
+    {
+      "title": "Nvidia Has No Plans to Bring Back Jensen Huang",
+      "link": "https://www.nytimes.com/2026/11/17/business/nvidia-earnings-jensen-huang.html",
+      "pubDate": "2026-11-18T03:57:08.000Z",
+      "image": "https://static01.nyt.com/images/2026/11/17/multimedia/17biz-nvidia-04-vtqg/17biz-nvidia-04-vtqg-mediumSquareAt3X.jpg",
+      "author": "Tripp Mickle and Kalley Huang",
+      "excerpt": "As the former chief executive and his allies lobbied for his return, the company’s chair said the board “does not intend to reinstate Jensen as C.E.O.”",
       "source": "NYT"
     },
     {
@@ -905,165 +1085,21 @@
       "source": "NYT"
     },
     {
-      "title": "Mary Peltola Flips Alaska Senate Seat for Democrats",
-      "link": "https://www.nytimes.com/2026/11/17/us/politics/alaska-senate-sullivan-peltola.html",
-      "pubDate": "2026-11-18T03:21:38.000Z",
-      "image": "https://static01.nyt.com/images/2026/11/03/multimedia/03hfo-pol-ak-senate-01-gcpq/03hfo-pol-ak-senate-01-gcpq-mediumSquareAt3X.jpg",
-      "author": "Kellen Browning",
-      "excerpt": "Ms. Peltola defeated Senator Dan S. Sullivan, a two-term incumbent, to become the first Democrat to represent the conservative state in the Senate since 2015.",
-      "source": "NYT"
-    },
-    {
-      "title": "National Book Award Finalist May Be Ineligible for the Prize",
-      "link": "https://www.nytimes.com/2026/11/17/world/americas/national-book-award-nonfiction-elgendy-eligibility.html",
-      "pubDate": "2026-11-18T03:10:58.000Z",
-      "image": null,
-      "author": "Ronda Kaysen and Ash Wu",
-      "excerpt": "The writer Abdelrahman ElGendy was blocked from visiting the United States to attend this year’s National Book Awards ceremony. Though his memoir is a finalist for the nonfiction award, it appears not to qualify.",
-      "source": "NYT"
-    },
-    {
       "title": "Will a Spy Scandal, Trade Friction and a Surprise Guest Ruin Xi’s Big Moment?",
       "link": "https://www.nytimes.com/2026/11/17/world/asia/xi-apec.html",
-      "pubDate": "2026-11-18T02:11:26.000Z",
+      "pubDate": "2026-11-18T02:11:27.000Z",
       "image": "https://static01.nyt.com/images/2026/11/18/multimedia/18int-china-xi-apec-01-hbcz/18int-china-xi-apec-01-hbcz-mediumSquareAt3X.jpg",
       "author": "David Pierson",
       "excerpt": "The leader wants the APEC summit to showcase China’s strengths, but he faces export worries and an unpredictable Trump, who has floated meeting Kim Jong-un.",
       "source": "NYT"
     },
     {
-      "title": "Trump’s Ego Trip With Xi and Putin Will End Badly",
-      "link": "https://www.nytimes.com/2026/11/17/opinion/trump-xi-putin-summit.html",
-      "pubDate": "2026-11-18T01:53:29.000Z",
-      "image": "https://static01.nyt.com/images/2026/11/18/opinion/17campbell-image/17campbell-image-mediumSquareAt3X.jpg",
-      "author": "Kurt Campbell",
-      "excerpt": "Nothing good can come from sucking up to authoritarians.",
-      "source": "NYT"
-    },
-    {
-      "title": "After Days of Digital Outages, Americans Wonder if the Country Is Breaking",
-      "link": "https://www.nytimes.com/2026/11/17/us/politics/outages-flights-banks-tech.html",
-      "pubDate": "2026-11-18T01:36:41.000Z",
-      "image": "https://static01.nyt.com/images/2026/11/18/multimedia/18nat-breakdown-hmvc/18nat-breakdown-hmvc-mediumSquareAt3X.jpg",
-      "author": "Sabrina Tavernise, Georgia Gee and Madaleine Rubin",
-      "excerpt": "The digital outages that began on Thursday may not be linked, but they have left Americans with a sense that the nation is off-kilter, with no one ready to fix it.",
-      "source": "NYT"
-    },
-    {
-      "title": "Nvidia Has No Plans to Bring Back Jensen Huang",
-      "link": "https://www.nytimes.com/2026/11/17/business/nvidia-earnings-jensen-huang.html",
-      "pubDate": "2026-11-18T00:47:02.000Z",
-      "image": "https://static01.nyt.com/images/2026/11/17/multimedia/17biz-nvidia-04-vtqg/17biz-nvidia-04-vtqg-mediumSquareAt3X.jpg",
-      "author": "Tripp Mickle and Kalley Huang",
-      "excerpt": "As the former chief executive and his allies lobbied for his return, the company’s chair said the board “does not intend to reinstate Jensen as C.E.O.”",
-      "source": "NYT"
-    },
-    {
-      "title": "Kevin Bleyer, Writer Behind Obama’s Speech Roasting Trump, Has Died at 54",
-      "link": "https://www.nytimes.com/2026/11/17/obituaries/kevin-bleyer-dead.html",
-      "pubDate": "2026-11-18T00:35:22.000Z",
-      "image": null,
-      "author": "Trip Gabriel",
-      "excerpt": "The Emmy Award-winning writer worked with Jon Stewart, Bill Maher and Barack Obama, and may just have helped motivate Donald Trump to run for office.",
-      "source": "NYT"
-    },
-    {
-      "title": "A.I. Helps Find Major Security Bug in Java, a Software Platform Vital to the Internet",
-      "link": "https://www.nytimes.com/2026/11/17/us/politics/ai-security-bug-java.html",
-      "pubDate": "2026-11-18T00:06:20.000Z",
-      "image": "https://static01.nyt.com/images/2026/11/17/multimedia/17dc-aibug-zfmc/17dc-aibug-zfmc-mediumSquareAt3X.jpg",
-      "author": "Dustin Volz and Dylan Freedman",
-      "excerpt": "The discovery by security company Calif shows A.I.’s ability to find gaping security holes in popular software. The Java flaw pointed to vulnerabilities in systems used by nearly all Fortune 500 companies.",
-      "source": "NYT"
-    },
-    {
-      "title": "Measles Is Officially Back",
-      "link": "https://www.nytimes.com/2026/11/17/briefing/us-measles-surge-nvidia-profit.html",
-      "pubDate": "2026-11-17T23:58:23.000Z",
-      "image": "https://static01.nyt.com/images/2026/11/17/multimedia/17evening-nl-WELL-ELIMINATION-STATUS-MEASLES-mkpz/17evening-nl-WELL-ELIMINATION-STATUS-MEASLES-mkpz-mediumSquareAt3X.jpg",
-      "author": "Matthew Cullen",
-      "excerpt": "Also, public schools are closing as enrollment drops. Here’s the latest at the end of Tuesday.",
-      "source": "NYT"
-    },
-    {
-      "title": "26 More Measles Cases in New York, but Outbreak Appears to Be Easing",
-      "link": "https://www.nytimes.com/2026/11/17/nyregion/new-york-state-measles-outbreak.html",
-      "pubDate": "2026-11-17T23:51:50.000Z",
-      "image": "https://static01.nyt.com/images/2026/11/17/multimedia/17met-measles-nys-bwfc/17met-measles-nys-bwfc-mediumSquareAt3X.jpg",
-      "author": "Joseph Goldstein",
-      "excerpt": "The state has recorded over 270 cases this year, the most since a major outbreak of the illness in 2018 and 2019. More than two dozen cases were recorded this past week.",
-      "source": "NYT"
-    },
-    {
       "title": "Markwayne Mullin Defends Flight to L.S.U.-Texas Game After Ground Stop",
       "link": "https://www.nytimes.com/2026/11/17/us/politics/mullin-lsu-football-plane.html",
-      "pubDate": "2026-11-17T23:38:01.000Z",
+      "pubDate": "2026-11-17T23:38:02.000Z",
       "image": "https://static01.nyt.com/images/2026/11/17/multimedia/17DC-MULLINS-FLIGHT-qhtv/17DC-MULLINS-FLIGHT-qhtv-mediumSquareAt3X.jpg",
       "author": "Madeleine Ngo",
       "excerpt": "“We still gotta live our lives,” said the homeland security secretary, who is required to use government planes for personal travel. His department said he paid.",
-      "source": "NYT"
-    },
-    {
-      "title": "Another Storm Is Bearing Down on California",
-      "link": "https://www.nytimes.com/2026/11/17/weather/california-storms-sf-waves.html",
-      "pubDate": "2026-11-17T23:31:43.000Z",
-      "image": "https://static01.nyt.com/images/2026/11/18/multimedia/18wea-CAstorms-qfjm/18wea-CAstorms-qfjm-mediumSquareAt3X.jpg",
-      "author": "Amy Graff",
-      "excerpt": "This week will bring wind gusts up to 70 miles per hour, buckets of rain and some of the first heavy snow of the season, forecasters said.",
-      "source": "NYT"
-    },
-    {
-      "title": "Hakeem Jeffries Embraces Medicare Expansion on Eve of Speaker Vote",
-      "link": "https://www.nytimes.com/2026/11/17/us/politics/jeffries-medicare-expansion.html",
-      "pubDate": "2026-11-17T23:25:32.000Z",
-      "image": "https://static01.nyt.com/images/2026/11/17/multimedia/17dc-jeffries-medicare-fzkj/17dc-jeffries-medicare-fzkj-mediumSquareAt3X.jpg",
-      "author": "Annie Karni",
-      "excerpt": "The top House Democrat endorsed lowering the eligibility age, covering all children and adding vision, hearing and dental services, proposals seen as precursors to Medicare for All.",
-      "source": "NYT"
-    },
-    {
-      "title": "For Democrats, a Leadership Fight Is Marring an Electoral Triumph",
-      "link": "https://www.nytimes.com/2026/11/17/us/politics/democrats-leadership-battle-schumer-van-hollen.html",
-      "pubDate": "2026-11-17T23:23:41.000Z",
-      "image": "https://static01.nyt.com/images/2026/11/17/multimedia/17dc-democrts-mcgj/17dc-democrts-mcgj-mediumSquareAt3X.jpg",
-      "author": "Michael Gold and Carl Hulse",
-      "excerpt": "The contest between Senators Chuck Schumer and Chris Van Hollen to be majority leader is sowing party divisions and putting them on public display.",
-      "source": "NYT"
-    },
-    {
-      "title": "Apple Addresses Outages Affecting Apple Pay, iCloud and Apps",
-      "link": "https://www.nytimes.com/2026/11/17/technology/apple-down-outage-issues.html",
-      "pubDate": "2026-11-17T23:17:38.000Z",
-      "image": "https://static01.nyt.com/images/2026/07/29/multimedia/17xp-apple/17xp-apple-mediumSquareAt3X.jpg",
-      "author": "Amanda Holpuch",
-      "excerpt": "The disruption followed days of unrelated problems in the past week that interrupted air travel and work at offices, schools and government.",
-      "source": "NYT"
-    },
-    {
-      "title": "Iran Is Emboldened After Trump and GOP’s Election Losses, Officials Say",
-      "link": "https://www.nytimes.com/2026/11/17/us/politics/iran-trump-midterms.html",
-      "pubDate": "2026-11-17T23:11:02.000Z",
-      "image": "https://static01.nyt.com/images/2026/11/17/multimedia/17dc-iran-intel-mbjf/17dc-iran-intel-mbjf-mediumSquareAt3X.jpg",
-      "author": "Julian E. Barnes, Dustin Volz and Farnaz Fassihi",
-      "excerpt": "Iran’s negotiating position has hardened since the midterms, U.S. and other Western officials say. An American lawmaker warned that Iran felt “strategically empowered.”",
-      "source": "NYT"
-    },
-    {
-      "title": "Shock and Dread in the Gulf",
-      "link": "https://www.nytimes.com/2026/11/17/opinion/gulf-iran-israel-war.html",
-      "pubDate": "2026-11-17T22:00:06.000Z",
-      "image": "https://static01.nyt.com/images/2026/11/17/multimedia/17friedman-vmzk/17friedman-vmzk-mediumSquareAt3X.jpg",
-      "author": "Thomas L. Friedman",
-      "excerpt": "Gulf countries talk about the consequences of a war against Iran not of their making.",
-      "source": "NYT"
-    },
-    {
-      "title": "Matan Kahana Elected Speaker of Israel’s Parliament",
-      "link": "https://www.nytimes.com/2026/11/17/world/middleeast/israel-opposition-selects-parliamentary-speaker.html",
-      "pubDate": "2026-11-17T21:54:22.000Z",
-      "image": "https://static01.nyt.com/images/2026/11/17/multimedia/17Israel-Knesset-vzcg/17Israel-Knesset-vzcg-mediumSquareAt3X.jpg",
-      "author": "David M. Halbfinger",
-      "excerpt": "Matan Kahana, a lawmaker from Gadi Eisenkot’s party, will take control of the legislative process as the opposition looks to press Prime Minister Benjamin Netanyahu on multiple fronts.",
       "source": "NYT"
     },
     {
@@ -1076,21 +1112,12 @@
       "source": "NYT"
     },
     {
-      "title": "U.S. Loses Its Measles Elimination Status, a Historic Setback for American Health",
-      "link": "https://www.nytimes.com/2026/11/17/well/us-measles-elimination-status.html",
-      "pubDate": "2026-11-17T20:52:05.000Z",
-      "image": "https://static01.nyt.com/images/2026/11/17/arts/Measles_Vaccines_35784/Measles_Vaccines_35784-mediumSquareAt3X.jpg",
-      "author": "Teddy Rosenbluth",
-      "excerpt": "The nation was once regarded as a global leader for reining in the highly contagious virus. Now, large outbreaks that sicken thousands could become routine.",
-      "source": "NYT"
-    },
-    {
-      "title": "Hegseth Nominates His Former Aide to Lead the Army",
-      "link": "https://www.nytimes.com/2026/11/17/us/hegseth-christopher-laneve-army-chief-of-staff.html",
-      "pubDate": "2026-11-17T18:38:03.000Z",
-      "image": "https://static01.nyt.com/images/2026/11/17/multimedia/17dc-hegseth-nomination-kwhl/17dc-hegseth-nomination-kwhl-mediumSquareAt3X.jpg",
-      "author": "Greg Jaffe, Adam Entous and Eric Schmitt",
-      "excerpt": "After months of delay, Defense Secretary Pete Hegseth and the White House have sent Gen. Christopher LaNeve’s nomination for Army chief of staff to the Senate.",
+      "title": "How the Measles Virus Makes Your Immune System Forget",
+      "link": "https://www.nytimes.com/2026/11/17/science/measles-virus-immune-system.html",
+      "pubDate": "2026-11-17T19:22:44.000Z",
+      "image": null,
+      "author": "David Quammen",
+      "excerpt": "The United States has lost its measles-elimination status, signaling the return of a virus that can cause lasting health consequences.",
       "source": "NYT"
     },
     {
@@ -1103,21 +1130,12 @@
       "source": "NYT"
     },
     {
-      "title": "Does This Man Have a Right to the Data From His Own Brain?",
-      "link": "https://www.nytimes.com/2026/11/17/business/brain-data-access-rights-buckwalter.html",
-      "pubDate": "2026-11-17T14:33:13.000Z",
-      "image": "https://static01.nyt.com/images/2026/11/13/multimedia/00buckwalter-02-mzvg/00buckwalter-02-mzvg-mediumSquareAt3X.jpg",
-      "author": "Vivian Wang and Gabriella Angotti-Jones",
-      "excerpt": "J. Galen Buckwalter cheerfully agreed to provide his neural data for a research study. But when he asked for a copy, things got complicated.",
-      "source": "NYT"
-    },
-    {
-      "title": "A Visual Tour of President Trump’s Visits to Asia",
-      "link": "https://www.nytimes.com/2026/11/17/world/asia/president-trump-visits-asia.html",
-      "pubDate": "2026-11-17T14:26:17.000Z",
-      "image": "https://static01.nyt.com/images/2026/11/17/multimedia/17int-trump-asia-visual-stack-01-lkgb/17int-trump-asia-visual-stack-01-lkgb-mediumSquareAt3X.jpg",
-      "author": "The New York Times",
-      "excerpt": "President Trump landed in the Philippines on the first stop of a 48-hour Asia trip during which he is expected to meet with leaders including the presidents of Russia and China.",
+      "title": "Thanksgiving Desserts 2026: Cake, Pie and More Ideas Guaranteed to Steal the Show",
+      "link": "https://cooking.nytimes.com/article/2026-thanksgiving-desserts-pie-cake-flan",
+      "pubDate": "2026-11-03T18:42:18.000Z",
+      "image": "https://static01.nyt.com/images/2026/11/18/multimedia/02FD-THANKSGIVING-DESSERTS-Promo-qjpc/02FD-THANKSGIVING-DESSERTS-Promo-qjpc-mediumSquareAt3X.jpg",
+      "author": "Genevieve Ko",
+      "excerpt": "This year, think outside the pie. Consider making a sticky miso-apple spiral, voluminous chocolate mousse with whipped cream, silky buttered corn flan and more.",
       "source": "NYT"
     }
   ]
