@@ -1,6 +1,42 @@
 {
   "spaceNews": [
     {
+      "title": "What satellites leave behind",
+      "link": "https://www.astronomy.com/science/what-satellites-leave-behind/",
+      "pubDate": "2026-11-19T20:56:19.000Z",
+      "image": null,
+      "author": "Brooks Mendenhall",
+      "excerpt": "Metals from reentering objects are accumulating in the stratosphere in what amounts to an uncontrolled geoengineering experiment. The post What satellites leave behind appeared first on Astronomy Magazine.",
+      "source": "Astronomy Magazine"
+    },
+    {
+      "title": "Hear stars being born in Chandra’s new sonifications",
+      "link": "https://www.astronomy.com/science/hear-stars-being-born-in-chandras-new-sonifications/",
+      "pubDate": "2026-11-19T18:59:22.000Z",
+      "image": null,
+      "author": "Brooks Mendenhall",
+      "excerpt": "Every image of the cosmos is a translation of data. The X-rays collected by NASA’s Chandra X-ray Observatory and the infrared light gathered by the James Webb Space Telescope (JWST) are invisible to our eyes, so astronomers assign them colors we can see. Even optical observations, from Hubble to backyard astrophotograp",
+      "source": "Astronomy Magazine"
+    },
+    {
+      "title": "The sweet spot for constellation size",
+      "link": "https://spacenews.com/the-sweet-spot-for-constellation-size/",
+      "pubDate": "2026-11-19T17:25:17.000Z",
+      "image": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/11/jan-smolders-2-scaled.jpg?fit=1024%2C768&amp;ssl=1",
+      "author": "SpaceNews Editor",
+      "excerpt": "In this episode of Space Minds, SpaceNews’ Mike Gruss speaks with Jan Smolders, the chief commercial officer at Space Inventor. During a conversation at Space Tech Expo Europe, they discuss […] The post The sweet spot for constellation size appeared first on SpaceNews.",
+      "source": "SpaceNews"
+    },
+    {
+      "title": "Making the case for optical",
+      "link": "https://spacenews.com/making-the-case-for-optical/",
+      "pubDate": "2026-11-19T15:38:18.000Z",
+      "image": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/11/2000-1500-spacenews-space-tech-expo-europe-morizur-scaled.jpg?fit=1024%2C768&amp;ssl=1",
+      "author": "SpaceNews Editor",
+      "excerpt": "In this episode of Space Minds, SpaceNews’ Mike Gruss speaks with Jean-François Morizur, the co-founder and CEO of Cailabs, at Space Tech Expo Europe. Morizur discusses the misconceptions with laser […] The post Making the case for optical appeared first on SpaceNews.",
+      "source": "SpaceNews"
+    },
+    {
       "title": "HEO Unveils Insights Next SDA Tool",
       "link": "https://payloadspace.com/heo-unveils-insights-next-sda-tool/",
       "pubDate": "2026-11-19T11:53:58.000Z",
@@ -559,15 +595,6 @@
       "source": "SpaceNews"
     },
     {
-      "title": "After LINK mission failure, Swift reenters atmosphere",
-      "link": "https://www.astronomy.com/science/link-to-meet-with-swift-but-wont-boost/",
-      "pubDate": "2026-11-09T18:58:46.000Z",
-      "image": null,
-      "author": "Brooks Mendenhall",
-      "excerpt": "Editor’s note: This story was originally published Aug. 24, 2026. Swift reentered Earth’s atmosphere Nov. 4, 2026, ending its nearly 22-year mission. See the most recent updates at the end of this story. NASA announced Aug. 19 that the Katalyst Space LINK spacecraft built to boost the aging Neil Gehrels Swift Observato",
-      "source": "Astronomy Magazine"
-    },
-    {
       "title": "Space Force leaders advance shared commitments for allied space power at Global MILSATCOM ",
       "link": "https://www.spaceforce.mil/News/Article-Display/Article/4644592/space-force-leaders-advance-shared-commitments-for-allied-space-power-at-global/",
       "pubDate": "2026-11-09T15:25:00.000Z",
@@ -575,15 +602,6 @@
       "author": "Pentagon News",
       "excerpt": "Conference discussions centered on expanding partnerships, co-investing in resilient satellite communications architectures and establishing pre-crisis agreements to strengthen deterrence and spectrum dominance.",
       "source": "Space Force"
-    },
-    {
-      "title": "Mysterious gas on Mars suggests magma below",
-      "link": "https://www.astronomy.com/science/mysterious-gas-on-mars-suggests-magma-below/",
-      "pubDate": "2026-11-09T15:15:08.000Z",
-      "image": null,
-      "author": "Brooks Mendenhall",
-      "excerpt": "Something is leaking from the ground near one of Mars’ largest volcanoes, and scientists think it’s a sign that active magma is buried below. In a study published Nov. 4 in Science Advances, researchers report detections of hydrogen chloride (HCl) gas within 6 miles (10 kilometers) of the planet’s surface near the volc",
-      "source": "Astronomy Magazine"
     },
     {
       "title": "CCIA Report Highlights Satellite Connectivity’s Potential to Expand Internet Access and Drive Economic Growth",
@@ -649,15 +667,6 @@
       "source": "Spaceflight Now"
     },
     {
-      "title": "CesiumAstro Secures $730 Million in Janus Henderson-Led Series D at a Valuation Above $4.5 Billion; Unveils Synchronicity Satellite Constellation Following Fully Successful Element-1 Mission",
-      "link": "https://spacenews.com/cesiumastro-secures-730-million-in-janus-henderson-led-series-d-at-a-valuation-above-4-5-billion-unveils-synchronicity-satellite-constellation-following-fully-successful-element-1-mission/",
-      "pubDate": "2026-11-05T21:45:00.000Z",
-      "image": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/11/cesiumastro-logo-square.png?fit=1024%2C976&amp;ssl=1",
-      "author": "CesiumAstro",
-      "excerpt": "CesiumAstro Inc., a global leader in space and defense communications systems and satellites, today announced the closing of $730 million in Series D financing, valuing the company at more than […] The post CesiumAstro Secures $730 Million in Janus Henderson-Led Series D at a Valuation Above $4.5 Billion; Unveils Synch",
-      "source": "SpaceNews"
-    },
-    {
       "title": "DAF unveils enterprise blueprint to field operational SI across 15 mission domains",
       "link": "https://www.spaceforce.mil/News/Article-Display/Article/4642457/daf-unveils-enterprise-blueprint-to-field-operational-si-across-15-mission-doma/",
       "pubDate": "2026-11-05T17:16:00.000Z",
@@ -665,24 +674,6 @@
       "author": "Capt. Tyler Whiting",
       "excerpt": "Department of the Air Force leaders outlined a new modernization strategy during the Military Flight Training USA Summit to transition super intelligence from experimental testing into operational use across 15 mission domains.",
       "source": "Space Force"
-    },
-    {
-      "title": "Cork Takes the Heat So DRACO’s Data Can Survive",
-      "link": "https://spacenews.com/cork-takes-the-heat-so-dracos-data-can-survive/",
-      "pubDate": "2026-11-05T17:05:59.000Z",
-      "image": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/11/2019-99-Amorim-Logos-UN-Vertical-Cork-Solutions-Green-scaled.png?fit=1024%2C500&amp;ssl=1",
-      "author": "Amorim Cork Solutions",
-      "excerpt": "Mozelos, Portugal, September 2, 2026 – Amorim Cork Solutions is contributing its P50 cork-based thermal protection material to DRACO, a European Space Agency (ESA) mission designed to capture rare in-flight […] The post Cork Takes the Heat So DRACO’s Data Can Survive appeared first on SpaceNews.",
-      "source": "SpaceNews"
-    },
-    {
-      "title": "Building a ‘highway to the moon and back’ with Winnie Lai",
-      "link": "https://spacenews.com/building-a-highway-to-the-moon-and-back-with-winnie-lai/",
-      "pubDate": "2026-11-05T14:15:38.000Z",
-      "image": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/11/space-minds-podcast-auriga-2000-1500.jpg?fit=1024%2C768&amp;ssl=1",
-      "author": "SpaceNews Editor",
-      "excerpt": "In this episode, SpaceNews’ Mike Gruss speaks with Winnie Lai, CEO of Auriga Space. They talk about how electromagnetic launch technology that “catapults” small launch vehicles could cut down on […] The post Building a ‘highway to the moon and back’ with Winnie Lai appeared first on SpaceNews.",
-      "source": "SpaceNews"
     },
     {
       "title": "DAF announces Spark Tank 2026 Top 5",
@@ -905,228 +896,228 @@
   ],
   "nytNews": [
     {
-      "title": "How the War in Iran Will Remake the Global Energy Order",
-      "link": "https://www.nytimes.com/2026/11/19/business/cop31-energy-iea.html",
-      "pubDate": "2026-11-19T12:51:17.000Z",
-      "image": "https://static01.nyt.com/images/2026/11/19/multimedia/19biz-iea-energy-01-mgtf/19biz-iea-energy-01-mgtf-mediumSquareAt3X.jpg",
-      "author": "Lisa Friedman",
-      "excerpt": "The International Energy Agency, in its most comprehensive analysis of the war’s fallout, found the oil shock could accelerate adoption of alternative power sources.",
+      "title": "Myanmar Genocide Ruling Sets Up Court Fight Over Israel and Gaza",
+      "link": "https://www.nytimes.com/2026/11/19/world/asia/icj-myanmar-gaza.html",
+      "pubDate": "2026-11-19T21:17:12.000Z",
+      "image": "https://static01.nyt.com/images/2026/11/19/multimedia/19int-icj-gaza--qhlj/19int-icj-gaza--qhlj-mediumSquareAt3X.jpg",
+      "author": "Aaron Boxerman",
+      "excerpt": "The ruling by the International Court of Justice deals with issues relevant to the case brought against Israel alleging genocide in Gaza. Israel has rejected the charge.",
       "source": "NYT"
     },
     {
-      "title": "A Village Burned, Its People Killed or Exiled. A Court Ruled It Was Genocide.",
-      "link": "https://www.nytimes.com/2026/11/19/world/asia/myanmar-rohingya-village-refugee-genocide.html",
-      "pubDate": "2026-11-19T12:23:29.000Z",
-      "image": "https://static01.nyt.com/images/2026/11/19/multimedia/19int-rohingya-camps-01-kjtp/19int-rohingya-camps-01-kjtp-mediumSquareAt3X.jpg",
-      "author": "Hannah Beech and Lam Yik Fei",
-      "excerpt": "Zammona’s erasure was part of a wider campaign of violence against Rohingya Muslims. An international court found that Myanmar was culpable for the atrocities.",
+      "title": "Fiona the Hippo, Whose Stardom Extended Well Beyond Cincinnati, Has Died",
+      "link": "https://www.nytimes.com/2026/11/19/us/fiona-hippo-dead-cincinnati-zoo.html",
+      "pubDate": "2026-11-19T21:01:27.000Z",
+      "image": "https://static01.nyt.com/images/2026/11/19/multimedia/19xp-fiona-khzg/19xp-fiona-khzg-mediumSquareAt3X.jpg",
+      "author": "Remy Tumin",
+      "excerpt": "The beloved Nile hippopotamus became ill after eating a children’s hat that accidentally ended up in her enclosure.",
       "source": "NYT"
     },
     {
-      "title": "Boston’s Beloved Citgo Sign Returns After Rebuild, 30 Feet Higher",
-      "link": "https://www.nytimes.com/2026/11/19/us/boston-citgo-sign-fenway-park.html",
-      "pubDate": "2026-11-19T12:21:58.000Z",
-      "image": "https://static01.nyt.com/images/2026/11/19/multimedia/19nat-citgo-sign-tmkv/19nat-citgo-sign-tmkv-mediumSquareAt3X.jpg",
-      "author": "Jenna Russell",
-      "excerpt": "The beloved landmark will be lit again on Thursday night after it was rebuilt and moved 120 feet to the east, its latest incarnation in a city transformed by development.",
+      "title": "They’re Prepping for a World Where the Internet Doesn’t Work",
+      "link": "https://www.nytimes.com/2026/11/19/style/outages-doomsday-prep-emergency.html",
+      "pubDate": "2026-11-19T20:29:53.000Z",
+      "image": "https://static01.nyt.com/images/2026/11/18/multimedia/ST-PREPPERS-01-wkqv/ST-PREPPERS-01-wkqv-mediumSquareAt3X.jpg",
+      "author": "Jesse McKinley",
+      "excerpt": "“DoorDash is not an emergency plan.”",
       "source": "NYT"
     },
     {
-      "title": "At Gloria Steinem Memorial, Michelle Obama, Hillary Clinton and More Big Names Gather",
-      "link": "https://www.nytimes.com/2026/11/18/style/gloria-steinem-memorial-photos.html",
-      "pubDate": "2026-11-19T12:20:02.000Z",
-      "image": "https://static01.nyt.com/images/2026/11/18/multimedia/18ST-STEINEM-SCENE-top-kzhj/18ST-STEINEM-SCENE-top-kzhj-mediumSquareAt3X-v3.jpg",
-      "author": "Alisha Haridasani Gupta and Callie Holtermann",
-      "excerpt": "Former Secretary of State Hillary Clinton and other luminaries spoke at the event, which also featured performances by Cynthia Erivo and Kathy Sledge.",
+      "title": "Senate Republicans Block Bid to Rein in Trump on Iran War",
+      "link": "https://www.nytimes.com/2026/11/19/us/politics/senate-iran-war-powers-trump.html",
+      "pubDate": "2026-11-19T20:19:12.000Z",
+      "image": "https://static01.nyt.com/images/2026/11/19/multimedia/19dc-warpowers-tkfq/19dc-warpowers-tkfq-mediumSquareAt3X.jpg",
+      "author": "Robert Jimison",
+      "excerpt": "In the first vote on the conflict since the midterm elections, most in the G.O.P. banded together against placing any limits on a conflict that voters repudiated at the polls.",
       "source": "NYT"
     },
     {
-      "title": "China Bars Bloomberg Reporter From Trilateral Talks for Asking a Question",
-      "link": "https://www.nytimes.com/2026/11/19/world/asia/trump-summit-china-media-bloomberg-reporter-nvidia.html",
-      "pubDate": "2026-11-19T12:08:19.000Z",
-      "image": "https://static01.nyt.com/images/2026/11/19/multimedia/19trump-summits-media-01-tqhf/19trump-summits-media-01-tqhf-mediumSquareAt3X.jpg",
-      "author": "Lily Kuo and Katie Rogers",
-      "excerpt": "The exclusion of the reporter after she shouted a question to President Trump is an example of how tightly China tries to stage-manage events.",
-      "source": "NYT"
-    },
-    {
-      "title": "The Biggest Video Game Ever",
-      "link": "https://www.nytimes.com/2026/11/19/briefing/grand-theft-auto-vi.html",
-      "pubDate": "2026-11-19T11:56:30.000Z",
-      "image": null,
-      "author": "Sam Sifton",
-      "excerpt": "We look at the release of Grand Theft Auto VI.",
-      "source": "NYT"
-    },
-    {
-      "title": "In Bending to Trump, Law Firm Did $11.8 Million of Free Work for Administration",
-      "link": "https://www.nytimes.com/2026/11/19/us/politics/kirkland-ellis-law-firm-trump.html",
-      "pubDate": "2026-11-19T11:46:56.000Z",
-      "image": "https://static01.nyt.com/images/2026/11/19/multimedia/19dc-lawfirms-zvkt/19dc-lawfirms-zvkt-mediumSquareAt3X.jpg",
-      "author": "Michael S. Schmidt",
-      "excerpt": "The firm Kirkland & Ellis has quietly disclosed that as part of the deal it reached with the Trump administration, it has done about 6,491 hours of free work.",
-      "source": "NYT"
-    },
-    {
-      "title": "Iran Keeps Up Unrelenting Attacks on Ships in the Strait of Hormuz",
-      "link": "https://www.nytimes.com/2026/11/19/business/iran-tanker-attack-strait-of-hormuz.html",
-      "pubDate": "2026-11-19T11:45:10.000Z",
-      "image": "https://static01.nyt.com/images/2026/11/19/multimedia/19Biz-Iran-Attacks-phjw/19Biz-Iran-Attacks-phjw-mediumSquareAt3X.jpg",
-      "author": "Jenny Gross",
-      "excerpt": "A recent strike on a ship that had already been disabled might signal a dangerous new phase for tankers operating in the Persian Gulf and surrounding waters.",
-      "source": "NYT"
-    },
-    {
-      "title": "How Trump Betrayed His Base",
-      "link": "https://www.nytimes.com/2026/11/19/opinion/interesting-times-podcast-kmele-foster-saagar-enjeti.html",
-      "pubDate": "2026-11-19T11:39:21.000Z",
-      "image": "https://static01.nyt.com/images/2026/11/19/opinion/19itpod-enjeti-image/19itpod-enjeti-image-mediumSquareAt3X.jpg",
-      "author": "Kmele Foster and Raina Raskin",
-      "excerpt": "What remains of MAGA?",
-      "source": "NYT"
-    },
-    {
-      "title": "Anthropic’s Trillion-Dollar Debut Is Watershed Moment for A.I.’s Risks and Rewards",
-      "link": "https://www.nytimes.com/2026/11/19/business/anthropic-ipo-washington.html",
-      "pubDate": "2026-11-19T11:27:37.000Z",
-      "image": "https://static01.nyt.com/images/2026/11/19/multimedia/19dc-anthropic-policy-01-vzgq/19dc-anthropic-policy-01-vzgq-mediumSquareAt3X.jpg",
-      "author": "Tony Romm",
-      "excerpt": "As the technology surges ahead, policymakers in Washington have struggled to prepare for potential disruption to workers, businesses and the rest of the economy.",
-      "source": "NYT"
-    },
-    {
-      "title": "Trump Greets Putin as ‘My Friend,’ and the Rise of GLP-1s for Children",
-      "link": "https://www.nytimes.com/2026/11/19/podcasts/the-headlines/trump-putin-glp-1s-for-children.html",
-      "pubDate": "2026-11-19T11:00:07.000Z",
-      "image": "https://static01.nyt.com/images/2026/11/19/multimedia/19theheadlines-PT-01-jmgb/19theheadlines-PT-01-jmgb-mediumSquareAt3X.jpg",
-      "author": "Tracy Mumford, Will Jarvis, Margaret Kadifa, Jake Lucas, Ian Stewart, Paul Sonne and Dani Blum",
-      "excerpt": "Plus, an extreme campaign to stop students from cheating.",
-      "source": "NYT"
-    },
-    {
-      "title": "This Isn’t the Cyberapocalypse, but It Isn’t Great",
-      "link": "https://www.nytimes.com/2026/11/19/opinion/tech-outages-cybersecurity.html",
-      "pubDate": "2026-11-19T10:56:04.000Z",
-      "image": "https://static01.nyt.com/images/2026/11/19/opinion/19goldstein/19goldstein-mediumSquareAt3X.png",
-      "author": "Brett J. Goldstein",
-      "excerpt": "A cybersecurity expert isn’t sold on the theory that there is a connection between the many recent digital failures and crashes.",
+      "title": "Army Warns Iowa of Toxic Cloud as It Prepares to Blow Up Old Ammo",
+      "link": "https://www.nytimes.com/2026/11/19/climate/iowa-ammunition-explosion-lead-dust.html",
+      "pubDate": "2026-11-19T19:43:30.000Z",
+      "image": "https://static01.nyt.com/images/2026/11/18/multimedia/00CLI-LEAD-EXPLOSION-vfpg/00CLI-LEAD-EXPLOSION-vfpg-mediumSquareAt3X.jpg",
+      "author": "Quinn Glabicki and Hiroko Tabuchi",
+      "excerpt": "Friday’s explosion will dispose of unstable material used in detonators. A plume of dangerous lead dust could travel up to 60 miles, according to the latest Army estimate.",
       "source": "NYT"
     },
     {
       "title": "Dustin Moskovitz, an Early Anthropic Investor, Feels a Bit Uneasy About the IPO",
       "link": "https://www.nytimes.com/2026/11/19/business/anthropic-ipo-dustin-moskovitz.html",
-      "pubDate": "2026-11-19T10:03:03.000Z",
+      "pubDate": "2026-11-19T19:30:24.000Z",
       "image": "https://static01.nyt.com/images/2026/11/20/business/00anthropic-MOSKOVITZ/00anthropic-MOSKOVITZ-mediumSquareAt3X.jpg",
       "author": "Theodore Schleifer and Cory Weinberg",
       "excerpt": "An early investment that Facebook co-founder Dustin Moskovitz made in Anthropic is paying off. But it’s not making him happy.",
       "source": "NYT"
     },
     {
-      "title": "Three MAGA Women Who Defined an Era in Congress Are Exiting",
-      "link": "https://www.nytimes.com/2026/11/19/us/politics/three-maga-women-who-defined-an-era-in-congress-are-exiting.html",
-      "pubDate": "2026-11-19T10:02:53.000Z",
-      "image": "https://static01.nyt.com/images/2026/11/18/multimedia/18dc-cong-meangirls-01-hjkl/18dc-cong-meangirls-01-hjkl-mediumSquareAt3X.jpg",
-      "author": "Annie Karni",
-      "excerpt": "Representatives Marjorie Taylor Greene, Lauren Boebert and Nancy Mace embodied a combative, attention-seeking brand of politics that defined the Republican Congress.",
+      "title": "Trump Flaunts Camaraderie With Xi and Putin but Has Little to Show for It",
+      "link": "https://www.nytimes.com/2026/11/19/world/asia/trump-xi-putin.html",
+      "pubDate": "2026-11-19T19:07:18.000Z",
+      "image": "https://static01.nyt.com/images/2026/11/19/multimedia/19trump-summits-ledeall-01-cvbz/19trump-summits-ledeall-01-cvbz-mediumSquareAt3X.jpg",
+      "author": "Katie Rogers and David E. Sanger",
+      "excerpt": "President Trump called Russia’s leader his “friend” and marveled at China’s warm welcome for his first-ever trilateral summit. But there were no breakthroughs on nuclear control, the war in Ukraine or A.I.",
       "source": "NYT"
     },
     {
-      "title": "Ella Langley Sweeps and Taylor Swift Returns at the 2026 CMA Awards",
-      "link": "https://www.nytimes.com/2026/11/19/arts/music/ella-langley-taylor-swift-cma-awards.html",
-      "pubDate": "2026-11-19T10:02:12.000Z",
-      "image": "https://static01.nyt.com/images/2026/11/19/multimedia/19cul-cma-awards-wzqf/19cul-cma-awards-wzqf-mediumSquareAt3X.jpg",
-      "author": "Jon Pareles and Emily Cochrane",
-      "excerpt": "The “Choosin’ Texas” singer made history and five more key moments from the ceremony.",
+      "title": "The Bay Area Wonders: What Will Anthropic Workers Do With Their Wealth?",
+      "link": "https://www.nytimes.com/2026/11/19/us/anthropic-ipo-spending-wealth-san-francisco.html",
+      "pubDate": "2026-11-19T18:55:40.000Z",
+      "image": "https://static01.nyt.com/images/2026/11/19/multimedia/19nat-anthropic-goldrush-pqcw/19nat-anthropic-goldrush-pqcw-mediumSquareAt3X.jpg",
+      "author": "Heather Knight and Emmy Martin",
+      "excerpt": "San Francisco isn’t preparing for an Anthropic shopping spree after employees gain newfound affluence from the company’s initial public offering.",
+      "source": "NYT"
+    },
+    {
+      "title": "This Isn’t the Cyberapocalypse, but It Isn’t Great",
+      "link": "https://www.nytimes.com/2026/11/19/opinion/tech-outages-cybersecurity.html",
+      "pubDate": "2026-11-19T18:52:24.000Z",
+      "image": "https://static01.nyt.com/images/2026/11/20/opinion/19goldstein/19goldstein-mediumSquareAt3X.png",
+      "author": "Brett J. Goldstein",
+      "excerpt": "A cybersecurity expert isn’t sold on the theory that there is a connection between the many recent digital failures and crashes.",
+      "source": "NYT"
+    },
+    {
+      "title": "Dutch and Austrian Embassies Are Damaged as Russian Drones Swarm Kyiv",
+      "link": "https://www.nytimes.com/2026/11/19/world/europe/ukraine-dutch-embassy.html",
+      "pubDate": "2026-11-19T18:47:57.000Z",
+      "image": "https://static01.nyt.com/images/2026/11/19/multimedia/19int-ukraine-embassy-tpvf/19int-ukraine-embassy-tpvf-mediumSquareAt3X.jpg",
+      "author": "Marc Santora and Maria Varenikova",
+      "excerpt": "Foreign ministers for Austria and the Netherlands said no one was harmed at their embassy compounds, and the European Union’s ambassador said a drone “exploded right above my head\" by her hotel.",
+      "source": "NYT"
+    },
+    {
+      "title": "Myanmar Committed Genocide Against the Rohingya, Top Global Court Finds",
+      "link": "https://www.nytimes.com/2026/11/19/world/europe/myanmar-genocide-icj-decision-.html",
+      "pubDate": "2026-11-19T18:27:57.000Z",
+      "image": "https://static01.nyt.com/images/2026/11/19/multimedia/19int-ICJ-Myanmar-01-fkth/19int-ICJ-Myanmar-01-fkth-mediumSquareAt3X.jpg",
+      "author": "Jeanna Smialek and Hannah Beech",
+      "excerpt": "In a decision with potentially broad implications, the International Court of Justice found a state culpable of genocide for the first time.",
+      "source": "NYT"
+    },
+    {
+      "title": "At APEC Summit, U.S., China and Russia Vow to Increase Oil Supply Amid Global Energy Transition",
+      "link": "https://www.nytimes.com/2026/11/19/world/asia/russia-china-united-states-oil-joint-statement.html",
+      "pubDate": "2026-11-19T17:25:17.000Z",
+      "image": "https://static01.nyt.com/images/2026/11/19/multimedia/19trump-summits-petroleum-topart-wcmf/19trump-summits-petroleum-topart-wcmf-mediumSquareAt3X.jpg",
+      "author": "Somini Sengupta",
+      "excerpt": "The United States, China and Russia agreed to boost the supply of refined petroleum products, as oil prices spike because of the Iran war.",
+      "source": "NYT"
+    },
+    {
+      "title": "At Summit With Xi and Putin, Trump Seeks to Project Power Abroad While Sharing It at Home",
+      "link": "https://www.nytimes.com/2026/11/19/us/politics/trump-summit-power.html",
+      "pubDate": "2026-11-19T17:05:18.000Z",
+      "image": "https://static01.nyt.com/images/2026/11/19/multimedia/19trump-power-jpck/19trump-power-jpck-mediumSquareAt3X.jpg",
+      "author": "Peter Baker",
+      "excerpt": "Weakened by the midterm elections, President Trump offered hugs, arm pats and smiles to autocrats from Russia and China in contrast to the threats he is making to ascendant Democrats in Washington.",
+      "source": "NYT"
+    },
+    {
+      "title": "After Bridge Attack, Putin Says He Will ‘Not Be Negotiating’ Ukraine Cease-Fire",
+      "link": "https://www.nytimes.com/2026/11/19/world/europe/putin-shenzhen-crimea-bridge.html",
+      "pubDate": "2026-11-19T16:51:57.000Z",
+      "image": "https://static01.nyt.com/images/2026/11/19/multimedia/19int-russia-putin-pvjt/19int-russia-putin-pvjt-mediumSquareAt3X.jpg",
+      "author": "Paul Sonne",
+      "excerpt": "The Russian leader invited European representatives to Moscow to discuss giving them a role in negotiations. It was unclear how serious the offer was.",
+      "source": "NYT"
+    },
+    {
+      "title": "Tech Outages May Become Routine. Experts Say Don’t Panic, but Prepare.",
+      "link": "https://www.nytimes.com/2026/11/18/technology/tech-outages-emergency-prep.html",
+      "pubDate": "2026-11-19T16:49:41.000Z",
+      "image": "https://static01.nyt.com/images/2026/11/18/multimedia/18xp-prep-outage-hvjq/18xp-prep-outage-hvjq-mediumSquareAt3X.jpg",
+      "author": "Amanda Holpuch",
+      "excerpt": "A cascade of tech failures has rattled Americans and prompted many to look for ways to prepare for a prolonged digital disruption. Experts say it’s much like preparing for a storm.",
       "source": "NYT"
     },
     {
       "title": "Grand Theft Auto Used to Satirize American Life. Now We’ve Caught Up With It.",
       "link": "https://www.nytimes.com/2026/11/19/magazine/grand-theft-auto-six.html",
-      "pubDate": "2026-11-19T10:01:49.000Z",
+      "pubDate": "2026-11-19T16:12:19.000Z",
       "image": null,
       "author": "Joseph Bernstein",
       "excerpt": "The G.T.A. series is more than just a crime simulator — it’s a cartoonish sendup of our country. What happens when reality outruns the joke?",
       "source": "NYT"
     },
     {
-      "title": "Late Night Follows Trump’s Meeting with Xi and Putin in China",
-      "link": "https://www.nytimes.com/2026/11/19/arts/television/late-night-trump-xi-putin.html",
-      "pubDate": "2026-11-19T06:49:58.000Z",
+      "title": "Inside a Rohingya Camp After a Genocide Ruling",
+      "link": "https://www.nytimes.com/video/world/asia/100000011287890/inside-a-rohingya-camp-after-a-genocide-ruling.html",
+      "pubDate": "2026-11-19T16:10:44.000Z",
       "image": null,
-      "author": "Trish Bendix",
-      "excerpt": "Jimmy Fallon said that the leaders’ timing made sense: “Now that James Bond has been cast, they’re auditioning villains.”",
+      "author": "Hannah Beech, Lam Yik Fei, Rebecca Suner, Joey Sendaydiego, Shawn Paik and Jon Hazell",
+      "excerpt": "On Thursday, the International Court of Justice ruled that the atrocities against the Rohingya ethnic minority constituted a genocide waged by the Myanmar state. Before the decision, Hannah Beech, a New York Times correspondent, spent a week in the refugee camps in Cox’s Bazar, Bangladesh, home to at least 1.2 million ",
       "source": "NYT"
     },
     {
-      "title": "How Nvidia Chips Ended Up Within Reach of China’s Military",
-      "link": "https://www.nytimes.com/2026/11/18/technology/nvidia-alibaba-china-military.html",
-      "pubDate": "2026-11-19T04:13:05.000Z",
-      "image": "https://static01.nyt.com/images/2026/11/18/multimedia/18biz-alibaba-spy-sub2-pqcm/18biz-alibaba-spy-sub2-pqcm-mediumSquareAt3X.jpg",
-      "author": "Paul Mozur and Adam Satariano",
-      "excerpt": "Alibaba, the Chinese internet giant behind the company at the center of the Nvidia spy saga, has used its A.I. computing technology to aid a lab with links to China’s military.",
+      "title": "A Village Burned, Its People Killed or Exiled. A Court Ruled It Was Genocide.",
+      "link": "https://www.nytimes.com/2026/11/19/world/asia/myanmar-rohingya-village-refugee-genocide.html",
+      "pubDate": "2026-11-19T15:40:39.000Z",
+      "image": "https://static01.nyt.com/images/2026/11/19/multimedia/19int-rohingya-camps-01-kjtp/19int-rohingya-camps-01-kjtp-mediumSquareAt3X.jpg",
+      "author": "Hannah Beech and Lam Yik Fei",
+      "excerpt": "Zammona’s erasure was part of a wider campaign of violence against Rohingya Muslims. An international court found that Myanmar was culpable for the atrocities.",
       "source": "NYT"
     },
     {
-      "title": "Ericka Lomick’s Texas House Win Faces Challenge in State Supreme Court",
-      "link": "https://www.nytimes.com/2026/11/18/us/texas-house-election-ericka-lomick.html",
-      "pubDate": "2026-11-19T03:42:19.000Z",
-      "image": "https://static01.nyt.com/images/2026/11/19/multimedia/19nat-TX-democrat-1-fvck/19nat-TX-democrat-1-fvck-mediumSquareAt3X.jpg",
-      "author": "J. David Goodman",
-      "excerpt": "The Texas electoral wave carried one Democrat to victory even after she had suspended her campaign. Republicans want her declared ineligible.",
+      "title": "‘The Tuners’: The Hidden Contest at the International Chopin Piano Competition",
+      "link": "https://www.nytimes.com/2026/11/19/opinion/the-tuners-international-chopin-piano-competition.html",
+      "pubDate": "2026-11-19T14:37:40.000Z",
+      "image": null,
+      "author": "Paweł Chorzępa",
+      "excerpt": "In the shadows of one of the world’s most prestigious piano contests, the piano tuners are battling through their own competition.",
       "source": "NYT"
     },
     {
-      "title": "Takeaways From the 2026 DealBook Summit",
-      "link": "https://www.nytimes.com/2026/11/18/business/dealbook/dealbook-summit-musk-altman-ellison.html",
-      "pubDate": "2026-11-19T03:12:43.000Z",
-      "image": "https://static01.nyt.com/images/2026/11/18/multimedia/18dealbook-summit-takeaways-vfbq/18dealbook-summit-takeaways-vfbq-mediumSquareAt3X.jpg",
-      "author": "Aruni Soni and Bernhard Warner",
-      "excerpt": "Leaders in artificial intelligence and governments discussed America’s shifting politics, the reverberations of Jensen Huang’s ouster at Nvidia and more on Wednesday.",
+      "title": "A Data Center Was Coming. The Town Had a Message: Stay Out.",
+      "link": "https://www.nytimes.com/2026/11/19/nyregion/data-centers-opposition-towns.html",
+      "pubDate": "2026-11-19T13:55:56.000Z",
+      "image": "https://static01.nyt.com/images/2026/11/17/multimedia/met-data-centers--04-bztv/met-data-centers--04-bztv-mediumSquareAt3X.jpg",
+      "author": "Hilary Howard",
+      "excerpt": "The battle over artificial intelligence is unfolding in rural communities, which are deciding whether to embrace resource-hungry computer farms.",
       "source": "NYT"
     },
     {
-      "title": "10 Best Looks From the Country Music Association Awards Red Carpet",
-      "link": "https://www.nytimes.com/2026/11/18/style/cma-country-music-association-awards-red-carpet.html",
-      "pubDate": "2026-11-19T03:02:16.000Z",
-      "image": "https://static01.nyt.com/images/2026/11/18/multimedia/ST-CMAS-MOSTSTYLISH-lmtk/ST-CMAS-MOSTSTYLISH-lmtk-mediumSquareAt3X.jpg",
-      "author": "the Styles Desk",
-      "excerpt": "There were rhinestones, cowboy hats and more than one tribute to Dolly Parton.",
+      "title": "Three MAGA Women Who Defined an Era in Congress Are Exiting",
+      "link": "https://www.nytimes.com/2026/11/19/us/politics/three-maga-women-who-defined-an-era-in-congress-are-exiting.html",
+      "pubDate": "2026-11-19T13:27:13.000Z",
+      "image": "https://static01.nyt.com/images/2026/11/18/multimedia/18dc-cong-meangirls-01-hjkl/18dc-cong-meangirls-01-hjkl-mediumSquareAt3X.jpg",
+      "author": "Annie Karni",
+      "excerpt": "Representatives Marjorie Taylor Greene, Lauren Boebert and Nancy Mace embodied a combative, attention-seeking brand of politics that defined the Republican Congress.",
       "source": "NYT"
     },
     {
-      "title": "Elon Musk Plays Down G.O.P. Support After Midterm Loss",
-      "link": "https://www.nytimes.com/2026/11/18/business/dealbook/elon-musk-midterms.html",
-      "pubDate": "2026-11-19T00:58:47.000Z",
-      "image": "https://static01.nyt.com/images/2026/11/18/multimedia/18dealbook-summit-musk-vltw/18dealbook-summit-musk-vltw-mediumSquareAt3X.jpg",
-      "author": "Michael J. de la Merced and Theodore Schleifer",
-      "excerpt": "The C.E.O. of SpaceX, who spent millions to back Republican candidates, sought to portray himself as a political moderate.",
+      "title": "Death and Taxes. Rats and Real Estate.",
+      "link": "https://www.nytimes.com/2026/11/19/podcasts/rats-real-estate-serial-new-york.html",
+      "pubDate": "2026-11-19T09:00:07.000Z",
+      "image": "https://static01.nyt.com/images/2026/11/19/podcasts/19serial-metro-rats-photo-1/19serial-metro-rats-photo-1-mediumSquareAt3X.jpg",
+      "author": "Sarah Koenig, Debra Kamin, Daniel Guillemette, Julie Snyder, Phoebe Wang, Catherine Anderson and Allison Leyton-Brown and Nick Thorburn",
+      "excerpt": "The inevitabilities of New Yorkers’ lives.",
       "source": "NYT"
     },
     {
-      "title": "Anthropic Sells $81.3 Billion in Shares for a Record IPO",
-      "link": "https://www.nytimes.com/2026/11/18/technology/anthropic-ipo-pricing.html",
-      "pubDate": "2026-11-19T00:41:26.000Z",
-      "image": "https://static01.nyt.com/images/2026/11/18/multimedia/18biz-anthropic-final-pricing-hfo-1-jbmp/18biz-anthropic-final-pricing-hfo-1-jbmp-mediumSquareAt3X.jpg",
-      "author": "Erin Griffith, Lauren Hirsch and Cory Weinberg",
-      "excerpt": "The sale valued the A.I. company, which makes the Claude chatbot, at more than $1.5 trillion. Shares begin trading on Thursday.",
+      "title": "With Alaska’s Senate Vote Counted, What Comes Next in the Last Frontier?",
+      "link": "https://www.nytimes.com/2026/11/18/us/politics/alaska-senate-count.html",
+      "pubDate": "2026-11-19T02:58:29.000Z",
+      "image": "https://static01.nyt.com/images/2026/11/18/multimedia/18pol-alaska-count-gvbq/18pol-alaska-count-gvbq-mediumSquareAt3X.jpg",
+      "author": "Kellen Browning",
+      "excerpt": "The race is scheduled to be certified next week, but the Justice Department is investigating after Republicans lodged cheating allegations against the eventual winner, Mary Peltola.",
       "source": "NYT"
     },
     {
-      "title": "How We Broke Open the Nvidia Investigation",
-      "link": "https://www.nytimes.com/2026/11/18/insider/nvidia-jensen-huang-spying-plot.html",
-      "pubDate": "2026-11-18T23:52:05.000Z",
-      "image": "https://static01.nyt.com/images/2026/11/08/multimedia/insider-nvidia/08nvidia-what-we-know-gbfm-mediumSquareAt3X.jpg",
-      "author": "Patrick Healy",
-      "excerpt": "A global reporting effort by The New York Times included many twists and turns, from surprising photos and shipment records to a big break through astonishing tips from sources.",
+      "title": "Trump Weighs New Strikes on Iran as Israel Presses for Action, Officials Say",
+      "link": "https://www.nytimes.com/2026/11/18/us/politics/trump-israel-iran-war.html",
+      "pubDate": "2026-11-18T23:13:05.000Z",
+      "image": "https://static01.nyt.com/images/2026/11/18/multimedia/18dc-trump-iran-bqfp/18dc-trump-iran-bqfp-mediumSquareAt3X.jpg",
+      "author": "Julian E. Barnes, Eric Schmitt, Maggie Haberman, Jonathan Swan and Ronen Bergman",
+      "excerpt": "Warnings that Iran is rebuilding its missile stockpile and advancing biological and chemical programs have divided the Trump administration.",
       "source": "NYT"
     },
     {
-      "title": "Fans Flock to the Hollywood Sign. Neighbors Say, Get Off My Road.",
-      "link": "https://www.nytimes.com/2026/11/18/us/hollywood-sign-lawsuit.html",
-      "pubDate": "2026-11-18T21:43:14.000Z",
-      "image": "https://static01.nyt.com/images/2026/11/18/multimedia/18nat-hollywood-sign-zqkl/18nat-hollywood-sign-zqkl-mediumSquareAt3X-v2.jpg",
-      "author": "Orlando Mayorquín",
-      "excerpt": "The residents of the Hollywood Hills have sued Los Angeles, saying the city has not done enough to address the dangerous conditions created by tourists vying for a glimpse of the iconic Hollywood sign.",
+      "title": "Intolerance of Uncertainty Is Rising in Young Adults",
+      "link": "https://www.nytimes.com/2026/11/18/well/mind/uncertainty-anxiety-jama-study.html",
+      "pubDate": "2026-11-18T21:18:59.000Z",
+      "image": "https://static01.nyt.com/images/2026/11/17/multimedia/WELL-UNCERTAINTY-ANXIETY1-jvzm/WELL-UNCERTAINTY-ANXIETY1-jvzm-mediumSquareAt3X.jpg",
+      "author": "Christina Caron",
+      "excerpt": "At a moment when technical glitches are stirring confusion and fear, a new analysis examines just how distressing uncertainty can feel.",
       "source": "NYT"
     }
   ]
