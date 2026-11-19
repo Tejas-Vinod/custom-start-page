@@ -1,6 +1,24 @@
 {
   "spaceNews": [
     {
+      "title": "NASA Sets Coverage for Northrop Grumman CRS-25 Launch, Prelaunch",
+      "link": "https://www.nasa.gov/news-release/nasa-sets-coverage-for-northrop-grumman-crs-25-launch-prelaunch/",
+      "pubDate": "2026-11-18T22:19:17.000Z",
+      "image": "https://www.nasa.gov/wp-content/uploads/2026/11/ksc-20260411-ph-nrg01-0009large.jpg?w=1920",
+      "author": "Jessica Taveau",
+      "excerpt": "NASA, Northrop Grumman, and SpaceX are targeting no earlier than 10:47 a.m. EST, Sunday, Nov. 29, for the next launch delivering science investigations, supplies, and equipment to the International Space Station. The agency also will hold a prelaunch media teleconference on Monday, Nov. 23. Filled with approximately 11",
+      "source": "NASA"
+    },
+    {
+      "title": "Flexell Space and ALATYR Sign MoU to Explore Solar Power Solutions for Orbital Data Centers",
+      "link": "https://spacenews.com/flexell-space-and-alatyr-sign-mou-to-explore-solar-power-solutions-for-orbital-data-centers/",
+      "pubDate": "2026-11-18T22:02:00.000Z",
+      "image": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/10/LOGO_FLEXELLBlack.png?fit=1024%2C1024&amp;ssl=1",
+      "author": "Flexell Space",
+      "excerpt": "– Collaboration to assess next-generation ultralight solar cells for space-based computing infrastructure – Partnership brings together Korean space energy technology and French orbital infrastructure expertise Bremen, Germany – Flexell Space, […] The post Flexell Space and ALATYR Sign MoU to Explore Solar Power Soluti",
+      "source": "SpaceNews"
+    },
+    {
       "title": "Vulcan failure investigation focuses on ‘inadequate fuel supply’ to booster engines",
       "link": "https://spaceflightnow.com/2026/11/18/vulcan-failure-investigation-focuses-on-inadequate-fuel-supply-to-booster-engines/",
       "pubDate": "2026-11-18T21:11:37.000Z",
@@ -76,7 +94,7 @@
       "title": "Origami and solar arrays",
       "link": "https://spacenews.com/origami-and-solar-arrays/",
       "pubDate": "2026-11-18T16:56:05.000Z",
-      "image": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/11/2000-1500-spacenews-space-tech-expo-europe-van-Duijn-scaled.png?fit=1024%2C768&amp;ssl=1",
+      "image": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/11/2000-1500-spacenews-space-tech-expo-europe-sinn-scaled.jpg?fit=1024%2C768&amp;ssl=1",
       "author": "SpaceNews Editor",
       "excerpt": "In this episode of SpaceMinds, SpaceNews’ Mike Gruss talks with Thomas Sinn, the CEO of Dcubed, at Space Tech Expo Europe. They discuss the company’s new $30 million funding round, […] The post Origami and solar arrays appeared first on SpaceNews.",
       "source": "SpaceNews"
@@ -151,15 +169,6 @@
       "image": "https://assets.science.nasa.gov/dynamicimage/assets/science/psd/planetary-science-division/radioisotope-power-systems/power-to-explore-contest/2027-power-to-explore/PTE_2026-2027_X%20-%201200x675-80.jpg?w=1201&#038;h=676&#038;fit=clip",
       "author": "",
       "excerpt": "NASA’s Power to Explore Student Challenge kicked off Tuesday, Nov. 17. The science, engineering, technology, and mathematics (STEM) challenge invites kindergarten through 12th grade students in the United States to learn about space nuclear power systems and illustrate how these nuclear “batteries” could help power the",
-      "source": "NASA"
-    },
-    {
-      "title": "NASA Space Apps Challenge Breaks Global Hackathon Records  ",
-      "link": "https://science.nasa.gov/open-science/nasa-space-apps-challenge-breaks-global-hackathon-records/",
-      "pubDate": "2026-11-17T21:50:34.000Z",
-      "image": "https://assets.science.nasa.gov/dynamicimage/assets/science/cds/open-science/Space%20Apps%20Challenge%202026%20Brazil.jpeg?w=2048&#038;h=1706&#038;fit=clip",
-      "author": "",
-      "excerpt": "On Nov. 14 and 15, NASA held the annual Space Apps Challenge with a record-breaking 181,835 registered participants taking part in 593 events around the world. The annual hackathon invites participants to use NASA’s open data to address one of 14 challenges focused on space exploration or Earth science. This year, the ",
       "source": "NASA"
     },
     {
@@ -905,12 +914,183 @@
   ],
   "nytNews": [
     {
-      "title": "The Rot of Youth Sports Is Spreading",
-      "link": "https://www.nytimes.com/2026/11/18/opinion/greed-youth-sports.html",
-      "pubDate": "2026-11-18T21:20:21.000Z",
+      "title": "Alaska Republican Narrowly Defeats Independent House Candidate",
+      "link": "https://www.nytimes.com/2026/11/18/us/politics/alaska-nick-begich-wins-house-race.html",
+      "pubDate": "2026-11-19T03:14:27.000Z",
+      "image": "https://static01.nyt.com/images/2026/11/12/multimedia/00pol-alaska-at-large-hfo-cpml/00pol-alaska-at-large-hfo-cpml-mediumSquareAt3X.jpg",
+      "author": "Bayliss Wagner",
+      "excerpt": "Representative Nick Begich III overcame an independent challenger in a year in which Democrats made historic gains but third-party candidates had little success.",
+      "source": "NYT"
+    },
+    {
+      "title": "At Gloria Steinem Memorial, Michelle Obama, Hillary Clinton and More Big Names Gather",
+      "link": "https://www.nytimes.com/2026/11/18/style/gloria-steinem-memorial-photos.html",
+      "pubDate": "2026-11-19T03:13:23.000Z",
+      "image": "https://static01.nyt.com/images/2026/11/18/multimedia/18ST-STEINEM-SCENE-top-kzhj/18ST-STEINEM-SCENE-top-kzhj-mediumSquareAt3X.jpg",
+      "author": "Alisha Haridasani Gupta and Callie Holtermann",
+      "excerpt": "Former Secretary of State Hillary Clinton and other luminaries spoke at the event, which also featured performances by Cynthia Erivo and Kathy Sledge.",
+      "source": "NYT"
+    },
+    {
+      "title": "Takeaways From the 2026 DealBook Summit",
+      "link": "https://www.nytimes.com/2026/11/18/business/dealbook/dealbook-summit-musk-altman-ellison.html",
+      "pubDate": "2026-11-19T03:12:43.000Z",
+      "image": "https://static01.nyt.com/images/2026/11/18/multimedia/18dealbook-summit-takeaways-vfbq/18dealbook-summit-takeaways-vfbq-mediumSquareAt3X.jpg",
+      "author": "Aruni Soni and Bernhard Warner",
+      "excerpt": "Leaders in artificial intelligence and governments discussed America’s shifting politics, the reverberations of Jensen Huang’s ouster at Nvidia and more on Wednesday.",
+      "source": "NYT"
+    },
+    {
+      "title": "Obama Tells Incoming House Democrats to Keep Up Outreach in Red Areas",
+      "link": "https://www.nytimes.com/2026/11/18/us/politics/barack-obama-house-democrats.html",
+      "pubDate": "2026-11-19T02:54:47.000Z",
+      "image": "https://static01.nyt.com/images/2026/11/18/multimedia/18pol-obama-dems-01-wqbm/18pol-obama-dems-01-wqbm-mediumSquareAt3X.jpg",
+      "author": "Tim Balk",
+      "excerpt": "The former president told the newly elected lawmakers that the country was going through a moment of “generational change.” He also praised Representative Hakeem Jeffries, the likely next speaker.",
+      "source": "NYT"
+    },
+    {
+      "title": "Van Gogh Soars to $190.4 Million at Sotheby’s After an 11th-Hour Settlement",
+      "link": "https://www.nytimes.com/2026/11/18/arts/design/van-gogh-painting-auction-sothebys.html",
+      "pubDate": "2026-11-19T02:45:05.000Z",
       "image": null,
-      "author": "Jessica Grose",
-      "excerpt": "Businesses are trying to sell us charter flights for travel teams. We need to stop the madness.",
+      "author": "Julia Halperin and Zachary Small",
+      "excerpt": "In less than a week, the painting went from top lot to top liability — and back again. On Wednesday it set a record for the artist.",
+      "source": "NYT"
+    },
+    {
+      "title": "A Massachusetts Town Revolts Against Amazon’s Delivery Drones",
+      "link": "https://www.nytimes.com/2026/11/18/us/politics/amazon-delivery-drones-massachusetts.html",
+      "pubDate": "2026-11-19T02:06:56.000Z",
+      "image": "https://static01.nyt.com/images/2026/11/17/multimedia/00nat-amazon-drones-promo-lzjq/00nat-amazon-drones-promo-lzjq-mediumSquareAt3X.jpg",
+      "author": "Juliet Macur and Sophie Park",
+      "excerpt": "Amazon wants to offer faster delivery. Residents want quiet skies. A Massachusetts suburb wages an epic battle for control of its airspace.",
+      "source": "NYT"
+    },
+    {
+      "title": "Storm Brings Torrential Rain and Floods to the San Francisco Bay Area",
+      "link": "https://www.nytimes.com/2026/11/18/weather/sf-flooding-rain-storm.html",
+      "pubDate": "2026-11-19T02:02:37.000Z",
+      "image": null,
+      "author": "Amy Graff and Soumya Karlamangla",
+      "excerpt": "A Microsoft conference was forced to evacuate people, and restaurants and other businesses closed up shop for the day.",
+      "source": "NYT"
+    },
+    {
+      "title": "Ericka Lomick’s Texas House Win Faces Challenge in State Supreme Court",
+      "link": "https://www.nytimes.com/2026/11/18/us/texas-house-election-ericka-lomick.html",
+      "pubDate": "2026-11-19T01:59:58.000Z",
+      "image": "https://static01.nyt.com/images/2026/11/19/multimedia/19nat-TX-democrat-1-fvck/19nat-TX-democrat-1-fvck-mediumSquareAt3X.jpg",
+      "author": "J. David Goodman",
+      "excerpt": "The Texas electoral wave carried one Democrat to victory even after she had suspended her campaign. Republicans want her declared ineligible.",
+      "source": "NYT"
+    },
+    {
+      "title": "How Nvidia Chips Ended Up Within Reach of China’s Military",
+      "link": "https://www.nytimes.com/2026/11/18/technology/nvidia-alibaba-china-military.html",
+      "pubDate": "2026-11-19T01:54:54.000Z",
+      "image": "https://static01.nyt.com/images/2026/11/18/multimedia/18biz-alibaba-spy-sub2-pqcm/18biz-alibaba-spy-sub2-pqcm-mediumSquareAt3X.jpg",
+      "author": "Paul Mozur and Adam Satariano",
+      "excerpt": "Alibaba, the Chinese internet giant behind the company at the center of the Nvidia spy saga, has used its A.I. computing technology to aid a lab with links to China’s military.",
+      "source": "NYT"
+    },
+    {
+      "title": "Trump Grows Frustrated With Vance Over Iran War Critique",
+      "link": "https://www.nytimes.com/2026/11/18/us/politics/vance-trump-iran-2028-election-rubio.html",
+      "pubDate": "2026-11-19T01:23:01.000Z",
+      "image": "https://static01.nyt.com/images/2026/11/18/multimedia/18dc-vance-ltzv/18dc-vance-ltzv-mediumSquareAt3X.jpg",
+      "author": "Tyler Pager",
+      "excerpt": "The tension comes at a critical juncture for the vice president, who is considering whether to run for president in 2028.",
+      "source": "NYT"
+    },
+    {
+      "title": "Widespread Tech Outages Put Focus on Trump’s National Security Cuts",
+      "link": "https://www.nytimes.com/2026/11/18/us/politics/tech-outages-trump-national-security.html",
+      "pubDate": "2026-11-19T01:16:32.000Z",
+      "image": "https://static01.nyt.com/images/2026/11/18/multimedia/18dc-outage-response-mqzt/18dc-outage-response-mqzt-mediumSquareAt3X.jpg",
+      "author": "Zolan Kanno-Youngs, Dustin Volz and Devlin Barrett",
+      "excerpt": "Lawmakers and cyberdefense experts said diminished staffing at the Cybersecurity and Infrastructure Security Agency and National Security Council could be hobbling the administration’s response.",
+      "source": "NYT"
+    },
+    {
+      "title": "Anthropic Sells $81.3 Billion in Shares for a Record IPO",
+      "link": "https://www.nytimes.com/2026/11/18/technology/anthropic-ipo-pricing.html",
+      "pubDate": "2026-11-19T00:41:26.000Z",
+      "image": "https://static01.nyt.com/images/2026/11/18/multimedia/18biz-anthropic-final-pricing-hfo-1-jbmp/18biz-anthropic-final-pricing-hfo-1-jbmp-mediumSquareAt3X.jpg",
+      "author": "Erin Griffith, Lauren Hirsch and Cory Weinberg",
+      "excerpt": "The sale valued the A.I. company, which makes the Claude chatbot, at more than $1.5 trillion. Shares begin trading on Thursday.",
+      "source": "NYT"
+    },
+    {
+      "title": "Colombia Rejects Joint Plan With U.S. to Target Drug Gangs",
+      "link": "https://www.nytimes.com/2026/11/18/world/americas/colombia-us-joint-military.html",
+      "pubDate": "2026-11-19T00:30:44.000Z",
+      "image": "https://static01.nyt.com/images/2026/11/18/multimedia/18int-colombia-us-military-fvzp/18int-colombia-us-military-fvzp-mediumSquareAt3X.jpg",
+      "author": "Maria Abi-Habib and Eric Schmitt",
+      "excerpt": "The Colombian president said his nation would not allow American forces to take part in anti-cartel operations on its soil.",
+      "source": "NYT"
+    },
+    {
+      "title": "How Trump Can Avoid a Global Nuclear Arms Race",
+      "link": "https://www.nytimes.com/2026/11/18/opinion/trump-xi-putin-china-nuclear.html",
+      "pubDate": "2026-11-19T00:00:05.000Z",
+      "image": "https://static01.nyt.com/images/2026/11/18/multimedia/18hennigan-mpcf/18hennigan-mpcf-mediumSquareAt3X.jpg",
+      "author": "W.J. Hennigan",
+      "excerpt": "In China, Mr. Trump has the best chance in more than a decade to start to steer the world off the path of an unconstrained three-way nuclear arms race.",
+      "source": "NYT"
+    },
+    {
+      "title": "How We Broke Open the Nvidia Investigation",
+      "link": "https://www.nytimes.com/2026/11/18/insider/nvidia-jensen-huang-spying-plot.html",
+      "pubDate": "2026-11-18T23:52:05.000Z",
+      "image": "https://static01.nyt.com/images/2026/11/08/multimedia/insider-nvidia/08nvidia-what-we-know-gbfm-mediumSquareAt3X.jpg",
+      "author": "Patrick Healy",
+      "excerpt": "A global reporting effort by The New York Times included many twists and turns, from surprising photos and shipment records to a big break through astonishing tips from sources.",
+      "source": "NYT"
+    },
+    {
+      "title": "Video from MTA Bus Captures Moments Before Fatal Brooklyn Building Collapse",
+      "link": "https://www.nytimes.com/2026/11/18/nyregion/brooklyn-building-collapse-video.html",
+      "pubDate": "2026-11-18T23:43:53.000Z",
+      "image": null,
+      "author": "Stefanos Chen",
+      "excerpt": "The footage offers a detailed account of the collapse last week, which killed eight people. On Wednesday, the city said that an adjacent building would need to be demolished.",
+      "source": "NYT"
+    },
+    {
+      "title": "Trump Weighs New Strikes on Iran as Israel Presses for Action, Officials Say",
+      "link": "https://www.nytimes.com/2026/11/18/us/politics/trump-israel-iran-war.html",
+      "pubDate": "2026-11-18T23:13:05.000Z",
+      "image": "https://static01.nyt.com/images/2026/11/18/multimedia/18dc-trump-iran-bqfp/18dc-trump-iran-bqfp-mediumSquareAt3X.jpg",
+      "author": "Julian E. Barnes, Eric Schmitt, Maggie Haberman, Jonathan Swan and Ronen Bergman",
+      "excerpt": "Warnings that Iran is rebuilding its missile stockpile and advancing biological and chemical programs have divided the Trump administration.",
+      "source": "NYT"
+    },
+    {
+      "title": "Trump, Putin and Xi to Meet for the First Time",
+      "link": "https://www.nytimes.com/2026/11/18/briefing/trump-putin-xi-meeting.html",
+      "pubDate": "2026-11-18T22:42:26.000Z",
+      "image": "https://static01.nyt.com/images/2026/11/18/multimedia/18evening-nl-trump-putin-xi-fvwp/18evening-nl-trump-putin-xi-fvwp-mediumSquareAt3X.jpg",
+      "author": "Matthew Cullen",
+      "excerpt": "Also, Democrats nominate Jeffries as speaker, making history. Here’s the latest at the end of Wednesday.",
+      "source": "NYT"
+    },
+    {
+      "title": "Trump ‘Disappeared’ Them in 2025. I Found Them, Locked Up and Famished.",
+      "link": "https://www.nytimes.com/2026/11/18/opinion/trump-deportation-south-sudan.html",
+      "pubDate": "2026-11-18T22:15:23.000Z",
+      "image": "https://static01.nyt.com/images/2026/11/19/multimedia/18kristof-zvlc/18kristof-zvlc-mediumSquareAt3X.jpg",
+      "author": "Nicholas Kristof",
+      "excerpt": "Foisting immigrants on impoverished African countries where they are not treated humanely seems to me a moral and practical failure.",
+      "source": "NYT"
+    },
+    {
+      "title": "Florida’s El Niño Rains Bring Hail and High Water",
+      "link": "https://www.nytimes.com/2026/11/18/weather/florida-flooding-rain.html",
+      "pubDate": "2026-11-18T21:55:08.000Z",
+      "image": "https://static01.nyt.com/images/2026/11/18/multimedia/18nat-florida-weatherscene-mtpv/18nat-florida-weatherscene-mtpv-mediumSquareAt3X.jpg",
+      "author": "David Ovalle and Nazaneen Ghaffar",
+      "excerpt": "Officials point to particularly strong El Niño conditions, a climate pattern that delivers wetter weather to parts of the southern United States, as Florida faces torrential rain.",
       "source": "NYT"
     },
     {
@@ -920,177 +1100,6 @@
       "image": null,
       "author": "Claire Cain Miller and Alicia Parlapiano",
       "excerpt": "“Saturday Night Live” exposed a truth about gender roles in caring for aging parents: While many nations have a federal safety net for older adults, the U.S. has sisters.",
-      "source": "NYT"
-    },
-    {
-      "title": "Ground Stop Came as Duffy Pushed to Rapidly Upgrade Aviation Systems",
-      "link": "https://www.nytimes.com/2026/11/18/us/sean-duffy-ground-stop-faa-trump.html",
-      "pubDate": "2026-11-18T21:12:44.000Z",
-      "image": "https://static01.nyt.com/images/2026/11/18/multimedia/18dc-faa-overhaul-lcvf/18dc-faa-overhaul-lcvf-mediumSquareAt3X.jpg",
-      "author": "Kate Kelly, Nicholas Nehamas and Karoun Demirjian",
-      "excerpt": "Current and former officials say that Transportation Secretary Sean Duffy’s push to quickly finish modernization during President Trump’s second term could continue to disrupt air travel.",
-      "source": "NYT"
-    },
-    {
-      "title": "What Nvidia’s Interim CEO, Colette Kress, Said to Employees After Jensen Huang’s Resignation",
-      "link": "https://www.nytimes.com/2026/11/18/technology/nvidia-jensen-huang-affair-colette-kress.html",
-      "pubDate": "2026-11-18T21:11:29.000Z",
-      "image": "https://static01.nyt.com/images/2026/11/18/multimedia/18biz-nvidia-call-cwjh/18biz-nvidia-call-cwjh-mediumSquareAt3X.jpg",
-      "author": "Tripp Mickle",
-      "excerpt": "At an all-hands meeting with employees, Colette Kress sought to put the indiscretions of Nvidia’s co-founder, Jensen Huang, behind them.",
-      "source": "NYT"
-    },
-    {
-      "title": "A Massachusetts Town Revolts Against Amazon’s Delivery Drones",
-      "link": "https://www.nytimes.com/2026/11/18/us/politics/amazon-delivery-drones-massachusetts.html",
-      "pubDate": "2026-11-18T21:02:20.000Z",
-      "image": "https://static01.nyt.com/images/2026/11/17/multimedia/00nat-amazon-drones-promo-lzjq/00nat-amazon-drones-promo-lzjq-mediumSquareAt3X.jpg",
-      "author": "Juliet Macur and Sophie Park",
-      "excerpt": "Amazon wants to offer faster delivery. Residents want quiet skies. A Massachusetts suburb wages an epic battle for control of its airspace.",
-      "source": "NYT"
-    },
-    {
-      "title": "NYC, LA and Chicago School Districts Weigh Breaking Up With Google Search Over A.I.",
-      "link": "https://www.nytimes.com/2026/11/18/technology/google-gemini-ai-search-schools-nyc-la-chicago.html",
-      "pubDate": "2026-11-18T20:49:53.000Z",
-      "image": "https://static01.nyt.com/images/2026/11/18/multimedia/18biz-GoogleAI-schools-2-02-gmlp/18biz-GoogleAI-schools-2-02-gmlp-mediumSquareAt3X.jpg",
-      "author": "Natasha Singer and Dana Goldstein",
-      "excerpt": "Google’s refusal to unbundle A.I. features from search for students prompted a backlash. Now schools are looking for alternatives.",
-      "source": "NYT"
-    },
-    {
-      "title": "Senator Bill Cassidy Blocks Trump Pick to Head Science Agency",
-      "link": "https://www.nytimes.com/2026/11/18/us/politics/bill-cassidy-jim-oneill-science.html",
-      "pubDate": "2026-11-18T20:41:54.000Z",
-      "image": "https://static01.nyt.com/images/2026/11/18/multimedia/18dc-nsf-nominee-wqzh/18dc-nsf-nominee-wqzh-mediumSquareAt3X.jpg",
-      "author": "Adam Sella and Sheryl Gay Stolberg",
-      "excerpt": "A venture capitalist and Peter Thiel acolyte, Jim O’Neill faced bipartisan concern over whether he would stand up for science.",
-      "source": "NYT"
-    },
-    {
-      "title": "Trump, Xi and Putin Will Sit Down for the First Time. It Won’t Be Like Yalta.",
-      "link": "https://www.nytimes.com/2026/11/18/us/politics/trump-xi-putin-summit-yalta.html",
-      "pubDate": "2026-11-18T20:12:59.000Z",
-      "image": "https://static01.nyt.com/images/2026/11/18/multimedia/18dc-prexy-xiputin-01-jvfc/18dc-prexy-xiputin-01-jvfc-mediumSquareAt3X.jpg",
-      "author": "David E. Sanger and Peter Baker",
-      "excerpt": "While the three leaders would like to project the image that they are guiding the world order, they are unlikely to settle major issues at their gathering in Shenzhen, China.",
-      "source": "NYT"
-    },
-    {
-      "title": "Trump Arrives in China Focused on Friendship With Xi, Not Nvidia Spy Scandal",
-      "link": "https://www.nytimes.com/2026/11/18/us/politics/trump-xi-shenzhen-spy-scandal.html",
-      "pubDate": "2026-11-18T18:52:04.000Z",
-      "image": "https://static01.nyt.com/images/2026/11/18/multimedia/18int-trump-top-1-hqjl/18int-trump-top-1-hqjl-mediumSquareAt3X.jpg",
-      "author": "Peter Baker",
-      "excerpt": "President Xi Jinping of China offered a hug and a red-carpet welcome as President Trump avoided discussing the espionage case that brought down Nvidia’s Jensen Huang.",
-      "source": "NYT"
-    },
-    {
-      "title": "The Anthropic I.P.O. Will Change the Future of A.I.",
-      "link": "https://www.nytimes.com/2026/11/18/opinion/anthropic-ai-openai.html",
-      "pubDate": "2026-11-18T18:06:02.000Z",
-      "image": null,
-      "author": "Jasmine Sun",
-      "excerpt": "The A.I. company believes they are humanity’s best chance to develop safe superintelligence.",
-      "source": "NYT"
-    },
-    {
-      "title": "How RFK Jr. Upended a Group Guiding Health Care for All Americans",
-      "link": "https://www.nytimes.com/2026/11/18/well/rfk-jr-uspstf-health-care.html",
-      "pubDate": "2026-11-18T18:04:46.000Z",
-      "image": null,
-      "author": "Maggie Astor",
-      "excerpt": "Fifteen former members and federal employees told The Times that, over two years, the administration blocked their work and ended the U.S. Preventive Services Task Force’s scientific independence.",
-      "source": "NYT"
-    },
-    {
-      "title": "The Shadow of Yalta Hangs Over Trump’s Summit in China",
-      "link": "https://www.nytimes.com/2026/11/18/world/asia/trump-xi-putin-summit-yalta.html",
-      "pubDate": "2026-11-18T17:52:32.000Z",
-      "image": "https://static01.nyt.com/images/2026/11/18/multimedia/18xp-yalta/18xp-yalta-mediumSquareAt3X.jpg",
-      "author": "Leo Sands",
-      "excerpt": "A 1945 meeting of Churchill, Stalin and Franklin Roosevelt set Europe’s course for decades. Here’s what happened.",
-      "source": "NYT"
-    },
-    {
-      "title": "Anthropic Is Set to Finalize Pricing for Blockbuster I.P.O.",
-      "link": "https://www.nytimes.com/2026/11/18/technology/anthropic-ipo-pricing.html",
-      "pubDate": "2026-11-18T17:49:51.000Z",
-      "image": "https://static01.nyt.com/images/2026/11/18/multimedia/18biz-anthropic-final-pricing-hfo-1-jbmp/18biz-anthropic-final-pricing-hfo-1-jbmp-mediumSquareAt3X.jpg",
-      "author": "Erin Griffith and Lauren Hirsch",
-      "excerpt": "The A.I. company is expected to officially price its shares on Wednesday, and its stock will begin trading on Thursday.",
-      "source": "NYT"
-    },
-    {
-      "title": "Trump Grows Frustrated With Vance Over Iran War Critique",
-      "link": "https://www.nytimes.com/2026/11/18/us/politics/vance-trump-iran-2028-election-rubio.html",
-      "pubDate": "2026-11-18T17:15:08.000Z",
-      "image": "https://static01.nyt.com/images/2026/11/18/multimedia/18dc-vance-ltzv/18dc-vance-ltzv-mediumSquareAt3X.jpg",
-      "author": "Tyler Pager",
-      "excerpt": "The tension comes at a critical juncture for the vice president, who is considering whether to run for president in 2028.",
-      "source": "NYT"
-    },
-    {
-      "title": "Google Buys Worker Data From Spirit Airlines in a New Market to Feed A.I.",
-      "link": "https://www.nytimes.com/2026/11/18/business/economy/google-spirit-employee-data-ai.html",
-      "pubDate": "2026-11-18T17:02:13.000Z",
-      "image": "https://static01.nyt.com/images/2026/11/18/multimedia/18biz-spirit-data-02-zwjh/18biz-spirit-data-02-zwjh-mediumSquareAt3X.jpg",
-      "author": "Rebecca Davis O’Brien",
-      "excerpt": "A flight attendants’ union challenged Google’s plans to protect personal information in the data in court, saying the company’s measures were not enough to protect Spirit’s employees.",
-      "source": "NYT"
-    },
-    {
-      "title": "Democrats Nominate Hakeem Jeffries for Speaker of the House, Making History",
-      "link": "https://www.nytimes.com/2026/11/18/us/politics/hakeem-jeffries-speaker-of-the-house-democrats.html",
-      "pubDate": "2026-11-18T16:42:43.000Z",
-      "image": "https://static01.nyt.com/images/2026/11/18/multimedia/18dc-jeffries-tfpq/18dc-jeffries-tfpq-mediumSquareAt3X.jpg",
-      "author": "Annie Karni",
-      "excerpt": "The vote put Representative Hakeem Jeffries of New York in line to become the first Black lawmaker to win the post second in line to the presidency.",
-      "source": "NYT"
-    },
-    {
-      "title": "The Anti-A.I. Campus Movement Is Growing",
-      "link": "https://www.nytimes.com/2026/11/18/us/anti-ai-protests-petitions-colleges.html",
-      "pubDate": "2026-11-18T16:16:31.000Z",
-      "image": "https://static01.nyt.com/images/2026/11/10/multimedia/00nat-luddites-01-jzqc/00nat-luddites-01-jzqc-mediumSquareAt3X.jpg",
-      "author": "Dana Goldstein",
-      "excerpt": "Some students are refusing to use A.I., and others are starting petitions to limit it across entire campuses. Colleges have taken notice.",
-      "source": "NYT"
-    },
-    {
-      "title": "Fans Flock to the Hollywood Sign. Neighbors Say, Get Off My Road.",
-      "link": "https://www.nytimes.com/2026/11/18/us/hollywood-sign-lawsuit.html",
-      "pubDate": "2026-11-18T15:52:48.000Z",
-      "image": "https://static01.nyt.com/images/2026/11/18/multimedia/18nat-hollywood-sign-zqkl/18nat-hollywood-sign-zqkl-mediumSquareAt3X-v2.jpg",
-      "author": "Orlando Mayorquín",
-      "excerpt": "The residents of the Hollywood Hills have sued Los Angeles, saying the city has not done enough to address the dangerous conditions created by tourists vying for a glimpse of the iconic Hollywood sign.",
-      "source": "NYT"
-    },
-    {
-      "title": "After 49 Years, Voyager 1 Is a Mind-Blowing One Light-Day From Earth",
-      "link": "https://www.nytimes.com/2026/11/18/science/nasa-voyager-1-earth-light-day.html",
-      "pubDate": "2026-11-18T14:31:06.000Z",
-      "image": null,
-      "author": "Nadia Drake",
-      "excerpt": "Launched in 1977, the hardy spacecraft is still sending messages back home from a staggering distance in interstellar space.",
-      "source": "NYT"
-    },
-    {
-      "title": "How Mary Peltola Triumphed in Alaska’s Senate Race",
-      "link": "https://www.nytimes.com/2026/11/18/us/politics/peltola-victory-alaska-senate.html",
-      "pubDate": "2026-11-18T12:28:52.000Z",
-      "image": "https://static01.nyt.com/images/2026/11/18/multimedia/18pol-alaska-analysis-HFO-hjwm/18pol-alaska-analysis-HFO-hjwm-mediumSquareAt3X.jpg",
-      "author": "Kellen Browning and Emily Schwing",
-      "excerpt": "Beleaguered by high fuel costs and wary of overfishing, Alaskans were drawn to the Democrat’s hyperlocal pitch.",
-      "source": "NYT"
-    },
-    {
-      "title": "G.T.A. 6 Review: This Release Will Steal Your Heart",
-      "link": "https://www.nytimes.com/2026/11/18/arts/grand-theft-auto-vi-review.html",
-      "pubDate": "2026-11-18T12:27:38.000Z",
-      "image": null,
-      "author": "Yussef Cole",
-      "excerpt": "The series matures beyond its memorable car crashes and stickups with a game about love, relationships and nurturing your partner.",
       "source": "NYT"
     }
   ]
