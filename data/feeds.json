@@ -1,6 +1,42 @@
 {
   "spaceNews": [
     {
+      "title": "HEO Unveils Insights Next SDA Tool",
+      "link": "https://payloadspace.com/heo-unveils-insights-next-sda-tool/",
+      "pubDate": "2026-11-19T11:53:58.000Z",
+      "image": "https://payloadspace.com/wp-content/uploads/2026/11/UI_Snapshot_3-200x200.png",
+      "author": "Douglas Gorman",
+      "excerpt": "If a picture is worth a thousand words, then Australian non-Earth imaging (NEI) startup HEO has a lot to say about the state of orbital traffic. The post HEO Unveils Insights Next SDA Tool appeared first on Payload.",
+      "source": "Payload"
+    },
+    {
+      "title": "APOD: 2026 November 19 – The Horsehead and Flame Nebulas",
+      "link": "https://science.nasa.gov/image-article/apod-2026-november-19-the-horsehead-and-flame-nebulas/",
+      "pubDate": "2026-11-19T05:05:00.000Z",
+      "image": "https://assets.science.nasa.gov/dynamicimage/assets/science/cds/apod/apod/2026/november/Horsehead_Nebula_Killion.jpg?w=6000&#038;h=4800&#038;fit=clip",
+      "author": "",
+      "excerpt": "APOD Science APOD APOD: 2026 November 19 – The… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professi",
+      "source": "NASA"
+    },
+    {
+      "title": "El Niño Rains Paint the Atacama",
+      "link": "https://science.nasa.gov/earth/earth-observatory/el-nino-rains-paint-the-atacama/",
+      "pubDate": "2026-11-19T05:00:00.000Z",
+      "image": "https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2026/el-niño-rains-paint-the-atacama/atacamabloom_oli_20260914.jpg",
+      "author": "",
+      "excerpt": "Winter precipitation helped wake dormant seeds in northern Chile, carpeting the desert with what may be the region’s most extensive flowering of the satellite era.",
+      "source": "NASA"
+    },
+    {
+      "title": "Sophia Space Tests Orbital-Compute Software on Kepler Constellation",
+      "link": "https://payloadspace.com/sophia-space-tests-orbital-compute-software-on-kepler-constellation/",
+      "pubDate": "2026-11-19T05:00:00.000Z",
+      "image": "https://payloadspace.com/wp-content/uploads/2026/11/Independently-operating-compute-TILEs-enable-incremental-scaling-parallel-workloads-and-system-evolution-without-redesign-eliminating-single-points-of-failure-200x200.jpeg",
+      "author": "Victoria Woodburn",
+      "excerpt": "Sophia Space has deployed its Sophia Orbital Operating System (SOOS) across multiple Kepler Communications optical-data-relay sats. The post Sophia Space Tests Orbital-Compute Software on Kepler Constellation appeared first on Payload.",
+      "source": "Payload"
+    },
+    {
       "title": "NASA Sets Coverage for Northrop Grumman CRS-25 Launch, Prelaunch",
       "link": "https://www.nasa.gov/news-release/nasa-sets-coverage-for-northrop-grumman-crs-25-launch-prelaunch/",
       "pubDate": "2026-11-18T22:19:17.000Z",
@@ -151,24 +187,6 @@
       "image": "https://assets.science.nasa.gov/dynamicimage/assets/science/cds/apod/apod/2026/november/solar_M_flare.jpg?w=2048&#038;h=2048&#038;fit=clip",
       "author": "",
       "excerpt": "APOD Science APOD APOD: 2026 November 18 – A… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a profession",
-      "source": "NASA"
-    },
-    {
-      "title": "Sierra Snow Season Spins Up",
-      "link": "https://science.nasa.gov/earth/earth-observatory/sierra-snow-season-spins-up/",
-      "pubDate": "2026-11-18T05:01:00.000Z",
-      "image": "https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2026/sierra-snow-season-spins-up/sierranevada_tmo_20261112.jpg",
-      "author": "",
-      "excerpt": "A widespread, early-season snowstorm blanketed California’s mountains in white in mid-November 2026.",
-      "source": "NASA"
-    },
-    {
-      "title": "NASA Launches Nuclear Power Systems Student Contest",
-      "link": "https://science.nasa.gov/centers-and-facilities/glenn/nasa-launches-nuclear-power-systems-student-contest/",
-      "pubDate": "2026-11-17T22:02:48.000Z",
-      "image": "https://assets.science.nasa.gov/dynamicimage/assets/science/psd/planetary-science-division/radioisotope-power-systems/power-to-explore-contest/2027-power-to-explore/PTE_2026-2027_X%20-%201200x675-80.jpg?w=1201&#038;h=676&#038;fit=clip",
-      "author": "",
-      "excerpt": "NASA’s Power to Explore Student Challenge kicked off Tuesday, Nov. 17. The science, engineering, technology, and mathematics (STEM) challenge invites kindergarten through 12th grade students in the United States to learn about space nuclear power systems and illustrate how these nuclear “batteries” could help power the",
       "source": "NASA"
     },
     {
@@ -352,15 +370,6 @@
       "source": "Spaceflight Now"
     },
     {
-      "title": "SpaceX Catches Starship Upper Stage",
-      "link": "https://payloadspace.com/spacex-successfully-catches-starship-upper-stage/",
-      "pubDate": "2026-11-15T01:39:11.000Z",
-      "image": "https://payloadspace.com/wp-content/uploads/2026/11/Screenshot-2026-11-14-at-3.20.58-PM-200x200.png",
-      "author": "Victoria Woodburn",
-      "excerpt": "SpaceX made history on Saturday, recovering a Starship upper stage from orbit for the first time. The post SpaceX Catches Starship Upper Stage appeared first on Payload.",
-      "source": "Payload"
-    },
-    {
       "title": "How to watch Starship Flight 15",
       "link": "https://www.astronomy.com/space-exploration/how-to-watch-starship-flight-15/",
       "pubDate": "2026-11-13T20:21:49.000Z",
@@ -404,15 +413,6 @@
       "author": "Phil Harrington",
       "excerpt": "The smart telescope revolution has grown rapidly over the past few years. Most of these scopes focus primarily on electronic imaging, though, and while amateur astronomers may marvel at the images, they also still enjoy the simple pleasure of looking directly through a telescope. That’s where the SkyPilot 127 from Spec",
       "source": "Astronomy Magazine"
-    },
-    {
-      "title": "Exclusive: Sagittarius Logistics Raises $1.2M to Build Inland Launch Capabilities",
-      "link": "https://payloadspace.com/exclusive-sagittarius-logistics-raises-1-2m-to-build-inland-launch-capabilities/",
-      "pubDate": "2026-11-13T14:00:00.000Z",
-      "image": "https://payloadspace.com/wp-content/uploads/2026/11/ScreenShot00023-200x200.png",
-      "author": "Douglas Gorman",
-      "excerpt": "There’s a new launcher in town. The post Exclusive: Sagittarius Logistics Raises $1.2M to Build Inland Launch Capabilities appeared first on Payload.",
-      "source": "Payload"
     },
     {
       "title": "ULA delays to Sunday Vulcan rocket launch of 40 Leo satellites for Amazon",
@@ -467,15 +467,6 @@
       "author": "Matthew Sparkes",
       "excerpt": "The UK is unable to match the advanced surveillance and counter-surveillance programmes run by the US, China and Russia, but it is working with civilian astronomers to develop a way of monitoring spy satellites via ground-based telescopes",
       "source": "New Scientist"
-    },
-    {
-      "title": "Senate committee takes up nominees for NASA chief financial officer and inspector general",
-      "link": "https://spacenews.com/senate-committee-takes-up-nominees-for-nasa-chief-financial-officer-and-inspector-general/",
-      "pubDate": "2026-11-12T00:00:18.000Z",
-      "image": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/11/steinau.jpeg?fit=1024%2C576&amp;ssl=1",
-      "author": "Jeff Foust",
-      "excerpt": "A Senate committee is set to advance nominations for NASA’s chief financial officer and inspector general. The post Senate committee takes up nominees for NASA chief financial officer and inspector general appeared first on SpaceNews.",
-      "source": "SpaceNews"
     },
     {
       "title": "Space Force activates special operations component command in Tampa",
@@ -822,6 +813,15 @@
   ],
   "industryNews": [
     {
+      "title": "F-35C Lightning II Completes First Launch and Recovery Aboard a Gerald R. Ford-Class Aircraft Carrier",
+      "link": "https://news.lockheedmartin.com/2026-11-19-F-35C-Lightning-II-Completes-First-Launch-and-Recovery-Aboard-a-Gerald-R-Ford-Class-Aircraft-Carrier",
+      "pubDate": "2026-11-19T12:30:00.000Z",
+      "image": "https://news.lockheedmartin.com/file.php/184239/F35-sea-trials-1920.jpg?thumbnail=144",
+      "author": "",
+      "excerpt": "",
+      "source": "Lockheed Martin"
+    },
+    {
       "title": "F-35 Simulators Take to the Skies with Six F/A-18s in Joint Training First",
       "link": "https://news.lockheedmartin.com/2026-11-17-F-35-Simulators-Take-to-the-Skies-with-Six-F-A-18s-in-Joint-Training-First",
       "pubDate": "2026-11-17T13:00:00.000Z",
@@ -867,15 +867,6 @@
       "source": "Lockheed Martin"
     },
     {
-      "title": "Lockheed Martin Completes Flight Test of Future Intercontinental Ballistic Missile System Reentry Vehicle\r\n",
-      "link": "https://news.lockheedmartin.com/Lockheed-Martin-Completes-Flight-Test-of-Future-Intercontinental-Ballistic-Missile-System-Reentry-Vehicle",
-      "pubDate": "2026-11-04T19:00:00.000Z",
-      "image": "https://news.lockheedmartin.com/file.php/181658/MK21A.jpg?thumbnail=144",
-      "author": "",
-      "excerpt": "",
-      "source": "Lockheed Martin"
-    },
-    {
       "title": "Avolon Finalizes Order for 140 Boeing 737-10 Jets",
       "link": "https://boeing.mediaroom.com/2026-11-04-Avolon-Finalizes-Order-for-140-Boeing-737-10-Jets",
       "pubDate": "2026-11-04T08:30:00.000Z",
@@ -914,21 +905,174 @@
   ],
   "nytNews": [
     {
-      "title": "Alaska Republican Narrowly Defeats Independent House Candidate",
-      "link": "https://www.nytimes.com/2026/11/18/us/politics/alaska-nick-begich-wins-house-race.html",
-      "pubDate": "2026-11-19T03:14:27.000Z",
-      "image": "https://static01.nyt.com/images/2026/11/12/multimedia/00pol-alaska-at-large-hfo-cpml/00pol-alaska-at-large-hfo-cpml-mediumSquareAt3X.jpg",
-      "author": "Bayliss Wagner",
-      "excerpt": "Representative Nick Begich III overcame an independent challenger in a year in which Democrats made historic gains but third-party candidates had little success.",
+      "title": "How the War in Iran Will Remake the Global Energy Order",
+      "link": "https://www.nytimes.com/2026/11/19/business/cop31-energy-iea.html",
+      "pubDate": "2026-11-19T12:51:17.000Z",
+      "image": "https://static01.nyt.com/images/2026/11/19/multimedia/19biz-iea-energy-01-mgtf/19biz-iea-energy-01-mgtf-mediumSquareAt3X.jpg",
+      "author": "Lisa Friedman",
+      "excerpt": "The International Energy Agency, in its most comprehensive analysis of the war’s fallout, found the oil shock could accelerate adoption of alternative power sources.",
+      "source": "NYT"
+    },
+    {
+      "title": "A Village Burned, Its People Killed or Exiled. A Court Ruled It Was Genocide.",
+      "link": "https://www.nytimes.com/2026/11/19/world/asia/myanmar-rohingya-village-refugee-genocide.html",
+      "pubDate": "2026-11-19T12:23:29.000Z",
+      "image": "https://static01.nyt.com/images/2026/11/19/multimedia/19int-rohingya-camps-01-kjtp/19int-rohingya-camps-01-kjtp-mediumSquareAt3X.jpg",
+      "author": "Hannah Beech and Lam Yik Fei",
+      "excerpt": "Zammona’s erasure was part of a wider campaign of violence against Rohingya Muslims. An international court found that Myanmar was culpable for the atrocities.",
+      "source": "NYT"
+    },
+    {
+      "title": "Boston’s Beloved Citgo Sign Returns After Rebuild, 30 Feet Higher",
+      "link": "https://www.nytimes.com/2026/11/19/us/boston-citgo-sign-fenway-park.html",
+      "pubDate": "2026-11-19T12:21:58.000Z",
+      "image": "https://static01.nyt.com/images/2026/11/19/multimedia/19nat-citgo-sign-tmkv/19nat-citgo-sign-tmkv-mediumSquareAt3X.jpg",
+      "author": "Jenna Russell",
+      "excerpt": "The beloved landmark will be lit again on Thursday night after it was rebuilt and moved 120 feet to the east, its latest incarnation in a city transformed by development.",
       "source": "NYT"
     },
     {
       "title": "At Gloria Steinem Memorial, Michelle Obama, Hillary Clinton and More Big Names Gather",
       "link": "https://www.nytimes.com/2026/11/18/style/gloria-steinem-memorial-photos.html",
-      "pubDate": "2026-11-19T03:13:23.000Z",
-      "image": "https://static01.nyt.com/images/2026/11/18/multimedia/18ST-STEINEM-SCENE-top-kzhj/18ST-STEINEM-SCENE-top-kzhj-mediumSquareAt3X.jpg",
+      "pubDate": "2026-11-19T12:20:02.000Z",
+      "image": "https://static01.nyt.com/images/2026/11/18/multimedia/18ST-STEINEM-SCENE-top-kzhj/18ST-STEINEM-SCENE-top-kzhj-mediumSquareAt3X-v3.jpg",
       "author": "Alisha Haridasani Gupta and Callie Holtermann",
       "excerpt": "Former Secretary of State Hillary Clinton and other luminaries spoke at the event, which also featured performances by Cynthia Erivo and Kathy Sledge.",
+      "source": "NYT"
+    },
+    {
+      "title": "China Bars Bloomberg Reporter From Trilateral Talks for Asking a Question",
+      "link": "https://www.nytimes.com/2026/11/19/world/asia/trump-summit-china-media-bloomberg-reporter-nvidia.html",
+      "pubDate": "2026-11-19T12:08:19.000Z",
+      "image": "https://static01.nyt.com/images/2026/11/19/multimedia/19trump-summits-media-01-tqhf/19trump-summits-media-01-tqhf-mediumSquareAt3X.jpg",
+      "author": "Lily Kuo and Katie Rogers",
+      "excerpt": "The exclusion of the reporter after she shouted a question to President Trump is an example of how tightly China tries to stage-manage events.",
+      "source": "NYT"
+    },
+    {
+      "title": "The Biggest Video Game Ever",
+      "link": "https://www.nytimes.com/2026/11/19/briefing/grand-theft-auto-vi.html",
+      "pubDate": "2026-11-19T11:56:30.000Z",
+      "image": null,
+      "author": "Sam Sifton",
+      "excerpt": "We look at the release of Grand Theft Auto VI.",
+      "source": "NYT"
+    },
+    {
+      "title": "In Bending to Trump, Law Firm Did $11.8 Million of Free Work for Administration",
+      "link": "https://www.nytimes.com/2026/11/19/us/politics/kirkland-ellis-law-firm-trump.html",
+      "pubDate": "2026-11-19T11:46:56.000Z",
+      "image": "https://static01.nyt.com/images/2026/11/19/multimedia/19dc-lawfirms-zvkt/19dc-lawfirms-zvkt-mediumSquareAt3X.jpg",
+      "author": "Michael S. Schmidt",
+      "excerpt": "The firm Kirkland & Ellis has quietly disclosed that as part of the deal it reached with the Trump administration, it has done about 6,491 hours of free work.",
+      "source": "NYT"
+    },
+    {
+      "title": "Iran Keeps Up Unrelenting Attacks on Ships in the Strait of Hormuz",
+      "link": "https://www.nytimes.com/2026/11/19/business/iran-tanker-attack-strait-of-hormuz.html",
+      "pubDate": "2026-11-19T11:45:10.000Z",
+      "image": "https://static01.nyt.com/images/2026/11/19/multimedia/19Biz-Iran-Attacks-phjw/19Biz-Iran-Attacks-phjw-mediumSquareAt3X.jpg",
+      "author": "Jenny Gross",
+      "excerpt": "A recent strike on a ship that had already been disabled might signal a dangerous new phase for tankers operating in the Persian Gulf and surrounding waters.",
+      "source": "NYT"
+    },
+    {
+      "title": "How Trump Betrayed His Base",
+      "link": "https://www.nytimes.com/2026/11/19/opinion/interesting-times-podcast-kmele-foster-saagar-enjeti.html",
+      "pubDate": "2026-11-19T11:39:21.000Z",
+      "image": "https://static01.nyt.com/images/2026/11/19/opinion/19itpod-enjeti-image/19itpod-enjeti-image-mediumSquareAt3X.jpg",
+      "author": "Kmele Foster and Raina Raskin",
+      "excerpt": "What remains of MAGA?",
+      "source": "NYT"
+    },
+    {
+      "title": "Anthropic’s Trillion-Dollar Debut Is Watershed Moment for A.I.’s Risks and Rewards",
+      "link": "https://www.nytimes.com/2026/11/19/business/anthropic-ipo-washington.html",
+      "pubDate": "2026-11-19T11:27:37.000Z",
+      "image": "https://static01.nyt.com/images/2026/11/19/multimedia/19dc-anthropic-policy-01-vzgq/19dc-anthropic-policy-01-vzgq-mediumSquareAt3X.jpg",
+      "author": "Tony Romm",
+      "excerpt": "As the technology surges ahead, policymakers in Washington have struggled to prepare for potential disruption to workers, businesses and the rest of the economy.",
+      "source": "NYT"
+    },
+    {
+      "title": "Trump Greets Putin as ‘My Friend,’ and the Rise of GLP-1s for Children",
+      "link": "https://www.nytimes.com/2026/11/19/podcasts/the-headlines/trump-putin-glp-1s-for-children.html",
+      "pubDate": "2026-11-19T11:00:07.000Z",
+      "image": "https://static01.nyt.com/images/2026/11/19/multimedia/19theheadlines-PT-01-jmgb/19theheadlines-PT-01-jmgb-mediumSquareAt3X.jpg",
+      "author": "Tracy Mumford, Will Jarvis, Margaret Kadifa, Jake Lucas, Ian Stewart, Paul Sonne and Dani Blum",
+      "excerpt": "Plus, an extreme campaign to stop students from cheating.",
+      "source": "NYT"
+    },
+    {
+      "title": "This Isn’t the Cyberapocalypse, but It Isn’t Great",
+      "link": "https://www.nytimes.com/2026/11/19/opinion/tech-outages-cybersecurity.html",
+      "pubDate": "2026-11-19T10:56:04.000Z",
+      "image": "https://static01.nyt.com/images/2026/11/19/opinion/19goldstein/19goldstein-mediumSquareAt3X.png",
+      "author": "Brett J. Goldstein",
+      "excerpt": "A cybersecurity expert isn’t sold on the theory that there is a connection between the many recent digital failures and crashes.",
+      "source": "NYT"
+    },
+    {
+      "title": "Dustin Moskovitz, an Early Anthropic Investor, Feels a Bit Uneasy About the IPO",
+      "link": "https://www.nytimes.com/2026/11/19/business/anthropic-ipo-dustin-moskovitz.html",
+      "pubDate": "2026-11-19T10:03:03.000Z",
+      "image": "https://static01.nyt.com/images/2026/11/20/business/00anthropic-MOSKOVITZ/00anthropic-MOSKOVITZ-mediumSquareAt3X.jpg",
+      "author": "Theodore Schleifer and Cory Weinberg",
+      "excerpt": "An early investment that Facebook co-founder Dustin Moskovitz made in Anthropic is paying off. But it’s not making him happy.",
+      "source": "NYT"
+    },
+    {
+      "title": "Three MAGA Women Who Defined an Era in Congress Are Exiting",
+      "link": "https://www.nytimes.com/2026/11/19/us/politics/three-maga-women-who-defined-an-era-in-congress-are-exiting.html",
+      "pubDate": "2026-11-19T10:02:53.000Z",
+      "image": "https://static01.nyt.com/images/2026/11/18/multimedia/18dc-cong-meangirls-01-hjkl/18dc-cong-meangirls-01-hjkl-mediumSquareAt3X.jpg",
+      "author": "Annie Karni",
+      "excerpt": "Representatives Marjorie Taylor Greene, Lauren Boebert and Nancy Mace embodied a combative, attention-seeking brand of politics that defined the Republican Congress.",
+      "source": "NYT"
+    },
+    {
+      "title": "Ella Langley Sweeps and Taylor Swift Returns at the 2026 CMA Awards",
+      "link": "https://www.nytimes.com/2026/11/19/arts/music/ella-langley-taylor-swift-cma-awards.html",
+      "pubDate": "2026-11-19T10:02:12.000Z",
+      "image": "https://static01.nyt.com/images/2026/11/19/multimedia/19cul-cma-awards-wzqf/19cul-cma-awards-wzqf-mediumSquareAt3X.jpg",
+      "author": "Jon Pareles and Emily Cochrane",
+      "excerpt": "The “Choosin’ Texas” singer made history and five more key moments from the ceremony.",
+      "source": "NYT"
+    },
+    {
+      "title": "Grand Theft Auto Used to Satirize American Life. Now We’ve Caught Up With It.",
+      "link": "https://www.nytimes.com/2026/11/19/magazine/grand-theft-auto-six.html",
+      "pubDate": "2026-11-19T10:01:49.000Z",
+      "image": null,
+      "author": "Joseph Bernstein",
+      "excerpt": "The G.T.A. series is more than just a crime simulator — it’s a cartoonish sendup of our country. What happens when reality outruns the joke?",
+      "source": "NYT"
+    },
+    {
+      "title": "Late Night Follows Trump’s Meeting with Xi and Putin in China",
+      "link": "https://www.nytimes.com/2026/11/19/arts/television/late-night-trump-xi-putin.html",
+      "pubDate": "2026-11-19T06:49:58.000Z",
+      "image": null,
+      "author": "Trish Bendix",
+      "excerpt": "Jimmy Fallon said that the leaders’ timing made sense: “Now that James Bond has been cast, they’re auditioning villains.”",
+      "source": "NYT"
+    },
+    {
+      "title": "How Nvidia Chips Ended Up Within Reach of China’s Military",
+      "link": "https://www.nytimes.com/2026/11/18/technology/nvidia-alibaba-china-military.html",
+      "pubDate": "2026-11-19T04:13:05.000Z",
+      "image": "https://static01.nyt.com/images/2026/11/18/multimedia/18biz-alibaba-spy-sub2-pqcm/18biz-alibaba-spy-sub2-pqcm-mediumSquareAt3X.jpg",
+      "author": "Paul Mozur and Adam Satariano",
+      "excerpt": "Alibaba, the Chinese internet giant behind the company at the center of the Nvidia spy saga, has used its A.I. computing technology to aid a lab with links to China’s military.",
+      "source": "NYT"
+    },
+    {
+      "title": "Ericka Lomick’s Texas House Win Faces Challenge in State Supreme Court",
+      "link": "https://www.nytimes.com/2026/11/18/us/texas-house-election-ericka-lomick.html",
+      "pubDate": "2026-11-19T03:42:19.000Z",
+      "image": "https://static01.nyt.com/images/2026/11/19/multimedia/19nat-TX-democrat-1-fvck/19nat-TX-democrat-1-fvck-mediumSquareAt3X.jpg",
+      "author": "J. David Goodman",
+      "excerpt": "The Texas electoral wave carried one Democrat to victory even after she had suspended her campaign. Republicans want her declared ineligible.",
       "source": "NYT"
     },
     {
@@ -941,75 +1085,21 @@
       "source": "NYT"
     },
     {
-      "title": "Obama Tells Incoming House Democrats to Keep Up Outreach in Red Areas",
-      "link": "https://www.nytimes.com/2026/11/18/us/politics/barack-obama-house-democrats.html",
-      "pubDate": "2026-11-19T02:54:47.000Z",
-      "image": "https://static01.nyt.com/images/2026/11/18/multimedia/18pol-obama-dems-01-wqbm/18pol-obama-dems-01-wqbm-mediumSquareAt3X.jpg",
-      "author": "Tim Balk",
-      "excerpt": "The former president told the newly elected lawmakers that the country was going through a moment of “generational change.” He also praised Representative Hakeem Jeffries, the likely next speaker.",
+      "title": "10 Best Looks From the Country Music Association Awards Red Carpet",
+      "link": "https://www.nytimes.com/2026/11/18/style/cma-country-music-association-awards-red-carpet.html",
+      "pubDate": "2026-11-19T03:02:16.000Z",
+      "image": "https://static01.nyt.com/images/2026/11/18/multimedia/ST-CMAS-MOSTSTYLISH-lmtk/ST-CMAS-MOSTSTYLISH-lmtk-mediumSquareAt3X.jpg",
+      "author": "the Styles Desk",
+      "excerpt": "There were rhinestones, cowboy hats and more than one tribute to Dolly Parton.",
       "source": "NYT"
     },
     {
-      "title": "Van Gogh Soars to $190.4 Million at Sotheby’s After an 11th-Hour Settlement",
-      "link": "https://www.nytimes.com/2026/11/18/arts/design/van-gogh-painting-auction-sothebys.html",
-      "pubDate": "2026-11-19T02:45:05.000Z",
-      "image": null,
-      "author": "Julia Halperin and Zachary Small",
-      "excerpt": "In less than a week, the painting went from top lot to top liability — and back again. On Wednesday it set a record for the artist.",
-      "source": "NYT"
-    },
-    {
-      "title": "A Massachusetts Town Revolts Against Amazon’s Delivery Drones",
-      "link": "https://www.nytimes.com/2026/11/18/us/politics/amazon-delivery-drones-massachusetts.html",
-      "pubDate": "2026-11-19T02:06:56.000Z",
-      "image": "https://static01.nyt.com/images/2026/11/17/multimedia/00nat-amazon-drones-promo-lzjq/00nat-amazon-drones-promo-lzjq-mediumSquareAt3X.jpg",
-      "author": "Juliet Macur and Sophie Park",
-      "excerpt": "Amazon wants to offer faster delivery. Residents want quiet skies. A Massachusetts suburb wages an epic battle for control of its airspace.",
-      "source": "NYT"
-    },
-    {
-      "title": "Storm Brings Torrential Rain and Floods to the San Francisco Bay Area",
-      "link": "https://www.nytimes.com/2026/11/18/weather/sf-flooding-rain-storm.html",
-      "pubDate": "2026-11-19T02:02:37.000Z",
-      "image": null,
-      "author": "Amy Graff and Soumya Karlamangla",
-      "excerpt": "A Microsoft conference was forced to evacuate people, and restaurants and other businesses closed up shop for the day.",
-      "source": "NYT"
-    },
-    {
-      "title": "Ericka Lomick’s Texas House Win Faces Challenge in State Supreme Court",
-      "link": "https://www.nytimes.com/2026/11/18/us/texas-house-election-ericka-lomick.html",
-      "pubDate": "2026-11-19T01:59:58.000Z",
-      "image": "https://static01.nyt.com/images/2026/11/19/multimedia/19nat-TX-democrat-1-fvck/19nat-TX-democrat-1-fvck-mediumSquareAt3X.jpg",
-      "author": "J. David Goodman",
-      "excerpt": "The Texas electoral wave carried one Democrat to victory even after she had suspended her campaign. Republicans want her declared ineligible.",
-      "source": "NYT"
-    },
-    {
-      "title": "How Nvidia Chips Ended Up Within Reach of China’s Military",
-      "link": "https://www.nytimes.com/2026/11/18/technology/nvidia-alibaba-china-military.html",
-      "pubDate": "2026-11-19T01:54:54.000Z",
-      "image": "https://static01.nyt.com/images/2026/11/18/multimedia/18biz-alibaba-spy-sub2-pqcm/18biz-alibaba-spy-sub2-pqcm-mediumSquareAt3X.jpg",
-      "author": "Paul Mozur and Adam Satariano",
-      "excerpt": "Alibaba, the Chinese internet giant behind the company at the center of the Nvidia spy saga, has used its A.I. computing technology to aid a lab with links to China’s military.",
-      "source": "NYT"
-    },
-    {
-      "title": "Trump Grows Frustrated With Vance Over Iran War Critique",
-      "link": "https://www.nytimes.com/2026/11/18/us/politics/vance-trump-iran-2028-election-rubio.html",
-      "pubDate": "2026-11-19T01:23:01.000Z",
-      "image": "https://static01.nyt.com/images/2026/11/18/multimedia/18dc-vance-ltzv/18dc-vance-ltzv-mediumSquareAt3X.jpg",
-      "author": "Tyler Pager",
-      "excerpt": "The tension comes at a critical juncture for the vice president, who is considering whether to run for president in 2028.",
-      "source": "NYT"
-    },
-    {
-      "title": "Widespread Tech Outages Put Focus on Trump’s National Security Cuts",
-      "link": "https://www.nytimes.com/2026/11/18/us/politics/tech-outages-trump-national-security.html",
-      "pubDate": "2026-11-19T01:16:32.000Z",
-      "image": "https://static01.nyt.com/images/2026/11/18/multimedia/18dc-outage-response-mqzt/18dc-outage-response-mqzt-mediumSquareAt3X.jpg",
-      "author": "Zolan Kanno-Youngs, Dustin Volz and Devlin Barrett",
-      "excerpt": "Lawmakers and cyberdefense experts said diminished staffing at the Cybersecurity and Infrastructure Security Agency and National Security Council could be hobbling the administration’s response.",
+      "title": "Elon Musk Plays Down G.O.P. Support After Midterm Loss",
+      "link": "https://www.nytimes.com/2026/11/18/business/dealbook/elon-musk-midterms.html",
+      "pubDate": "2026-11-19T00:58:47.000Z",
+      "image": "https://static01.nyt.com/images/2026/11/18/multimedia/18dealbook-summit-musk-vltw/18dealbook-summit-musk-vltw-mediumSquareAt3X.jpg",
+      "author": "Michael J. de la Merced and Theodore Schleifer",
+      "excerpt": "The C.E.O. of SpaceX, who spent millions to back Republican candidates, sought to portray himself as a political moderate.",
       "source": "NYT"
     },
     {
@@ -1022,24 +1112,6 @@
       "source": "NYT"
     },
     {
-      "title": "Colombia Rejects Joint Plan With U.S. to Target Drug Gangs",
-      "link": "https://www.nytimes.com/2026/11/18/world/americas/colombia-us-joint-military.html",
-      "pubDate": "2026-11-19T00:30:44.000Z",
-      "image": "https://static01.nyt.com/images/2026/11/18/multimedia/18int-colombia-us-military-fvzp/18int-colombia-us-military-fvzp-mediumSquareAt3X.jpg",
-      "author": "Maria Abi-Habib and Eric Schmitt",
-      "excerpt": "The Colombian president said his nation would not allow American forces to take part in anti-cartel operations on its soil.",
-      "source": "NYT"
-    },
-    {
-      "title": "How Trump Can Avoid a Global Nuclear Arms Race",
-      "link": "https://www.nytimes.com/2026/11/18/opinion/trump-xi-putin-china-nuclear.html",
-      "pubDate": "2026-11-19T00:00:05.000Z",
-      "image": "https://static01.nyt.com/images/2026/11/18/multimedia/18hennigan-mpcf/18hennigan-mpcf-mediumSquareAt3X.jpg",
-      "author": "W.J. Hennigan",
-      "excerpt": "In China, Mr. Trump has the best chance in more than a decade to start to steer the world off the path of an unconstrained three-way nuclear arms race.",
-      "source": "NYT"
-    },
-    {
       "title": "How We Broke Open the Nvidia Investigation",
       "link": "https://www.nytimes.com/2026/11/18/insider/nvidia-jensen-huang-spying-plot.html",
       "pubDate": "2026-11-18T23:52:05.000Z",
@@ -1049,57 +1121,12 @@
       "source": "NYT"
     },
     {
-      "title": "Video from MTA Bus Captures Moments Before Fatal Brooklyn Building Collapse",
-      "link": "https://www.nytimes.com/2026/11/18/nyregion/brooklyn-building-collapse-video.html",
-      "pubDate": "2026-11-18T23:43:53.000Z",
-      "image": null,
-      "author": "Stefanos Chen",
-      "excerpt": "The footage offers a detailed account of the collapse last week, which killed eight people. On Wednesday, the city said that an adjacent building would need to be demolished.",
-      "source": "NYT"
-    },
-    {
-      "title": "Trump Weighs New Strikes on Iran as Israel Presses for Action, Officials Say",
-      "link": "https://www.nytimes.com/2026/11/18/us/politics/trump-israel-iran-war.html",
-      "pubDate": "2026-11-18T23:13:05.000Z",
-      "image": "https://static01.nyt.com/images/2026/11/18/multimedia/18dc-trump-iran-bqfp/18dc-trump-iran-bqfp-mediumSquareAt3X.jpg",
-      "author": "Julian E. Barnes, Eric Schmitt, Maggie Haberman, Jonathan Swan and Ronen Bergman",
-      "excerpt": "Warnings that Iran is rebuilding its missile stockpile and advancing biological and chemical programs have divided the Trump administration.",
-      "source": "NYT"
-    },
-    {
-      "title": "Trump, Putin and Xi to Meet for the First Time",
-      "link": "https://www.nytimes.com/2026/11/18/briefing/trump-putin-xi-meeting.html",
-      "pubDate": "2026-11-18T22:42:26.000Z",
-      "image": "https://static01.nyt.com/images/2026/11/18/multimedia/18evening-nl-trump-putin-xi-fvwp/18evening-nl-trump-putin-xi-fvwp-mediumSquareAt3X.jpg",
-      "author": "Matthew Cullen",
-      "excerpt": "Also, Democrats nominate Jeffries as speaker, making history. Here’s the latest at the end of Wednesday.",
-      "source": "NYT"
-    },
-    {
-      "title": "Trump ‘Disappeared’ Them in 2025. I Found Them, Locked Up and Famished.",
-      "link": "https://www.nytimes.com/2026/11/18/opinion/trump-deportation-south-sudan.html",
-      "pubDate": "2026-11-18T22:15:23.000Z",
-      "image": "https://static01.nyt.com/images/2026/11/19/multimedia/18kristof-zvlc/18kristof-zvlc-mediumSquareAt3X.jpg",
-      "author": "Nicholas Kristof",
-      "excerpt": "Foisting immigrants on impoverished African countries where they are not treated humanely seems to me a moral and practical failure.",
-      "source": "NYT"
-    },
-    {
-      "title": "Florida’s El Niño Rains Bring Hail and High Water",
-      "link": "https://www.nytimes.com/2026/11/18/weather/florida-flooding-rain.html",
-      "pubDate": "2026-11-18T21:55:08.000Z",
-      "image": "https://static01.nyt.com/images/2026/11/18/multimedia/18nat-florida-weatherscene-mtpv/18nat-florida-weatherscene-mtpv-mediumSquareAt3X.jpg",
-      "author": "David Ovalle and Nazaneen Ghaffar",
-      "excerpt": "Officials point to particularly strong El Niño conditions, a climate pattern that delivers wetter weather to parts of the southern United States, as Florida faces torrential rain.",
-      "source": "NYT"
-    },
-    {
-      "title": "That ‘SNL’ Sister Sketch: It’s More Like Nonfiction",
-      "link": "https://www.nytimes.com/2026/11/18/upshot/sister-snl-elder-care.html",
-      "pubDate": "2026-11-18T21:13:15.000Z",
-      "image": null,
-      "author": "Claire Cain Miller and Alicia Parlapiano",
-      "excerpt": "“Saturday Night Live” exposed a truth about gender roles in caring for aging parents: While many nations have a federal safety net for older adults, the U.S. has sisters.",
+      "title": "Fans Flock to the Hollywood Sign. Neighbors Say, Get Off My Road.",
+      "link": "https://www.nytimes.com/2026/11/18/us/hollywood-sign-lawsuit.html",
+      "pubDate": "2026-11-18T21:43:14.000Z",
+      "image": "https://static01.nyt.com/images/2026/11/18/multimedia/18nat-hollywood-sign-zqkl/18nat-hollywood-sign-zqkl-mediumSquareAt3X-v2.jpg",
+      "author": "Orlando Mayorquín",
+      "excerpt": "The residents of the Hollywood Hills have sued Los Angeles, saying the city has not done enough to address the dangerous conditions created by tourists vying for a glimpse of the iconic Hollywood sign.",
       "source": "NYT"
     }
   ]
