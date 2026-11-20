@@ -1,6 +1,60 @@
 {
   "spaceNews": [
     {
+      "title": "Vice Chief of Space Operations visits Thomas Jefferson High School for Guardian Spark outreach",
+      "link": "https://www.spaceforce.mil/News/Article-Display/Article/4656331/vice-chief-of-space-operations-visits-thomas-jefferson-high-school-for-guardian/",
+      "pubDate": "2026-11-20T19:23:00.000Z",
+      "image": "https://media.defense.gov/2026/Nov/20/2004034671/700/700/0/261118-F-EC226-1078.JPG",
+      "author": "Pentagon News",
+      "excerpt": "Guardian Spark is a U.S. Space Force outreach program that connects Guardians with students in grades 3 through 12 and introduces them to the service’s mission, personnel and career opportunities.",
+      "source": "Space Force"
+    },
+    {
+      "title": "NASA Honor Awards Ceremony Recognizes Employees at Stennis Space Center ",
+      "link": "https://www.nasa.gov/centers-and-facilities/stennis/honor-awards-ceremony-at-stennis/",
+      "pubDate": "2026-11-20T16:27:46.000Z",
+      "image": "https://www.nasa.gov/wp-content/uploads/2026/11/dsc-6269-stennis-honor-awards-1.jpg?w=1024",
+      "author": "LaToya Dean",
+      "excerpt": "Employees contributing to NASA’s mission at the agency’s Stennis Space Center near Bay St. Louis, Mississippi, were recognized during the center’s Honor Awards ceremony on Nov. 18. Presenting the awards were Christine Powell, NASA Stennis center director, and Jeremy Parsons, the agency’s Artemis program manager respons",
+      "source": "NASA"
+    },
+    {
+      "title": "NASA’s Curiosity Mars Rover Collects Samples",
+      "link": "https://www.nasa.gov/image-article/nasas-curiosity-mars-rover-collects-samples/",
+      "pubDate": "2026-11-20T15:53:24.000Z",
+      "image": "https://www.nasa.gov/wp-content/uploads/2026/11/pia26804.jpg?w=2048",
+      "author": "HQ Web Team",
+      "excerpt": "This Nov. 16 collage shows 49 drill holes captured by NASA’s Curiosity Mars rover as of November 2026. Each hole represents a sample collected from rocks on the Martian surface; Curiosity’s drill, located on the end of its robotic arm, drops pulverized rock samples into instruments in its belly that analyze their compo",
+      "source": "NASA"
+    },
+    {
+      "title": "Atomic-6 Wants to Shield Astronauts Against Untrackable Debris",
+      "link": "https://payloadspace.com/atomic-6-wants-to-shield-astronauts-against-untrackable-debris/",
+      "pubDate": "2026-11-20T14:00:00.000Z",
+      "image": "https://payloadspace.com/wp-content/uploads/2026/11/Dummy-after-aluminum-plate-shot-200x200.jpg",
+      "author": "Victoria Woodburn",
+      "excerpt": "Atomic-6 built Space Armor to shield satellites from debris too small to track. Now, it's exploring whether the same tiles could protect astronauts on spacewalks. The post Atomic-6 Wants to Shield Astronauts Against Untrackable Debris appeared first on Payload.",
+      "source": "Payload"
+    },
+    {
+      "title": "Rubin brings the universe into focus",
+      "link": "https://www.astronomy.com/science/rubin-brings-the-universe-into-focus/",
+      "pubDate": "2026-11-20T14:00:00.000Z",
+      "image": null,
+      "author": "Richard Talcott",
+      "excerpt": "After more than 20 years of planning, construction, and testing, astronomers have officially started the Legacy Survey of Space and Time (LSST). The survey will snap about 1,000 images per night with a 3.2-gigapixel camera — the largest digital camera in the world — attached to the 8.4-meter telescope at the Vera C. Ru",
+      "source": "Astronomy Magazine"
+    },
+    {
+      "title": "RBC Signals Raises $10M to Commercialize New Comms Tech",
+      "link": "https://payloadspace.com/rbc-signals-raises-10m-to-commercialize-new-comms-tech/",
+      "pubDate": "2026-11-20T13:21:34.000Z",
+      "image": "https://payloadspace.com/wp-content/uploads/2026/11/News_Quartz-Ground-Station-1536x1024-1-200x200.webp",
+      "author": "Douglas Gorman",
+      "excerpt": "The fresh funds are intended to expand the company’s government services business, and scale its product lineup to commercialize capabilities such as intersatellite links, optical ground comms, SDA, and spectrum monitoring. The post RBC Signals Raises $10M to Commercialize New Comms Tech appeared first on Payload.",
+      "source": "Payload"
+    },
+    {
       "title": "The BepiColombo spacecraft is finally entering orbit around Mercury",
       "link": "https://www.newscientist.com/article/2599799-the-bepicolombo-spacecraft-is-finally-entering-orbit-around-mercury/?utm_campaign=RSS|NSNS&utm_content=space&utm_medium=RSS&utm_source=NSNS",
       "pubDate": "2026-11-20T08:00:00.000Z",
@@ -33,7 +87,7 @@
       "pubDate": "2026-11-20T05:05:00.000Z",
       "image": "https://assets.science.nasa.gov/dynamicimage/assets/science/cds/apod/apod/2026/november/IMG_4364N_Kyriazis.jpg?w=2048&#038;h=2048&#038;fit=clip",
       "author": "",
-      "excerpt": "APOD Science APOD APOD: 2026 November… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astr",
+      "excerpt": "APODScienceAPODAPOD: 2026 November…Today’s APODArchiveSubmissionsIndexSearchCalendarRSSEducationAboutDiscuss APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer. V-G-R",
       "source": "NASA"
     },
     {
@@ -154,15 +208,6 @@
       "source": "NASA"
     },
     {
-      "title": "El Niño Rains Paint the Atacama",
-      "link": "https://science.nasa.gov/earth/earth-observatory/el-nino-rains-paint-the-atacama/",
-      "pubDate": "2026-11-19T05:00:00.000Z",
-      "image": "https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2026/el-niño-rains-paint-the-atacama/atacamabloom_oli_20260914.jpg",
-      "author": "",
-      "excerpt": "Winter precipitation helped wake dormant seeds in northern Chile, carpeting the desert with what may be the region’s most extensive flowering of the satellite era.",
-      "source": "NASA"
-    },
-    {
       "title": "Sophia Space Tests Orbital-Compute Software on Kepler Constellation",
       "link": "https://payloadspace.com/sophia-space-tests-orbital-compute-software-on-kepler-constellation/",
       "pubDate": "2026-11-19T05:00:00.000Z",
@@ -170,15 +215,6 @@
       "author": "Victoria Woodburn",
       "excerpt": "Sophia Space has deployed its Sophia Orbital Operating System (SOOS) across multiple Kepler Communications optical-data-relay sats. The post Sophia Space Tests Orbital-Compute Software on Kepler Constellation appeared first on Payload.",
       "source": "Payload"
-    },
-    {
-      "title": "NASA Sets Coverage for Northrop Grumman CRS-25 Launch, Prelaunch",
-      "link": "https://www.nasa.gov/news-release/nasa-sets-coverage-for-northrop-grumman-crs-25-launch-prelaunch/",
-      "pubDate": "2026-11-18T22:19:17.000Z",
-      "image": "https://www.nasa.gov/wp-content/uploads/2026/11/ksc-20260411-ph-nrg01-0009large.jpg?w=1920",
-      "author": "Jessica Taveau",
-      "excerpt": "NASA, Northrop Grumman, and SpaceX are targeting no earlier than 10:47 a.m. EST, Sunday, Nov. 29, for the next launch delivering science investigations, supplies, and equipment to the International Space Station. The agency also will hold a prelaunch media teleconference on Monday, Nov. 23. Filled with approximately 11",
-      "source": "NASA"
     },
     {
       "title": "Flexell Space and ALATYR Sign MoU to Explore Solar Power Solutions for Orbital Data Centers",
@@ -388,15 +424,6 @@
       "source": "New Scientist"
     },
     {
-      "title": "Exclusive: SpaceComputer Books a D-Orbit Demo Mission with Aptos Orbital in 2027",
-      "link": "https://payloadspace.com/exclusive-spacecomputer-books-a-d-orbit-demo-mission-in-2027/",
-      "pubDate": "2026-11-16T14:00:00.000Z",
-      "image": "https://payloadspace.com/wp-content/uploads/2026/11/DSC03179-1-200x200.jpg",
-      "author": "Douglas Gorman",
-      "excerpt": "A new security standard is headed to orbit. The post Exclusive: SpaceComputer Books a D-Orbit Demo Mission with Aptos Orbital in 2027 appeared first on Payload.",
-      "source": "Payload"
-    },
-    {
       "title": "Could planets that orbit other stars be nonspherical?",
       "link": "https://www.astronomy.com/science/could-planets-that-orbit-other-stars-be-nonspherical/",
       "pubDate": "2026-11-16T14:00:00.000Z",
@@ -404,15 +431,6 @@
       "author": "Astronomy Staff",
       "excerpt": "Could planets that orbit other stars be nonspherical shapes, such as ovals or pears, depending on composition? Rich LivitskiSeal Beach, California Bodies large enough to be considered planets have enough mass that gravity molds them into a roughly spherical shape. The key word here is roughly — other factors also come ",
       "source": "Astronomy Magazine"
-    },
-    {
-      "title": "Midterms Impact on Defense Budgets",
-      "link": "https://payloadspace.com/midterms-impact-on-defense-budgets/",
-      "pubDate": "2026-11-16T12:07:00.000Z",
-      "image": "https://payloadspace.com/wp-content/uploads/2026/11/image-1-1024x611-NZdY3p-200x200.png",
-      "author": "Max Puhalevich",
-      "excerpt": "Democrats sweep Congress, in dramatic fashion. Soo, what does that mean for space and defense spending? The post Midterms Impact on Defense Budgets appeared first on Payload.",
-      "source": "Payload"
     },
     {
       "title": "The end of the universe could emerge suddenly from nothing",
@@ -485,15 +503,6 @@
       "author": "Houston Harwood",
       "excerpt": "Liftoff from Space Launch Complex 41 at Cape Canaveral Space Force Station is now scheduled for 12:11 p.m. EST (1711 UTC) on Sunday.",
       "source": "Spaceflight Now"
-    },
-    {
-      "title": "The Sky This Week from November 13 to 20: The Leonids peak",
-      "link": "https://www.astronomy.com/the-sky-this-week/the-sky-this-week-from-november-13-to-20-2026/",
-      "pubDate": "2026-11-13T06:00:00.000Z",
-      "image": null,
-      "author": "Alison Klesman",
-      "excerpt": "Friday, November 13The Moon reaches apogee, the farthest point from Earth in its orbit, at 12:50 P.M. EST. At that time, our satellite will be 252,040 miles (405,619 kilometers) from Earth. Already 60° high in the east by 8 P.M. local time is M33, the Pinwheel Galaxy in Triangulum. This lovely spiral glows at 6thContin",
-      "source": "Astronomy Magazine"
     },
     {
       "title": "UARX Space Marks a Milestone for Spain’s Space Industry with the Maiden Flight of OSSIE-D, Featuring a Complete Power Subsystem Supplied by DHV Technology",
@@ -791,15 +800,6 @@
       "author": "Pentagon News",
       "excerpt": "Following the signing of Executive Order 14184, Tech. Sgt. Kandice Whitt returned to military service after previously being discharged under the COVID-19 vaccination mandate.",
       "source": "Space Force"
-    },
-    {
-      "title": "CMSSF highlights cyber Guardians’ role in creating joint decision advantage",
-      "link": "https://www.spaceforce.mil/News/Article-Display/Article/4604507/cmssf-highlights-cyber-guardians-role-in-creating-joint-decision-advantage/",
-      "pubDate": "2026-09-17T20:36:00.000Z",
-      "image": "https://media.defense.gov/2026/Sep/18/2004002773/700/700/0/280915-F-KN216-1571.JPG",
-      "author": "Tech. Sgt. William A. O’Brien",
-      "excerpt": "CMSSF Bentivegna detailed the service's \"train, test and trust\" approach to developing mission-ready cyber operators capable of defending critical space and joint infrastructure.",
-      "source": "Space Force"
     }
   ],
   "industryNews": [
@@ -896,48 +896,147 @@
   ],
   "nytNews": [
     {
-      "title": "A Summit Gives Putin the Win He Craves: Equal Stature With Superpowers",
-      "link": "https://www.nytimes.com/2026/11/20/world/europe/putin-trump-xi-summit-apec.html",
-      "pubDate": "2026-11-20T11:04:47.000Z",
-      "image": "https://static01.nyt.com/images/2026/11/20/multimedia/20int-russia-putin-assess-1-qhzj/20int-russia-putin-assess-1-qhzj-mediumSquareAt3X.jpg",
-      "author": "Paul Sonne",
-      "excerpt": "Standing alongside the U.S. and Chinese leaders, President Vladimir V. Putin secured a symbolic triumph in his long quest to restore Russia’s place as a global power.",
+      "title": "Britain and Brussels Have Begun a Brexit Rollback. How Far Will It Go?",
+      "link": "https://www.nytimes.com/2026/11/20/world/europe/britain-and-brussels-have-begun-a-brexit-rollback-how-far-will-it-go.html",
+      "pubDate": "2026-11-20T19:50:02.000Z",
+      "image": "https://static01.nyt.com/images/2026/11/20/multimedia/20int-eu-uk-assess-photo1-hwjg/20int-eu-uk-assess-photo1-hwjg-mediumSquareAt3X.jpg",
+      "author": "Michael D. Shear and Jeanna Smialek",
+      "excerpt": "The United Kingdom is removing barriers with the European Union a decade after it voted to leave. Global turmoil, and the disruptive policies of President Trump, helped push them back together.",
       "source": "NYT"
     },
     {
-      "title": "Fear and Humiliation at Nvidia, and Why Google Bought Spirit Airlines Data",
-      "link": "https://www.nytimes.com/2026/11/20/podcasts/the-headlines/fear-humiliation-nvidia-google-spirit-airlines-data-quiz.html",
-      "pubDate": "2026-11-20T11:00:08.000Z",
-      "image": "https://static01.nyt.com/images/2026/11/20/multimedia/20theheadlines-huang-wclj/20theheadlines-huang-wclj-mediumSquareAt3X.jpg",
-      "author": "Tracy Mumford, Will Jarvis, Margaret Kadifa, Jake Lucas, Ian Stewart, Hannah Beech and Rebecca Davis O’Brien",
-      "excerpt": "Plus, the Friday news quiz.",
+      "title": "Anthropic Shares Slip as AI and Tech Stock Sell-Off Continues",
+      "link": "https://www.nytimes.com/2026/11/20/business/anthropic-ai-stocks-sp500.html",
+      "pubDate": "2026-11-20T19:41:08.000Z",
+      "image": "https://static01.nyt.com/images/2026/11/20/multimedia/20biz-AI-markets-02-zfhg/20biz-AI-markets-02-zfhg-mediumSquareAt3X.jpg",
+      "author": "Joe Rennison",
+      "excerpt": "Investors are growing more concerned about the durability of the artificial intelligence boom even after Anthropic’s successful market debut on Thursday.",
       "source": "NYT"
     },
     {
-      "title": "Elon Musk’s $500 Million Mistake",
-      "link": "https://www.nytimes.com/2026/11/20/opinion/elon-musk-regrets-moderate.html",
-      "pubDate": "2026-11-20T10:04:15.000Z",
-      "image": "https://static01.nyt.com/images/2026/11/20/multimedia/20goldberg-tgbj/20goldberg-tgbj-mediumSquareAt3X.jpg",
-      "author": "Michelle Goldberg",
-      "excerpt": "Musk can’t escape politics, and not just because his about-face is so transparently self-serving.",
+      "title": "E-Bikes. Arson. Illegal Homes. Why Deadly N.Y.C. Fires Are on the Rise.",
+      "link": "https://www.nytimes.com/2026/11/20/nyregion/nyc-fire-deaths-city-council-hearing.html",
+      "pubDate": "2026-11-20T19:22:57.000Z",
+      "image": "https://static01.nyt.com/images/2026/11/20/multimedia/20met-fires-01-btcm/20met-fires-01-btcm-mediumSquareAt3X.jpg",
+      "author": "Ashley Southall",
+      "excerpt": "Fatalities have nearly doubled this year. While a series of factors has driven the increase, the deadliest blazes have occurred in homes built more than 100 years ago.",
       "source": "NYT"
     },
     {
-      "title": "Ron DeSantis Ponders a Presidential Run in a Post-Trump World",
-      "link": "https://www.nytimes.com/2026/11/20/us/politics/ron-desantis-florida-2028.html",
-      "pubDate": "2026-11-20T10:03:57.000Z",
-      "image": "https://static01.nyt.com/images/2026/11/20/multimedia/20pol-desantis-01-qtlc/20pol-desantis-01-qtlc-mediumSquareAt3X.jpg",
-      "author": "Patricia Mazzei",
-      "excerpt": "In a wide-ranging interview, the governor of Florida talked about the potential timing of a presidential run. “I haven’t made any decisions,” he said.",
+      "title": "As a Storm Floods Florida, Heavy Rain Will Creep Up the East Coast",
+      "link": "https://www.nytimes.com/2026/11/20/weather/tropical-storm-kyle-florida-rain-thanksgiving.html",
+      "pubDate": "2026-11-20T19:14:26.000Z",
+      "image": "https://static01.nyt.com/images/2026/11/19/multimedia/19xp-flooding-fmkq/19xp-flooding-fmkq-mediumSquareAt3X.jpg",
+      "author": "Judson Jones",
+      "excerpt": "A potential tropical storm off the coast of Florida is expected to move up the coast and could snarl Thanksgiving week travel.",
+      "source": "NYT"
+    },
+    {
+      "title": "Democrats Strengthen the Legal Line With Attorneys General Triumphs",
+      "link": "https://www.nytimes.com/2026/11/20/us/elections/democrats-attorney-general.html",
+      "pubDate": "2026-11-20T19:03:15.000Z",
+      "image": "https://static01.nyt.com/images/2026/11/07/multimedia/07nat-attygen-sweep-01-qclg/07nat-attygen-sweep-01-qclg-mediumSquareAt3X-v2.jpg",
+      "author": "David W. Chen",
+      "excerpt": "Once considered vulnerable to local issues, Democratic candidates for attorneys general romped on Tuesday, with the final contests called against Republican attorneys general in Kansas and Ohio.",
+      "source": "NYT"
+    },
+    {
+      "title": "Jonathan Yardley, Who Reviewed 3,000 Books and Pulled Zero Punches, Has Died",
+      "link": "https://www.nytimes.com/2026/11/20/books/jonathan-yardley-dead.html",
+      "pubDate": "2026-11-20T18:40:30.000Z",
+      "image": "https://static01.nyt.com/images/2026/11/18/multimedia/00obit-yardley-hmlw/00obit-yardley-hmlw-mediumSquareAt3X.jpg",
+      "author": "Sam Roberts",
+      "excerpt": "As a Pulitzer Prize-winning critic for The Washington Post, he believed praise could be boring. He was 87.",
+      "source": "NYT"
+    },
+    {
+      "title": "John Grisham: Scott Colom Makes Me Proud of Mississippi",
+      "link": "https://www.nytimes.com/2026/11/20/opinion/colom-mississippi-grisham.html",
+      "pubDate": "2026-11-20T18:29:21.000Z",
+      "image": "https://static01.nyt.com/images/2026/11/20/multimedia/20grisham-kwgv/20grisham-kwgv-mediumSquareAt3X.jpg",
+      "author": "John Grisham",
+      "excerpt": "As a kid, I once watched the Ku Klux Klan burn a cross in my hometown in Mississippi. Sixty years later, I look forward to shaking Mr. Colom’s hand and telling him I’m proud he’s my senator.",
+      "source": "NYT"
+    },
+    {
+      "title": "Alice Huang, Accused of Spying on Nvidia’s CEO, Is Linked to Firms With Ties to China’s Military",
+      "link": "https://www.nytimes.com/2026/11/20/us/politics/nvidia-alice-huang-chips-china.html",
+      "pubDate": "2026-11-20T18:05:36.000Z",
+      "image": "https://static01.nyt.com/images/2026/11/19/multimedia/19dc-spy-chip-tbpw/19dc-spy-chip-tbpw-mediumSquareAt3X.jpg",
+      "author": "Julian E. Barnes, Paul Mozur and Ana Swanson",
+      "excerpt": "Companies linked to Alice Huang, the woman at the heart of the Nvidia scandal, are part of a network of Chinese tech firms and defense contractors that need advanced computing power.",
+      "source": "NYT"
+    },
+    {
+      "title": "A Supermodel Will Finally Get Her Day in Court",
+      "link": "https://www.nytimes.com/2026/11/20/style/carre-otis-gerald-marie-lawsuit-sexual-abuse.html",
+      "pubDate": "2026-11-20T17:21:42.000Z",
+      "image": "https://static01.nyt.com/images/2026/11/20/fashion/20MARIE-OTIS-v/20MARIE-OTIS-v-mediumSquareAt3X.jpg",
+      "author": "Vanessa Friedman",
+      "excerpt": "Carré Otis spent years trying to serve her former agent in a lawsuit accusing him of sexual abuse. It took an international operation to make it happen.",
+      "source": "NYT"
+    },
+    {
+      "title": "What Are King Tides, and Why Is Everyone Talking About Them?",
+      "link": "https://www.nytimes.com/2026/11/20/weather/what-is-a-king-tide.html",
+      "pubDate": "2026-11-20T17:10:28.000Z",
+      "image": "https://static01.nyt.com/images/2026/11/19/multimedia/00wea-kingtide-jmzl/00wea-kingtide-jmzl-mediumSquareAt3X.jpg",
+      "author": "Amy Graff",
+      "excerpt": "Because of El Niño, the Pacific Ocean is already higher than normal. This year, that could lead to some especially high tides.",
+      "source": "NYT"
+    },
+    {
+      "title": "As He Leaves Office, Ken Paxton Drops Suits Against Political Opponents",
+      "link": "https://www.nytimes.com/2026/11/20/us/texas-ken-paxton-drops-lawsuits.html",
+      "pubDate": "2026-11-20T15:56:17.000Z",
+      "image": "https://static01.nyt.com/images/2026/11/20/multimedia/20nat-paxton-1t-pbwj/20nat-paxton-1t-pbwj-mediumSquareAt3X.jpg",
+      "author": "J. David Goodman",
+      "excerpt": "The Texas attorney general has abandoned suits against Muslim and immigrant rights groups — and the N.C.A.A.",
+      "source": "NYT"
+    },
+    {
+      "title": "The Race to Build a Quantum Computer Has Become a Sprint",
+      "link": "https://www.nytimes.com/2026/11/20/science/quantum-computer-neutral-atoms.html",
+      "pubDate": "2026-11-20T15:51:47.000Z",
+      "image": "https://static01.nyt.com/images/2026/11/19/multimedia/19SCI-QUANTUM-COMPUTING-stillpromo/19SCI-QUANTUM-COMPUTING-stillpromo-mediumSquareAt3X.jpg",
+      "author": "Cade Metz",
+      "excerpt": "A rising technology based on “neutral atoms” has accelerated the competition — prompting many experts to believe that a usable machine could arrive this decade.",
+      "source": "NYT"
+    },
+    {
+      "title": "C.F.T.C. Officials Considered Investigating Trump’s Memecoin, Then Punted",
+      "link": "https://www.nytimes.com/2026/11/20/us/politics/cftc-cryptocurrency-trump-memecoin.html",
+      "pubDate": "2026-11-20T15:03:34.000Z",
+      "image": "https://static01.nyt.com/images/2026/11/18/multimedia/dc-memecoin-mzcq/dc-memecoin-mzcq-mediumSquareAt3X.jpg",
+      "author": "Sharon LaFraniere",
+      "excerpt": "Lawyers at the Commodity Futures Trading Commission looked into possible fraud soon after the digital token’s launch, then decided they would not get the commission’s support.",
       "source": "NYT"
     },
     {
       "title": "How Jensen Huang Made Humiliation Routine at Nvidia",
       "link": "https://www.nytimes.com/2026/11/20/technology/jensen-huang-nvidia-culture.html",
-      "pubDate": "2026-11-20T10:03:50.000Z",
+      "pubDate": "2026-11-20T14:43:10.000Z",
       "image": "https://static01.nyt.com/images/2026/11/18/multimedia/00BIZ-nvidia-culture-jensen-kbpz/00BIZ-nvidia-culture-jensen-kbpz-mediumSquareAt3X.jpg",
       "author": "Emily Steel, Kalley Huang, Ryan Mac and Tripp Mickle",
       "excerpt": "The Nvidia co-founder’s belittling behavior toward employees goes back decades. It once led to a confidential settlement agreement with an executive who said Mr. Huang “terrorized” staff.",
+      "source": "NYT"
+    },
+    {
+      "title": "Should You Invest in Anthropic? Here’s What to Consider.",
+      "link": "https://www.nytimes.com/2026/11/19/your-money/anthropic-ipo-investing.html",
+      "pubDate": "2026-11-20T14:39:17.000Z",
+      "image": "https://static01.nyt.com/images/2026/11/18/business/00money-ipo/00money-ipo-mediumSquareAt3X.jpg",
+      "author": "Tara Siegel Bernard",
+      "excerpt": "Placing a meaningful portion of your wealth on a single stock is never a good idea, but if you feel tempted to invest, ask yourself several questions first.",
+      "source": "NYT"
+    },
+    {
+      "title": "The Democrats’ Plan for Investigating Trump",
+      "link": "https://www.nytimes.com/2026/11/20/opinion/ezra-klein-podcast-robert-garcia.html",
+      "pubDate": "2026-11-20T10:04:03.000Z",
+      "image": "https://static01.nyt.com/images/2026/11/20/opinion/20eks-garcia-image01/20eks-garcia-image01-mediumSquareAt3X.png",
+      "author": "Ezra Klein and Jack McCordick",
+      "excerpt": "The incoming House Oversight Committee chairman, Robert Garcia, lays out his committee’s top targets.",
       "source": "NYT"
     },
     {
@@ -950,174 +1049,21 @@
       "source": "NYT"
     },
     {
-      "title": "These Underdogs Were Just Elected. No One Is More Surprised Than They Are.",
-      "link": "https://www.nytimes.com/2026/11/20/us/democrats-unexpected-winning-candidates-midterms.html",
-      "pubDate": "2026-11-20T10:02:31.000Z",
-      "image": "https://static01.nyt.com/images/2026/11/20/multimedia/20nat-accidental-winners-top-pjwf/20nat-accidental-winners-top-pjwf-mediumSquareAt3X-v2.jpg",
-      "author": "Reis Thebault",
-      "excerpt": "An Arkansas dairy farmer’s Democratic victory in a race for county assessor was one of many unlikely down-ballot wins that showed the depth of the blue wave.",
+      "title": "Sheet-Pan Recipes for Friendsgiving",
+      "link": "https://cooking.nytimes.com/article/thanksgiving-sheet-pan-recipes-friendsgiving",
+      "pubDate": "2026-11-18T16:33:36.000Z",
+      "image": "https://static01.nyt.com/images/2026/11/05/multimedia/05FD-SHEET-PAN-FRIENDSGIVING-honeynutsquashchickpeas-pgfl/05FD-SHEET-PAN-FRIENDSGIVING-honeynutsquashchickpeas-pgfl-mediumSquareAt3X.jpg",
+      "author": "Sharon Attia",
+      "excerpt": "Spatchcock turkey, scalloped potatoes, Texas sheet cake and more easy, low cleanup dishes for a laid-back feast.",
       "source": "NYT"
     },
     {
-      "title": "The Race to Build a Quantum Computer Has Become a Sprint",
-      "link": "https://www.nytimes.com/2026/11/20/science/quantum-computer-neutral-atoms.html",
-      "pubDate": "2026-11-20T10:01:58.000Z",
-      "image": "https://static01.nyt.com/images/2026/11/19/multimedia/19SCI-QUANTUM-COMPUTING-stillpromo/19SCI-QUANTUM-COMPUTING-stillpromo-mediumSquareAt3X.jpg",
-      "author": "Cade Metz",
-      "excerpt": "A rising technology based on “neutral atoms” has accelerated the competition — prompting many experts to believe that a usable machine could arrive this decade.",
-      "source": "NYT"
-    },
-    {
-      "title": "China’s A.I. Ambitions Are Running Into a Money Problem",
-      "link": "https://www.nytimes.com/2026/11/20/business/china-ai-investment-spending.html",
-      "pubDate": "2026-11-20T10:01:07.000Z",
-      "image": "https://static01.nyt.com/images/2026/11/20/multimedia/20Biz-Ai-China-01-wjcq/20Biz-Ai-China-01-wjcq-mediumSquareAt3X.jpg",
-      "author": "Sui-Lee Wee and Li You",
-      "excerpt": "While Anthropic and other Silicon Valley A.I. giants are raising tens of billions in capital, Chinese rivals are struggling to keep pace financially.",
-      "source": "NYT"
-    },
-    {
-      "title": "Gen Z-ers Are Rising Up. This Mayor Is Joining Them.",
-      "link": "https://www.nytimes.com/2026/11/20/opinion/france-gen-z-protests-bally-bagayoko.html",
-      "pubDate": "2026-11-20T10:00:40.000Z",
-      "image": null,
-      "author": "Bally Bagayoko, Tara Jayaram and Ingrid Holmquist",
-      "excerpt": "Outside Paris, where young people have taken to the streets, this French mayor is standing with Gen Z — and urging other leaders to see the generation as an asset.",
-      "source": "NYT"
-    },
-    {
-      "title": "From Gig Workers to Tycoons, China Is Reaching Into Every Pocket",
-      "link": "https://www.nytimes.com/2026/11/20/business/from-gig-workers-to-tycoons-china-is-reaching-into-every-pocket.html",
-      "pubDate": "2026-11-20T10:00:32.000Z",
-      "image": "https://static01.nyt.com/images/2026/11/18/business/18biz-newworldmoney/18biz-newworldmoney-mediumSquareAt3X.jpg",
-      "author": "Li Yuan",
-      "excerpt": "China’s economy is sluggish, and its population is aging. Its people are feeling the sting of new taxes.",
-      "source": "NYT"
-    },
-    {
-      "title": "The War Is Ravaging Ukraine’s Wildlife, Too",
-      "link": "https://www.nytimes.com/2026/11/20/world/europe/ukraine-wildlife-war.html",
-      "pubDate": "2026-11-20T10:00:26.000Z",
-      "image": "https://static01.nyt.com/images/2026/09/23/multimedia/00int-ukraine-wildlife-01-mfkg/00int-ukraine-wildlife-01-mfkg-mediumSquareAt3X.jpg",
-      "author": "Nicole Tung",
-      "excerpt": "The war in Ukraine has had untold consequences for dolphins, moose, storks and a huge range of other wildlife whose habitats are now rife with anti-drone netting, minefields or in the direct line of fire.",
-      "source": "NYT"
-    },
-    {
-      "title": "Grand Theft Auto: An American Icon, Born in Scotland",
-      "link": "https://www.nytimes.com/2026/11/18/world/europe/grand-theft-auto-america-scotland-global-reaction.html",
-      "pubDate": "2026-11-20T08:53:25.000Z",
-      "image": "https://static01.nyt.com/images/2026/11/18/multimedia/18int-gta-america-fmvw/18int-gta-america-fmvw-mediumSquareAt3X.jpg",
-      "author": "Amelia Nierenberg",
-      "excerpt": "The game franchise is a cultural juggernaut, played around the world as a violent, immersive ride through American cities. But the series originated in Scotland from a pop culture collage.",
-      "source": "NYT"
-    },
-    {
-      "title": "Jimmy Kimmel Recaps Trump’s ‘Big Dim Summit’",
-      "link": "https://www.nytimes.com/2026/11/20/arts/television/jimmy-kimmel-trump-xi-putin-summit.html",
-      "pubDate": "2026-11-20T08:14:43.000Z",
-      "image": null,
-      "author": "Trish Bendix",
-      "excerpt": "“My God, even if you voted for this guy, you have to admit, he has the worst taste in friends,” the late night host said of Trump’s chummy meeting with Xi Jinping and Vladimir Putin.",
-      "source": "NYT"
-    },
-    {
-      "title": "Justice Department Gives Up on Alaska Senate Lawsuit",
-      "link": "https://www.nytimes.com/2026/11/19/us/politics/justice-department-gives-up-on-alaska-senate-lawsuit.html",
-      "pubDate": "2026-11-20T03:47:05.000Z",
-      "image": "https://static01.nyt.com/images/2026/11/19/multimedia/19pol-alaska-suit-tkqp/19pol-alaska-suit-tkqp-mediumSquareAt3X.jpg",
-      "author": "Bayliss Wagner",
-      "excerpt": "The Trump administration had sought to block certification of election results if Senator Dan Sullivan, a Republican, lost narrowly in his bid for re-election. Critics had called the suit meritless.",
-      "source": "NYT"
-    },
-    {
-      "title": "Top White House Cybersecurity Official Is Replaced",
-      "link": "https://www.nytimes.com/2026/11/19/us/politics/white-house-cyber-director-departs.html",
-      "pubDate": "2026-11-20T03:31:41.000Z",
-      "image": "https://static01.nyt.com/images/2026/11/19/multimedia/19dc-cyber-director-ckwm/19dc-cyber-director-ckwm-mediumSquareAt3X.jpg",
-      "author": "Chris Cameron and Dustin Volz",
-      "excerpt": "The departure of Sean Cairncross comes after a series of technological outages affected U.S. companies and federal agencies in the past week.",
-      "source": "NYT"
-    },
-    {
-      "title": "Fiona the Hippo, Star of Cincinnati Zoo and Beyond, Dies After Eating Child’s Hat",
-      "link": "https://www.nytimes.com/2026/11/19/us/fiona-hippo-dead-cincinnati-zoo.html",
-      "pubDate": "2026-11-20T03:25:05.000Z",
-      "image": "https://static01.nyt.com/images/2026/11/19/multimedia/19xp-fiona-1/19xp-fiona-1-mediumSquareAt3X-v2.jpg",
-      "author": "Remy Tumin",
-      "excerpt": "The beloved Nile hippopotamus became ill after eating a children’s hat that accidentally ended up in her enclosure.",
-      "source": "NYT"
-    },
-    {
-      "title": "Technology Promised Ease. Outages Are Making Many Americans Uneasy.",
-      "link": "https://www.nytimes.com/2026/11/19/us/tech-outages-computer-networks.html",
-      "pubDate": "2026-11-20T01:52:38.000Z",
-      "image": "https://static01.nyt.com/images/2026/11/20/multimedia/20nat-tech-backlash-2to-zbpj/20nat-tech-backlash-2to-zbpj-mediumSquareAt3X.jpg",
-      "author": "Campbell Robertson and Elizabeth Dias",
-      "excerpt": "The recent spate of tech disruptions has forced Americans to reckon with how dependent they have become on worldwide computer networks.",
-      "source": "NYT"
-    },
-    {
-      "title": "Nvidia Asked to Sell Chips to Companies Tied to Chinese Military and Megaspeed",
-      "link": "https://www.nytimes.com/2026/11/19/business/economy/nvidia-chips-commerce-china-huang.html",
-      "pubDate": "2026-11-20T01:13:38.000Z",
-      "image": "https://static01.nyt.com/images/2026/11/19/multimedia/19dc-chips-vfbt/19dc-chips-vfbt-mediumSquareAt3X.jpg",
-      "author": "Ana Swanson and Cecilia Kang",
-      "excerpt": "Lawmakers released confidential information showing the Commerce Department had approved sales of more than 800,000 A.I. chips to Chinese companies, some with military ties.",
-      "source": "NYT"
-    },
-    {
-      "title": "Tinto Brass Has Died. He Directed the Erotic Epic ‘Caligula.’",
-      "link": "https://www.nytimes.com/2026/11/19/movies/tinto-brass-dead.html",
-      "pubDate": "2026-11-20T01:01:14.000Z",
-      "image": "https://static01.nyt.com/images/2026/11/19/multimedia/19obits-brass-hqcl/19obits-brass-hqcl-mediumSquareAt3X.jpg",
-      "author": "Richard Sandomir",
-      "excerpt": "“The moments of lust and desire” in his movies, he said, grew “out of the stories themselves,” transcending pornography. He was 93.",
-      "source": "NYT"
-    },
-    {
-      "title": "Anthropic’s I.P.O. Turns Tech Researchers Into Overnight Millionaires",
-      "link": "https://www.nytimes.com/2026/11/19/technology/anthropic-ipo-employees-payout.html",
-      "pubDate": "2026-11-20T00:25:47.000Z",
-      "image": "https://static01.nyt.com/images/2026/11/19/multimedia/19biz-anthropic-employee-wealth-sub-01-cthw/19biz-anthropic-employee-wealth-sub-01-cthw-mediumSquareAt3X.jpg",
-      "author": "Cory Weinberg",
-      "excerpt": "Many people who joined the A.I. company a few years ago might have had little reason to think how big Anthropic would become. They are now worth tens of millions of dollars, if not more.",
-      "source": "NYT"
-    },
-    {
-      "title": "Whatever You Thought Texas Was, It’s Bigger and Bluer Than That",
-      "link": "https://www.nytimes.com/2026/11/19/us/texas-culture-identity.html",
-      "pubDate": "2026-11-19T19:51:12.000Z",
-      "image": "https://static01.nyt.com/images/2026/11/19/multimedia/19nat-TX-postelex-culture-1b-kclp/19nat-TX-postelex-culture-1b-kclp-mediumSquareAt3X.jpg",
-      "author": "Sasha von Oldershausen and Jesus Jiménez",
-      "excerpt": "After Democrats broke a decades-long Republican winning streak this month, Texans are reflecting on who gets to define the place they call home.",
-      "source": "NYT"
-    },
-    {
-      "title": "Best Thanksgiving Dessert Recipes | Thanksgiving 2025 | NYT Cooking",
-      "link": "https://cooking.nytimes.com/article/best-thanksgiving-desserts",
-      "pubDate": "2026-11-03T18:28:04.000Z",
-      "image": "https://static01.nyt.com/images/2026/11/04/dining/ya-no-bake-pumpkin-cheesecake-slice/ya-no-bake-pumpkin-cheesecake-slice-mediumSquareAt3X.jpg",
-      "author": "Krysten Chambrot and Allison Jiang",
-      "excerpt": "You’ll find the perfect recipe among these 30 holiday favorites. All the classics are here: pies, tarts, cakes and more, just in time for the big celebration.",
-      "source": "NYT"
-    },
-    {
-      "title": "Best Thanksgiving Side Dishes | Thanksgiving Recipes 2025 | NYT Cooking",
-      "link": "https://cooking.nytimes.com/article/best-thanksgiving-side-dishes",
-      "pubDate": "2026-10-09T20:08:45.000Z",
-      "image": "https://static01.nyt.com/images/2025/11/24/multimedia/24FD-SIDES-TG-ROUNDUP-topart-cacioepepegreenbeans-qcpk/24FD-SIDES-TG-ROUNDUP-topart-cacioepepegreenbeans-qcpk-mediumSquareAt3X.jpg",
-      "author": "Krysten Chambrot and Allison Jiang",
-      "excerpt": "Because we all know the green bean casserole, stuffing and mashed potatoes are the best part of the meal.",
-      "source": "NYT"
-    },
-    {
-      "title": "Healthy Thanksgiving Recipes That’ll Make You Feel Great",
-      "link": "https://cooking.nytimes.com/article/healthy-thanksgiving-recipes",
-      "pubDate": "2026-10-02T19:50:06.000Z",
-      "image": "https://static01.nyt.com/images/2025/11/13/multimedia/13FD-HEALTHY-TG-ROUNDUP-roastedbutternutsquashsalad-kjzt/13FD-HEALTHY-TG-ROUNDUP-roastedbutternutsquashsalad-kjzt-mediumSquareAt3X.jpg",
-      "author": "Samantha Cassetty",
-      "excerpt": "Olive oil mashed potatoes, baked apples and more lighter and brighter dishes for a balanced and vibrant feast.",
+      "title": "Thanksgiving Recipes for Turkey Alternatives",
+      "link": "https://cooking.nytimes.com/article/thanksgiving-main-dish-not-turkey",
+      "pubDate": "2026-09-25T19:52:36.000Z",
+      "image": "https://static01.nyt.com/images/2019/11/05/dining/aw-mushroom-wellington/merlin_163633167_473a653a-a909-42e2-94c3-0788f950a163-moth.jpg",
+      "author": "The New York Times",
+      "excerpt": "Maybe you don’t like turkey, or it’s too expensive, or just not worth the work. We’ve got recipes to get excited about.",
       "source": "NYT"
     }
   ]
