@@ -1,6 +1,15 @@
 {
   "spaceNews": [
     {
+      "title": "Live coverage: SpaceX to launch classified payload for the U.S. Space Force",
+      "link": "https://spaceflightnow.com/2026/11/19/live-coverage-spacex-to-launch-classified-payload-for-the-u-s-space-force-2/",
+      "pubDate": "2026-11-19T23:51:47.000Z",
+      "image": "https://spaceflightnow.com/wp-content/uploads/2026/11/20261119_USSF_317_Vertical.jpg",
+      "author": "Will Robinson-Smith",
+      "excerpt": "The mission is the latest in the series of ‘R’ missions tasked by the U.S. Space Force. Liftoff from pad 4 East is scheduled for 8:32 p.m. PST (11:32 p.m. EST / 432 UTC).",
+      "source": "Spaceflight Now"
+    },
+    {
       "title": "What satellites leave behind",
       "link": "https://www.astronomy.com/science/what-satellites-leave-behind/",
       "pubDate": "2026-11-19T20:56:19.000Z",
@@ -8,6 +17,15 @@
       "author": "Brooks Mendenhall",
       "excerpt": "Metals from reentering objects are accumulating in the stratosphere in what amounts to an uncontrolled geoengineering experiment. The post What satellites leave behind appeared first on Astronomy Magazine.",
       "source": "Astronomy Magazine"
+    },
+    {
+      "title": "Challenge: Public Input on Life and the World in 2075",
+      "link": "https://www.nasa.gov/directorates/stmd/prizes-challenges-crowdsourcing-program/center-of-excellence-for-collaborative-innovation-coeci/challenge-public-input-on-life-and-the-world-in-2075/",
+      "pubDate": "2026-11-19T19:34:20.000Z",
+      "image": "https://www.nasa.gov/wp-content/uploads/2026/11/ttt-publicinputonlife-2026.png?w=2048",
+      "author": "Bailey Light",
+      "excerpt": "NASA’s Transformational Tools and Technologies (TTT) is gathering public perspectives on life today and how the world may change by 2075. This challenge asks for conceptual ideas about life in 2075 across four challenge topics. Ideas should explore how future aviation or aerospace systems could: Ideas should be concept",
+      "source": "NASA"
     },
     {
       "title": "Hear stars being born in Chandra’s new sonifications",
@@ -37,6 +55,42 @@
       "source": "SpaceNews"
     },
     {
+      "title": "NASA Science Data Powers New Method to Discover Hard-to-Find Pulsars",
+      "link": "https://science.nasa.gov/open-science/fermi-data-pulsar-discovery/",
+      "pubDate": "2026-11-19T15:33:55.000Z",
+      "image": "https://assets.science.nasa.gov/dynamicimage/assets/science/cds/general/images/2023/05/screenshot-2023-06-06-at-2.57.05-pm.png?w=1652&#038;h=928&#038;fit=clip",
+      "author": "",
+      "excerpt": "Open data from NASA’s Fermi mission helped an international team of scientists develop a method for finding pulsars about a million times faster than before.",
+      "source": "NASA"
+    },
+    {
+      "title": "Lake Pelku",
+      "link": "https://www.nasa.gov/image-article/lake-pelku/",
+      "pubDate": "2026-11-19T15:32:39.000Z",
+      "image": "https://www.nasa.gov/wp-content/uploads/2026/11/iss075e0267074orig.jpg?w=2048",
+      "author": "HQ Web Team",
+      "excerpt": "An astronaut on the International Space Station captured this photograph of Lake Pelku (near center) as the station orbited above Asia. The International Space Station serves as a unique platform for observing Earth with both hands-on and automated equipment. Station crew members have produced hundreds of thousands of ",
+      "source": "NASA"
+    },
+    {
+      "title": "NASA Conducts Latest RS-25 Engine Test in Support of Future Artemis Missions",
+      "link": "https://www.nasa.gov/image-article/latest-rs-25-engine-test-in-support-of-future-artemis-missions/",
+      "pubDate": "2026-11-19T14:44:39.000Z",
+      "image": "https://www.nasa.gov/wp-content/uploads/2026/11/ssc-20261118-s01364.jpg?w=1024",
+      "author": "LaToya Dean",
+      "excerpt": "NASA tested RS-25 engine No. 10001 on Nov. 18 on the Fred Haise Test Stand at NASA’s Stennis Space Center near Bay St. Louis, Mississippi. Test teams fired the developmental engine for the planned duration of three minutes and 20 seconds (200 seconds). While this developmental engine will not be used in flight, the hot",
+      "source": "NASA"
+    },
+    {
+      "title": "NASA’s Voyager 1 Makes History Reaching One Light-Day From Earth",
+      "link": "https://www.nasa.gov/news-release/nasas-voyager-1-makes-history-reaching-one-light-day-from-earth/",
+      "pubDate": "2026-11-19T14:31:15.000Z",
+      "image": "https://www.youtube.com/embed/0Ke0s62W4yY",
+      "author": "Jessica Taveau",
+      "excerpt": "NASA’s Voyager 1 probe, humanity’s farthest-flying spacecraft, has reached one light-day from Earth, after more than 49 years of constant travel. A light-day is the distance light travels in 24 hours, equaling about 16.1 billion miles (25.9 billion kilometers). The spacecraft achieved the milestone at 2:16 a.m. PST (5:",
+      "source": "NASA"
+    },
+    {
       "title": "HEO Unveils Insights Next SDA Tool",
       "link": "https://payloadspace.com/heo-unveils-insights-next-sda-tool/",
       "pubDate": "2026-11-19T11:53:58.000Z",
@@ -51,7 +105,7 @@
       "pubDate": "2026-11-19T05:05:00.000Z",
       "image": "https://assets.science.nasa.gov/dynamicimage/assets/science/cds/apod/apod/2026/november/Horsehead_Nebula_Killion.jpg?w=6000&#038;h=4800&#038;fit=clip",
       "author": "",
-      "excerpt": "APOD Science APOD APOD: 2026 November 19 – The… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professi",
+      "excerpt": "APODScienceAPODAPOD: 2026 November 19 – The…Today’s APODArchiveSubmissionsIndexSearchCalendarRSSEducationAboutDiscuss APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronom",
       "source": "NASA"
     },
     {
@@ -127,15 +181,6 @@
       "source": "NASA"
     },
     {
-      "title": "Empire State Building Goes Gold for Voyager",
-      "link": "https://www.nasa.gov/image-article/empire-state-building-goes-gold-for-voyager/",
-      "pubDate": "2026-11-18T17:50:26.000Z",
-      "image": "https://www.nasa.gov/wp-content/uploads/2026/11/55658604092-c6f0765cc5-o.jpg?w=2048",
-      "author": "HQ Web Team",
-      "excerpt": "The Empire State Building is seen illuminated in gold to celebrate NASA’s Voyager 1 spacecraft as it was about to pass one light-day away from Earth, a distance reached by no other human-made object, Nov. 17, 2026. The color gold represents the gold-plated copper phonograph record that is flying on Voyager; the Golden ",
-      "source": "NASA"
-    },
-    {
       "title": "NASA’s Voyager 1 is one light-day from Earth",
       "link": "https://spaceflightnow.com/2026/11/18/nasas-voyager-1-is-one-light-day-from-earth/",
       "pubDate": "2026-11-18T17:46:40.000Z",
@@ -145,24 +190,6 @@
       "source": "Spaceflight Now"
     },
     {
-      "title": "What Is the Moon Base?",
-      "link": "https://www.nasa.gov/learning-resources/for-kids-and-students/what-is-the-moon-base/",
-      "pubDate": "2026-11-18T17:36:03.000Z",
-      "image": "https://www.youtube.com/embed/oy8DGEQNnTg",
-      "author": "Kaitlyn Adams",
-      "excerpt": "This article is for students. NASA is returning astronauts to the Moon – and this time they will spend more time on the lunar surface. The Moon Base is humanity’s first lunar outpost. It will be a place where astronauts live, work, and explore. ______________________________________________________________________ Word",
-      "source": "NASA"
-    },
-    {
-      "title": "Thank You for Doing NASA Science!",
-      "link": "https://science.nasa.gov/get-involved/citizen-science/thank-you-for-doing-nasa-science/",
-      "pubDate": "2026-11-18T17:32:52.000Z",
-      "image": "https://assets.science.nasa.gov/dynamicimage/assets/science/cds/citizen-science/highlights/2026/QuestScienceCenter_OWWL_CitSci.jpg?w=466&#038;h=357&#038;fit=clip",
-      "author": "",
-      "excerpt": "It’s Thanksgiving time, and we’re giving thanks to you for doing NASA Science with us! You and NASA’s other volunteers have enabled an incredible banquet of discoveries—by taking data, analyzing data, writing code, writing papers, and even inventing your own science projects. Whether you’re an expert participant or som",
-      "source": "NASA"
-    },
-    {
       "title": "Origami and solar arrays",
       "link": "https://spacenews.com/origami-and-solar-arrays/",
       "pubDate": "2026-11-18T16:56:05.000Z",
@@ -170,15 +197,6 @@
       "author": "SpaceNews Editor",
       "excerpt": "In this episode of SpaceMinds, SpaceNews’ Mike Gruss talks with Thomas Sinn, the CEO of Dcubed, at Space Tech Expo Europe. They discuss the company’s new $30 million funding round, […] The post Origami and solar arrays appeared first on SpaceNews.",
       "source": "SpaceNews"
-    },
-    {
-      "title": "NASA Data Clinches First-of-Its-Kind Stellar Merger",
-      "link": "https://science.nasa.gov/missions/webb/nasa-data-clinches-first-of-its-kind-stellar-merger/",
-      "pubDate": "2026-11-18T16:00:00.000Z",
-      "image": "https://assets.science.nasa.gov/dynamicimage/assets/science/missions/webb/science/2026/11/STScI-01M6GTRN4J7R6FEJ4AJXM567QT.jpg?w=1536&#038;h=1536&#038;fit=clip",
-      "author": "",
-      "excerpt": "Researchers recently identified a first of its kind: A star slightly less massive than the Sun spiraled into and merged with a puffy supergiant star at the outskirts of our neighboring Andromeda galaxy. They nicknamed the newly single, potentially “rejuvenated” star Bao. Their NASA-funded discovery was then bolstered b",
-      "source": "NASA"
     },
     {
       "title": "Cannibal giant star caught devouring its companion in super-rare event",
@@ -215,15 +233,6 @@
       "author": "Douglas Gorman",
       "excerpt": "German satellite-components manufacturer Dcubed announced the closing of a €27.2M ($30M) Series A extension round today, which comes in addition to an earlier €4.4M ($4.9M) Series A round, which closed in August 2024. The new capital will fund an expansion of the company’s production facilities in the US and Germany wi",
       "source": "Payload"
-    },
-    {
-      "title": "APOD: 2026 November 18 – A Medium-Sized Solar Flare",
-      "link": "https://science.nasa.gov/image-article/apod-2026-november-18-an-m-class-solar-flare/",
-      "pubDate": "2026-11-18T05:05:00.000Z",
-      "image": "https://assets.science.nasa.gov/dynamicimage/assets/science/cds/apod/apod/2026/november/solar_M_flare.jpg?w=2048&#038;h=2048&#038;fit=clip",
-      "author": "",
-      "excerpt": "APOD Science APOD APOD: 2026 November 18 – A… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a profession",
-      "source": "NASA"
     },
     {
       "title": "We now know how radiation destroys electronics devices",
@@ -658,15 +667,6 @@
       "source": "Spaceflight Now"
     },
     {
-      "title": "Spacewalkers complete five-year effort to upgrade space station power supply",
-      "link": "https://spaceflightnow.com/2026/11/05/spacewalkers-complete-five-year-effort-to-upgrade-space-station-power-supply/",
-      "pubDate": "2026-11-05T22:28:40.000Z",
-      "image": "https://spaceflightnow.com/wp-content/uploads/2026/11/irosa-wings-3-4-delivery.jpg",
-      "author": "Houston Harwood",
-      "excerpt": "Spacewalking astronauts Joshua Kutryk and Anil Menon unfurled the last of eight new solar arrays outside the International Space Station Thursday, working through an unexpected power snag to complete a five-year upgrade designed to keep the orbiting laboratory running through its retirement in 2030.",
-      "source": "Spaceflight Now"
-    },
-    {
       "title": "DAF unveils enterprise blueprint to field operational SI across 15 mission domains",
       "link": "https://www.spaceforce.mil/News/Article-Display/Article/4642457/daf-unveils-enterprise-blueprint-to-field-operational-si-across-15-mission-doma/",
       "pubDate": "2026-11-05T17:16:00.000Z",
@@ -896,102 +896,174 @@
   ],
   "nytNews": [
     {
-      "title": "Myanmar Genocide Ruling Sets Up Court Fight Over Israel and Gaza",
-      "link": "https://www.nytimes.com/2026/11/19/world/asia/icj-myanmar-gaza.html",
-      "pubDate": "2026-11-19T21:17:12.000Z",
-      "image": "https://static01.nyt.com/images/2026/11/19/multimedia/19int-icj-gaza--qhlj/19int-icj-gaza--qhlj-mediumSquareAt3X.jpg",
-      "author": "Aaron Boxerman",
-      "excerpt": "The ruling by the International Court of Justice deals with issues relevant to the case brought against Israel alleging genocide in Gaza. Israel has rejected the charge.",
-      "source": "NYT"
-    },
-    {
-      "title": "Fiona the Hippo, Whose Stardom Extended Well Beyond Cincinnati, Has Died",
-      "link": "https://www.nytimes.com/2026/11/19/us/fiona-hippo-dead-cincinnati-zoo.html",
-      "pubDate": "2026-11-19T21:01:27.000Z",
-      "image": "https://static01.nyt.com/images/2026/11/19/multimedia/19xp-fiona-khzg/19xp-fiona-khzg-mediumSquareAt3X.jpg",
-      "author": "Remy Tumin",
-      "excerpt": "The beloved Nile hippopotamus became ill after eating a children’s hat that accidentally ended up in her enclosure.",
-      "source": "NYT"
-    },
-    {
-      "title": "They’re Prepping for a World Where the Internet Doesn’t Work",
-      "link": "https://www.nytimes.com/2026/11/19/style/outages-doomsday-prep-emergency.html",
-      "pubDate": "2026-11-19T20:29:53.000Z",
-      "image": "https://static01.nyt.com/images/2026/11/18/multimedia/ST-PREPPERS-01-wkqv/ST-PREPPERS-01-wkqv-mediumSquareAt3X.jpg",
-      "author": "Jesse McKinley",
-      "excerpt": "“DoorDash is not an emergency plan.”",
-      "source": "NYT"
-    },
-    {
-      "title": "Senate Republicans Block Bid to Rein in Trump on Iran War",
-      "link": "https://www.nytimes.com/2026/11/19/us/politics/senate-iran-war-powers-trump.html",
-      "pubDate": "2026-11-19T20:19:12.000Z",
-      "image": "https://static01.nyt.com/images/2026/11/19/multimedia/19dc-warpowers-tkfq/19dc-warpowers-tkfq-mediumSquareAt3X.jpg",
-      "author": "Robert Jimison",
-      "excerpt": "In the first vote on the conflict since the midterm elections, most in the G.O.P. banded together against placing any limits on a conflict that voters repudiated at the polls.",
-      "source": "NYT"
-    },
-    {
-      "title": "Army Warns Iowa of Toxic Cloud as It Prepares to Blow Up Old Ammo",
+      "title": "Amid Outcry, Army Delays its Plan to Blow Up Toxic Ammunition in Iowa",
       "link": "https://www.nytimes.com/2026/11/19/climate/iowa-ammunition-explosion-lead-dust.html",
-      "pubDate": "2026-11-19T19:43:30.000Z",
+      "pubDate": "2026-11-20T03:04:22.000Z",
       "image": "https://static01.nyt.com/images/2026/11/18/multimedia/00CLI-LEAD-EXPLOSION-vfpg/00CLI-LEAD-EXPLOSION-vfpg-mediumSquareAt3X.jpg",
       "author": "Quinn Glabicki and Hiroko Tabuchi",
-      "excerpt": "Friday’s explosion will dispose of unstable material used in detonators. A plume of dangerous lead dust could travel up to 60 miles, according to the latest Army estimate.",
-      "source": "NYT"
-    },
-    {
-      "title": "Dustin Moskovitz, an Early Anthropic Investor, Feels a Bit Uneasy About the IPO",
-      "link": "https://www.nytimes.com/2026/11/19/business/anthropic-ipo-dustin-moskovitz.html",
-      "pubDate": "2026-11-19T19:30:24.000Z",
-      "image": "https://static01.nyt.com/images/2026/11/20/business/00anthropic-MOSKOVITZ/00anthropic-MOSKOVITZ-mediumSquareAt3X.jpg",
-      "author": "Theodore Schleifer and Cory Weinberg",
-      "excerpt": "An early investment that Facebook co-founder Dustin Moskovitz made in Anthropic is paying off. But it’s not making him happy.",
-      "source": "NYT"
-    },
-    {
-      "title": "Trump Flaunts Camaraderie With Xi and Putin but Has Little to Show for It",
-      "link": "https://www.nytimes.com/2026/11/19/world/asia/trump-xi-putin.html",
-      "pubDate": "2026-11-19T19:07:18.000Z",
-      "image": "https://static01.nyt.com/images/2026/11/19/multimedia/19trump-summits-ledeall-01-cvbz/19trump-summits-ledeall-01-cvbz-mediumSquareAt3X.jpg",
-      "author": "Katie Rogers and David E. Sanger",
-      "excerpt": "President Trump called Russia’s leader his “friend” and marveled at China’s warm welcome for his first-ever trilateral summit. But there were no breakthroughs on nuclear control, the war in Ukraine or A.I.",
-      "source": "NYT"
-    },
-    {
-      "title": "The Bay Area Wonders: What Will Anthropic Workers Do With Their Wealth?",
-      "link": "https://www.nytimes.com/2026/11/19/us/anthropic-ipo-spending-wealth-san-francisco.html",
-      "pubDate": "2026-11-19T18:55:40.000Z",
-      "image": "https://static01.nyt.com/images/2026/11/19/multimedia/19nat-anthropic-goldrush-pqcw/19nat-anthropic-goldrush-pqcw-mediumSquareAt3X.jpg",
-      "author": "Heather Knight and Emmy Martin",
-      "excerpt": "San Francisco isn’t preparing for an Anthropic shopping spree after employees gain newfound affluence from the company’s initial public offering.",
+      "excerpt": "The Army had planned to detonate a cache of dangerous explosives on Friday, potentially creating a plume of toxic lead dust stretching for 60 miles. The explosion is now set for Monday.",
       "source": "NYT"
     },
     {
       "title": "This Isn’t the Cyberapocalypse, but It Isn’t Great",
       "link": "https://www.nytimes.com/2026/11/19/opinion/tech-outages-cybersecurity.html",
-      "pubDate": "2026-11-19T18:52:24.000Z",
+      "pubDate": "2026-11-20T02:23:28.000Z",
       "image": "https://static01.nyt.com/images/2026/11/20/opinion/19goldstein/19goldstein-mediumSquareAt3X.png",
       "author": "Brett J. Goldstein",
       "excerpt": "A cybersecurity expert isn’t sold on the theory that there is a connection between the many recent digital failures and crashes.",
       "source": "NYT"
     },
     {
-      "title": "Dutch and Austrian Embassies Are Damaged as Russian Drones Swarm Kyiv",
-      "link": "https://www.nytimes.com/2026/11/19/world/europe/ukraine-dutch-embassy.html",
-      "pubDate": "2026-11-19T18:47:57.000Z",
-      "image": "https://static01.nyt.com/images/2026/11/19/multimedia/19int-ukraine-embassy-tpvf/19int-ukraine-embassy-tpvf-mediumSquareAt3X.jpg",
-      "author": "Marc Santora and Maria Varenikova",
-      "excerpt": "Foreign ministers for Austria and the Netherlands said no one was harmed at their embassy compounds, and the European Union’s ambassador said a drone “exploded right above my head\" by her hotel.",
+      "title": "Trump Flaunts Camaraderie With Xi and Putin but Has Little to Show for It",
+      "link": "https://www.nytimes.com/2026/11/19/world/asia/trump-xi-putin.html",
+      "pubDate": "2026-11-20T02:10:57.000Z",
+      "image": "https://static01.nyt.com/images/2026/11/19/multimedia/19trump-summits-ledeall-01-cvbz/19trump-summits-ledeall-01-cvbz-mediumSquareAt3X.jpg",
+      "author": "Katie Rogers and David E. Sanger",
+      "excerpt": "President Trump called Russia’s leader his “friend” and marveled at China’s warm welcome for his first-ever trilateral summit. But there were no breakthroughs on nuclear control, the war in Ukraine or A.I.",
       "source": "NYT"
     },
     {
-      "title": "Myanmar Committed Genocide Against the Rohingya, Top Global Court Finds",
-      "link": "https://www.nytimes.com/2026/11/19/world/europe/myanmar-genocide-icj-decision-.html",
-      "pubDate": "2026-11-19T18:27:57.000Z",
-      "image": "https://static01.nyt.com/images/2026/11/19/multimedia/19int-ICJ-Myanmar-01-fkth/19int-ICJ-Myanmar-01-fkth-mediumSquareAt3X.jpg",
-      "author": "Jeanna Smialek and Hannah Beech",
-      "excerpt": "In a decision with potentially broad implications, the International Court of Justice found a state culpable of genocide for the first time.",
+      "title": "Technology Promised Ease. Outages Are Making Many Americans Uneasy.",
+      "link": "https://www.nytimes.com/2026/11/19/us/tech-outages-computer-networks.html",
+      "pubDate": "2026-11-20T01:52:38.000Z",
+      "image": "https://static01.nyt.com/images/2026/11/20/multimedia/20nat-tech-backlash-2to-zbpj/20nat-tech-backlash-2to-zbpj-mediumSquareAt3X.jpg",
+      "author": "Campbell Robertson and Elizabeth Dias",
+      "excerpt": "The recent spate of tech disruptions has forced Americans to reckon with how dependent they have become on worldwide computer networks.",
+      "source": "NYT"
+    },
+    {
+      "title": "Fiona the Hippo, Star of Cincinnati Zoo and Beyond, Dies After Eating Child’s Hat",
+      "link": "https://www.nytimes.com/2026/11/19/us/fiona-hippo-dead-cincinnati-zoo.html",
+      "pubDate": "2026-11-20T01:33:23.000Z",
+      "image": "https://static01.nyt.com/images/2026/11/19/multimedia/19xp-fiona-1/19xp-fiona-1-mediumSquareAt3X.jpg",
+      "author": "Remy Tumin",
+      "excerpt": "The beloved Nile hippopotamus became ill after eating a children’s hat that accidentally ended up in her enclosure.",
+      "source": "NYT"
+    },
+    {
+      "title": "Nvidia Asked to Sell Chips to Companies Tied to Chinese Military and Megaspeed",
+      "link": "https://www.nytimes.com/2026/11/19/business/economy/nvidia-chips-commerce-china-huang.html",
+      "pubDate": "2026-11-20T01:13:37.000Z",
+      "image": "https://static01.nyt.com/images/2026/11/19/multimedia/19dc-chips-vfbt/19dc-chips-vfbt-mediumSquareAt3X.jpg",
+      "author": "Ana Swanson and Cecilia Kang",
+      "excerpt": "Lawmakers released confidential information showing the Commerce Department had approved sales of more than 800,000 A.I. chips to Chinese companies, some with military ties.",
+      "source": "NYT"
+    },
+    {
+      "title": "Tinto Brass Has Died. He Directed the Erotic Epic ‘Caligula.’",
+      "link": "https://www.nytimes.com/2026/11/19/movies/tinto-brass-dead.html",
+      "pubDate": "2026-11-20T01:01:14.000Z",
+      "image": "https://static01.nyt.com/images/2026/11/19/multimedia/19obits-brass-hqcl/19obits-brass-hqcl-mediumSquareAt3X.jpg",
+      "author": "Richard Sandomir",
+      "excerpt": "“The moments of lust and desire” in his movies, he said, grew “out of the stories themselves,” transcending pornography. He was 93.",
+      "source": "NYT"
+    },
+    {
+      "title": "Top White House Cybersecurity Official Steps Down",
+      "link": "https://www.nytimes.com/2026/11/19/us/politics/white-house-cyber-director-departs.html",
+      "pubDate": "2026-11-20T00:57:25.000Z",
+      "image": "https://static01.nyt.com/images/2026/11/19/multimedia/19dc-cyber-director-ckwm/19dc-cyber-director-ckwm-mediumSquareAt3X.jpg",
+      "author": "Chris Cameron and Dustin Volz",
+      "excerpt": "The departure of Sean Cairncross comes after a series of technological outages affected U.S. companies and federal agencies in the past week.",
+      "source": "NYT"
+    },
+    {
+      "title": "Anthropic’s I.P.O. Turns Tech Researchers Into Overnight Millionaires",
+      "link": "https://www.nytimes.com/2026/11/19/technology/anthropic-ipo-employees-payout.html",
+      "pubDate": "2026-11-20T00:25:47.000Z",
+      "image": "https://static01.nyt.com/images/2026/11/19/multimedia/19biz-anthropic-employee-wealth-sub-01-cthw/19biz-anthropic-employee-wealth-sub-01-cthw-mediumSquareAt3X.jpg",
+      "author": "Cory Weinberg",
+      "excerpt": "Many people who joined the A.I. company a few years ago might have had little reason to think how big Anthropic would become. They are now worth tens of millions of dollars, if not more.",
+      "source": "NYT"
+    },
+    {
+      "title": "Former Biden Chief, With Help From Alex Soros, Will Gather Aides of 2028 Hopefuls",
+      "link": "https://www.nytimes.com/2026/11/19/us/politics/alex-soros-jen-omalley-dillon-2028-democratic-presidential-race.html",
+      "pubDate": "2026-11-20T00:16:06.000Z",
+      "image": "https://static01.nyt.com/images/2026/11/19/multimedia/19pol-dems-2028-cjpz/19pol-dems-2028-cjpz-mediumSquareAt3X.jpg",
+      "author": "Reid J. Epstein and Tyler Pager",
+      "excerpt": "Jen O’Malley Dillon, who led the former president’s last two White House bids, is inviting top Democratic operatives to a gathering funded in part by the megadonor Alex Soros.",
+      "source": "NYT"
+    },
+    {
+      "title": "Watch: Natasha Sarin on Anthropic’s Historic I.P.O. and What’s Next for the Markets",
+      "link": "https://www.nytimes.com/2026/11/19/opinion/anthropic-ipo-natasha-sarin.html",
+      "pubDate": "2026-11-19T23:13:13.000Z",
+      "image": "https://static01.nyt.com/images/2026/11/19/opinion/19opinions-sarin-image2/19opinions-sarin-image2-mediumSquareAt3X.png",
+      "author": "Natasha Sarin, Matthew Rose and Vishakha Darbha",
+      "excerpt": "In a live conversation, the economist Natasha Sarin discussed what a historic I.P.O. means for the markets and much more.",
+      "source": "NYT"
+    },
+    {
+      "title": "How Much Anthropic Are You About to Own?",
+      "link": "https://www.nytimes.com/2026/11/19/upshot/anthropic-ipo-stock.html",
+      "pubDate": "2026-11-19T22:46:06.000Z",
+      "image": "https://static01.nyt.com/images/2026/11/19/multimedia/2026-11-19-anthropic-index-funds-index/2026-11-19-anthropic-index-funds-index-mediumSquareAt3X-v3.png",
+      "author": "C.J. Robinson",
+      "excerpt": "See how much of the stock you may own through common index funds, like those found in retirement accounts.",
+      "source": "NYT"
+    },
+    {
+      "title": "Anthropic Debuts on Wall Street as a $2 Trillion Company",
+      "link": "https://www.nytimes.com/2026/11/19/technology/anthropic-2-trillion.html",
+      "pubDate": "2026-11-19T22:45:17.000Z",
+      "image": "https://static01.nyt.com/images/2026/11/19/multimedia/19biz-anthropic-opentrades-sub-1-cvzt/19biz-anthropic-opentrades-sub-1-cvzt-mediumSquareAt3X-v2.jpg",
+      "author": "Cory Weinberg and Erin Griffith",
+      "excerpt": "The San Francisco company was the first major A.I. lab to go public in a highly anticipated moment for the tech industry, before ending the day valued at $1.7 trillion.",
+      "source": "NYT"
+    },
+    {
+      "title": "In Florida, More Rain Threatens Flooded Areas and Roads",
+      "link": "https://www.nytimes.com/2026/11/19/weather/florida-floods-rain-closures-evacuations.html",
+      "pubDate": "2026-11-19T22:37:05.000Z",
+      "image": "https://static01.nyt.com/images/2026/11/19/multimedia/19xp-flooding-fmkq/19xp-flooding-fmkq-mediumSquareAt3X.jpg",
+      "author": "Johnny Diaz",
+      "excerpt": "Parts of Broward County, including the cities of Hollywood and Plantation, received about 15 inches of rain in 24 hours, forecasters said.",
+      "source": "NYT"
+    },
+    {
+      "title": "Anthropic’s Value Surges in Public Debut",
+      "link": "https://www.nytimes.com/2026/11/19/briefing/anthropic-public-debut.html",
+      "pubDate": "2026-11-19T22:36:06.000Z",
+      "image": "https://static01.nyt.com/images/2026/11/19/multimedia/19evening-nl-anthropic-ipo-pjml/19evening-nl-anthropic-ipo-pjml-mediumSquareAt3X.jpg",
+      "author": "Matthew Cullen",
+      "excerpt": "Also, U.N. court rules that Myanmar committed genocide. Here’s the latest at the end of Thursday.",
+      "source": "NYT"
+    },
+    {
+      "title": "California Storm Sweeps South, Prompting Some Evacuation Warnings in L.A.",
+      "link": "https://www.nytimes.com/2026/11/19/weather/california-rain-sf-la.html",
+      "pubDate": "2026-11-19T22:08:50.000Z",
+      "image": null,
+      "author": "Nazaneen Ghaffar and Jill Cowan",
+      "excerpt": "A system that earlier flooded San Francisco was hitting Southern California on Thursday.",
+      "source": "NYT"
+    },
+    {
+      "title": "What You Should Know About Downdetector Before the Next Big Tech Outage",
+      "link": "https://www.nytimes.com/2026/11/19/technology/downdetector-tech-outages-microsoft-chase-apple.html",
+      "pubDate": "2026-11-19T21:39:12.000Z",
+      "image": "https://static01.nyt.com/images/2026/11/19/multimedia/19xp-downdetector-02-kvbt/19xp-downdetector-02-kvbt-mediumSquareAt3X.jpg",
+      "author": "Michael Levenson",
+      "excerpt": "The website has been checked and cited often during an unusually busy week of technology problems, though its operators acknowledge its limitations.",
+      "source": "NYT"
+    },
+    {
+      "title": "Whatever You Thought Texas Was, It’s Bigger and Bluer Than That",
+      "link": "https://www.nytimes.com/2026/11/19/us/texas-culture-identity.html",
+      "pubDate": "2026-11-19T19:51:12.000Z",
+      "image": "https://static01.nyt.com/images/2026/11/19/multimedia/19nat-TX-postelex-culture-1b-kclp/19nat-TX-postelex-culture-1b-kclp-mediumSquareAt3X.jpg",
+      "author": "Sasha von Oldershausen and Jesus Jiménez",
+      "excerpt": "After Democrats broke a decades-long Republican winning streak this month, Texans are reflecting on who gets to define the place they call home.",
+      "source": "NYT"
+    },
+    {
+      "title": "Marsha Linehan Has Died. She Transformed Treatment for Personality Disorder.",
+      "link": "https://www.nytimes.com/2026/11/19/well/mind/marsha-linehan-dead.html",
+      "pubDate": "2026-11-19T18:50:52.000Z",
+      "image": "https://static01.nyt.com/images/2026/11/18/multimedia/18obit-linehan-lfcp/18obit-linehan-lfcp-mediumSquareAt3X.jpg",
+      "author": "Clay Risen",
+      "excerpt": "After her methods proved effective, she revealed that she had battled her own borderline personality disorder as a child.",
       "source": "NYT"
     },
     {
@@ -1013,24 +1085,6 @@
       "source": "NYT"
     },
     {
-      "title": "After Bridge Attack, Putin Says He Will ‘Not Be Negotiating’ Ukraine Cease-Fire",
-      "link": "https://www.nytimes.com/2026/11/19/world/europe/putin-shenzhen-crimea-bridge.html",
-      "pubDate": "2026-11-19T16:51:57.000Z",
-      "image": "https://static01.nyt.com/images/2026/11/19/multimedia/19int-russia-putin-pvjt/19int-russia-putin-pvjt-mediumSquareAt3X.jpg",
-      "author": "Paul Sonne",
-      "excerpt": "The Russian leader invited European representatives to Moscow to discuss giving them a role in negotiations. It was unclear how serious the offer was.",
-      "source": "NYT"
-    },
-    {
-      "title": "Tech Outages May Become Routine. Experts Say Don’t Panic, but Prepare.",
-      "link": "https://www.nytimes.com/2026/11/18/technology/tech-outages-emergency-prep.html",
-      "pubDate": "2026-11-19T16:49:41.000Z",
-      "image": "https://static01.nyt.com/images/2026/11/18/multimedia/18xp-prep-outage-hvjq/18xp-prep-outage-hvjq-mediumSquareAt3X.jpg",
-      "author": "Amanda Holpuch",
-      "excerpt": "A cascade of tech failures has rattled Americans and prompted many to look for ways to prepare for a prolonged digital disruption. Experts say it’s much like preparing for a storm.",
-      "source": "NYT"
-    },
-    {
       "title": "Grand Theft Auto Used to Satirize American Life. Now We’ve Caught Up With It.",
       "link": "https://www.nytimes.com/2026/11/19/magazine/grand-theft-auto-six.html",
       "pubDate": "2026-11-19T16:12:19.000Z",
@@ -1040,84 +1094,12 @@
       "source": "NYT"
     },
     {
-      "title": "Inside a Rohingya Camp After a Genocide Ruling",
-      "link": "https://www.nytimes.com/video/world/asia/100000011287890/inside-a-rohingya-camp-after-a-genocide-ruling.html",
-      "pubDate": "2026-11-19T16:10:44.000Z",
-      "image": null,
-      "author": "Hannah Beech, Lam Yik Fei, Rebecca Suner, Joey Sendaydiego, Shawn Paik and Jon Hazell",
-      "excerpt": "On Thursday, the International Court of Justice ruled that the atrocities against the Rohingya ethnic minority constituted a genocide waged by the Myanmar state. Before the decision, Hannah Beech, a New York Times correspondent, spent a week in the refugee camps in Cox’s Bazar, Bangladesh, home to at least 1.2 million ",
-      "source": "NYT"
-    },
-    {
-      "title": "A Village Burned, Its People Killed or Exiled. A Court Ruled It Was Genocide.",
-      "link": "https://www.nytimes.com/2026/11/19/world/asia/myanmar-rohingya-village-refugee-genocide.html",
-      "pubDate": "2026-11-19T15:40:39.000Z",
-      "image": "https://static01.nyt.com/images/2026/11/19/multimedia/19int-rohingya-camps-01-kjtp/19int-rohingya-camps-01-kjtp-mediumSquareAt3X.jpg",
-      "author": "Hannah Beech and Lam Yik Fei",
-      "excerpt": "Zammona’s erasure was part of a wider campaign of violence against Rohingya Muslims. An international court found that Myanmar was culpable for the atrocities.",
-      "source": "NYT"
-    },
-    {
-      "title": "‘The Tuners’: The Hidden Contest at the International Chopin Piano Competition",
-      "link": "https://www.nytimes.com/2026/11/19/opinion/the-tuners-international-chopin-piano-competition.html",
-      "pubDate": "2026-11-19T14:37:40.000Z",
-      "image": null,
-      "author": "Paweł Chorzępa",
-      "excerpt": "In the shadows of one of the world’s most prestigious piano contests, the piano tuners are battling through their own competition.",
-      "source": "NYT"
-    },
-    {
-      "title": "A Data Center Was Coming. The Town Had a Message: Stay Out.",
-      "link": "https://www.nytimes.com/2026/11/19/nyregion/data-centers-opposition-towns.html",
-      "pubDate": "2026-11-19T13:55:56.000Z",
-      "image": "https://static01.nyt.com/images/2026/11/17/multimedia/met-data-centers--04-bztv/met-data-centers--04-bztv-mediumSquareAt3X.jpg",
-      "author": "Hilary Howard",
-      "excerpt": "The battle over artificial intelligence is unfolding in rural communities, which are deciding whether to embrace resource-hungry computer farms.",
-      "source": "NYT"
-    },
-    {
-      "title": "Three MAGA Women Who Defined an Era in Congress Are Exiting",
-      "link": "https://www.nytimes.com/2026/11/19/us/politics/three-maga-women-who-defined-an-era-in-congress-are-exiting.html",
-      "pubDate": "2026-11-19T13:27:13.000Z",
-      "image": "https://static01.nyt.com/images/2026/11/18/multimedia/18dc-cong-meangirls-01-hjkl/18dc-cong-meangirls-01-hjkl-mediumSquareAt3X.jpg",
-      "author": "Annie Karni",
-      "excerpt": "Representatives Marjorie Taylor Greene, Lauren Boebert and Nancy Mace embodied a combative, attention-seeking brand of politics that defined the Republican Congress.",
-      "source": "NYT"
-    },
-    {
-      "title": "Death and Taxes. Rats and Real Estate.",
-      "link": "https://www.nytimes.com/2026/11/19/podcasts/rats-real-estate-serial-new-york.html",
-      "pubDate": "2026-11-19T09:00:07.000Z",
-      "image": "https://static01.nyt.com/images/2026/11/19/podcasts/19serial-metro-rats-photo-1/19serial-metro-rats-photo-1-mediumSquareAt3X.jpg",
-      "author": "Sarah Koenig, Debra Kamin, Daniel Guillemette, Julie Snyder, Phoebe Wang, Catherine Anderson and Allison Leyton-Brown and Nick Thorburn",
-      "excerpt": "The inevitabilities of New Yorkers’ lives.",
-      "source": "NYT"
-    },
-    {
       "title": "With Alaska’s Senate Vote Counted, What Comes Next in the Last Frontier?",
       "link": "https://www.nytimes.com/2026/11/18/us/politics/alaska-senate-count.html",
       "pubDate": "2026-11-19T02:58:29.000Z",
       "image": "https://static01.nyt.com/images/2026/11/18/multimedia/18pol-alaska-count-gvbq/18pol-alaska-count-gvbq-mediumSquareAt3X.jpg",
       "author": "Kellen Browning",
       "excerpt": "The race is scheduled to be certified next week, but the Justice Department is investigating after Republicans lodged cheating allegations against the eventual winner, Mary Peltola.",
-      "source": "NYT"
-    },
-    {
-      "title": "Trump Weighs New Strikes on Iran as Israel Presses for Action, Officials Say",
-      "link": "https://www.nytimes.com/2026/11/18/us/politics/trump-israel-iran-war.html",
-      "pubDate": "2026-11-18T23:13:05.000Z",
-      "image": "https://static01.nyt.com/images/2026/11/18/multimedia/18dc-trump-iran-bqfp/18dc-trump-iran-bqfp-mediumSquareAt3X.jpg",
-      "author": "Julian E. Barnes, Eric Schmitt, Maggie Haberman, Jonathan Swan and Ronen Bergman",
-      "excerpt": "Warnings that Iran is rebuilding its missile stockpile and advancing biological and chemical programs have divided the Trump administration.",
-      "source": "NYT"
-    },
-    {
-      "title": "Intolerance of Uncertainty Is Rising in Young Adults",
-      "link": "https://www.nytimes.com/2026/11/18/well/mind/uncertainty-anxiety-jama-study.html",
-      "pubDate": "2026-11-18T21:18:59.000Z",
-      "image": "https://static01.nyt.com/images/2026/11/17/multimedia/WELL-UNCERTAINTY-ANXIETY1-jvzm/WELL-UNCERTAINTY-ANXIETY1-jvzm-mediumSquareAt3X.jpg",
-      "author": "Christina Caron",
-      "excerpt": "At a moment when technical glitches are stirring confusion and fear, a new analysis examines just how distressing uncertainty can feel.",
       "source": "NYT"
     }
   ]
