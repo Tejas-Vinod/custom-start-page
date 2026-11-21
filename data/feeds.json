@@ -1,6 +1,24 @@
 {
   "spaceNews": [
     {
+      "title": "Curiosity Spots Drifting Twilight Clouds",
+      "link": "https://science.nasa.gov/photojournal/curiosity-spots-drifting-twilight-clouds/",
+      "pubDate": "2026-11-20T22:27:05.000Z",
+      "image": "https://assets.science.nasa.gov/dynamicimage/assets/science/psd/photojournal/pia/pia26805/PIA26805.jpg?w=1536&#038;h=603&#038;fit=clip",
+      "author": "",
+      "excerpt": "Description NASA’s Curiosity Mars rover captured these drifting clouds on Oct. 31, 2026, the 5,061st Martian day, or sol, of the mission. The rover uses its navigation cameras to capture post-sunset clouds, called twilight clouds, which appear for only a short time each fall over Gale Crater, which it has been explorin",
+      "source": "NASA"
+    },
+    {
+      "title": "New NASA Seed Funding Primes Small Businesses for Innovation",
+      "link": "https://www.nasa.gov/directorates/rtmd/new-nasa-seed-funding-primes-small-businesses-for-innovation/",
+      "pubDate": "2026-11-20T20:46:14.000Z",
+      "image": "https://www.nasa.gov/wp-content/uploads/2026/11/elementium-illustration.png?w=1064",
+      "author": "Abby Tabor",
+      "excerpt": "Awards to small businesses around the country are addressing some of NASA’s most crucial technology needs for exploration of the Moon and Mars while fueling the U.S. space economy. NASA’s Small Business Innovation Research/Small Business Technology Transfer (SBIR/STTR) program recently selected 302 innovative projects,",
+      "source": "NASA"
+    },
+    {
       "title": "Vice Chief of Space Operations visits Thomas Jefferson High School for Guardian Spark outreach",
       "link": "https://www.spaceforce.mil/News/Article-Display/Article/4656331/vice-chief-of-space-operations-visits-thomas-jefferson-high-school-for-guardian/",
       "pubDate": "2026-11-20T19:23:00.000Z",
@@ -181,15 +199,6 @@
       "source": "NASA"
     },
     {
-      "title": "NASA’s Voyager 1 Makes History Reaching One Light-Day From Earth",
-      "link": "https://www.nasa.gov/news-release/nasas-voyager-1-makes-history-reaching-one-light-day-from-earth/",
-      "pubDate": "2026-11-19T14:31:15.000Z",
-      "image": "https://www.youtube.com/embed/0Ke0s62W4yY",
-      "author": "Jessica Taveau",
-      "excerpt": "NASA’s Voyager 1 probe, humanity’s farthest-flying spacecraft, has reached one light-day from Earth, after more than 49 years of constant travel. A light-day is the distance light travels in 24 hours, equaling about 16.1 billion miles (25.9 billion kilometers). The spacecraft achieved the milestone at 2:16 a.m. PST (5:",
-      "source": "NASA"
-    },
-    {
       "title": "HEO Unveils Insights Next SDA Tool",
       "link": "https://payloadspace.com/heo-unveils-insights-next-sda-tool/",
       "pubDate": "2026-11-19T11:53:58.000Z",
@@ -197,15 +206,6 @@
       "author": "Douglas Gorman",
       "excerpt": "If a picture is worth a thousand words, then Australian non-Earth imaging (NEI) startup HEO has a lot to say about the state of orbital traffic. The post HEO Unveils Insights Next SDA Tool appeared first on Payload.",
       "source": "Payload"
-    },
-    {
-      "title": "APOD: 2026 November 19 – The Horsehead and Flame Nebulas",
-      "link": "https://science.nasa.gov/image-article/apod-2026-november-19-the-horsehead-and-flame-nebulas/",
-      "pubDate": "2026-11-19T05:05:00.000Z",
-      "image": "https://assets.science.nasa.gov/dynamicimage/assets/science/cds/apod/apod/2026/november/Horsehead_Nebula_Killion.jpg?w=6000&#038;h=4800&#038;fit=clip",
-      "author": "",
-      "excerpt": "APODScienceAPODAPOD: 2026 November 19 – The…Today’s APODArchiveSubmissionsIndexSearchCalendarRSSEducationAboutDiscuss APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronom",
-      "source": "NASA"
     },
     {
       "title": "Sophia Space Tests Orbital-Compute Software on Kepler Constellation",
@@ -896,36 +896,153 @@
   ],
   "nytNews": [
     {
-      "title": "Britain and Brussels Have Begun a Brexit Rollback. How Far Will It Go?",
-      "link": "https://www.nytimes.com/2026/11/20/world/europe/britain-and-brussels-have-begun-a-brexit-rollback-how-far-will-it-go.html",
-      "pubDate": "2026-11-20T19:50:02.000Z",
-      "image": "https://static01.nyt.com/images/2026/11/20/multimedia/20int-eu-uk-assess-photo1-hwjg/20int-eu-uk-assess-photo1-hwjg-mediumSquareAt3X.jpg",
-      "author": "Michael D. Shear and Jeanna Smialek",
-      "excerpt": "The United Kingdom is removing barriers with the European Union a decade after it voted to leave. Global turmoil, and the disruptive policies of President Trump, helped push them back together.",
+      "title": "Fiona the Hippo Died After Eating a Hat. Some Want Justice.",
+      "link": "https://www.nytimes.com/2026/11/20/us/fiona-hippo-internet-justice.html",
+      "pubDate": "2026-11-21T01:20:47.000Z",
+      "image": "https://static01.nyt.com/images/2026/11/20/multimedia/20nat-fiona-fallout-1-02-zqjm/20nat-fiona-fallout-1-02-zqjm-mediumSquareAt3X.jpg",
+      "author": "Jessica Contrera, Remy Tumin and Kevin Williams",
+      "excerpt": "Social media commenters have called for investigations, the release of zoo video footage and punishment for the parents of a child whose hat Fiona ingested.",
       "source": "NYT"
     },
     {
-      "title": "Anthropic Shares Slip as AI and Tech Stock Sell-Off Continues",
+      "title": "Jury in Palisades Fire Trial Finds Man Guilty of Arson in Devastating Blaze",
+      "link": "https://www.nytimes.com/2026/11/20/us/la-fire-trial-arson.html",
+      "pubDate": "2026-11-21T01:08:11.000Z",
+      "image": "https://static01.nyt.com/images/2026/11/19/multimedia/00nat-hfo-arson-verdict-hlvb/00nat-hfo-arson-verdict-hlvb-mediumSquareAt3X.jpg",
+      "author": "Tim Arango and Vik Jolly",
+      "excerpt": "The defendant, Jonathan Rinderknecht, was found guilty on two counts. The verdict provides a measure of accountability for a painful chapter in recent L.A. history.",
+      "source": "NYT"
+    },
+    {
+      "title": "Officials Find Cascade of Problems With ICE Training in Trump’s Immigration Crackdown",
+      "link": "https://www.nytimes.com/2026/11/20/us/politics/training-ice-immigration-inspector-general.html",
+      "pubDate": "2026-11-21T01:02:58.000Z",
+      "image": "https://static01.nyt.com/images/2026/11/20/multimedia/20dc-ICE-training-jtmb/20dc-ICE-training-jtmb-mediumSquareAt3X.jpg",
+      "author": "Hamed Aleaziz",
+      "excerpt": "In a draft report, officials found widespread training gaps as the Department of Homeland Security sought to rapidly hire and deploy 10,000 new officers.",
+      "source": "NYT"
+    },
+    {
+      "title": "Top N.H. Election Official Reiterates Intent to Keep Nation’s First Primary",
+      "link": "https://www.nytimes.com/2026/11/20/us/elections/new-hampshire-presidential-primary.html",
+      "pubDate": "2026-11-21T00:42:11.000Z",
+      "image": "https://static01.nyt.com/images/2026/11/20/multimedia/20pol-nh-primary-SWAP-tvpj/20pol-nh-primary-SWAP-tvpj-mediumSquareAt3X.jpg",
+      "author": "John Yoon",
+      "excerpt": "The New Hampshire secretary of state said he would again hold the Democratic primary first in the nation, defying the party’s intent to prioritize other states in 2028.",
+      "source": "NYT"
+    },
+    {
+      "title": "Anthropic Mathematician Claims to Solve Riemann Hypothesis With Help From Claude",
+      "link": "https://www.nytimes.com/2026/11/20/science/anthropic-ai-math-riemann-hypothesis.html",
+      "pubDate": "2026-11-21T00:33:39.000Z",
+      "image": "https://static01.nyt.com/images/2026/11/20/multimedia/20SCI-AI-RIEMANN-01-jtkm/20SCI-AI-RIEMANN-01-jtkm-mediumSquareAt3X.jpg",
+      "author": "Kenneth Chang and Siobhan Roberts",
+      "excerpt": "If confirmed, the proof of the Riemann hypothesis would cement the field’s sense that no unsolved problem is safe from artificial intelligence.",
+      "source": "NYT"
+    },
+    {
+      "title": "As He Leaves Office, Ken Paxton Drops Suits Against Political Opponents",
+      "link": "https://www.nytimes.com/2026/11/20/us/texas-ken-paxton-drops-lawsuits.html",
+      "pubDate": "2026-11-21T00:08:32.000Z",
+      "image": "https://static01.nyt.com/images/2026/11/20/multimedia/20nat-paxton-1t-pbwj/20nat-paxton-1t-pbwj-mediumSquareAt3X.jpg",
+      "author": "J. David Goodman",
+      "excerpt": "The Texas attorney general has abandoned suits against Muslim and immigrant rights groups — and the N.C.A.A.",
+      "source": "NYT"
+    },
+    {
+      "title": "Bobby Ray Inman, Intelligence Official Under Carter and Reagan, Dies at 95",
+      "link": "https://www.nytimes.com/2026/11/20/us/bobby-ray-inman-dead.html",
+      "pubDate": "2026-11-20T23:33:06.000Z",
+      "image": "https://static01.nyt.com/images/2026/11/20/multimedia/20INMAN-01-pjqf/20INMAN-01-pjqf-mediumSquareAt3X.jpg",
+      "author": "Richard Goldstein",
+      "excerpt": "An admiral who was a well-regarded director of the National Security Agency and deputy director of central intelligence, he turned down a nomination from President Bill Clinton to be secretary of defense.",
+      "source": "NYT"
+    },
+    {
+      "title": "What Are King Tides, and Why Is Everyone Talking About Them?",
+      "link": "https://www.nytimes.com/2026/11/20/weather/what-is-a-king-tide.html",
+      "pubDate": "2026-11-20T22:52:14.000Z",
+      "image": "https://static01.nyt.com/images/2026/11/19/multimedia/00wea-kingtide-jmzl/00wea-kingtide-jmzl-mediumSquareAt3X.jpg",
+      "author": "Amy Graff",
+      "excerpt": "Because of El Niño, the Pacific Ocean is already higher than normal. This year, that could lead to some especially high tides.",
+      "source": "NYT"
+    },
+    {
+      "title": "The Evening: Are Nvidia Chips Helping Power the Chinese Military?",
+      "link": "https://www.nytimes.com/2026/11/20/briefing/nvidia-anthropic-ice.html",
+      "pubDate": "2026-11-20T22:49:15.000Z",
+      "image": "https://static01.nyt.com/images/2026/11/20/multimedia/20THE-EVENING-CHINA-HUANG-vlmf/20THE-EVENING-CHINA-HUANG-vlmf-mediumSquareAt3X.jpg",
+      "author": "Whet Moser",
+      "excerpt": "Plus, Trump is bullish on data centers. Here’s the latest at the end of Friday.",
+      "source": "NYT"
+    },
+    {
+      "title": "What Is a Stock Market Correction?",
+      "link": "https://www.nytimes.com/article/stock-market-correction.html",
+      "pubDate": "2026-11-20T22:48:40.000Z",
+      "image": "https://static01.nyt.com/images/2026/11/20/business/20biz-correction-explainer-promo/20biz-correction-explainer-promo-mediumSquareAt3X.png",
+      "author": "Aruni Soni",
+      "excerpt": "The S&P 500 has fallen more than 10 percent from its recent high, crossing a threshold that signals investors have turned pessimistic about stocks.",
+      "source": "NYT"
+    },
+    {
+      "title": "Stocks Skid Into a Correction, as A.I. Worries Intensify",
       "link": "https://www.nytimes.com/2026/11/20/business/anthropic-ai-stocks-sp500.html",
-      "pubDate": "2026-11-20T19:41:08.000Z",
+      "pubDate": "2026-11-20T22:47:32.000Z",
       "image": "https://static01.nyt.com/images/2026/11/20/multimedia/20biz-AI-markets-02-zfhg/20biz-AI-markets-02-zfhg-mediumSquareAt3X.jpg",
       "author": "Joe Rennison",
-      "excerpt": "Investors are growing more concerned about the durability of the artificial intelligence boom even after Anthropic’s successful market debut on Thursday.",
+      "excerpt": "The S&P 500 ended the day down more than 10 percent from its recent high, in a symbolic measure of investors’ souring mood.",
       "source": "NYT"
     },
     {
-      "title": "E-Bikes. Arson. Illegal Homes. Why Deadly N.Y.C. Fires Are on the Rise.",
-      "link": "https://www.nytimes.com/2026/11/20/nyregion/nyc-fire-deaths-city-council-hearing.html",
-      "pubDate": "2026-11-20T19:22:57.000Z",
-      "image": "https://static01.nyt.com/images/2026/11/20/multimedia/20met-fires-01-btcm/20met-fires-01-btcm-mediumSquareAt3X.jpg",
-      "author": "Ashley Southall",
-      "excerpt": "Fatalities have nearly doubled this year. While a series of factors has driven the increase, the deadliest blazes have occurred in homes built more than 100 years ago.",
+      "title": "California Storm Forecast to Hit Thanksgiving Week Amid High King Tides",
+      "link": "https://www.nytimes.com/2026/11/20/weather/california-thanksgiving-storm-king-tides.html",
+      "pubDate": "2026-11-20T22:38:39.000Z",
+      "image": "https://static01.nyt.com/images/2026/11/21/multimedia/21wea-tideforecast-wbkp/21wea-tideforecast-wbkp-mediumSquareAt3X.jpg",
+      "author": "Amy Graff",
+      "excerpt": "“We could have flooding in areas where we have never seen flooding before,” a forecaster with the National Weather Service said.",
+      "source": "NYT"
+    },
+    {
+      "title": "Playing ‘Key of Life,’ Stevie Wonder Invites All to Match His Joy",
+      "link": "https://www.nytimes.com/2026/11/20/arts/music/stevie-wonder-songs-in-the-key-of-life-tour.html",
+      "pubDate": "2026-11-20T21:56:26.000Z",
+      "image": "https://static01.nyt.com/images/2026/11/20/multimedia/20cul-stevie-wonder-tvqw/20cul-stevie-wonder-tvqw-mediumSquareAt3X.jpg",
+      "author": "Wesley Morris",
+      "excerpt": "Wonder’s optimism was refracted around Madison Square Garden as he performed his “Songs in the Key of Life” album on a 50th anniversary tour.",
+      "source": "NYT"
+    },
+    {
+      "title": "John Grisham: Scott Colom Makes Me Proud of Mississippi",
+      "link": "https://www.nytimes.com/2026/11/20/opinion/colom-mississippi-grisham.html",
+      "pubDate": "2026-11-20T21:32:44.000Z",
+      "image": "https://static01.nyt.com/images/2026/11/23/multimedia/20grisham-kwgv/20grisham-kwgv-mediumSquareAt3X.jpg",
+      "author": "John Grisham",
+      "excerpt": "As a kid, I once watched the Ku Klux Klan burn a cross in my hometown in Mississippi. Sixty years later, I look forward to shaking Mr. Colom’s hand and telling him I’m proud he’s my senator.",
+      "source": "NYT"
+    },
+    {
+      "title": "How Do You Investigate a President This Corrupt?",
+      "link": "https://www.nytimes.com/2026/11/20/opinion/ezra-klein-podcast-robert-garcia.html",
+      "pubDate": "2026-11-20T21:32:33.000Z",
+      "image": "https://static01.nyt.com/images/2026/11/20/opinion/20eks-garcia-image01/20eks-garcia-image01-mediumSquareAt3X.png",
+      "author": "Ezra Klein and Jack McCordick",
+      "excerpt": "The incoming House Oversight Committee chairman, Robert Garcia, lays out his committee’s top targets.",
+      "source": "NYT"
+    },
+    {
+      "title": "Fact-Checking Trump’s News Conference After His Asia Trip",
+      "link": "https://www.nytimes.com/2026/11/20/us/politics/trumps-asia-fact-check.html",
+      "pubDate": "2026-11-20T20:38:24.000Z",
+      "image": "https://static01.nyt.com/images/2026/11/20/multimedia/20DC-TRUMP-FACTCHECK-fbhc/20DC-TRUMP-FACTCHECK-fbhc-mediumSquareAt3X.jpg",
+      "author": "Linda Qiu",
+      "excerpt": "President Trump repeated and revised a number of falsehoods and exaggerations during a news conference.",
       "source": "NYT"
     },
     {
       "title": "As a Storm Floods Florida, Heavy Rain Will Creep Up the East Coast",
       "link": "https://www.nytimes.com/2026/11/20/weather/tropical-storm-kyle-florida-rain-thanksgiving.html",
-      "pubDate": "2026-11-20T19:14:26.000Z",
+      "pubDate": "2026-11-20T20:38:05.000Z",
       "image": "https://static01.nyt.com/images/2026/11/19/multimedia/19xp-flooding-fmkq/19xp-flooding-fmkq-mediumSquareAt3X.jpg",
       "author": "Judson Jones",
       "excerpt": "A potential tropical storm off the coast of Florida is expected to move up the coast and could snarl Thanksgiving week travel.",
@@ -941,21 +1058,12 @@
       "source": "NYT"
     },
     {
-      "title": "Jonathan Yardley, Who Reviewed 3,000 Books and Pulled Zero Punches, Has Died",
-      "link": "https://www.nytimes.com/2026/11/20/books/jonathan-yardley-dead.html",
-      "pubDate": "2026-11-20T18:40:30.000Z",
-      "image": "https://static01.nyt.com/images/2026/11/18/multimedia/00obit-yardley-hmlw/00obit-yardley-hmlw-mediumSquareAt3X.jpg",
-      "author": "Sam Roberts",
-      "excerpt": "As a Pulitzer Prize-winning critic for The Washington Post, he believed praise could be boring. He was 87.",
-      "source": "NYT"
-    },
-    {
-      "title": "John Grisham: Scott Colom Makes Me Proud of Mississippi",
-      "link": "https://www.nytimes.com/2026/11/20/opinion/colom-mississippi-grisham.html",
-      "pubDate": "2026-11-20T18:29:21.000Z",
-      "image": "https://static01.nyt.com/images/2026/11/20/multimedia/20grisham-kwgv/20grisham-kwgv-mediumSquareAt3X.jpg",
-      "author": "John Grisham",
-      "excerpt": "As a kid, I once watched the Ku Klux Klan burn a cross in my hometown in Mississippi. Sixty years later, I look forward to shaking Mr. Colom’s hand and telling him I’m proud he’s my senator.",
+      "title": "Trump Threatens to Bar U.S. Tech Firms From Building Data Centers Abroad",
+      "link": "https://www.nytimes.com/2026/11/20/us/politics/trump-data-centers-ban.html",
+      "pubDate": "2026-11-20T18:51:22.000Z",
+      "image": "https://static01.nyt.com/images/2026/11/20/multimedia/20biz-trump-news-data-centers-qjpt/20biz-trump-news-data-centers-qjpt-mediumSquareAt3X-v2.jpg",
+      "author": "Tony Romm and Ana Swanson",
+      "excerpt": "The president suggested he would tax the same companies, though it was not clear how he would carry out the plan unveiled at a news conference.",
       "source": "NYT"
     },
     {
@@ -977,93 +1085,12 @@
       "source": "NYT"
     },
     {
-      "title": "What Are King Tides, and Why Is Everyone Talking About Them?",
-      "link": "https://www.nytimes.com/2026/11/20/weather/what-is-a-king-tide.html",
-      "pubDate": "2026-11-20T17:10:28.000Z",
-      "image": "https://static01.nyt.com/images/2026/11/19/multimedia/00wea-kingtide-jmzl/00wea-kingtide-jmzl-mediumSquareAt3X.jpg",
-      "author": "Amy Graff",
-      "excerpt": "Because of El Niño, the Pacific Ocean is already higher than normal. This year, that could lead to some especially high tides.",
-      "source": "NYT"
-    },
-    {
-      "title": "As He Leaves Office, Ken Paxton Drops Suits Against Political Opponents",
-      "link": "https://www.nytimes.com/2026/11/20/us/texas-ken-paxton-drops-lawsuits.html",
-      "pubDate": "2026-11-20T15:56:17.000Z",
-      "image": "https://static01.nyt.com/images/2026/11/20/multimedia/20nat-paxton-1t-pbwj/20nat-paxton-1t-pbwj-mediumSquareAt3X.jpg",
-      "author": "J. David Goodman",
-      "excerpt": "The Texas attorney general has abandoned suits against Muslim and immigrant rights groups — and the N.C.A.A.",
-      "source": "NYT"
-    },
-    {
-      "title": "The Race to Build a Quantum Computer Has Become a Sprint",
-      "link": "https://www.nytimes.com/2026/11/20/science/quantum-computer-neutral-atoms.html",
-      "pubDate": "2026-11-20T15:51:47.000Z",
-      "image": "https://static01.nyt.com/images/2026/11/19/multimedia/19SCI-QUANTUM-COMPUTING-stillpromo/19SCI-QUANTUM-COMPUTING-stillpromo-mediumSquareAt3X.jpg",
-      "author": "Cade Metz",
-      "excerpt": "A rising technology based on “neutral atoms” has accelerated the competition — prompting many experts to believe that a usable machine could arrive this decade.",
-      "source": "NYT"
-    },
-    {
-      "title": "C.F.T.C. Officials Considered Investigating Trump’s Memecoin, Then Punted",
-      "link": "https://www.nytimes.com/2026/11/20/us/politics/cftc-cryptocurrency-trump-memecoin.html",
-      "pubDate": "2026-11-20T15:03:34.000Z",
-      "image": "https://static01.nyt.com/images/2026/11/18/multimedia/dc-memecoin-mzcq/dc-memecoin-mzcq-mediumSquareAt3X.jpg",
-      "author": "Sharon LaFraniere",
-      "excerpt": "Lawyers at the Commodity Futures Trading Commission looked into possible fraud soon after the digital token’s launch, then decided they would not get the commission’s support.",
-      "source": "NYT"
-    },
-    {
       "title": "How Jensen Huang Made Humiliation Routine at Nvidia",
       "link": "https://www.nytimes.com/2026/11/20/technology/jensen-huang-nvidia-culture.html",
       "pubDate": "2026-11-20T14:43:10.000Z",
       "image": "https://static01.nyt.com/images/2026/11/18/multimedia/00BIZ-nvidia-culture-jensen-kbpz/00BIZ-nvidia-culture-jensen-kbpz-mediumSquareAt3X.jpg",
       "author": "Emily Steel, Kalley Huang, Ryan Mac and Tripp Mickle",
       "excerpt": "The Nvidia co-founder’s belittling behavior toward employees goes back decades. It once led to a confidential settlement agreement with an executive who said Mr. Huang “terrorized” staff.",
-      "source": "NYT"
-    },
-    {
-      "title": "Should You Invest in Anthropic? Here’s What to Consider.",
-      "link": "https://www.nytimes.com/2026/11/19/your-money/anthropic-ipo-investing.html",
-      "pubDate": "2026-11-20T14:39:17.000Z",
-      "image": "https://static01.nyt.com/images/2026/11/18/business/00money-ipo/00money-ipo-mediumSquareAt3X.jpg",
-      "author": "Tara Siegel Bernard",
-      "excerpt": "Placing a meaningful portion of your wealth on a single stock is never a good idea, but if you feel tempted to invest, ask yourself several questions first.",
-      "source": "NYT"
-    },
-    {
-      "title": "The Democrats’ Plan for Investigating Trump",
-      "link": "https://www.nytimes.com/2026/11/20/opinion/ezra-klein-podcast-robert-garcia.html",
-      "pubDate": "2026-11-20T10:04:03.000Z",
-      "image": "https://static01.nyt.com/images/2026/11/20/opinion/20eks-garcia-image01/20eks-garcia-image01-mediumSquareAt3X.png",
-      "author": "Ezra Klein and Jack McCordick",
-      "excerpt": "The incoming House Oversight Committee chairman, Robert Garcia, lays out his committee’s top targets.",
-      "source": "NYT"
-    },
-    {
-      "title": "Quantum Computing Is Even Weirder Than You Think",
-      "link": "https://www.nytimes.com/2026/11/20/science/quantum-contextuality.html",
-      "pubDate": "2026-11-20T10:02:37.000Z",
-      "image": "https://static01.nyt.com/images/2026/11/19/multimedia/19SCI-QUANTUM-CONTEXTUALITY-fwhv/19SCI-QUANTUM-CONTEXTUALITY-fwhv-mediumSquareAt3X.jpg",
-      "author": "Cade Metz",
-      "excerpt": "In a new study, Google researchers demonstrated a strange phenomenon called quantum contextuality, in which a quantum machine’s data can change as the context does.",
-      "source": "NYT"
-    },
-    {
-      "title": "Sheet-Pan Recipes for Friendsgiving",
-      "link": "https://cooking.nytimes.com/article/thanksgiving-sheet-pan-recipes-friendsgiving",
-      "pubDate": "2026-11-18T16:33:36.000Z",
-      "image": "https://static01.nyt.com/images/2026/11/05/multimedia/05FD-SHEET-PAN-FRIENDSGIVING-honeynutsquashchickpeas-pgfl/05FD-SHEET-PAN-FRIENDSGIVING-honeynutsquashchickpeas-pgfl-mediumSquareAt3X.jpg",
-      "author": "Sharon Attia",
-      "excerpt": "Spatchcock turkey, scalloped potatoes, Texas sheet cake and more easy, low cleanup dishes for a laid-back feast.",
-      "source": "NYT"
-    },
-    {
-      "title": "Thanksgiving Recipes for Turkey Alternatives",
-      "link": "https://cooking.nytimes.com/article/thanksgiving-main-dish-not-turkey",
-      "pubDate": "2026-09-25T19:52:36.000Z",
-      "image": "https://static01.nyt.com/images/2019/11/05/dining/aw-mushroom-wellington/merlin_163633167_473a653a-a909-42e2-94c3-0788f950a163-moth.jpg",
-      "author": "The New York Times",
-      "excerpt": "Maybe you don’t like turkey, or it’s too expensive, or just not worth the work. We’ve got recipes to get excited about.",
       "source": "NYT"
     }
   ]
