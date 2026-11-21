@@ -1,6 +1,15 @@
 {
   "spaceNews": [
     {
+      "title": "APOD: 2026 November 21 – Voyager’s Neptune",
+      "link": "https://science.nasa.gov/image-article/apod-2026-november-21-voyagers-neptune/",
+      "pubDate": "2026-11-21T05:05:00.000Z",
+      "image": "https://assets.science.nasa.gov/dynamicimage/assets/science/cds/apod/apod/2026/november/Neptune-South-Pole-Voyager-2_2327x1670.jpg?w=2048&#038;h=1669&#038;fit=clip",
+      "author": "",
+      "excerpt": "APOD Science APOD APOD: 2026 November 21 –… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional",
+      "source": "NASA"
+    },
+    {
       "title": "Curiosity Spots Drifting Twilight Clouds",
       "link": "https://science.nasa.gov/photojournal/curiosity-spots-drifting-twilight-clouds/",
       "pubDate": "2026-11-20T22:27:05.000Z",
@@ -118,12 +127,12 @@
       "source": "NASA"
     },
     {
-      "title": "SpaceX scrubs launch of classified payload for the U.S. Space Force, targets Friday",
+      "title": "SpaceX launches classified payload for the U.S. Space Force",
       "link": "https://spaceflightnow.com/2026/11/19/live-coverage-spacex-to-launch-classified-payload-for-the-u-s-space-force-2/",
       "pubDate": "2026-11-19T23:51:47.000Z",
       "image": "https://spaceflightnow.com/wp-content/uploads/2026/11/20261119_USSF_317_Vertical.jpg",
       "author": "Will Robinson-Smith",
-      "excerpt": "The mission is the latest in the series of ‘R’ missions tasked by the U.S. Space Force. Liftoff from pad 4 East is scheduled for Friday, Nov. 20, during a window that opens at 6:32 p.m. PST (9:32 p.m. EST / 0232 UTC).",
+      "excerpt": "The mission was the latest in the series of ‘R’ missions tasked by the U.S. Space Force. Liftoff from pad 4 East happened on Friday, Nov. 20 at 8:20 p.m. PST / 11:20 p.m. EST (0420 UTC on Saturday, Nov. 21).",
       "source": "Spaceflight Now"
     },
     {
@@ -187,15 +196,6 @@
       "image": "https://www.nasa.gov/wp-content/uploads/2026/11/iss075e0267074orig.jpg?w=2048",
       "author": "HQ Web Team",
       "excerpt": "An astronaut on the International Space Station captured this photograph of Lake Pelku (near center) as the station orbited above Asia. The International Space Station serves as a unique platform for observing Earth with both hands-on and automated equipment. Station crew members have produced hundreds of thousands of ",
-      "source": "NASA"
-    },
-    {
-      "title": "NASA Conducts Latest RS-25 Engine Test in Support of Future Artemis Missions",
-      "link": "https://www.nasa.gov/image-article/latest-rs-25-engine-test-in-support-of-future-artemis-missions/",
-      "pubDate": "2026-11-19T14:44:39.000Z",
-      "image": "https://www.nasa.gov/wp-content/uploads/2026/11/ssc-20261118-s01364.jpg?w=1024",
-      "author": "LaToya Dean",
-      "excerpt": "NASA tested RS-25 engine No. 10001 on Nov. 18 on the Fred Haise Test Stand at NASA’s Stennis Space Center near Bay St. Louis, Mississippi. Test teams fired the developmental engine for the planned duration of three minutes and 20 seconds (200 seconds). While this developmental engine will not be used in flight, the hot",
       "source": "NASA"
     },
     {
@@ -896,12 +896,75 @@
   ],
   "nytNews": [
     {
+      "title": "On the Trail With Spain’s Prime Minister, as He Tries to Pull Out a Win",
+      "link": "https://www.nytimes.com/2026/11/21/world/europe/spain-sanchez-interview-election-basketball.html",
+      "pubDate": "2026-11-21T05:01:09.000Z",
+      "image": "https://static01.nyt.com/images/2026/11/21/multimedia/21int-spain-sanchez-01-clpt/21int-spain-sanchez-01-clpt-mediumSquareAt3X.jpg",
+      "author": "Jason Horowitz",
+      "excerpt": "Pedro Sánchez, Europe’s most prominent left-wing leader, seems set to lose power in an election next week. Our reporter trailed his last-ditch effort to turn his campaign around.",
+      "source": "NYT"
+    },
+    {
+      "title": "It’s a Bill on Energy Permits, but Trump’s Pet Projects Are Part of the Debate",
+      "link": "https://www.nytimes.com/2026/11/20/us/politics/baaja-permitting-bill-trump.html",
+      "pubDate": "2026-11-21T03:41:06.000Z",
+      "image": "https://static01.nyt.com/images/2026/11/20/multimedia/20dc-trump-permitting-fzpt/20dc-trump-permitting-fzpt-mediumSquareAt3X.jpg",
+      "author": "Luke Broadwater",
+      "excerpt": "The pervasive presence of the president hovers over the bipartisan legislation to speed up construction of energy projects that are advancing through Congress.",
+      "source": "NYT"
+    },
+    {
+      "title": "Judge Approves $7 Billion Settlement Over Claims That Roundup Caused Cancer",
+      "link": "https://www.nytimes.com/2026/11/20/business/judge-approves-7-billion-settlement-over-claims-that-roundup-caused-cancer.html",
+      "pubDate": "2026-11-21T03:23:04.000Z",
+      "image": "https://static01.nyt.com/images/2026/11/20/multimedia/20BIZ-ROUNDUP-fqct/20BIZ-ROUNDUP-fqct-mediumSquareAt3X.jpg",
+      "author": "Kevin Draper",
+      "excerpt": "The ruling, in a nationwide class-action suit, is expected to end tens of thousands of lawsuits by people claiming that Roundup caused non-Hodgkin lymphoma.",
+      "source": "NYT"
+    },
+    {
+      "title": "Trump Administration Says Army Can Blow Up Lead-Laced Explosives",
+      "link": "https://www.nytimes.com/2026/11/20/climate/iowa-lead-plume-ammunition-explosion.html",
+      "pubDate": "2026-11-21T02:52:50.000Z",
+      "image": "https://static01.nyt.com/images/2026/11/20/multimedia/20CLI-LEAD-IOWA-01-jwfz/20CLI-LEAD-IOWA-01-jwfz-mediumSquareAt3X.jpg",
+      "author": "Quinn Glabicki, John Ismay and Hiroko Tabuchi",
+      "excerpt": "The detonation, now set for Monday, could create a cloud of lead dust stretching for miles over homes and farms, the Army has said. Environmental groups are seeking an emergency stay.",
+      "source": "NYT"
+    },
+    {
+      "title": "Playing ‘Key of Life,’ Stevie Wonder Invites All to Match His Joy",
+      "link": "https://www.nytimes.com/2026/11/20/arts/music/stevie-wonder-songs-in-the-key-of-life-tour.html",
+      "pubDate": "2026-11-21T02:36:21.000Z",
+      "image": "https://static01.nyt.com/images/2026/11/20/arts/20cul-stevie-wonder-02/20cul-stevie-wonder-02-mediumSquareAt3X-v2.jpg",
+      "author": "Wesley Morris",
+      "excerpt": "Wonder’s optimism was refracted around Madison Square Garden as he performed his “Songs in the Key of Life” album on a 50th anniversary tour.",
+      "source": "NYT"
+    },
+    {
+      "title": "Takeaways From Trump’s Post-Trip News Conference",
+      "link": "https://www.nytimes.com/2026/11/20/us/politics/trump-news-conference-asia-trip.html",
+      "pubDate": "2026-11-21T02:15:29.000Z",
+      "image": "https://static01.nyt.com/images/2026/11/20/multimedia/20dc-trump-takeaways-zphf/20dc-trump-takeaways-zphf-mediumSquareAt3X.jpg",
+      "author": "Erica L. Green",
+      "excerpt": "President Trump called the trilateral meeting with Xi Jinping and Vladimir Putin in China an “amazing event.” He also said he would work with Democrats in Congress on key issues.",
+      "source": "NYT"
+    },
+    {
       "title": "Fiona the Hippo Died After Eating a Hat. Some Want Justice.",
       "link": "https://www.nytimes.com/2026/11/20/us/fiona-hippo-internet-justice.html",
-      "pubDate": "2026-11-21T01:20:47.000Z",
+      "pubDate": "2026-11-21T02:06:07.000Z",
       "image": "https://static01.nyt.com/images/2026/11/20/multimedia/20nat-fiona-fallout-1-02-zqjm/20nat-fiona-fallout-1-02-zqjm-mediumSquareAt3X.jpg",
       "author": "Jessica Contrera, Remy Tumin and Kevin Williams",
       "excerpt": "Social media commenters have called for investigations, the release of zoo video footage and punishment for the parents of a child whose hat Fiona ingested.",
+      "source": "NYT"
+    },
+    {
+      "title": "Officials Find Cascade of Problems With ICE Training in Trump’s Immigration Crackdown",
+      "link": "https://www.nytimes.com/2026/11/20/us/politics/training-ice-immigration-inspector-general.html",
+      "pubDate": "2026-11-21T01:43:40.000Z",
+      "image": "https://static01.nyt.com/images/2026/11/20/multimedia/20dc-ICE-training-jtmb/20dc-ICE-training-jtmb-mediumSquareAt3X.jpg",
+      "author": "Hamed Aleaziz",
+      "excerpt": "In a draft report, officials found widespread training gaps as the Department of Homeland Security sought to rapidly hire and deploy 10,000 new officers.",
       "source": "NYT"
     },
     {
@@ -914,21 +977,12 @@
       "source": "NYT"
     },
     {
-      "title": "Officials Find Cascade of Problems With ICE Training in Trump’s Immigration Crackdown",
-      "link": "https://www.nytimes.com/2026/11/20/us/politics/training-ice-immigration-inspector-general.html",
-      "pubDate": "2026-11-21T01:02:58.000Z",
-      "image": "https://static01.nyt.com/images/2026/11/20/multimedia/20dc-ICE-training-jtmb/20dc-ICE-training-jtmb-mediumSquareAt3X.jpg",
-      "author": "Hamed Aleaziz",
-      "excerpt": "In a draft report, officials found widespread training gaps as the Department of Homeland Security sought to rapidly hire and deploy 10,000 new officers.",
-      "source": "NYT"
-    },
-    {
-      "title": "Top N.H. Election Official Reiterates Intent to Keep Nation’s First Primary",
-      "link": "https://www.nytimes.com/2026/11/20/us/elections/new-hampshire-presidential-primary.html",
-      "pubDate": "2026-11-21T00:42:11.000Z",
-      "image": "https://static01.nyt.com/images/2026/11/20/multimedia/20pol-nh-primary-SWAP-tvpj/20pol-nh-primary-SWAP-tvpj-mediumSquareAt3X.jpg",
-      "author": "John Yoon",
-      "excerpt": "The New Hampshire secretary of state said he would again hold the Democratic primary first in the nation, defying the party’s intent to prioritize other states in 2028.",
+      "title": "Nvidia Said to Face S.E.C. Probe Into Its Accounting Practices",
+      "link": "https://www.nytimes.com/2026/11/20/business/nvidia-sec-accounting.html",
+      "pubDate": "2026-11-21T01:06:52.000Z",
+      "image": "https://static01.nyt.com/images/2026/11/20/multimedia/20biz-Nvidia-SEC-kblz/20biz-Nvidia-SEC-kblz-mediumSquareAt3X.jpg",
+      "author": "Lauren Hirsch, Matthew Goldstein and Jessica Silver-Greenberg",
+      "excerpt": "Questions around the company’s accounting had surfaced amid revelations about its questionable chip sales in Asia.",
       "source": "NYT"
     },
     {
@@ -938,42 +992,6 @@
       "image": "https://static01.nyt.com/images/2026/11/20/multimedia/20SCI-AI-RIEMANN-01-jtkm/20SCI-AI-RIEMANN-01-jtkm-mediumSquareAt3X.jpg",
       "author": "Kenneth Chang and Siobhan Roberts",
       "excerpt": "If confirmed, the proof of the Riemann hypothesis would cement the field’s sense that no unsolved problem is safe from artificial intelligence.",
-      "source": "NYT"
-    },
-    {
-      "title": "As He Leaves Office, Ken Paxton Drops Suits Against Political Opponents",
-      "link": "https://www.nytimes.com/2026/11/20/us/texas-ken-paxton-drops-lawsuits.html",
-      "pubDate": "2026-11-21T00:08:32.000Z",
-      "image": "https://static01.nyt.com/images/2026/11/20/multimedia/20nat-paxton-1t-pbwj/20nat-paxton-1t-pbwj-mediumSquareAt3X.jpg",
-      "author": "J. David Goodman",
-      "excerpt": "The Texas attorney general has abandoned suits against Muslim and immigrant rights groups — and the N.C.A.A.",
-      "source": "NYT"
-    },
-    {
-      "title": "Bobby Ray Inman, Intelligence Official Under Carter and Reagan, Dies at 95",
-      "link": "https://www.nytimes.com/2026/11/20/us/bobby-ray-inman-dead.html",
-      "pubDate": "2026-11-20T23:33:06.000Z",
-      "image": "https://static01.nyt.com/images/2026/11/20/multimedia/20INMAN-01-pjqf/20INMAN-01-pjqf-mediumSquareAt3X.jpg",
-      "author": "Richard Goldstein",
-      "excerpt": "An admiral who was a well-regarded director of the National Security Agency and deputy director of central intelligence, he turned down a nomination from President Bill Clinton to be secretary of defense.",
-      "source": "NYT"
-    },
-    {
-      "title": "What Are King Tides, and Why Is Everyone Talking About Them?",
-      "link": "https://www.nytimes.com/2026/11/20/weather/what-is-a-king-tide.html",
-      "pubDate": "2026-11-20T22:52:14.000Z",
-      "image": "https://static01.nyt.com/images/2026/11/19/multimedia/00wea-kingtide-jmzl/00wea-kingtide-jmzl-mediumSquareAt3X.jpg",
-      "author": "Amy Graff",
-      "excerpt": "Because of El Niño, the Pacific Ocean is already higher than normal. This year, that could lead to some especially high tides.",
-      "source": "NYT"
-    },
-    {
-      "title": "The Evening: Are Nvidia Chips Helping Power the Chinese Military?",
-      "link": "https://www.nytimes.com/2026/11/20/briefing/nvidia-anthropic-ice.html",
-      "pubDate": "2026-11-20T22:49:15.000Z",
-      "image": "https://static01.nyt.com/images/2026/11/20/multimedia/20THE-EVENING-CHINA-HUANG-vlmf/20THE-EVENING-CHINA-HUANG-vlmf-mediumSquareAt3X.jpg",
-      "author": "Whet Moser",
-      "excerpt": "Plus, Trump is bullish on data centers. Here’s the latest at the end of Friday.",
       "source": "NYT"
     },
     {
@@ -1004,15 +1022,6 @@
       "source": "NYT"
     },
     {
-      "title": "Playing ‘Key of Life,’ Stevie Wonder Invites All to Match His Joy",
-      "link": "https://www.nytimes.com/2026/11/20/arts/music/stevie-wonder-songs-in-the-key-of-life-tour.html",
-      "pubDate": "2026-11-20T21:56:26.000Z",
-      "image": "https://static01.nyt.com/images/2026/11/20/multimedia/20cul-stevie-wonder-tvqw/20cul-stevie-wonder-tvqw-mediumSquareAt3X.jpg",
-      "author": "Wesley Morris",
-      "excerpt": "Wonder’s optimism was refracted around Madison Square Garden as he performed his “Songs in the Key of Life” album on a 50th anniversary tour.",
-      "source": "NYT"
-    },
-    {
       "title": "John Grisham: Scott Colom Makes Me Proud of Mississippi",
       "link": "https://www.nytimes.com/2026/11/20/opinion/colom-mississippi-grisham.html",
       "pubDate": "2026-11-20T21:32:44.000Z",
@@ -1031,57 +1040,12 @@
       "source": "NYT"
     },
     {
-      "title": "Fact-Checking Trump’s News Conference After His Asia Trip",
-      "link": "https://www.nytimes.com/2026/11/20/us/politics/trumps-asia-fact-check.html",
-      "pubDate": "2026-11-20T20:38:24.000Z",
-      "image": "https://static01.nyt.com/images/2026/11/20/multimedia/20DC-TRUMP-FACTCHECK-fbhc/20DC-TRUMP-FACTCHECK-fbhc-mediumSquareAt3X.jpg",
-      "author": "Linda Qiu",
-      "excerpt": "President Trump repeated and revised a number of falsehoods and exaggerations during a news conference.",
-      "source": "NYT"
-    },
-    {
       "title": "As a Storm Floods Florida, Heavy Rain Will Creep Up the East Coast",
       "link": "https://www.nytimes.com/2026/11/20/weather/tropical-storm-kyle-florida-rain-thanksgiving.html",
       "pubDate": "2026-11-20T20:38:05.000Z",
       "image": "https://static01.nyt.com/images/2026/11/19/multimedia/19xp-flooding-fmkq/19xp-flooding-fmkq-mediumSquareAt3X.jpg",
       "author": "Judson Jones",
       "excerpt": "A potential tropical storm off the coast of Florida is expected to move up the coast and could snarl Thanksgiving week travel.",
-      "source": "NYT"
-    },
-    {
-      "title": "Democrats Strengthen the Legal Line With Attorneys General Triumphs",
-      "link": "https://www.nytimes.com/2026/11/20/us/elections/democrats-attorney-general.html",
-      "pubDate": "2026-11-20T19:03:15.000Z",
-      "image": "https://static01.nyt.com/images/2026/11/07/multimedia/07nat-attygen-sweep-01-qclg/07nat-attygen-sweep-01-qclg-mediumSquareAt3X-v2.jpg",
-      "author": "David W. Chen",
-      "excerpt": "Once considered vulnerable to local issues, Democratic candidates for attorneys general romped on Tuesday, with the final contests called against Republican attorneys general in Kansas and Ohio.",
-      "source": "NYT"
-    },
-    {
-      "title": "Trump Threatens to Bar U.S. Tech Firms From Building Data Centers Abroad",
-      "link": "https://www.nytimes.com/2026/11/20/us/politics/trump-data-centers-ban.html",
-      "pubDate": "2026-11-20T18:51:22.000Z",
-      "image": "https://static01.nyt.com/images/2026/11/20/multimedia/20biz-trump-news-data-centers-qjpt/20biz-trump-news-data-centers-qjpt-mediumSquareAt3X-v2.jpg",
-      "author": "Tony Romm and Ana Swanson",
-      "excerpt": "The president suggested he would tax the same companies, though it was not clear how he would carry out the plan unveiled at a news conference.",
-      "source": "NYT"
-    },
-    {
-      "title": "Alice Huang, Accused of Spying on Nvidia’s CEO, Is Linked to Firms With Ties to China’s Military",
-      "link": "https://www.nytimes.com/2026/11/20/us/politics/nvidia-alice-huang-chips-china.html",
-      "pubDate": "2026-11-20T18:05:36.000Z",
-      "image": "https://static01.nyt.com/images/2026/11/19/multimedia/19dc-spy-chip-tbpw/19dc-spy-chip-tbpw-mediumSquareAt3X.jpg",
-      "author": "Julian E. Barnes, Paul Mozur and Ana Swanson",
-      "excerpt": "Companies linked to Alice Huang, the woman at the heart of the Nvidia scandal, are part of a network of Chinese tech firms and defense contractors that need advanced computing power.",
-      "source": "NYT"
-    },
-    {
-      "title": "A Supermodel Will Finally Get Her Day in Court",
-      "link": "https://www.nytimes.com/2026/11/20/style/carre-otis-gerald-marie-lawsuit-sexual-abuse.html",
-      "pubDate": "2026-11-20T17:21:42.000Z",
-      "image": "https://static01.nyt.com/images/2026/11/20/fashion/20MARIE-OTIS-v/20MARIE-OTIS-v-mediumSquareAt3X.jpg",
-      "author": "Vanessa Friedman",
-      "excerpt": "Carré Otis spent years trying to serve her former agent in a lawsuit accusing him of sexual abuse. It took an international operation to make it happen.",
       "source": "NYT"
     },
     {
