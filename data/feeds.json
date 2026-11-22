@@ -896,6 +896,24 @@
   ],
   "nytNews": [
     {
+      "title": "Drones, Texts and Diversions: How Mexico Captured a Most Wanted Man",
+      "link": "https://www.nytimes.com/2026/11/21/world/americas/mexico-captures-drug-kingpin.html",
+      "pubDate": "2026-11-22T01:56:16.000Z",
+      "image": "https://static01.nyt.com/images/2026/11/22/multimedia/22int-cartel-ticktock-photo1-bpwm/22int-cartel-ticktock-photo1-bpwm-mediumSquareAt3X.jpg",
+      "author": "Steve Fisher, Paulina Villegas and Alan Feuer",
+      "excerpt": "U.S. and Mexican authorities shared intelligence for weeks to track Fausto Isidro Meza Flores, a drug cartel leader that a U.S. official called the most dangerous man in Mexico.",
+      "source": "NYT"
+    },
+    {
+      "title": "Trump Moves to Restrict Congressional Oversight of Contractors",
+      "link": "https://www.nytimes.com/2026/11/21/us/politics/trump-congressional-oversight-contractors.html",
+      "pubDate": "2026-11-22T01:29:53.000Z",
+      "image": "https://static01.nyt.com/images/2026/11/21/multimedia/21dc-trump-oversight-gpmz/21dc-trump-oversight-gpmz-mediumSquareAt3X.jpg",
+      "author": "Erica L. Green and Michael Gold",
+      "excerpt": "The president’s executive order is the latest effort to blunt Democratic plans to investigate the administration’s actions.",
+      "source": "NYT"
+    },
+    {
       "title": "The Army Rejected a Cleaner Option to Destroy Lead-Laced Explosives in Iowa",
       "link": "https://www.nytimes.com/2026/11/21/climate/army-lead-azide-blast.html",
       "pubDate": "2026-11-21T22:57:09.000Z",
@@ -914,24 +932,6 @@
       "source": "NYT"
     },
     {
-      "title": "Top Drug Kingpin Is Captured by Mexican Army as Gunfire Erupts",
-      "link": "https://www.nytimes.com/2026/11/21/world/americas/mexico-el-chapo-isidro-captured-drugs.html",
-      "pubDate": "2026-11-21T21:12:23.000Z",
-      "image": "https://static01.nyt.com/images/2026/11/21/espanol/21int-cartel-arrest-zqtf-ES-copy1/21int-cartel-arrest-zqtf-mediumSquareAt3X.jpg",
-      "author": "Paulina Villegas",
-      "excerpt": "The arrest of Fausto Isidro Meza Flores, who is known as El Chapo Isidro and was one of the F.B.I.’s 10 most wanted, was a victory for the Mexican government.",
-      "source": "NYT"
-    },
-    {
-      "title": "Trump Moves to Restrict Congressional Oversight of Contractors",
-      "link": "https://www.nytimes.com/2026/11/21/us/politics/trump-congressional-oversight-contractors.html",
-      "pubDate": "2026-11-21T20:20:24.000Z",
-      "image": "https://static01.nyt.com/images/2026/11/21/multimedia/21dc-trump-oversight-gpmz/21dc-trump-oversight-gpmz-mediumSquareAt3X.jpg",
-      "author": "Erica L. Green and Michael Gold",
-      "excerpt": "The president’s executive order is the latest effort to blunt Democratic plans to investigate the administration’s actions.",
-      "source": "NYT"
-    },
-    {
       "title": "Tech Outages Are Only the Beginning. A.I. Will Bring More Disruptions.",
       "link": "https://www.nytimes.com/2026/11/21/us/politics/tech-outages-ai-disruptions.html",
       "pubDate": "2026-11-21T19:11:51.000Z",
@@ -941,12 +941,30 @@
       "source": "NYT"
     },
     {
-      "title": "Hakeem Jeffries on Trump, Stephen Miller, AIPAC and the Road Ahead",
-      "link": "https://www.nytimes.com/2026/11/21/magazine/hakeem-jeffries-interview.html",
-      "pubDate": "2026-11-21T16:03:26.000Z",
-      "image": "https://static01.nyt.com/images/2026/11/21/magazine/21mag-interview-jeffries-06/21mag-interview-jeffries-06-mediumSquareAt3X.jpg",
-      "author": "Lulu Garcia-Navarro",
-      "excerpt": "The Democratic nominee for House speaker will have a challenging job. We asked him how he plans to lead.",
+      "title": "The $2.4 Billion Auction Week: Big Sales, Bigger Expectations",
+      "link": "https://www.nytimes.com/2026/11/21/arts/design/art-auction-collectors-heirs-nazi-sothebys-christies-new-york.html",
+      "pubDate": "2026-11-21T18:04:17.000Z",
+      "image": null,
+      "author": "Julia Halperin, Tim F. Schneider and Zachary Small",
+      "excerpt": "“Blossoming Chestnut Trees” became a symbol of the risk and gamesmanship that define the art market’s peak. Here are five takeaways from the marathon.",
+      "source": "NYT"
+    },
+    {
+      "title": "Advice to Democrats: Impeach Trump’s Cabinet",
+      "link": "https://www.nytimes.com/2026/11/21/opinion/trump-xi-putin-summit-china-ai-democrats.html",
+      "pubDate": "2026-11-21T16:45:01.000Z",
+      "image": "https://static01.nyt.com/images/2026/11/21/opinion/21opinions-roundtable-image/21opinions-roundtable-image-mediumSquareAt3X-v5.png",
+      "author": "Jamelle Bouie, Michelle Cottle, David French and Derek Arthur",
+      "excerpt": "Autocrats, tech lords and a whole lot of hubris: a week in politics.",
+      "source": "NYT"
+    },
+    {
+      "title": "Who Is the Mexican Drug Kingpin Known as El Chapo Isidro?",
+      "link": "https://www.nytimes.com/2026/11/21/world/americas/mexico-el-chapo-isidro-drug-kingpin.html",
+      "pubDate": "2026-11-21T16:30:35.000Z",
+      "image": "https://static01.nyt.com/images/2026/11/21/multimedia/21int-cartel-arrest-wtk-cjwm/21int-cartel-arrest-wtk-cjwm-mediumSquareAt3X.jpg",
+      "author": "Lynsey Chutel",
+      "excerpt": "The kingpin, Fausto Isidro Meza Flores, was captured in a violent operation in Mexico. He was one of the F.B.I.’s 10 most wanted fugitives.",
       "source": "NYT"
     },
     {
@@ -983,24 +1001,6 @@
       "image": "https://static01.nyt.com/images/2026/11/20/multimedia/20biz-anthropic-aftermath-cwvh/20biz-anthropic-aftermath-cwvh-mediumSquareAt3X.jpg",
       "author": "Cory Weinberg",
       "excerpt": "The A.I. giant broke records with its initial public offering this week before a rocky first full day of trading, as the markets plunged on worries about artificial intelligence spending.",
-      "source": "NYT"
-    },
-    {
-      "title": "Sarah McBride, Barred From Capitol Bathrooms, Wins Top Post",
-      "link": "https://www.nytimes.com/2026/11/21/us/politics/sarah-mcbride-barred-from-capitol-bathrooms-wins-top-post.html",
-      "pubDate": "2026-11-21T10:02:28.000Z",
-      "image": "https://static01.nyt.com/images/2026/11/21/multimedia/21dc-mcbride-ckvt/21dc-mcbride-ckvt-mediumSquareAt3X.jpg",
-      "author": "Annie Karni",
-      "excerpt": "Republicans have targeted the Delaware Democrat, the first openly transgender member of Congress, since she came to Washington. Her party just elevated her to a key job.",
-      "source": "NYT"
-    },
-    {
-      "title": "The Financial Bubble Cycles Are Getting Worse",
-      "link": "https://www.nytimes.com/2026/11/16/opinion/ai-bubble-finance-crisis-deregulation.html",
-      "pubDate": "2026-11-20T19:49:18.000Z",
-      "image": null,
-      "author": "Zachary D. Carter",
-      "excerpt": "The financialization of our economy, now penetrating Silicon Valley, is generating storms that are both more frequent and more destructive.",
       "source": "NYT"
     }
   ]
