@@ -1,6 +1,15 @@
 {
   "spaceNews": [
     {
+      "title": "65 Years of Human Spaceflight at NASA Johnson ",
+      "link": "https://www.nasa.gov/centers-and-facilities/johnson/65-years-of-human-spaceflight-at-nasa-johnson/",
+      "pubDate": "2026-11-22T19:13:25.000Z",
+      "image": "https://www.nasa.gov/wp-content/uploads/2026/11/20261106-artemiscelebrationgala-sl1-4202.jpg?w=1536",
+      "author": "Sumer Loggins",
+      "excerpt": "For 65 years, NASA’s Johnson Space Center in Houston has helped shape human spaceflight, from the Gemini missions that demonstrated rendezvous and docking techniques needed for Apollo to the research conducted aboard the International Space Station, which has supported a continuous human presence for more than 26 years",
+      "source": "NASA"
+    },
+    {
       "title": "Young and old stars share the southern sky",
       "link": "https://www.astronomy.com/science/young-and-old-stars-share-the-southern-sky/",
       "pubDate": "2026-11-22T14:00:00.000Z",
@@ -15,7 +24,7 @@
       "pubDate": "2026-11-22T05:05:00.000Z",
       "image": "https://assets.science.nasa.gov/dynamicimage/assets/science/cds/apod/apod/2026/november/JupiterSwirls_JunoBrealey_3709.jpg?w=2048&#038;h=2048&#038;fit=clip",
       "author": "",
-      "excerpt": "APOD Science APOD APOD: 2026 November 22 –… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional",
+      "excerpt": "APODScienceAPODAPOD: 2026 November 22 –…Today’s APODArchiveSubmissionsIndexSearchCalendarRSSEducationAboutDiscuss APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer. ",
       "source": "NASA"
     },
     {
@@ -42,7 +51,7 @@
       "pubDate": "2026-11-21T05:05:00.000Z",
       "image": "https://assets.science.nasa.gov/dynamicimage/assets/science/cds/apod/apod/2026/november/Neptune-South-Pole-Voyager-2_2327x1670.jpg?w=2048&#038;h=1669&#038;fit=clip",
       "author": "",
-      "excerpt": "APOD Science APOD APOD: 2026 November 21 –… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional",
+      "excerpt": "APODScienceAPODAPOD: 2026 November 21 –…Today’s APODArchiveSubmissionsIndexSearchCalendarRSSEducationAboutDiscuss APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer. ",
       "source": "NASA"
     },
     {
@@ -215,15 +224,6 @@
       "author": "SpaceNews Editor",
       "excerpt": "In this episode of Space Minds, SpaceNews’ Mike Gruss speaks with Jean-François Morizur, the co-founder and CEO of Cailabs, at Space Tech Expo Europe. Morizur discusses the misconceptions with laser […] The post Making the case for optical appeared first on SpaceNews.",
       "source": "SpaceNews"
-    },
-    {
-      "title": "NASA Science Data Powers New Method to Discover Hard-to-Find Pulsars",
-      "link": "https://science.nasa.gov/open-science/fermi-data-pulsar-discovery/",
-      "pubDate": "2026-11-19T15:33:55.000Z",
-      "image": "https://assets.science.nasa.gov/dynamicimage/assets/science/cds/general/images/2023/05/screenshot-2023-06-06-at-2.57.05-pm.png?w=1652&#038;h=928&#038;fit=clip",
-      "author": "",
-      "excerpt": "Open data from NASA’s Fermi mission helped an international team of scientists develop a method for finding pulsars about a million times faster than before.",
-      "source": "NASA"
     },
     {
       "title": "HEO Unveils Insights Next SDA Tool",
@@ -898,28 +898,37 @@
     {
       "title": "Democrats Clinch 258 House Seats, an Election-Year Record This Century",
       "link": "https://www.nytimes.com/2026/11/22/us/politics/democrats-midterm-house-majority-record.html",
-      "pubDate": "2026-11-22T18:23:08.000Z",
-      "image": "https://static01.nyt.com/images/2026/11/06/multimedia/00pol-dems-house-majority-hfo-vwlm/00pol-dems-house-majority-hfo-vwlm-mediumSquareAt3X.jpg",
+      "pubDate": "2026-11-22T23:30:07.000Z",
+      "image": null,
       "author": "Tim Balk",
       "excerpt": "After sweeping midterm wins, Democrats have secured the largest House majority in a national election for either party in three decades.",
       "source": "NYT"
     },
     {
-      "title": "COP31 Talks Collapse in Turkey in a Clash Over Fossil Fuels",
-      "link": "https://www.nytimes.com/2026/11/22/climate/cop31-climate-summit-ends-climate.html",
-      "pubDate": "2026-11-22T18:20:38.000Z",
-      "image": "https://static01.nyt.com/images/2026/11/22/multimedia/22cli-cop31-final3-fmcb/22cli-cop31-final3-fmcb-mediumSquareAt3X.jpg",
-      "author": "Chico Harlan and Lisa Friedman",
-      "excerpt": "European and vulnerable nations rejected a proposed agreement after Saudi Arabia and other oil producers blocked any mention of phasing out coal, oil and gas.",
-      "source": "NYT"
-    },
-    {
       "title": "Democrat Chuck Hubbard Defeats 11-Term Republican Virginia Foxx in North Carolina",
       "link": "https://www.nytimes.com/2026/11/22/us/virginia-foxx-chuck-hubbard-north-carolina-house.html",
-      "pubDate": "2026-11-22T18:12:55.000Z",
+      "pubDate": "2026-11-22T23:28:41.000Z",
       "image": "https://static01.nyt.com/images/2026/11/12/multimedia/00pol-hfo-NC-5-01-tklh/00pol-hfo-NC-5-01-tklh-mediumSquareAt3X.jpg",
       "author": "John Yoon",
       "excerpt": "Chuck Hubbard, a retired journalist, defeated Representative Virginia Foxx in a conservative district.",
+      "source": "NYT"
+    },
+    {
+      "title": "Donald Hooton Sr., Who Crusaded Against Steroids in Sports, Has Died",
+      "link": "https://www.nytimes.com/2026/11/22/us/donald-hooton-sr-dead.html",
+      "pubDate": "2026-11-22T19:10:04.000Z",
+      "image": "https://static01.nyt.com/images/2026/11/18/multimedia/18obit-hooton-03-gpht/18obit-hooton-03-gpht-mediumSquareAt3X.jpg",
+      "author": "Richard Sandomir",
+      "excerpt": "After the suicide of his son, a high school pitcher who used steroids, Donald Hooton Sr. delivered blistering testimony before Congress. He was 76.",
+      "source": "NYT"
+    },
+    {
+      "title": "COP31 Talks Collapse in Turkey in a Clash Over Fossil Fuels",
+      "link": "https://www.nytimes.com/2026/11/22/climate/cop31-climate-summit-ends-climate.html",
+      "pubDate": "2026-11-22T18:20:39.000Z",
+      "image": "https://static01.nyt.com/images/2026/11/22/multimedia/22cli-cop31-final3-fmcb/22cli-cop31-final3-fmcb-mediumSquareAt3X-v2.jpg",
+      "author": "Chico Harlan and Lisa Friedman",
+      "excerpt": "European and vulnerable nations rejected a proposed agreement after Saudi Arabia and other oil producers blocked any mention of phasing out coal, oil and gas.",
       "source": "NYT"
     },
     {
@@ -932,12 +941,21 @@
       "source": "NYT"
     },
     {
-      "title": "Scott Bessent Calls on Nvidia to Provide Answers on Chip Sales to China",
-      "link": "https://www.nytimes.com/2026/11/22/business/scott-bessent-jensen-huang-nvidia.html",
-      "pubDate": "2026-11-22T17:55:31.000Z",
-      "image": "https://static01.nyt.com/images/2026/11/22/multimedia/22dc-nvidia-bessent-cfzt/22dc-nvidia-bessent-cfzt-mediumSquareAt3X.jpg",
-      "author": "Alan Rappeport",
-      "excerpt": "The treasury secretary said on CBS that it was too soon to say if Jensen Huang should return as the company’s chief executive.",
+      "title": "Rather Than Sell Their House, They Became Landlords Instead",
+      "link": "https://www.nytimes.com/2026/11/22/business/mortgage-rates-housing-landlords.html",
+      "pubDate": "2026-11-22T18:05:48.000Z",
+      "image": "https://static01.nyt.com/images/2026/11/22/multimedia/22biz-accidental-landlords-pzlf/22biz-accidental-landlords-pzlf-mediumSquareAt3X.jpg",
+      "author": "Gregory Schmidt",
+      "excerpt": "Homeowners say the rental income helps them cover their mortgage payments, but they must also learn to handle needed repairs and confront bad tenants.",
+      "source": "NYT"
+    },
+    {
+      "title": "Why Are We at the Mercy of the World’s Weirdest Men?",
+      "link": "https://www.nytimes.com/2026/11/22/opinion/jensen-huang-ai-ethics-cold-war.html",
+      "pubDate": "2026-11-22T17:40:26.000Z",
+      "image": "https://static01.nyt.com/images/2026/11/22/multimedia/22french-gmvh/22french-gmvh-mediumSquareAt3X.jpg",
+      "author": "David French",
+      "excerpt": "No kings isn’t just about Trump.",
       "source": "NYT"
     },
     {
@@ -952,19 +970,28 @@
     {
       "title": "Is Annie Andrews Too Real for the Senate? South Carolinians Are About to Find Out.",
       "link": "https://www.nytimes.com/2026/11/22/us/politics/annie-andrews-south-carolina-senate.html",
-      "pubDate": "2026-11-22T16:56:08.000Z",
+      "pubDate": "2026-11-22T16:56:09.000Z",
       "image": "https://static01.nyt.com/images/2026/11/21/multimedia/21pol-andrews-sc-SWAP-vtqg/21pol-andrews-sc-SWAP-vtqg-mediumSquareAt3X.jpg",
       "author": "Emily Davies",
       "excerpt": "The pediatrician, who once compared JD Vance to the herpes virus, notched one of the most shocking upsets of the midterm elections by defeating Senator Darline Graham.",
       "source": "NYT"
     },
     {
-      "title": "FAA Says All Delta Flights Through Atlanta Delayed as Automated System Falters",
-      "link": "https://www.nytimes.com/2026/11/22/us/delta-flight-delays-system-outage.html",
-      "pubDate": "2026-11-22T16:45:41.000Z",
-      "image": "https://static01.nyt.com/images/2026/11/22/multimedia/22nat-delta-outage2-bzlp/225nat-delta-outage2-bzlp-mediumSquareAt3X.jpg",
-      "author": "Bernard Mokam",
-      "excerpt": "The system facing problems is used to calculate the weight and balance of departing flights. The disruptions come after a nationwide ground stop that canceled thousands of flights last weekend.",
+      "title": "How a Crash Into a Cruise Ship in New Orleans Became a ‘Miracle on the Mississippi’",
+      "link": "https://www.nytimes.com/2026/11/22/us/new-orleans-riverboat-crash-tanker-tick-tock.html",
+      "pubDate": "2026-11-22T16:32:19.000Z",
+      "image": "https://static01.nyt.com/images/2026/11/18/multimedia/00xp-boat-nola-02-vtfg/00xp-boat-nola-02-vtfg-mediumSquareAt3X.jpg",
+      "author": "Rebecca Chao and Ishani Desai",
+      "excerpt": "When a 525-foot tanker struck the docked American Heritage riverboat on Nov. 13, a rescue operation turned tragedy into triumph and led the nearly 200 aboard to safety.",
+      "source": "NYT"
+    },
+    {
+      "title": "A Riverboat Captain Recalls a Crash on the Mississippi",
+      "link": "https://www.nytimes.com/2026/11/22/us/new-orleans-riverboat-crash-captain.html",
+      "pubDate": "2026-11-22T14:02:55.000Z",
+      "image": "https://static01.nyt.com/images/2026/11/22/multimedia/22XP-RIVERBOAT-CAPTAIN-mgpb/22XP-RIVERBOAT-CAPTAIN-mgpb-mediumSquareAt3X.jpg",
+      "author": "Ishani Desai",
+      "excerpt": "Capt. Len Stewart had mere seconds to react before a 525-foot tanker crashed into the American Heritage, a riverboat in New Orleans with nearly 200 passengers on board.",
       "source": "NYT"
     },
     {
@@ -986,33 +1013,6 @@
       "source": "NYT"
     },
     {
-      "title": "What Machines Love",
-      "link": "https://www.nytimes.com/2026/11/22/briefing/does-ai-have-taste.html",
-      "pubDate": "2026-11-22T12:15:38.000Z",
-      "image": "https://static01.nyt.com/images/2026/11/22/multimedia/22themorning-nl-lead-02/22themorning-nl-lead-02-mediumSquareAt3X.jpg",
-      "author": "Adam B. Kushner",
-      "excerpt": "The ability of humans to apply aesthetic judgment separates us from the bots — at least for now.",
-      "source": "NYT"
-    },
-    {
-      "title": "China’s Spies Set Sights on A.I. Chips Years Before Nvidia Scandal",
-      "link": "https://www.nytimes.com/2026/11/21/world/asia/china-nvidia-spy-chips-state-security.html",
-      "pubDate": "2026-11-22T11:03:04.000Z",
-      "image": "https://static01.nyt.com/images/2026/11/22/multimedia/22int-china-mss-01-bjfp/22int-china-mss-01-bjfp-mediumSquareAt3X-v2.jpg",
-      "author": "Chris Buckley and Julian E. Barnes",
-      "excerpt": "China’s espionage agency has been running a secret campaign to help the country’s companies acquire advanced A.I. chips and to gather intelligence on the sector, officials say.",
-      "source": "NYT"
-    },
-    {
-      "title": "In Movies and Politics, Money Gets You Only So Far",
-      "link": "https://www.nytimes.com/2026/11/22/opinion/gop-midterms-wipeout-movies.html",
-      "pubDate": "2026-11-22T11:00:11.000Z",
-      "image": null,
-      "author": "Tom Rothman",
-      "excerpt": "The G.O.P. had a huge spending advantage in many midterm races. But as the film business knows, when it comes to moving people to action, money gets you only so far.",
-      "source": "NYT"
-    },
-    {
       "title": "Fact-Checking Stephen Miller, the New White House Chief of Staff",
       "link": "https://www.nytimes.com/2026/11/22/us/politics/stephen-miller-fact-check.html",
       "pubDate": "2026-11-22T10:02:17.000Z",
@@ -1022,12 +1022,21 @@
       "source": "NYT"
     },
     {
-      "title": "Andrew Scott on the Shattering Feat of Playing Ian Charleson in ‘Elsinore’",
-      "link": "https://www.nytimes.com/2026/11/22/movies/andrew-scott-elsinore-ian-charleson.html",
-      "pubDate": "2026-11-22T10:00:45.000Z",
-      "image": "https://static01.nyt.com/images/2026/11/29/multimedia/29cul-andrew-scott-02-whmk/29cul-andrew-scott-02-whmk-mediumSquareAt3X.jpg",
-      "author": "Alexis Soloski and Sela Shiloni",
-      "excerpt": "Scott is the subject of Oscar chatter for his performance recreating the last months of Ian Charleson for the biopic “Elsinore.”",
+      "title": "The District Attorney Who Declined to Charge the Men Accused of Sexually Assaulting Jane Doe",
+      "link": "https://www.nytimes.com/2026/11/22/nyregion/cornell-jane-doe-case.html",
+      "pubDate": "2026-11-22T08:00:15.000Z",
+      "image": "https://static01.nyt.com/images/2026/11/03/multimedia/00met-da-cornell1-bhgk/00met-da-cornell1-bhgk-mediumSquareAt3X.jpg",
+      "author": "Hurubie Meko",
+      "excerpt": "Matthew Van Houten, a district attorney in upstate New York, faced backlash over how he handled a woman’s rape allegation. He says he followed the law.",
+      "source": "NYT"
+    },
+    {
+      "title": "A Punk Rocker’s Painful Wait for Wheelchair Repairs",
+      "link": "https://www.nytimes.com/2026/11/21/us/wheelchair-repair-delays-public-equity.html",
+      "pubDate": "2026-11-21T13:57:49.000Z",
+      "image": "https://static01.nyt.com/images/2026/10/21/multimedia/00nat-wheelchair-repairs-mcft/00nat-wheelchair-repairs-mcft-mediumSquareAt3X.jpg",
+      "author": "Maia Spoto and Lucy Lu",
+      "excerpt": "Two private equity-backed companies now dominate the U.S. wheelchair market. For users, extended repair times can be dangerous and frustrating.",
       "source": "NYT"
     },
     {
