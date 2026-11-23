@@ -896,9 +896,72 @@
   ],
   "nytNews": [
     {
+      "title": "How a Crash Into a Cruise Ship in New Orleans Became a ‘Miracle on the Mississippi’",
+      "link": "https://www.nytimes.com/2026/11/22/us/new-orleans-riverboat-crash-tanker-tick-tock.html",
+      "pubDate": "2026-11-23T06:44:00.000Z",
+      "image": "https://static01.nyt.com/images/2026/11/18/multimedia/00xp-boat-nola-02-vtfg/00xp-boat-nola-02-vtfg-mediumSquareAt3X.jpg",
+      "author": "Rebecca Chao and Ishani Desai",
+      "excerpt": "When a 525-foot tanker struck the docked American Heritage riverboat on Nov. 13, a rescue operation turned tragedy into triumph and led the nearly 200 aboard to safety.",
+      "source": "NYT"
+    },
+    {
+      "title": "Democrats Must Defund Trump’s War in Iran",
+      "link": "https://www.nytimes.com/2026/11/23/opinion/defund-iran-war-democrats.html",
+      "pubDate": "2026-11-23T06:38:02.000Z",
+      "image": "https://static01.nyt.com/images/2026/11/24/opinion/23malleywertheim/23malleywertheim-mediumSquareAt3X.jpg",
+      "author": "Robert Malley and Stephen Wertheim",
+      "excerpt": "More war simply means more death and pain for everyone, Americans included.",
+      "source": "NYT"
+    },
+    {
+      "title": "Behind China’s A.I. Anxieties, Fear of a Nuclear Checkmate",
+      "link": "https://www.nytimes.com/2026/11/23/world/asia/china-us-nuclear-ai.html",
+      "pubDate": "2026-11-23T05:49:03.000Z",
+      "image": "https://static01.nyt.com/images/2026/11/22/multimedia/22int-china-ai-nuclear-01-pmkt/22int-china-ai-nuclear-01-pmkt-mediumSquareAt3X.jpg",
+      "author": "Chris Buckley",
+      "excerpt": "Chinese military researchers are studying how to harness A.I., but they worry the technology makes their country’s nuclear forces more vulnerable to attack.",
+      "source": "NYT"
+    },
+    {
+      "title": "U.S. Tracked Alice Huang’s Contacts With China Spy Agency During Nvidia Affair",
+      "link": "https://www.nytimes.com/2026/11/22/us/politics/alice-huang-china-spy-agency-nvidia.html",
+      "pubDate": "2026-11-23T02:17:16.000Z",
+      "image": "https://static01.nyt.com/images/2026/11/22/multimedia/22dc-spy-chip-fpvj/22dc-spy-chip-fpvj-mediumSquareAt3X.jpg",
+      "author": "Jonathan Swan, Julian E. Barnes and Maggie Haberman",
+      "excerpt": "U.S. intelligence is said to show that the woman at the heart of the A.I. chip scandal was in touch with China’s Ministry of State Security during the period when she was in a relationship with Jensen Huang.",
+      "source": "NYT"
+    },
+    {
+      "title": "Israeli Political Leaders Denounce ‘Jewish Terrorism’ After West Bank Attacks",
+      "link": "https://www.nytimes.com/2026/11/22/world/middleeast/israeli-political-leaders-decry-jewish-terrorism-after-west-bank-attacks.html",
+      "pubDate": "2026-11-23T01:32:02.000Z",
+      "image": "https://static01.nyt.com/images/2026/11/22/multimedia/22int-westbank-settler-violence01-photo-vqmk/22int-westbank-settler-violence01-photo-vqmk-mediumSquareAt3X.jpg",
+      "author": "Ephrat Livni",
+      "excerpt": "Extremist settlers carried out a spate of violent raids in Palestinian villages over the weekend, spurring opponents of the Netanyahu government to demand a forceful response.",
+      "source": "NYT"
+    },
+    {
+      "title": "Is Mexico Stepping Up in the War on Drugs?",
+      "link": "https://www.nytimes.com/2026/11/22/world/americas/mexico-us-cartel-arrests.html",
+      "pubDate": "2026-11-23T01:26:59.000Z",
+      "image": "https://static01.nyt.com/images/2026/11/22/multimedia/22int-mexico-analysis01a-photo-wkjz/22int-mexico-analysis01a-photo-wkjz-mediumSquareAt3X.jpg",
+      "author": "Maria Abi-Habib",
+      "excerpt": "With several powerful drug kingpins recently taken down by Mexican forces, some experts see what may be a new chapter beginning in Mexico.",
+      "source": "NYT"
+    },
+    {
+      "title": "Why Democrat Abdul El-Sayed is Talking Up ‘TrumpCare’",
+      "link": "https://www.nytimes.com/2026/11/22/us/politics/el-sayed-trump-health-care.html",
+      "pubDate": "2026-11-23T00:27:25.000Z",
+      "image": "https://static01.nyt.com/images/2026/11/22/multimedia/22pol-el-sayed-trump-flpb/22pol-el-sayed-trump-flpb-mediumSquareAt3X-v2.jpg",
+      "author": "Bayliss Wagner",
+      "excerpt": "Senator-elect Abdul El-Sayed’s pitch for working together to enact universal health care illustrates how some newly elected Democrats are approaching the president.",
+      "source": "NYT"
+    },
+    {
       "title": "Democrats Clinch 258 House Seats, an Election-Year Record This Century",
       "link": "https://www.nytimes.com/2026/11/22/us/politics/democrats-midterm-house-majority-record.html",
-      "pubDate": "2026-11-22T23:30:07.000Z",
+      "pubDate": "2026-11-22T23:30:08.000Z",
       "image": null,
       "author": "Tim Balk",
       "excerpt": "After sweeping midterm wins, Democrats have secured the largest House majority in a national election for either party in three decades.",
@@ -923,15 +986,6 @@
       "source": "NYT"
     },
     {
-      "title": "COP31 Talks Collapse in Turkey in a Clash Over Fossil Fuels",
-      "link": "https://www.nytimes.com/2026/11/22/climate/cop31-climate-summit-ends-climate.html",
-      "pubDate": "2026-11-22T18:20:39.000Z",
-      "image": "https://static01.nyt.com/images/2026/11/22/multimedia/22cli-cop31-final3-fmcb/22cli-cop31-final3-fmcb-mediumSquareAt3X-v2.jpg",
-      "author": "Chico Harlan and Lisa Friedman",
-      "excerpt": "European and vulnerable nations rejected a proposed agreement after Saudi Arabia and other oil producers blocked any mention of phasing out coal, oil and gas.",
-      "source": "NYT"
-    },
-    {
       "title": "How Melania Trump Found a Diplomatic Opening in the War in Ukraine",
       "link": "https://www.nytimes.com/2026/11/22/us/politics/melania-trump-ukraine-diplomacy.html",
       "pubDate": "2026-11-22T18:12:18.000Z",
@@ -944,7 +998,7 @@
       "title": "Rather Than Sell Their House, They Became Landlords Instead",
       "link": "https://www.nytimes.com/2026/11/22/business/mortgage-rates-housing-landlords.html",
       "pubDate": "2026-11-22T18:05:48.000Z",
-      "image": "https://static01.nyt.com/images/2026/11/22/multimedia/22biz-accidental-landlords-pzlf/22biz-accidental-landlords-pzlf-mediumSquareAt3X.jpg",
+      "image": "https://static01.nyt.com/images/2026/11/22/multimedia/22biz-accidental-landlords-pzlf/22biz-accidental-landlords-pzlf-mediumSquareAt3X-v2.jpg",
       "author": "Gregory Schmidt",
       "excerpt": "Homeowners say the rental income helps them cover their mortgage payments, but they must also learn to handle needed repairs and confront bad tenants.",
       "source": "NYT"
@@ -959,30 +1013,12 @@
       "source": "NYT"
     },
     {
-      "title": "What Does It Actually Mean to Write ‘Like a Human’?",
-      "link": "https://www.nytimes.com/2026/11/22/opinion/ai-writing-technology-human-colonialism.html",
-      "pubDate": "2026-11-22T17:25:09.000Z",
-      "image": null,
-      "author": "Marcus Olang’, Amanda Su and Emma Kumer",
-      "excerpt": "The hunt for A.I. writing has turned many of us into detectives. A Kenyan writer asks what we’re really looking for.",
-      "source": "NYT"
-    },
-    {
-      "title": "Is Annie Andrews Too Real for the Senate? South Carolinians Are About to Find Out.",
-      "link": "https://www.nytimes.com/2026/11/22/us/politics/annie-andrews-south-carolina-senate.html",
-      "pubDate": "2026-11-22T16:56:09.000Z",
-      "image": "https://static01.nyt.com/images/2026/11/21/multimedia/21pol-andrews-sc-SWAP-vtqg/21pol-andrews-sc-SWAP-vtqg-mediumSquareAt3X.jpg",
-      "author": "Emily Davies",
-      "excerpt": "The pediatrician, who once compared JD Vance to the herpes virus, notched one of the most shocking upsets of the midterm elections by defeating Senator Darline Graham.",
-      "source": "NYT"
-    },
-    {
-      "title": "How a Crash Into a Cruise Ship in New Orleans Became a ‘Miracle on the Mississippi’",
-      "link": "https://www.nytimes.com/2026/11/22/us/new-orleans-riverboat-crash-tanker-tick-tock.html",
-      "pubDate": "2026-11-22T16:32:19.000Z",
-      "image": "https://static01.nyt.com/images/2026/11/18/multimedia/00xp-boat-nola-02-vtfg/00xp-boat-nola-02-vtfg-mediumSquareAt3X.jpg",
-      "author": "Rebecca Chao and Ishani Desai",
-      "excerpt": "When a 525-foot tanker struck the docked American Heritage riverboat on Nov. 13, a rescue operation turned tragedy into triumph and led the nearly 200 aboard to safety.",
+      "title": "How Six Americans Under 40 Are Saving for Retirement",
+      "link": "https://www.nytimes.com/2026/11/22/business/retirement-millennials-gen-z.html",
+      "pubDate": "2026-11-22T14:35:24.000Z",
+      "image": "https://static01.nyt.com/images/2026/11/17/multimedia/00bizsun-retiring-save-01-v2-kqfw/00bizsun-retiring-save-01-v2-kqfw-mediumSquareAt3X-v3.jpg",
+      "author": "Lisa Rabasca Roepe",
+      "excerpt": "Whether they take a traditional path or go their own way, some younger workers are managing to build a nest egg while juggling other financial challenges.",
       "source": "NYT"
     },
     {
@@ -995,24 +1031,6 @@
       "source": "NYT"
     },
     {
-      "title": "Republicans Debate Why They Lost the Midterms, and if Trump Is to Blame",
-      "link": "https://www.nytimes.com/2026/11/22/us/politics/republican-midterm-loss-debate-trump.html",
-      "pubDate": "2026-11-22T12:30:24.000Z",
-      "image": "https://static01.nyt.com/images/2026/11/22/multimedia/22pol-gop-reflection-SWAP-mblz/22pol-gop-reflection-SWAP-mblz-mediumSquareAt3X.jpg",
-      "author": "Bayliss Wagner",
-      "excerpt": "A divide is emerging in the party over what caused its wipeout midterm defeats, foreshadowing a battle over how to move forward before 2028.",
-      "source": "NYT"
-    },
-    {
-      "title": "Looking for the Formula to Stop an Apocalypse",
-      "link": "https://www.nytimes.com/2026/11/22/magazine/looking-for-the-formula-to-stop-an-apocalypse.html",
-      "pubDate": "2026-11-22T12:27:46.000Z",
-      "image": "https://static01.nyt.com/images/2026/11/22/multimedia/22AI-Safety-promo/22AI-Safety-promo-mediumSquareAt3X.jpg",
-      "author": "Eli Saslow and Erin Schaff",
-      "excerpt": "Mike Winer and his colleagues are trying to build a mathematical safeguard to keep A.I. under human control. They fear they are running out of time.",
-      "source": "NYT"
-    },
-    {
       "title": "Fact-Checking Stephen Miller, the New White House Chief of Staff",
       "link": "https://www.nytimes.com/2026/11/22/us/politics/stephen-miller-fact-check.html",
       "pubDate": "2026-11-22T10:02:17.000Z",
@@ -1022,19 +1040,10 @@
       "source": "NYT"
     },
     {
-      "title": "The District Attorney Who Declined to Charge the Men Accused of Sexually Assaulting Jane Doe",
-      "link": "https://www.nytimes.com/2026/11/22/nyregion/cornell-jane-doe-case.html",
-      "pubDate": "2026-11-22T08:00:15.000Z",
-      "image": "https://static01.nyt.com/images/2026/11/03/multimedia/00met-da-cornell1-bhgk/00met-da-cornell1-bhgk-mediumSquareAt3X.jpg",
-      "author": "Hurubie Meko",
-      "excerpt": "Matthew Van Houten, a district attorney in upstate New York, faced backlash over how he handled a woman’s rape allegation. He says he followed the law.",
-      "source": "NYT"
-    },
-    {
       "title": "A Punk Rocker’s Painful Wait for Wheelchair Repairs",
       "link": "https://www.nytimes.com/2026/11/21/us/wheelchair-repair-delays-public-equity.html",
       "pubDate": "2026-11-21T13:57:49.000Z",
-      "image": "https://static01.nyt.com/images/2026/10/21/multimedia/00nat-wheelchair-repairs-mcft/00nat-wheelchair-repairs-mcft-mediumSquareAt3X.jpg",
+      "image": "https://static01.nyt.com/images/2026/10/21/multimedia/00nat-wheelchair-repairs-mcft/00nat-wheelchair-repairs-mcft-mediumSquareAt3X-v2.jpg",
       "author": "Maia Spoto and Lucy Lu",
       "excerpt": "Two private equity-backed companies now dominate the U.S. wheelchair market. For users, extended repair times can be dangerous and frustrating.",
       "source": "NYT"
