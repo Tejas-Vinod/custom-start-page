@@ -1,6 +1,78 @@
 {
   "spaceNews": [
     {
+      "title": "NASA Enhances Supplier Program, Announces Mentor-Protégé Agreement",
+      "link": "https://www.nasa.gov/organizations/osbp/nasa-enhances-supplier-program-announces-mentor-protege-agreement/",
+      "pubDate": "2026-11-25T19:06:56.000Z",
+      "image": "https://www.nasa.gov/wp-content/uploads/2026/11/lrs00622.jpg?w=2048",
+      "author": "Jennifer M. Dooren",
+      "excerpt": "How NASA works with small businesses is evolving, and as a result, the agency is strengthening the domestic aerospace industrial base to support future exploration missions through its recently renamed Small Business Supplier Development Program. As part of the program, NASA announced its latest Mentor-Protégé Agreemen",
+      "source": "NASA"
+    },
+    {
+      "title": "NASA Eyes Crop Candidates for Future Menus",
+      "link": "https://science.nasa.gov/directorates/smd/nasa-eyes-crop-candidates-for-future-menus/",
+      "pubDate": "2026-11-25T17:53:42.000Z",
+      "image": "https://assets.science.nasa.gov/dynamicimage/assets/science/bps/space-crops/SpaceCrops_thanksgiving.jpg?w=1366&#038;h=618&#038;fit=clip",
+      "author": "",
+      "excerpt": "As NASA prepares for future missions to the Moon and Mars, researchers are studying crops that could provide astronauts with fresh food, nutrition, and variety far from Earth. Such crop variety can help with menus in deep space, something top of mind this week as the nation celebrates Thanksgiving. Recent testing point",
+      "source": "NASA"
+    },
+    {
+      "title": "Childhood, Career Come Full Circle for Budget Analyst at NASA Goddard",
+      "link": "https://www.nasa.gov/centers-and-facilities/goddard/childhood-career-come-full-circle-for-budget-analyst-at-nasa-goddard/",
+      "pubDate": "2026-11-25T16:47:29.000Z",
+      "image": "https://www.nasa.gov/wp-content/uploads/2026/11/ashley-knight-and-parents.jpg?w=1504",
+      "author": "Rob Garner",
+      "excerpt": "Conversations about NASA were the norm around the dinner table during Ashley Knight’s childhood. Her parents worked at NASA’s Goddard Space Flight Center in Greenbelt, Maryland, and discussions about happenings at the agency continued even when they came home from the office. “I remember a poignant dialogue we had afte",
+      "source": "NASA"
+    },
+    {
+      "title": "Eye of the Sahara",
+      "link": "https://www.nasa.gov/image-article/eye-of-the-sahara/",
+      "pubDate": "2026-11-25T16:21:04.000Z",
+      "image": "https://www.nasa.gov/wp-content/uploads/2026/11/iss075e0274930orig.jpg?w=2048",
+      "author": "HQ Web Team",
+      "excerpt": "The Richat Structure, also known as the “Eye of the Sahara,” is seen from the International Space Station as it orbited above on Nov. 14, 2026. It is an eroded geological dome about 100 million years old created by igneous activity and uplift in the nation of Mauritania. In this type of geologic structure, rocks […]",
+      "source": "NASA"
+    },
+    {
+      "title": "NASA’s Hubble Views Ocean of Stars in Groundwork for Roman",
+      "link": "https://science.nasa.gov/missions/hubble/nasas-hubble-views-ocean-of-stars-in-groundwork-for-roman/",
+      "pubDate": "2026-11-25T14:56:54.000Z",
+      "image": "https://assets.science.nasa.gov/dynamicimage/assets/science/missions/hubble/galaxies/milky-way/Hubble_GalacticBulge_HD70_1_FINAL.jpg?w=1536&#038;h=1536&#038;fit=clip",
+      "author": "",
+      "excerpt": "These Hubble observations are part of a survey that will help researchers better interpret upcoming Nancy Grace Roman Space Telescope observations as they seek to characterize the stars and search for exoplanets in this busy region of our galaxy.",
+      "source": "NASA"
+    },
+    {
+      "title": "BlackSky Acquires Data Science Firm EpochGeo",
+      "link": "https://payloadspace.com/blacksky-acquires-data-science-firm-epochgeo/",
+      "pubDate": "2026-11-25T13:30:00.000Z",
+      "image": "https://payloadspace.com/wp-content/uploads/2026/11/BlackSky_Fifth_Gen-3_First_Light_China_Nanning_20260912-0725-local-200x200.png",
+      "author": "Victoria Woodburn",
+      "excerpt": "BlackSky ($BKSY) announced its acquisition of geospatial data science firm EpochGeo yesterday, which will merge EpochGeo’s AI/ML capabilities with BlackSky’s existing constellation and analytics tools. The post BlackSky Acquires Data Science Firm EpochGeo appeared first on Payload.",
+      "source": "Payload"
+    },
+    {
+      "title": "Cerberus to Acquire Airbus US Space & Defense",
+      "link": "https://payloadspace.com/cerberus-to-acquire-airbus-us-space-defense/",
+      "pubDate": "2026-11-25T13:16:37.000Z",
+      "image": "https://payloadspace.com/wp-content/uploads/2026/11/NEW-ARROW450_web-uai-1440x810-1-200x200.jpg",
+      "author": "Jacqueline Feldscher",
+      "excerpt": "Cerberus Capital Management is acquiring the US space systems business of Airbus US Space & Defense, the investment firm announced Tuesday. The post Cerberus to Acquire Airbus US Space & Defense appeared first on Payload.",
+      "source": "Payload"
+    },
+    {
+      "title": "An atom-sized black hole could force an entire star to explode",
+      "link": "https://www.newscientist.com/article/2600427-an-atom-sized-black-hole-could-force-an-entire-star-to-explode/?utm_campaign=RSS|NSNS&utm_content=space&utm_medium=RSS&utm_source=NSNS",
+      "pubDate": "2026-11-25T10:00:00.000Z",
+      "image": null,
+      "author": "Leah Crane",
+      "excerpt": "The early universe may have produced minuscule black holes, and if they are still around today they could devour stars from the inside or blow them up entirely",
+      "source": "New Scientist"
+    },
+    {
       "title": "APOD: 2026 November 25 – SPHEREx Seeing Through Dust",
       "link": "https://science.nasa.gov/image-article/apod-2026-november-25-spherex-seeing-through-dust/",
       "pubDate": "2026-11-25T05:05:00.000Z",
@@ -46,33 +118,6 @@
       "source": "NASA"
     },
     {
-      "title": "NASA’s Northrop Grumman CRS-25 Mission Overview ",
-      "link": "https://www.nasa.gov/missions/station/nasas-northrop-grumman-crs-25-mission-overview/",
-      "pubDate": "2026-11-24T19:09:16.000Z",
-      "image": "https://www.nasa.gov/wp-content/uploads/2026/11/ntv-ng-crs-25-falcon9-cygnus-overview-2160-dark.png?w=2048",
-      "author": "Joseph Zakrzewski",
-      "excerpt": "NASA’s Northrop Grumman Commercial Resupply Services 25 mission, or Northrop Grumman CRS-25, will deliver about 11,000 pounds of science and supplies to the International Space Station. The mission will be the third flight of the company’s Cygnus XL, the larger, more cargo-capable version of the company’s solar-powered",
-      "source": "NASA"
-    },
-    {
-      "title": "AGU Hyperwall Schedule",
-      "link": "https://science.nasa.gov/earth/agu-hyperwall-schedule/",
-      "pubDate": "2026-11-24T18:55:42.000Z",
-      "image": null,
-      "author": "",
-      "excerpt": "American Geophysical Union (AGU) 2026 Join NASA in the Exhibit Hall (Booth #525) for Hyperwall Storytelling by NASA experts. Full Hyperwall Agenda below. TUESDAY, NOVEMBER 17 10:30 AMHigh Resolution Hydrology Simulations and Agentic Super Intelligence Interfaces for Mapping Water Availability and ExtremesSujay Kumar11:",
-      "source": "NASA"
-    },
-    {
-      "title": "Webb Reveals New Details in Supernova Remnant",
-      "link": "https://www.nasa.gov/image-article/webb-reveals-new-details-in-supernova-remnant/",
-      "pubDate": "2026-11-24T16:51:27.000Z",
-      "image": "https://www.nasa.gov/wp-content/uploads/2026/11/cas-a-webb-miri.png?w=2048",
-      "author": "HQ Web Team",
-      "excerpt": "NASA’s James Webb Space Telescope reveals the hot dust that makes up Cassiopeia A (Cas A) in this high-resolution, mid-infrared image released on Nov. 23, 2026. Remnants like these are the clouds of gas and dust that remain following the explosion of a massive star and will eventually seed a new generation of stars and",
-      "source": "NASA"
-    },
-    {
       "title": "Phaethon’s fiery folly",
       "link": "https://www.astronomy.com/observing/phaethons-fiery-folly/",
       "pubDate": "2026-11-24T16:17:39.000Z",
@@ -96,17 +141,8 @@
       "pubDate": "2026-11-24T16:00:00.000Z",
       "image": null,
       "author": "Alison Klesman",
-      "excerpt": "In the local universe, it is common to find galaxies that have stopped forming new stars. These so-called quiescent galaxies have lived for billions of years and over that time, gradually exhausted their star-forming gas. By contrast, galaxies that lie at much greater distances — and thus appear to us when they were yo",
+      "excerpt": "The early universe is littered with galaxies that no longer form stars. Their early growth may hold a clue to their deaths. The post Astronomers catch ‘galaxy-killing’ wind in the act appeared first on Astronomy Magazine.",
       "source": "Astronomy Magazine"
-    },
-    {
-      "title": "NASA’s Titan-Bound Dragonfly Rotorcraft Gets Its Eyes",
-      "link": "https://science.nasa.gov/missions/dragonfly/nasas-titan-bound-dragonfly-rotorcraft-gets-its-eyes/",
-      "pubDate": "2026-11-24T15:44:38.000Z",
-      "image": "https://assets.science.nasa.gov/dynamicimage/assets/science/missions/dragonfly/DragonCamInstall.jpg?w=1280&#038;h=853&#038;fit=clip",
-      "author": "",
-      "excerpt": "Science instruments for NASA’s Dragonfly are starting to arrive at the Johns Hopkins Applied Physics Laboratory (APL) in Laurel, Maryland, where the car-sized rotorcraft is coming together for its mission to explore Saturn’s largest moon, Titan. First to check in: DragonCam, which consists of seven cameras designed to ",
-      "source": "NASA"
     },
     {
       "title": "Simera Sense, Spacemanic, Zaitra and World from Space Join Forces on an End-to-End Dual-Use Mission Solution",
@@ -116,15 +152,6 @@
       "author": "Spacemanic",
       "excerpt": "Bremen, 18 November 2026 – Simera Sense, Spacemanic, Zaitra and World from Space have signed a Memorandum of Understanding in Bremen to cooperate on a complete mission solution built around […] The post Simera Sense, Spacemanic, Zaitra and World from Space Join Forces on an End-to-End Dual-Use Mission Solution appeared",
       "source": "SpaceNews"
-    },
-    {
-      "title": "NASA Hubble’s New View of NGC 4394 Raises the Bar",
-      "link": "https://science.nasa.gov/missions/hubble/nasa-hubbles-new-view-of-ngc-4394-raises-the-bar/",
-      "pubDate": "2026-11-24T13:58:28.000Z",
-      "image": "https://assets.science.nasa.gov/dynamicimage/assets/science/missions/hubble/galaxies/spiral/Hubble_NGC4394_potm2611a.jpg?w=2048&#038;h=2048&#038;fit=clip",
-      "author": "",
-      "excerpt": "The brilliant galaxy NGC 4394 with its distinct galactic bar takes center stage in this Hubble Space Telescope image",
-      "source": "NASA"
     },
     {
       "title": "Quantum Space Goes Public as SPACs Return",
@@ -442,15 +469,6 @@
       "source": "Payload"
     },
     {
-      "title": "Dcubed Raises €27.2M to Quadruple Its Production Capacity  ",
-      "link": "https://payloadspace.com/dcubed-raises-e27-2m-to-quadruple-its-production-capacity/",
-      "pubDate": "2026-11-18T13:26:03.000Z",
-      "image": "https://payloadspace.com/wp-content/uploads/2026/11/image5-200x200.png",
-      "author": "Douglas Gorman",
-      "excerpt": "German satellite-components manufacturer Dcubed announced the closing of a €27.2M ($30M) Series A extension round today, which comes in addition to an earlier €4.4M ($4.9M) Series A round, which closed in August 2024. The new capital will fund an expansion of the company’s production facilities in the US and Germany wi",
-      "source": "Payload"
-    },
-    {
       "title": "We now know how radiation destroys electronics devices",
       "link": "https://www.newscientist.com/article/2599254-we-now-know-how-radiation-destroys-electronics-devices/?utm_campaign=RSS|NSNS&utm_content=space&utm_medium=RSS&utm_source=NSNS",
       "pubDate": "2026-11-17T19:00:00.000Z",
@@ -458,15 +476,6 @@
       "author": "Karmela Padavic-Callaghan",
       "excerpt": "A detailed picture of how a single particle of radiation can destroy a semiconductor device could offer pointers for how to make electronics more resilient to the harsh conditions of space",
       "source": "New Scientist"
-    },
-    {
-      "title": "ULA Vulcan Anomaly Has Pentagon Implications",
-      "link": "https://payloadspace.com/ula-vulcan-anomaly-has-pentagon-implications/",
-      "pubDate": "2026-11-17T18:30:00.000Z",
-      "image": "https://payloadspace.com/wp-content/uploads/2026/11/Screenshot-2026-11-17-at-10.29.04-AM-200x200.png",
-      "author": "Jacqueline Feldscher",
-      "excerpt": "The company announced Tuesday morning that the mission was lost 10 minutes into the flight, but that the problems started just after liftoff. The post ULA Vulcan Anomaly Has Pentagon Implications appeared first on Payload.",
-      "source": "Payload"
     },
     {
       "title": "Voyager 1 reaches 1 light-day from Earth",
@@ -629,33 +638,6 @@
       "author": "New Scientist",
       "excerpt": "We remember 19th-century captains of industry like Andrew Carnegie because they funded vast cultural institutions. Will the Elon Musks and Jeff Bezoses of our time do the same to preserve humanity’s spacefaring legacy?",
       "source": "New Scientist"
-    },
-    {
-      "title": "SpaceX aims to safely land Starship and booster stage after orbital flight",
-      "link": "https://www.newscientist.com/article/2598233-spacex-aims-to-safely-land-starship-and-booster-stage-after-orbital-flight/?utm_campaign=RSS|NSNS&utm_content=space&utm_medium=RSS&utm_source=NSNS",
-      "pubDate": "2026-11-11T17:00:00.000Z",
-      "image": null,
-      "author": "Matthew Sparkes",
-      "excerpt": "The upcoming Starship test flight is the most ambitious to date and, if successful, will mark an important milestone in the company's mission to create a truly reusable launch vehicle that dramatically lowers the cost of space launches",
-      "source": "New Scientist"
-    },
-    {
-      "title": "Moog Marks 25 Years Since ESPA Design Milestone: Innovating Space Rideshare",
-      "link": "https://spacenews.com/moog-marks-25-years-since-espa-design-milestone-innovating-space-rideshare/",
-      "pubDate": "2026-11-11T15:53:57.000Z",
-      "image": "https://i0.wp.com/spacenews.com/wp-content/uploads/2025/03/moog-square.png?fit=1024%2C1024&amp;ssl=1",
-      "author": "Moog Inc.",
-      "excerpt": "East Aurora, N.Y. — Moog Inc. (NYSE: MOG.A and MOG.B) marks 25 years since the Evolved Secondary Payload Adapter (ESPA) ring completed its Critical Design Review in 2001. The pioneering […] The post Moog Marks 25 Years Since ESPA Design Milestone: Innovating Space Rideshare appeared first on SpaceNews.",
-      "source": "SpaceNews"
-    },
-    {
-      "title": "Horizon Microtechnologies Targets Constellation-Scale Production As Esa Phi-Lab Selection Strengthens Industrialisation Push",
-      "link": "https://spacenews.com/horizon-microtechnologies-targets-constellation-scale-production-as-esa-phi-lab-selection-strengthens-industrialisation-push/",
-      "pubDate": "2026-11-11T13:00:00.000Z",
-      "image": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/11/horizon-microtechnologies.png?fit=1021%2C1024&amp;ssl=1",
-      "author": "Horizon Microtechnologies",
-      "excerpt": "(Karlsruhe, Germany, September 29th 2026) Horizon Microtechnologies is accelerating industrialisation of its metallised polymer micro-additive manufacturing platform through IP-MASS, a two-year scale-up project supported by €500,000 and reinforced by selection […] The post Horizon Microtechnologies Targets Constellatio",
-      "source": "SpaceNews"
     },
     {
       "title": "Space Force leaders advance shared commitments for allied space power at Global MILSATCOM ",
@@ -878,165 +860,192 @@
   ],
   "nytNews": [
     {
-      "title": "Abrego Garcia Voluntarily Leaves U.S., Ending 20-Month Legal Fight",
-      "link": "https://www.nytimes.com/2026/11/24/us/politics/abrego-garcia-leave-deportation.html",
-      "pubDate": "2026-11-25T06:43:00.000Z",
-      "image": "https://static01.nyt.com/images/2026/11/24/multimedia/24dc-abrego-zvwj/24dc-abrego-zvwj-mediumSquareAt3X-v3.jpg",
-      "author": "Alan Feuer and Hari Raj",
-      "excerpt": "Kilmar Armando Abrego Garcia, who was wrongfully deported last year, has left for Spain. He faced the prospect that the Trump administration might deport him to Liberia.",
+      "title": "Mamdani Wins Against Landlords in Rent Freeze Lawsuit",
+      "link": "https://www.nytimes.com/2026/11/25/nyregion/mamdani-rent-freeze-legal-challenge-apartments.html",
+      "pubDate": "2026-11-25T19:45:07.000Z",
+      "image": "https://static01.nyt.com/images/2026/11/25/multimedia/25met-rent-vjhf/25met-rent-vjhf-mediumSquareAt3X.jpg",
+      "author": "Mihir Zaveri",
+      "excerpt": "A Manhattan judge handed a victory to Mayor Zohran Mamdani by dismissing a lawsuit filed by landlords over a rent freeze for rent-stabilized apartments.",
       "source": "NYT"
     },
     {
-      "title": "Late Night Rips Into Trump for Honoring Rudy Giuliani",
-      "link": "https://www.nytimes.com/2026/11/25/arts/television/late-night-rips-into-trump-for-honoring-rudy-giuliani.html",
-      "pubDate": "2026-11-25T06:31:34.000Z",
-      "image": null,
-      "author": "Trish Bendix",
-      "excerpt": "Seth Meyers congratulated the former New York mayor and Trump ally for “A, receiving the Presidential Medal of Freedom and B, still being alive.”",
+      "title": "Stocks Slump Again as Investors Fret About A.I., Tariffs and Inflation",
+      "link": "https://www.nytimes.com/2026/11/25/business/stocks-sp500-nvidia-ai.html",
+      "pubDate": "2026-11-25T19:39:49.000Z",
+      "image": "https://static01.nyt.com/images/2026/11/25/multimedia/25biz-markets-tvlm/25biz-markets-tvlm-mediumSquareAt3X.jpg",
+      "author": "Jason Karaian and Joe Rennison",
+      "excerpt": "Nvidia and other tech companies fell as investors weighed developments in global trade and the path of interest rates.",
       "source": "NYT"
     },
     {
-      "title": "My Knee Is Wrecked. It Opened My Eyes.",
-      "link": "https://www.nytimes.com/2026/11/24/opinion/disability-politics-trump-sharpie-line.html",
-      "pubDate": "2026-11-25T06:01:34.000Z",
-      "image": "https://static01.nyt.com/images/2026/11/24/multimedia/24retica-promo-zftk/24retica-promo-zftk-mediumSquareAt3X.jpg",
-      "author": "Aaron Retica and Joey Solomon",
-      "excerpt": "Life on the wrong side of the Sharpie line is tough but instructive.",
+      "title": "Another Hot Inflation Reading Keeps Fed on Track to Raise Rates Again",
+      "link": "https://www.nytimes.com/2026/11/25/business/economy/inflation-pce-interest-rates.html",
+      "pubDate": "2026-11-25T19:13:30.000Z",
+      "image": "https://static01.nyt.com/images/2026/11/25/multimedia/25dc-inflation-gvjc/25dc-inflation-gvjc-mediumSquareAt3X.jpg",
+      "author": "Colby Smith",
+      "excerpt": "The Federal Reserve is widely expected to raise interest rates next month.",
       "source": "NYT"
     },
     {
-      "title": "Why Jensen Huang Was Reinstated at Nvidia",
-      "link": "https://www.nytimes.com/2026/11/24/opinion/jensen-huang-nvidia-ceo-reinstated.html",
-      "pubDate": "2026-11-25T03:56:57.000Z",
-      "image": "https://static01.nyt.com/images/2026/11/26/multimedia/24witt-vzbp/24witt-vzbp-mediumSquareAt3X.jpg",
-      "author": "Stephen Witt",
-      "excerpt": "If I were on the board at Nvidia, I would have voted to bring him back, too.",
+      "title": "Lukoil to Sell Foreign Assets, but Not to Kushner and Witkoff Associates",
+      "link": "https://www.nytimes.com/2026/11/25/us/politics/lukoil-deal.html",
+      "pubDate": "2026-11-25T19:11:09.000Z",
+      "image": "https://static01.nyt.com/images/2026/11/25/multimedia/25dc-lukoil-fjvh/25dc-lukoil-fjvh-mediumSquareAt3X.jpg",
+      "author": "Eric Lipton and Anton Troianovski",
+      "excerpt": "Valuable properties belonging to the Russian energy giant will be sold to an American-led consortium. But Middle Eastern business contacts of the two Trump envoys pulled out because of political winds.",
       "source": "NYT"
     },
     {
-      "title": "Martha Firestone Ford, Owner of Detroit Lions, Dies at 101",
-      "link": "https://www.nytimes.com/2026/11/24/business/martha-firestone-ford-dead.html",
-      "pubDate": "2026-11-25T03:52:08.000Z",
-      "image": "https://static01.nyt.com/images/2021/02/22/obituaries/Ford-01/Ford-01-mediumSquareAt3X-v2.jpg",
-      "author": "Ken Belson",
-      "excerpt": "Mrs. Ford, who took over the team after the 2014 death of her husband, William Clay Ford Sr., was one of a handful of female owners in the N.F.L.",
+      "title": "Thanksgiving Storm Is Expected to Hit East Coast With Heavy Rain and Flooding",
+      "link": "https://www.nytimes.com/2026/11/25/weather/thanksgiving-weather-storm-rain-flooding.html",
+      "pubDate": "2026-11-25T19:10:16.000Z",
+      "image": "https://static01.nyt.com/images/2026/11/25/weather/2026-11-25-outlooks-index-promo/2026-11-25-outlooks-index-promo-mediumSquareAt3X-v19.jpg",
+      "author": "Nazaneen Ghaffar",
+      "excerpt": "The storm, developing offshore, is expected to move inland over North Carolina and grind northeast through Thanksgiving Day.",
       "source": "NYT"
     },
     {
-      "title": "Army’s Iowa Ammunition Plant Explosion on Schedule for Wednesday Morning",
-      "link": "https://www.nytimes.com/2026/11/24/climate/iowa-army-ammunition-plant-explostion.html",
-      "pubDate": "2026-11-25T03:36:32.000Z",
-      "image": "https://static01.nyt.com/images/2026/11/24/multimedia/24CLI-IOWA-BLAST-PRESS1-hwmf/24CLI-IOWA-BLAST-PRESS1-hwmf-mediumSquareAt3X.jpg",
-      "author": "Evan Halper, Quinn Glabicki and Hiroko Tabuchi",
-      "excerpt": "Freezing temperatures threaten to make the chemicals even more unstable, while winds could carry a toxic lead plume up to 100 miles away.",
+      "title": "Corporate Oversight Revs Up as Washington Turns Blue Again",
+      "link": "https://www.nytimes.com/2026/11/25/business/corporate-america-democrats.html",
+      "pubDate": "2026-11-25T19:01:47.000Z",
+      "image": "https://static01.nyt.com/images/2026/11/24/multimedia/24dc-oversight--01-mhkf/24dc-oversight--01-mhkf-mediumSquareAt3X.jpg",
+      "author": "Alan Rappeport",
+      "excerpt": "After two years of deregulation, congressional committees led by Democrats will shine the spotlight back on corporate America.",
       "source": "NYT"
     },
     {
-      "title": "Officials Brief Congressional Staff on Intelligence Surrounding Nvidia Affair",
-      "link": "https://www.nytimes.com/2026/11/24/us/politics/intelligence-nvidia-affair-congressional-briefing.html",
-      "pubDate": "2026-11-25T03:15:54.000Z",
-      "image": "https://static01.nyt.com/images/2026/11/24/multimedia/24dc-spy-chip-02-tgvj/24dc-spy-chip-02-tgvj-mediumSquareAt3X.jpg",
-      "author": "Julian E. Barnes, Maggie Haberman and Jonathan Swan",
-      "excerpt": "After President Trump said Jensen Huang was not a security threat, U.S. intelligence agencies told aides to lawmakers there was no evidence the woman at the heart of the scandal took directions from the Chinese spy agency.",
+      "title": "Anthropic’s Stock Debut Could Hurt Tech Start-Ups",
+      "link": "https://www.nytimes.com/2026/11/25/technology/anthropic-stock-tech-start-ups.html",
+      "pubDate": "2026-11-25T19:00:36.000Z",
+      "image": "https://static01.nyt.com/images/2026/11/26/multimedia/25biz-anthropic-pop-2-qlhp/25biz-anthropic-pop-2-qlhp-mediumSquareAt3X.jpg",
+      "author": "Cory Weinberg",
+      "excerpt": "As the share price drops, it could act as a brake on Silicon Valley’s frenzied investing in younger companies.",
       "source": "NYT"
     },
     {
-      "title": "Justice Dept. Apologizes for Making False Statement to Judge in Omar Case",
-      "link": "https://www.nytimes.com/2026/11/24/us/politics/house-lawyer-ilhan-omar-search.html",
-      "pubDate": "2026-11-25T02:20:55.000Z",
-      "image": "https://static01.nyt.com/images/2026/11/24/multimedia/24dc-omar-vbjl/24dc-omar-vbjl-mediumSquareAt3X.jpg",
-      "author": "Charlie Savage",
-      "excerpt": "The acknowledgment came hours after the House’s top lawyer said the department mischaracterized his view on constitutional protections for lawmakers.",
+      "title": "California’s Tides Are in ‘Uncharted Territory’ as Water Surges Higher",
+      "link": "https://www.nytimes.com/2026/11/25/weather/california-king-tides-sf-la.html",
+      "pubDate": "2026-11-25T18:45:42.000Z",
+      "image": "https://static01.nyt.com/images/2026/11/25/multimedia/25wea-CATIDES-pkwb/25wea-CATIDES-pkwb-mediumSquareAt3X.jpg",
+      "author": "Judson Jones and Amy Graff",
+      "excerpt": "High tide records were broken in a San Diego neighborhood and in Santa Barbara on Wednesday.",
       "source": "NYT"
     },
     {
-      "title": "An Explosion Is Coming to Iowa. And Residents Can’t Do a Thing About It.",
-      "link": "https://www.nytimes.com/2026/11/24/us/iowa-ammunition-plant-lead-explosion-middletown.html",
-      "pubDate": "2026-11-25T02:06:53.000Z",
-      "image": "https://static01.nyt.com/images/2026/11/24/multimedia/24nat-iowa-blast-medical-1-tjmz/24nat-iowa-blast-medical-1-tjmz-mediumSquareAt3X.jpg",
-      "author": "Maia Spoto and Jack Healy",
-      "excerpt": "Residents of Middletown, which adjoins an Army facility where dangerous chemicals will be detonated Wednesday, are taping up their doors and getting ready to flee.",
+      "title": "The Ensemble Cast of a New York Sitcom Is Suddenly Running the Country",
+      "link": "https://www.nytimes.com/2026/11/25/opinion/nyc-jeffries-schumer-mamdani-aoc-trump.html",
+      "pubDate": "2026-11-25T18:42:04.000Z",
+      "image": "https://static01.nyt.com/images/2026/11/29/opinion/25andersen-image/25andersen-image-mediumSquareAt3X.jpg",
+      "author": "Kurt Andersen",
+      "excerpt": "Remember when New York was an island off this nation’s coast?",
       "source": "NYT"
     },
     {
-      "title": "Trump Administration Pauses Joint Operations With Ecuador",
-      "link": "https://www.nytimes.com/2026/11/24/world/americas/ecuador-us-military-operations-trump.html",
-      "pubDate": "2026-11-25T00:42:52.000Z",
-      "image": "https://static01.nyt.com/images/2026/10/23/world/24int-ecuador-us-strikes/24int-ecuador-us-strikes-mediumSquareAt3X.jpg",
-      "author": "Annie Correal and Eric Schmitt",
-      "excerpt": "The administration has halted military operations while it investigates an operation by Ecuadorean forces that killed an accused gang leader.",
+      "title": "Opposition Makes Progress Toward Ousting Netanyahu, Party Leader Says",
+      "link": "https://www.nytimes.com/2026/11/25/world/middleeast/israel-opposition-netanyahu-new-government.html",
+      "pubDate": "2026-11-25T18:12:36.000Z",
+      "image": "https://static01.nyt.com/images/2026/11/25/multimedia/25Israel-coalition-01-hpgv/25Israel-coalition-01-hpgv-mediumSquareAt3X.jpg",
+      "author": "David M. Halbfinger",
+      "excerpt": "Gadi Eisenkot, a former military chief, has set Dec. 6 as the deadline to form a new Israeli government. His ally, Avigdor Liberman, said Mr. Eisenkot was on track.",
       "source": "NYT"
     },
     {
-      "title": "Prosecutor Urged Justice Dept. to Reconsider Charges Against Fugitive, Email Shows",
-      "link": "https://www.nytimes.com/2026/11/24/us/politics/aaron-reitz-justice-dept-anosh-ahmed.html",
-      "pubDate": "2026-11-24T23:55:00.000Z",
-      "image": "https://static01.nyt.com/images/2026/11/24/multimedia/24dc-justice-lpcq/24dc-justice-lpcq-mediumSquareAt3X.jpg",
-      "author": "Glenn Thrush",
-      "excerpt": "Aaron Reitz, the U.S. attorney in Houston, questioned the indictment of a Chicago doctor who fled the country after being accused of defrauding taxpayers. The man later donated to Mr. Reitz’s campaign.",
+      "title": "The U.S. Isn’t in a Recession. Try Telling Many Americans That.",
+      "link": "https://www.nytimes.com/2026/11/25/us/economic-growth-recession-pessimism.html",
+      "pubDate": "2026-11-25T17:51:25.000Z",
+      "image": "https://static01.nyt.com/images/2026/11/25/multimedia/25nat-recession-qmjw/25nat-recession-qmjw-mediumSquareAt3X.jpg",
+      "author": "Audra D. S. Burch",
+      "excerpt": "The freshest measures of growth and hiring show a healthy economy. Struggling Americans aren’t seeing that.",
       "source": "NYT"
     },
     {
-      "title": "Blanche Downplays Questions Over Nvidia as Investigators Examine Company’s Customers",
-      "link": "https://www.nytimes.com/2026/11/24/us/politics/nvidia-justice-department-todd-blanche.html",
-      "pubDate": "2026-11-24T23:27:37.000Z",
-      "image": "https://static01.nyt.com/images/2026/11/24/multimedia/24dc-doj-nvidia-01-zpmh/24dc-doj-nvidia-01-zpmh-mediumSquareAt3X.jpg",
-      "author": "Devlin Barrett and Ana Swanson",
-      "excerpt": "Justice Department investigators have gathered evidence of Nvidia’s high-powered computer chips being illegally diverted by other firms to China, according to people familiar with the inquiries.",
+      "title": "Van Hollen’s Challenge to Schumer Highlights Democratic Rift on Israel",
+      "link": "https://www.nytimes.com/2026/11/25/us/politics/van-hollen-schumer-israel-senate.html",
+      "pubDate": "2026-11-25T16:41:30.000Z",
+      "image": "https://static01.nyt.com/images/2026/11/25/multimedia/25dc-vanhollen-israel-vclj/25dc-vanhollen-israel-vclj-mediumSquareAt3X.jpg",
+      "author": "Annie Karni",
+      "excerpt": "Senator Chris Van Hollen says his move to replace Senator Chuck Schumer as party leader isn’t about Israel, but his sharply critical stance toward the Jewish state has become a major fault line in the race.",
       "source": "NYT"
     },
     {
-      "title": "Jensen Huang Apologizes to Nvidia Employees, Says He Is in Therapy",
-      "link": "https://www.nytimes.com/2026/11/24/technology/jensen-huang-apology-nvidia-ceo.html",
-      "pubDate": "2026-11-24T21:46:11.000Z",
-      "image": "https://static01.nyt.com/images/2026/11/24/multimedia/NVIDIA-MEETING-1-ltjp/NVIDIA-MEETING-1-ltjp-mediumSquareAt3X.jpg",
-      "author": "Tripp Mickle and Kalley Huang",
-      "excerpt": "A day after returning to his company, Mr. Huang acknowledged that he had violated Nvidia’s code of conduct and “made some terrible mistakes.”",
+      "title": "With Measles on the Rise, Some Families Are Forgoing Thanksgiving Travel",
+      "link": "https://www.nytimes.com/2026/11/25/us/measles-cases-thanksgiving.html",
+      "pubDate": "2026-11-25T16:28:42.000Z",
+      "image": "https://static01.nyt.com/images/2026/11/24/multimedia/00nat-thanksgiving-measles-qzbt/00nat-thanksgiving-measles-qzbt-mediumSquareAt3X.jpg",
+      "author": "Anemona Hartocollis",
+      "excerpt": "With measles cases on the rise, some new parents are choosing not to travel, unwilling to chance airplanes, trains or even drives into areas with high infection rates.",
       "source": "NYT"
     },
     {
-      "title": "Thelma Golden to Step Down as Head of Studio Museum in Harlem",
-      "link": "https://www.nytimes.com/2026/11/24/arts/design/thelma-golden-steps-down-studio-museum-harlem.html",
-      "pubDate": "2026-11-24T21:02:58.000Z",
-      "image": "https://static01.nyt.com/images/2026/11/24/multimedia/24cul-thelma-studio-01-tjml/24cul-thelma-studio-01-tjml-mediumSquareAt3X-v2.jpg",
-      "author": "Robin Pogrebin",
-      "excerpt": "After 21 years at the helm of the Studio Museum in Harlem, where she completed its new home and helped redefine the art canon, Thelma Golden has decided it’s time to go.",
+      "title": "Trump Administration Unveils New Tariffs for China, EU and More, Citing Unfair Practices",
+      "link": "https://www.nytimes.com/2026/11/25/business/trump-tariffs-trade.html",
+      "pubDate": "2026-11-25T15:58:36.000Z",
+      "image": "https://static01.nyt.com/images/2026/11/24/multimedia/00dc-hfo-trump-tariffs-zptw/00dc-hfo-trump-tariffs-zptw-mediumSquareAt3X.jpg",
+      "author": "Tony Romm and Ana Swanson",
+      "excerpt": "The latest escalation came as the administration confronts continued legal obstacles and new scrutiny from an incoming Democratic-led Congress.",
       "source": "NYT"
     },
     {
-      "title": "An Adored Manhattan Grocery, and Seinfeld Favorite, May Close Its Doors",
-      "link": "https://www.nytimes.com/2026/11/24/nyregion/zingones-market-upper-west-wise-manhattan.html",
-      "pubDate": "2026-11-24T20:56:32.000Z",
-      "image": "https://static01.nyt.com/images/2026/11/24/multimedia/24met-zingones-01-thpf/24met-zingones-01-thpf-mediumSquareAt3X.jpg",
-      "author": "Katherine Rosman",
-      "excerpt": "Zingone Bros. is beloved on the Upper West Side. That might not be enough to keep it open.",
+      "title": "Abandon All Hope, Ye Who Enter Airports",
+      "link": "https://www.nytimes.com/2026/11/25/opinion/airports-travel-holiday.html",
+      "pubDate": "2026-11-25T15:03:05.000Z",
+      "image": "https://static01.nyt.com/images/2026/11/25/multimedia/25torpy-mzlg/25torpy-mzlg-mediumSquareAt3X.jpg",
+      "author": "Symonne Torpy and Paola Chapdelaine",
+      "excerpt": "Dante’s “Inferno” depicted a hell meant to punish sinners. Our airports are a hell meant to punish everyone.",
       "source": "NYT"
     },
     {
-      "title": "The Mississippi Senate Race Wasn’t Even This Year’s Biggest Upset",
-      "link": "https://www.nytimes.com/2026/11/24/upshot/midterm-elections-upsets-predictions.html",
-      "pubDate": "2026-11-24T20:19:49.000Z",
-      "image": "https://static01.nyt.com/images/2026/11/17/multimedia/2026-11-12-senate-cook-index/2026-11-12-senate-cook-index-mediumSquareAt3X-v19.jpg",
-      "author": "C.J. Robinson",
-      "excerpt": "We found the most unlikely winners of the 2026 midterms.",
+      "title": "Why Aren’t the Midterms Over in Louisiana? Ask the Supreme Court.",
+      "link": "https://www.nytimes.com/2026/11/25/us/politics/why-arent-the-midterms-over-in-louisiana-ask-the-supreme-court.html",
+      "pubDate": "2026-11-25T15:00:05.000Z",
+      "image": "https://static01.nyt.com/images/2026/11/25/multimedia/25pol-louisiana-runoff-wtk-tfwq/25pol-louisiana-runoff-wtk-tfwq-mediumSquareAt3X.jpg",
+      "author": "Tim Balk",
+      "excerpt": "A landmark Supreme Court ruling reshaped the state’s congressional map and set up runoffs for two open seats.",
       "source": "NYT"
     },
     {
-      "title": "Broderick Wins Tennessee House Race, Giving Democrats Largest Majority in 30 Years",
-      "link": "https://www.nytimes.com/2026/11/24/us/politics/tennessee-house-election-results-broderick-wins.html",
-      "pubDate": "2026-11-24T19:26:32.000Z",
-      "image": "https://static01.nyt.com/images/2026/11/23/multimedia/00pol-tennessee-upset-lqmv/00pol-tennessee-upset-lqmv-mediumSquareAt3X.jpg",
-      "author": "John Yoon and Emily Cochrane",
-      "excerpt": "Democrats’ midterm rout kept expanding in the House after a tech support worker ousted an eight-term Republican without having aired a single TV ad.",
+      "title": "Thanksgiving Travel",
+      "link": "https://www.nytimes.com/2026/11/25/briefing/thanksgiving-travel-delays.html",
+      "pubDate": "2026-11-25T11:28:26.000Z",
+      "image": "https://static01.nyt.com/images/2026/11/25/multimedia/25themorning-flights3/25themorning-flights3-mediumSquareAt3X.jpg",
+      "author": "Sam Sifton",
+      "excerpt": "Why airport delays are on the rise.",
       "source": "NYT"
     },
     {
-      "title": "100 Notable Books of 2026",
-      "link": "https://www.nytimes.com/2026/11/23/books/review/notable-books.html",
-      "pubDate": "2026-11-24T14:41:03.000Z",
-      "image": "https://static01.nyt.com/images/2026/11/24/books/24TBR-100Notables-MAIN/24TBR-100Notables-MAIN-mediumSquareAt3X.jpg",
-      "author": "",
-      "excerpt": "Here is the standout fiction and nonfiction of the year, chosen by the staff of The New York Times Book Review.",
+      "title": "See How the 100th Macy’s Thanksgiving Day Parade Came Together Over 5 Years",
+      "link": "https://www.nytimes.com/2026/11/25/arts/television/macys-thanksgiving-day-parade-prep-planning.html",
+      "pubDate": "2026-11-25T10:02:54.000Z",
+      "image": "https://static01.nyt.com/images/2026/11/24/multimedia/parade-secrets-promo--zmjt/parade-secrets-promo--zmjt-mediumSquareAt3X.jpg",
+      "author": "Melena Ryzik and Stella Blackmon",
+      "excerpt": "For the 100th procession, crews have been planning and painting and drilling and more since 2021. Here’s how the largely handcrafted event came together.",
+      "source": "NYT"
+    },
+    {
+      "title": "Maury Povich, Now a Podcast Host, Predicted This Media Moment",
+      "link": "https://www.nytimes.com/2026/11/25/style/maury-povich-podcast-on-par.html",
+      "pubDate": "2026-11-25T10:00:12.000Z",
+      "image": "https://static01.nyt.com/images/2026/11/29/multimedia/25MAURY-POVICH-01-vkjz/25MAURY-POVICH-01-vkjz-mediumSquareAt3X.jpg",
+      "author": "Matt Flegenheimer",
+      "excerpt": "Families are messy and entertaining. He showed how compelling dysfunction could be long before it was everywhere.",
+      "source": "NYT"
+    },
+    {
+      "title": "What Are King Tides, and Why Is Everyone Talking About Them?",
+      "link": "https://www.nytimes.com/2026/11/20/weather/what-is-a-king-tide.html",
+      "pubDate": "2026-11-20T22:52:15.000Z",
+      "image": "https://static01.nyt.com/images/2026/11/19/multimedia/00wea-kingtide-jmzl/00wea-kingtide-jmzl-mediumSquareAt3X.jpg",
+      "author": "Amy Graff",
+      "excerpt": "Because of El Niño, the Pacific Ocean is already higher than normal. This year, that could lead to some especially high tides.",
+      "source": "NYT"
+    },
+    {
+      "title": "Easy Thanksgiving Recipes | Thanksgiving Recipes 2025 | NYT Cooking",
+      "link": "https://cooking.nytimes.com/article/easy-thanksgiving-recipes",
+      "pubDate": "2026-09-28T15:01:15.000Z",
+      "image": "https://static01.nyt.com/images/2022/11/06/dining/06beginnerroundup5/06beginnerroundup5-mediumSquareAt3X-v2.jpg",
+      "author": "Margaux Laskey and Sharon Attia",
+      "excerpt": "These simple recipes for roast turkey, stuffing, pie crust and more will set you up for a spectacular meal.",
       "source": "NYT"
     }
   ]
