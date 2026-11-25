@@ -1,6 +1,96 @@
 {
   "spaceNews": [
     {
+      "title": "NASA+ Content Coming to Big Screen at Greenbelt, Maryland Cinema",
+      "link": "https://www.nasa.gov/nasa/nasa-content-coming-to-big-screen-at-greenbelt-maryland-cinema/",
+      "pubDate": "2026-11-24T21:14:36.000Z",
+      "image": "https://www.nasa.gov/wp-content/uploads/2026/11/nasa-promo-image-horizontal-1.jpg?w=2048",
+      "author": "Gerelle Q. Dodson",
+      "excerpt": "NASA announced Monday that NASA+ content has found its first theatrical home at The Greenbelt Cinema in Greenbelt, Maryland, expanding the agency’s reach across major viewing platforms and bringing space even closer to home. “The National Aeronautics and Space Act of 1958 calls us to share our story of space exploratio",
+      "source": "NASA"
+    },
+    {
+      "title": "Teams Lock in Mission Architecture for NASA’s SR-1 Freedom",
+      "link": "https://www.nasa.gov/general/nasa-locks-in-sr1-freedom-mission-architecture/",
+      "pubDate": "2026-11-24T21:04:32.000Z",
+      "image": "https://www.nasa.gov/wp-content/uploads/2026/06/sr-1-animation-v7-11-6-2026.mp4",
+      "author": "Heather Baeslack",
+      "excerpt": "NASA completed a major review for Space Reactor-1 (SR-1) Freedom and locked in key elements of the spacecraft, which is targeted to launch in 2028 and demonstrate nuclear electric propulsion in deep space for the first time. Experts from across the agency, the U.S. Department of Energy (DOE), and industry met at NASA’s",
+      "source": "NASA"
+    },
+    {
+      "title": "Amateur Astronomer? Be a Kilonova Catcher!",
+      "link": "https://science.nasa.gov/get-involved/citizen-science/amateur-astronomer-be-a-kilonova-catcher/",
+      "pubDate": "2026-11-24T19:19:52.000Z",
+      "image": "https://assets.science.nasa.gov/dynamicimage/assets/science/cds/citizen-science/highlights/2026/NGC_4993.jpg?w=700&#038;h=748&#038;fit=clip",
+      "author": "",
+      "excerpt": "Neutron stars are the ultra-dense, city-sized leftovers of dead stars. When they collide, they can release a brief flash of light called a kilonova. These immensely powerful events forge much of the universe’s gold, platinum and other heavy elements. Since a kilonova fades within days, astronomers have to find it fast,",
+      "source": "NASA"
+    },
+    {
+      "title": "NASA’s Northrop Grumman CRS-25 Mission Overview ",
+      "link": "https://www.nasa.gov/missions/station/nasas-northrop-grumman-crs-25-mission-overview/",
+      "pubDate": "2026-11-24T19:09:16.000Z",
+      "image": "https://www.nasa.gov/wp-content/uploads/2026/11/ntv-ng-crs-25-falcon9-cygnus-overview-2160-dark.png?w=2048",
+      "author": "Joseph Zakrzewski",
+      "excerpt": "NASA’s Northrop Grumman Commercial Resupply Services 25 mission, or Northrop Grumman CRS-25, will deliver about 11,000 pounds of science and supplies to the International Space Station. The mission will be the third flight of the company’s Cygnus XL, the larger, more cargo-capable version of the company’s solar-powered",
+      "source": "NASA"
+    },
+    {
+      "title": "AGU Hyperwall Schedule",
+      "link": "https://science.nasa.gov/earth/agu-hyperwall-schedule/",
+      "pubDate": "2026-11-24T18:55:42.000Z",
+      "image": null,
+      "author": "",
+      "excerpt": "American Geophysical Union (AGU) 2026 Join NASA in the Exhibit Hall (Booth #525) for Hyperwall Storytelling by NASA experts. Full Hyperwall Agenda below. TUESDAY, NOVEMBER 17 10:30 AMHigh Resolution Hydrology Simulations and Agentic Super Intelligence Interfaces for Mapping Water Availability and ExtremesSujay Kumar11:",
+      "source": "NASA"
+    },
+    {
+      "title": "Webb Reveals New Details in Supernova Remnant",
+      "link": "https://www.nasa.gov/image-article/webb-reveals-new-details-in-supernova-remnant/",
+      "pubDate": "2026-11-24T16:51:27.000Z",
+      "image": "https://www.nasa.gov/wp-content/uploads/2026/11/cas-a-webb-miri.png?w=2048",
+      "author": "HQ Web Team",
+      "excerpt": "NASA’s James Webb Space Telescope reveals the hot dust that makes up Cassiopeia A (Cas A) in this high-resolution, mid-infrared image released on Nov. 23, 2026. Remnants like these are the clouds of gas and dust that remain following the explosion of a massive star and will eventually seed a new generation of stars and",
+      "source": "NASA"
+    },
+    {
+      "title": "Phaethon’s fiery folly",
+      "link": "https://www.astronomy.com/observing/phaethons-fiery-folly/",
+      "pubDate": "2026-11-24T16:17:39.000Z",
+      "image": null,
+      "author": "Mark Zastrow",
+      "excerpt": "Even the best-laid plans can require a bit of luck to execute. During the solar eclipse of Aug. 12, 2026, in which parts of Iceland, Portugal, and Spain experienced totality, much of western Europe enjoyed a substantial partial eclipse. Astrophotographer Alexandre Tournay set up near Brussels to capture the Moon crossi",
+      "source": "Astronomy Magazine"
+    },
+    {
+      "title": "The mystery of sub-Neptunes – the planets we thought shouldn’t exist",
+      "link": "https://www.newscientist.com/article/2598445-the-mystery-of-sub-neptunes-the-planets-we-thought-shouldnt-exist/?utm_campaign=RSS|NSNS&utm_content=space&utm_medium=RSS&utm_source=NSNS",
+      "pubDate": "2026-11-24T16:00:00.000Z",
+      "image": null,
+      "author": "Elise Cutts",
+      "excerpt": "Sub-Neptunes are the most abundant exoplanets, but are unlike anything in our solar system. We are finally gaining tantalising clues about what they are and how they came to be",
+      "source": "New Scientist"
+    },
+    {
+      "title": "Astronomers catch ‘galaxy-killing’ wind in the act",
+      "link": "https://www.astronomy.com/science/astronomers-catch-galaxy-killing-wind-in-the-act/",
+      "pubDate": "2026-11-24T16:00:00.000Z",
+      "image": null,
+      "author": "Alison Klesman",
+      "excerpt": "In the local universe, it is common to find galaxies that have stopped forming new stars. These so-called quiescent galaxies have lived for billions of years and over that time, gradually exhausted their star-forming gas. By contrast, galaxies that lie at much greater distances — and thus appear to us when they were yo",
+      "source": "Astronomy Magazine"
+    },
+    {
+      "title": "NASA’s Titan-Bound Dragonfly Rotorcraft Gets Its Eyes",
+      "link": "https://science.nasa.gov/missions/dragonfly/nasas-titan-bound-dragonfly-rotorcraft-gets-its-eyes/",
+      "pubDate": "2026-11-24T15:44:38.000Z",
+      "image": "https://assets.science.nasa.gov/dynamicimage/assets/science/missions/dragonfly/DragonCamInstall.jpg?w=1280&#038;h=853&#038;fit=clip",
+      "author": "",
+      "excerpt": "Science instruments for NASA’s Dragonfly are starting to arrive at the Johns Hopkins Applied Physics Laboratory (APL) in Laurel, Maryland, where the car-sized rotorcraft is coming together for its mission to explore Saturn’s largest moon, Titan. First to check in: DragonCam, which consists of seven cameras designed to ",
+      "source": "NASA"
+    },
+    {
       "title": "Simera Sense, Spacemanic, Zaitra and World from Space Join Forces on an End-to-End Dual-Use Mission Solution",
       "link": "https://spacenews.com/simera-sense-spacemanic-zaitra-and-world-from-space-join-forces-on-an-end-to-end-dual-use-mission-solution/",
       "pubDate": "2026-11-24T15:17:50.000Z",
@@ -55,10 +145,10 @@
       "source": "NASA"
     },
     {
-      "title": "Live coverage: SpaceX to launch classified payload for the U.S. Space Force",
+      "title": "SpaceX launches classified payload for the U.S. Space Force",
       "link": "https://spaceflightnow.com/2026/11/23/live-coverage-spacex-to-launch-classified-payload-for-the-u-s-space-force-3/",
       "pubDate": "2026-11-23T22:21:32.000Z",
-      "image": "https://spaceflightnow.com/wp-content/uploads/2026/06/20260618_Falcon-9_NROL-179.jpeg",
+      "image": "https://spaceflightnow.com/wp-content/uploads/2026/11/20261124_USSF_266_South_Hill_Horiz.jpg",
       "author": "Will Robinson-Smith",
       "excerpt": "The mission is the third in a series of flights for the U.S. Space Force with a ‘TH’ designation in public filings. Liftoff from pad 4E at Vandenberg Space Force Base is scheduled during a window that opens at 7:55 a.m. PST (10:55 a.m. EST / 1555 UTC).",
       "source": "Spaceflight Now"
@@ -82,15 +172,6 @@
       "source": "Spaceflight Now"
     },
     {
-      "title": "NASA Awards Contract for NOAA’s Near Earth Orbit Network Program",
-      "link": "https://www.nasa.gov/news-release/nasa-awards-contract-for-noaas-near-earth-orbit-network-program/",
-      "pubDate": "2026-11-23T21:10:03.000Z",
-      "image": "https://www.nasa.gov/wp-content/uploads/2022/02/nasa_meatball_large.jpg?w=1920",
-      "author": "Jessica Taveau",
-      "excerpt": "NASA, on behalf of the National Oceanic and Atmospheric Administration (NOAA), has awarded a contract to Northrop Grumman Systems Corporation for the Sounder for Microwave-Based Applications (SMBA) instruments on NOAA’s Near Earth Orbit Network (NEON) satellites. The cost-plus-fixed-fee, firm-fixed-price, and time-and-",
-      "source": "NASA"
-    },
-    {
       "title": "As it happened: NG-25 preview news teleconference",
       "link": "https://spaceflightnow.com/2026/11/23/as-it-happened-ng-25-preview-news-teleconference/",
       "pubDate": "2026-11-23T18:00:35.000Z",
@@ -100,33 +181,6 @@
       "source": "Spaceflight Now"
     },
     {
-      "title": "Studying Cancer Cells in Microgravity",
-      "link": "https://www.nasa.gov/image-article/studying-cancer-cells-in-microgravity/",
-      "pubDate": "2026-11-23T17:28:37.000Z",
-      "image": "https://www.nasa.gov/wp-content/uploads/2026/11/jsc2026e426880orig.jpg?w=1448",
-      "author": "HQ Web Team",
-      "excerpt": "This Nov. 19, 2026, image shows gastric microtumors grown within an Encapsulates biochip. The Encapsulate-1 investigation studies patient-derived tumor samples aboard the International Space Station to better understand how cancer cells move and interact in microgravity. The results could help researchers develop furth",
-      "source": "NASA"
-    },
-    {
-      "title": "NASA Seeks Partners to Design First Nuclear Reactor for the Moon ",
-      "link": "https://www.nasa.gov/directorates/rtmd/nasa-seeks-partners-to-design-first-nuclear-reactor-for-the-moon/",
-      "pubDate": "2026-11-23T17:23:50.000Z",
-      "image": "https://www.nasa.gov/wp-content/uploads/2026/11/srd-fsp-isru02b.jpg?w=2048",
-      "author": "David Lam",
-      "excerpt": "NASA is seeking industry partners to develop and test the first nuclear reactor designed to provide electricity on the Moon, a major step toward establishing a sustained human presence on the lunar surface. Lunar Reactor-1 (LR-1) will be a small fission power system that will generate 20 kilowatts of electricity, enoug",
-      "source": "NASA"
-    },
-    {
-      "title": "NASA+ Documentary Captures Europa Clipper’s Journey Into Deep Space",
-      "link": "https://www.nasa.gov/missions/europa-clipper/nasa-documentary-captures-europa-clippers-journey-into-deep-space/",
-      "pubDate": "2026-11-23T16:08:23.000Z",
-      "image": "https://www.youtube.com/embed/224QFgY9PTM",
-      "author": "Amanda Barnett",
-      "excerpt": "NASA invites the world behind the scenes to witness the story of Europa Clipper’s journey from a far-off vision to a cutting-edge deep space exploration mission with the release of the agency’s newest documentary, “The Europa Concept.” The documentary will air on NASA+, the NASA app, and the agency’s website starting M",
-      "source": "NASA"
-    },
-    {
       "title": "The amazing Crab Nebula",
       "link": "https://www.astronomy.com/observing/the-amazing-crab-nebula/",
       "pubDate": "2026-11-23T16:00:00.000Z",
@@ -134,15 +188,6 @@
       "author": "Alison Klesman",
       "excerpt": "One of my personal favorite objects in the night sky is the Crab Nebula (M1). It’s No. 1 on Charles Messier’s list, although I don’t think he ordered his objects by how cool they are (a missed opportunity!). It’s not exactly impressive visually in most scopes — mostly a gray blob, or a spiky grayContinue reading \"The a",
       "source": "Astronomy Magazine"
-    },
-    {
-      "title": "NASA’s Webb Shows How Supernova Dust Chronicles Star Evolution",
-      "link": "https://science.nasa.gov/missions/webb/nasas-webb-shows-how-supernova-dust-chronicles-star-evolution/",
-      "pubDate": "2026-11-23T15:00:00.000Z",
-      "image": "https://assets.science.nasa.gov/dynamicimage/assets/science/missions/webb/science/2026/11/STScI-01M6PRXJ9A7S81CH1C9SJP1MB0.jpg?w=1536&#038;h=1536&#038;fit=clip",
-      "author": "",
-      "excerpt": "NASA’s James Webb Space Telescope has painted a vibrant tapestry of the legendary supernova remnant Cassiopeia A (Cas A). Remnants like these are the clouds of gas and dust that remain following the explosion of a massive star and will eventually seed a new generation of stars and planets. This high-resolution, mid-inf",
-      "source": "NASA"
     },
     {
       "title": "Exclusive: Verde Technologies Will Test Perovskite Solar Cells on the ISS in 2027",
@@ -170,24 +215,6 @@
       "author": "Maj. John Beard",
       "excerpt": "OTS at Maxwell AFB graduated the Wolfpack Squadron, marking the school's first squadron composed entirely of U.S. Space Force officer trainees.",
       "source": "Space Force"
-    },
-    {
-      "title": "APOD: 2026 November 23 – The Emergence of Dark Nebula Lynds 1251",
-      "link": "https://science.nasa.gov/image-article/apod-2026-november-23-the-emergence-of-dark-nebula-lynds-1251/",
-      "pubDate": "2026-11-23T05:05:00.000Z",
-      "image": "https://assets.science.nasa.gov/dynamicimage/assets/science/cds/apod/apod/2026/november/Ldn1251Comparison_Cruz_2160.jpg?w=2048&#038;h=2048&#038;fit=clip",
-      "author": "",
-      "excerpt": "APOD Science APOD APOD: 2026 November 23 – The… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professi",
-      "source": "NASA"
-    },
-    {
-      "title": "Laser Focus at the Top of the World",
-      "link": "https://science.nasa.gov/earth/earth-observatory/laser-focus-at-the-top-of-the-world/",
-      "pubDate": "2026-11-23T05:01:00.000Z",
-      "image": "https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2026/laser-focus-at-the-top-of-the-world/svalbardzm_oli2_20260730.jpg?w=1440&#038;h=960&#038;fit=clip",
-      "author": "",
-      "excerpt": "A next-generation geodetic instrument developed by NASA, part of a network that helps measure satellites’ orbits and the planet’s shape, has debuted in Svalbard, Norway.",
-      "source": "NASA"
     },
     {
       "title": "Young and old stars share the southern sky",
@@ -478,15 +505,6 @@
       "source": "Space Force"
     },
     {
-      "title": "Black Friday 2026: Deals for observers from around the web",
-      "link": "https://www.astronomy.com/observing/black-friday-2026-deals-for-observers-from-around-the-web/",
-      "pubDate": "2026-11-17T15:28:56.000Z",
-      "image": null,
-      "author": "Astronomy Staff",
-      "excerpt": "Save big on telescopes, smart scopes, mounts, and astro cameras from Celestron, Sky-Watcher, ZWO, and more. The post Black Friday 2026: Deals for observers from around the web appeared first on Astronomy Magazine.",
-      "source": "Astronomy Magazine"
-    },
-    {
       "title": "Cosmo Bee to flight-test Honeybee Hall thruster with D-Orbit in 2027",
       "link": "https://spacenews.com/cosmo-bee-to-flight-test-honeybee-hall-thruster-with-d-orbit-in-2027/",
       "pubDate": "2026-11-17T08:00:00.000Z",
@@ -512,15 +530,6 @@
       "author": "Matthew Sparkes",
       "excerpt": "Just one nuclear explosion in space would have global and long-lasting repercussions, disabling almost every satellite and creating technological chaos from which it would take years to recover, warn experts",
       "source": "New Scientist"
-    },
-    {
-      "title": "Could planets that orbit other stars be nonspherical?",
-      "link": "https://www.astronomy.com/science/could-planets-that-orbit-other-stars-be-nonspherical/",
-      "pubDate": "2026-11-16T14:00:00.000Z",
-      "image": null,
-      "author": "Astronomy Staff",
-      "excerpt": "Could planets that orbit other stars be nonspherical shapes, such as ovals or pears, depending on composition? Rich LivitskiSeal Beach, California Bodies large enough to be considered planets have enough mass that gravity molds them into a roughly spherical shape. The key word here is roughly — other factors also come ",
-      "source": "Astronomy Magazine"
     },
     {
       "title": "The end of the universe could emerge suddenly from nothing",
@@ -628,15 +637,6 @@
       "image": null,
       "author": "Matthew Sparkes",
       "excerpt": "The upcoming Starship test flight is the most ambitious to date and, if successful, will mark an important milestone in the company's mission to create a truly reusable launch vehicle that dramatically lowers the cost of space launches",
-      "source": "New Scientist"
-    },
-    {
-      "title": "Re-analysis of black hole data proves iconic ring shape really is there",
-      "link": "https://www.newscientist.com/article/2598415-re-analysis-of-black-hole-data-proves-iconic-ring-shape-really-is-there/?utm_campaign=RSS|NSNS&utm_content=space&utm_medium=RSS&utm_source=NSNS",
-      "pubDate": "2026-11-11T16:00:00.000Z",
-      "image": "https://www.newscientist.com/wp-content/uploads/2026/11/SEI_320279401.jpg",
-      "author": "Leah Crane",
-      "excerpt": "The doughnut shape of the Event Horizon Telescope’s first image of a black hole has come under fire, but an independent check showed that it – and general relativity – still stands",
       "source": "New Scientist"
     },
     {
@@ -786,6 +786,24 @@
   ],
   "industryNews": [
     {
+      "title": "Boeing to Build 15 Additional U.S. Air Force KC-46A Tankers",
+      "link": "https://boeing.mediaroom.com/news-releases-statements?item=131737",
+      "pubDate": "2026-11-24T22:03:00.000Z",
+      "image": "https://boeing.mediaroom.com/file.php/102163/18BFT000040_06_sm_med_res.jpg?thumbnail=144",
+      "author": "",
+      "excerpt": "With the contract award, 203 KC-46A multi-mission aerial refuelers are now on contract with the U.S. Air Force and international customers",
+      "source": "Boeing"
+    },
+    {
+      "title": "Lockheed Martin CEO and CFO to speak at 2026 UBS Global Industrials & Transportation Conference",
+      "link": "https://news.lockheedmartin.com/2026-11-24-Lockheed-Martin-CEO-and-CFO-to-speak-at-2026-UBS-Global-Industrials-Transportation-Conference",
+      "pubDate": "2026-11-24T21:57:00.000Z",
+      "image": null,
+      "author": "",
+      "excerpt": "",
+      "source": "Lockheed Martin"
+    },
+    {
       "title": "Lockheed Martin Completes Third Successful JR3 Test, Developing Affordable Army Training and Readiness\r\n",
       "link": "https://news.lockheedmartin.com/2026-11-23-Lockheed-Martin-Completes-Third-Successful-JR3-Test-Developing-Affordable-Army-Training-and-Readiness",
       "pubDate": "2026-11-23T15:30:00.000Z",
@@ -795,7 +813,7 @@
       "source": "Lockheed Martin"
     },
     {
-      "title": "Lockheed Martin Provides Indago 4 UAS for Peru’s El Niño Emergency Response",
+      "title": "Lockheed Martin Provides Skunk Works® Indago 4 UAS for Peru’s El Niño Emergency Response",
       "link": "https://news.lockheedmartin.com/2026-11-20-Lockheed-Martin-Provides-Indago-4-UAS-for-Perus-El-Nino-Emergency-Response",
       "pubDate": "2026-11-20T15:30:00.000Z",
       "image": "https://news.lockheedmartin.com/file.php/184258/indago-uas-peru-1300.jpg?thumbnail=144",
@@ -817,15 +835,6 @@
       "link": "https://news.lockheedmartin.com/2026-11-17-F-35-Simulators-Take-to-the-Skies-with-Six-F-A-18s-in-Joint-Training-First",
       "pubDate": "2026-11-17T13:00:00.000Z",
       "image": "https://news.lockheedmartin.com/file.php/184224/F-35-Simulators-Take-to-the-Skies.jpg?thumbnail=144",
-      "author": "",
-      "excerpt": "",
-      "source": "Lockheed Martin"
-    },
-    {
-      "title": "Lockheed Martin Dedicates Greenville Welcome Center in Honor of Senator Lindsey Graham",
-      "link": "https://news.lockheedmartin.com/2026-11-16-Lockheed-Martin-Dedicates-Greenville-Welcome-Center-in-Honor-of-Senator-Lindsey-Graham",
-      "pubDate": "2026-11-16T17:43:00.000Z",
-      "image": "https://news.lockheedmartin.com/file.php/184227/GV-WelcomeCenter-RibbonCutting1-1920.jpg?thumbnail=144",
       "author": "",
       "excerpt": "",
       "source": "Lockheed Martin"
@@ -865,79 +874,169 @@
       "author": "",
       "excerpt": "",
       "source": "Boeing"
-    },
-    {
-      "title": "Boeing and Icelease Sign Agreement for up to Three 767-300 Boeing Converted Freighters",
-      "link": "https://boeing.mediaroom.com/2026-11-02-Boeing-and-Icelease-Sign-Agreement-for-up-to-Three-767-300-Boeing-Converted-Freighters",
-      "pubDate": "2026-11-02T14:00:00.000Z",
-      "image": "https://mmx.prnewswire.com/media/MS2024862/Icelease-767-300-Converted-Freighter.jpg?id=OA3050788&p=thumbnail",
-      "author": "",
-      "excerpt": "",
-      "source": "Boeing"
     }
   ],
   "nytNews": [
     {
-      "title": "With Jensen Huang’s Return as C.E.O., Trump Effectively Overrode Nvidia’s Board",
-      "link": "https://www.nytimes.com/2026/11/23/technology/jensen-huang-nvidia-board-trump.html",
-      "pubDate": "2026-11-24T15:40:13.000Z",
-      "image": "https://static01.nyt.com/images/2026/11/23/multimedia/23biz-nvidia-board-1-hjlv/23biz-nvidia-board-1-hjlv-mediumSquareAt3X.jpg",
-      "author": "Kalley Huang, Jordyn Holman, Lauren Hirsch and Ryan Mac",
-      "excerpt": "Nvidia’s board said Mr. Huang would not be back. But President Trump, who pushed for Mr. Huang’s reinstatement, effectively overrode the board, governance experts said.",
-      "source": "NYT"
-    },
-    {
-      "title": "Radio Offers Russian Troops Classic Rock, Nostalgia — and Pleas to Surrender",
-      "link": "https://www.nytimes.com/2026/11/24/world/europe/ukraine-russia-psyops-radio-izium.html",
-      "pubDate": "2026-11-24T15:22:10.000Z",
-      "image": "https://static01.nyt.com/images/2026/11/19/multimedia/19int-ukraine-psyops-radio-mhzl/19int-ukraine-psyops-radio-mhzl-mediumSquareAt3X.jpg",
-      "author": "Oleksandr Chubko and Cassandra Vinograd",
-      "excerpt": "What seem like frontline Russian radio stations are actually a Ukrainian psychological operation, hoping to sow despair among the Kremlin’s soldiers.",
+      "title": "Abrego Garcia Will Voluntarily Leave U.S., Ending 20-Month Legal Ordeal",
+      "link": "https://www.nytimes.com/2026/11/24/us/politics/abrego-garcia-leave-deportation.html",
+      "pubDate": "2026-11-25T00:09:36.000Z",
+      "image": "https://static01.nyt.com/images/2026/11/24/multimedia/24dc-abrego-zvwj/24dc-abrego-zvwj-mediumSquareAt3X.jpg",
+      "author": "Alan Feuer",
+      "excerpt": "Kilmar Armando Abrego Garcia, who was wrongfully deported last year, is leaving for Spain. He had faced the prospect that the Trump administration might deport him to Liberia.",
       "source": "NYT"
     },
     {
       "title": "I Was Disabled in Middle Age. It Opened Up the World.",
       "link": "https://www.nytimes.com/2026/11/24/opinion/disability-politics-trump-sharpie-line.html",
-      "pubDate": "2026-11-24T15:10:48.000Z",
+      "pubDate": "2026-11-25T00:09:19.000Z",
       "image": "https://static01.nyt.com/images/2026/11/24/multimedia/24retica-promo-zftk/24retica-promo-zftk-mediumSquareAt3X.jpg",
       "author": "Aaron Retica and Joey Solomon",
       "excerpt": "Life on the wrong side of the Sharpie line is tough but instructive.",
       "source": "NYT"
     },
     {
-      "title": "Army Will Detonate Ammunition Cache in Iowa on Wednesday",
-      "link": "https://www.nytimes.com/2026/11/23/climate/iowa-army-ammunition-explosion.html",
-      "pubDate": "2026-11-24T15:08:47.000Z",
-      "image": "https://static01.nyt.com/images/2026/11/23/multimedia/23CLI-IOWA-BLAST-PREP-top3-jzgm/23CLI-IOWA-BLAST-PREP-top3-jzgm-mediumSquareAt3X.jpg",
-      "author": "Quinn Glabicki and Hiroko Tabuchi",
-      "excerpt": "The announcement late Monday capped a day of uncertainty in which President Trump spoke out on a crisis that threatens to launch a cloud of toxic lead dust across homes and farmland.",
+      "title": "Sullivan Concedes Alaska Senate Race to Peltola",
+      "link": "https://www.nytimes.com/2026/11/24/us/politics/dan-sullivan-concedes-alaska-senate-race-mary-peltola.html",
+      "pubDate": "2026-11-24T23:58:18.000Z",
+      "image": "https://static01.nyt.com/images/2026/11/24/multimedia/24pol-alaska-concession-bpvz/24pol-alaska-concession-bpvz-mediumSquareAt3X.jpg",
+      "author": "Tim Balk",
+      "excerpt": "The Republican conceded five days after the Trump administration gave up on a long-shot lawsuit intended to potentially block certification of the race.",
       "source": "NYT"
     },
     {
-      "title": "Campaign Solicitation Came With Unusual Offer: ‘Can I Zelle You Money?’",
-      "link": "https://www.nytimes.com/2026/11/24/nyregion/campaign-solicitation-came-with-unusual-offer-can-i-zelle-you-money.html",
-      "pubDate": "2026-11-24T15:07:32.000Z",
-      "image": "https://static01.nyt.com/images/2026/11/24/multimedia/24met-straw-donor-ktfv/24met-straw-donor-ktfv-mediumSquareAt3X.jpg",
-      "author": "Benjamin Oreskes",
-      "excerpt": "Jasmin Sanchez offered to reimburse her Assembly campaign donors for their contributions, as she sought access to New York’s generous matching funds program.",
+      "title": "Prosecutor Urged Justice Dept. to Reconsider Charges Against Fugitive, Email Shows",
+      "link": "https://www.nytimes.com/2026/11/24/us/politics/aaron-reitz-justice-dept-anosh-ahmed.html",
+      "pubDate": "2026-11-24T23:55:00.000Z",
+      "image": "https://static01.nyt.com/images/2026/11/24/multimedia/24dc-justice-lpcq/24dc-justice-lpcq-mediumSquareAt3X.jpg",
+      "author": "Glenn Thrush",
+      "excerpt": "Aaron Reitz, the U.S. attorney in Houston, questioned the indictment of a Chicago doctor who fled the country after being accused of defrauding taxpayers. The man later donated to Mr. Reitz’s campaign.",
       "source": "NYT"
     },
     {
-      "title": "How a Scientist Behind the Mediterranean Diet Got Caught in Trump’s War on Harvard",
-      "link": "https://www.nytimes.com/2026/11/23/us/politics/walter-willett-trump-harvard.html",
-      "pubDate": "2026-11-24T15:04:11.000Z",
-      "image": "https://static01.nyt.com/images/2026/11/20/multimedia/DC-WILLETT-HEADER-ALT-2-cgbm/DC-WILLETT-HEADER-ALT-2-cgbm-mediumSquareAt3X-v3.jpg",
-      "author": "Sheryl Gay Stolberg",
-      "excerpt": "Walter Willett studies the link between diet and health, a high priority for Health Secretary Robert F. Kennedy Jr. His grants were frozen anyway.",
+      "title": "An Explosion Is Coming to Iowa. And Residents Can’t Do a Thing About It.",
+      "link": "https://www.nytimes.com/2026/11/24/us/iowa-ammunition-plant-lead-explosion-middletown.html",
+      "pubDate": "2026-11-24T23:36:56.000Z",
+      "image": "https://static01.nyt.com/images/2026/11/24/multimedia/24nat-iowa-blast-medical-1-tjmz/24nat-iowa-blast-medical-1-tjmz-mediumSquareAt3X.jpg",
+      "author": "Maia Spoto and Jack Healy",
+      "excerpt": "Residents of Middletown, which adjoins an Army facility where dangerous chemicals will be detonated Wednesday, are taping up their doors and getting ready to flee.",
+      "source": "NYT"
+    },
+    {
+      "title": "Blanche Downplays Questions Over Nvidia as Investigators Examine Company’s Customers",
+      "link": "https://www.nytimes.com/2026/11/24/us/politics/nvidia-justice-department-todd-blanche.html",
+      "pubDate": "2026-11-24T23:27:36.000Z",
+      "image": "https://static01.nyt.com/images/2026/11/24/multimedia/24dc-doj-nvidia-01-zpmh/24dc-doj-nvidia-01-zpmh-mediumSquareAt3X.jpg",
+      "author": "Devlin Barrett and Ana Swanson",
+      "excerpt": "Justice Department investigators have gathered evidence of Nvidia’s high-powered computer chips being illegally diverted by other firms to China, according to people familiar with the inquiries.",
+      "source": "NYT"
+    },
+    {
+      "title": "Why Jensen Huang Was Reinstated at Nvidia",
+      "link": "https://www.nytimes.com/2026/11/24/opinion/jensen-huang-nvidia-ceo-reinstated.html",
+      "pubDate": "2026-11-24T23:08:14.000Z",
+      "image": "https://static01.nyt.com/images/2026/11/24/multimedia/24witt-vzbp/24witt-vzbp-mediumSquareAt3X.jpg",
+      "author": "Stephen Witt",
+      "excerpt": "If I were on the board at Nvidia, I would have voted to bring him back, too.",
+      "source": "NYT"
+    },
+    {
+      "title": "‘Carthage Resident Al Gore’ Buys His Hometown Tennessee Newspaper",
+      "link": "https://www.nytimes.com/2026/11/24/business/media/al-gore-newspaper-carthage-courier.html",
+      "pubDate": "2026-11-24T23:06:01.000Z",
+      "image": "https://static01.nyt.com/images/2026/11/24/multimedia/24xp-gore-newpaper-qptl/24xp-gore-newpaper-qptl-mediumSquareAt3X.jpg",
+      "author": "Michael Levenson",
+      "excerpt": "The Carthage Courier announced this week that the former vice president was buying the weekly paper, which has been publishing since 1913.",
+      "source": "NYT"
+    },
+    {
+      "title": "What to Know About the Planned Explosion in Middletown, Iowa",
+      "link": "https://www.nytimes.com/2026/11/21/climate/what-to-know-about-the-planned-explosion-in-iowa.html",
+      "pubDate": "2026-11-24T22:08:38.000Z",
+      "image": "https://static01.nyt.com/images/2026/11/21/multimedia/21CLI-IOWA-FAQ-tpqc/21CLI-IOWA-FAQ-tpqc-mediumSquareAt3X.jpg",
+      "author": "Quinn Glabicki",
+      "excerpt": "The Army plans to blow up a stockpile of dangerously degrading explosives at a facility in southeastern Iowa on Wednesday morning, Army officials said Tuesday.",
+      "source": "NYT"
+    },
+    {
+      "title": "Jensen Huang Apologizes to Nvidia Employees, Says He Is in Therapy",
+      "link": "https://www.nytimes.com/2026/11/24/technology/jensen-huang-apology-nvidia-ceo.html",
+      "pubDate": "2026-11-24T21:46:11.000Z",
+      "image": "https://static01.nyt.com/images/2026/11/24/multimedia/NVIDIA-MEETING-1-ltjp/NVIDIA-MEETING-1-ltjp-mediumSquareAt3X.jpg",
+      "author": "Tripp Mickle and Kalley Huang",
+      "excerpt": "A day after returning to his company, Mr. Huang acknowledged that he had violated Nvidia’s code of conduct and “made some terrible mistakes.”",
+      "source": "NYT"
+    },
+    {
+      "title": "Trump Ballroom and Other Projects Got $300 Million Donation Boost",
+      "link": "https://www.nytimes.com/2026/11/24/us/politics/account-park-service-trump-ballroom-donation.html",
+      "pubDate": "2026-11-24T21:14:02.000Z",
+      "image": "https://static01.nyt.com/images/2026/11/24/multimedia/24DC-DONATION-fwlk/24DC-DONATION-fwlk-mediumSquareAt3X.jpg",
+      "author": "David A. Fahrenthold, Zachary Small and Luke Broadwater",
+      "excerpt": "The Trump administration declined to say who donated those funds to an account funding presidential projects like the White House ballroom and the triumphal arch.",
+      "source": "NYT"
+    },
+    {
+      "title": "Army’s Iowa Ammunition Plant Explosion on Schedule for Wednesday Morning",
+      "link": "https://www.nytimes.com/2026/11/24/climate/iowa-army-ammunition-plant-explostion.html",
+      "pubDate": "2026-11-24T21:13:20.000Z",
+      "image": "https://static01.nyt.com/images/2026/11/24/multimedia/24CLI-IOWA-BLAST-PRESS1-hwmf/24CLI-IOWA-BLAST-PRESS1-hwmf-mediumSquareAt3X.jpg",
+      "author": "Evan Halper, Quinn Glabicki and Hiroko Tabuchi",
+      "excerpt": "Freezing temperatures threaten to make the chemicals even more unstable, while winds could carry a toxic lead plume up to 100 miles away.",
       "source": "NYT"
     },
     {
       "title": "Stock Markets Slip as Nvidia and A.I. Stocks Erase Some of Monday’s Rally",
       "link": "https://www.nytimes.com/2026/11/24/business/stocks-sp500-huang-nvidia.html",
-      "pubDate": "2026-11-24T15:01:10.000Z",
+      "pubDate": "2026-11-24T21:12:53.000Z",
       "image": "https://static01.nyt.com/images/2026/11/24/multimedia/24biz-markets-zjwk/24biz-markets-zjwk-mediumSquareAt3X.jpg",
-      "author": "Jason Karaian",
+      "author": "Aruni Soni and Jason Karaian",
       "excerpt": "Shares have veered wildly for days, pushed and pulled by the drama at Nvidia and the rise and fall of Anthropic’s stock after its blockbuster public offering.",
+      "source": "NYT"
+    },
+    {
+      "title": "Thelma Golden to Step Down as Head of Studio Museum in Harlem",
+      "link": "https://www.nytimes.com/2026/11/24/arts/design/thelma-golden-steps-down-studio-museum-harlem.html",
+      "pubDate": "2026-11-24T21:02:58.000Z",
+      "image": "https://static01.nyt.com/images/2026/11/24/multimedia/24cul-thelma-studio-01-tjml/24cul-thelma-studio-01-tjml-mediumSquareAt3X-v2.jpg",
+      "author": "Robin Pogrebin",
+      "excerpt": "After 21 years at the helm of the Studio Museum in Harlem, where she completed its new home and helped redefine the art canon, Thelma Golden has decided it’s time to go.",
+      "source": "NYT"
+    },
+    {
+      "title": "An Adored Manhattan Grocery, and Seinfeld Favorite, May Close Its Doors",
+      "link": "https://www.nytimes.com/2026/11/24/nyregion/zingones-market-upper-west-wise-manhattan.html",
+      "pubDate": "2026-11-24T20:56:32.000Z",
+      "image": "https://static01.nyt.com/images/2026/11/24/multimedia/24met-zingones-01-thpf/24met-zingones-01-thpf-mediumSquareAt3X.jpg",
+      "author": "Katherine Rosman",
+      "excerpt": "Zingone Bros. is beloved on the Upper West Side. That might not be enough to keep it open.",
+      "source": "NYT"
+    },
+    {
+      "title": "The Mississippi Senate Race Wasn’t Even This Year’s Biggest Upset",
+      "link": "https://www.nytimes.com/2026/11/24/upshot/midterm-elections-upsets-predictions.html",
+      "pubDate": "2026-11-24T20:19:49.000Z",
+      "image": "https://static01.nyt.com/images/2026/11/17/multimedia/2026-11-12-senate-cook-index/2026-11-12-senate-cook-index-mediumSquareAt3X-v19.jpg",
+      "author": "C.J. Robinson",
+      "excerpt": "We found the most unlikely winners of the 2026 midterms.",
+      "source": "NYT"
+    },
+    {
+      "title": "Broderick Wins Tennessee House Race, Giving Democrats Largest Majority in 30 Years",
+      "link": "https://www.nytimes.com/2026/11/24/us/politics/tennessee-house-election-results-broderick-wins.html",
+      "pubDate": "2026-11-24T19:26:32.000Z",
+      "image": "https://static01.nyt.com/images/2026/11/23/multimedia/00pol-tennessee-upset-lqmv/00pol-tennessee-upset-lqmv-mediumSquareAt3X.jpg",
+      "author": "John Yoon and Emily Cochrane",
+      "excerpt": "Democrats’ midterm rout kept expanding in the House after a tech support worker ousted an eight-term Republican without having aired a single TV ad.",
+      "source": "NYT"
+    },
+    {
+      "title": "Sane Was a Prolific Graffiti Tagger in NYC. Now, a Couple is Working to Keep His Legacy Alive.",
+      "link": "https://www.nytimes.com/2026/11/24/nyregion/graffiti-sane-nyc-david-smith-art.html",
+      "pubDate": "2026-11-24T17:29:28.000Z",
+      "image": "https://static01.nyt.com/images/2026/11/29/nyregion/29met-graffiti-sane-top/00met-graffiti-sane-top-mediumSquareAt3X.jpg",
+      "author": "Ed Shanahan",
+      "excerpt": "A Queens couple is on a quest to keep the legacy of David Smith, better known as “Sane,” alive. In the 1980s, he was one of New York City’s most-wanted vandals.",
       "source": "NYT"
     },
     {
@@ -947,96 +1046,6 @@
       "image": "https://static01.nyt.com/images/2026/11/24/books/24TBR-100Notables-MAIN/24TBR-100Notables-MAIN-mediumSquareAt3X.jpg",
       "author": "",
       "excerpt": "Here is the standout fiction and nonfiction of the year, chosen by the staff of The New York Times Book Review.",
-      "source": "NYT"
-    },
-    {
-      "title": "Black Friday Deals Starting Earlier This Year? It’s Not Just in Your Head.",
-      "link": "https://www.nytimes.com/2026/11/24/style/black-friday-sales-2026-earlier.html",
-      "pubDate": "2026-11-24T13:59:28.000Z",
-      "image": "https://static01.nyt.com/images/2026/11/24/multimedia/24BLACK-FRIDAY-FOREVER-01-gjwz/24BLACK-FRIDAY-FOREVER-01-gjwz-mediumSquareAt3X.jpg",
-      "author": "Yola Mzizi",
-      "excerpt": "Sales start earlier and seem to drag on endlessly, giving some shoppers “Black Friday fatigue.”",
-      "source": "NYT"
-    },
-    {
-      "title": "Some Haitian Families Fleeing the U.S. for Canada Are Being Separated at the Border",
-      "link": "https://www.nytimes.com/2026/11/24/us/haitians-deportations-canada-immigration.html",
-      "pubDate": "2026-11-24T13:50:17.000Z",
-      "image": "https://static01.nyt.com/images/2026/11/24/multimedia/24nat-immig-separation-springfield-jwlt/24nat-immig-separation-springfield-jwlt-mediumSquareAt3X.jpg",
-      "author": "Miriam Jordan",
-      "excerpt": "Driven to Canada by deportation fears, some members of Haitian families are being denied entry, turned back and detained by U.S. authorities.",
-      "source": "NYT"
-    },
-    {
-      "title": "Prince William and Catherine’s Country Home Broken Into, Police Say",
-      "link": "https://www.nytimes.com/2026/11/24/world/europe/prince-william-kate-home-break-in-anmer-hall-uk.html",
-      "pubDate": "2026-11-24T13:48:00.000Z",
-      "image": "https://static01.nyt.com/images/2026/11/24/world/24int-UK-ROYALS-BREAK-IN-bbbb/24int-UK-ROYALS-BREAK-IN-bbbb-mediumSquareAt3X.jpg",
-      "author": "Stephen Castle",
-      "excerpt": "The men were arrested at Anmer Hall, the couple’s retreat in Norfolk, on Monday night.",
-      "source": "NYT"
-    },
-    {
-      "title": "Harry and Meghan’s Life as ‘Nonroyal Royals’ in the UK",
-      "link": "https://www.nytimes.com/2026/11/24/world/europe/harry-meghan-royal-family-uk.html",
-      "pubDate": "2026-11-24T13:40:55.000Z",
-      "image": "https://static01.nyt.com/images/2026/11/24/world/24int-uk-harry-meghan-aaaa/24int-uk-harry-meghan-aaaa-mediumSquareAt3X.jpg",
-      "author": "Karla Adam",
-      "excerpt": "Six years after leaving the country, the Sussexes are back and arranging a careful program of public appearances. Will they complement the royal family, or compete with it?",
-      "source": "NYT"
-    },
-    {
-      "title": "Why the Nvidia Board Folded",
-      "link": "https://www.nytimes.com/2026/11/24/opinion/nvidia-board-jensen-huang-reinstated.html",
-      "pubDate": "2026-11-24T13:34:46.000Z",
-      "image": null,
-      "author": "Natasha Sarin",
-      "excerpt": "The whole thing was a pointless and depressing exercise.",
-      "source": "NYT"
-    },
-    {
-      "title": "Too Big to Fail",
-      "link": "https://www.nytimes.com/2026/11/24/briefing/jensen-huang-returns-nvidia.html",
-      "pubDate": "2026-11-24T11:34:16.000Z",
-      "image": "https://static01.nyt.com/images/2026/11/24/multimedia/24theheadlines-huang/24theheadlines-huang-mediumSquareAt3X.jpg",
-      "author": "Sam Sifton",
-      "excerpt": "We look at Jensen Huang’s return to Nvidia.",
-      "source": "NYT"
-    },
-    {
-      "title": "Why So Many of Us Have Chronic Back Pain, and Why It Won’t Go Away",
-      "link": "https://www.nytimes.com/2026/11/24/magazine/back-pain-chronic-treatment.html",
-      "pubDate": "2026-11-24T10:01:58.000Z",
-      "image": "https://static01.nyt.com/images/2026/12/06/magazine/06mag-pain-01/06mag-pain-01-mediumSquareAt3X-v4.jpg",
-      "author": "Matthew Shaer",
-      "excerpt": "More than half a billion people globally suffer from some form of back pain. And the numbers are only growing, with no reliable solution in sight.",
-      "source": "NYT"
-    },
-    {
-      "title": "MAGA Attacked Harvard. So Harvard Taught a Class About It.",
-      "link": "https://www.nytimes.com/2026/11/24/us/harvard-maga-class.html",
-      "pubDate": "2026-11-24T10:00:53.000Z",
-      "image": "https://static01.nyt.com/images/2026/11/24/multimedia/24nat-maga-class-02-ctpq/24nat-maga-class-02-ctpq-mediumSquareAt3X.jpg",
-      "author": "Mark Arsenault",
-      "excerpt": "The Make America Great Again movement wants to remake Harvard. Harvard has a class for that.",
-      "source": "NYT"
-    },
-    {
-      "title": "Jimmy Kimmel Clocks Trump’s Personal Investment in Jensen Huang",
-      "link": "https://www.nytimes.com/2026/11/24/arts/television/jimmy-kimmel-trump-jensen-huang.html",
-      "pubDate": "2026-11-24T07:05:40.000Z",
-      "image": null,
-      "author": "Trish Bendix",
-      "excerpt": "The late night host pointed to President Trump’s haranguing of the Nvidia board on Huang’s behalf: “And if you think that sounds fishy, it’s not — it’s called being a good friend.”",
-      "source": "NYT"
-    },
-    {
-      "title": "Trump’s Extraordinary Nvidia Intervention Sidelines National Security Concerns",
-      "link": "https://www.nytimes.com/2026/11/23/us/politics/trump-nvidia-national-security.html",
-      "pubDate": "2026-11-24T00:55:56.000Z",
-      "image": "https://static01.nyt.com/images/2026/11/23/multimedia/23dc-trump-nvidia-TOP-tbvl/23dc-trump-nvidia-TOP-tbvl-mediumSquareAt3X.jpg",
-      "author": "Peter Baker",
-      "excerpt": "President Trump’s move to put Jensen Huang back at the helm of Nvidia caps his indifference to the warnings of his own intelligence agencies.",
       "source": "NYT"
     }
   ]
