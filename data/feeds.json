@@ -1,6 +1,24 @@
 {
   "spaceNews": [
     {
+      "title": "APOD: 2026 November 25 – SPHEREx Seeing Through Dust",
+      "link": "https://science.nasa.gov/image-article/apod-2026-november-25-spherex-seeing-through-dust/",
+      "pubDate": "2026-11-25T05:05:00.000Z",
+      "image": null,
+      "author": "",
+      "excerpt": "APOD Science APOD APOD: 2026 November 25 –… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional",
+      "source": "NASA"
+    },
+    {
+      "title": "Georgia’s Pecan Belt",
+      "link": "https://science.nasa.gov/earth/earth-observatory/georgias-pecan-belt/",
+      "pubDate": "2026-11-25T05:00:00.000Z",
+      "image": "https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2026/georgia’s-pecan-belt/georgiapecans_oli_20261023.jpg?w=1440&#038;h=1199&#038;fit=clip",
+      "author": "",
+      "excerpt": "Since an early-1900s planting boom, orchards along the Flint River in southwest Georgia have become a center of U.S. pecan production.",
+      "source": "NASA"
+    },
+    {
       "title": "NASA+ Content Coming to Big Screen at Greenbelt, Maryland Cinema",
       "link": "https://www.nasa.gov/nasa/nasa-content-coming-to-big-screen-at-greenbelt-maryland-cinema/",
       "pubDate": "2026-11-24T21:14:36.000Z",
@@ -125,24 +143,6 @@
       "author": "Jacqueline Feldscher",
       "excerpt": "The report’s top recommendation to Congress is to designate space-based systems as the 17th critical infrastructure sector. The post Report Urges Congress to Designate Space as Critical Infrastructure appeared first on Payload.",
       "source": "Payload"
-    },
-    {
-      "title": "APOD: 2026 November 24 – Galaxies Battle in the NGC 7771 Group",
-      "link": "https://science.nasa.gov/image-article/apod-2026-november-24-galaxies-battle-in-the-ngc-7771-group/",
-      "pubDate": "2026-11-24T05:05:00.000Z",
-      "image": "https://assets.science.nasa.gov/dynamicimage/assets/science/cds/apod/apod/2026/november/NGC7771group_Marinoni_1179.jpg?w=1179&#038;h=1422&#038;fit=clip",
-      "author": "",
-      "excerpt": "APOD Science APOD APOD: 2026 November 24 –… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional",
-      "source": "NASA"
-    },
-    {
-      "title": "Eruption Extends Iwo Jima’s Beach",
-      "link": "https://science.nasa.gov/earth/earth-observatory/eruption-extends-iwo-jimas-beach/",
-      "pubDate": "2026-11-24T05:01:00.000Z",
-      "image": "https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2026/eruption-enlarges-iwo-jima’s-beach/iwojima_oli2_20261026.jpg",
-      "author": "",
-      "excerpt": "A volcanic eruption just off the southeast shore of the Pacific island has reshaped the coast, but it’s unclear how long the new land will survive.",
-      "source": "NASA"
     },
     {
       "title": "SpaceX launches classified payload for the U.S. Space Force",
@@ -786,6 +786,15 @@
   ],
   "industryNews": [
     {
+      "title": "Malaysia Aviation Group Commits to Order up to 16 Boeing 787 Dreamliner Jets",
+      "link": "https://boeing.mediaroom.com/2026-11-25-Malaysia-Aviation-Group-Commits-to-Order-up-to-16-Boeing-787-Dreamliner-Jets",
+      "pubDate": "2026-11-25T05:48:00.000Z",
+      "image": "https://mmx.prnewswire.com/media/MS2042620/Malaysia-Airlines-787.jpg?id=OA3099735&p=thumbnail",
+      "author": "",
+      "excerpt": "",
+      "source": "Boeing"
+    },
+    {
       "title": "Boeing to Build 15 Additional U.S. Air Force KC-46A Tankers",
       "link": "https://boeing.mediaroom.com/news-releases-statements?item=131737",
       "pubDate": "2026-11-24T22:03:00.000Z",
@@ -865,43 +874,97 @@
       "author": "",
       "excerpt": "",
       "source": "Boeing"
-    },
-    {
-      "title": "Boeing Projects China’s Commercial Fleet Will More than Double Over 20 Years",
-      "link": "https://boeing.mediaroom.com/2026-11-03-Boeing-Projects-Chinas-Commercial-Fleet-Will-More-than-Double-Over-20-Years",
-      "pubDate": "2026-11-03T04:00:00.000Z",
-      "image": "https://boeing.mediaroom.com/image/China+CMO+Media+Briefing+2+resize.jpg",
-      "author": "",
-      "excerpt": "",
-      "source": "Boeing"
     }
   ],
   "nytNews": [
     {
-      "title": "Abrego Garcia Will Voluntarily Leave U.S., Ending 20-Month Legal Ordeal",
+      "title": "Abrego Garcia Voluntarily Leaves U.S., Ending 20-Month Legal Fight",
       "link": "https://www.nytimes.com/2026/11/24/us/politics/abrego-garcia-leave-deportation.html",
-      "pubDate": "2026-11-25T00:09:36.000Z",
-      "image": "https://static01.nyt.com/images/2026/11/24/multimedia/24dc-abrego-zvwj/24dc-abrego-zvwj-mediumSquareAt3X.jpg",
-      "author": "Alan Feuer",
-      "excerpt": "Kilmar Armando Abrego Garcia, who was wrongfully deported last year, is leaving for Spain. He had faced the prospect that the Trump administration might deport him to Liberia.",
+      "pubDate": "2026-11-25T06:43:00.000Z",
+      "image": "https://static01.nyt.com/images/2026/11/24/multimedia/24dc-abrego-zvwj/24dc-abrego-zvwj-mediumSquareAt3X-v3.jpg",
+      "author": "Alan Feuer and Hari Raj",
+      "excerpt": "Kilmar Armando Abrego Garcia, who was wrongfully deported last year, has left for Spain. He faced the prospect that the Trump administration might deport him to Liberia.",
       "source": "NYT"
     },
     {
-      "title": "I Was Disabled in Middle Age. It Opened Up the World.",
+      "title": "Late Night Rips Into Trump for Honoring Rudy Giuliani",
+      "link": "https://www.nytimes.com/2026/11/25/arts/television/late-night-rips-into-trump-for-honoring-rudy-giuliani.html",
+      "pubDate": "2026-11-25T06:31:34.000Z",
+      "image": null,
+      "author": "Trish Bendix",
+      "excerpt": "Seth Meyers congratulated the former New York mayor and Trump ally for “A, receiving the Presidential Medal of Freedom and B, still being alive.”",
+      "source": "NYT"
+    },
+    {
+      "title": "My Knee Is Wrecked. It Opened My Eyes.",
       "link": "https://www.nytimes.com/2026/11/24/opinion/disability-politics-trump-sharpie-line.html",
-      "pubDate": "2026-11-25T00:09:19.000Z",
+      "pubDate": "2026-11-25T06:01:34.000Z",
       "image": "https://static01.nyt.com/images/2026/11/24/multimedia/24retica-promo-zftk/24retica-promo-zftk-mediumSquareAt3X.jpg",
       "author": "Aaron Retica and Joey Solomon",
       "excerpt": "Life on the wrong side of the Sharpie line is tough but instructive.",
       "source": "NYT"
     },
     {
-      "title": "Sullivan Concedes Alaska Senate Race to Peltola",
-      "link": "https://www.nytimes.com/2026/11/24/us/politics/dan-sullivan-concedes-alaska-senate-race-mary-peltola.html",
-      "pubDate": "2026-11-24T23:58:18.000Z",
-      "image": "https://static01.nyt.com/images/2026/11/24/multimedia/24pol-alaska-concession-bpvz/24pol-alaska-concession-bpvz-mediumSquareAt3X.jpg",
-      "author": "Tim Balk",
-      "excerpt": "The Republican conceded five days after the Trump administration gave up on a long-shot lawsuit intended to potentially block certification of the race.",
+      "title": "Why Jensen Huang Was Reinstated at Nvidia",
+      "link": "https://www.nytimes.com/2026/11/24/opinion/jensen-huang-nvidia-ceo-reinstated.html",
+      "pubDate": "2026-11-25T03:56:57.000Z",
+      "image": "https://static01.nyt.com/images/2026/11/26/multimedia/24witt-vzbp/24witt-vzbp-mediumSquareAt3X.jpg",
+      "author": "Stephen Witt",
+      "excerpt": "If I were on the board at Nvidia, I would have voted to bring him back, too.",
+      "source": "NYT"
+    },
+    {
+      "title": "Martha Firestone Ford, Owner of Detroit Lions, Dies at 101",
+      "link": "https://www.nytimes.com/2026/11/24/business/martha-firestone-ford-dead.html",
+      "pubDate": "2026-11-25T03:52:08.000Z",
+      "image": "https://static01.nyt.com/images/2021/02/22/obituaries/Ford-01/Ford-01-mediumSquareAt3X-v2.jpg",
+      "author": "Ken Belson",
+      "excerpt": "Mrs. Ford, who took over the team after the 2014 death of her husband, William Clay Ford Sr., was one of a handful of female owners in the N.F.L.",
+      "source": "NYT"
+    },
+    {
+      "title": "Army’s Iowa Ammunition Plant Explosion on Schedule for Wednesday Morning",
+      "link": "https://www.nytimes.com/2026/11/24/climate/iowa-army-ammunition-plant-explostion.html",
+      "pubDate": "2026-11-25T03:36:32.000Z",
+      "image": "https://static01.nyt.com/images/2026/11/24/multimedia/24CLI-IOWA-BLAST-PRESS1-hwmf/24CLI-IOWA-BLAST-PRESS1-hwmf-mediumSquareAt3X.jpg",
+      "author": "Evan Halper, Quinn Glabicki and Hiroko Tabuchi",
+      "excerpt": "Freezing temperatures threaten to make the chemicals even more unstable, while winds could carry a toxic lead plume up to 100 miles away.",
+      "source": "NYT"
+    },
+    {
+      "title": "Officials Brief Congressional Staff on Intelligence Surrounding Nvidia Affair",
+      "link": "https://www.nytimes.com/2026/11/24/us/politics/intelligence-nvidia-affair-congressional-briefing.html",
+      "pubDate": "2026-11-25T03:15:54.000Z",
+      "image": "https://static01.nyt.com/images/2026/11/24/multimedia/24dc-spy-chip-02-tgvj/24dc-spy-chip-02-tgvj-mediumSquareAt3X.jpg",
+      "author": "Julian E. Barnes, Maggie Haberman and Jonathan Swan",
+      "excerpt": "After President Trump said Jensen Huang was not a security threat, U.S. intelligence agencies told aides to lawmakers there was no evidence the woman at the heart of the scandal took directions from the Chinese spy agency.",
+      "source": "NYT"
+    },
+    {
+      "title": "Justice Dept. Apologizes for Making False Statement to Judge in Omar Case",
+      "link": "https://www.nytimes.com/2026/11/24/us/politics/house-lawyer-ilhan-omar-search.html",
+      "pubDate": "2026-11-25T02:20:55.000Z",
+      "image": "https://static01.nyt.com/images/2026/11/24/multimedia/24dc-omar-vbjl/24dc-omar-vbjl-mediumSquareAt3X.jpg",
+      "author": "Charlie Savage",
+      "excerpt": "The acknowledgment came hours after the House’s top lawyer said the department mischaracterized his view on constitutional protections for lawmakers.",
+      "source": "NYT"
+    },
+    {
+      "title": "An Explosion Is Coming to Iowa. And Residents Can’t Do a Thing About It.",
+      "link": "https://www.nytimes.com/2026/11/24/us/iowa-ammunition-plant-lead-explosion-middletown.html",
+      "pubDate": "2026-11-25T02:06:53.000Z",
+      "image": "https://static01.nyt.com/images/2026/11/24/multimedia/24nat-iowa-blast-medical-1-tjmz/24nat-iowa-blast-medical-1-tjmz-mediumSquareAt3X.jpg",
+      "author": "Maia Spoto and Jack Healy",
+      "excerpt": "Residents of Middletown, which adjoins an Army facility where dangerous chemicals will be detonated Wednesday, are taping up their doors and getting ready to flee.",
+      "source": "NYT"
+    },
+    {
+      "title": "Trump Administration Pauses Joint Operations With Ecuador",
+      "link": "https://www.nytimes.com/2026/11/24/world/americas/ecuador-us-military-operations-trump.html",
+      "pubDate": "2026-11-25T00:42:52.000Z",
+      "image": "https://static01.nyt.com/images/2026/10/23/world/24int-ecuador-us-strikes/24int-ecuador-us-strikes-mediumSquareAt3X.jpg",
+      "author": "Annie Correal and Eric Schmitt",
+      "excerpt": "The administration has halted military operations while it investigates an operation by Ecuadorean forces that killed an accused gang leader.",
       "source": "NYT"
     },
     {
@@ -914,48 +977,12 @@
       "source": "NYT"
     },
     {
-      "title": "An Explosion Is Coming to Iowa. And Residents Can’t Do a Thing About It.",
-      "link": "https://www.nytimes.com/2026/11/24/us/iowa-ammunition-plant-lead-explosion-middletown.html",
-      "pubDate": "2026-11-24T23:36:56.000Z",
-      "image": "https://static01.nyt.com/images/2026/11/24/multimedia/24nat-iowa-blast-medical-1-tjmz/24nat-iowa-blast-medical-1-tjmz-mediumSquareAt3X.jpg",
-      "author": "Maia Spoto and Jack Healy",
-      "excerpt": "Residents of Middletown, which adjoins an Army facility where dangerous chemicals will be detonated Wednesday, are taping up their doors and getting ready to flee.",
-      "source": "NYT"
-    },
-    {
       "title": "Blanche Downplays Questions Over Nvidia as Investigators Examine Company’s Customers",
       "link": "https://www.nytimes.com/2026/11/24/us/politics/nvidia-justice-department-todd-blanche.html",
-      "pubDate": "2026-11-24T23:27:36.000Z",
+      "pubDate": "2026-11-24T23:27:37.000Z",
       "image": "https://static01.nyt.com/images/2026/11/24/multimedia/24dc-doj-nvidia-01-zpmh/24dc-doj-nvidia-01-zpmh-mediumSquareAt3X.jpg",
       "author": "Devlin Barrett and Ana Swanson",
       "excerpt": "Justice Department investigators have gathered evidence of Nvidia’s high-powered computer chips being illegally diverted by other firms to China, according to people familiar with the inquiries.",
-      "source": "NYT"
-    },
-    {
-      "title": "Why Jensen Huang Was Reinstated at Nvidia",
-      "link": "https://www.nytimes.com/2026/11/24/opinion/jensen-huang-nvidia-ceo-reinstated.html",
-      "pubDate": "2026-11-24T23:08:14.000Z",
-      "image": "https://static01.nyt.com/images/2026/11/24/multimedia/24witt-vzbp/24witt-vzbp-mediumSquareAt3X.jpg",
-      "author": "Stephen Witt",
-      "excerpt": "If I were on the board at Nvidia, I would have voted to bring him back, too.",
-      "source": "NYT"
-    },
-    {
-      "title": "‘Carthage Resident Al Gore’ Buys His Hometown Tennessee Newspaper",
-      "link": "https://www.nytimes.com/2026/11/24/business/media/al-gore-newspaper-carthage-courier.html",
-      "pubDate": "2026-11-24T23:06:01.000Z",
-      "image": "https://static01.nyt.com/images/2026/11/24/multimedia/24xp-gore-newpaper-qptl/24xp-gore-newpaper-qptl-mediumSquareAt3X.jpg",
-      "author": "Michael Levenson",
-      "excerpt": "The Carthage Courier announced this week that the former vice president was buying the weekly paper, which has been publishing since 1913.",
-      "source": "NYT"
-    },
-    {
-      "title": "What to Know About the Planned Explosion in Middletown, Iowa",
-      "link": "https://www.nytimes.com/2026/11/21/climate/what-to-know-about-the-planned-explosion-in-iowa.html",
-      "pubDate": "2026-11-24T22:08:38.000Z",
-      "image": "https://static01.nyt.com/images/2026/11/21/multimedia/21CLI-IOWA-FAQ-tpqc/21CLI-IOWA-FAQ-tpqc-mediumSquareAt3X.jpg",
-      "author": "Quinn Glabicki",
-      "excerpt": "The Army plans to blow up a stockpile of dangerously degrading explosives at a facility in southeastern Iowa on Wednesday morning, Army officials said Tuesday.",
       "source": "NYT"
     },
     {
@@ -965,33 +992,6 @@
       "image": "https://static01.nyt.com/images/2026/11/24/multimedia/NVIDIA-MEETING-1-ltjp/NVIDIA-MEETING-1-ltjp-mediumSquareAt3X.jpg",
       "author": "Tripp Mickle and Kalley Huang",
       "excerpt": "A day after returning to his company, Mr. Huang acknowledged that he had violated Nvidia’s code of conduct and “made some terrible mistakes.”",
-      "source": "NYT"
-    },
-    {
-      "title": "Trump Ballroom and Other Projects Got $300 Million Donation Boost",
-      "link": "https://www.nytimes.com/2026/11/24/us/politics/account-park-service-trump-ballroom-donation.html",
-      "pubDate": "2026-11-24T21:14:02.000Z",
-      "image": "https://static01.nyt.com/images/2026/11/24/multimedia/24DC-DONATION-fwlk/24DC-DONATION-fwlk-mediumSquareAt3X.jpg",
-      "author": "David A. Fahrenthold, Zachary Small and Luke Broadwater",
-      "excerpt": "The Trump administration declined to say who donated those funds to an account funding presidential projects like the White House ballroom and the triumphal arch.",
-      "source": "NYT"
-    },
-    {
-      "title": "Army’s Iowa Ammunition Plant Explosion on Schedule for Wednesday Morning",
-      "link": "https://www.nytimes.com/2026/11/24/climate/iowa-army-ammunition-plant-explostion.html",
-      "pubDate": "2026-11-24T21:13:20.000Z",
-      "image": "https://static01.nyt.com/images/2026/11/24/multimedia/24CLI-IOWA-BLAST-PRESS1-hwmf/24CLI-IOWA-BLAST-PRESS1-hwmf-mediumSquareAt3X.jpg",
-      "author": "Evan Halper, Quinn Glabicki and Hiroko Tabuchi",
-      "excerpt": "Freezing temperatures threaten to make the chemicals even more unstable, while winds could carry a toxic lead plume up to 100 miles away.",
-      "source": "NYT"
-    },
-    {
-      "title": "Stock Markets Slip as Nvidia and A.I. Stocks Erase Some of Monday’s Rally",
-      "link": "https://www.nytimes.com/2026/11/24/business/stocks-sp500-huang-nvidia.html",
-      "pubDate": "2026-11-24T21:12:53.000Z",
-      "image": "https://static01.nyt.com/images/2026/11/24/multimedia/24biz-markets-zjwk/24biz-markets-zjwk-mediumSquareAt3X.jpg",
-      "author": "Aruni Soni and Jason Karaian",
-      "excerpt": "Shares have veered wildly for days, pushed and pulled by the drama at Nvidia and the rise and fall of Anthropic’s stock after its blockbuster public offering.",
       "source": "NYT"
     },
     {
@@ -1028,15 +1028,6 @@
       "image": "https://static01.nyt.com/images/2026/11/23/multimedia/00pol-tennessee-upset-lqmv/00pol-tennessee-upset-lqmv-mediumSquareAt3X.jpg",
       "author": "John Yoon and Emily Cochrane",
       "excerpt": "Democrats’ midterm rout kept expanding in the House after a tech support worker ousted an eight-term Republican without having aired a single TV ad.",
-      "source": "NYT"
-    },
-    {
-      "title": "Sane Was a Prolific Graffiti Tagger in NYC. Now, a Couple is Working to Keep His Legacy Alive.",
-      "link": "https://www.nytimes.com/2026/11/24/nyregion/graffiti-sane-nyc-david-smith-art.html",
-      "pubDate": "2026-11-24T17:29:28.000Z",
-      "image": "https://static01.nyt.com/images/2026/11/29/nyregion/29met-graffiti-sane-top/00met-graffiti-sane-top-mediumSquareAt3X.jpg",
-      "author": "Ed Shanahan",
-      "excerpt": "A Queens couple is on a quest to keep the legacy of David Smith, better known as “Sane,” alive. In the 1980s, he was one of New York City’s most-wanted vandals.",
       "source": "NYT"
     },
     {
