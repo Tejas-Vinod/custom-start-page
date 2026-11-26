@@ -1,6 +1,24 @@
 {
   "spaceNews": [
     {
+      "title": "The ‘bare-knuckled’ future of life in space with Tim Marshall",
+      "link": "https://spacenews.com/the-bare-knuckled-future-of-life-in-space-with-tim-marshall/",
+      "pubDate": "2026-11-26T17:53:00.000Z",
+      "image": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/11/space-minds-podcast-space-comm-marhsall-2000-1500.jpg?fit=1024%2C768&amp;ssl=1",
+      "author": "SpaceNews Editor",
+      "excerpt": "In this episode, Mike Gruss speaks with journalist and best-selling author Tim Marshall. They discuss how the war in Ukraine represented a wakeup call for how Europe and the United […] The post The ‘bare-knuckled’ future of life in space with Tim Marshall appeared first on SpaceNews.",
+      "source": "SpaceNews"
+    },
+    {
+      "title": "The closest exoplanets may host magnetic fields",
+      "link": "https://www.astronomy.com/science/the-closest-exoplanets-may-host-magnetic-fields/",
+      "pubDate": "2026-11-26T16:00:00.000Z",
+      "image": null,
+      "author": "Alison Klesman",
+      "excerpt": "Signs of the first magnetic fields around rocky worlds could be crucial for habitability. The post The closest exoplanets may host magnetic fields appeared first on Astronomy Magazine.",
+      "source": "Astronomy Magazine"
+    },
+    {
       "title": "APOD: 2026 November 26 – Eye in the Sky: The Milky Way over Lençóis",
       "link": "https://science.nasa.gov/image-article/apod-2026-november-26-eye-in-the-sky-the-milky-way-over-lencois/",
       "pubDate": "2026-11-26T05:05:00.000Z",
@@ -496,15 +514,6 @@
       "source": "Astronomy Magazine"
     },
     {
-      "title": "Can robots save Earth orbit?",
-      "link": "https://www.astronomy.com/science/can-robots-save-earth-orbit/",
-      "pubDate": "2026-11-17T17:42:13.000Z",
-      "image": null,
-      "author": "Brooks Mendenhall",
-      "excerpt": "There are likely fewer satellites in Earth orbit right now than there will be at any point for the rest of your life. It’s a sobering thought. The threats from our ever-more-crowded skies are well documented: light pollution from megaconstellations, aluminum oxide accumulating in the upper atmosphere as satellites burn",
-      "source": "Astronomy Magazine"
-    },
-    {
       "title": "How AI is pushing satellites to evolve",
       "link": "https://spacenews.com/how-ai-is-pushing-satellites-to-evolve/",
       "pubDate": "2026-11-17T17:02:33.000Z",
@@ -860,30 +869,111 @@
   ],
   "nytNews": [
     {
-      "title": "How a Thanksgiving Tradition Connects to Presidential Powers",
-      "link": "https://www.nytimes.com/video/us/politics/100000011304420/trump-president-turkey-pardon-thanksgiving.html",
-      "pubDate": "2026-11-26T12:08:22.000Z",
-      "image": null,
-      "author": "Peter Baker, Gilad Thaler, Brian Oh, Pierre Kattar and Shawn Paik",
-      "excerpt": "As President Trump pardons turkeys for Thanksgiving, our chief White House correspondent Peter Baker takes a look back at the history of the tradition and the presidential power of the pardon.",
-      "source": "NYT"
-    },
-    {
-      "title": "Giving Thanks",
-      "link": "https://www.nytimes.com/2026/11/26/briefing/giving-thanks.html",
-      "pubDate": "2026-11-26T11:25:22.000Z",
-      "image": "https://static01.nyt.com/images/2026/11/26/multimedia/26themorning-nl-LEAD-01-lgfb/26themorning-nl-LEAD-01-lgfb-mediumSquareAt3X.jpg",
-      "author": "Sam Sifton",
-      "excerpt": "Everything is going to be all right.",
-      "source": "NYT"
-    },
-    {
-      "title": "Net Migration to U.K. Falls to Lowest Level Since 1997, Excluding Pandemic",
-      "link": "https://www.nytimes.com/2026/11/26/world/europe/uk-net-migration-data.html",
-      "pubDate": "2026-11-26T10:54:14.000Z",
-      "image": "https://static01.nyt.com/images/2026/11/26/multimedia/26int-uk-immigration-tbmc/26int-uk-immigration-tbmc-mediumSquareAt3X.jpg",
+      "title": "U.K. Releases Files on Peter Mandelson, Ambassador Tied to Jeffrey Epstein",
+      "link": "https://www.nytimes.com/2026/11/26/world/europe/peter-mandelson-epstein-uk.html",
+      "pubDate": "2026-11-26T21:40:09.000Z",
+      "image": "https://static01.nyt.com/images/2026/11/26/world/26int-uk-mandelson-apabut/26int-uk-mandelson-apabut-mediumSquareAt3X.jpg",
       "author": "Stephen Castle",
-      "excerpt": "The drop was largely driven by fewer people arriving from outside Europe. It reflects government action to restrict immigration after a public backlash.",
+      "excerpt": "Documents released Thursday shed new light on the rushed appointment of Peter Mandelson and his continued ties to Global Counsel, a lobbying group.",
+      "source": "NYT"
+    },
+    {
+      "title": "Dan Carney Has Died. He Co-Founded Pizza Hut and Then Made It Ubiquitous.",
+      "link": "https://www.nytimes.com/2026/11/26/business/dan-carney-dead.html",
+      "pubDate": "2026-11-26T20:37:15.000Z",
+      "image": null,
+      "author": "Steven Kurutz",
+      "excerpt": "The franchise with the iconic red roof began small, in a tiny brick hut in Kansas. Little more than a decade later, it was the world’s biggest pizza chain. He was 95.",
+      "source": "NYT"
+    },
+    {
+      "title": "Macy’s Thanksgiving Day Parade Upends Plans and Adds Costs for Marching Bands",
+      "link": "https://www.nytimes.com/2026/11/25/nyregion/macys-thanksgiving-day-parade-marching-bands.html",
+      "pubDate": "2026-11-26T20:21:00.000Z",
+      "image": "https://static01.nyt.com/images/2026/11/25/multimedia/25parade-live-marching-band-gfqm/25parade-live-marching-band-gfqm-mediumSquareAt3X.jpg",
+      "author": "Ed Shanahan, Claire Fahy and Mack Liederman",
+      "excerpt": "Nine marching bands were set to perform in the Macy’s Thanksgiving Day Parade. The decision to move the event to Saturday posed new logistical challenges for them.",
+      "source": "NYT"
+    },
+    {
+      "title": "The Army Knew Much Earlier of the Explosive Risk in Iowa, Evidence Suggests",
+      "link": "https://www.nytimes.com/2026/11/26/us/iowa-lead-ammunition-stockpile-history.html",
+      "pubDate": "2026-11-26T16:50:50.000Z",
+      "image": "https://static01.nyt.com/images/2026/11/25/arts/US-army-prep-cover-image/US-army-prep-cover-image-mediumSquareAt3X.jpg",
+      "author": "Hiroko Tabuchi",
+      "excerpt": "Efforts to get rid of unstable explosives at an Iowa plant began more than a year ago but weren’t completed at that time, setting the stage for Wednesday’s controversial blast.",
+      "source": "NYT"
+    },
+    {
+      "title": "Trump Administration’s Cuts to SNAP Threaten Free School Meals",
+      "link": "https://www.nytimes.com/2026/11/26/us/politics/snap-food-stamps-school-meals.html",
+      "pubDate": "2026-11-26T15:44:53.000Z",
+      "image": "https://static01.nyt.com/images/2026/11/25/multimedia/00dc-schoolmeals-01-glzv/00dc-schoolmeals-01-glzv-mediumSquareAt3X.jpg",
+      "author": "Linda Qiu",
+      "excerpt": "The Trump administration’s cuts and proposed regulatory changes to the Supplemental Nutrition Assistance Program would have consequences for school lunch and breakfast.",
+      "source": "NYT"
+    },
+    {
+      "title": "Brazilian Duped Into Fighting for Russia: ‘War Is Hell’",
+      "link": "https://www.nytimes.com/2026/11/26/world/americas/brazil-soldier-ukraine-war.html",
+      "pubDate": "2026-11-26T15:27:03.000Z",
+      "image": null,
+      "author": "Ana Ionova",
+      "excerpt": "Dozens of Brazilians have joined the Russian army, some say lured by a pair of recruiters promising money and adventure. Here is one soldier’s story.",
+      "source": "NYT"
+    },
+    {
+      "title": "Who Picked This Gift? My A.I. Holiday Shopper.",
+      "link": "https://www.nytimes.com/2026/11/26/business/holiday-shopping-ai-agents.html",
+      "pubDate": "2026-11-26T15:13:32.000Z",
+      "image": "https://static01.nyt.com/images/2026/11/26/business/00holiday-agents-sub/00holiday-agents-sub-mediumSquareAt3X.jpg",
+      "author": "Kim Bhasin and Aruni Soni",
+      "excerpt": "From virtual agents on A.I. platforms to store helpers like Walmart’s Sparky, consumers are using the technology to save money and time.",
+      "source": "NYT"
+    },
+    {
+      "title": "Data Center Developer Wanted to Build Up, Not Out. Kansas City Said No.",
+      "link": "https://www.nytimes.com/2026/11/26/business/energy-environment/vertical-data-center-kansas-city.html",
+      "pubDate": "2026-11-26T15:12:12.000Z",
+      "image": "https://static01.nyt.com/images/2026/11/17/business/17-vertical-data-center-handouts-04/17-vertical-data-center-handouts-04-mediumSquareAt3X.jpg",
+      "author": "Tiffany Hsu",
+      "excerpt": "The facilities that power A.I. and other big data needs are in high demand but widely despised. Some developers are trying to build them up instead of out.",
+      "source": "NYT"
+    },
+    {
+      "title": "Democrats Confront a Familiar Question: How Are You Going to Pay for That?",
+      "link": "https://www.nytimes.com/2026/11/26/business/democrats-congress-agenda-taxes-spending.html",
+      "pubDate": "2026-11-26T14:50:27.000Z",
+      "image": "https://static01.nyt.com/images/2026/11/27/multimedia/27dc-dem-agenda--01-wzbj/27dc-dem-agenda--01-wzbj-mediumSquareAt3X-v2.jpg",
+      "author": "Andrew Duehren",
+      "excerpt": "Many Democratic plans are unlikely to become law under President Trump. But the party is still grappling with the difficult budget math of its agenda.",
+      "source": "NYT"
+    },
+    {
+      "title": "Gérard Depardieu Is Ordered to Stand Trial Over Rape Accusation",
+      "link": "https://www.nytimes.com/2026/11/26/world/europe/france-depardieu-rape-trial.html",
+      "pubDate": "2026-11-26T14:17:40.000Z",
+      "image": "https://static01.nyt.com/images/2026/11/26/multimedia/26france-depardieu-02-blqg/26france-depardieu-02-blqg-mediumSquareAt3X.jpg",
+      "author": "Catherine Porter",
+      "excerpt": "The actress Charlotte Arnould has accused the French movie star of raping her in 2018. He has denied any wrongdoing in the case.",
+      "source": "NYT"
+    },
+    {
+      "title": "Thanksgiving Parade Balloons Are Deflated in New York",
+      "link": "https://www.nytimes.com/2026/11/26/nyregion/macys-parade-balloons-thanksgiving.html",
+      "pubDate": "2026-11-26T14:06:46.000Z",
+      "image": "https://static01.nyt.com/images/2026/11/26/multimedia/26xp-Thanksgiving-Parade-Balloons-02-kvzp/26xp-Thanksgiving-Parade-Balloons-02-kvzp-mediumSquareAt3X.jpg",
+      "author": "Karsten Moran and Hari Raj",
+      "excerpt": "After the Macy’s Thanksgiving Day Parade was postponed because of a powerful storm, crews worked through the night to deflate balloons before the bad weather arrived.",
+      "source": "NYT"
+    },
+    {
+      "title": "Lured by High Salaries, Some Brazilians Were Duped Into Fighting for Russia",
+      "link": "https://www.nytimes.com/2026/11/26/world/americas/brazil-recruiting-russia-army.html",
+      "pubDate": "2026-11-26T14:01:46.000Z",
+      "image": "https://static01.nyt.com/images/2026/02/02/multimedia/00int-brazil-russia-soldiers-01-pmvf/00int-brazil-russia-soldiers-01-pmvf-mediumSquareAt3X.jpg",
+      "author": "Ana Ionova, Leonardo Coelho and Lis Moriconi",
+      "excerpt": "Dozens of Brazilians were sent to the front lines with little training, and the high salaries they were promised, they say, turned out to be illusory.",
       "source": "NYT"
     },
     {
@@ -896,147 +986,21 @@
       "source": "NYT"
     },
     {
-      "title": "Bipartisan Desire to Regulate A.I. Faces Obstacles in Congress",
-      "link": "https://www.nytimes.com/2026/11/26/us/politics/ai-regulation-congress-nvidia.html",
-      "pubDate": "2026-11-26T10:03:47.000Z",
-      "image": "https://static01.nyt.com/images/2026/11/25/multimedia/25dc-cong-ai-01-lvcp/25dc-cong-ai-01-lvcp-mediumSquareAt3X.jpg",
-      "author": "Michael Gold and David McCabe",
-      "excerpt": "Members of both parties say they want to tackle artificial intelligence policy, but the slow pace of legislating and turf battles could stand in the way.",
-      "source": "NYT"
-    },
-    {
-      "title": "To Many, Turkeys Are Dinner. To These Artists, They’re the Perfect Muse.",
-      "link": "https://www.nytimes.com/2026/11/26/us/turkey-art-stamps-thanksgiving-minnesota.html",
-      "pubDate": "2026-11-26T10:03:15.000Z",
-      "image": "https://static01.nyt.com/images/2026/11/26/multimedia/26nat-turkey-art-top-4-gblj/26nat-turkey-art-top-4-gblj-mediumSquareAt3X.jpg",
-      "author": "Mitch Smith",
-      "excerpt": "Artists who paint or draw the wild turkey speak of its swagger and charm. Their renderings have helped fund a conservation success story.",
+      "title": "The E.R. Closed at 5 P.M. A Dying Woman Showed Up 11 Minutes Too Late.",
+      "link": "https://www.nytimes.com/2026/11/26/world/canada/port-hardy-woman-dies-outside-er.html",
+      "pubDate": "2026-11-26T10:04:18.000Z",
+      "image": "https://static01.nyt.com/images/2026/11/25/multimedia/25xp-bc-er-03/25xp-bc-er-03-mediumSquareAt3X.jpg",
+      "author": "Mark Colley",
+      "excerpt": "In rural British Columbia, Courtney McCowan died after paramedics tried to help her in a hospital’s parking lot.",
       "source": "NYT"
     },
     {
       "title": "Trump Lost My Brother!",
       "link": "https://www.nytimes.com/2026/11/26/opinion/trump-maureen-dowd-brother.html",
-      "pubDate": "2026-11-26T10:02:32.000Z",
+      "pubDate": "2026-11-26T10:02:33.000Z",
       "image": "https://static01.nyt.com/images/2026/11/26/opinion/26dowd-kevin/26dowd-kevin-mediumSquareAt3X.jpg",
       "author": "Maureen Dowd",
       "excerpt": "Two miracles: my brother’s health and his disillusionment.",
-      "source": "NYT"
-    },
-    {
-      "title": "Trump Tried to Cripple Huawei. Now It Is Central to China’s A.I. Push.",
-      "link": "https://www.nytimes.com/2026/11/26/business/huawei-trump-china-ai.html",
-      "pubDate": "2026-11-26T10:01:56.000Z",
-      "image": "https://static01.nyt.com/images/2026/11/25/multimedia/Biz-China-Huawei-03-wcft/Biz-China-Huawei-03-wcft-mediumSquareAt3X.jpg",
-      "author": "Keith Bradsher and Adam Satariano",
-      "excerpt": "As China’s access to Nvidia’s advanced chips shrinks, Huawei is becoming increasingly indispensable to Beijing despite a wide technological gap with its American rival.",
-      "source": "NYT"
-    },
-    {
-      "title": "Lured by High Salaries, Some Brazilians Were Duped Into Fighting for Russia",
-      "link": "https://www.nytimes.com/2026/11/26/world/americas/brazil-recruiting-russia-army.html",
-      "pubDate": "2026-11-26T10:00:12.000Z",
-      "image": "https://static01.nyt.com/images/2026/02/02/multimedia/00int-brazil-russia-soldiers-01-pmvf/00int-brazil-russia-soldiers-01-pmvf-mediumSquareAt3X.jpg",
-      "author": "Ana Ionova, Leonardo Coelho and Lis Moriconi",
-      "excerpt": "Dozens of Brazilians were sent to the front lines with little training, and the high salaries they were promised, they say, turned out to be illusory.",
-      "source": "NYT"
-    },
-    {
-      "title": "Brazilian Duped Into Fighting for Russia: ‘War Is Hell’",
-      "link": "https://www.nytimes.com/2026/11/26/world/americas/brazil-soldier-ukraine-war.html",
-      "pubDate": "2026-11-26T10:00:09.000Z",
-      "image": null,
-      "author": "Ana Ionova",
-      "excerpt": "Dozens of Brazilians have joined the Russian army, some say lured by a pair of recruiters promising money and adventure. Here is one soldier’s story.",
-      "source": "NYT"
-    },
-    {
-      "title": "Hong Kong Grieves Fire Victims Under Watchful Eye of Authorities",
-      "link": "https://www.nytimes.com/2026/11/26/world/asia/hong-kong-fire-wang-fuk-court-anniversary.html",
-      "pubDate": "2026-11-26T09:06:03.000Z",
-      "image": "https://static01.nyt.com/images/2026/11/26/multimedia/26int-hongkong-fire-anniversary-01-fmwk/26int-hongkong-fire-anniversary-01-fmwk-mediumSquareAt3X.jpg",
-      "author": "Anjali Tsui",
-      "excerpt": "The city’s residents quietly mourned the 168 lives lost in a high-rise complex blaze a year ago, as officials warned against using the disaster to sow division.",
-      "source": "NYT"
-    },
-    {
-      "title": "Andy Taylor, Duran Duran’s ‘Live-Wire’ Guitarist, Dies at 65",
-      "link": "https://www.nytimes.com/2026/11/25/arts/music/andy-taylor-duran-duran-dead.html",
-      "pubDate": "2026-11-26T08:53:13.000Z",
-      "image": "https://static01.nyt.com/images/2026/11/25/multimedia/25xp-andy-taylor/25xp-andy-taylor-mediumSquareAt3X.jpg",
-      "author": "Rebecca Chao",
-      "excerpt": "He helped define the sound, and the look, of the 1980s with MTV-ready hits like “Rio” and “Hungry Like the Wolf.”",
-      "source": "NYT"
-    },
-    {
-      "title": "Seth Meyers Drags Jensen Huang’s Daily 90-Minute Therapy Sessions",
-      "link": "https://www.nytimes.com/2026/11/26/arts/television/late-night-meyers-huang-therapy-fallon.html",
-      "pubDate": "2026-11-26T08:21:26.000Z",
-      "image": null,
-      "author": "Trish Bendix",
-      "excerpt": "“You’re in therapy for an hour and a half every day? Well, now everything’s falling into place — you’d have to sell secrets to China to afford that much therapy,” Meyers said.",
-      "source": "NYT"
-    },
-    {
-      "title": "The Thanksgiving Parade on Saturday. Can They Do That?",
-      "link": "https://www.nytimes.com/2026/11/25/nyregion/thanksgiving-parade-new-york-postponed.html",
-      "pubDate": "2026-11-26T02:45:29.000Z",
-      "image": "https://static01.nyt.com/images/2026/12/10/multimedia/karsten-header-01-pjvz/karsten-header-01-pjvz-mediumSquareAt3X.jpg",
-      "author": "Michael Wilson",
-      "excerpt": "After more than a century of tradition, the Macy’s Thanksgiving Day Parade is suddenly flexible. Sure, this is fine.",
-      "source": "NYT"
-    },
-    {
-      "title": "Veruschka, One of the World’s First Supermodels, Has Died",
-      "link": "https://www.nytimes.com/2026/11/25/style/veruschka-dead.html",
-      "pubDate": "2026-11-26T02:45:27.000Z",
-      "image": "https://static01.nyt.com/images/2026/11/25/multimedia/00obit-veruschka-pthv/00obit-veruschka-pthv-mediumSquareAt3X.jpg",
-      "author": "Clay Risen",
-      "excerpt": "She rocketed to fame in Vogue and other magazines during the Swinging Sixties and had a memorable cameo in Antonioni’s hit film “Blow-Up.” She was 87.",
-      "source": "NYT"
-    },
-    {
-      "title": "Veruschka Was a Supermodel Before the Term Was Invented",
-      "link": "https://www.nytimes.com/2026/11/25/style/veruschka-supermodel-obituary.html",
-      "pubDate": "2026-11-26T02:36:37.000Z",
-      "image": "https://static01.nyt.com/images/2026/11/25/fashion/25ST-VERUSCHKA-PHOTO-STACK-premium-09/25ST-VERUSCHKA-PHOTO-STACK-premium-09-mediumSquareAt3X.jpg",
-      "author": "Vanessa Friedman",
-      "excerpt": "Her look made her a celebrity before models were known as celebrities.",
-      "source": "NYT"
-    },
-    {
-      "title": "Macy’s Thanksgiving Day Parade Sours Holiday Plans for Tourists",
-      "link": "https://www.nytimes.com/2026/11/25/nyregion/macys-thanksgiving-day-parade-tourists.html",
-      "pubDate": "2026-11-26T02:24:38.000Z",
-      "image": "https://static01.nyt.com/images/2026/11/25/multimedia/25parade-live-voices-vqwp/25parade-live-voices-vqwp-mediumSquareAt3X.jpg",
-      "author": "Mack Liederman and Miles G. Cohen",
-      "excerpt": "With a powerful storm bearing down on New York, the parade was postponed to Saturday, by which time many of the city’s visitors planned to be elsewhere.",
-      "source": "NYT"
-    },
-    {
-      "title": "Trump Rejoiced in the Market’s Nvidia Surge. It Didn’t Last Long.",
-      "link": "https://www.nytimes.com/2026/11/25/us/politics/trump-nvidia-stock-market.html",
-      "pubDate": "2026-11-26T01:53:20.000Z",
-      "image": "https://static01.nyt.com/images/2026/11/25/multimedia/25dc-trump-econ-zmgl/25dc-trump-econ-zmgl-mediumSquareAt3X-v2.jpg",
-      "author": "David E. Sanger",
-      "excerpt": "The retreat of the stock market in recent days shows how President Trump’s push to reinstall the company’s chief executive has collided with the realities of his other policies.",
-      "source": "NYT"
-    },
-    {
-      "title": "How to Talk to Your Family About A.I. Doom at Thanksgiving",
-      "link": "https://www.nytimes.com/2026/11/25/technology/thanksgiving-ai-doom-family.html",
-      "pubDate": "2026-11-25T22:44:56.000Z",
-      "image": "https://static01.nyt.com/images/2026/11/24/business/00thanksgiving-doom-white/00thanksgiving-doom-white-mediumSquareAt3X.jpg",
-      "author": "Emmy Martin",
-      "excerpt": "For people steeped in the world of artificial intelligence, the topic could be a minefield at this year’s dinner.",
-      "source": "NYT"
-    },
-    {
-      "title": "A Rumored $300 Million Score on Nvidia’s Stock Surge Isn’t Backed by Trading Records",
-      "link": "https://www.nytimes.com/2026/11/25/business/nvidia-stock-insider-trading-rumor.html",
-      "pubDate": "2026-11-25T21:36:24.000Z",
-      "image": "https://static01.nyt.com/images/2026/11/25/multimedia/25biz-nvidia-trade-misinfo-cpqz/25biz-nvidia-trade-misinfo-cpqz-mediumSquareAt3X.jpg",
-      "author": "Joe Rennison",
-      "excerpt": "Three data providers say they have no evidence to support the online claim that insider trading generated a 9,000 percent return.",
       "source": "NYT"
     }
   ]
