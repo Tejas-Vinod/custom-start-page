@@ -869,12 +869,39 @@
   ],
   "nytNews": [
     {
-      "title": "U.K. Releases Files on Peter Mandelson, Ambassador Tied to Jeffrey Epstein",
-      "link": "https://www.nytimes.com/2026/11/26/world/europe/peter-mandelson-epstein-uk.html",
-      "pubDate": "2026-11-26T21:40:09.000Z",
-      "image": "https://static01.nyt.com/images/2026/11/26/world/26int-uk-mandelson-apabut/26int-uk-mandelson-apabut-mediumSquareAt3X.jpg",
-      "author": "Stephen Castle",
-      "excerpt": "Documents released Thursday shed new light on the rushed appointment of Peter Mandelson and his continued ties to Global Counsel, a lobbying group.",
+      "title": "A City Fears the Loss of Its Pier After a Section Collapsed Into the Sea",
+      "link": "https://www.nytimes.com/2026/11/26/us/pacifica-pier-collapse-el-nino-king-tides.html",
+      "pubDate": "2026-11-27T00:46:52.000Z",
+      "image": "https://static01.nyt.com/images/2026/11/26/multimedia/26nat-ca-pacifica-1-fqgw/26nat-ca-pacifica-1-fqgw-mediumSquareAt3X.jpg",
+      "author": "Shaila Dewan and Breena Kerr",
+      "excerpt": "The famed pier in Pacifica, Calif., had long been crumbling. This week, a portion of it succumbed to fierce waves and toppled into the sea.",
+      "source": "NYT"
+    },
+    {
+      "title": "After the Iowa Detonation, a Family Gathered for an Unusual Thanksgiving",
+      "link": "https://www.nytimes.com/2026/11/26/us/iowa-detonation-family-thanksgiving.html",
+      "pubDate": "2026-11-27T00:33:25.000Z",
+      "image": "https://static01.nyt.com/images/2026/11/26/us/26nat-iowa-blast-dinner--02/26nat-iowa-blast-dinner--02-mediumSquareAt3X.jpg",
+      "author": "Maia Spoto",
+      "excerpt": "A family came together at a farmhouse in southeast Iowa the day after the explosion at an ammunition plant. It felt as if a storm had passed.",
+      "source": "NYT"
+    },
+    {
+      "title": "Thanksgiving Is Back on the Menu for Francesca Hong, the Failed Wisconsin Governor Candidate",
+      "link": "https://www.nytimes.com/2026/11/26/us/politics/thanksgiving-wisconsin-governor-francesca-hong.html",
+      "pubDate": "2026-11-26T21:15:36.000Z",
+      "image": "https://static01.nyt.com/images/2026/11/26/multimedia/26pol-hong-thanksgiving-jwtl/26pol-hong-thanksgiving-jwtl-mediumSquareAt3X.jpg",
+      "author": "Theodore Schleifer",
+      "excerpt": "Francesca Hong, who took heat over a social media post condemning the holiday during her run for the Democratic nomination, now has regrets — and is laughing it all off.",
+      "source": "NYT"
+    },
+    {
+      "title": "New Yorkers and Tourists Try to Salvage a Parade Day Postponed by Rain",
+      "link": "https://www.nytimes.com/2026/11/26/nyregion/macys-thanksgiving-day-parade-empty-streets.html",
+      "pubDate": "2026-11-26T20:53:41.000Z",
+      "image": "https://static01.nyt.com/images/2026/11/26/multimedia/26met-parade-empty1-vzwf/26met-parade-empty1-vzwf-mediumSquareAt3X.jpg",
+      "author": "Miles G. Cohen",
+      "excerpt": "Wind and rain grounded the beloved balloons that typically dominate the Thanksgiving skies, leaving the streets along the parade route mostly deserted on Thursday.",
       "source": "NYT"
     },
     {
@@ -905,21 +932,21 @@
       "source": "NYT"
     },
     {
+      "title": "Why the Georgia Tech Couple Became Another Viral TV Moment",
+      "link": "https://www.nytimes.com/2026/11/26/arts/television/georgia-tech-couple-fan-camera-ethics.html",
+      "pubDate": "2026-11-26T16:43:11.000Z",
+      "image": "https://static01.nyt.com/images/2026/11/26/multimedia/26xp-georgia-tech-couple-03-lgzq/26xp-georgia-tech-couple-03-lgzq-mediumSquareAt3X.jpg",
+      "author": "Sopan Deb",
+      "excerpt": "A young couple’s argument captured by an ESPN college football broadcast was the latest social media frenzy set off by a roving camera during a live event.",
+      "source": "NYT"
+    },
+    {
       "title": "Trump Administration’s Cuts to SNAP Threaten Free School Meals",
       "link": "https://www.nytimes.com/2026/11/26/us/politics/snap-food-stamps-school-meals.html",
       "pubDate": "2026-11-26T15:44:53.000Z",
       "image": "https://static01.nyt.com/images/2026/11/25/multimedia/00dc-schoolmeals-01-glzv/00dc-schoolmeals-01-glzv-mediumSquareAt3X.jpg",
       "author": "Linda Qiu",
       "excerpt": "The Trump administration’s cuts and proposed regulatory changes to the Supplemental Nutrition Assistance Program would have consequences for school lunch and breakfast.",
-      "source": "NYT"
-    },
-    {
-      "title": "Brazilian Duped Into Fighting for Russia: ‘War Is Hell’",
-      "link": "https://www.nytimes.com/2026/11/26/world/americas/brazil-soldier-ukraine-war.html",
-      "pubDate": "2026-11-26T15:27:03.000Z",
-      "image": null,
-      "author": "Ana Ionova",
-      "excerpt": "Dozens of Brazilians have joined the Russian army, some say lured by a pair of recruiters promising money and adventure. Here is one soldier’s story.",
       "source": "NYT"
     },
     {
@@ -943,19 +970,10 @@
     {
       "title": "Democrats Confront a Familiar Question: How Are You Going to Pay for That?",
       "link": "https://www.nytimes.com/2026/11/26/business/democrats-congress-agenda-taxes-spending.html",
-      "pubDate": "2026-11-26T14:50:27.000Z",
+      "pubDate": "2026-11-26T14:50:28.000Z",
       "image": "https://static01.nyt.com/images/2026/11/27/multimedia/27dc-dem-agenda--01-wzbj/27dc-dem-agenda--01-wzbj-mediumSquareAt3X-v2.jpg",
       "author": "Andrew Duehren",
       "excerpt": "Many Democratic plans are unlikely to become law under President Trump. But the party is still grappling with the difficult budget math of its agenda.",
-      "source": "NYT"
-    },
-    {
-      "title": "Gérard Depardieu Is Ordered to Stand Trial Over Rape Accusation",
-      "link": "https://www.nytimes.com/2026/11/26/world/europe/france-depardieu-rape-trial.html",
-      "pubDate": "2026-11-26T14:17:40.000Z",
-      "image": "https://static01.nyt.com/images/2026/11/26/multimedia/26france-depardieu-02-blqg/26france-depardieu-02-blqg-mediumSquareAt3X.jpg",
-      "author": "Catherine Porter",
-      "excerpt": "The actress Charlotte Arnould has accused the French movie star of raping her in 2018. He has denied any wrongdoing in the case.",
       "source": "NYT"
     },
     {
@@ -965,15 +983,6 @@
       "image": "https://static01.nyt.com/images/2026/11/26/multimedia/26xp-Thanksgiving-Parade-Balloons-02-kvzp/26xp-Thanksgiving-Parade-Balloons-02-kvzp-mediumSquareAt3X.jpg",
       "author": "Karsten Moran and Hari Raj",
       "excerpt": "After the Macy’s Thanksgiving Day Parade was postponed because of a powerful storm, crews worked through the night to deflate balloons before the bad weather arrived.",
-      "source": "NYT"
-    },
-    {
-      "title": "Lured by High Salaries, Some Brazilians Were Duped Into Fighting for Russia",
-      "link": "https://www.nytimes.com/2026/11/26/world/americas/brazil-recruiting-russia-army.html",
-      "pubDate": "2026-11-26T14:01:46.000Z",
-      "image": "https://static01.nyt.com/images/2026/02/02/multimedia/00int-brazil-russia-soldiers-01-pmvf/00int-brazil-russia-soldiers-01-pmvf-mediumSquareAt3X.jpg",
-      "author": "Ana Ionova, Leonardo Coelho and Lis Moriconi",
-      "excerpt": "Dozens of Brazilians were sent to the front lines with little training, and the high salaries they were promised, they say, turned out to be illusory.",
       "source": "NYT"
     },
     {
